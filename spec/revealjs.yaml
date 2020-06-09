@@ -1,0 +1,12 @@
+from: markdown
+to: revealjs
+standalone: true
+file-scope: true
+slide-level: 2
+toc: true
+fail-if-warnings: true
+variables:
+  revealjs-url: "reveal.js"
+  theme: "moon"
+  hashOneBasedIndex: true
+  embedded: true
