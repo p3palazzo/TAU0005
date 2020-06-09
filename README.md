@@ -1,2 +1,6 @@
-# tau0005
-História da Arquitetura e da Arte I FAU–UnB
+# História da Arquitetura e da Arte I FAU–UnB
+
+História do urbanismo, da arquitetura e da arte no contexto de seus
+condicionantes sociais, econômicos e políticos, desde os primórdios da
+civilização até o gótico.
+
