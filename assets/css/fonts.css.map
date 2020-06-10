@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "style.css",
+	"file": "fonts.css",
 	"sources": [
-		"style.scss",
+		"fonts.scss",
 		"../../usr/gem/gems/minima-2.5.1/_sass/minima.scss",
 		"../../usr/gem/gems/minima-2.5.1/_sass/minima/_base.scss",
 		"../../usr/gem/gems/minima-2.5.1/_sass/minima/_layout.scss",
