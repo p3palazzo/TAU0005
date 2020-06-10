@@ -25,13 +25,10 @@ jobs:
     - uses: actions/checkout@v2
       with:
         ref : 'gh-pages'
-        submodules: 'recursive'
     - uses: actions/download-artifact@v2
       with:
         name: site
         path: ${{ github.workspace }}/
-    - name: Setup Reveal.js
-      run: cd reveal.js && npm install
     - name: Commit changes to gh-pages branch
       run: |
         cd ${{ github.workspace }}
