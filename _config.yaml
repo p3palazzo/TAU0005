@@ -1,0 +1,78 @@
+# Content {{{1
+# General {{{2
+title: História da Arquitetura e da Arte I
+author:
+  name: Pedro Paulo Palazzo
+  email: palazzo@unb.br
+description: >-
+  História do urbanismo, da arquitetura e da arte no contexto de seus
+  condicionantes sociais, econômicos e políticos, desde os primórdios da
+  civilização até o gótico.
+baseurl: "/tau0005"
+url: "https://p3palazzo.github.io"
+lang: pt-BR
+
+# Build settings {{{1
+# Theme {{{2
+theme: minima
+header_pages:
+  - README.md
+minima:
+  date_format : "%e %B %Y"
+  social_links:
+    twitter   : p3palazzo
+    github    : p3palazzo
+    instagram : arqtrad
+
+# Build parameters {{{2
+#permalink: pretty
+markdown: kramdown
+kramdown:
+  auto_ids: true
+  header_offset: 1
+  parse_block_html: true
+  parse_span_html: true
+  transliterated_header_ids: true
+relative_links:
+  enabled: true
+  collections: true
+readme_index:
+  enabled:          true
+  remove_originals: true
+  with_frontmatter: true
+
+# Plugins {{{2
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - kramdown
+    # The following plugins are always used by GH-Pages
+  - jekyll-coffeescript
+  #- jekyll-default-layout
+  - jekyll-gist
+  #- jekyll-github-metadata
+  - jekyll-optional-front-matter
+  - jekyll-paginate
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+  - jekyll-relative-links
+  # Plugins incompatible with GitHub Pages
+  - jekyll-scholar
+
+# Exclude {{{2
+exclude:
+  - downloads
+  - reveal.js/examples
+  - reveal.js/test
+  - spec
+  - .vendor/
+  - .git/
+  - .github/
+  - Gemfile*
+  - "*/LICENSE"
+  - Makefile
+  - "*/package.json"
+  - .gitignore
+  - .gitmodules
+# vim: set foldmethod=marker :

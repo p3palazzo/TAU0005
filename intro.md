@@ -1,12 +1,9 @@
 ---
-title : Introdução à História da Arquitetura
-defaults: spec/revealjs
+title   : Introdução à História da Arquitetura
+subtitle: "TAU 0005 · Aula 1"
+author  : Pedro Paulo Palazzo
+lang    : pt-BR
 ---
-
-![Leo von Klenze, Reconstituição da acrópole de Atenas,
-1846](https://repository-images.githubusercontent.com/271059855/eef83080-aa80-11ea-9464-650e34bad83c){.stretch}
-
-------
 
 ![Thomas Cole. The Architect's Dream,
 1840](https://upload.wikimedia.org/wikipedia/commons/3/33/Cole_Thomas_The_dream_of_the_architect_210_Sun_Unedited.jpg){.stretch}
@@ -14,6 +11,8 @@ defaults: spec/revealjs
 ------
 
 # Recursos complementares
+
+Clicar para expandir
 
 <details>
 

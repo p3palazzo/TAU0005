@@ -7,12 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
-    - uses: docker://jekyll/builder:3.8.5
-      with:
-        args: >
-          /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
-    - name: Reveal.js
-      run: make revealjs
+    - name: Build the website
+      run: make
     - uses: actions/upload-artifact@v2
       with:
         name: site
@@ -27,11 +23,6 @@ jobs:
     - uses: actions/checkout@v2
       with:
         ref : 'gh-pages'
-        fetch-depth: 0
-    - name: Merge changes from master branch
-      run: |
-        git fetch --all
-        git merge origin/master
     - uses: actions/download-artifact@v2
       with:
         name: site

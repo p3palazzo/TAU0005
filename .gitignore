@@ -4,6 +4,9 @@ downloads
 
 #  Jekyll
 _site
+.vendor
+Gemfile.lock
+.jekyll-cache
 
 #  Latex
 ## Core latex/pdflatex auxiliary files:
