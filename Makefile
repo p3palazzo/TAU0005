@@ -11,7 +11,7 @@ SLIDES     := $(filter-out README.html,$(SLIDES_PRE))
 
 deploy : sitemap.xml $(SLIDES)
 
-%.html : %.md revealjs.yaml style.scss
+%.html : %.md revealjs.yaml
 	docker run --rm -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		pandoc/core:2.9.2.1 -o $@ -d spec/revealjs.yaml $<
 	mv $@ _site/
