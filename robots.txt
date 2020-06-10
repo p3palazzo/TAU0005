@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/tau0005/sitemap.xml
+Sitemap: https://p3palazzo.github.io/tau0005/sitemap.xml
