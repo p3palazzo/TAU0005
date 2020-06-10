@@ -63,17 +63,13 @@ plugins:
 # Exclude {{{2
 exclude:
   - downloads
-  - reveal.js/examples
-  - reveal.js/test
   - spec
   - .vendor/
   - .git/
   - .github/
   - Gemfile*
   - LICENSE
-  - "*/LICENSE"
   - Makefile
-  - "*/package.json"
   - .gitignore
   - .gitmodules
 # vim: set foldmethod=marker :

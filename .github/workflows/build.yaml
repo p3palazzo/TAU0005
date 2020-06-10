@@ -29,6 +29,8 @@ jobs:
       with:
         name: site
         path: ${{ github.workspace }}/
+    - name: Setup Reveal.js
+      run: cd reveal.js && npm install
     - name: Commit changes to gh-pages branch
       run: |
         cd ${{ github.workspace }}
