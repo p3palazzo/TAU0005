@@ -6,7 +6,7 @@ slide-level: 2
 toc        : true
 fail-if-warnings: true
 variables:
-  revealjs-url: "node_modules/reveal.js"
+  revealjs-url: "reveal.js"
   theme: "moon"
   hashOneBasedIndex: true
-  embedded: true
+  embedded: false
