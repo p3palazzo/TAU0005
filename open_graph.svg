@@ -20,6 +20,15 @@
    width="1280">
   <defs
      id="defs2">
+    <style
+       type="text/css"
+       id="title"> @font-face {
+        font-family: 'Trajan Pro';
+        font-style: normal;
+        font-weight: normal;
+        src: local('Trajan Pro'), local('TrajanPro-Regular'), url('assets/fonts/TrajanPro-Regular.woff') format('woff');
+        }
+    </style>
     <rect
        id="rect1572"
        height="42.994694"
@@ -101,14 +110,14 @@
        inkscape:label=""
        sodipodi:absref="https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg"
        id="image1565"
-       xlink:href="https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg"
+       xlink:href="downloads/Akropolis_by_Leo_von_Klenze.jpg"
        preserveAspectRatio="xMidYMid"
        height="232.00716"
        width="338.66666"
        x="0"
        y="-26.274906">
       <title
-         id="title1576">Leo von Klenze Akropolis 1846</title>
+         id="title1576">Leo von Klenze, Akropolis, 1846</title>
     </image>
   </g>
   <g
