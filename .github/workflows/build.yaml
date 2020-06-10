@@ -8,7 +8,9 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build the website
-      run: make
+      run: |
+        mkdir -p _site && chmod 777 _site
+        make
     - uses: actions/upload-artifact@v2
       with:
         name: site
