@@ -63,6 +63,7 @@ plugins:
 # Exclude {{{2
 exclude:
   - downloads
+  - reveal.js
   - spec
   - .vendor/
   - .git/
