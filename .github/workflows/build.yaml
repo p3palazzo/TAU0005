@@ -25,6 +25,8 @@ jobs:
     - uses: actions/checkout@v2
       with:
         ref : 'gh-pages'
+        with:
+          submodules: 'recursive'
     - uses: actions/download-artifact@v2
       with:
         name: site
@@ -32,6 +34,7 @@ jobs:
     - name: Commit changes to gh-pages branch
       run: |
         cd ${{ github.workspace }}
+        cd reveal.js && npm install && cd -
         git config --local user.email "runner@github.com"
         git config --local user.name  "Automated build"
         git add .
