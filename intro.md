@@ -4,12 +4,21 @@ subtitle: "TAU 0005 · Aula 1"
 author  : Pedro Paulo Palazzo
 lang    : pt-BR
 title-slide-attributes:
-    data-background-image: https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg
-    data-background-size: cover
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/3/33/Cole_Thomas_The_dream_of_the_architect_210_Sun_Unedited.jpg
+  data-background-size: cover
 ---
 
-![Thomas Cole. The Architect's Dream,
-1840](https://upload.wikimedia.org/wikipedia/commons/3/33/Cole_Thomas_The_dream_of_the_architect_210_Sun_Unedited.jpg){.stretch}
+# 
+
+## Resultados de aprendizado
+
+- Ler criticamente textos de história da arte e da arquitetura
+
+- Dominar as regras de composição e os elementos arquitetônicos das
+  tradições fundadoras da arquitetura ocidental;
+
+- Decompor as cidades e as edificações em seus aspectos bioclimáticos,
+  econômico-técnicos, estético-simbólicos, e topológicos.
 
 ------
 
