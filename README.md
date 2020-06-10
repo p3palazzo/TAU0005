@@ -1,4 +1,6 @@
 ---
+title : " "
+layout: default
 ---
 
 # História da Arquitetura e da Arte I FAU–UnB
