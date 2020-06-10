@@ -1,8 +1,11 @@
 ---
-title   : Introdução à História da Arquitetura
+title   : "Introdução à História da Arquitetura"
 subtitle: "TAU 0005 · Aula 1"
 author  : Pedro Paulo Palazzo
 lang    : pt-BR
+title-slide-attributes:
+    data-background-image: https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg
+    data-background-size: cover
 ---
 
 ![Thomas Cole. The Architect's Dream,
@@ -11,8 +14,6 @@ lang    : pt-BR
 ------
 
 # Recursos complementares
-
-Clicar para expandir
 
 <details>
 
