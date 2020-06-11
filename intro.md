@@ -8,8 +8,6 @@ title-slide-attributes:
   data-background-size: cover
 ---
 
-![Build](https://github.com/p3palazzo/tau0005/workflows/Build/badge.svg)
-
 # Objetivos da cadeia de Teoria e História
 
 ## Conhecimento de objetos da História
