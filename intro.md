@@ -47,6 +47,21 @@ title-slide-attributes:
   - Arquiteto como trabalhador
   - Arquitetura como organização produtiva
 
+------
+
+> A ciência do arquiteto é ornada de muitas disciplinas e de vários
+> saberes, estando a sua dinâmica presente em todas as obras oriundas
+> das restantes artes. Nasce da prática e da teoria. […]
+>
+> […] E assim, parece que aquele que pretende ser arquiteto […] deverá
+> ser versado em literatura, perito no desenho gráfico, erudito em
+> geometria, deverá conhecer muitas narrativas de fatos históricos.
+> Ouvir diligentemente os filósofos, saber de música, não ser ignorante
+> de medicina, conhecer as decisões dos jurisconsultos, ter conhecimento
+> da astronomia e das orientações da abóbada celeste.
+>
+> Vitrúvio, *Tratado de arquitetura* I, i
+
 ## História das construções
 
 - Ambiente construído para além do domínio de atuação dos arquitetos
