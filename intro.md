@@ -18,9 +18,25 @@ title-slide-attributes:
 
 - Realidades possíveis
 
-## Competências e Resultados de aprendizagem
+## História como modo de conhecimento
 
-- Ler criticamente textos de história da arte e da arquitetura
+- História e Literatura (Aristóteles)
+
+- História e memória (Halbwachs)
+
+- Teoria e História (Muratori)
+
+## Resultados de aprendizagem (Conteúdo)
+
+- Alargar e integrar o entendimento sobre as componentes da tríade
+  vitruviana;
+
+- Situar a história do ofício da Arquitetura como um subtema da história
+  da produção do ambiente construído.
+
+## Competências profissionais
+
+- Ler criticamente textos de história da arte e da arquitetura;
 
 - Dominar as regras de composição e os elementos arquitetônicos das
   tradições fundadoras da arquitetura ocidental;
@@ -34,7 +50,9 @@ title-slide-attributes:
 
 - Arquitetura(s) enquanto objetos construídos ou imaginados
 
-## História do ofício da Arquitetura
+# História do ofício da Arquitetura
+
+## Arquitetura como ofício
 
 - Palavra ≠ Conceito
 
@@ -47,30 +65,46 @@ title-slide-attributes:
   - Arquiteto como trabalhador
   - Arquitetura como organização produtiva
 
-------
+## Definição da Arquitetura segundo Vitrúvio (século I a.C.)
 
 > A ciência do arquiteto é ornada de muitas disciplinas e de vários
 > saberes, estando a sua dinâmica presente em todas as obras oriundas
-> das restantes artes. Nasce da prática e da teoria. […]
+> das restantes artes. Nasce da prática e da teoria. [...]
 >
-> […] E assim, parece que aquele que pretende ser arquiteto […] deverá
-> ser versado em literatura, perito no desenho gráfico, erudito em
-> geometria, deverá conhecer muitas narrativas de fatos históricos.
+> [...] E assim, parece que aquele que pretende ser arquiteto [...]
+> deverá ser versado em literatura, perito no desenho gráfico, erudito
+> em geometria, deverá conhecer muitas narrativas de fatos históricos.
 > Ouvir diligentemente os filósofos, saber de música, não ser ignorante
 > de medicina, conhecer as decisões dos jurisconsultos, ter conhecimento
 > da astronomia e das orientações da abóbada celeste.
 >
 > Vitrúvio, *Tratado de arquitetura* I, i
 
-## História das construções
+## Arquitetura, atribuição do arquiteto
+
+> Citação do Artigas?
+
+# História das construções
+
+## Arquitetura como construção
 
 - Ambiente construído para além do domínio de atuação dos arquitetos
 
 - Conceito de casa vs. projetação
 
+- Valores elitistas no uso da linguagem
+
 . . .
 
 - E as cidades?
+
+## Alguns (des)encontros entre Arquitetura e Construção
+
+> Arquitetura é fazer cantar o ponto de apoio. (Auguste Perret)
+
+> Arquitetura é construção feita com arte. (Lucio Costa)
+
+> Arquitetura não é importante. (Oscar Niemeyer)
 
 ## Estágios da história da cidade
 
@@ -84,6 +118,30 @@ title-slide-attributes:
 
 - Cidade como commodity (investimento)
 
+# Firmitas · Utilitas · Venustas
+
+## Firmitas
+
+- Construção: processo construtivo, estabilidade estrutural,
+  durabilidade, sustentabilidade e mantenibilidade
+
+- Tecnologia
+
+## Utilitas
+
+Função: "funcionalidade", conforto ambiental
+
+- Projeto, Tecnologia
+
+## Venustas
+
+Vai além da simples "beleza" sem excluí-la.
+
+- Teoria e História, Projeto
+
+# Arquitetura como cultura
+
+- Caráter
 
 # Recursos complementares
 
