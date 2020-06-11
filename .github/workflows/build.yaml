@@ -34,10 +34,9 @@ jobs:
     - name: Commit changes to gh-pages branch
       run: |
         cd ${{ github.workspace }}
-        cd reveal.js && npm install && cd -
         git config --local user.email "runner@github.com"
         git config --local user.name  "Automated build"
         git add .
         git commit -m "${{ env.commit_message }}" -a || git status
-        git pull
+        git pull --ff-only
         git push
