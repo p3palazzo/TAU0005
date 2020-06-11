@@ -8,9 +8,17 @@ title-slide-attributes:
   data-background-size: cover
 ---
 
-# 
+# Objetivos da cadeia de Teoria e História
 
-## Resultados de aprendizado
+## Conhecimento de objetos da História
+
+- Cultura geral
+
+- Referências projetuais
+
+- Realidades possíveis
+
+## Competências e Resultados de aprendizagem
 
 - Ler criticamente textos de história da arte e da arquitetura
 
@@ -18,9 +26,49 @@ title-slide-attributes:
   tradições fundadoras da arquitetura ocidental;
 
 - Decompor as cidades e as edificações em seus aspectos bioclimáticos,
-  econômico-técnicos, estético-simbólicos, e topológicos.
+  técnico-econômicos, estético-simbólicos, e topológicos.
 
-------
+# Enquadramento disciplinar da História da Arquitetura
+
+- Arquitetura enquanto ofício
+
+- Arquitetura(s) enquanto objetos construídos ou imaginados
+
+## História do ofício da Arquitetura
+
+- Palavra ≠ Conceito
+
+. . .
+
+- Diferentes modos de fazer
+  - Intenções e condicionantes
+
+- Discurso crítico vs. Inserção no processo produtivo
+  - Arquiteto como trabalhador
+  - Arquitetura como organização produtiva
+
+## História das construções
+
+- Ambiente construído para além do domínio de atuação dos arquitetos
+
+- Conceito de casa vs. projetação
+
+. . .
+
+- E as cidades?
+
+## Estágios da história da cidade
+
+- Cidade como artefato (obra de arte)
+
+. . .
+
+- Cidade como produto (consumo)
+
+. . .
+
+- Cidade como commodity (investimento)
+
 
 # Recursos complementares
 
