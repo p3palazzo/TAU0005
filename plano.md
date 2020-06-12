@@ -23,20 +23,21 @@ Objetivos de aprendizagem
 Geral
 -----
 
-Adquirir domínio operativo dos principais conceitos teóricos
-relativos à arquitetura pré-histórica, antiga e medieval.
-
+Adquirir referências culturais e operativas a partir da história das
+construções e das cidades desde a Antiguidade até o século XV.
 
 Específicos
 -----------
 
-- Construir repertório de referências culturais e projetuais
-  a partir de exemplares canônicos de arquitetura e urbanismo;
-- Entender a cidade como processo social e histórico dotado
-  de dimensões ambientais, estéticas, econômicas,
-  funcionais, sintáticas e topológicas.
-- Situar o pensamento teórico sobre arte e arquitetura
-  numa perspectiva histórica.
+- Atentar para a diversidade de tradições culturais e de soluções
+  técnicas e estéticas para os problemas da construção de edificações e
+  de conjuntos urbanos;
+
+- Dominar as regras de composição e os elementos arquitetônicos das
+  tradições fundadoras da arquitetura ocidental;
+
+- Decompor as cidades e as edificações em seus aspectos bioclimáticos,
+  técnico-econômicos, e de expressão plástica.
 
 Metodologia
 ===========

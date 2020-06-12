@@ -34,24 +34,6 @@ title-slide-attributes:
 
 - Teoria e História (Muratori)
 
-## Resultados de aprendizagem (Conteúdo)
-
-- Alargar e integrar o entendimento sobre as componentes da tríade
-  vitruviana;
-
-- Situar a história do ofício da Arquitetura como um subtema da história
-  da produção do ambiente construído.
-
-## Competências profissionais
-
-- Ler criticamente textos de história da arte e da arquitetura;
-
-- Dominar as regras de composição e os elementos arquitetônicos das
-  tradições fundadoras da arquitetura ocidental;
-
-- Decompor as cidades e as edificações em seus aspectos bioclimáticos,
-  técnico-econômicos, estético-simbólicos, e topológicos.
-
 # Enquadramento disciplinar da História da Arquitetura
 
 - Arquitetura enquanto ofício
@@ -90,10 +72,6 @@ title-slide-attributes:
 >
 > Vitrúvio, *Tratado de arquitetura* I, i
 
-## Arquitetura, atribuição do arquiteto
-
-> Citação do Artigas?
-
 # História das construções
 
 ## Arquitetura como construção
@@ -108,14 +86,6 @@ title-slide-attributes:
 
 - E as cidades?
 
-## Alguns (des)encontros entre Arquitetura e Construção
-
-> Arquitetura é fazer cantar o ponto de apoio. (Auguste Perret)
-
-> Arquitetura é construção feita com arte. (Lucio Costa)
-
-> Arquitetura não é importante. (Oscar Niemeyer)
-
 ## Estágios da história da cidade
 
 - Cidade como artefato (obra de arte)
@@ -127,6 +97,12 @@ title-slide-attributes:
 . . .
 
 - Cidade como commodity (investimento)
+
+## Alguns (des)encontros entre Arquitetura e Construção
+
+> Arquitetura é construção feita com arte. (Lucio Costa)
+
+> Arquitetura é espaço socialmente organizado. (Henri Lefèbvre)
 
 # Firmitas · Utilitas · Venustas
 
