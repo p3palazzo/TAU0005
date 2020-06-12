@@ -145,14 +145,8 @@ Vai além da simples "beleza" sem excluí-la.
 
 # Recursos complementares
 
-<details>
+<iframe style="text-align: center;" src="https://www.youtube-nocookie.com/embed/YQZGHr9qJoQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0">
 
-  <summary>Gustavo Rocha-Peixoto. A estratégia da Aranha</summary>
+  [Ver no YouTube](https://www.youtube-nocookie.com/embed/YQZGHr9qJoQ)
 
-  <iframe style="text-align: center;" src="https://www.youtube-nocookie.com/embed/YQZGHr9qJoQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="560" height="315" frameborder="0">
-
-    [Ver no YouTube](https://www.youtube-nocookie.com/embed/YQZGHr9qJoQ)
-
-  </iframe>
-
-</details>
+</iframe>

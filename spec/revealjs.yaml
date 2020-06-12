@@ -9,4 +9,7 @@ variables:
   revealjs-url: "reveal.js"
   theme: "moon"
   hashOneBasedIndex: true
-  embedded: false
+  hash: true
+  width: 1440
+  height: 900
+  center: false
