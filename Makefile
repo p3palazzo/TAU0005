@@ -16,6 +16,6 @@ deploy : sitemap.xml $(SLIDES)
 		pandoc/core:2.9.2.1 -o $@ -d spec/revealjs.yaml $<
 	mv $@ _site/
 
-_site/sitemap.xml : $(BUT)
+_site/sitemap.xml : $(BUT) README.md
 	docker run --rm -v "`pwd`:/srv/jekyll" \
 		jekyll/builder:4.0 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
