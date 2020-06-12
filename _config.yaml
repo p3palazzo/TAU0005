@@ -39,19 +39,15 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - kramdown
+  #- kramdown
     # The following plugins are always used by GH-Pages
   - jekyll-coffeescript
-  #- jekyll-default-layout
-  - jekyll-gist
-  #- jekyll-github-metadata
   - jekyll-optional-front-matter
   - jekyll-paginate
   - jekyll-readme-index
-  - jekyll-titles-from-headings
   - jekyll-relative-links
   # Plugins incompatible with GitHub Pages
-  - jekyll-scholar
+  #- jekyll-scholar
 
 # Exclude {{{2
 exclude:

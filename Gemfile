@@ -11,12 +11,10 @@ group :jekyll_plugins do
   gem "sassc"
   # Required GitHub Pages plugins below
   gem "jekyll-coffeescript"
-  gem "jekyll-gist"
   gem "jekyll-optional-front-matter"
   gem "jekyll-paginate"
   gem "jekyll-readme-index"
   gem "jekyll-relative-links"
-  gem "jekyll-titles-from-headings"
   # Gems incompatible with GitHub Pages
   #gem "jekyll-scholar"
   # Gems required by Jekyll 4
