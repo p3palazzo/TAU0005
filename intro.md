@@ -10,6 +10,14 @@ title-slide-attributes:
 
 # Por que teoria e história?
 
+- História na formação profissional em arquitetura
+
+- História como especialidade dentro da teoria ou vice-versa
+
+. . .
+
+- História do quê?
+
 ## Conhecimento de objetos da História
 
 - Cultura geral
@@ -49,6 +57,8 @@ title-slide-attributes:
 - Arquitetura enquanto ofício
 
 - Arquitetura(s) enquanto objetos construídos ou imaginados
+
+- Arquitetura "com A maiúsculo" e construções
 
 # História do ofício da Arquitetura
 
