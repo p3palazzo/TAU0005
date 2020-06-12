@@ -11,6 +11,7 @@ group :jekyll_plugins do
   gem "sassc"
   # Required GitHub Pages plugins below
   gem "jekyll-coffeescript"
+  gem "jekyll-gist"
   gem "jekyll-optional-front-matter"
   gem "jekyll-paginate"
   gem "jekyll-readme-index"
@@ -19,6 +20,7 @@ group :jekyll_plugins do
   # Gems incompatible with GitHub Pages
   #gem "jekyll-scholar"
   # Gems required by Jekyll 4
+  gem "stringex"
 end
 # Jekyll-feed had to be downgraded from 0.12 to 0.11 due to compatibility
 # with github-pages (which presently does not support jekyll 4.0).

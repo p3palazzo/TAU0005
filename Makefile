@@ -18,4 +18,4 @@ deploy : sitemap.xml $(SLIDES)
 
 _site/sitemap.xml : $(BUT) README.md
 	docker run --rm -v "`pwd`:/srv/jekyll" \
-		jekyll/builder:4.0 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
+		jekyll/builder:4.1 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
