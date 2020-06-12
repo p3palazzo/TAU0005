@@ -1,3 +1,7 @@
+---
+title : Plano de ensino
+---
+
 Apresentação da disciplina
 ==========================
 
