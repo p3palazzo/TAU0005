@@ -1,27 +1,24 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.1"
 gem "minima"
-#gem "minima-scholar", "~> 2.5.1"
+#gem "minima-scholar", "~> 2.5.3"
 #gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed"#, "~> 0.11"
   gem "jekyll-sitemap"
   gem "jekyll-seo-tag"
-  gem "kramdown"
   # Sassc is preferred to the legacy ruby-sass
-  #gem "sassc"
+  gem "sassc"
   # Required GitHub Pages plugins below
   gem "jekyll-coffeescript"
-  #gem "jekyll-default-layout"
-  gem "jekyll-gist"
-  #gem "jekyll-github-metadata"
   gem "jekyll-optional-front-matter"
   gem "jekyll-paginate"
   gem "jekyll-readme-index"
   gem "jekyll-relative-links"
   gem "jekyll-titles-from-headings"
   # Gems incompatible with GitHub Pages
-  gem "jekyll-scholar"
+  #gem "jekyll-scholar"
+  # Gems required by Jekyll 4
 end
 # Jekyll-feed had to be downgraded from 0.12 to 0.11 due to compatibility
 # with github-pages (which presently does not support jekyll 4.0).

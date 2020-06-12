@@ -26,13 +26,6 @@ minima:
 
 # Build parameters {{{2
 #permalink: pretty
-markdown: kramdown
-kramdown:
-  auto_ids: true
-  header_offset: 1
-  parse_block_html: true
-  parse_span_html: true
-  transliterated_header_ids: true
 relative_links:
   enabled: true
   collections: true
