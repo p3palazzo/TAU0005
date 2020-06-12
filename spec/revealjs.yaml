@@ -7,9 +7,9 @@ toc        : true
 fail-if-warnings: true
 variables:
   revealjs-url: "reveal.js"
-  theme: "moon"
+  theme: "white"
   hashOneBasedIndex: true
   hash: true
-  width: 1440
-  height: 900
+  width: 1280
+  height: 800
   center: false

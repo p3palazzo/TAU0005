@@ -1,14 +1,14 @@
 ---
-title   : "Introdução à História da Arquitetura"
+title   : "Introdução à Teoria e História da Arquitetura"
 subtitle: "TAU 0005 · Aula 1"
-author  : Pedro Paulo Palazzo
+author  : "Pedro Paulo Palazzo · FAU--UnB"
 lang    : pt-BR
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/3/33/Cole_Thomas_The_dream_of_the_architect_210_Sun_Unedited.jpg
   data-background-size: cover
 ---
 
-# Objetivos da cadeia de Teoria e História
+# Por que teoria e história?
 
 ## Conhecimento de objetos da História
 
