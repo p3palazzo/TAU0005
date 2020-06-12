@@ -145,6 +145,8 @@ Vai além da simples "beleza" sem excluí-la.
 
 # Recursos complementares
 
+------
+
 <iframe style="text-align: center;" src="https://www.youtube-nocookie.com/embed/YQZGHr9qJoQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="800" height="450" frameborder="0">
 
   [Ver no YouTube](https://www.youtube-nocookie.com/embed/YQZGHr9qJoQ)
