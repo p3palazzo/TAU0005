@@ -26,6 +26,7 @@ minima:
 
 # Build parameters {{{2
 #permalink: pretty
+timezone: America/Sao_Paulo
 relative_links:
   enabled: true
   collections: true
@@ -49,17 +50,14 @@ plugins:
   # Plugins incompatible with GitHub Pages
   #- jekyll-scholar
 
-# Exclude {{{2
+# Keep and Exclude {{{2
+keep_files:
+  - reveal.js
 exclude:
   - downloads
   - reveal.js
   - spec
-  - .vendor/
-  - .git/
-  - .github/
   - Gemfile*
   - LICENSE
   - Makefile
-  - .gitignore
-  - .gitmodules
 # vim: set foldmethod=marker :

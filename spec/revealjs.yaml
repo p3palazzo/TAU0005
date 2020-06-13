@@ -4,6 +4,7 @@ standalone : true
 file-scope : true
 slide-level: 2
 toc        : true
+css        : "assets/css/slide.css"
 fail-if-warnings: true
 variables:
   revealjs-url: "reveal.js"

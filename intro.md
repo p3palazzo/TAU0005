@@ -5,7 +5,6 @@ author  : "Pedro Paulo Palazzo · FAU--UnB"
 lang    : pt-BR
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/3/33/Cole_Thomas_The_dream_of_the_architect_210_Sun_Unedited.jpg
-  data-background-size: cover
 ---
 
 # Por que teoria e história?
@@ -70,7 +69,11 @@ title-slide-attributes:
 > de medicina, conhecer as decisões dos jurisconsultos, ter conhecimento
 > da astronomia e das orientações da abóbada celeste.
 >
-> Vitrúvio, *Tratado de arquitetura* I, i
+> <footer>
+>
+> --- Vitrúvio, <cite>Tratado de arquitetura</cite> I, i
+>
+> </footer>
 
 # História das construções
 
@@ -100,9 +103,22 @@ title-slide-attributes:
 
 ## Alguns (des)encontros entre Arquitetura e Construção
 
-> Arquitetura é construção feita com arte. (Lucio Costa)
+:::::: {.columns}
+::: {.column width="50%"}
 
-> Arquitetura é espaço socialmente organizado. (Henri Lefèbvre)
+> Arquitetura é construção feita com arte.
+>
+> <footer>--- Lucio Costa</footer>
+
+:::
+::: {.column width="50%"}
+
+> Arquitetura é espaço socialmente organizado.
+>
+><footer>--- Henri Lefèbvre</footer>
+
+:::
+::::::
 
 # Firmitas · Utilitas · Venustas
 

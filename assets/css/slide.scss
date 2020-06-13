@@ -1,0 +1,39 @@
+---
+---
+
+// Jekyll ---------------------------------------------
+@import "{{ site.theme }}";
+// Reveal.js ------------------------------------------
+@import "../reveal.js/css/theme/template/mixins";
+@import "../reveal.js/css/theme/template/settings";
+@import url(../../reveal.js/lib/font/source-sans-pro/source-sans-pro.css);
+// Customization
+@import "fonts";
+@import "tau0005";
+@import "../reveal.js/css/theme/template/theme";
+
+section.has-dark-background,
+section#title-slide {
+	&, h1, h2, h3, h4, h5, h6 {
+		color: #f4dcb4;
+    text-shadow: 0 0 20px #294469, 0 0 10px #294469;
+	}
+  p {
+    font-family: $headingFont;
+    font-weight: bold;
+    text-transform: uppercase;
+  }
+  data-background-size: cover;
+  text-shadow: 0 0 20px #294469;
+}
+
+blockquote {
+  font-size: $heading4Size;
+  text-align: left;
+  footer {
+    text-align: right;
+    cite {
+      font-style: normal;
+    }
+  }
+}
