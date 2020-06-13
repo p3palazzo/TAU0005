@@ -8,6 +8,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2
+      with:
+        submodules: 'recursive'
     - name: Build the website
       run: make
     - uses: actions/upload-artifact@v2
