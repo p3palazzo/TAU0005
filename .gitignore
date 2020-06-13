@@ -11,6 +11,7 @@ _site
 .vendor
 Gemfile.lock
 .jekyll-cache
+.slides
 
 #  Latex
 ## Core latex/pdflatex auxiliary files:

@@ -4,17 +4,18 @@ vpath %.scss assets/css
 vpath %.xml _site
 vpath %.yaml spec
 
-ANYTHING    = $(wildcard *)
-BUT        := $(filter-out *.md,$(ANYTHING))
-MARKDOWN    = $(wildcard *.md)
-SLIDES_PRE := $(patsubst %.md,_site/%.html,$(MARKDOWN))
-SLIDES     := $(filter-out _site/README.html,$(SLIDES_PRE))
+ANYTHING  = $(wildcard *)
+BUT       := $(filter-out *.md,$(ANYTHING))
+MARKDOWN  = $(filter-out README.md,$(wildcard *.md))
+SLIDES   := $(patsubst %.md,_site/%.html,$(MARKDOWN))
 
-deploy : sitemap.xml $(SLIDES)
+.slides : $(SLIDES)
+	touch .slides
 
 _site/sitemap.xml : $(BUT) README.md
 	docker run --rm -v "`pwd`:/srv/jekyll" \
 		jekyll/jekyll:4.1.0 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
+	-rm .slides
 
 _site/%.html : %.md revealjs.yaml
 	docker run --rm -v "`pwd`:/data" --user "`id -u`:`id -g`" \
