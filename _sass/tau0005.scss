@@ -1,0 +1,21 @@
+// Override theme settings ----------------------------
+// (see reveal.js/css/theme/template/settings.scss)
+$backgroundColor: #faecd6;
+$mainColor: #284368;
+$headingColor: #284368;
+
+$mainFontSize: 32px;
+$mainFont: 'Source Sans Pro', Helvetica, sans-serif;
+$headingFont: 'Trajan Pro', 'Source Serif Pro', serif;
+$headingTextShadow: none;
+$headingLetterSpacing: normal;
+$headingTextTransform: uppercase;
+$headingFontWeight: normal;
+$linkColor: #9f613b;
+$linkColorHover: lighten( $linkColor, 15% );
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+
+$heading1Size: 2.0em;
+$heading2Size: 1.3em;
+$heading3Size: 1.0em;
+$heading4Size: 1.0em;
