@@ -11,9 +11,7 @@ jobs:
       with:
         submodules: 'recursive'
     - name: Build the website
-      run: |
-        make _site/sitemap.xml
-        make -B slides
+      run: make -B
     - uses: actions/upload-artifact@v2
       with:
         name: site

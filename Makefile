@@ -9,9 +9,11 @@ BUT       := $(filter-out *.md,$(ANYTHING))
 MARKDOWN  = $(filter-out README.md,$(wildcard *.md))
 SLIDES   := $(patsubst %.md,_site/%.html,$(MARKDOWN))
 
+deploy : jekyll slides
+
 slides : $(SLIDES)
 
-_site/sitemap.xml : $(BUT) README.md
+jekyll : $(BUT) README.md
 	docker run --rm -v "`pwd`:/srv/jekyll" \
 		jekyll/jekyll:4.1.0 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
 
