@@ -10,7 +10,7 @@ civilização até o gótico.
 
 ## Programa
 
- 1. [Introdução à História da Arquitetura](intro.md)
+ 1. [Introdução à História da Arquitetura](01-intro.md)
  2. Primórdios da arquitetura
  3. Mundo grego
  4. Índia e Sudeste asiático
