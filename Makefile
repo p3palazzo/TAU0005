@@ -7,7 +7,8 @@ vpath %.yaml spec
 ANYTHING  = $(wildcard *)
 BUT      := $(filter-out *.md,$(ANYTHING))
 MARKDOWN  = $(filter-out README.md,$(wildcard *.md))
-SLIDES   := $(patsubst %.md,_site/%.html,$(MARKDOWN))
+REVEALJS  = $(wildcard [0-9][0-9]-*.md)
+SLIDES   := $(patsubst %.md,_site/%.html,$(REVEALJS))
 
 deploy : jekyll slides
 
