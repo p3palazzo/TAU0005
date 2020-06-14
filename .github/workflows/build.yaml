@@ -11,10 +11,20 @@ jobs:
       with:
         submodules: 'recursive'
     - name: Build the website
-      run: make -B
-    - uses: actions/upload-artifact@v2
+      run: |
+        docker run --rm -v "`pwd`:/srv/jekyll" \
+          jekyll/jekyll:4.1.0 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
+    - name: Upload site
+      uses: actions/upload-artifact@v2
       with:
         name: site
+        path: '_site/*'
+    - name: Convert slides
+      run: rm -rf _site && mkdir _site && make slides
+    - name: Upload slides
+      uses: actions/upload-artifact@v2
+      with:
+        name: slides
         path: '_site/*'
   commit:
     runs-on: ubuntu-latest
@@ -27,9 +37,15 @@ jobs:
       with:
         ref : 'gh-pages'
         submodules: 'recursive'
-    - uses: actions/download-artifact@v2
+    - name: Download site
+      uses: actions/download-artifact@v2
       with:
         name: site
+        path: ${{ github.workspace }}/
+    - name: Download slides
+      uses: actions/download-artifact@v2
+      with:
+        name: slides
         path: ${{ github.workspace }}/
     - name: Commit changes to gh-pages branch
       run: |
