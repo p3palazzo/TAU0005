@@ -24,7 +24,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Convert slides
-      run: make slides
+      run: mkdir -p _site && make slides
     - name: Upload slides
       uses: actions/upload-artifact@v2
       with:
