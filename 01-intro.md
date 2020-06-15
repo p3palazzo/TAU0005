@@ -8,15 +8,22 @@ title-slide-attributes:
   data-background-size: cover
 ---
 
+# Funcionamento da disciplina
+
+- Conteúdo: livro-texto
+- Plano de estudos
+
 # Por que teoria e história?
 
 - História na formação profissional em arquitetura
+  - História como Teoria da arquitetura
 
-- História como especialidade dentro da teoria ou vice-versa
+- Arquitetura como especialidade da história
+  - Teoria da arquitetura como história da teoria
 
 . . .
 
-- História do quê?
+- Teoria e História do quê?
 
 ## Conhecimento de objetos da História
 
@@ -40,9 +47,29 @@ title-slide-attributes:
 
 - Arquitetura(s) enquanto objetos construídos ou imaginados
 
+. . .
+
 - Arquitetura "com A maiúsculo" e construções
 
-# História do ofício da Arquitetura
+## Alguns (des)encontros entre Arquitetura e Construção
+
+:::::: {.columns}
+::: {.column width="50%"}
+
+> Arquitetura é construção feita com arte.
+>
+> <footer>--- Lucio Costa</footer>
+
+:::
+::: {.column width="50%"}
+
+> Arquitetura é espaço socialmente organizado.
+>
+><footer>--- Henri Lefèbvre</footer>
+
+:::
+::::::
+
 
 ## Arquitetura como ofício
 
@@ -76,7 +103,6 @@ title-slide-attributes:
 >
 > </footer>
 
-# História das construções
 
 ## Arquitetura como construção
 
@@ -102,25 +128,6 @@ title-slide-attributes:
 
 - Cidade como commodity (investimento)
 
-## Alguns (des)encontros entre Arquitetura e Construção
-
-:::::: {.columns}
-::: {.column width="50%"}
-
-> Arquitetura é construção feita com arte.
->
-> <footer>--- Lucio Costa</footer>
-
-:::
-::: {.column width="50%"}
-
-> Arquitetura é espaço socialmente organizado.
->
-><footer>--- Henri Lefèbvre</footer>
-
-:::
-::::::
-
 # Firmitas · Utilitas · Venustas
 
 ## Firmitas
@@ -141,10 +148,6 @@ Função: "funcionalidade", conforto ambiental
 Vai além da simples "beleza" sem excluí-la.
 
 - Teoria e História, Projeto
-
-# Arquitetura como cultura
-
-- Caráter
 
 # Recursos complementares
 
