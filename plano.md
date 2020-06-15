@@ -29,7 +29,7 @@ construções e das cidades desde a Antiguidade até o século XV.
 Específicos
 -----------
 
-- Plano de estudos **obrigatório:**
+- Plano de estudos **comum:**
   - Desenvolver a capacidade de interpretar e discutir um texto
     acadêmico, fazendo perguntas ou levantando problemas pertinentes.
 - Plano de estudos **Teoria e prática da arquitetura tradicional:**
@@ -54,6 +54,28 @@ Metodologia
 Estratégias de aprendizagem
 ---------------------------
 
+O aproveitamento na disciplina é avaliado pelo cumprimento do plano de
+estudos escolhido pelo aluno. O plano de estudos deve ser formulado a
+partir dos módulos indicados abaixo:
+
+- Módulo comum, obrigatório para todos os planos de estudos:
+  - **Leitura e discussão de textos:** Resenhas críticas dos capítulos
+    do livro-texto, e de algumas leituras complementares à escolha do
+    aluno;
+- Um dos módulos a seguir, à escolha:
+  - **Teoria e prática da arquitetura tradicional:** consiste em
+    desenvolver a capacidade de realizar composições espaciais,
+    concepções construtivas e esquemas decorativos pertencentes às
+    tradições arquitetônicas do mundo antigo e medieval, por meio de
+    exercícios de documentação, desenho e maquete;
+  - **Pesquisa e revisão crítica em história da arquitetura:** consiste
+    em adquirir proficiência em teorias e métodos de pesquisa
+    historiográfica, por meio de atividades de documentação de
+    bibliografia e de referências iconográficas, seguidas da
+    organização, crítica e produção de textos acadêmicos;
+  - Plano de estudos personalizado, a ser aprovado pelo professor da
+    disciplina, combinando atividades dos módulos acima.
+
 Atividades didáticas
 --------------------
 
@@ -68,29 +90,11 @@ As atividades versam, predominantemente, sobre
 as Dimensões Morfológicas do Processo de Urbanização em perspectiva
 diacrônica e operativa.
 
-Plano de estudos
-----------------
-
-O aproveitamento na disciplina é avaliado pelo cumprimento do plano de
-estudos escolhido pelo aluno. O plano de estudos deve ser formulado a
-partir dos módulos indicados abaixo:
-
-- **Módulo obrigatório**
-  - **Leitura e discussão de textos:** Resenhas críticas dos capítulos
-    do livro-texto, e de algumas leituras complementares à escolha do
-    aluno;
-- **Escolher um dos módulos a seguir**
-  - **Teoria e prática da arquitetura tradicional**
-  - **Pesquisa e revisão crítica em história da arquitetura**
-  - Plano de estudos personalizado, a ser aprovado pelo professor da
-    disciplina, combinando atividades dos módulos acima.
 
 Conteúdo programático
 =====================
 
-- Unidade I: A casa e a cidade
-- Unidade II: Arquitetura clássica
-- Unidade III: Idade Média
+Ver o [Programa](programa.md).
 
 Apoio ao aluno
 ==============
@@ -101,29 +105,45 @@ apoio ao aluno (monitoria, polo presencial etc).
 Procedimentos de avaliação
 ==========================
 
-Atividades avaliativas
-----------------------
+Módulo comum
+------------
 
-### Unidade I: A casa e a cidade ###
+<details> <summary> Resenha do livro-texto </summary>
+
+- Redigir um breve parágrafo (3 a 5 frases bem articuladas) resumindo,
+  nas suas próprias palavras, o argumento principal do texto,
+  eventualmente complementando com detalhes sobre algum tópico de seu
+  interesse abordado no texto.
+- Propor uma pergunta ou problema, relacionados à leitura, para
+  discussão aprofundada em grupo. Indicar por que a questão escolhida é
+  problemática ou gera dificuldades de interpretação --- ela deve ir
+  além, portanto, de simples dúvidas factuais que possam ser resolvidas
+  consultando a bibliografia ou a Wikipédia.
+- Contribuir respostas ou debates nas questões levantadas pelos demais
+  colegas da turma.
+- Ao final do semestre, cada aluno deverá ter resenhado no mínimo 8 dos
+  10 capítulos do livro-texto; caso tenha resenhado mais que 8, apenas
+  as 8 melhores notas serão consideradas.
+
+</details>
+
+Teoria e prática da arquitetura tradicional
+-------------------------------------------
+
+Pesquisa em história da arquitetura
+-----------------------------------
 
 1. Análise bioclimática da habitação antiga
 2. Aspectos econômicos e sintáticos dos tecidos urbanos
-
-
-### Unidade II: Arquitetura clássica ###
-
 3. Desenho analítico de ordem clássica (dimensão estética)
 4. Proposição de composição clássica (dimensão topológica)
-
-
-### Unidade III: Idade Média ###
-
 5. Estudo de transformação funcional da malha urbana
 6. Exercício descritivo e interpretativo
 
 Cronograma
 ==========
 
+Ver [Cronograma](cronograma.md)
 
 Bibliografia
 ============

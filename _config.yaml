@@ -28,12 +28,15 @@ minima:
 #permalink: pretty
 timezone: America/Sao_Paulo
 relative_links:
-  enabled: true
-  collections: true
+  enabled         : true
+  collections     : true
 readme_index:
-  enabled:          true
+  enabled         : true
   remove_originals: true
   with_frontmatter: true
+kramdown:
+  parse_block_html: true
+  parse_span_html : true
 
 # Plugins {{{2
 plugins:
