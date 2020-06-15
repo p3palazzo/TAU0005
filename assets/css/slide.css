@@ -389,11 +389,15 @@ body { background: #faecd6; background-color: #faecd6; }
 /********************************************* PRINT BACKGROUND */
 @media print { .backgrounds { background-color: #faecd6; } }
 
-section.has-dark-background, section#title-slide { data-background-size: cover; text-shadow: 0 0 20px #294469; }
+.reveal { background-color: #f2cc92; }
+
+.slides > section { background-color: #faecd6; border: thin solid #faecd6; border-radius: 20vh; box-shadow: 0 0 10vh 10vh #faecd6; }
+
+section.has-dark-background, section#title-slide { text-shadow: 0 0 20px #294469; background: none; border: none; box-shadow: none; }
 
 section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6, section#title-slide, section#title-slide h1, section#title-slide h2, section#title-slide h3, section#title-slide h4, section#title-slide h5, section#title-slide h6 { color: #f4dcb4; text-shadow: 0 0 20px #294469, 0 0 10px #294469; }
 
-section.has-dark-background p, section#title-slide p { font-family: "Trajan Pro", "Source Serif Pro", serif; font-weight: bold; text-transform: uppercase; }
+section.has-dark-background p, section#title-slide p { font-family: "Trajan Pro", "Source Serif Pro", serif; font-weight: normal; text-transform: uppercase; }
 
 blockquote { font-size: 1em; text-align: left; }
 
