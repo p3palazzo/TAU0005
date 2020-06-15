@@ -5,6 +5,7 @@ author  : "Pedro Paulo Palazzo · FAU--UnB"
 lang    : pt-BR
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/3/33/Cole_Thomas_The_dream_of_the_architect_210_Sun_Unedited.jpg
+  data-background-size: cover
 ---
 
 # Por que teoria e história?

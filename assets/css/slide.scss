@@ -12,6 +12,17 @@
 @import "tau0005";
 @import "../reveal.js/css/theme/template/theme";
 
+.reveal {
+  background-color: darken( $backgroundColor, 15% );
+}
+
+.slides > section {
+  background-color: $backgroundColor;
+  border: thin solid $backgroundColor;
+  border-radius: 20vh;
+  box-shadow: 0 0 10vh 10vh $backgroundColor;
+}
+
 section.has-dark-background,
 section#title-slide {
 	&, h1, h2, h3, h4, h5, h6 {
@@ -23,8 +34,10 @@ section#title-slide {
     font-weight: normal;
     text-transform: uppercase;
   }
-  data-background-size: cover;
   text-shadow: 0 0 20px #294469;
+  background: none;
+  border: none;
+  box-shadow: none;
 }
 
 blockquote {
