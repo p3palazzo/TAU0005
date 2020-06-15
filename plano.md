@@ -29,15 +29,24 @@ construções e das cidades desde a Antiguidade até o século XV.
 Específicos
 -----------
 
-- Atentar para a diversidade de tradições culturais e de soluções
-  técnicas e estéticas para os problemas da construção de edificações e
-  de conjuntos urbanos;
-
-- Dominar as regras de composição e os elementos arquitetônicos das
-  tradições fundadoras da arquitetura ocidental;
-
-- Decompor as cidades e as edificações em seus aspectos bioclimáticos,
-  técnico-econômicos, e de expressão plástica.
+- Plano de estudos **obrigatório:**
+  - Desenvolver a capacidade de interpretar e discutir um texto
+    acadêmico, fazendo perguntas ou levantando problemas pertinentes.
+- Plano de estudos **Teoria e prática da arquitetura tradicional:**
+  - Desenvolver domínio aplicado dos princípios projetuais e dos
+    sistemas de proporção na arquitetura tradicional;
+  - Desenvolver domínio aplicado da concepção construtiva tradicional e
+    dos componentes construtivos naturais;
+  - Desenvolver domínio aplicado das convenções de projeção geométrica e
+    de desenho arquitetônico ou maquete.
+- Plano de estudos **Pesquisa em história da arquitetura:**
+  - Desenvolver capacidade de levantar e organizar material
+    bibliográfico e de refletir criticamente sobre ele;
+  - Desenvolver clareza e pertinência na elaboração do argumento
+    principal e na apresentação de referências bibliográficas ou
+    projetuais;
+  - Desenvolver domínio aplicado das convenções de redação acadêmica,
+    citação de referências e paginação.
 
 Metodologia
 ===========
@@ -59,7 +68,8 @@ As atividades versam, predominantemente, sobre
 as Dimensões Morfológicas do Processo de Urbanização em perspectiva
 diacrônica e operativa.
 
-### Plano de estudos
+Plano de estudos
+----------------
 
 O aproveitamento na disciplina é avaliado pelo cumprimento do plano de
 estudos escolhido pelo aluno. O plano de estudos deve ser formulado a
@@ -90,6 +100,9 @@ apoio ao aluno (monitoria, polo presencial etc).
 
 Procedimentos de avaliação
 ==========================
+
+Atividades avaliativas
+----------------------
 
 ### Unidade I: A casa e a cidade ###
 
