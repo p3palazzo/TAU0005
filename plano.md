@@ -56,8 +56,24 @@ por meio de atividades de cunho teórico-prático,
 incluindo trabalhos para casa e exercícios
 em sala de aula.
 As atividades versam, predominantemente, sobre
-as Dimensões Morfológicas do Processo de Urbanização
-em perspectiva diacrônica e operativa.
+as Dimensões Morfológicas do Processo de Urbanização em perspectiva
+diacrônica e operativa.
+
+### Plano de estudos
+
+O aproveitamento na disciplina é avaliado pelo cumprimento do plano de
+estudos escolhido pelo aluno. O plano de estudos deve ser formulado a
+partir dos módulos indicados abaixo:
+
+- **Módulo obrigatório**
+  - **Leitura e discussão de textos:** Resenhas críticas dos capítulos
+    do livro-texto, e de algumas leituras complementares à escolha do
+    aluno;
+- **Escolher um dos módulos a seguir**
+  - **Teoria e prática da arquitetura tradicional**
+  - **Pesquisa e revisão crítica em história da arquitetura**
+  - Plano de estudos personalizado, a ser aprovado pelo professor da
+    disciplina, combinando atividades dos módulos acima.
 
 Conteúdo programático
 =====================
