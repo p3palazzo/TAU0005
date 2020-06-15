@@ -1,6 +1,6 @@
 ---
-title   : "Introdução à Teoria e História da Arquitetura"
-subtitle: "TAU 0005 · Aula 1"
+title   : "Introdução à História da Arquitetura"
+subtitle: "TAU 0005 · Aula I"
 author  : "Pedro Paulo Palazzo · FAU--UnB"
 lang    : pt-BR
 title-slide-attributes:
