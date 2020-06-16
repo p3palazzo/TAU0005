@@ -2,34 +2,19 @@
 title : Plano de ensino
 ---
 
-Apresentação da disciplina
-==========================
+Metodologia
+===========
 
-Apresentar a temática geral e os objetivos da disciplina, observando o
-Projeto Político Pedagógico do Curso.
+Estratégias de aprendizagem
+---------------------------
 
-Ementa
-======
+Atividades didáticas
+--------------------
 
-História do urbanismo, da arquitetura e da arte
-no contexto de seus condicionantes sociais,
-econômicos e políticos, desde os primórdios
-da civilização até o gótico.
+Metodologia de avaliação
+------------------------
 
-
-Objetivos de aprendizagem
-=========================
-
-Geral
------
-
-Adquirir referências culturais e operativas a partir da história das
-construções e das cidades desde a Antiguidade até o século XV.
-
-Específicos
------------
-
-- Plano de estudos **comum:**
+- Módulo **comum:**
   - Desenvolver a capacidade de interpretar e discutir um texto
     acadêmico, fazendo perguntas ou levantando problemas pertinentes.
 - Plano de estudos **Teoria e prática da arquitetura tradicional:**
@@ -47,48 +32,6 @@ Específicos
     projetuais;
   - Desenvolver domínio aplicado das convenções de redação acadêmica,
     citação de referências e paginação.
-
-Metodologia
-===========
-
-Estratégias de aprendizagem
----------------------------
-
-O aproveitamento na disciplina é avaliado pelo cumprimento do plano de
-estudos escolhido pelo aluno. O plano de estudos deve ser formulado a
-partir dos módulos indicados abaixo:
-
-- Módulo comum, obrigatório para todos os planos de estudos:
-  - **Leitura e discussão de textos:** Resenhas críticas dos capítulos
-    do livro-texto, e de algumas leituras complementares à escolha do
-    aluno;
-- Um dos módulos a seguir, à escolha:
-  - **Teoria e prática da arquitetura tradicional:** consiste em
-    desenvolver a capacidade de realizar composições espaciais,
-    concepções construtivas e esquemas decorativos pertencentes às
-    tradições arquitetônicas do mundo antigo e medieval, por meio de
-    exercícios de documentação, desenho e maquete;
-  - **Pesquisa e revisão crítica em história da arquitetura:** consiste
-    em adquirir proficiência em teorias e métodos de pesquisa
-    historiográfica, por meio de atividades de documentação de
-    bibliografia e de referências iconográficas, seguidas da
-    organização, crítica e produção de textos acadêmicos;
-  - Plano de estudos personalizado, a ser aprovado pelo professor da
-    disciplina, combinando atividades dos módulos acima.
-
-Atividades didáticas
---------------------
-
-Metodologia de avaliação
-------------------------
-
-O desempenho na disciplina é avaliado
-por meio de atividades de cunho teórico-prático,
-incluindo trabalhos para casa e exercícios
-em sala de aula.
-As atividades versam, predominantemente, sobre
-as Dimensões Morfológicas do Processo de Urbanização em perspectiva
-diacrônica e operativa.
 
 
 Conteúdo programático
@@ -134,15 +77,19 @@ Teoria e prática da arquitetura tradicional
 
 </details>
 
-Pesquisa em história da arquitetura
------------------------------------
-
 1. Análise bioclimática da habitação antiga
 2. Aspectos econômicos e sintáticos dos tecidos urbanos
 3. Desenho analítico de ordem clássica (dimensão estética)
 4. Proposição de composição clássica (dimensão topológica)
 5. Estudo de transformação funcional da malha urbana
-6. Exercício descritivo e interpretativo
+
+Pesquisa em história da arquitetura
+-----------------------------------
+
+- Descrição (Wikipédia)
+- Parágrafo de tópico (Wikipédia)
+- Revisão bibliográfica (Wikipédia)
+- Ensaio (post de blog)
 
 Cronograma
 ==========

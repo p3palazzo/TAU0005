@@ -35,6 +35,7 @@ readme_index:
   remove_originals: true
   with_frontmatter: true
 kramdown:
+  header_offset   : 1
   parse_block_html: true
   parse_span_html : true
 
