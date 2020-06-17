@@ -12,16 +12,23 @@
 @import "tau0005";
 @import "../reveal.js/css/theme/template/theme";
 
-.reveal {
-  background-color: darken( $backgroundColor, 15% );
-}
-
-.slides > section {
-  background-color: $backgroundColor;
-  border: thin solid $backgroundColor;
-  border-radius: 20vh;
-  box-shadow: 0 0 10vh 10vh $backgroundColor;
-}
+/*
+ * Setting a vignetted background color like thus breaks
+ * slides with background resources such as images,
+ * videos, or iframes. Comment out until we find a
+ * satisfactory workaround.
+ *
+ *.reveal {
+ *  background-color: darken( $backgroundColor, 15% );
+ *}
+ *
+ *.slides > section.slide {
+ *  background-color: $backgroundColor;
+ *  border: thin solid $backgroundColor;
+ *  border-radius: 20vh;
+ *  box-shadow: 0 0 10vh 10vh $backgroundColor;
+ *}
+ */
 
 section.has-dark-background,
 section#title-slide {
@@ -35,9 +42,9 @@ section#title-slide {
     text-transform: uppercase;
   }
   text-shadow: 0 0 20px #294469;
-  background: none;
-  border: none;
-  box-shadow: none;
+  //background: none;
+  //border: none;
+  //box-shadow: none;
 }
 
 blockquote {

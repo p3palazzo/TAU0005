@@ -8,12 +8,27 @@ title-slide-attributes:
   data-background-size: cover
 ---
 
-# Funcionamento da disciplina
+Introdução
+==========
 
-- Conteúdo: livro-texto
+História da Arquitetura e da Arte I
+-----------------------------------
+
+- Objetivos da disciplina
+
 - Plano de estudos
 
-# Por que teoria e história?
+Plano da aula
+-------------
+
+- Objetivos deste tópico
+
+- Uma avaliação para cada dois tópicos
+
+- Ligações entre conteúdo, avaliação e objetivos
+
+Por que teoria e história?
+--------------------------
 
 - História na formação profissional em arquitetura
   - História como Teoria da arquitetura
@@ -25,7 +40,8 @@ title-slide-attributes:
 
 - Teoria e História do quê?
 
-## Conhecimento de objetos da História
+Conhecimento de objetos da História
+-----------------------------------
 
 - Cultura geral
 
@@ -33,7 +49,8 @@ title-slide-attributes:
 
 - Realidades possíveis
 
-## História como modo de conhecimento
+História como modo de conhecimento
+----------------------------------
 
 - História e Literatura (Aristóteles)
 
@@ -41,7 +58,8 @@ title-slide-attributes:
 
 - Teoria e História (Muratori)
 
-# Enquadramento disciplinar da História da Arquitetura
+Enquadramento disciplinar da História da Arquitetura
+====================================================
 
 - Arquitetura enquanto ofício
 
@@ -51,7 +69,8 @@ title-slide-attributes:
 
 - Arquitetura "com A maiúsculo" e construções
 
-## Alguns (des)encontros entre Arquitetura e Construção
+Alguns (des)encontros entre Arquitetura e Construção
+----------------------------------------------------
 
 :::::: {.columns}
 ::: {.column width="50%"}
@@ -71,7 +90,8 @@ title-slide-attributes:
 ::::::
 
 
-## Arquitetura como ofício
+Arquitetura como ofício
+-----------------------
 
 - Palavra ≠ Conceito
 
@@ -84,7 +104,8 @@ title-slide-attributes:
   - Arquiteto como trabalhador
   - Arquitetura como organização produtiva
 
-## Definição da Arquitetura segundo Vitrúvio (século I a.C.)
+Definição da Arquitetura segundo Vitrúvio (século I a.C.)
+---------------------------------------------------------
 
 > A ciência do arquiteto é ornada de muitas disciplinas e de vários
 > saberes, estando a sua dinâmica presente em todas as obras oriundas
@@ -104,7 +125,8 @@ title-slide-attributes:
 > </footer>
 
 
-## Arquitetura como construção
+Arquitetura como construção
+---------------------------
 
 - Ambiente construído para além do domínio de atuação dos arquitetos
 
@@ -116,7 +138,8 @@ title-slide-attributes:
 
 - E as cidades?
 
-## Estágios da história da cidade
+Estágios da história da cidade
+------------------------------
 
 - Cidade como artefato (obra de arte)
 
@@ -128,33 +151,59 @@ title-slide-attributes:
 
 - Cidade como commodity (investimento)
 
-# Firmitas · Utilitas · Venustas
+Atividades
+==========
 
-## Firmitas
+Módulo comum
+------------
 
-- Construção: processo construtivo, estabilidade estrutural,
-  durabilidade, sustentabilidade e mantenibilidade
+### Leitura e discussão do livro-texto ###
 
-- Tecnologia
+::: incremental
 
-## Utilitas
+- Redigir um breve parágrafo (3 a 5 frases bem articuladas) resumindo,
+  nas suas próprias palavras, o argumento principal do texto,
+  eventualmente complementando com detalhes sobre algum tópico de seu
+  interesse abordado no texto.
 
-Função: "funcionalidade", conforto ambiental
+- Propor uma pergunta ou problema, relacionados à leitura, para
+  discussão aprofundada em grupo. Indicar por que a questão escolhida é
+  problemática ou gera dificuldades de interpretação --- ela deve ir
+  além, portanto, de simples dúvidas factuais que possam ser resolvidas
+  consultando a bibliografia ou a Wikipédia.
 
-- Projeto, Tecnologia
+- Contribuir respostas ou debates nas questões levantadas pelos demais
+  colegas da turma.
 
-## Venustas
-
-Vai além da simples "beleza" sem excluí-la.
-
-- Teoria e História, Projeto
-
-# Recursos complementares
+:::
 
 ------
 
-<iframe class="stretch" src="https://www.youtube-nocookie.com/embed/YQZGHr9qJoQ" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" width="100%" height="100%" frameborder="0">
+### Critérios de avaliação  ###
 
-  [Ver no YouTube](https://www.youtube-nocookie.com/embed/YQZGHr9qJoQ)
+::: incremental
 
-</iframe>
+- Capacidade de interpretar e discutir um texto acadêmico, fazendo
+  perguntas ou levantando problemas pertinentes.
+
+- Ao final do semestre, cada aluno deverá ter resenhado no mínimo 8 dos
+  10 capítulos do livro-texto; caso tenha resenhado mais que 8, apenas
+  as 8 melhores notas serão consideradas.
+
+:::
+
+Recursos complementares {.unlisted }
+=======================
+
+## {data-background-iframe="https://www.youtube-nocookie.com/embed/YQZGHr9qJoQ"}
+
+Arquitetura comparada
+---------------------
+
+Fletcher, Bannister. A History of Architecture on the Comparative Method
+for the Student, Craftsman, and Amateur. London : New York: Batsford :
+Scribner’s sons, 1905.
+<a href="http://archive.org/details/historyofarchite00flet" target="_blank">
+  http://archive.org/details/historyofarchite00flet
+</a>
+

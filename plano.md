@@ -51,7 +51,7 @@ Procedimentos de avaliação
 Módulo comum
 ------------
 
-<details> <summary> Resenha do livro-texto </summary>
+<details> <summary> Leitura e discussão do livro-texto </summary>
 
 - Redigir um breve parágrafo (3 a 5 frases bem articuladas) resumindo,
   nas suas próprias palavras, o argumento principal do texto,
