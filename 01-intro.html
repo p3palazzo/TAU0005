@@ -8,8 +8,8 @@
   <meta name="apple-mobile-web-app-capable" content="yes">
   <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="reveal.js/css/reset.css">
-  <link rel="stylesheet" href="reveal.js/css/reveal.css">
+  <link rel="stylesheet" href="reveal.js/dist/reset.css">
+  <link rel="stylesheet" href="reveal.js/dist/reveal.css">
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -17,20 +17,10 @@
     div.column{display: inline-block; vertical-align: top; width: 50%;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-  <link rel="stylesheet" href="reveal.js/css/theme/white.css" id="theme">
+  <link rel="stylesheet" href="reveal.js/dist/theme/white.css" id="theme">
   <link rel="stylesheet" href="assets/css/slide.css"/>
-  <!-- Printing and PDF exports -->
-  <script>
-    var link = document.createElement( 'link' );
-    link.rel = 'stylesheet';
-    link.type = 'text/css';
-    link.href = window.location.search.match( /print-pdf/gi ) ? 'reveal.js/css/print/pdf.css' : 'reveal.js/css/print/paper.css';
-    document.getElementsByTagName( 'head' )[0].appendChild( link );
-  </script>
-  <!--[if lt IE 9]>
-  <script src="reveal.js/lib/js/html5shiv.js"></script>
-  <![endif]-->
 </head>
 <body>
   <div class="reveal">
@@ -235,13 +225,23 @@
     </div>
   </div>
 
-  <script src="reveal.js/js/reveal.js"></script>
+  <script src="reveal.js/dist/reveal.js"></script>
+
+  // reveal.js plugins
+  <script src="reveal.js/plugin/notes/notes.js"></script>
+  <script src="reveal.js/plugin/search/search.js"></script>
+  <script src="reveal.js/plugin/zoom/zoom.js"></script>
 
   <script>
 
       // Full list of configuration options available at:
-      // https://github.com/hakimel/reveal.js#configuration
+      // https://revealjs.com/config/
       Reveal.initialize({
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: true,
         // Push each slide change to the browser history
         history: true,
         // The "normal" size of the presentation, aspect ratio will be preserved
@@ -250,11 +250,11 @@
         width: 1280,
         height: 800,
 
-        // Optional reveal.js plugins
-        dependencies: [
-          { src: 'reveal.js/lib/js/classList.js', condition: function() { return !document.body.classList; } },
-          { src: 'reveal.js/plugin/zoom-js/zoom.js', async: true },
-          { src: 'reveal.js/plugin/notes/notes.js', async: true }
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
         ]
       });
     </script>
