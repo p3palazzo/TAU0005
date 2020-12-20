@@ -1,18 +1,297 @@
 ---
-title : Plano de ensino
+title   : TAU 0005 › História da Arquitetura e da Arte I
+subtitle: Turma C › 1.º/2020
+layout  : page
+abstract: >
+  História do urbanismo, da arquitetura e da arte no contexto de seus
+  condicionantes sociais, econômicos e políticos, desde os primórdios da
+  civilização até o gótico.
+documentclass: scrartcl
 ---
 
-Metodologia
-===========
+# Apresentação #
 
-Estratégias de aprendizagem
----------------------------
+TAU 0005 é a segunda disciplina na cadeia de Teoria e História do curso
+de graduação em Arquitetura e Urbanismo na Universidade de Brasília, e a
+primeira a se dedicar inteiramente ao estudo do passado. Trata-se tanto
+de uma cadeira de formação profissional quanto de uma disciplina de
+conhecimentos gerais. A partir do estudo das construções e das cidades
+tradicionais desde a Antiguidade até o século XV, vamos desenvolver
+familiaridade com a análise crítica em história e com a teoria e prática
+da arquitetura tradicional. O núcleo do conteúdo de TAU 0005 é o que
+chamamos de *arquitetura clássica* do Mediterrâneo antigo e a sua
+difusão e transformação ao longo do tempo e do espaço.
 
-Atividades didáticas
---------------------
+◆ ◆ ◆
 
-Metodologia de avaliação
-------------------------
+O programa de TAU 0005 foi escrito mais de 30 anos atrás e mudou muito
+pouco desde então. Hoje em dia, esse conteúdo parece --- e é ---
+formalista e eurocêntrico. Mas, na sua origem, a cadeia de Teoria e
+História estabelecida em 1989 representou um grande avanço na
+organização do nosso curso. Desde a abertura do curso de Arquitetura e
+Urbanismo da UnB, em 1962, o conteúdo das disciplinas, mesmo aquelas
+obrigatórias, ficava quase totalmente a critério do professor. Esse
+modelo gerava um currículo imprevisível para os alunos, às vezes
+repetitivo e sempre cheio de lacunas. Além disso, ele favorecia quem já
+trouxesse de casa uma cultura humanística e histórica sólida.
+
+A reforma curricular de 1989 se inspirou no currículo dos principais
+cursos de Arquitetura do Brasil e das Américas. Ela propunha uma
+formação relativamente uniforme para todos os alunos, visando a nivelar
+as oportunidades e a atender às diretrizes curriculares nacionais. Ao
+longo desses 30 anos de vigência, a cadeia de Teoria e História foi
+sendo ampliada para atender a mudanças nas diretrizes curriculares e
+para refletir novas preocupações críticas. Nesse processo, a sequência
+original de disciplinas obrigatórias --- TAU 0005 a TAU 0009 --- não
+mudou praticamente nada, pelo menos na grade curricular oficial. Como
+sempre, essa aparência de que nada mudou, segundo os registros formais,
+esconde grandes mudanças na prática. Há uma inquietação constante com os
+rumos das disciplinas e muitos ajustes no conteúdo e no enfoque dado
+pelos professores.
+
+TAU 0005 tem um conteúdo *formal* distante da nossa vivência cotidiana,
+e vocês podem até se perguntar se essa disciplina tem alguma relevância
+para a realidade brasileira. Uma resposta simples e, de certo modo,
+correta é dizer que *todo* estudo de história e toda cultura geral em
+arte e arquitetura são importantes em si. Outra resposta possível é
+lembrar que a arquitetura dominante no Brasil de hoje --- da qual
+fazemos todos parte, para o bem ou para o mal --- é herdeira de certas
+formas, teorias e sobretudo de um conceito do que é ser "arquiteto".
+Todos esses paradigmas se formaram em certas regiões da Europa, da
+África e da Ásia, e vêm sendo debatidos desde o Renascimento. Estudar a
+arquitetura da Antiguidade e da Idade Média é estudar, portanto, as
+origens da nossa própria arquitetura.
+
+Essas duas respostas são válidas, é claro, tanto para quem, dentre
+vocês, vai acabar escolhendo uma carreira de pesquisa e ensino em Teoria
+e História da Arquitetura, quanto para quem busca simplesmente alguma
+cultura geral. Ainda assim, elas deixam de lado um problema central no
+nosso curso: como o estudo da história da arquitetura se *integra* por
+inteiro num currículo voltado, sobretudo, para a formação de
+profissionais no *ofício* da arquitetura?
+
+A minha resposta a esse desafio é a seguinte: a arquitetura clássica é o
+sistema mais coerente, versátil e duradouro já inventado para dar forma
+ao ambiente construído. Só a arquitetura chinesa (que também incluímos
+no programa deste semestre) se aproxima da coerência sistemática e da
+longevidade do classicismo mediterrâneo. Mesmo linguagens que se afastam
+dos princípios formais clássicos, como o gótico, ou aquelas que rejeitam
+explicitamente o sistema clássico, como o modernismo, ainda assim usam,
+de certo modo, a teoria da arquitetura clássica como um ponto de
+partida. Dominando as regras e as possibilidades de composição do
+classicismo, vocês vão deter uma caixa de ferramentas que permite
+analisar *qualquer outra* linguagem arquitetônica tradicional ou
+contemporânea.
+
+Por fim, o que está *por trás* das regras explícitas do classicismo é
+tão ou mais importante do que essas regras: isto é, o conjunto de
+princípios mais ou menos universais que regem *todas* as arquiteturas
+tradicionais. Esses princípios vêm sendo estudados em ramos diversos da
+pesquisa em Arquitetura e Urbanismo pelo menos desde a década de 1960.
+Eles têm sido, também, cada vez mais aplicados na solução de problemas
+contemporâneos, desde a habitação de interesse social até a
+sustentabilidade ambiental.
+
+## Equipe ##
+
+Professor
+: Pedro P. Palazzo
+
+Estagiária docente
+: Irina Alencar de Oliveira
+
+Monitores
+: 
+
+## Objetivos de aprendizagem ##
+
+O objetivo da disciplina é conferir um domínio operativo da arquitetura
+tradicional em geral, e da linguagem clássica em particular, enquanto
+objetos de pesquisa historiográfica e enquanto ferramentas de análise e
+produção do ambiente construído. Este propósito se desdobra em cinco
+aspectos que correspondem a cada uma das unidades do programa:
+
+I Construção
+: 
+
+II Elementos da arquitetura
+: 
+
+III Elementos de composição
+: 
+
+IV Tipos edilícios
+: 
+
+V Conjuntos
+: 
+
+# Metodologia e atividades didáticas #
+
+## Considerações gerais ##
+
+Neste semestre, TAU 0005 se desenvolve em modo *remoto*. Todo o conteúdo
+e as atividades da disciplina estão no ambiente virtual de aprendizagem
+[Aprender 3][]. O nosso fio condutor é o livro-texto; as videoaulas
+gravadas, as leituras específicas e outros recursos indicados completam
+o conteúdo da disciplina. Estaremos sempre em contato por
+videoconferência, mensagens e fóruns, para discutir o conteúdo e as
+atividades ao longo do semestre.
+
+Na [área geral do Aprender 3][], você vai encontrar:
+
+- Este Plano de curso e o [Cronograma](cronograma.md) da disciplina;
+- Mural de avisos postados pela equipe da disciplina, onde comunicamos
+  informações gerais e eventuais alterações no cronograma ou nas
+  atividades;
+- Fórum livre para discussões gerais relacionadas (ou não) à disciplina
+  como um todo;
+- Links para acessar a videoconferência semanal ao vivo e as gravações.
+
+## Desenvolvimento do semestre ##
+
+O conteúdo dito da disciplina deve ser cumprido ao longo de 15 semanas.
+A matéria se divide em cinco Unidades com três semanas de duração cada
+uma, e cada semana corresponde a um tópico de conteúdo. Cada Unidade
+privilegia um dos [Objetivos deaprendizagem](#objetivos-de-aprendizagem)
+da disciplina. Leia atentamente a exposição dos objetivos: são os
+conhecimentos e as competências que esperamos de vocês ao final do
+semestre. As Unidades estão organizadas, aproximadamente, em ordem
+cronológica. Em cada Unidade, vamos desenvolver um trabalho
+teórico-prático, pautado pelo Objetivo de aprendizagem que corresponde
+àquela Unidade.
+
+No ambiente virtual de aprendizagem [Aprender 3][] você vai encontrar,
+para cada Unidade:
+
+- Sumário do conteúdo;
+- Descrição do trabalho da Unidade e módulo de entrega;
+- Fóruns para discussão do conteúdo e do trabalho.
+
+## Desenvolvimento das aulas ##
+
+Cada Tópico de conteúdo da disciplina foi previsto para ser cumprido em
+uma semana, completando 15 semanas no semestre. Vamos acompanhar o
+conteúdo com [Resenhas][] e discussões semanais sobre a leitura do
+livro-texto e de outros textos relevantes. Todas as leituras estão
+indicadas no [Cronograma](cronograma.md).
+
+Às terças e quintas-feiras às 19h (horário de Brasília) teremos uma
+videoconferência ao vivo na plataforma [Microsoft Teams][] da UnB.
+
+No ambiente virtual de aprendizagem [Aprender 3][] você vai encontrar,
+para cada Tópico:
+
+- Sumário do conteúdo;
+- Atividade de leitura semanal;
+- Videoaulas desenvolvendo alguns aspectos do conteúdo especialmente
+  importantes para a sequência do semestre;
+- Notas de aula escritas (o conteúdo das videoaulas é idêntico ao das
+  notas escritas).
+
+#### Aula invertida ####
+
+Nossos encontros por videoconferência serão sempre aulas *invertidas*. O
+que queremos dizer com isso? No ensino *normal*, o horário da aula é
+usado para transmissão do conteúdo, geralmente na forma expositiva, e os
+alunos desenvolvem os trabalhos fora do horário da aula. Numa aula
+*invertida*, vocês estudam o conteúdo no horário que for mais
+conveniente, e o nosso encontro ao vivo é dedicado ao desenvolvimento
+supervisionado dos trabalhos e a outras dinâmicas interativas. Nesse
+sistema, a aula é conduzida *por vocês* --- pelas suas demandas e
+necessidades na elaboração dos trabalhos e na compreensão do conteúdo.
+
+#### Frequência às aulas ####
+
+Participar da videoconferência *não é obrigatório*. No entanto, a UnB
+considera oficialmente esta disciplina como sendo "presencial",
+portanto temos que controlar a "frequência" ao longo do semestre. Assim,
+você deve se fazer "presente" em pelo menos 75 % das semanas do semestre
+(12 de 15), participando ativa e produtivamente das discussões com a
+turma. Para tanto, manifeste-se *com propriedade* nos diversos fóruns
+disponíveis no ambiente virtual de aprendizagem ou na própria
+videoconferência (apenas estar "logado" na reunião, sem participar
+ativamente, não conta). Para maiores detalhes, veja a seção [Apoio ao
+aluno](#apoio-ao-aluno) mais abaixo.
+
+#### Uma observação importante sobre o cronograma ####
+
+Dadas as circunstâncias atuais, o cronograma pode sofrer alterações
+seguindo eventuais decisões da FAU ou dos órgãos superiores da UnB.
+*Respeitando o prazo previsto para cada unidade e o cronograma de
+leituras semanais,* você pode cumprir o conteúdo (leituras e videoaulas)
+e fazer as atividades (participação nos fóruns e entrega dos trabalhos)
+no tempo e horário que for mais conveniente.
+
+# Programa #
+
+### Unidade I › Construção ###
+
+ 1. Construção tradicional
+ 2. Primórdios da arquitetura
+ 3. Mundo grego
+
+### Unidade II › Elementos da arquitetura ###
+
+ 4. As ordens clássicas
+ 5. Mundo romano
+ 6. China, Japão e Coreia
+
+### Unidade III › Elementos de composição ###
+
+ 7. Espaços e volumes
+ 8. Índia e Sudeste asiático
+ 9. Arquitetura paleocristã e bizantina
+
+### Unidade IV › Tipos edilícios ###
+
+10. Os seis tipos edilícios
+11. Mundo islâmico
+12. Arquitetura medieval primitiva e românica
+
+### Unidade V › Conjuntos ###
+
+13. Princípios de urbanização
+14. Gótico
+15. África e Américas
+
+# Apoio ao aluno #
+
+O conteúdo e as atividades da disciplina estão disponíveis no ambiente
+virtual de aprendizagem [Aprender 3][]. A equipe de TAU 0005 --- o
+professor, a estagiária docente e as monitoras --- estará disponível ao
+vivo, por videoconferência no sistema [Microsoft Teams][] da UnB, às
+terças e quintas-feiras no horário da aula. Além disso, cada Unidade tem
+um fórum específico no Aprender 3 para tirar dúvidas sobre o
+desenvolvimento do respectivo trabalho.
+
+A disciplina pressupõe familiaridade com os recursos de pesquisa
+bibliográfica ~~presencial e~~ eletrônica da [Biblioteca Central (BCE)
+da UnB][BCE], incluindo o catálogo integrado e as diversas bases de dados
+de periódicos. A BCE oferece tutoriais eletrônicos e cursos de
+capacitação frequentes para familiarização com as suas ferramentas.
+
+Usamos *apenas* os sistemas oficiais da UnB para nos comunicarmos:
+Aprender 3, Microsoft Teams e e-mail institucional. Verifiquem se
+o seu acesso às plataformas e ao e-mail `@aluno.unb.br` está em dia!
+
+#### Frequência ####
+
+Apesar de estar sendo conduzida de modo remoto, esta disciplina ainda é,
+formalmente, *presencial*. A frequência exigida por lei é de 75 % da
+carga horária, ou 12 das 15 semanas de conteúdo. Para registrar presença
+em qualquer semana, você deve participar ativamente e com contribuições
+pertinentes em qualquer um dos ambientes de discussão da disciplina:
+manifestar-se na videoconferência semanal, postar nos fóruns gerais da
+disciplina ou da Unidade em andamento, comentar nas resenhas de leitura
+de colegas. Procure ter objetividade nas postagens ou falas e contribuir
+positivamente, com questões, perguntas ou respostas estruturadas e de
+interesse geral.
+**Atenção:** você pode postar mais de um
+comentário por semana, mas o que vamos contar é o número de *semanas* em
+que você comentou!
+
+# Metodologia de avaliação #
 
 - Módulo **comum:**
   - Desenvolver a capacidade de interpretar e discutir um texto
@@ -33,17 +312,6 @@ Metodologia de avaliação
   - Desenvolver domínio aplicado das convenções de redação acadêmica,
     citação de referências e paginação.
 
-
-Conteúdo programático
-=====================
-
-Ver o [Programa](programa.md).
-
-Apoio ao aluno
-==============
-
-Indicar como será a ação da tutoria na disciplina e outras formas de
-apoio ao aluno (monitoria, polo presencial etc).
 
 Procedimentos de avaliação
 ==========================
@@ -96,8 +364,7 @@ Cronograma
 
 Ver [Cronograma](cronograma.md)
 
-Bibliografia
-============
+# Bibliografia #
 
 Básica
 ------
@@ -203,3 +470,12 @@ Complementar
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-1-118-32513-1%20978-1-118-32514-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A%20companion%20to%20Roman%20architecture&amp;rft.place=Chichester%2C%20West%20Sussex%2C%20UK&amp;rft.publisher=Wiley%20Blackwell&amp;rft.aufirst=Roger%20Bradley&amp;rft.aulast=Ulrich&amp;rft.au=Roger%20Bradley%20Ulrich&amp;rft.au=Caroline%20K.%20Quenemoen&amp;rft.date=2013&amp;rft.tpages=1&amp;rft.isbn=978-1-118-32513-1%20978-1-118-32514-8&amp;rft.language=eng"></span>
 </div>
 
+[Aprender 3]: https://aprender3.unb.br
+
+[área geral do Aprender 3]: 
+
+[BCE]: https://bce.unb.br
+
+[Microsoft Teams]: https://teams.microsoft.com
+
+[Resenha]: https://pt.wikipedia.org/wiki/Resenha

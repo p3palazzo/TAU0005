@@ -1,21 +1,10 @@
-# TAU 0005 : História da Arquitetura e da Arte I : FAU–UnB
+# TAU 0005 : História da Arquitetura e da Arte I : FAU–UnB #
 
 ![Build status](https://github.com/p3palazzo/tau0005/workflows/Build/badge.svg)
 
 > História do urbanismo, da arquitetura e da arte no contexto de seus
 > condicionantes sociais, econômicos e políticos, desde os primórdios da
 > civilização até o gótico.
-
-## Apresentação e objetivos de aprendizagem ##
-
-TAU 0005 é a segunda disciplina na cadeia de Teoria e História do curso
-de graduação em Arquitetura e Urbanismo na Universidade de Brasília, e a
-primeira a se dedicar inteiramente ao estudo do passado. Trata-se tanto
-de uma cadeira de formação profissional quanto de uma disciplina de
-conhecimentos gerais. A partir do estudo das construções e das cidades
-tradicionais desde a Antiguidade até o século XV, vamos desenvolver
-familiaridade com a análise crítica em história e com a teoria e prática
-da arquitetura tradicional.
 
 ## Livro-texto ##
 
@@ -93,23 +82,32 @@ partir dos módulos indicados a seguir:
   - Plano de estudos personalizado, a ser aprovado pelo professor da
     disciplina, combinando atividades dos dois módulos acima.
 
-## Programa
+## Programa ##
 
- 1. [Introdução à História da Arquitetura](01-intro.md)
- 2. Primórdios da arquitetura
- 3. Mundo grego
- 4. Índia e Sudeste asiático
- 5. China, Japão e Coreia
- 6. Mundo romano
- 7. Arquitetura paleocristã e bizantina
- 8. Mundo islâmico
- 9. Arquitetura medieval primitiva e românica
-10. Gótico
-11. África e Américas
-12. Finalização do semestre
+### Unidade I › Construção ###
 
-Mais informações no [Plano de ensino](plano.md) e no
-[Cronograma](cronograma.md).
+ 1. Primórdios da arquitetura
+ 2. Mundo grego
+
+### Unidade II › Elementos da arquitetura ###
+
+ 3. Mundo romano
+ 4. China, Japão e Coreia
+
+### Unidade III › Elementos de composição ###
+
+ 5. Índia e Sudeste asiático
+ 6. Arquitetura paleocristã e bizantina
+
+### Unidade IV › Tipos edilícios ###
+
+ 7. Mundo islâmico
+ 8. Arquitetura medieval primitiva e românica
+
+### Unidade V › Conjuntos ###
+
+ 9. Gótico
+10. África e Américas
 
 ## Bibliografia básica ##
 
