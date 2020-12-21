@@ -19,11 +19,18 @@ jekyll : $(BUT)
 	docker run --rm -v "`pwd`:/srv/jekyll" \
 		jekyll/jekyll:4.1.0 /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
 
-_site/%.html : %.md revealjs.yaml
+_site/%.html : %.md revealjs.yaml biblio.bib | styles
 	docker run --rm -v "`pwd`:/data" --user "`id -u`:`id -g`" \
-		$(PANDOC/CROSSREF) -o $@ -d spec/revealjs.yaml $<
+		$(PANDOC/CROSSREF) -o $@ -d revealjs.yaml $<
+
+_site/%-notas.html : %.md notas.yaml biblio.bib | styles
+	docker run --rm -v "`pwd`:/data" --user "`id -u`:`id -g`" \
+		$(PANDOC/CROSSREF) -o $@ -d revealjs.yaml $<
 
 serve :
 	docker run --rm -p 4000:4000 -h 127.0.0.1 \
 		-v "`pwd`:/srv/jekyll" -it jekyll/jekyll:4.1.0 \
 		jekyll serve --skip-initial-build --no-watch
+
+styles: 
+	git clone https://github.com/citation-style-language/styles.git
