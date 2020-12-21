@@ -25,14 +25,30 @@ layout     : page
 |        | -- Monumentalidade e sistemas estruturais arquitravados    |                                                |              |
 +--------+------------------------------------------------------------+------------------------------------------------+--------------+
 |    III | **Mundo grego e oriental**                                 | Livro-texto capítulo 2, rever também p. 39--40 | 15/02        |
+|        | -- O oriente e o ideal clássico                            | Recomendado: Robertson p. 9--                  |              |
+|        | -- Da madeira à pedra                                      |                                                |              |
+|        | -- Origem das ordens dórica e jônica                       |                                                |              |
+|        | -- Refinamentos e molduras                                 |                                                |              |
 +--------+------------------------------------------------------------+------------------------------------------------+--------------+
 |        | MÓDULO II › ELEMENTOS DA ARQUITETURA                       | Trabalho: Analítico com ordens clássicas       | 22/02--21/03 |
 +--------+------------------------------------------------------------+------------------------------------------------+--------------+
 |     IV | **Teoria da arquitetura clássica**                         | Vitrúvio livro I cap. i--iii, livro III        | 22/02        |
+|        | -- Vitrúvio e o campo disciplinar da arquitetura           |                                                |              |
+|        | -- Proporções na construção tradicional                    |                                                |              |
+|        | -- Completando o cânone das ordens clássicas               |                                                |              |
+|        | -- Modenatura, molduras e variações                        |                                                |              |
 +--------+------------------------------------------------------------+------------------------------------------------+--------------+
 |      V | **Roma e o Mediterrâneo**                                  | Livro-texto capítulo 5                         | 08/03        |
+|        | -- Estrutura murária, decoração arquitravada               |                                                |              |
+|        | -- Ordens e seus elementos complementares                  |                                                |              |
+|        | -- Traçados reguladores                                    |                                                |              |
+|        | -- Pintura e perspectiva                                   |                                                |              |
 +--------+------------------------------------------------------------+------------------------------------------------+--------------+
 |     VI | **China e o Leste da Ásia**                                | Livro-texto capítulo 4                         | 15/03        |
+|        | -- Estruturas mistas em alvenaria e madeira                |                                                |              |
+|        | -- O sistema estrutural chinês enquanto "ordem"            |                                                |              |
+|        | -- Pintura e vazio                                         |                                                |              |
+|        | -- Preservação e reconstrução no Japão                     |                                                |              |
 +--------+------------------------------------------------------------+------------------------------------------------+--------------+
 |        | MÓDULO III › ELEMENTOS DE COMPOSIÇÃO                       | Trabalho: Pavilhão com ambiente único          | 22/03--11/04 |
 +--------+------------------------------------------------------------+------------------------------------------------+--------------+
