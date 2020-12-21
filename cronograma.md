@@ -1,7 +1,6 @@
 ---
 title      : "TAU 0005 › História da Arquitetura e da Arte I"
-subtitle   : Cronograma
-date       : "Turma C › 2.º/2020"
+subtitle   : "Cronograma › Turma C › 2.º/2020"
 classoption:
 - landscape
 fontsize   : 9pt
