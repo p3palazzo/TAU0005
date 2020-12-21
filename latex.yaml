@@ -1,0 +1,50 @@
+from            : markdown+raw_tex
+to              : latex
+cite-method     : citeproc
+fail-if-warnings: true
+file-scope      : true
+filters:
+  - pandoc-crossref
+  - citeproc
+metadata:
+  bibliography  : biblio.bib
+  csl           : "_styles/chicago-author-date.csl"
+  cssLabelSep   : "&ndash;"
+  documentclass : scrartcl
+  figureTitle   : Figura
+  fontsize      : 11pt
+  include-before:
+    - \setkomafont{title}{\sffamily\Huge}
+    - \setkomafont{section}{\LARGE}
+    - \setkomafont{descriptionlabel}{\rmfamily\bfseries}
+    - \setkomafont{paragraph}{\large}
+  indent        : true
+  lang          : pt
+  layout        : page
+  mainfont      : "UnB Pro"
+  mainfontoptions:
+    - Numbers        = Proportional
+    - BoldFont       = UnBPro-Bold
+    - ItalicFont     = UnBPro-RegularItalic
+    - BoldItalicFont = UnBPro-BoldItalic
+  pagestyle     : fancy
+  sansfont      : "UnB Pro-Light"
+  secnumdepth   : 2
+  papersize     : a4
+  tableTitle    : Tabela
+  suppress-bibliography: false
+number-sections : true
+pdf-engine      : xelatex
+toc             : true
+toc-depth       : 1
+variables:
+  header-includes:
+    - \fancyhf{}
+    - \lhead{\XeTeXglyph \XeTeXglyphindex "ass_completa_CONT" \relax}
+    - \lfoot{\small{FAU/THAU/PP/2020}}
+    - \rfoot{\small{\thepage}}
+    - \renewcommand{\headrulewidth}{0.5pt}
+    - \renewcommand{\footrulewidth}{0.5pt}
+    - \newcommand{\pcdoc}{Pandoc-crossref documentation}
+  include-before:
+    - \thispagestyle{empty}
