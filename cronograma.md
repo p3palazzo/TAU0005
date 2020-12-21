@@ -53,6 +53,10 @@ layout     : page
 |        | MÓDULO III › ELEMENTOS DE COMPOSIÇÃO                       | Trabalho: Pavilhão com ambiente único          | 22/03--11/04 |
 +--------+------------------------------------------------------------+------------------------------------------------+--------------+
 |    VII | **Teoria do espaço bem-definido**                          | Vitrúvio livro IV                              | 22/03        |
+|        | -- Construção e espacialidade                              |                                                |              |
+|        | -- Quatro elementos da arquitetura                         |                                                |              |
+|        | -- Caráter e decoro                                        |                                                |              |
+|        | -- Articulação arquitetônica do espaço                     |                                                |              |
 +--------+------------------------------------------------------------+------------------------------------------------+--------------+
 |   VIII | **Do classicismo ao cristianismo**                         | Livro-texto capítulo 6                         | 29/03        |
 +--------+------------------------------------------------------------+------------------------------------------------+--------------+
