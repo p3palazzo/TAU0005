@@ -1,12 +1,14 @@
 ---
-title   : "Introdução à História da Arquitetura"
-subtitle: "TAU 0005 · Aula I"
-author  : "Pedro Paulo Palazzo · FAU--UnB"
-lang    : pt-BR
-title-slide-attributes:
-  data-background-image: https://upload.wikimedia.org/wikipedia/commons/3/33/Cole_Thomas_The_dream_of_the_architect_210_Sun_Unedited.jpg
-  data-background-size: cover
+title   : "Teoria da construção tradicional"
+subtitle: "Tópico I"
+author  : "Pedro P. Palazzo"
+abstract: |
+  -- Por que estudar arquitetura tradicional
+  -- Sistemas arquitravados e sistemas murários ou arqueados
+  -- Cabana primitiva segundo Vitrúvio, Laugier e Chambers
+  -- Origem da arquitetura clássica segundo Durm
 ---
+
 
 Introdução
 ==========
