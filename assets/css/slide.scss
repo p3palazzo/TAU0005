@@ -1,50 +1,81 @@
 ---
 ---
 
-// Jekyll ---------------------------------------------
-@import "{{ site.theme }}";
-// Reveal.js ------------------------------------------
-@import "../reveal.js/css/theme/template/mixins";
-@import "../reveal.js/css/theme/template/settings";
-@import url(../../reveal.js/lib/font/source-sans-pro/source-sans-pro.css);
-// Customization
-@import "fonts";
-@import "tau0005";
-@import "../reveal.js/css/theme/template/theme";
+// Reveal.js -----------------------------------
+// Default mixins and settings -----------------
+@import "reveal.js/css/theme/template/mixins";
+@import "reveal.js/css/theme/template/settings";
+// ---------------------------------------------
 
-/*
- * Setting a vignetted background color like thus breaks
- * slides with background resources such as images,
- * videos, or iframes. Comment out until we find a
- * satisfactory workaround.
- *
- *.reveal {
- *  background-color: darken( $backgroundColor, 15% );
- *}
- *
- *.slides > section.slide {
- *  background-color: $backgroundColor;
- *  border: thin solid $backgroundColor;
- *  border-radius: 20vh;
- *  box-shadow: 0 0 10vh 10vh $backgroundColor;
- *}
- */
+
+// Include theme-specific fonts
+@import "fonts";
+
+// Override theme settings (see ../template/settings.scss)
+@import "tau0006";
+
+html {
+  block-margin: 0
+}
+
+.reveal {
+  //background-color: darken( $backgroundColor, 15% );
+  h1, h2 {
+    font-family: $headingFont;
+    font-weight: normal;
+  }
+}
 
 section.has-dark-background,
 section#title-slide {
+  text-shadow: 0 0 20px #294469;
 	&, h1, h2, h3, h4, h5, h6 {
 		color: #f4dcb4;
     text-shadow: 0 0 20px #294469, 0 0 10px #294469;
+    font-family: $headingFont;
+    font-weight: normal;
 	}
-  p {
+  /*
+   *p.subtitle::after {
+   *  content: " › ";
+   *}
+   */
+  p.subtitle,
+  p.author,
+  p.date {
+    //float: left;
     font-family: $headingFont;
     font-weight: normal;
     text-transform: uppercase;
   }
-  text-shadow: 0 0 20px #294469;
-  //background: none;
-  //border: none;
-  //box-shadow: none;
+  .author img {
+    height: 1em;
+    max-height: 75px;
+    filter: invert(88%) sepia(29%) saturate(355%) hue-rotate(339deg) brightness(100%) contrast(92%);
+    -webkit-filter: invert(88%) sepia(29%) saturate(355%) hue-rotate(339deg) brightness(100%) contrast(92%);
+  }
+}
+
+section {
+  img.stretch {
+    margin: -20px 0;
+    padding: 0;
+    object-fit: cover;
+  }
+}
+
+figcaption,
+div.subfigures>p {
+  display: none;
+  background: #faecd699;
+  position: fixed;
+  bottom: 20px;
+  z-index: 999;
+  padding: 4px 20px;
+}
+
+.box {
+  background: #ffffff33;
 }
 
 blockquote {
@@ -57,3 +88,7 @@ blockquote {
     }
   }
 }
+
+// Theme template ------------------------------
+@import "reveal.js/css/theme/template/theme";
+// ---------------------------------------------

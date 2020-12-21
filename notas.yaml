@@ -1,0 +1,19 @@
+from            : markdown
+to              : markdown_phpextra+yaml_title_block
+bibliography    : biblio.bib
+cite-method     : citeproc
+fail-if-warnings: true
+file-scope      : true
+filters:
+  - pandoc-crossref
+  - citeproc
+metadata:
+  csl           : "_csl/chicago-author-date.csl"
+  cssLabelSep   : "&ndash;"
+  figureTitle   : Figura
+  lang          : pt-BR
+  layout        : page
+  tableTitle    : Tabela
+  suppress-bibliography: false
+toc             : true
+toc-depth       : 1

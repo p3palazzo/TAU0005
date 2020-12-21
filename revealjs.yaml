@@ -1,16 +1,33 @@
-from       : markdown
-to         : revealjs
-standalone : true
-file-scope : true
-slide-level: 2
-toc        : true
-toc-depth  : 1
-css        : "assets/css/slide.css"
+from            : markdown
+to              : revealjs
+bibliography    : biblio.bib
+cite-method     : citeproc
 fail-if-warnings: true
+file-scope      : true
+filters:
+  - pandoc-crossref
+  - citeproc
+metadata:
+  csl           : "_csl/chicago-author-date.csl"
+  cssLabelSep   : "&ndash;"
+  figureTitle   : Figura
+  lang          : pt-BR
+  tableTitle    : Tabela
+  suppress-bibliography: false
+slide-level     : 2
+standalone      : true
+toc             : true
+toc-depth       : 1
 variables:
-  revealjs-url: "reveal.js"
-  theme: "white"
+  css           : "assets/css/slide.css"
+  controls      : false
+  hash          : true
   hashOneBasedIndex: true
-  hash: true
-  width: 1280
-  height: 800
+  height        : 1080
+  width         : 1920
+  progress      : true
+  revealjs-url  : "reveal.js"
+  theme         : "white"
+  title-slide-attributes:
+    data-background-image: https://upload.wikimedia.org/wikipedia/commons/3/33/Cole_Thomas_The_dream_of_the_architect_210_Sun_Unedited.jpg
+    data-background-size: cover
