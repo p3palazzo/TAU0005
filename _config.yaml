@@ -12,6 +12,11 @@ baseurl: "/tau0005"
 url: "https://p3palazzo.github.io"
 lang: pt-BR
 
+# Collections {{{2
+collections:
+  notas:
+    output: true
+
 # Build settings {{{1
 # Theme {{{2
 theme: minima

@@ -1,5 +1,5 @@
 from            : markdown
-to              : markdown_phpextra+yaml_title_block
+to              : markdown-citations+yaml_metadata_block
 bibliography    : biblio.bib
 cite-method     : citeproc
 fail-if-warnings: true
@@ -17,3 +17,5 @@ metadata:
   suppress-bibliography: false
 toc             : true
 toc-depth       : 1
+variables:
+  css           : "assets/css/slide.css"

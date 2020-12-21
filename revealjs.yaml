@@ -27,7 +27,6 @@ variables:
   width         : 1920
   progress      : true
   revealjs-url  : "reveal.js"
-  theme         : "white"
   title-slide-attributes:
     data-background-image: https://upload.wikimedia.org/wikipedia/commons/3/33/Cole_Thomas_The_dream_of_the_architect_210_Sun_Unedited.jpg
     data-background-size: cover

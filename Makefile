@@ -6,17 +6,20 @@ vpath %.xml _site
 SASS      = $(wildcard *.scss)
 ANYTHING  = $(filter-out _site,$(wildcard *))
 MARKDOWN  = $(filter-out README.md,$(wildcard *.md))
-REVEALJS  = $(wildcard [0-9][0-9]-*.md)
-SLIDES   := $(patsubst %.md,_site/%.html,$(REVEALJS))
-PAGES    := $(filter-out $(REVEALJS),$(ANYTHING))
+AULAS     = $(wildcard [0-9][0-9]-*.md)
+SLIDES   := $(patsubst %.md,_site/%.html,$(AULAS))
+NOTAS    := $(patsubst %.md,_notas/%.md,$(AULAS))
+PAGES    := $(filter-out $(AULAS),$(ANYTHING))
 PANDOC/CROSSREF := pandoc/crossref:2.11.2
 PANDOC/LATEX    := pandoc/latex:2.11.2
 
-deploy : jekyll slides
+deploy : _site slides notas
 
 slides : $(SLIDES)
 
-_site : $(PAGES) $(SASS) _config.yaml
+notas : $(NOTAS)
+
+_site : $(NOTAS) $(PAGES) $(SASS) _config.yaml
 	docker run -v "`pwd`:/srv/jekyll" \
 		jekyll/jekyll:4.1.0 /bin/bash -c \
 		"chmod 777 /srv/jekyll && jekyll build --future"
@@ -25,9 +28,9 @@ _site/%.html : %.md revealjs.yaml biblio.bib | _styles _site
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		$(PANDOC/CROSSREF) -o $@ -d revealjs.yaml $<
 
-_site/%-notas.html : %.md notas.yaml biblio.bib | _styles _site
+_notas/%.md : %.md notas.yaml biblio.bib | _styles _notas
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
-		$(PANDOC/CROSSREF) -o $@ -d revealjs.yaml $<
+		$(PANDOC/CROSSREF) -o $@ -d notas.yaml $<
 
 biblio.bib : basica.bib complementar.bib
 	cat $^ > $@
@@ -39,3 +42,6 @@ serve :
 
 _styles :
 	git clone https://github.com/citation-style-language/styles.git _styles
+
+_notas :
+	mkdir -p _notas
