@@ -103,6 +103,8 @@ Estagiária docente
 Monitores
 : 
 
+# Objetivos e programa da disciplina #
+
 ## Objetivos de aprendizagem ##
 
 O objetivo da disciplina é conferir um domínio operativo da arquitetura
@@ -112,19 +114,61 @@ produção do ambiente construído. Este propósito se desdobra em cinco
 aspectos que correspondem a cada uma das unidades do programa:
 
 I Construção
-: 
+: Manipular componentes construtivos tradicionais em estruturas
+  arquitravadas e naquelas murárias--arqueadas, bem como a lógica
+  intrínseca aos detalhes construtivos de origem vernácula.
 
 II Elementos da arquitetura
-: 
+: Dominar as cinco ordens clássicas da arquitetura e ser capaz de as
+  empregar em composições simples, reconhecendo seus aspectos estéticos
+  assim como sua lógica de representação construtiva (disposição,
+  proporções, modenatura).
 
 III Elementos de composição
-: 
+: Articular espaços com formas geométricas definidas, usando os
+  elementos da construção tradicional e da arquitetura clássica para dar
+  forma e caráter a esses espaços.
 
 IV Tipos edilícios
-: 
+: Reconhecer os seis tipos edilícios fundamentais e realizar composições
+  tipológicas simples por meio da articulação de espaços tradicionais.
 
 V Conjuntos
-: 
+: Contextualizar a prática da arquitetura nos processos de urbanização
+  e de formação de paisagens, reconhecendo, analisando e aplicando os
+  padrões geradores da cidade tradicional.
+
+## Programa ##
+
+### Unidade I › Construção ###
+
+ 1. Construção tradicional
+ 2. Primórdios da arquitetura
+ 3. Mundo grego
+
+### Unidade II › Elementos da arquitetura ###
+
+ 4. As ordens clássicas
+ 5. Mundo romano
+ 6. China, Japão e Coreia
+
+### Unidade III › Elementos de composição ###
+
+ 7. Espaços e volumes
+ 8. Índia e Sudeste asiático
+ 9. Arquitetura paleocristã e bizantina
+
+### Unidade IV › Tipos edilícios ###
+
+10. Os seis tipos edilícios
+11. Mundo islâmico
+12. Arquitetura medieval primitiva e românica
+
+### Unidade V › Conjuntos ###
+
+13. Princípios de urbanização
+14. Gótico
+15. África e Américas
 
 # Metodologia e atividades didáticas #
 
@@ -172,34 +216,32 @@ para cada Unidade:
 
 Cada Tópico de conteúdo da disciplina foi previsto para ser cumprido em
 uma semana, completando 15 semanas no semestre. Vamos acompanhar o
-conteúdo com [Resenhas][] e discussões semanais sobre a leitura do
-livro-texto e de outros textos relevantes. Todas as leituras estão
-indicadas no [Cronograma](cronograma.md).
-
-Às terças e quintas-feiras às 19h (horário de Brasília) teremos uma
-videoconferência ao vivo na plataforma [Microsoft Teams][] da UnB.
+conteúdo com leituras e discussões semanais sobre o livro-texto e outros
+textos relevantes. Todas as leituras estão indicadas no Cronograma.
 
 No ambiente virtual de aprendizagem [Aprender 3][] você vai encontrar,
 para cada Tópico:
 
 - Sumário do conteúdo;
-- Atividade de leitura semanal;
-- Videoaulas desenvolvendo alguns aspectos do conteúdo especialmente
-  importantes para a sequência do semestre;
+- Leitura semanal;
+- Videoaulas ao vivo ou gravadas;
 - Notas de aula escritas (o conteúdo das videoaulas é idêntico ao das
   notas escritas).
 
 #### Aula invertida ####
 
+Às terças e quintas-feiras às 19h (horário de Brasília) teremos uma
+videoconferência ao vivo na plataforma [Microsoft Teams][] da UnB.
 Nossos encontros por videoconferência serão sempre aulas *invertidas*. O
 que queremos dizer com isso? No ensino *normal*, o horário da aula é
 usado para transmissão do conteúdo, geralmente na forma expositiva, e os
 alunos desenvolvem os trabalhos fora do horário da aula. Numa aula
 *invertida*, vocês estudam o conteúdo no horário que for mais
 conveniente, e o nosso encontro ao vivo é dedicado ao desenvolvimento
-supervisionado dos trabalhos e a outras dinâmicas interativas. Nesse
-sistema, a aula é conduzida *por vocês* --- pelas suas demandas e
-necessidades na elaboração dos trabalhos e na compreensão do conteúdo.
+supervisionado dos trabalhos, a tirar dúvidas sobre o conteúdo, e a
+outras dinâmicas interativas. Nesse sistema, a aula é conduzida *por
+vocês* --- pelas suas demandas e necessidades na elaboração dos
+trabalhos e na compreensão do conteúdo.
 
 #### Frequência às aulas ####
 
@@ -222,38 +264,6 @@ seguindo eventuais decisões da FAU ou dos órgãos superiores da UnB.
 leituras semanais,* você pode cumprir o conteúdo (leituras e videoaulas)
 e fazer as atividades (participação nos fóruns e entrega dos trabalhos)
 no tempo e horário que for mais conveniente.
-
-# Programa #
-
-### Unidade I › Construção ###
-
- 1. Construção tradicional
- 2. Primórdios da arquitetura
- 3. Mundo grego
-
-### Unidade II › Elementos da arquitetura ###
-
- 4. As ordens clássicas
- 5. Mundo romano
- 6. China, Japão e Coreia
-
-### Unidade III › Elementos de composição ###
-
- 7. Espaços e volumes
- 8. Índia e Sudeste asiático
- 9. Arquitetura paleocristã e bizantina
-
-### Unidade IV › Tipos edilícios ###
-
-10. Os seis tipos edilícios
-11. Mundo islâmico
-12. Arquitetura medieval primitiva e românica
-
-### Unidade V › Conjuntos ###
-
-13. Princípios de urbanização
-14. Gótico
-15. África e Américas
 
 # Apoio ao aluno #
 
@@ -293,81 +303,214 @@ que você comentou!
 
 # Metodologia de avaliação #
 
-- Módulo **comum:**
-  - Desenvolver a capacidade de interpretar e discutir um texto
-    acadêmico, fazendo perguntas ou levantando problemas pertinentes.
-- Plano de estudos **Teoria e prática da arquitetura tradicional:**
-  - Desenvolver domínio aplicado dos princípios projetuais e dos
-    sistemas de proporção na arquitetura tradicional;
-  - Desenvolver domínio aplicado da concepção construtiva tradicional e
-    dos componentes construtivos naturais;
-  - Desenvolver domínio aplicado das convenções de projeção geométrica e
-    de desenho arquitetônico ou maquete.
-- Plano de estudos **Pesquisa em história da arquitetura:**
-  - Desenvolver capacidade de levantar e organizar material
-    bibliográfico e de refletir criticamente sobre ele;
-  - Desenvolver clareza e pertinência na elaboração do argumento
-    principal e na apresentação de referências bibliográficas ou
-    projetuais;
-  - Desenvolver domínio aplicado das convenções de redação acadêmica,
-    citação de referências e paginação.
+## Organização e normas gerais ##
 
+A nota final da disciplina é computada a partir do acompanhamento da
+leitura do livro-texto e de outros textos indicados, além de cinco
+trabalhos que correspondem a cada uma das cinco [Unidades do
+Programa](#programa).
 
-Procedimentos de avaliação
-==========================
+| Unidade | Trabalho                       | Processo | Produto | Subtotal |
+|:-------:|:-------------------------------|---------:|--------:|---------:|
+|    I    | Edículas vernáculas            |       10 |      10 |       20 |
+|    II   | Analítico com ordens clássicas |       10 |      10 |       20 |
+|   III   | Pavilhão com ambiente único    |       10 |      10 |       20 |
+|    IV   | Resolução de planta baixa      |       10 |      10 |       20 |
+|    V    | Sucessão urbanística           |       10 |      10 |       20 |
+|         | **Total**                      |          |         |  **100** |
 
-Módulo comum
-------------
+: Atividades avaliativas da disciplina e respectiva pontuação
 
-<details> <summary> Leitura e discussão do livro-texto </summary>
+A entrega de todas as atividades da disciplina será feita,
+exclusivamente, por meio eletrônico, na plataforma [Aprender 3][] da
+UnB, nos fóruns e tarefas previstos para esse fim. Não recebemos, *sob
+hipótese alguma*, trabalhos por e-mail. A participação na
+videoconferência *não substitui* a discussão dos textos por escrito.
 
-- Redigir um breve parágrafo (3 a 5 frases bem articuladas) resumindo,
-  nas suas próprias palavras, o argumento principal do texto,
-  eventualmente complementando com detalhes sobre algum tópico de seu
-  interesse abordado no texto.
-- Propor uma pergunta ou problema, relacionados à leitura, para
-  discussão aprofundada em grupo. Indicar por que a questão escolhida é
-  problemática ou gera dificuldades de interpretação --- ela deve ir
-  além, portanto, de simples dúvidas factuais que possam ser resolvidas
-  consultando a bibliografia ou a Wikipédia.
-- Contribuir respostas ou debates nas questões levantadas pelos demais
-  colegas da turma.
-- Ao final do semestre, cada aluno deverá ter resenhado no mínimo 8 dos
-  10 capítulos do livro-texto; caso tenha resenhado mais que 8, apenas
-  as 8 melhores notas serão consideradas.
+<!--
+   -Entregas com atraso sofrerão desconto de 10 pontos (sobre 100) por
+   -semana de atraso, exceto nos casos justificados e comprovados previstos
+   -na legislação e nos regimento aplicáveis.
+   -->
 
-</details>
+Necessidades especiais na realização das atividades da disciplina e no
+acompanhamento do semestre devem ser apontadas ao professor da turma o
+mais cedo possível, e serão analisadas caso a caso à luz das regras em
+vigor.
 
-Teoria e prática da arquitetura tradicional
--------------------------------------------
+#### Plágio ####
 
-<details> <summary> Construção natural </summary>
+Integridade e reconhecimento são valores éticos fundamentais da
+cidadania e da profissão. Apropriação do trabalho alheio --- seja de
+colegas de turma, da bibliografia, ou de material "garimpado" na
+Internet --- é uma prática inaceitável e resultará em atribuição da nota
+0 (zero) ao trabalho que incorrer nela. Dependendo da gravidade do fato,
+podemos relatar o ocorrido ao colegiado de graduação da FAU.
 
-</details>
+<!--
+   -## Estrutura da avaliação ##
+   -
+   -- Módulo **comum:**
+   -  - Desenvolver a capacidade de interpretar e discutir um texto
+   -    acadêmico, fazendo perguntas ou levantando problemas pertinentes.
+   -- Plano de estudos **Teoria e prática da arquitetura tradicional:**
+   -  - Desenvolver domínio aplicado dos princípios projetuais e dos
+   -    sistemas de proporção na arquitetura tradicional;
+   -  - Desenvolver domínio aplicado da concepção construtiva tradicional e
+   -    dos componentes construtivos naturais;
+   -  - Desenvolver domínio aplicado das convenções de projeção geométrica e
+   -    de desenho arquitetônico ou maquete.
+   -- Plano de estudos **Pesquisa em história da arquitetura:**
+   -  - Desenvolver capacidade de levantar e organizar material
+   -    bibliográfico e de refletir criticamente sobre ele;
+   -  - Desenvolver clareza e pertinência na elaboração do argumento
+   -    principal e na apresentação de referências bibliográficas ou
+   -    projetuais;
+   -  - Desenvolver domínio aplicado das convenções de redação acadêmica,
+   -    citação de referências e paginação.
+   -
+   -## Módulo comum ##
+   -
+   -<details> <summary> Leitura e discussão do livro-texto </summary>
+   -
+   -- Redigir um breve parágrafo (3 a 5 frases bem articuladas) resumindo,
+   -  nas suas próprias palavras, o argumento principal do texto,
+   -  eventualmente complementando com detalhes sobre algum tópico de seu
+   -  interesse abordado no texto.
+   -- Propor uma pergunta ou problema, relacionados à leitura, para
+   -  discussão aprofundada em grupo. Indicar por que a questão escolhida é
+   -  problemática ou gera dificuldades de interpretação --- ela deve ir
+   -  além, portanto, de simples dúvidas factuais que possam ser resolvidas
+   -  consultando a bibliografia ou a Wikipédia.
+   -- Contribuir respostas ou debates nas questões levantadas pelos demais
+   -  colegas da turma.
+   -- Ao final do semestre, cada aluno deverá ter resenhado no mínimo 8 dos
+   -  10 capítulos do livro-texto; caso tenha resenhado mais que 8, apenas
+   -  as 8 melhores notas serão consideradas.
+   -
+   -</details>
+   -
+   -## Teoria e prática da arquitetura tradicional ##
+   -
+   -<details> <summary> Construção natural </summary>
+   -
+   -</details>
+   -
+   -1. Análise bioclimática da habitação antiga
+   -2. Aspectos econômicos e sintáticos dos tecidos urbanos
+   -3. Desenho analítico de ordem clássica (dimensão estética)
+   -4. Proposição de composição clássica (dimensão topológica)
+   -5. Estudo de transformação funcional da malha urbana
+   -
+   -## Pesquisa em história da arquitetura ##
+   -
+   -- Descrição (Wikipédia)
+   -- Parágrafo de tópico (Wikipédia)
+   -- Revisão bibliográfica (Wikipédia)
+   -- Ensaio (post de blog)
+   -
+   -->
 
-1. Análise bioclimática da habitação antiga
-2. Aspectos econômicos e sintáticos dos tecidos urbanos
-3. Desenho analítico de ordem clássica (dimensão estética)
-4. Proposição de composição clássica (dimensão topológica)
-5. Estudo de transformação funcional da malha urbana
+#### Critérios de aprovação na disciplina ####
 
-Pesquisa em história da arquitetura
------------------------------------
+Para obter aprovação na disciplina, você precisa atender a *todos* os
+três requisitos seguintes:
 
-- Descrição (Wikipédia)
-- Parágrafo de tópico (Wikipédia)
-- Revisão bibliográfica (Wikipédia)
-- Ensaio (post de blog)
+- Entregar **todos** os cinco trabalhos das Unidades.
+- Obter a média final de 5,0 (MM).
+- Cumprir a frequência mínima exigida.
 
-Cronograma
-==========
+## Sobre os trabalhos ##
 
-Ver [Cronograma](cronograma.md)
+Cada trabalho representa uma aplicação do conteúdo da respectiva
+Unidade, demandando compreensão dos princípios arquitetônicos e
+urbanísticos abordados, para além da simples repetição das aulas. Por
+isso, os trabalhos e seus critérios de avaliação estão alinhados aos
+objetivos de aprendizagem de cada Unidade. No entanto, o conhecimento e
+as competências a serem aplicadas em cada trabalho são cumulativos: você
+precisará ter dominado os requisitos de um trabalho para ter sucesso no
+trabalho seguinte!
+
+#### Processo ####
+
+Metade da nota de cada trabalho é dada pelo processo de desenvolvimento
+que você seguir. Trabalhe com regularidade, buscando orientação em aula
+e apresentando o seu esforço em andamento. A sua exploração das técnicas
+de montagem construtiva e de composição espacial, dentro da tradição
+clássica, são o fator determinante nesta componente da nota.
+
+#### Produto ####
+
+A outra metade da nota é dada pelo resultado final de cada trabalho, tal
+como apresentado e entregue na data estipulada no cronograma. O capricho
+na execução, a precisão de proporções e detalhes, e a clareza na
+apresentação visual são os fatores preponderantes nesta componente da
+nota.
+
+#### Um esclarecimento sobre criatividade e originalidade ####
+
+Numa faculdade de Arquitetura, somos muitas vezes instados a inventar
+uma "expressão individual" e a demonstrar "originalidade". Em se
+tratando de arquitetura e urbanismo tradicionais e da pesquisa
+histórica, contudo, a nossa exigência de originalidade é simples: não
+copiar o trabalho alheio e não se apropriar das ideias de outrem sem dar
+o devido crédito. Aspiramos à *qualidade* antes que à *novidade*, e
+consideramos que a criatividade consiste em resolver com apuro e
+propriedade um determinado problema de projeto ou pesquisa, baseando-se
+nos repertórios das tradições arquitetônicas e nos métodos e referências
+da pesquisa histórica.
 
 # Bibliografia #
 
-Básica
-------
+## Livro-texto ##
+
+> Fazio, Michael; Marian Moffett; Lawrence Wodehouse. *A história da
+> arquitetura mundial*. Trad. Alexandre Salvaterra. Porto Alegre: AMGH,
+> 2011.
+
+<details>
+
+  <summary>
+
+  Como obter o e-book
+
+  </summary>
+
+  Acessar o site da [Biblioteca Central](https://bce.unb.br). Pesquisar
+  pelo livro usando a `Busca integrada` (função de busca padrão da
+  BCE). Na visualização do resultado, clicar no link `View record at
+  Minha Biblioteca`. Fazer login no serviço de leitura online usando as
+  credenciais da BCE (CPF e senha usada no balcão de empréstimo).
+
+</details>
+
+O livro-texto oferece um sobrevoo introdutório dos temas históricos
+tratados ao longo do semestre. Os capítulos relevantes para cada tópico
+estão indicados no cronograma da disciplina.
+
+## Manuais práticos de arquitetura clássica ##
+
+As duas obras indicadas abaixo são os pontos de partida mais indicados
+para a elaboração dos trabalhos, e devem ser estudadas com afinco.
+
+> Chitham, Robert. *The Classical Orders of Architecture.* 2.ª ed.
+> Amsterdam: Architectural Press, 2005.
+>
+> Vitrúvio. *Tratado de arquitectura.* Traduzido por M. Justino Maciel.
+> Lisboa: IST Press, 2006 (também disponível em edição brasileira, São
+> Paulo: Martins Fontes, 2007).
+
+Há um grande número de edições e traduções do tratado de Vitrúvio,
+produzidas desde o século XV até os dias de hoje. Algumas têm
+ilustrações que facilitam a compreensão do texto, com destaque para a
+tradução francesa de [Claude Perrault (1673)][] e a americana de [Morris
+Morgan (1914)][].
+
+## Básica ##
+
+A bibliografia básica representa um corpo de conhecimentos mínimo para
+entender o conteúdo da disciplina, mas não esgota as referências
+necessárias para realizar os trabalhos.
 
 <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Benevolo, Leonardo. <i>História da Cidade</i>. 5<sup>o</sup> ed. São Paulo: Perspectiva, 2011.</div>
@@ -382,8 +525,11 @@ Básica
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-85-7707-003-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Tratado%20de%20arquitetura&amp;rft.place=S%C3%A3o%20Paulo&amp;rft.publisher=Martins%20Fontes&amp;rft.au=undefined&amp;rft.au=M.%20Justino%20Maciel&amp;rft.date=2007&amp;rft.isbn=978-85-7707-003-9&amp;rft.language=Portuguese"></span>
 </div>
 
-Complementar
-------------
+## Complementar ##
+
+A bibliografia complementar oferece um aprofundamento opcional em
+conteúdos mais específicos, bem como discussões teóricas relevantes para
+a abordagem desta disciplina.
 
 <div class="csl-bib-body" style="line-height: 1.35; margin-left: 2em; text-indent:-2em;">
   <div class="csl-entry">Adams, Cassandra. “Japan’s Ise Shrine and Its Thirteen-Hundred-Year-Old Reconstruction Tradition”. <i>Journal of Architectural Education (1984-)</i> 52, n<sup>o</sup> 1 (1998): 49–60. <a href="http://www.jstor.org/stable/1425495">http://www.jstor.org/stable/1425495</a>.</div>
@@ -478,4 +624,6 @@ Complementar
 
 [Microsoft Teams]: https://teams.microsoft.com
 
-[Resenha]: https://pt.wikipedia.org/wiki/Resenha
+[Claude Perrault (1673)]: http://archive.org/details/gri_33125008503100
+
+[Morris Morgan (1914)]: http://archive.org/details/vitruviusthetenbooksonarchitecture
