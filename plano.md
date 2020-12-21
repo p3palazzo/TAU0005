@@ -140,7 +140,7 @@ V Conjuntos
 
 ## Programa ##
 
-### Unidade I › Construção ###
+### Unidade I › Construção tradicional ###
 
  1. Construção tradicional
  2. Primórdios da arquitetura
