@@ -10,14 +10,13 @@ AULAS     = $(wildcard [0-9][0-9]-*.md)
 SLIDES   := $(patsubst %.md,_site/%.html,$(AULAS))
 NOTAS    := $(patsubst %.md,_notas/%.md,$(AULAS))
 PAGES    := $(filter-out $(AULAS),$(ANYTHING))
+
 PANDOC/CROSSREF := pandoc/crossref:2.11.2
 PANDOC/LATEX    := pandoc/latex:2.11.2
 
-deploy : _site slides notas
+deploy : _site slides
 
 slides : $(SLIDES)
-
-notas : $(NOTAS)
 
 _site : $(NOTAS) $(PAGES) $(SASS) _config.yaml
 	docker run -v "`pwd`:/srv/jekyll" \
