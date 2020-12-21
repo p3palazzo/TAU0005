@@ -2,7 +2,6 @@ VPATH = .:assets
 vpath %.html .:_includes:_layouts:_site
 vpath %.scss assets/css
 vpath %.xml _site
-vpath %.yaml spec
 
 ANYTHING  = $(filter-out _site,$(wildcard *))
 MARKDOWN  = $(filter-out README.md,$(wildcard *.md))
