@@ -1,6 +1,5 @@
 ---
 title   : "Teoria da construção tradicional"
-subtitle: "Tópico I"
 author  : "Pedro P. Palazzo"
 abstract: |
   -- Por que estudar arquitetura tradicional
