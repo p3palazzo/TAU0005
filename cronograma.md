@@ -19,10 +19,10 @@ layout     : page
 |        | -- Origem da arquitetura clássica segundo Durm             |                                                |              |
 +--------+------------------------------------------------------------+------------------------------------------------+--------------+
 |     II | **Primórdios da arquitetura**                              | Livro-texto capítulo 1                         | 08/02        |
-|        | -- Construção tradicional e bioclimatismo                  | Recomendado: História global p. 1--52          |              |
 |        | -- Sistemas construtivos em madeira e terra                |                                                |              |
-|        | -- Monumentalidade e sistemas estruturais arquitravados    |                                                |              |
+|        | -- Construção tradicional e bioclimatismo                  | Recomendado: História global p. 1--52          |              |
 |        | -- Muros, paredes e terraplenos                            |                                                |              |
+|        | -- Monumentalidade e sistemas estruturais arquitravados    |                                                |              |
 +--------+------------------------------------------------------------+------------------------------------------------+--------------+
 |    III | **Mundo grego e oriental**                                 | Livro-texto capítulo 2, rever também p. 39--40 | 15/02        |
 +--------+------------------------------------------------------------+------------------------------------------------+--------------+
