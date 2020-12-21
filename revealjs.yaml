@@ -8,7 +8,7 @@ filters:
   - pandoc-crossref
   - citeproc
 metadata:
-  csl           : "styles/chicago-author-date.csl"
+  csl           : "_styles/chicago-author-date.csl"
   cssLabelSep   : "&ndash;"
   figureTitle   : Figura
   lang          : pt-BR
