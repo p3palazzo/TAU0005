@@ -60,7 +60,7 @@ layout     : page
 +--------+-----------------------------------------------------------------+------------------------------------------------+--------------+
 |   VIII | **Do classicismo ao cristianismo**                              | Livro-texto capítulo 6, ver também p. 301      | 29/03        |
 |        | -- Continuidade entre a Antiguidade tardia e a Idade Média      |                                                |              |
-|        | -- Uso de espólios e transformações na cultura edilícia         |                                                |              |
+|        | -- Preexistências e transformações na cultura edilícia          |                                                |              |
 |        | -- Composições espaciais no mundo judaico-cristão               |                                                |              |
 |        | -- Artes decorativas no norte da Europa e na rota da Seda       |                                                |              |
 +--------+-----------------------------------------------------------------+------------------------------------------------+--------------+
@@ -73,10 +73,22 @@ layout     : page
 |        | MÓDULO IV › TIPOS EDILÍCIOS                                     | Trabalho: Resolução de planta baixa            | 12/04--02/05 |
 +--------+-----------------------------------------------------------------+------------------------------------------------+--------------+
 |      X | **Teoria da tipologia edilícia**                                | Vitrúvio livros V e VI                         | 12/04        |
+|        | -- História da arte ou história da construção                   |                                                |              |
+|        | -- Tipologia processual: ferramentas de análise e projeto       |                                                |              |
+|        | -- Seis tipos edilícios fundamentais                            |                                                |              |
+|        | -- Princípios do projeto tipológico                             |                                                |              |
 +--------+-----------------------------------------------------------------+------------------------------------------------+--------------+
-|     XI | **Territórios árabe-islâmicos**                                 | Livro-texto capítulo 7                         | 19/04        |
+|     XI | **Territórios árabe-islâmicos**                                 | Livro-texto capítulo 7, ver também p. 301--302 | 19/04        |
+|        | -- Da casa à mesquita, um processo tipológico                   |                                                |              |
+|        | -- Cultura doméstica no Mediterrâneo medieval                   |                                                |              |
+|        | -- Ornamento, geometria e paisagismo                            |                                                |              |
+|        | -- Da arquitetura tipológica às malhas espaciais                |                                                |              |
 +--------+-----------------------------------------------------------------+------------------------------------------------+--------------+
 |    XII | **Europa pré-românica e românica**                              | Livro-texto capítulo 8                         | 26/04        |
+|        | -- Raízes ibéricas da arquitetura religiosa europeia            |                                                |              |
+|        | -- Persistência da tradição clássica                            |                                                |              |
+|        | -- Arquitetura das peregrinações                                |                                                |              |
+|        | -- Construção de abóbadas                                       |                                                |              |
 +--------+-----------------------------------------------------------------+------------------------------------------------+--------------+
 |        | MÓDULO V › CONJUNTOS EDIFICADOS                                 | Trabalho: Sucessão urbanística                 | 03/05--22/05 |
 +--------+-----------------------------------------------------------------+------------------------------------------------+--------------+
@@ -86,3 +98,4 @@ layout     : page
 +--------+-----------------------------------------------------------------+------------------------------------------------+--------------+
 |     XV | **Universos africanos medievais**                               | Livro-texto capítulo 10                        | 17/05        |
 +--------+-----------------------------------------------------------------+------------------------------------------------+--------------+
+
