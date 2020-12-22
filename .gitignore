@@ -6,8 +6,9 @@ downloads
 node_modules
 package-lock.json
 
-#  Jekyll
+#  Jekyll & Pandoc
 _site
+_styles
 .vendor
 Gemfile.lock
 .jekyll-cache
