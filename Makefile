@@ -11,8 +11,11 @@ SLIDES   := $(patsubst %.md,_site/%.html,$(AULAS))
 NOTAS    := $(patsubst %.md,_notas/%.md,$(AULAS))
 PAGES    := $(filter-out $(AULAS),$(MARKDOWN))
 
-PANDOC/CROSSREF := pandoc/crossref:2.11.2
-PANDOC/LATEX    := pandoc/latex:2.11.2
+PANDOC/CROSSREF := docker run -v "`pwd`:/data" \
+	--user "`id -u`:`id -g`" pandoc/crossref:2.11.2
+PANDOC/LATEX    := docker run --user "`id -u`:`id -g`" \
+	-v "`pwd`:/data" -v "`pwd`/assets/fonts:/usr/share/fonts" \
+	pandoc/latex:2.11.2
 
 deploy : _site slides
 
@@ -24,23 +27,18 @@ _site : $(NOTAS) $(PAGES) $(SASS) _config.yaml
 		"chmod 777 /srv/jekyll && jekyll build --future"
 
 _site/%.html : %.md revealjs.yaml biblio.bib | _styles _site
-	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
-		$(PANDOC/CROSSREF) -o $@ -d revealjs.yaml $<
+	$(PANDOC/CROSSREF) -o $@ -d revealjs.yaml $<
 
 _notas/%.md : %.md notas.yaml biblio.bib | _styles _notas
-	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
-		$(PANDOC/CROSSREF) -o $@ -d notas.yaml $<
+	$(PANDOC/CROSSREF) -o $@ -d notas.yaml $<
 
 %.pdf : %.tex biblio.bib
-	xelatex $*
-	biber $*
-	xelatex $*
-	xelatex $*
+	docker run -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
+		-v "`pwd`/assets/fonts/unb:/usr/share/fonts" blang/latex:ctanfull \
+		latexmk -pdflatex="xelatex" -cd -f -interaction=batchmode -pdf $<
 
 %.tex : %.md latex.yaml biblio.bib
-	docker run --user "`id -u`:`id -g`" \
-		-v "`pwd`:/data" -v "`pwd`/assets/fonts:/usr/share/fonts" \
-		$(PANDOC/LATEX) -o $@ -d latex.yaml $<
+	$(PANDOC/LATEX) -o $@ -d latex.yaml $<
 
 serve :
 	docker run -p 4000:4000 -h 127.0.0.1 \

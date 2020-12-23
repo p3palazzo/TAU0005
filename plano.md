@@ -3,7 +3,7 @@ title   : "TAU 0005 · História da Arquitetura e da Arte I"
 subtitle: "Plano de ensino · Turma C · 2.º/2020"
 fontsize: 11pt
 indent  : true
-nocite: "@*"
+nocite  : "@*"
 suppress-bibliography: true
 abstract: >
   História do urbanismo, da arquitetura e da arte no contexto de seus
