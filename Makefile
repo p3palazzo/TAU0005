@@ -50,3 +50,6 @@ _styles :
 
 _notas :
 	mkdir -p _notas
+
+clean :
+	@rm *.aux *.bbl *.bcf *.blg *.fls *.log
