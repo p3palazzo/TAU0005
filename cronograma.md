@@ -10,7 +10,6 @@ geometry:
 - textwidth=720pt
 - textheight=480pt
 layout     : page
-toc        : false
 ---
 
 +--------+-----------------------------------------------------------------+------------------------------------------------+--------------+
@@ -109,9 +108,21 @@ toc        : false
 |        | MÓDULO V › CONJUNTOS EDIFICADOS                                 | Trabalho: Sucessão urbanística                 | 03/05--22/05 |
 +--------+-----------------------------------------------------------------+------------------------------------------------+--------------+
 |   XIII | **Teoria da forma urbana**                                      | Vitrúvio livro I, cap. iv--vii                 | 03/05        |
+|        | -- Princípios de morfologia urbana                              | Recomendado: Panerai, cap. 4                   |              |
+|        | -- *Res publica* e *res economica*                              |                                                |              |
+|        | -- Rua e praça na cidade antiga                                 |                                                |              |
+|        | -- Parcelamento do solo e arquitetura                           |                                                |              |
 +--------+-----------------------------------------------------------------+------------------------------------------------+--------------+
-|   XIV  | **Europa gótica**                                               | Livro-texto capítulo 9                         | 10/05        |
+|    XIV | **Europa gótica**                                               | Livro-texto capítulo 9                         | 10/05        |
+|        | -- Crescimentos urbanos na Europa medieval                      |                                                |              |
+|        | -- Casas, castelos e outras arquiteturas civis                  |                                                |              |
+|        | -- Tecnologia e profissão na construção gótica                  |                                                |              |
+|        | -- Espacialidade na pintura gótica italiana                     |                                                |              |
 +--------+-----------------------------------------------------------------+------------------------------------------------+--------------+
-|   XV   | **Universos africanos medievais**                               | Livro-texto capítulo 10                        | 17/05        |
+|     XV | **Cidades medievais na África**                                 | Livro-texto capítulo 10                        | 17/05        |
+|        | -- Medinas e arrabaldes no Magrebe e al-Ândalus                 |                                                |              |
+|        | -- Impérios urbanos na bacia do Níger                           |                                                |              |
+|        | -- Cidades da costa Suaíle                                      |                                                |              |
+|        | -- Redes de *boma* bantos e o Grande Zimbábue                   |                                                |              |
 +--------+-----------------------------------------------------------------+------------------------------------------------+--------------+
 
