@@ -31,13 +31,16 @@ _notas/%.md : %.md notas.yaml biblio.bib | _styles _notas
 	docker run -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		$(PANDOC/CROSSREF) -o $@ -d notas.yaml $<
 
-%.pdf : %.md latex.yaml biblio.bib | _styles
+%.pdf : %.tex biblio.bib
+	xelatex $*
+	biber $*
+	xelatex $*
+	xelatex $*
+
+%.tex : %.md latex.yaml biblio.bib
 	docker run --user "`id -u`:`id -g`" \
 		-v "`pwd`:/data" -v "`pwd`/assets/fonts:/usr/share/fonts" \
 		$(PANDOC/LATEX) -o $@ -d latex.yaml $<
-
-biblio.bib : basica.bib complementar.bib
-	cat $^ > $@
 
 serve :
 	docker run -p 4000:4000 -h 127.0.0.1 \

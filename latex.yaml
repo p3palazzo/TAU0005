@@ -1,24 +1,15 @@
 from            : markdown+raw_tex
 to              : latex
-cite-method     : citeproc
+cite-method     : biblatex
 fail-if-warnings: true
 file-scope      : true
 filters:
   - pandoc-crossref
   - citeproc
 metadata:
-  bibliography  : biblio.bib
-  csl           : "_styles/chicago-author-date.csl"
   cssLabelSep   : "&ndash;"
-  documentclass : scrartcl
+  documentclass : article
   figureTitle   : Figura
-  fontsize      : 11pt
-  include-before:
-    - \setkomafont{title}{\sffamily\Huge}
-    - \setkomafont{section}{\LARGE}
-    - \setkomafont{descriptionlabel}{\rmfamily\bfseries}
-    - \setkomafont{paragraph}{\large}
-  indent        : true
   lang          : pt
   layout        : page
   mainfont      : "UnB Pro"
@@ -27,18 +18,24 @@ metadata:
     - BoldFont       = UnBPro-Bold
     - ItalicFont     = UnBPro-RegularItalic
     - BoldItalicFont = UnBPro-BoldItalic
-  pagestyle     : fancy
   sansfont      : "UnB Pro-Light"
   secnumdepth   : 2
   papersize     : a4
   tableTitle    : Tabela
-  suppress-bibliography: false
 number-sections : true
 pdf-engine      : xelatex
-toc             : true
-toc-depth       : 1
+standalone      : true
+template        : default.latex
 variables:
+  bibliography  : biblio.bib
+  biblio-style  : authoryear
+  biblatexoptions:
+    - babel=other
+    - backend=biber
+    - bibencoding=inputenc
   header-includes:
+    - \usepackage{fancyhdr}
+    - \pagestyle{fancy}
     - \fancyhf{}
     - \lhead{\XeTeXglyph \XeTeXglyphindex "ass_completa_CONT" \relax}
     - \lfoot{\small{FAU/THAU/PP/2020}}
@@ -46,5 +43,13 @@ variables:
     - \renewcommand{\headrulewidth}{0.5pt}
     - \renewcommand{\footrulewidth}{0.5pt}
     - \newcommand{\pcdoc}{Pandoc-crossref documentation}
+    - \usepackage{csquotes}
   include-before:
     - \thispagestyle{empty}
+  polyglossia-otherlangs:
+    - name: english
+    - name: french
+    - name: german
+    - name: italian
+    - name: latin
+    - name: spanish
