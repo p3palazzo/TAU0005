@@ -60,13 +60,10 @@ plugins:
   #- jekyll-scholar
 
 # Keep and Exclude {{{2
-keep_files:
-  - reveal.js
 exclude:
   - "[0-9][0-9]-*.md"
-  - downloads
+  - "*.yaml"
   - reveal.js
-  - spec
   - Gemfile*
   - LICENSE
   - Makefile
