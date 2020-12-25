@@ -245,18 +245,30 @@ outras dinâmicas interativas. Nesse sistema, a aula é conduzida *por
 vocês* --- pelas suas demandas e necessidades na elaboração dos
 trabalhos e na compreensão do conteúdo.
 
+#### Terça-feira ####
+
+Este encontro é dedicado à orientação e análise dos trabalhos. O
+material a ser orientado deve ser depositado no módulo de entrega
+correspondente no Aprender 3 até as 19h da véspera (segunda-feira).
+
+#### Quinta-feira ####
+
+Este encontro é dedicado à discussão das leituras e do conteúdo das
+videoaulas. Quem não pretender participar ativamente da videoconferência
+(fazendo perguntas ou comentando) deverá postar alguma contribuição no
+fórum de construção colaborativa do conteúdo da disciplina, no Aprender
+3, até as 17h do mesmo dia (quinta-feira).
+
 #### Frequência às aulas ####
 
 Participar da videoconferência *não é obrigatório*. No entanto, a UnB
 considera oficialmente esta disciplina como sendo "presencial",
 portanto temos que controlar a "frequência" ao longo do semestre. Assim,
-você deve se fazer "presente" em pelo menos 75 % das semanas do semestre
-(12 de 15), participando ativa e produtivamente das discussões com a
-turma. Para tanto, manifeste-se *com propriedade* nos diversos fóruns
-disponíveis no ambiente virtual de aprendizagem ou na própria
-videoconferência (apenas estar "logado" na reunião, sem participar
-ativamente, não conta). Para maiores detalhes, veja a seção [Apoio ao
-aluno](#apoio-ao-aluno) mais abaixo.
+você deve se fazer "presente" em pelo menos 75 % das aulas do semestre
+(23 de 30), participando ativa e produtivamente das discussões com a
+turma. Para obter "presença", deposite o material (trabalho para
+orientação ou contribuição ao conteúdo) correspondente, dentro do prazo
+indicado acima.
 
 #### Uma observação importante sobre o cronograma ####
 
@@ -302,7 +314,7 @@ interesse geral. **Atenção:** você pode postar mais de um comentário por
 semana, mas o que vamos contar é o número de *semanas* em que você
 comentou!
 
-# Metodologia de avaliação #
+# Avaliação #
 
 ## Organização e normas gerais ##
 
@@ -419,7 +431,7 @@ três requisitos seguintes:
 
 - Entregar **todos** os cinco trabalhos dos módulos.
 - Obter a média final de 5,0 (MM).
-- Cumprir a frequência mínima exigida.
+- Cumprir a frequência mínima exigida de 75 % das aulas.
 
 ## Sobre os trabalhos ##
 
