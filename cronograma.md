@@ -44,6 +44,10 @@ layout     : page
 |    | -- Completando o cânone das ordens clássicas                    |                                                |                   |
 |    | -- Modenatura, molduras e variações                             |                                                |                   |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
+|    | \vspace{30pt}                                                   |                                                | \vspace{30pt}     |
+|    | VI Enanparq --- não haverá aula                                 |                                                | 01/03 a 05/03     |
+|    | \vspace{30pt}                                                   |                                                | \vspace{30pt}     |
++----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
 |  5 | **Roma e o Mediterrâneo**                                       | Livro-texto capítulo 5                         | 08/03             |
 |    | -- Estrutura murária, decoração arquitravada                    |                                                |                   |
 |    | -- Ordens e seus elementos complementares                       |                                                |                   |
