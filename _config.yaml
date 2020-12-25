@@ -31,6 +31,10 @@ minima:
 
 # Build parameters {{{2
 #permalink: pretty
+sass_dir:
+  load_paths:
+    - _sass
+    - reveal.js/css/theme/template
 timezone: America/Sao_Paulo
 relative_links:
   enabled         : true
