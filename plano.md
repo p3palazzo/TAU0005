@@ -142,35 +142,35 @@ V Conjuntos
 
 ## Programa ##
 
-### Módulo I › Construção tradicional ###
+### Módulo I · Construção tradicional ###
 
- 1. Construção tradicional
+ 1. Teoria da construção tradicional
  2. Primórdios da arquitetura
- 3. Mundo grego
+ 3. Mundo grego e oriental
 
-### Módulo II › Elementos da arquitetura ###
+### Módulo II · Elementos da arquitetura ###
 
- 4. As ordens clássicas
- 5. Mundo romano
- 6. China, Japão e Coreia
+ 4. Teoria da arquitetura clássica
+ 5. Roma e o Mediterrâneo
+ 6. China e o Leste da Ásia
 
-### Módulo III › Elementos de composição ###
+### Módulo III · Elementos de composição ###
 
- 7. Espaços e volumes
- 8. Índia e Sudeste asiático
- 9. Arquitetura paleocristã e bizantina
+ 7. Teoria do espaço bem-definido
+ 8. Do classicismo ao cristianismo
+ 9. Índia e Sudeste asiático
 
-### Módulo IV › Tipos edilícios ###
+### Módulo IV · Tipos edilícios ###
 
-10. Os seis tipos edilícios
-11. Mundo islâmico
-12. Arquitetura medieval primitiva e românica
+10. Teoria da tipologia edilícia
+11. Territórios árabe--islâmicos
+12. Europa pré-românica e românica
 
-### Módulo V › Conjuntos ###
+### Módulo V · Conjuntos ###
 
-13. Princípios de urbanização
-14. Gótico
-15. África e Américas
+13. Teoria da forma urbana
+14. Europa gótica
+15. Cidades medievais na África
 
 # Metodologia e atividades didáticas #
 
