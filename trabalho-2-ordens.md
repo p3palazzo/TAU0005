@@ -1,9 +1,38 @@
 ---
-title   : "Elementos da arquitetura"
+title   : "Analítico com ordens clássicas"
 subtitle: "Trabalho II"
 ---
 
 # Ementa #
+
+> O analítico é um estudo em proporções e elementos da arquitetura ---
+> tratamento de paredes, portais, janelas, cornijas, balaustradas,
+> pórticos, arcadas, etc., e geralmente requer o emprego de uma dentre
+> as chamadas "cinco ordens da arquitetura".
+>
+> Harbeson, [*The study of architectural design*](https://babel.hathitrust.org/cgi/pt?id=mdp.39015014100054&view=1up&seq=25), 1926, p. 7.
+
+O estudo analítico tem sido a porta de entrada no estudo do classicismo
+desde a organização do ensino na Academia de Arquitetura em Paris, no
+século XVIII, difundindo-se para o sistema as Escolas de Belas-Artes em
+dezenas de países, inclusive no Brasil, nos séculos XIX e XX. Na Escola
+de Belas-Artes de Paris, no final do século XIX, o analítico era uma das
+provas de seleção para o ingresso no curso de Arquitetura. Na do Rio de
+Janeiro, no começo do século XX, era um dos primeiros exercícios
+desenvolvidos pelos alunos ingressantes. Os principais mestres da
+geração modernista dos anos 1920 --- Le Corbusier, Walter Gropius, Lucio
+Costa e muitos outros --- estudaram sob alguma influência do método
+Belas-Artes. Embora eles tenham instituído teorias e sistemas de ensino
+opostos ao método Belas-Artes, a obra desses arquitetos demonstra a
+disciplina, o rigor gráfico e a atenção para proporções e detalhes,
+derivadas dos seus estudos classicistas.
+
+Na sequência dos nossos estudos de construção tradicional, vamos buscar
+a disciplina e o rigor formal da arquitetura erudita, propondo:
+
+> Realizar um estudo analítico de uma edícula com um único ambiente
+> interno, compreendendo uma ordem clássica associada a uma estrutura
+> murária.
 
 ## Objetivo ##
 
@@ -12,12 +41,97 @@ empregar em composições simples, reconhecendo seus aspectos estéticos
 assim como sua lógica de representação construtiva (disposição,
 proporções, modenatura).
 
+> [...] o seu propósito é garantir ao estudante, antes de ingressar no
+> estudo da arquitetura propriamente dita, o comando de certo
+> conhecimento das coisas necessárias para representar adequadamente uma
+> edificação proposta.
+>
+> Lloyd Warren, Prefácio *in Ibid.*, p. 6.
+
 # Produto #
 
-Uma edícula (pequena construção) de planta centralizada, feita com
-paredes portantes em alvenaria e uma cobertura em carpintaria ou
-abobadada, com um único ambiente interno.
+Uma edícula clássica de planta centralizada, feita
+com paredes portantes em cantaria de pedra e uma cobertura em
+carpintaria ou abobadada, com um único ambiente interno. A edícula será
+implantada num espaço público aberto, e poderá servir como portal,
+guarita, sala de estar, ou qualquer outra forma de abrigo ou passagem;
+dito isso, a sua composição deve ser suficientemente genérica para
+permitir uma variedade de usos sem intervenção física. A edícula deve
+ornar e dignificar o espaço público mediante o uso correto e elegante
+dos elementos da arquitetura clássica, inclusive uma ordem completa
+(colunas ou pilastras, e seu entablamento).
+
+- A edícula deve ter quatro elevações idênticas, ou dois pares de
+  elevações idênticas formando um todo coerente;
+- A edícula deve ter duas ou quatro aberturas arquitravadas ou
+  arqueadas;
+- Na planta do ambiente único da edícula deve ser possível inscrever um
+  círculo com 2,25 metros de diâmetro, o qual deve tocar a estrutura da
+  edícula em quatro pontos equidistantes;
+- A estrutura das paredes deve ser em cantaria de pedra,
+  tendo uma espessura de 45 centímetros no seu ponto mais estreito,
+  revestimentos incluídos;
+- A estrutura cobertura poderá ser abobadada ou em carpintaria, e o
+  revestimento superior da cobertura deve ser respectivamente em lajes
+  de pedra ou em telhas cerâmicas;
+- Os elementos estruturais em carpintaria, quando empregados, devem ser
+  frechais, barrotes ou esteios com seção quadrada de 22,5 centímetros;
+- O piso interior deve ser ligeiramente elevado com respeito ao chão
+  exterior e diferenciado deste em revestimento;
+- A edícula deve ter uma decoração condizente com o sistema da
+  arquitetura clássica, e pode ter algum mobiliário embutido para usos
+  genéricos (sentar, colocar objetos);
+- É possível incluir, com parcimônia, elementos arquitetônicos,
+  paisagísticos e mobiliário urbano no entorno imediato da edícula,
+  demonstrando o seu papel no espaço público e explicitando a escala da
+  edificação.
 
 # Apresentação #
 
+Uma prancha analítica de uma composição clássica, executada em desenho
+técnico, compreendendo:
+
+- Detalhe da ordem clássica na escala 1:10;
+- Elevação, corte e planta na escala 1:20;
+- Outros detalhes e implantação conforme apropriado;
+- Graficar em traços leves, porém precisos, a construção geométrica das
+  proporções empregadas na composição geral e na ordem clássica;
+- Carimbo e escalas gráficas.
+
+O produto deve mostrar com clareza o atendimento aos requisitos do
+trabalho, consoante com a entrega digital, e com nível de detalhamento
+condizente com as escalas indicadas.
+
 # Referências #
+
+- Chitham, Robert. *The Classical Orders of Architecture.* 2.ª ed.
+  Amsterdam: Architectural Press, 2005.
+- Crespo, Raúl Arnaldo Gómez, e Alfonso Corona Martinez. “Principles of
+  Classical Composition in Architecture and Urban Design”. *Journal of
+  Architectural Education* 36, nº 1 (1982): 24–25.
+  https://doi.org/10.2307/1424604.
+- D’Espouy, Hector, org. *Fragments d’architecture Antique d’après les
+  Relevés et Restaurations des Anciens Pensionnaires de l’académie de
+  France à Rome.* Vol. 1. Paris: Charles Massin et cie., 1923.
+  http://archive.org/details/in.ernet.dli.2015.213903.
+- Harbeson, John F. *The Study of Architectural Design:* With Special
+  Reference to the Program of the Beaux-Arts Institute of Design. New
+  York: Pencil Points, 1926.
+  https://hdl.handle.net/2027/mdp.39015014100054.
+- Summerson, John. *A linguagem clássica da arquitetura.* Traduzido por
+  Sylvia Ficher. São Paulo: Martins Fontes, 1997.
+- Tzonis, Alexander, e Liane Lefaivre. *Classical Architecture:* The
+  Poetics of Order. Cambridge, Mass.: MIT Press, 1986.
+- Vignola, 1507-1573, e Pierre Esquié. *The Five Orders of Architecture;*
+  the Casting of Shadows and the First Principles of Construction, Based
+  on the System of Vignola. Boston, Mass., Bates & Guild co, 1890.
+  http://archive.org/details/ack7852.0001.001.umich.edu.
+- Vignola, Giacomo Barozzi da. *Regras das cinco ordens de architectura
+  segundo os principios de Vignhola :* com um ensaio sobre as mesmas ordens
+  feito sobre o sentimento dos mais celebres architectos. Traduzido por
+  José Calheiros de Magalhães e Andrade. Lisboa: Typographia Universal, 1876.
+  http://archive.org/details/regrasdascincoor00vign.
+- Westfall, Carroll William. “Why the Orders Belong in Studio”. *Journal
+  of Architectural Education* 61, nº 4 (2008): 95–107.
+  https://doi.org/10.2307/40480871.
+
