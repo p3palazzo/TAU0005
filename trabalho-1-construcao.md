@@ -46,7 +46,7 @@ abobadada, com um único ambiente interno.
   da cobertura será condizente com os demais sistemas construtivos da
   edícula;
 - Os elementos estruturais em carpintaria, quando empregados, devem ser
-  frechais, barrotes ou esteios com seção quadrada de 22,5 centímetros;
+  frechais, barrotes ou caibros com seção quadrada de 22,5 centímetros;
 - O mesmo sistema estrutural da cobertura poderá, eventualmente, ser
   desdobrado para reforçar ou contraventar a estrutura das paredes;
 - O número, dimensão e detalhamento das aberturas para passagem,

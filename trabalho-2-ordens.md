@@ -27,8 +27,30 @@ opostos ao método Belas-Artes, a obra desses arquitetos demonstra a
 disciplina, o rigor gráfico e a atenção para proporções e detalhes,
 derivadas dos seus estudos classicistas.
 
-Na sequência dos nossos estudos de construção tradicional, vamos buscar
-a disciplina e o rigor formal da arquitetura erudita, propondo:
+As "cinco ordens" da arquitetura clássica foram codificadas como um
+cânone relativamente tarde, nos tratados de autores italianos como
+Serlio, Vinhola (Vignola) e Palladio, em torno da metade do século XVI.
+No entanto, elas não são uma "invenção" arbitrária de algumas pessoas,
+mas o resultado da consolidação milenar de práticas construtivas,
+costumes projetuais e refinamentos estéticos.
+
+As ordens clássicas são elementos de um certo modo tradicional de
+construir, mas elas não são como os modernos componentes construtivos
+industrializados. Cada projeto clássico introduz ligeiras variações, por
+vezes quase imperceptíveis, nos detalhes e nas proporções das ordens,
+enfatizando assim que a sua execução é um trabalho artesanal altamente
+qualificado. As ordens também são elementos de *decoração*, mas não são
+simples "enfeites" colados no final. **O projeto clássico incorpora as
+ordens desde o início como elementos reguladores do traçado, das
+proporções e da expressão construtiva da edificação.** Mesmo quando as
+colunas ou pilastras estão embutidas numa parede portante, elas podem
+contribuir literalmente com o contraventamento da estrutura, ou
+simbolicamente como representação de uma certa lógica construtiva
+tradicional e como expressão do *decoro*, ou dignidade do projeto.
+
+Por tudo isso, na sequência dos nossos estudos de construção
+tradicional, vamos buscar a disciplina e o rigor formal da arquitetura
+erudita, propondo:
 
 > Realizar um estudo analítico de uma edícula com um único ambiente
 > interno, compreendendo uma ordem clássica associada a uma estrutura
@@ -59,7 +81,8 @@ dito isso, a sua composição deve ser suficientemente genérica para
 permitir uma variedade de usos sem intervenção física. A edícula deve
 ornar e dignificar o espaço público mediante o uso correto e elegante
 dos elementos da arquitetura clássica, inclusive uma ordem completa
-(colunas ou pilastras, e seu entablamento).
+(colunas, ou pilastras, e seu entablamento) extraída do tratado de
+Chitham ou do de Vignola.
 
 - A edícula deve ter quatro elevações idênticas, ou dois pares de
   elevações idênticas formando um todo coerente;
@@ -75,12 +98,12 @@ dos elementos da arquitetura clássica, inclusive uma ordem completa
   revestimento superior da cobertura deve ser respectivamente em lajes
   de pedra ou em telhas cerâmicas;
 - Os elementos estruturais em carpintaria, quando empregados, devem ser
-  frechais, barrotes ou esteios com seção quadrada de 22,5 centímetros;
-- O piso interior deve ser ligeiramente elevado com respeito ao chão
-  exterior e diferenciado deste em revestimento;
-- A edícula deve ter uma decoração condizente com o sistema da
-  arquitetura clássica, e pode ter algum mobiliário embutido para usos
-  genéricos (sentar, colocar objetos);
+  frechais, barrotes ou caibros com seção quadrada de 22,5 centímetros;
+- O piso interior deve ser ligeiramente elevado com respeito ao
+  calçamento exterior e diferenciado deste em revestimento;
+- A edícula deve ser decorada segundo o sistema da arquitetura clássica,
+  e pode ter algum mobiliário embutido para usos genéricos (sentar,
+  colocar objetos);
 - É possível incluir, com parcimônia, elementos arquitetônicos,
   paisagísticos e mobiliário urbano no entorno imediato da edícula,
   demonstrando o seu papel no espaço público e explicitando a escala da
@@ -89,17 +112,20 @@ dos elementos da arquitetura clássica, inclusive uma ordem completa
 # Apresentação #
 
 Uma prancha analítica de uma composição clássica, executada em desenho
-técnico, compreendendo:
+técnico e entregue em formato PDF, compreendendo:
 
-- Detalhe da ordem clássica na escala 1:10;
-- Elevação, corte e planta na escala 1:20;
+- Detalhe canônico da ordem clássica --- base, capitel e entablamento em
+  elevação de canto, mais detalhes em planta, corte e vista inferior
+  conforme necessário --- em escala 1:7,5 ou ajustar para melhor encaixe
+  na prancha;
+- Elevação, corte, planta baixa e planta do teto na escala 1:20;
 - Outros detalhes e implantação conforme apropriado;
-- Graficar em traços leves, porém precisos, a construção geométrica das
+- Mostrar em traços leves, porém precisos, a construção geométrica das
   proporções empregadas na composição geral e na ordem clássica;
 - Carimbo e escalas gráficas.
 
 O produto deve mostrar com clareza o atendimento aos requisitos do
-trabalho, consoante com a entrega digital, e com nível de detalhamento
+trabalho, consoante com a entrega digital, e nível de detalhamento
 condizente com as escalas indicadas.
 
 # Referências #
@@ -110,7 +136,7 @@ condizente com as escalas indicadas.
   Classical Composition in Architecture and Urban Design”. *Journal of
   Architectural Education* 36, nº 1 (1982): 24–25.
   https://doi.org/10.2307/1424604.
-- D’Espouy, Hector, org. *Fragments d’architecture Antique d’après les
+- d’Espouy, Hector, org. *Fragments d’architecture Antique d’après les
   Relevés et Restaurations des Anciens Pensionnaires de l’académie de
   France à Rome.* Vol. 1. Paris: Charles Massin et cie., 1923.
   http://archive.org/details/in.ernet.dli.2015.213903.
