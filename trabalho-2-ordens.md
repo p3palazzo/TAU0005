@@ -3,14 +3,14 @@ title   : "Analítico com ordens clássicas"
 subtitle: "Trabalho II"
 ---
 
-# Ementa #
-
 > O analítico é um estudo em proporções e elementos da arquitetura ---
 > tratamento de paredes, portais, janelas, cornijas, balaustradas,
 > pórticos, arcadas, etc., e geralmente requer o emprego de uma dentre
 > as chamadas "cinco ordens da arquitetura".
 >
 > Harbeson, [*The study of architectural design*](https://babel.hathitrust.org/cgi/pt?id=mdp.39015014100054&view=1up&seq=25), 1926, p. 7.
+
+# Ementa #
 
 O estudo analítico tem sido a porta de entrada no estudo do classicismo
 desde a organização do ensino na Academia de Arquitetura em Paris, no

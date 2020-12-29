@@ -61,7 +61,7 @@ layout     : page
 |    | -- Preservação e reconstrução no Japão                          |                                                |                   |
 |    | \vspace{6pt}                                                    |                                                |                   |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|    | ### MÓDULO III · ELEMENTOS DE COMPOSIÇÃO ###                    | ### Trabalho: Pavilhão com ambiente único      | ### 22/03 a 11/04 |
+|    | ### MÓDULO III · ELEMENTOS DE COMPOSIÇÃO ###                    | ### Trabalho: Quincúncia                       | ### 22/03 a 11/04 |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
 |  7 | **Teoria do espaço bem-definido**                               | Vitrúvio livro IV                              | 22/03             |
 |    | -- Construção e espacialidade                                   |                                                |                   |
