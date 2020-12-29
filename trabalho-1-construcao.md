@@ -79,3 +79,22 @@ possíveis de execução do produto:
 
 # Referências #
 
+As referências indicadas abaixo devem sempre ser consideradas como ponto
+de partida para a pesquisa, nunca como uma lista exaustiva de material.
+
+- Camp, John McK, e William B. Dinsmoor. *Ancient Athenian building
+  methods.* Excavations of the Athenian Agora 21. Athens: American School
+  of Classical Studies at Athens, 1984.
+- Choisy, Auguste. *L’art de bâtir chez les Byzantins.* Vol. 2
+  (ilustrações). Paris: Sté Anonyme de Publications Périodiques, 1883. -
+- ————. *L’Art de bâtir chez les Romains.* Vol. 2 (ilustrações).
+  Paris: Ducher, 1873.
+- Fornés Gurrea, Manuel. *Manual Práctico del Arte de Edificar.* 2.ª ed.
+  Valencia: Mariano Cabrerizo, 1857.
+- Senseney, John R. *The Art of Building in the Classical World:*
+  Vision, Craftsmanship, and Linear Perspective in Greek and Roman
+  Architecture. New York: Cambridge University Press, 2011.
+- Wright, George R. H. *Ancient building technology.* Vol. 2
+  (ilustrações). Technology and change in history, v. 4, 7. Leiden ;
+  Boston: Brill, 2000.
+

@@ -130,6 +130,9 @@ condizente com as escalas indicadas.
 
 # Referências #
 
+As referências indicadas abaixo devem sempre ser consideradas como ponto
+de partida para a pesquisa, nunca como uma lista exaustiva de material.
+
 - Chitham, Robert. *The Classical Orders of Architecture.* 2.ª ed.
   Amsterdam: Architectural Press, 2005.
 - Crespo, Raúl Arnaldo Gómez, e Alfonso Corona Martinez. “Principles of
@@ -144,6 +147,8 @@ condizente com as escalas indicadas.
   Reference to the Program of the Beaux-Arts Institute of Design. New
   York: Pencil Points, 1926.
   https://hdl.handle.net/2027/mdp.39015014100054.
+- Segurado, João Emilio dos Santos. *Edificações.* Construcção civil 1.
+  Lisboa: Bibliotheca de instrucção profissional, [s.d.].
 - Summerson, John. *A linguagem clássica da arquitetura.* Traduzido por
   Sylvia Ficher. São Paulo: Martins Fontes, 1997.
 - Tzonis, Alexander, e Liane Lefaivre. *Classical Architecture:* The

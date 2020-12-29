@@ -69,6 +69,9 @@ possíveis de execução do produto:
 
 # Referências #
 
+As referências indicadas abaixo devem sempre ser consideradas como ponto
+de partida para a pesquisa, nunca como uma lista exaustiva de material.
+
 - Chitham, Robert. *The Classical Orders of Architecture.* 2.ª ed.
   Amsterdam: Architectural Press, 2005.
 - Crespo, Raúl Arnaldo Gómez, e Alfonso Corona Martinez. “Principles of
