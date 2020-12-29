@@ -112,17 +112,18 @@ Chitham ou do de Vignola.
 # Apresentação #
 
 Uma prancha analítica de uma composição clássica, executada em desenho
-técnico e entregue em formato PDF, compreendendo:
+técnico (à mão ou digital) e entregue em formato PDF, compreendendo:
 
-- Detalhe canônico da ordem clássica --- base, capitel e entablamento em
-  elevação de canto, mais detalhes em planta, corte e vista inferior
-  conforme necessário --- em escala 1:7,5 ou ajustar para melhor encaixe
-  na prancha;
-- Elevação, corte, planta baixa e planta do teto na escala 1:20;
-- Outros detalhes e implantação conforme apropriado;
-- Mostrar em traços leves, porém precisos, a construção geométrica das
-  proporções empregadas na composição geral e na ordem clássica;
-- Carimbo e escalas gráficas.
+1. Detalhe canônico da ordem clássica --- base, capitel e entablamento
+   em elevação de canto, mais detalhes em planta, corte e vista inferior
+   conforme necessário --- em escala 1:7,5 ou ajustar para melhor
+   encaixe na prancha;
+2. Elevação, corte, planta baixa e planta do teto na escala 1:20;
+3. Outros detalhes e implantação conforme apropriado;
+4. Mostrar em traços leves, porém precisos, a construção geométrica das
+   proporções empregadas na composição geral e na ordem clássica.
+
+Sempre incluir margem, carimbo e escalas gráficas nas pranchas.
 
 O produto deve mostrar com clareza o atendimento aos requisitos do
 trabalho, consoante com a entrega digital, e nível de detalhamento
@@ -130,8 +131,8 @@ condizente com as escalas indicadas.
 
 # Referências #
 
-As referências indicadas abaixo devem sempre ser consideradas como ponto
-de partida para a pesquisa, nunca como uma lista exaustiva de material.
+As referências indicadas abaixo devem ser usadas como ponto de partida
+para uma pesquisa mais aprofundada.
 
 - Chitham, Robert. *The Classical Orders of Architecture.* 2.ª ed.
   Amsterdam: Architectural Press, 2005.

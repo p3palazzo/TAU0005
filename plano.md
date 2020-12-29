@@ -337,9 +337,7 @@ Programa](#programa).
 A entrega de todas as atividades da disciplina será feita,
 exclusivamente, por meio eletrônico, na plataforma [Aprender 3][] da
 UnB, nos fóruns e tarefas previstos para esse fim. Não recebemos, *sob
-hipótese alguma*, trabalhos por e-mail. A participação na
-videoconferência *não substitui* a discussão dos textos por escrito.
-
+hipótese alguma*, trabalhos por e-mail.
 <!--
    -Entregas com atraso sofrerão desconto de 10 pontos (sobre 100) por
    -semana de atraso, exceto nos casos justificados e comprovados previstos
@@ -350,15 +348,6 @@ Necessidades especiais na realização das atividades da disciplina e no
 acompanhamento do semestre devem ser apontadas ao professor da turma o
 mais cedo possível, e serão analisadas caso a caso à luz das regras em
 vigor.
-
-#### Plágio ####
-
-Integridade e reconhecimento são valores éticos fundamentais da
-cidadania e da profissão. Apropriação do trabalho alheio --- seja de
-colegas de turma, da bibliografia, ou de material "garimpado" na
-Internet --- é uma prática inaceitável e resultará em atribuição da nota
-0 (zero) ao trabalho que incorrer nela. Dependendo da gravidade do fato,
-podemos relatar o ocorrido ao colegiado de graduação da FAU.
 
 <!--
    -## Estrutura da avaliação ##
@@ -424,7 +413,23 @@ podemos relatar o ocorrido ao colegiado de graduação da FAU.
    -
    -->
 
-#### Critérios de aprovação na disciplina ####
+## Sobre plágio e originalidade ##
+
+Integridade e reconhecimento são valores éticos fundamentais da
+cidadania e da profissão. Copiar parte ou tudo do trabalho alheio ---
+seja de colegas de turma, da bibliografia, ou de material "garimpado" na
+Internet --- é uma prática inaceitável e resultará em atribuição da nota
+0 (zero) ao trabalho como um todo. Dependendo da gravidade do fato,
+podemos relatar o ocorrido ao colegiado de graduação da FAU.
+
+Dito isso, você não tem obrigação de ser *original* no sentido artístico
+da palavra. Em cada trabalho você precisa atender a uma exigência
+pontual e demonstrar compreensão *correta* da construção tradicional e
+da arquitetura clássica. Não complique desnecessariamente o processo
+buscando uma expressão rebuscada: a sua linguagem pessoal vai aparecer
+gradual e naturalmente do seu modo de resolver o problema proposto.
+
+## Critérios de aprovação na disciplina ##
 
 Para obter aprovação na disciplina, você precisa atender a *todos* os
 três requisitos seguintes:
@@ -433,45 +438,84 @@ três requisitos seguintes:
 - Obter a média final de 5,0 (MM).
 - Cumprir a frequência mínima exigida de 75 % das aulas.
 
-## Sobre os trabalhos ##
-
 Cada trabalho representa uma aplicação do conteúdo do respectivo
 módulo, demandando compreensão dos princípios arquitetônicos e
 urbanísticos abordados, para além da simples repetição das aulas. Por
 isso, os trabalhos e seus critérios de avaliação estão alinhados aos
 objetivos de aprendizagem de cada módulo. No entanto, o conhecimento e
-as competências a serem aplicadas em cada trabalho são cumulativos: você
+as competências a serem aplicadas em cada trabalho são *cumulativos:* você
 precisará ter dominado os requisitos de um trabalho para ter sucesso no
 trabalho seguinte!
 
-#### Processo ####
+## Processo ##
 
 Metade da nota de cada trabalho é dada pelo processo de desenvolvimento
 que você seguir. Trabalhe com regularidade, buscando orientação em aula
-e apresentando o seu esforço em andamento. A sua exploração das técnicas
-de montagem construtiva e de composição espacial, dentro da tradição
-clássica, é o fator determinante nesta componente da nota.
+e apresentando o seu esforço em andamento. A sua compreensão do modo de
+tradicional de construir, da linguagem clássica da arquitetura em suas
+formas canônicas, e das composições espaciais tradicionais, são os
+critérios de avaliação nesta componente da nota.
 
-#### Produto ####
+| Critério                                                                                    |  Valor |
+|---------------------------------------------------------------------------------------------|-------:|
+| Mostra produção para orientar, estudando a concepção construtiva e as técnicas tradicionais |      5 |
+| Mostra produção para orientar, estudando a lógica das composições espaciais tradicionais    |      5 |
+| **Total**                                                                                   | **10** |
+
+: Critérios de avaliação do processo em cada trabalho
+
+## Produto ##
 
 A outra metade da nota é dada pelo resultado final de cada trabalho, tal
-como apresentado e entregue na data estipulada no cronograma. O capricho
-na execução, a precisão de proporções e detalhes, e a clareza na
+como apresentado e entregue na data estipulada no cronograma. O uso
+correto das ordens clássicas e outros elementos da arquitetura
+tradicional, a precisão de proporções e detalhes, e a clareza na
 apresentação visual são os fatores preponderantes nesta componente da
 nota.
 
-#### Um esclarecimento sobre criatividade e originalidade ####
+Toda entrega de trabalho deverá incluir os elementos seguintes,
+integrados ao desenho das pranchas ou à face superior da base nas
+maquetes:
 
-Numa faculdade de Arquitetura, somos muitas vezes instados a inventar
-uma "expressão individual" e a demonstrar "originalidade". Em se
-tratando de arquitetura e urbanismo tradicionais e da pesquisa
-histórica, contudo, a nossa exigência de originalidade é simples: não
-copiar o trabalho alheio e não se apropriar das ideias de outrem sem dar
-o devido crédito. Aspiramos à *qualidade* antes que à *novidade*, e
-consideramos que a criatividade consiste em resolver com apuro e
-propriedade um determinado problema de projeto ou pesquisa, baseando-se
-nos repertórios das tradições arquitetônicas e nos métodos e referências
-da pesquisa histórica.
+- Escalas gráficas (tantas quantas foram as diferentes escalas usadas no
+  produto);
+- Norte, somente se estiver definido pelo sítio do projeto;
+- Título do trabalho;
+- Autoria, disciplina, turma e semestre;
+- Margem nas pranchas desenhadas ou base nas maquetes.
+
+*Não é necessário* seguir a ABNT NBR 10.582 para representação das
+margens ou legendas, nem cotar dimensões nos desenhos técnicos. No
+entanto, é importante deixar ver, em todos os desenhos relevantes, a
+construção geométrica das proporções e o traçado regulador usado na
+composição.
+
+| Critério                                                                                           |  Valor |
+|----------------------------------------------------------------------------------------------------|-------:|
+| Aplicação correta dos elementos canônicos da arquitetura clássica ou vernácula                     |      4 |
+| Precisão e clareza de execução do desenho ou maquete                                               |      4 |
+| Apresentação do produto com uso correto, elegante e eficaz de margens, legendas e escalas gráficas |      2 |
+| **Total**                                                                                          | **10** |
+
+: Critérios de avaliação dos produtos de cada trabalho
+
+#### Uso do computador (CAD/modelagem 3D) nos trabalhos ####
+
+Em condições normais, o estudo da arquitetura clássica deve ser feito
+à mão --- croquis à mão livre, desenho técnico na prancheta, e maquete
+física. A ligação direta entre a mão e o produto garante *sempre* o
+melhor aprendizado e o melhor ajuste entre a composição arquitetônica
+como um todo e os elementos canônicos das ordens clássicas. Além disso,
+a arte-final da arquitetura tradicional é sempre *mais fácil e rápida*
+de ser feita à mão livre, ajustando intuitivamente a precisão do detalhe
+à escala do desenho. No entanto, considerando as dificuldades do ensino
+a distância e a entrega em arquivos digitais, *excepcionalmente* vamos
+aceitar também trabalhos arte-finalizados no computador (CAD, modelagem
+3D ou qualquer outro programa de sua preferência).
+
+Em todos os casos, o produto deve ser entregue em formato **PDF ou JPG**,
+e mostrar com clareza o atendimento aos requisitos do trabalho e
+nível de detalhamento condizente com as escalas indicadas.
 
 # Bibliografia #
 

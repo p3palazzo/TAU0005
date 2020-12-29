@@ -42,35 +42,30 @@ forma e caráter a esses espaços.
 
 # Produto #
 
-Uma pequena composição espacial em quincúncia, empregando elementos
+Uma pequena composição arquitetônica em quincúncia, empregando elementos
 construtivos e/ou paisagísticos da arquitetura clássica, podendo conter
 espaços cobertos e descobertos, encerrados e permeáveis. A composição
 será implantada num espaço público aberto, e não deve ter um programa de
-necessidades determinado. A composição como um todo se harmonizará com a
-edícula extraída do trabalho anterior, que poderá ser revista e
-corrigida para inclusão neste novo conjunto.
+necessidades determinado. A composição deve conter a edícula extraída do
+trabalho anterior, que poderá ser revista e corrigida para inclusão
+neste novo conjunto.
 
 # Apresentação #
 
-O produto deve mostrar com clareza o atendimento aos requisitos do
-trabalho, consoante com a entrega digital, e com nível de detalhamento
-condizente com uma representação projetual em escala 1:20. Alguns modos
-possíveis de execução do produto:
+Uma única prancha em desenho técnico (à mão ou digital) na escala 1:50,
+com margem, carimbo, escala gráfica e legendas, mostrando:
 
-- Desenhos técnicos ortográficos (planta, corte e elevação) na escala
-  1:20;
-- Desenhos técnicos analíticos, em projeção isométrica ou axonométrica,
-  que permitam reconstruir a configuração da edícula com a mesma clareza
-  e completude quanto desenhos ortográficos ou uma maquete;
-- Fotografias e/ou vídeos de uma maquete física em escala 1:20, sendo
-  possível ver tanto o exterior quanto o interior do espaço e da
-  estrutura;
-- Fotografias e/ou vídeos de uma maquete eletrônica.
+1. Planta baixa;
+2. Um corte;
+3. Uma elevação;
+4. Detalhes ampliados conforme necessário.
 
 # Referências #
 
-As referências indicadas abaixo devem sempre ser consideradas como ponto
-de partida para a pesquisa, nunca como uma lista exaustiva de material.
+## Material de pesquisa ##
+
+As referências indicadas abaixo devem ser usadas como ponto de partida
+para uma pesquisa mais aprofundada.
 
 - Chitham, Robert. *The Classical Orders of Architecture.* 2.ª ed.
   Amsterdam: Architectural Press, 2005.
@@ -90,10 +85,10 @@ de partida para a pesquisa, nunca como uma lista exaustiva de material.
   Sylvia Ficher. São Paulo: Martins Fontes, 1997.
 - Tzonis, Alexander, e Liane Lefaivre. *Classical Architecture:* The
   Poetics of Order. Cambridge, Mass.: MIT Press, 1986.
-- Vignola, 1507-1573, e Pierre Esquié. *The Five Orders of Architecture;*
-  the Casting of Shadows and the First Principles of Construction, Based
-  on the System of Vignola. Boston, Mass., Bates & Guild co, 1890.
-  http://archive.org/details/ack7852.0001.001.umich.edu.
+- Vignola, Giacomo Barozzi da, e Pierre Esquié. *The Five Orders of
+  Architecture;* the Casting of Shadows and the First Principles of
+  Construction, Based on the System of Vignola. Boston, Mass., Bates &
+  Guild co, 1890. http://archive.org/details/ack7852.0001.001.umich.edu.
 - Vignola, Giacomo Barozzi da. *Regras das cinco ordens de architectura
   segundo os principios de Vignhola :* com um ensaio sobre as mesmas ordens
   feito sobre o sentimento dos mais celebres architectos. Traduzido por
@@ -102,4 +97,6 @@ de partida para a pesquisa, nunca como uma lista exaustiva de material.
 - Westfall, Carroll William. “Why the Orders Belong in Studio”. *Journal
   of Architectural Education* 61, nº 4 (2008): 95–107.
   https://doi.org/10.2307/40480871.
+
+## Exemplos de composição de pranchas ##
 
