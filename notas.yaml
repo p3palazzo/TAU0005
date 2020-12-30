@@ -18,4 +18,4 @@ metadata:
 toc             : true
 toc-depth       : 1
 variables:
-  css           : "assets/css/slide.css"
+  css           : "/tau0005/assets/css/slide.css"

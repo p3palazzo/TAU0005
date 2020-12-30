@@ -8,7 +8,7 @@ ANYTHING  = $(filter-out _site,$(wildcard *))
 MARKDOWN  = $(filter-out README.md,$(wildcard *.md))
 AULAS     = $(wildcard [0-9][0-9]-*.md)
 SLIDES   := $(patsubst %.md,_slides/%.html,$(AULAS))
-NOTAS    := $(patsubst %.md,_notas/%.md,$(AULAS))
+NOTAS    := $(patsubst %.md,_notas/%.html,$(AULAS))
 PAGES    := $(filter-out $(AULAS),$(MARKDOWN))
 
 PANDOC/CROSSREF := docker run -v "`pwd`:/data" \
@@ -31,7 +31,7 @@ _site : $(NOTAS) $(SLIDES) $(PAGES) $(SASS) _config.yaml
 _slides/%.html : %.md revealjs.yaml biblio.bib | _styles _slides
 	$(PANDOC/CROSSREF) -o $@ -d revealjs.yaml $<
 
-_site/%.html : %.md revealjs.yaml biblio.bib | _styles _site
+_site/%.html : %.md notas.yaml biblio.bib | _styles _site
 	$(PANDOC/CROSSREF) -o $@ -d notas.yaml $<
 
 _notas/%.html : %.md notas.yaml biblio.bib | _styles _notas
