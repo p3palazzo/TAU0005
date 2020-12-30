@@ -7,7 +7,7 @@ SASS      = $(wildcard *.scss)
 ANYTHING  = $(filter-out _site,$(wildcard *))
 MARKDOWN  = $(filter-out README.md,$(wildcard *.md))
 AULAS     = $(wildcard [0-9][0-9]-*.md)
-SLIDES   := $(patsubst %.md,_site/%.html,$(AULAS))
+SLIDES   := $(patsubst %.md,_slides/%.html,$(AULAS))
 NOTAS    := $(patsubst %.md,_notas/%.md,$(AULAS))
 PAGES    := $(filter-out $(AULAS),$(MARKDOWN))
 
@@ -17,19 +17,24 @@ PANDOC/LATEX    := docker run --user "`id -u`:`id -g`" \
 	-v "`pwd`:/data" -v "`pwd`/assets/fonts:/usr/share/fonts" \
 	pandoc/latex:2.11.2
 
-deploy : _site slides
+deploy : _site slides notas
 
 slides : $(SLIDES)
 
-_site : $(NOTAS) $(PAGES) $(SASS) _config.yaml
+notas : $(NOTAS)
+
+_site : $(NOTAS) $(SLIDES) $(PAGES) $(SASS) _config.yaml
 	docker run -v "`pwd`:/srv/jekyll" \
 		jekyll/jekyll:4.1.0 /bin/bash -c \
 		"chmod 777 /srv/jekyll && jekyll build --future"
 
-_site/%.html : %.md revealjs.yaml biblio.bib | _styles _site
+_slides/%.html : %.md revealjs.yaml biblio.bib | _styles _slides
 	$(PANDOC/CROSSREF) -o $@ -d revealjs.yaml $<
 
-_notas/%.md : %.md notas.yaml biblio.bib | _styles _notas
+_site/%.html : %.md revealjs.yaml biblio.bib | _styles _site
+	$(PANDOC/CROSSREF) -o $@ -d notas.yaml $<
+
+_notas/%.html : %.md notas.yaml biblio.bib | _styles _notas
 	$(PANDOC/CROSSREF) -o $@ -d notas.yaml $<
 
 %.pdf : %.tex biblio.bib
@@ -50,6 +55,9 @@ _styles :
 
 _notas :
 	mkdir -p _notas
+
+_slides :
+	mkdir -p _slides
 
 clean :
 	@rm *.aux *.bbl *.bcf *.blg *.fls *.log

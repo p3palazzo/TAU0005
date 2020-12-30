@@ -1,5 +1,5 @@
 from            : markdown
-to              : markdown-citations+yaml_metadata_block
+to              : html
 bibliography    : biblio.bib
 cite-method     : citeproc
 fail-if-warnings: true

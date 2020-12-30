@@ -4,6 +4,32 @@ on:
   push:
     branches: [ master ]
 jobs:
+  notas:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        submodules: 'recursive'
+    - name: Test build website
+      run: make notas
+    - name: Upload website
+      uses: actions/upload-artifact@v2
+      with:
+        name: notas
+        path: '_notas/*'
+  slides:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        submodules: 'recursive'
+    - name: Test build website
+      run: make slides
+    - name: Upload website
+      uses: actions/upload-artifact@v2
+      with:
+        name: slides
+        path: '_slides/*'
   make:
     runs-on: ubuntu-latest
     steps:
@@ -11,15 +37,15 @@ jobs:
       with:
         submodules: 'recursive'
     - name: Test build website
-      run: make
+      run: make site
     - name: Upload website
       uses: actions/upload-artifact@v2
       with:
-        name: slides
+        name: site
         path: '_site/*'
   commit:
     runs-on: ubuntu-latest
-    needs: [ make ]
+    needs: [ notas, slides, make ]
     if: github.event_name == 'push' && github.repository == 'p3palazzo/tau0005'
     env:
       commit_message: ${{ github.event.head_commit.message }}
@@ -32,6 +58,11 @@ jobs:
       uses: actions/download-artifact@v2
       with:
         name: site
+        path: ${{ github.workspace }}/
+    - name: Download notas
+      uses: actions/download-artifact@v2
+      with:
+        name: notas
         path: ${{ github.workspace }}/
     - name: Download slides
       uses: actions/download-artifact@v2
