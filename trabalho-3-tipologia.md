@@ -66,8 +66,8 @@ urbana privada no Mediterrâneo antigo ou medieval e da rua à sua frente.
 - Usar a ordem toscana ou a dórica para articular as superfícies
   exteriores mais importantes, e determinar o restante da decoração
   conforme apropriado;
-- As paredes geminadas (nas divisas laterais do lote) e a fachada são
-  portantes, e a espessura das paredes geminadas pode ser compartilhada
+- As paredes de meação (nas divisas laterais do lote) e a fachada são
+  portantes, e a espessura das paredes de meação pode ser compartilhada
   à metade com o lote vizinho;
 - Nenhum vão estrutural pode ser mais largo do que 15 pés ou 20 palmos;
 - Os interiores do pavimento superior não precisam ser desenvolvidos,
