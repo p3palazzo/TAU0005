@@ -34,7 +34,7 @@ permitem dar continuidade à nossa exploração da arquitetura clássica:
 > quincúncia, sempre respeitando os princípios da construção tradicional
 > e da arquitetura clássica.
 
-## Objetivo ##
+## Objetivos ##
 
 Articular espaços com formas geométricas definidas, usando os
 elementos da construção tradicional e da arquitetura clássica para dar
@@ -50,15 +50,33 @@ necessidades determinado. A composição deve conter a edícula extraída do
 trabalho anterior, que poderá ser revista e corrigida para inclusão
 neste novo conjunto.
 
-# Apresentação #
+## Apresentação ##
 
-Uma única prancha em desenho técnico (à mão ou digital) na escala 1:50,
-com margem, carimbo, escala gráfica e legendas, mostrando:
+Uma única prancha em desenho técnico (à mão ou digital), com margem,
+carimbo, escala gráfica e legendas, mostrando:
 
-1. Planta baixa;
-2. Um corte;
-3. Uma elevação;
-4. Detalhes ampliados conforme necessário.
+1. Planta baixa com entorno imediato, na escala 1:100 ou 1:50;
+2. Um corte na escala 1:50;
+3. Uma elevação na escala 1:50;
+4. Detalhes na escala 1:20 ou 1:10, conforme necessário.
+
+# Critérios de avaliação #
+
+## Sobre plágio e originalidade ##
+
+Integridade e reconhecimento são valores éticos fundamentais da
+cidadania e da profissão. Copiar parte ou tudo do trabalho alheio ---
+seja de colegas de turma, da bibliografia, ou de material "garimpado" na
+Internet --- é uma prática inaceitável e resultará em atribuição da nota
+0 (zero) ao trabalho como um todo. Dependendo da gravidade do fato,
+podemos relatar o ocorrido ao colegiado de graduação da FAU.
+
+Dito isso, você não tem obrigação de ser *original* no sentido artístico
+da palavra. Em cada trabalho você precisa atender a uma exigência
+pontual e demonstrar compreensão *correta* da construção tradicional e
+da arquitetura clássica. Não complique desnecessariamente o processo
+buscando uma expressão rebuscada: a sua linguagem pessoal vai aparecer
+gradual e naturalmente do seu modo de resolver o problema proposto.
 
 # Referências #
 
@@ -81,6 +99,11 @@ para uma pesquisa mais aprofundada.
   Reference to the Program of the Beaux-Arts Institute of Design. New
   York: Pencil Points, 1926.
   https://hdl.handle.net/2027/mdp.39015014100054.
+- Perrault, Claude. *Ordonnance for the Five Kinds of Columns after the
+  Method of the Ancients.* Traduzido por Indra Kagis McEwen. Santa
+  Monica: Getty, 1996.
+- Segurado, João Emilio dos Santos. *Edificações.* Construcção civil 1.
+  Lisboa: Bibliotheca de instrucção profissional, [s.d.].
 - Summerson, John. *A linguagem clássica da arquitetura.* Traduzido por
   Sylvia Ficher. São Paulo: Martins Fontes, 1997.
 - Tzonis, Alexander, e Liane Lefaivre. *Classical Architecture:* The
@@ -98,5 +121,5 @@ para uma pesquisa mais aprofundada.
   of Architectural Education* 61, nº 4 (2008): 95–107.
   https://doi.org/10.2307/40480871.
 
-## Exemplos de composição de pranchas ##
+## Exemplos de composição de prancha ##
 

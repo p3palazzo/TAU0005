@@ -230,6 +230,12 @@ para cada Tópico:
 - Notas de aula escritas (o conteúdo das videoaulas é idêntico ao das
   notas escritas).
 
+As atividades do semestre foram dimensionadas para ocuparem, em média, 4
+horas de trabalho extraclasse por semana, *além* das 4 "horas-aula" na
+grade horária. Sugerimos dedicar 1 hora à leitura e reflexão sobre o
+conteúdo (textos e videoaulas), e 3 horas ao desenvolvimento dos
+trabalhos.
+
 #### Aula invertida ####
 
 Às terças e quintas-feiras às 19h (horário de Brasília) teremos uma
@@ -319,18 +325,15 @@ comentou!
 ## Organização e normas gerais ##
 
 A nota final da disciplina é computada a partir do acompanhamento da
-leitura do livro-texto e de outros textos indicados, além de cinco
-trabalhos que correspondem a cada uma dos cinco [módulo do
-Programa](#programa).
+leitura do livro-texto e de outros textos indicados, além de três
+trabalhos que acompanham os cinco [módulo do Programa](#programa).
 
-| Módulo | Trabalho                       | Processo | Produto | Subtotal |
-|:------:|:-------------------------------|---------:|--------:|---------:|
-|    I   | Edículas vernáculas            |       10 |      10 |       20 |
-|   II   | Analítico com ordens clássicas |       10 |      10 |       20 |
-|   III  | Pavilhão com ambiente único    |       10 |      10 |       20 |
-|   IV   | Resolução de planta baixa      |       10 |      10 |       20 |
-|    V   | Sucessão urbanística           |       10 |      10 |       20 |
-|        | **Total**                      |          |         |  **100** |
+| Trabalho                       | Processo | Produto | Subtotal |
+|:-------------------------------|---------:|--------:|---------:|
+| Edículas vernáculas            |       15 |      15 |       30 |
+| Analítico com ordens clássicas |       20 |      20 |       40 |
+| Resolução de planta baixa      |       20 |      20 |       40 |
+| **Total**                      |          |         |  **100** |
 
 : Atividades avaliativas da disciplina e respectiva pontuação
 
@@ -338,6 +341,7 @@ A entrega de todas as atividades da disciplina será feita,
 exclusivamente, por meio eletrônico, na plataforma [Aprender 3][] da
 UnB, nos fóruns e tarefas previstos para esse fim. Não recebemos, *sob
 hipótese alguma*, trabalhos por e-mail.
+
 <!--
    -Entregas com atraso sofrerão desconto de 10 pontos (sobre 100) por
    -semana de atraso, exceto nos casos justificados e comprovados previstos
@@ -434,7 +438,7 @@ gradual e naturalmente do seu modo de resolver o problema proposto.
 Para obter aprovação na disciplina, você precisa atender a *todos* os
 três requisitos seguintes:
 
-- Entregar **todos** os cinco trabalhos dos módulos.
+- Entregar **todos** os trabalhos.
 - Obter a média final de 5,0 (MM).
 - Cumprir a frequência mínima exigida de 75 % das aulas.
 
@@ -456,14 +460,6 @@ tradicional de construir, da linguagem clássica da arquitetura em suas
 formas canônicas, e das composições espaciais tradicionais, são os
 critérios de avaliação nesta componente da nota.
 
-| Critério                                                                                    |  Valor |
-|---------------------------------------------------------------------------------------------|-------:|
-| Mostra produção para orientar, estudando a concepção construtiva e as técnicas tradicionais |      5 |
-| Mostra produção para orientar, estudando a lógica das composições espaciais tradicionais    |      5 |
-| **Total**                                                                                   | **10** |
-
-: Critérios de avaliação do processo em cada trabalho
-
 ## Produto ##
 
 A outra metade da nota é dada pelo resultado final de cada trabalho, tal
@@ -478,26 +474,17 @@ integrados ao desenho das pranchas ou à face superior da base nas
 maquetes:
 
 - Escalas gráficas (tantas quantas foram as diferentes escalas usadas no
-  produto);
+  produto) e figura humana ("calunga");
 - Norte, somente se estiver definido pelo sítio do projeto;
 - Título do trabalho;
 - Autoria, disciplina, turma e semestre;
 - Margem nas pranchas desenhadas ou base nas maquetes.
 
-*Não é necessário* seguir a ABNT NBR 10.582 para representação das
-margens ou legendas, nem cotar dimensões nos desenhos técnicos. No
-entanto, é importante deixar ver, em todos os desenhos relevantes, a
-construção geométrica das proporções e o traçado regulador usado na
-composição.
-
-| Critério                                                                                           |  Valor |
-|----------------------------------------------------------------------------------------------------|-------:|
-| Aplicação correta dos elementos canônicos da arquitetura clássica ou vernácula                     |      4 |
-| Precisão e clareza de execução do desenho ou maquete                                               |      4 |
-| Apresentação do produto com uso correto, elegante e eficaz de margens, legendas e escalas gráficas |      2 |
-| **Total**                                                                                          | **10** |
-
-: Critérios de avaliação dos produtos de cada trabalho
+*Não é necessário* seguir as normas ABNT NBR 10.068 e 10.582 para o
+posicionamento das margens ou legendas, nem cotar dimensões nos desenhos
+técnicos. No entanto, é importante deixar ver, em todos os desenhos
+relevantes, a construção geométrica das proporções e o traçado regulador
+usado na composição.
 
 #### Uso do computador (CAD/modelagem 3D) nos trabalhos ####
 

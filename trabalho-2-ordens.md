@@ -3,12 +3,10 @@ title   : "Analítico com ordens clássicas"
 subtitle: "Trabalho II"
 ---
 
-> O analítico é um estudo em proporções e elementos da arquitetura ---
-> tratamento de paredes, portais, janelas, cornijas, balaustradas,
-> pórticos, arcadas, etc., e geralmente requer o emprego de uma dentre
-> as chamadas "cinco ordens da arquitetura".
+> Projetar é compor, mas para compor é preciso ter objetos a serem compostos:
+> para os arquitetos, estes são os "elementos da arquitetura".
 >
-> Harbeson, [*The study of architectural design*](https://babel.hathitrust.org/cgi/pt?id=mdp.39015014100054&view=1up&seq=25), 1926, p. 7.
+> Harbeson, [*The study of architectural design*](https://babel.hathitrust.org/cgi/pt?id=mdp.39015014100054&view=1up&seq=25), 1926, p. 27.
 
 # Ementa #
 
@@ -56,12 +54,16 @@ erudita, propondo:
 > interno, compreendendo uma ordem clássica associada a uma estrutura
 > murária.
 
-## Objetivo ##
+## Objetivos ##
 
-Dominar as cinco ordens clássicas da arquitetura e ser capaz de as
-empregar em composições simples, reconhecendo seus aspectos estéticos
-assim como sua lógica de representação construtiva (disposição,
-proporções, modenatura).
+1. Dominar as cinco ordens clássicas da arquitetura e ser capaz de as
+   empregar em composições simples, reconhecendo seus aspectos estéticos
+   assim como sua lógica de representação construtiva (disposição,
+   proporções, modenatura).
+
+2. Articular espaços com formas geométricas definidas, usando os
+   elementos da construção tradicional e da arquitetura clássica para
+   dar forma e caráter a esses espaços.
 
 > [...] o seu propósito é garantir ao estudante, antes de ingressar no
 > estudo da arquitetura propriamente dita, o comando de certo
@@ -74,20 +76,23 @@ proporções, modenatura).
 
 Uma edícula clássica de planta centralizada, feita
 com paredes portantes em cantaria de pedra e uma cobertura em
-carpintaria ou abobadada, com um único ambiente interno. A edícula será
+carpintaria ou abobadada, com um único ambiente interno.
+
+A edícula será
 implantada num espaço público aberto, e poderá servir como portal,
 guarita, sala de estar, ou qualquer outra forma de abrigo ou passagem;
-dito isso, a sua composição deve ser suficientemente genérica para
-permitir uma variedade de usos sem intervenção física. A edícula deve
+a sua composição deve ser suficientemente genérica para
+permitir uma variedade de usos. A edícula deve
 ornar e dignificar o espaço público mediante o uso correto e elegante
-dos elementos da arquitetura clássica, inclusive uma ordem completa
-(colunas, ou pilastras, e seu entablamento) extraída do tratado de
-Chitham ou do de Vignola.
+dos elementos da arquitetura clássica.
 
+- A edícula deve ser articulada com uma ordem jônica, coríntia ou compósita completa
+  (colunas, ou pilastras, e seu entablamento) extraída do tratado de
+  Chitham, do de Vignola, ou do de Perrault;
 - A edícula deve ter quatro elevações idênticas, ou dois pares de
   elevações idênticas formando um todo coerente;
 - A edícula deve ter duas ou quatro aberturas arquitravadas ou
-  arqueadas;
+  arqueadas para passagem;
 - Na planta do ambiente único da edícula deve ser possível inscrever um
   círculo com 2,25 metros de diâmetro, o qual deve tocar a estrutura da
   edícula em quatro pontos equidistantes;
@@ -109,7 +114,7 @@ Chitham ou do de Vignola.
   demonstrando o seu papel no espaço público e explicitando a escala da
   edificação.
 
-# Apresentação #
+## Apresentação ##
 
 Uma prancha analítica de uma composição clássica, executada em desenho
 técnico (à mão ou digital) e entregue em formato PDF, compreendendo:
@@ -123,13 +128,69 @@ técnico (à mão ou digital) e entregue em formato PDF, compreendendo:
 4. Mostrar em traços leves, porém precisos, a construção geométrica das
    proporções empregadas na composição geral e na ordem clássica.
 
-Sempre incluir margem, carimbo e escalas gráficas nas pranchas.
+O título do trabalho deve incluir a identificação da ordem clássica
+escolhida --- nome da ordem e o seu autor, por exemplo:
 
-O produto deve mostrar com clareza o atendimento aos requisitos do
-trabalho, consoante com a entrega digital, e nível de detalhamento
-condizente com as escalas indicadas.
+::: {.smallcaps}
+> Analítico com a ordem jônica segundo Palladio
+:::
+
+# Cronograma e critérios de avaliação #
+
+| Data  | Atividade                                                                 |
+|-------|---------------------------------------------------------------------------|
+| 25/02 | Lançamento do trabalho: escolher ordem e iniciar a pesquisa de repertório |
+| 09/03 | Orientação 1: implantação, partido e proporções                           |
+| 16/03 | Orientação 2: desenvolver articulação construtiva e proporções da edícula |
+| 23/03 | Orientação 3: detalhar elementos da ordem e quinas da edícula             |
+| 30/03 | Orientação 4: planejar a arte-final e o layout da prancha                 |
+| 06/04 | Orientação 5: todos os desenhos esboçados na diagramação final da prancha |
+| 13/04 | Entrega da prancha arte-finalizada                                        |
+
+: Cronograma
+
+| Critério de avaliação                                               |  Valor |
+|---------------------------------------------------------------------|-------:|
+| Orientação 1: croquis do partido com ordem clássica na escala 1:100 |      5 |
+| Orientação 2: estudos das proporções gerais da edícula, 1:50        |      5 |
+| Orientação 3: composição geral 1:50, estudos de detalhes 1:20       |      5 |
+| Orientação 4: estudos de arte-final 1:20 e 1:7,5, layout da prancha |      5 |
+| Orientação 5: prancha diagramada, sem arte-final                    |      5 |
+| **Total**                                                           | **25** |
+
+: Processo
+
+| Critério de avaliação                                                  |  Valor |
+|------------------------------------------------------------------------|-------:|
+| Aplicação correta dos elementos canônicos da arquitetura clássica      |      8 |
+| Precisão e clareza de execução dos desenhos                            |      5 |
+| Uso correto, elegante e eficaz de margens, legendas e escalas gráficas |      2 |
+| **Total**                                                              | **15** |
+
+: Produto
+
+Ver também os critérios gerais de apresentação e avaliação no plano de
+ensino.
+
+## Sobre plágio e originalidade ##
+
+Integridade e reconhecimento são valores éticos fundamentais da
+cidadania e da profissão. Copiar parte ou tudo do trabalho alheio ---
+seja de colegas de turma, da bibliografia, ou de material "garimpado" na
+Internet --- é uma prática inaceitável e resultará em atribuição da nota
+0 (zero) ao trabalho como um todo. Dependendo da gravidade do fato,
+podemos relatar o ocorrido ao colegiado de graduação da FAU.
+
+Dito isso, você não tem obrigação de ser *original* no sentido artístico
+da palavra. Em cada trabalho você precisa atender a uma exigência
+pontual e demonstrar compreensão *correta* da construção tradicional e
+da arquitetura clássica. Não complique desnecessariamente o processo
+buscando uma expressão rebuscada: a sua linguagem pessoal vai aparecer
+gradual e naturalmente do seu modo de resolver o problema proposto.
 
 # Referências #
+
+## Pesquisa de conteúdo ##
 
 As referências indicadas abaixo devem ser usadas como ponto de partida
 para uma pesquisa mais aprofundada.
@@ -148,6 +209,9 @@ para uma pesquisa mais aprofundada.
   Reference to the Program of the Beaux-Arts Institute of Design. New
   York: Pencil Points, 1926.
   https://hdl.handle.net/2027/mdp.39015014100054.
+- Perrault, Claude. *Ordonnance for the Five Kinds of Columns after the
+  Method of the Ancients.* Traduzido por Indra Kagis McEwen. Santa
+  Monica: Getty, 1996.
 - Segurado, João Emilio dos Santos. *Edificações.* Construcção civil 1.
   Lisboa: Bibliotheca de instrucção profissional, [s.d.].
 - Summerson, John. *A linguagem clássica da arquitetura.* Traduzido por
@@ -166,4 +230,6 @@ para uma pesquisa mais aprofundada.
 - Westfall, Carroll William. “Why the Orders Belong in Studio”. *Journal
   of Architectural Education* 61, nº 4 (2008): 95–107.
   https://doi.org/10.2307/40480871.
+
+## Exemplos de composição de prancha ##
 

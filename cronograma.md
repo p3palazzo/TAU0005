@@ -17,110 +17,110 @@ layout     : page
 +===:+:================================================================+:===============================================+:==================+
 |    | ### MÓDULO I · CONSTRUÇÃO TRADICIONAL ###                       | ### Trabalho: Edículas vernáculas              | ### 01/02 a 21/02 |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|  1 | **Teoria da construção tradicional**                            | Introdução do livro-texto                      | 01/02             |
+|  1 | **Teoria da construção tradicional**                            | Lançamento do trabalho 1                       | 02/02             |
 |    | -- Por que estudar arquitetura tradicional                      |                                                |                   |
-|    | -- Sistemas arquitravados e sistemas murários ou arqueados      | Vitrúvio livro II                              |                   |
+|    | -- Sistemas arquitravados e sistemas murários ou arqueados      | Introdução do livro-texto                      | 04/02             |
 |    | -- Cabana primitiva segundo Vitrúvio, Laugier e Chambers        |                                                |                   |
-|    | -- Origem da arquitetura clássica segundo Durm                  | Recomendado: Ramos e Tourinho (2015)           |                   |
+|    | -- Origem da arquitetura clássica segundo Durm                  | Vitrúvio livro II                              |                   |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|  2 | **Primórdios da arquitetura**                                   | Livro-texto capítulo 1, ver também p. 83--85   | 08/02             |
+|  2 | **Primórdios da arquitetura**                                   | Orientação: croquis escala 1:100               | 09/02             |
 |    | -- Sistemas construtivos em madeira e terra                     |                                                |                   |
-|    | -- Construção tradicional e bioclimatismo                       | Recomendado: História global p. 1--52          |                   |
+|    | -- Construção tradicional e bioclimatismo                       | Livro-texto capítulo 1, ver também p. 83--85   | 11/02             |
 |    | -- Muros, paredes e terraplenos                                 |                                                |                   |
-|    | -- Monumentalidade e sistemas estruturais arquitravados         |                                                |                   |
+|    | -- Monumentalidade e sistemas estruturais arquitravados         | Recomendado: História global p. 1--52          |                   |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|  3 | **Mundo grego e oriental**                                      | Livro-texto capítulo 2, rever também p. 39--40 | 15/02             |
+|  3 | **Mundo grego e oriental**                                      | Orientação: detalhamento escala 1:50           | 16/02             |
 |    | -- O oriente e o ideal clássico                                 |                                                |                   |
-|    | -- Da madeira à pedra                                           | Recomendado: Robertson p. 9--                  |                   |
-|    | -- Origem das ordens dórica e jônica                            |                                                |                   |
+|    | -- Da madeira à pedra                                           | Livro-texto capítulo 2,                        | 18/02             |
+|    | -- Origem das ordens dórica e jônica                            | rever também p. 39--40                         |                   |
 |    | -- Refinamentos e molduras                                      |                                                |                   |
 |    | \vspace{6pt}                                                    |                                                |                   |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|    | ### MÓDULO II · ELEMENTOS DA ARQUITETURA ###                    | ### Trabalho: Analítico com ordens clássicas   | ### 22/02 a 21/03 |
+|  4 | **Roma e o Mediterrâneo**                                       | Orientação: produção da entrega escala 1:20    | 23/02             |
+|    | -- Estrutura murária, decoração arquitravada                    |                                                |                   |
+|    | -- Ordens e seus elementos complementares                       | Lançamento do trabalho 2                       | 25/02             |
+|    | -- Traçados reguladores                                         |                                                |                   |
+|    | -- Pintura e perspectiva                                        | Livro-texto capítulo 5                         |                   |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|  4 | **Teoria da arquitetura clássica**                              | Vitrúvio livro I cap. i--iii, livro III        | 22/02             |
+|    | \vspace{30pt}                                                   | \vspace{30pt}                                  | \vspace{30pt}     |
+|    | VI Enanparq --- não haverá aula                                 | Entrega do trabalho 1                          | 01/03 a 05/03     |
+|    | \vspace{30pt}                                                   |                                                |                   |
++----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
+|    | ### MÓDULO II · ELEMENTOS DA ARQUITETURA ###                    | ### Trabalho: Analítico com ordens clássicas   | ### 09/03 a 21/03 |
++----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
+|  5 | **Teoria da arquitetura clássica**                              | Orientação: croquis escala 1:100               | 09/03             |
 |    | -- Vitrúvio e o campo disciplinar da arquitetura                |                                                |                   |
 |    | -- Proporções na construção tradicional                         |                                                |                   |
 |    | -- Completando o cânone das ordens clássicas                    |                                                |                   |
-|    | -- Modenatura, molduras e variações                             |                                                |                   |
+|    | -- Modenatura, molduras e variações                             | Vitrúvio livro I cap. i--iii, livro III        | 11/03             |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|    | \vspace{30pt}                                                   |                                                | \vspace{30pt}     |
-|    | VI Enanparq --- não haverá aula                                 |                                                | 01/03 a 05/03     |
-|    | \vspace{30pt}                                                   |                                                | \vspace{30pt}     |
-+----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|  5 | **Roma e o Mediterrâneo**                                       | Livro-texto capítulo 5                         | 08/03             |
-|    | -- Estrutura murária, decoração arquitravada                    |                                                |                   |
-|    | -- Ordens e seus elementos complementares                       |                                                |                   |
-|    | -- Traçados reguladores                                         |                                                |                   |
-|    | -- Pintura e perspectiva                                        |                                                |                   |
-+----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|  6 | **China e o Leste da Ásia**                                     | Livro-texto capítulo 4                         | 15/03             |
-|    | -- Estruturas mistas em alvenaria e madeira                     |                                                |                   |
+|  6 | **China e o Leste da Ásia**                                     | Orientação: composição e proporções            | 16/03             |
+|    | -- Estruturas mistas em alvenaria e madeira                     | escala 1:50                                    |                   |
 |    | -- O sistema estrutural chinês enquanto "ordem"                 |                                                |                   |
 |    | -- Pintura e vazio                                              |                                                |                   |
 |    | -- Preservação e reconstrução no Japão                          |                                                |                   |
-|    | \vspace{6pt}                                                    |                                                |                   |
+|    | \vspace{6pt}                                                    | Livro-texto capítulo 4                         | 18/03             |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|    | ### MÓDULO III · ELEMENTOS DE COMPOSIÇÃO ###                    | ### Trabalho: Quincúncia                       | ### 22/03 a 11/04 |
+|    | ### MÓDULO III · ELEMENTOS DE COMPOSIÇÃO ###                    | ### Trabalho: Continuação do anterior          | ### 22/03 a 11/04 |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|  7 | **Teoria do espaço bem-definido**                               | Vitrúvio livro IV                              | 22/03             |
+|  7 | **Teoria do espaço bem-definido**                               | Orientação: detalhamento escala 1:20           | 23/03             |
 |    | -- Construção e espacialidade                                   |                                                |                   |
 |    | -- Quatro elementos da arquitetura                              |                                                |                   |
 |    | -- Caráter e decoro                                             |                                                |                   |
-|    | -- Articulação arquitetônica do espaço                          |                                                |                   |
+|    | -- Articulação arquitetônica do espaço                          | Vitrúvio livro IV                              | 25/03             |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|  8 | **Do classicismo ao cristianismo**                              | Livro-texto capítulo 6, ver também p. 301      | 29/03             |
-|    | -- Continuidade entre a Antiguidade tardia e a Idade Média      |                                                |                   |
-|    | -- Preexistências e transformações na cultura edilícia          |                                                |                   |
+|  8 | **Do classicismo ao cristianismo**                              | Orientação: representação gráfica              | 30/03             |
+|    | -- Continuidade entre a Antiguidade tardia e a Idade Média      | escala 1:20 e 1:7,5                            |                   |
+|    | -- Preexistências e transformações na cultura edilícia          |                                                |                   |
 |    | -- Composições espaciais no mundo judaico-cristão               |                                                |                   |
-|    | -- Artes decorativas no norte da Europa e na rota da Seda       |                                                |                   |
+|    | -- Artes decorativas no norte da Europa e na rota da Seda       | Livro-texto capítulo 6, ver também p. 301      | 01/04             |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|  9 | **Índia e os reinos das monções**                               | Livro-texto capítulo 3                         | 05/04             |
-|    | -- Novamente da madeira à pedra                                 |                                                |                   |
-|    | -- Do monumento maciço ao espaço escavado nos mosteiros budista |                                                |                   |
+|  9 | **Índia e os reinos das monções**                               | Orientação: diagramação da prancha             | 06/04             |
+|    | -- Novamente da madeira à pedra                                 | e arte-final                                   |                   |
+|    | -- Do monumento maciço ao espaço escavado nos mosteiros budista |                                                |                   |
 |    | -- Traçado regulador e cosmologia no *vāstu shastra*            |                                                |                   |
-|    | -- Civilizações hidráulicas no Ceilão e no Sudeste asiático     |                                                |                   |
+|    | -- Civilizações hidráulicas no Ceilão e no Sudeste asiático     | Livro-texto capítulo 3                         | 08/04             |
 |    | \vspace{6pt}                                                    |                                                |                   |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|    | ### MÓDULO IV · TIPOS EDILÍCIOS ###                             | ### Trabalho: Resolução de planta baixa        | ### 12/04 a 02/05 |
+|    | ### MÓDULO IV · TIPOS EDILÍCIOS ###                             | ### Trabalho: Composição de espaços            | ### 12/04 a 02/05 |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-| 10 | **Teoria da tipologia edilícia**                                | Vitrúvio livros V e VI                         | 12/04             |
+| 10 | **Teoria da tipologia edilícia**                                | Entrega do trabalho 2                          | 13/04             |
 |    | -- História da arte ou história da construção                   |                                                |                   |
-|    | -- Tipologia processual: ferramentas de análise e projeto       |                                                |                   |
+|    | -- Tipologia processual: ferramentas de análise e projeto       | Lançamento do trabalho 3                       |                   |
 |    | -- Seis tipos edilícios fundamentais                            |                                                |                   |
-|    | -- Princípios do projeto tipológico                             |                                                |                   |
+|    | -- Princípios do projeto tipológico                             | Vitrúvio livros V e VI                         | 15/04             |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-| 11 | **Territórios árabe-islâmicos**                                 | Livro-texto capítulo 7, ver também p. 301--302 | 19/04             |
+| 11 | **Territórios árabe-islâmicos**                                 | Orientação: croquis escala 1:200               | 20/04             |
 |    | -- Da casa à mesquita, um processo tipológico                   |                                                |                   |
 |    | -- Cultura doméstica no Mediterrâneo medieval                   |                                                |                   |
 |    | -- Ornamento, geometria e paisagismo                            |                                                |                   |
-|    | -- Da arquitetura tipológica às malhas espaciais                |                                                |                   |
+|    | -- Da arquitetura tipológica às malhas espaciais                | Livro-texto capítulo 7, ver também p. 301--302 | 22/04             |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-| 12 | **Europa pré-românica e românica**                              | Livro-texto capítulo 8                         | 26/04             |
+| 12 | **Europa pré-românica e românica**                              | Orientação: dimensionamento escala 1:100       | 27/04             |
 |    | -- Raízes ibéricas da arquitetura religiosa europeia            |                                                |                   |
 |    | -- Persistência da tradição clássica                            |                                                |                   |
 |    | -- Arquitetura das peregrinações                                |                                                |                   |
 |    | -- Construção de abóbadas                                       |                                                |                   |
-|    | \vspace{96pt}                                                   |                                                |                   |
+|    | \vspace{96pt}                                                   | Livro-texto capítulo 8                         | 29/04             |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|    | ### MÓDULO V · CONJUNTOS EDIFICADOS ###                         | ### Trabalho: Sucessão urbanística             | ### 03/05 a 22/05 |
+|    | ### MÓDULO V · CONJUNTOS EDIFICADOS ###                         | ### Trabalho: Continuação do anterior          | ### 03/05 a 22/05 |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-| 13 | **Teoria da forma urbana**                                      | Vitrúvio livro I, cap. iv--vii                 | 03/05             |
+| 13 | **Teoria da forma urbana**                                      | Orientação: representação gráfica escala 1:100 | 04/05             |
 |    | -- Princípios de morfologia urbana                              |                                                |                   |
-|    | -- *Res publica* e *res economica*                              | Recomendado: Panerai, cap. 4                   |                   |
+|    | -- *Res publica* e *res economica*                              | Vitrúvio livro I, cap. iv--vii                 | 06/05             |
 |    | -- Rua e praça na cidade antiga                                 |                                                |                   |
-|    | -- Parcelamento do solo e arquitetura                           |                                                |                   |
+|    | -- Parcelamento do solo e arquitetura                           | Recomendado: Panerai, cap. 4                   |                   |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-| 14 | **Europa gótica**                                               | Livro-texto capítulo 9                         | 10/05             |
+| 14 | **Europa gótica**                                               | Orientação: diagramação da prancha             | 11/05             |
 |    | -- Crescimentos urbanos na Europa medieval                      |                                                |                   |
-|    | -- Casas, castelos e outras arquiteturas civis                  |                                                |                   |
+|    | -- Casas, castelos e outras arquiteturas civis                  |                                                |                   |
 |    | -- Tecnologia e profissão na construção gótica                  |                                                |                   |
-|    | -- Espacialidade na pintura gótica italiana                     |                                                |                   |
+|    | -- Espacialidade na pintura gótica italiana                     | Livro-texto capítulo 9                         | 13/05             |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-| 15 | **Cidades medievais na África**                                 | Livro-texto capítulo 10                        | 17/05             |
+| 15 | **Cidades medievais na África**                                 | Entrega do trabalho 3                          | 18/05             |
 |    | -- Medinas e arrabaldes no Magrebe e al-Ândalus                 |                                                |                   |
 |    | -- Impérios urbanos na bacia do Níger                           |                                                |                   |
 |    | -- Cidades da costa Suaíle                                      |                                                |                   |
-|    | -- Redes de *boma* bantos e o Grande Zimbábue                   |                                                |                   |
+|    | -- Redes de *boma* bantos e o Grande Zimbábue                   | Livro-texto capítulo 10                        | 20/05             |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
 
