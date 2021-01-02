@@ -8,18 +8,18 @@ filters:
   - pandoc-crossref
   - citeproc
 metadata:
-  csl           : "_styles/chicago-author-date.csl"
+  csl           : "_csl/chicago-author-date.csl"
   cssLabelSep   : "&ndash;"
   figureTitle   : Figura
   lang          : pt-BR
-  tableTitle    : Tabela
   suppress-bibliography: false
+  tableTitle    : Tabela
 slide-level     : 2
 standalone      : true
 toc             : true
 toc-depth       : 1
 variables:
-  css           : "assets/css/slide.css"
+  css           : "/tau0005/assets/css/slide.css"
   controls      : false
   hash          : true
   hashOneBasedIndex: true

@@ -1,5 +1,3 @@
-from            : markdown
-to              : html
 bibliography    : biblio.bib
 cite-method     : citeproc
 fail-if-warnings: true
@@ -8,13 +6,13 @@ filters:
   - pandoc-crossref
   - citeproc
 metadata:
-  csl           : "_styles/chicago-author-date.csl"
+  csl           : "_csl/chicago-author-date.csl"
   cssLabelSep   : "&ndash;"
   figureTitle   : Figura
   lang          : pt-BR
   layout        : page
-  tableTitle    : Tabela
   suppress-bibliography: false
+  tableTitle    : Tabela
 toc             : true
 toc-depth       : 1
 variables:

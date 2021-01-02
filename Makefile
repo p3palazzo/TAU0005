@@ -2,40 +2,31 @@ VPATH = .:assets
 vpath %.html .:_includes:_layouts:_site
 vpath %.scss _sass:assets/css
 vpath %.xml _site
+vpath %.yaml .:_spec
 
 SASS      = $(wildcard *.scss)
 ANYTHING  = $(filter-out _site,$(wildcard *))
 MARKDOWN  = $(filter-out README.md,$(wildcard *.md))
-AULAS     = $(wildcard [0-9][0-9]-*.md)
-SLIDES   := $(patsubst %.md,_slides/%.html,$(AULAS))
-NOTAS    := $(patsubst %.md,_notas/%.html,$(AULAS))
-PAGES    := $(filter-out $(AULAS),$(MARKDOWN))
+AULAS     = $(wildcard _aula/*.md)
+SLIDES   := $(patsubst _aula/%.md,_site/slides/%.html,$(AULAS))
 
 PANDOC/CROSSREF := docker run -v "`pwd`:/data" \
-	--user "`id -u`:`id -g`" pandoc/crossref:2.11.2
+	--user "`id -u`:`id -g`" pandoc/crossref:2.11.3.2
 PANDOC/LATEX    := docker run --user "`id -u`:`id -g`" \
 	-v "`pwd`:/data" -v "`pwd`/assets/fonts:/usr/share/fonts" \
 	pandoc/latex:2.11.2
+JEKYLL-PANDOC   := palazzo/jekyll-pandoc:4.2.0-2.11.3.2
+	
+deploy : _site .slides
 
-deploy : _site slides notas
+.slides : $(SLIDES) | _site/slides
 
-slides : $(SLIDES)
-
-notas : $(NOTAS)
-
-_site : $(NOTAS) $(SLIDES) $(PAGES) $(SASS) _config.yaml
+_site : $(MARKDOWN) $(AULAS) _config.yaml assets _spec | clean _csl
 	docker run -v "`pwd`:/srv/jekyll" \
-		jekyll/jekyll:4.1.0 /bin/bash -c \
-		"chmod 777 /srv/jekyll && jekyll build --future"
+		$(JEKYLL-PANDOC) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
-_slides/%.html : %.md revealjs.yaml biblio.bib | _styles _slides
-	$(PANDOC/CROSSREF) -o $@ -d revealjs.yaml $<
-
-_site/%.html : %.md notas.yaml biblio.bib | _styles _site
-	$(PANDOC/CROSSREF) -o $@ -d notas.yaml $<
-
-_notas/%.html : %.md notas.yaml biblio.bib | _styles _notas
-	$(PANDOC/CROSSREF) -o $@ -d notas.yaml $<
+_site/slides/%.html : _aula/%.md revealjs.yaml biblio.bib | _csl _site/slides
+	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
 
 %.pdf : %.tex biblio.bib
 	docker run -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
@@ -43,21 +34,18 @@ _notas/%.html : %.md notas.yaml biblio.bib | _styles _notas
 		latexmk -pdflatex="xelatex" -cd -f -interaction=batchmode -pdf $<
 
 %.tex : %.md latex.yaml biblio.bib
-	$(PANDOC/LATEX) -o $@ -d latex.yaml $<
+	$(PANDOC/LATEX) -o $@ -d _spec/latex.yaml $<
 
 serve :
 	docker run -p 4000:4000 -h 127.0.0.1 \
-		-v "`pwd`:/srv/jekyll" -it jekyll/jekyll:4.1.0 \
+		-v "`pwd`:/srv/jekyll" -it $(JEKYLL-PANDOC) \
 		jekyll serve --skip-initial-build --no-watch
 
-_styles :
-	git clone https://github.com/citation-style-language/styles.git _styles
+_csl :
+	git clone https://github.com/citation-style-language/styles.git _csl
 
-_notas :
-	mkdir -p _notas
-
-_slides :
-	mkdir -p _slides
+_site/slides :
+	mkdir -p _site/slides
 
 clean :
-	@rm *.aux *.bbl *.bcf *.blg *.fls *.log
+	-@rm *.aux *.bbl *.bcf *.blg *.fls *.log

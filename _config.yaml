@@ -2,7 +2,7 @@
 # General {{{2
 title: História da Arquitetura e da Arte I
 author:
-  name: Pedro Paulo Palazzo
+  name: Pedro P. Palazzo
   email: palazzo@unb.br
 description: >-
   História do urbanismo, da arquitetura e da arte no contexto de seus
@@ -14,7 +14,7 @@ lang: pt-BR
 
 # Collections {{{2
 collections:
-  notas:
+  aula:
     output: true
 
 # Build settings {{{1
@@ -30,27 +30,28 @@ minima:
     instagram : arqtrad
 
 # Build parameters {{{2
+markdown: Pandoc
+pandoc:
+  extensions:
+    - defaults: "_spec/html.yaml"
 #permalink: pretty
+readme_index:
+  enabled         : true
+  remove_originals: true
+  with_frontmatter: true
+relative_links:
+  enabled         : true
+  collections     : true
 sass_dir:
   load_paths:
     - _sass
     - reveal.js/css/theme/template
 timezone: America/Sao_Paulo
-relative_links:
-  enabled         : true
-  collections     : true
-readme_index:
-  enabled         : true
-  remove_originals: true
-  with_frontmatter: true
-kramdown:
-  header_offset   : 1
-  parse_block_html: true
-  parse_span_html : true
 
-# Plugins {{{2
+# Plugins {{{1
 plugins:
   - jekyll-feed
+  - jekyll-pandoc
   - jekyll-sitemap
   - jekyll-seo-tag
   #- kramdown
@@ -63,12 +64,12 @@ plugins:
   # Plugins incompatible with GitHub Pages
   #- jekyll-scholar
 
-# Keep and Exclude {{{2
+# Keep and Exclude {{{1
 exclude:
-  - "[0-9][0-9]-*.md"
-  - "*.yaml"
-  - reveal.js
-  - Gemfile*
   - LICENSE
   - Makefile
+  - reveal.js
+keep_files:
+  - slides
+  - reveal.js
 # vim: set foldmethod=marker :
