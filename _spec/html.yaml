@@ -1,4 +1,4 @@
-bibliography    : biblio.bib
+bibliography    : "/tau0005/biblio.bib"
 cite-method     : citeproc
 fail-if-warnings: true
 file-scope      : true

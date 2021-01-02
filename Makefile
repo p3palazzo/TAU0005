@@ -14,14 +14,15 @@ PANDOC/CROSSREF := docker run -v "`pwd`:/data" \
 	--user "`id -u`:`id -g`" pandoc/crossref:2.11.3.2
 PANDOC/LATEX    := docker run --user "`id -u`:`id -g`" \
 	-v "`pwd`:/data" -v "`pwd`/assets/fonts:/usr/share/fonts" \
-	pandoc/latex:2.11.2
+	pandoc/latex:2.11.3.2
 JEKYLL-PANDOC   := palazzo/jekyll-pandoc:4.2.0-2.11.3.2
 
-tau0005.pdf : plano.pdf cronograma.pdf
+deploy : _site .slides
+
+tau0005.pdf : plano.pdf cronograma.pdf \
+	trabalho-1-construcao.pdf trabalho-2-ordens.pdf trabalho-3-tipologia.pdf
 	gs -dNOPAUSE -dBATCH -sDevice=pdfwrite \
 		-sOutputFile=$@ $^
-
-deploy : _site .slides
 
 .slides : $(SLIDES) | _site/slides
 

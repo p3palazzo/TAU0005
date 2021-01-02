@@ -1,6 +1,7 @@
 ---
 title   : "Edículas vernáculas"
 subtitle: "Trabalho I"
+bibliography: "bibio.bib"
 ---
 
 # Ementa #
