@@ -1,11 +1,12 @@
 ---
 title   : "Teoria da construção tradicional"
 author  : "Pedro P. Palazzo"
+date    : 2021-02-02
 abstract: |
-  -- Por que estudar arquitetura tradicional
-  -- Sistemas arquitravados e sistemas murários ou arqueados
-  -- Cabana primitiva segundo Vitrúvio, Laugier e Chambers
-  -- Origem da arquitetura clássica segundo Durm
+  -- Por que estudar construção tradicional
+  -- Sistemas arquitravados e a cabana primitiva
+  -- Sistemas murários--arqueados e a criação do espaço
+  -- Processos de produção do ambiente construído
 ---
 
 
