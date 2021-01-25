@@ -26,7 +26,7 @@ tau0005.pdf : plano.pdf cronograma.pdf \
 
 .slides : $(SLIDES) | _site/slides
 
-_site : $(MARKDOWN) $(AULAS) _config.yaml assets _spec | clean _csl
+_site : $(MARKDOWN) $(AULAS) _config.yaml assets _spec | _csl
 	docker run -v "`pwd`:/srv/jekyll" \
 		$(JEKYLL-PANDOC) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 

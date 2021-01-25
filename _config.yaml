@@ -17,6 +17,13 @@ collections:
   aula:
     output: true
 
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: page
+
 # Build settings {{{1
 # Theme {{{2
 theme: minima
@@ -45,6 +52,9 @@ relative_links:
 sass_dir:
   load_paths:
     - _sass
+    - _sass/minima
+    - assets
+    - assets/css
     - reveal.js/css/theme/template
 timezone: America/Sao_Paulo
 

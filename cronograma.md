@@ -9,7 +9,6 @@ geometry:
 - left=60pt
 - textwidth=720pt
 - textheight=480pt
-layout     : page
 nocite     : "@*"
 suppress-bibliography: true
 ---
@@ -20,10 +19,10 @@ suppress-bibliography: true
 |    | ### MÓDULO I · CONSTRUÇÃO TRADICIONAL ###                       | ### Trabalho: Edículas vernáculas              | ### 01/02 a 21/02 |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
 |  1 | **Teoria da construção tradicional**                            | Lançamento do trabalho 1                       | 02/02             |
-|    | -- Por que estudar arquitetura tradicional                      |                                                |                   |
-|    | -- Sistemas arquitravados e sistemas murários ou arqueados      | Introdução do livro-texto                      | 04/02             |
-|    | -- Cabana primitiva segundo Vitrúvio, Laugier e Chambers        |                                                |                   |
-|    | -- Origem da arquitetura clássica segundo Durm                  | Vitrúvio livro II                              |                   |
+|    | -- Por que estudar construção tradicional                       |                                                |                   |
+|    | -- Sistemas arquitravados e a cabana primitiva                  | Introdução do livro-texto                      | 04/02             |
+|    | -- Sistemas murários--arqueados e criação de espaços            |                                                |                   |
+|    | -- Processos de produção do ambiente construído                 | Vitrúvio livro II                              |                   |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
 |  2 | **Primórdios da arquitetura**                                   | Orientação: croquis escala 1:100               | 09/02             |
 |    | -- Sistemas construtivos em madeira e terra                     |                                                |                   |
@@ -31,7 +30,7 @@ suppress-bibliography: true
 |    | -- Muros, paredes e terraplenos                                 |                                                |                   |
 |    | -- Monumentalidade e sistemas estruturais arquitravados         | Recomendado: História global p. 1--52          |                   |
 +----+-----------------------------------------------------------------+------------------------------------------------+-------------------+
-|  3 | **Mundo grego e oriental**                                      | Orientação: detalhamento escala 1:50           | 16/02             |
+|  3 | **Mundo grego e oriental**                                      | Orientação: detalhamento escala 1:50           | 18/02             |
 |    | -- O oriente e o ideal clássico                                 |                                                |                   |
 |    | -- Da madeira à pedra                                           | Livro-texto capítulo 2,                        | 18/02             |
 |    | -- Origem das ordens dórica e jônica                            | rever também p. 39--40                         |                   |

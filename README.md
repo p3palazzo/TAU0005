@@ -1,3 +1,7 @@
+---
+layout: home
+---
+
 # TAU 0005 : História da Arquitetura e da Arte I : FAU–UnB #
 
 ![Build status](https://github.com/p3palazzo/tau0005/workflows/Build/badge.svg)

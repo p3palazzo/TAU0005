@@ -1,4 +1,4 @@
-bibliography    : "/tau0005/biblio.bib"
+bibliography    : "biblio.bib"
 cite-method     : citeproc
 fail-if-warnings: true
 file-scope      : true
@@ -15,5 +15,3 @@ metadata:
   tableTitle    : Tabela
 toc             : true
 toc-depth       : 1
-variables:
-  css           : "/tau0005/assets/css/slide.css"
