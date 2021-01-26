@@ -16,7 +16,7 @@ jobs:
       uses: actions/upload-artifact@v2
       with:
         name: slides
-        path: 'slides/*'
+        path: '_site/slides/*'
   build:
     runs-on: ubuntu-latest
     steps:
