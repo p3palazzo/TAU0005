@@ -1,3 +1,4 @@
+from            : "markdown+tex_math_single_backslash"
 bibliography    : "biblio.bib"
 cite-method     : citeproc
 fail-if-warnings: true
@@ -5,13 +6,14 @@ file-scope      : true
 filters:
   - pandoc-crossref
   - citeproc
+  - pandoc-sidenote
 metadata:
-  csl           : "_csl/chicago-author-date.csl"
+  csl           : "_csl/chicago-fullnote-bibliography-with-ibid.csl"
   cssLabelSep   : "&ndash;"
   figureTitle   : Figura
   lang          : pt-BR
   layout        : page
-  suppress-bibliography: false
+  suppress-bibliography: true
   tableTitle    : Tabela
 toc             : true
 toc-depth       : 1

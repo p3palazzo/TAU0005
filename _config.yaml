@@ -1,9 +1,8 @@
 # Content {{{1
 # General {{{2
 title: História da Arquitetura e da Arte I
-author:
-  name: Pedro P. Palazzo
-  email: palazzo@unb.br
+author: Pedro P. Palazzo
+email: palazzo@unb.br
 description: >-
   História do urbanismo, da arquitetura e da arte no contexto de seus
   condicionantes sociais, econômicos e políticos, desde os primórdios da
@@ -26,7 +25,7 @@ defaults:
 
 # Build settings {{{1
 # Theme {{{2
-theme: minima
+theme: tufte-pandoc-jekyll
 header_pages:
   - README.md
 minima:
@@ -41,6 +40,7 @@ markdown: Pandoc
 pandoc:
   extensions:
     - defaults: "_spec/html.yaml"
+    - section-divs
 #permalink: pretty
 readme_index:
   enabled         : true
@@ -78,6 +78,8 @@ plugins:
 exclude:
   - LICENSE
   - Makefile
+  - biblio.bib
+  - outcomes.csv
   - reveal.js
 keep_files:
   - slides
