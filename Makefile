@@ -15,7 +15,7 @@ PANDOC/CROSSREF := docker run -v "`pwd`:/data" \
 PANDOC/LATEX    := docker run --user "`id -u`:`id -g`" \
 	-v "`pwd`:/data" -v "`pwd`/assets/fonts:/usr/share/fonts" \
 	pandoc/latex:2.11.3.2
-JEKYLL-PANDOC   := palazzo/jekyll-pandoc:4.2.0-2.11.3.2
+JEKYLL-PANDOC   := palazzo/jekyll-tufte:4.2.0
 
 deploy : _site .slides
 

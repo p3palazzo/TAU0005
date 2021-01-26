@@ -24,14 +24,7 @@ jobs:
       with:
         submodules: 'recursive'
     - name: Test build website
-      run: >
-        cabal update && cabal install --install-method=copy
-        pandoc-2.11.3.2
-        pandoc-crossref-0.3.9.0
-        && wget https://github.com/jez/pandoc-sidenote/releases/download/0.22.1/pandoc-sidenote-0.22.1.zip
-        && unzip pandoc-sidenote-0.22.1.zip
-        && mv pandoc-sidenote /usr/local/bin/
-        && bundle exec jekyll build
+      run: make
     - name: Upload website
       uses: actions/upload-artifact@v2
       with:
