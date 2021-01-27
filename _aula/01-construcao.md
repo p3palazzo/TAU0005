@@ -1,7 +1,6 @@
 ---
 title   : "Teoria da construção tradicional"
 author  : "Pedro P. Palazzo"
-date    : 2021-02-02
 abstract: |
   -- Por que estudar construção tradicional
   -- Sistemas arquitravados e a cabana primitiva
