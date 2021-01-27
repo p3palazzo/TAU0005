@@ -17,3 +17,4 @@ metadata:
   tableTitle    : Tabela
 toc             : true
 toc-depth       : 1
+shift-heading-level-by: 1
