@@ -1,0 +1,21 @@
+h1 {
+  font-family: "Trajan Pro";
+  text-transform: uppercase;
+  font-size: 2.4rem;
+}
+
+h2 > em {
+  font-style: normal;
+}
+
+/* For compatibility with reveal.js */
+section > div.notes { width: 55%; }
+
+div.notes > figure,
+div.notes > figure > figcaption {
+  max-width: 100%;
+}
+
+img.marginnote + figcaption {
+  @extend .marginnote;
+}

@@ -4,6 +4,7 @@ source "https://rubygems.org"
 # See https://stackoverflow.com/questions/58598084/how-does-one-downgrade-jekyll-to-work-with-github-pages
 gem "jekyll", "~> 4.2"
 gem "tufte-pandoc-jekyll"
+gem "webrick" #required by ruby 3.0
 #gem "github-pages", group: :jekyll_plugins
 group :jekyll_plugins do
   gem "jekyll-feed"#, "~> 0.11"
