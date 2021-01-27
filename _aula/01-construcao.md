@@ -8,25 +8,118 @@ abstract: |
   -- Processos de produção do ambiente construído
 ---
 
+# Arquitetura é construção #
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a0/Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![[Johann Heinrich Wilhelm Tischbein, Goethe na campanha romana, 1787](https://commons.wikimedia.org/wiki/File:Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg/1280px-Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg){.marginnote #fig:goethe}
+
+Você que é iniciante no estudo da arquitetura já deve ter lido ou ouvido
+uma dúzia de definições diferentes do que é arquitetura. Já eu garanto
+que li praticamente uma definição diferente em cada livro que trata do
+assunto. Algumas dessas definições são sofisticadas, abstratas, talvez
+obscuras e quase esotéricas, como o famoso aforismo de Goethe
+([@fig:goethe]):
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+> Música é arquitetura líquida. Arquitetura é música petrificada.
+>
+> <footer>Johann Wolfgang von Goethe, 1829</footer>
+
+## {data-background-image="https://commons.wikimedia.org/wiki/File:Vitruvius.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![[Sébastien Le Clerc, Vitrúvio apresentando o tratado *Da arquitetura*
+ao imperador Augusto, 1684](https://commons.wikimedia.org/wiki/File:Vitruvius.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/a/a3/Vitruvius.jpg){.marginnote #fig:vitruve-leclerc}
+
+Algumas das definições mais conhecidas falam do ofício profissional,
+como a famosa descrição do arquiteto feita por Vitrúvio
+(@fig:vitruve-leclerc) no século I a.C.:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+> A ciência do arquiteto é ornada de muitas disciplinas e de vários
+> saberes [...] E assim, parece que aquele que pretende ser arquiteto
+> deverá se exercitar [na prática e na teoria]. [...] Deverá ser versado
+> em literatura, perito no desenho gráfico, erudito em geometria, deverá
+> conhecer muitas narrativas de fatos históricos. Ouvir diligentemente
+> os filósofos, saber de música, não ser ignorante de medicina, conhecer
+> [o direito], ter conhecimento da astronomia e das orientações da
+> abóbada celeste. [@vitruvio:2007tratado, I, 1]
+
+## {data-background-image="https://i.pinimg.com/originals/9e/28/15/9e28156e5be6433b42aa14c5e2fe3d32.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Lucio Costa no seu escritório na antiga sede do Iphan, palácio Capanema
+](https://i.pinimg.com/originals/9e/28/15/9e28156e5be6433b42aa14c5e2fe3d32.jpg){.marginnote #fig:lucio}
+
+Outras definições, ainda, descrevem os objetos construídos, ou o próprio
+ato de construir. Em geral, esse modo de definir arquitetura tem duas
+partes: primeiro, afirma-se que arquitetura é construção; depois, essa
+afirmação é qualificada: arquitetura é *algo a mais* do que a "simples
+construção", como dizia Lucio Costa (@fig:lucio):
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+> Já é tempo, portanto, de se reconhecer agora, de modo inequívoco, a
+> *legitimidade* da intenção plástica, consciente ou não, que tôda obra
+> de arquitetura, digna dêsse nome --- seja ela erudita ou popular ---,
+> necessariamente pressupõe. [@costa:1952consideracoes, 4]
+
+## {data-background-image="https://i.pinimg.com/originals/60/e5/ed/60e5ed79dce981fb36997ebab15d55d2.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Le Corbusier com uma maquete da Unidade de Habitação, década de 1950
+](https://i.pinimg.com/originals/60/e5/ed/60e5ed79dce981fb36997ebab15d55d2.jpg){.marginnote #fig:corb}
+
+A definição de Lucio Costa é calcada num texto de um dos maiores
+teóricos do modernismo, o suíço Le Corbusier (@fig:corb). Num dos
+manifestos fundadores do modernismo, o livro *Por uma arquitetura* que
+ele publica em 1923, Le Corbusier insiste na diferença entre engenharia
+e arquitetura. Enquanto a engenharia é útil, eficiente e econômica, só a
+arquitetura desperta emoção:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+> O arquiteto,  ordenando formas, realiza uma ordem que é pura criação
+> de seu espírito; pelas formas, afeta intensamente nossos sentidos,
+> provocando emoções plásticas; pelas relações que cria, desperta em nós
+> ressonâncias profundas, nos dá a medida de uma ordem que sentimos
+> acordar com a ordem do mundo, determina movimentos diversos de nosso
+> espírito e de nossos sentimentos; sentimos então a beleza.
+> [@lecorbusier:1977arquitetura, 3]
+
+## {data-background-image="https://i.pinimg.com/originals/7e/dd/ed/7edded54cb5dfe0c0323f36b380d1e44.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Auguste Perret, palais d'Iéna, Paris,
+1937](https://i.pinimg.com/originals/7e/dd/ed/7edded54cb5dfe0c0323f36b380d1e44.jpg){#fig:perret}
+
+Já o engenheiro e arquiteto francês Auguste Perret insistia na relação
+muito próxima entre arquitetura e construção. Nas suas obras construídas
+em concreto armado, como o palácio Iéna em Paris (@fig:perret), tanto
+quanto nos seus aforismos famosos, Perret defendia uma identidade quase
+completa entre arquitetura e construção; nesse caso, a arquitetura não é
+algo que incrementa ou que se distingue da construção, mas é ela própria
+a expressão da lógica construtiva:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+> Arquitetura é a arte de fazer cantar o ponto de apoio.
+>
+> <footer>Auguste Perret, 1935</footer>
+
+----
+
+Arquitetura é construção. Definir a disciplina nesses termos nos coloca
+dentro de uma linhagem de manuais de ofício que se estende de Vitrúvio,
+no século I a.C., aos carpinteiros anglo-americanos dos séculos XVIII e
+XIX, passando pelos supervisores de obras públicas na China do século XI
+ao XVIII.
+
+# Por que estudar construção tradicional #
+
 
 Introdução
 ==========
-
-História da Arquitetura e da Arte I
------------------------------------
-
-- Objetivos da disciplina
-
-- Plano de estudos
-
-Plano da aula
--------------
-
-- Objetivos deste tópico
-
-- Uma avaliação para cada dois tópicos
-
-- Ligações entre conteúdo, avaliação e objetivos
 
 Por que teoria e história?
 --------------------------
@@ -151,47 +244,6 @@ Estágios da história da cidade
 . . .
 
 - Cidade como commodity (investimento)
-
-Atividades
-==========
-
-Módulo comum
-------------
-
-### Leitura e discussão do livro-texto ###
-
-::: incremental
-
-- Redigir um breve parágrafo (3 a 5 frases bem articuladas) resumindo,
-  nas suas próprias palavras, o argumento principal do texto,
-  eventualmente complementando com detalhes sobre algum tópico de seu
-  interesse abordado no texto.
-
-- Propor uma pergunta ou problema, relacionados à leitura, para
-  discussão aprofundada em grupo. Indicar por que a questão escolhida é
-  problemática ou gera dificuldades de interpretação --- ela deve ir
-  além, portanto, de simples dúvidas factuais que possam ser resolvidas
-  consultando a bibliografia ou a Wikipédia.
-
-- Contribuir respostas ou debates nas questões levantadas pelos demais
-  colegas da turma.
-
-:::
-
-------
-
-### Critérios de avaliação  ###
-
-::: incremental
-
-- Capacidade de interpretar e discutir um texto acadêmico, fazendo
-  perguntas ou levantando problemas pertinentes.
-
-- Ao final do semestre, cada aluno deverá ter resenhado no mínimo 8 dos
-  10 capítulos do livro-texto; caso tenha resenhado mais que 8, apenas
-  as 8 melhores notas serão consideradas.
-
-:::
 
 Recursos complementares {.unlisted }
 =======================
