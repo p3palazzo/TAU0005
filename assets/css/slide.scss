@@ -3,16 +3,12 @@
 
 // Reveal.js -----------------------------------
 // Default mixins and settings -----------------
-@import "reveal.js/css/theme/template/mixins";
-@import "reveal.js/css/theme/template/settings";
-// ---------------------------------------------
-
-
 // Include theme-specific fonts
-@import "fonts";
-
 // Override theme settings (see ../template/settings.scss)
-@import "tau0005";
+@import "reveal.js/css/theme/template/mixins",
+        "reveal.js/css/theme/template/settings",
+        "fonts",
+        "tau0005";
 
 html {
   block-margin: 0
@@ -57,10 +53,16 @@ section#title-slide {
 }
 
 section {
+  p, figure {
+    display: none;
+    visibility: hidden;
+  }
   img.stretch {
+    display: inline;
     margin: -20px 0;
-    padding: 0;
     object-fit: cover;
+    padding: 0;
+    visibility: visible;
   }
 }
 

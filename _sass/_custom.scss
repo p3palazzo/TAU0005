@@ -1,21 +1,59 @@
-h1 {
-  font-family: "Trajan Pro";
-  text-transform: uppercase;
-  font-size: 2.4rem;
+body {
+  margin-top: 0;
+}
+
+em, strong,
+.epigraph > blockquote > p,
+.epigraph > blockquote > footer {
+  font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
 
 h2 > em {
   font-style: normal;
 }
 
-/* For compatibility with reveal.js */
-section > div.notes { width: 55%; }
-
-div.notes > figure,
-div.notes > figure > figcaption {
-  max-width: 100%;
+hr {
+  border: 0;
+  text-align: center;
+  font-size: 2em;
+  padding: 2rem 0 2rem 0;
+  &::before {
+    content: "* * *";
+  }
 }
 
-img.marginnote + figcaption {
+p,
+figcaption {
+  @extend .numeral;
+}
+
+.site-title {
+  max-width: 1400px;
+  & > img {
+    width: 90%;
+  }
+}
+
+.smallcaps,
+.newthought {
+  font-variant: small-caps;
+  text-transform: lowercase;
+}
+
+.smallcaps {
+  font-weight: bold;
+}
+
+/* Fixes for pandoc-crossref */
+figure > figcaption {
   @extend .marginnote;
+}
+
+figure > img.fullwidth {
+  clear: both;
+  max-width: 164%;
+}
+
+.marginnote {
+  padding-bottom: 1rem;
 }

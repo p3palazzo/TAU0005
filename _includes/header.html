@@ -4,8 +4,10 @@
     {% if page.subtitle %}
       <p class="subtitle">{{ page.subtitle }}</p>
     {% endif %}
+    {%- comment -%}
     {% if page.date %}
-      <p class="byline">{{ page.date | date: "%-d/%-e/%Y"}}</p>
+      <p class="byline">{{ page.date | date: "%-d/%-m/%Y"}}</p>
     {% endif %}
+    {%- endcomment -%}
   </header>
 {% endif %}

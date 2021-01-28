@@ -16,5 +16,5 @@ metadata:
   suppress-bibliography: true
   tableTitle    : Tabela
 toc             : true
-toc-depth       : 1
+toc-depth       : 2
 shift-heading-level-by: 1

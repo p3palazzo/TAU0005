@@ -10,6 +10,10 @@ description: >-
 baseurl: "/tau0005"
 url: "https://p3palazzo.github.io"
 lang: pt-BR
+include_before: |
+  <div class="site-title">
+    <img src="https://repository-images.githubusercontent.com/271059855/eef83080-aa80-11ea-9464-650e34bad83c" />
+  </div>
 
 # Collections {{{2
 collections:
