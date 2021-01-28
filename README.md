@@ -3,62 +3,44 @@
 
 # TAU 0005 : História da Arquitetura e da Arte I : FAU–UnB #
 
-![Build status](https://github.com/p3palazzo/tau0005/workflows/Build/badge.svg)
+<!--![Build status](https://github.com/p3palazzo/tau0005/workflows/Build/badge.svg)-->
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.epigraph}
 > História do urbanismo, da arquitetura e da arte no contexto de seus
 > condicionantes sociais, econômicos e políticos, desde os primórdios da
 > civilização até o gótico.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Livro-texto ##
+- [Plano de ensino](plano.md)
+- [Cronograma](cronograma.md)
 
-Fazio, Michael; Marian Moffett; Lawrence Wodehouse. *A história da
-arquitetura mundial*. Porto Alegre: AMGH, 2011.
+## Módulo I · Construção ##
 
-<details>
+ 1. [Teoria da construção tradicional](_aula/01-construcao.md)
+ 2. [Primórdios da arquitetura](_aula/02-primordios.md)
+ 3. [Mundo grego e oriental](_aula/03-grecia.md)
 
-  <summary>
+## Módulo II · Elementos da arquitetura ##
 
-  Como obter o e-book
+ 4. [Teoria da arquitetura clássica](_aula/04-classicismo.md)
+ 5. [Roma e o Mediterrâneo](_aula/05-roma.md)
+ 6. [China e o Leste da Ásia](_aula/06-china.md)
 
-  </summary>
+## Módulo III · Elementos de composição ##
 
-  Acessar o site da [Biblioteca Central](https://bce.unb.br). Pesquisar
-  pelo livro usando a `🔍 Busca integrada` (função de busca padrão da
-  BCE). Na visualização do resultado, clicar no link `View record at
-  Minha Biblioteca`. Fazer login no serviço de leitura online usando as
-  credenciais da BCE (CPF e senha usada no balcão de empréstimo).
+ 7. [Teoria do espaço bem-definido](_aula/07-espaco.md)
+ 8. [Arquitetura paleocristã e bizantina](_aula/08-bizancio.md)
+ 9. [Índia e Sudeste asiático](_aula/09-india.md)
 
-</details>
+## Módulo IV · Tipos edilícios ##
 
-## Programa ##
+10. [Teoria da tipologia edilícia](_aula/10-tipologia.md)
+11. [Mundo islâmico](_aula/11-islam.md)
+12. [Arquitetura medieval primitiva e românica](_aula/12-romanico.md)
 
-### Módulo I › Construção ###
+## Módulo V · Conjuntos ##
 
- 1. [Teoria da construção tradicional](01-construcao.md)
- 2. [Primórdios da arquitetura](02-primordios.md)
- 3. [Mundo grego e oriental](03-grecia.md)
-
-### Módulo II › Elementos da arquitetura ###
-
- 4. [Teoria da arquitetura clássica](04-classicismo.md)
- 5. [Roma e o Mediterrâneo](05-roma.md)
- 6. [China e o Leste da Ásia](06-china.md)
-
-### Módulo III › Elementos de composição ###
-
- 7. [Teoria do espaço bem-definido](07-espaco.md)
- 8. [Arquitetura paleocristã e bizantina](08-bizancio.md)
- 9. [Índia e Sudeste asiático](09-india.md)
-
-### Módulo IV › Tipos edilícios ###
-
-10. [Teoria da tipologia edilícia](10-tipologia.md)
-11. [Mundo islâmico](11-islam.md)
-12. [Arquitetura medieval primitiva e românica](12-romanico.md)
-
-### Módulo V › Conjuntos ###
-
-13. [Teoria da forma urbana](13-urbanismo.md)
-14. [Gótico](14-gotico.md)
-15. [África medieval](15-africa.md)
+13. [Teoria da forma urbana](_aula/13-urbanismo.md)
+14. [Gótico](_aula/14-gotico.md)
+15. [África medieval](_aula/15-africa.md)
 
