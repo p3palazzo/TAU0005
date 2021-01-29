@@ -419,6 +419,13 @@ que não tem um ponto de corte nítido entre tradição e modernidade.
 ](https://commons.wikimedia.org/wiki/File:Saint-Germain_Paris_(44694722604).jpg)
 ](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Saint-Germain_Paris_%2844694722604%29.jpg/1280px-Saint-Germain_Paris_%2844694722604%29.jpg){#fig:montparnasse}
 
+## {data-background-image=""}
+
+Para podermos decidir entre o óbvio e o absurdo, vamos explorar duas
+categorias de argumentos: uma que olha para o *estilo* arquitetônico
+como indicador de continuidade ou ruptura, e outra que trata dos
+*processos produtivos* da arquitetura.
+
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1e/A_New_Chart_of_History_color.jpg"}
 
 ![Joseph Priestley, A New Chart of History, 1769. [Wikimeida Commons
@@ -428,7 +435,7 @@ que não tem um ponto de corte nítido entre tradição e modernidade.
 Pelo menos desde o século [XVIII]{.smallcaps}, o estudo da história no
 Ocidente tem uma relação de amor e ódio com a classificação das
 sociedades do passado e do presente em "caixas" rotuladas como períodos,
-culturas ou civilizações (@fig:newchart). Nos séculos [XIX]{.smallcaps}
+culturas ou estilos (@fig:newchart). Nos séculos [XIX]{.smallcaps}
 e [XX]{.smallcaps}, essa rotulagem em períodos, demarcados com uma
 nitidez bem forçada, foi uma componente central em todas as "escolas"
 historiográficas da Europa continental, do positivismo ao marxismo. Ela
@@ -446,11 +453,15 @@ dos estilos neo-renascentistas e neomedievais. Para os arquitetos do
 século [XIX]{.smallcaps} e da primeira metade do [XX]{.smallcaps}, o que
 se chamava de "história" da arquitetura era um processo gradual de
 desenvolvimento dos estilos, quase sem grandes rupturas. Todas as
-construções do passado eram um acervo *disponível*, por assim dizer,
-para servir como exemplo e inspiração. Nicolas-Louis Durand, professor
-de projeto na Escola politécnica de Paris, defendia essa unidade entre o
-presente e o passado. Ele demonstrou essa percepção de unidade
-publicando uma espécie de apostila para uso dos seus alunos
+"caixas" de estilos do passado eram um acervo *disponível*, por assim
+dizer, para servir como exemplo e inspiração.
+
+## {data-background-image=""}
+
+Nicolas-Louis Durand,
+professor de projeto na Escola politécnica de Paris, defendia essa
+unidade entre o presente e o passado. Ele demonstrou essa percepção de
+unidade publicando uma espécie de apostila para uso dos seus alunos
 [@durand:1799recueil]. O livro de Durand apresentava galerias e mais
 galerias de edifícios com função semelhante, mas de épocas e lugares
 diversos. Esses edifícios semelhantes eram reunidos numa mesma prancha e
@@ -472,28 +483,37 @@ d'architecture antique*, 1905, *ap.* [Jean-Philippe Garric (2015)
 ](https://journals.openedition.org/lha/docannexe/image/547/img-4.png){#fig:cori}
 
 [Esse modo de pensar]{.newthought} a história da arquitetura como um
-repertório de estilos e formas de todas as épocas para uso do projeto
+repertório de estilos de todas as épocas para uso do projeto
 era conhecido como "arquitetura analítica" --- porque o universo do
 repertório era estudado e, por assim dizer, desmanchado (@fig:cori) para
 ser recombinado em soluções novas, nunca repetitivas, mas sempre em
 harmonia com o que se entendia ser o desenvolvimento do estilo
-[@garric:2015frontispices]. A arquitetura analítica continuou vigente no
-ensino ocidental até o século [XX]{.smallcaps}, e só foi abandonado (em
-parte!) quando os arquitetos modernistas passaram a controlar as
-escolas. Isso acontece a partir da década de 1930 na Itália e nas
-Américas, e nos anos 1950 a 60 no restante da Europa e do mundo
-[@coronamartinez:2000ensaio]. Mas, enquanto isso não acontecia, o ideal
+[@garric:2015frontispices]. A arquitetura analítica segundo o método de
+Durand vai ser uma das bases do ensino de arquitetura nas academias ou
+escolas que seguiam o modelo da École des Beaux-Arts em Paris
+[@coronamartinez:2000ensaio]. Por isso, esse método é conhecido como
+*acadêmico* ou Beaux-Arts.
+
+## {data-background-image=""}
+
+Então, será que o estilo é a chave para compreender a unidade da
+arquitetura tradicional? A capacidade do método acadêmico de manipular
+uma variedade de estilos demonstra, sem dúvida, uma vontade de
+*demonstrar* continuidade com as tradições. Essa vontade vai garantir a
+harmonia visual das cidades do século [XIX]{.smallcaps} mesmo diante da
+modernização tecnológica muito intensa. Mesmo assim, o ideal
 de unidade da arquitetura de todas as idades graças à continuidade do
-estilo já tinha começado a se esgarçar.
+estilo já tinha começado a se esgarçar *dentro* do próprio método
+acadêmico.
 
 ## {data-background-image="https://i.pinimg.com/originals/65/40/d2/6540d21857e227f1121edb0d4098a66b.jpg" background-position="top"}
 
 De fato, o estudo da arquitetura analítica tinha uma aporia central.
 Quanto mais os arquitetos estudavam as construções do passado pela lente
-da continuidade do estilo, mais ficavam evidentes as diferenças entre
-períodos que supostamente pertenciam à mesma tradição "clássica". Essa
-discrepância começou a ser percebida por Piranesi na segunda metade do
-século [XVIII]{.smallcaps}, mas ficou escancarada quando o arquiteto
+da continuidade do estilo, mais ficavam evidentes as *descontinuidades*
+entre períodos que supostamente pertenciam à mesma tradição "clássica".
+Essa discrepância começou a ser percebida por Piranesi na segunda metade
+do século [XVIII]{.smallcaps}, mas ficou escancarada quando o arquiteto
 franco-alemão Jacques-Ignace Hittorff publicou, em 1851
 [@hittorff:1851restitution], reconstituições de templos gregos coloridos
 (@fig:hittorff).
@@ -510,20 +530,26 @@ Architecture* (2005). [Vernacular Architecture Forum
 ](http://vernaculararchitectureforum.org/Tools-for-Education)
 ](https://i.pinimg.com/originals/fb/45/c3/fb45c3aae37c1381e4ed14b15e11ad68.jpg){#fig:vaf}
 
+A crise da diversidade de estilos no século [XIX]{.smallcaps} foi um
+problema essencialmente elitista: ela envolvia o estudo da arquitetura
+erudita do passado para a formação dos arquitetos eruditos do presente.
 O reconhecimento da diversidade de tradições se aprofunda não só no
 tempo, mas também no espaço, quando a arquitetura vernácula passa a ser
 objeto de estudo na história e no projeto (@fig:vaf). Isso acontece,
-sobretudo, a partir da década de 1960. O estudo da arquitetura vernácula
-ajuda a desmantelar aquela definição elitista da arquitetura vinculada à
-profissão do arquiteto, com as suas pretensões intelectuais. Em 1964, o
-arquiteto americano Bernard Rudofsky apresentou a exposição Arquitetura
-sem Arquitetos (@fig:awa) no Museu de Arte Moderna de Nova York (MoMA).
-Essa exposição deu a deixa para "libertar" o conceito de arquitetura do
-domínio do ofício formal do arquiteto. Depois, veio em 1969 o livro
-*House Form and Culture* de Amos Rapoport [@rapoport:1969house], que deu
-uma base sociológica para o estudo da arquitetura popular.
+sobretudo, a partir da década de 1960.
 
 ## {data-background-image="https://i.pinimg.com/originals/83/b1/75/83b175c80cbdc0a22a7717a94a8506e2.jpg"}
+
+Em 1964, o
+arquiteto americano Bernard Rudofsky apresentou a exposição Arquitetura
+sem Arquitetos (@fig:awa) no Museu de Arte Moderna de Nova York (MoMA).
+Essa exposição deu a deixa para "libertar" o conceito moderno de
+arquitetura do domínio do ofício formal do arquiteto. Depois, veio em
+1969 o livro *House Form and Culture* de Amos Rapoport
+[@rapoport:1969house], que deu uma base sociológica para o estudo da
+arquitetura popular. O estudo da arquitetura vernácula
+ajuda a desmantelar aquela definição elitista da arquitetura vinculada à
+profissão do arquiteto, com as suas pretensões intelectuais.
 
 ![Exposição *Architecture without Architects*. [MoMA (1964)
 ](https://www.moma.org/calendar/exhibitions/3459)
@@ -540,13 +566,13 @@ contraditória, mas as idas e vindas nesse argumento nos ajudam a
 perceber melhor a diferença entre arquitetura tradicional e a moderna.
 Para alguns autores importantes do modernismo, afirmar que a tradição
 tem uma essência unitária por cima das diferenças de período histórico
-ou região é um meio para legitimar o próprio modernismo. O suíço
-Sigfried Giedion e o brasileiro Lucio Costa usaram esse argumento para
-afirmar que a arquitetura moderna nada mais é do que a última etapa no
-desenvolvimento natural da arquitetura. Costa chegou mesmo a
-esquematizar essa pretensão de naturalidade num croquis muito famoso de
-1937 [@costa:1937documentacao1, 36--37], como uma progressão simplória
-de menos janelas para mais janelas (@fig:docnec).
+ou região era um meio de legitimar o próprio modernismo. O suíço
+Sigfried Giedion [@giedion:1961space] e o brasileiro Lucio Costa usaram esse
+argumento para afirmar que a arquitetura moderna nada mais é do que a
+última etapa no desenvolvimento natural da arquitetura. Costa chegou
+mesmo a esquematizar essa pretensão de naturalidade num croquis muito
+famoso de 1937 [@costa:1937documentacao1, 36--37], como uma progressão
+simplória de menos janelas para mais janelas (@fig:docnec).
 
 ## {data-background-image="https://quotefancy.com/media/wallpaper/3840x2160/1977278-Sigfried-Giedion-Quote-Abstraction-returned-as-soon-as-artists.jpg"}
 
@@ -591,29 +617,30 @@ Ruskin propõe uma teoria que é familiar e interessante para o nosso
 estudo. No seu livro mais famoso, *As sete lâmpadas da arquitetura*, de
 1849 [@ruskin:1849seven], ele argumenta que a arquitetura precisa
 representar a *verdade* (segunda lâmpada). Para isso, o edifício deve
-expor o seu sistema construtivo com clareza. Mas ele equilibra a verdade
-com a *vida* (quinta lâmpada). A vida, para Ruskin, aparece quando o
-construtor se sente realizado numa organização tradicional do trabalho
-como a do canteiro gótico (@fig:spina), onde ele pode trabalhar com
-autonomia e criatividade. O construtor no canteiro, e não o arquiteto no
-seu escritório...
+expor o seu sistema construtivo com clareza, como na arquitetura gótica.
+Mas ele equilibra a verdade com a *vida* (quinta lâmpada). A vida, para
+Ruskin, aparece quando o construtor se sente realizado numa organização
+tradicional do trabalho como, também, a do canteiro gótico (@fig:spina),
+onde ele pode trabalhar com autonomia e criatividade. O construtor no
+canteiro, e não o arquiteto no seu escritório...
 
 ## {data-background-image="https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffb937e60-b461-11e8-849b-d1a6cd5e8545.jpg?crop=1500%2C844%2C0%2C78"}
 
 ![David Watkin](https://i.pinimg.com/564x/c3/5b/b6/c35bb662a5796df1b548597efe4fdcbf.jpg){#fig:watkin .marginnote}
 
 O historiador inglês David Watkin (@fig:watkin), em 1968
-[@watkin:1977morality], jogou Ruskin e os modernistas no mesmo balaio
-dos que justificam o *estilo* arquitetônico pelas suas conotações
-*morais*. Watkin mostrou que essa associação é puramente arbitrária e
-não tem nada a ver com aspectos intrínsecos à obra arquitetônica. O que
-Watkin tinha em mente nessa discussão era uma definição de arquitetura
-enquanto prática profissional. A única coisa que o estilo representa é o
-próprio estilo, assim como a prática dos diferentes ofícios da
-construção --- do pedreiro ao arquiteto --- exprime o próprio lugar
-dessas práticas no processo produtivo da arquitetura. O estilo não
-representa visualmente o modo de fazer a arquitetura, e a rigor qualquer
-modo de produzir as construções pode se *vestir* com qualquer estilo.
+[@watkin:1977morality], jogou Ruskin e os modernistas no mesmo balaio: o
+dos autores que justificam o *estilo* arquitetônico pelas suas
+conotações *morais*. Watkin mostrou que essa associação é puramente
+arbitrária e não tem nada a ver com aspectos intrínsecos à obra
+arquitetônica. O que Watkin tinha em mente nessa discussão era uma
+definição de arquitetura enquanto prática profissional. A única coisa
+que o estilo representa é o próprio estilo, assim como a prática dos
+diferentes ofícios da construção --- do pedreiro ao arquiteto ---
+exprime o próprio lugar dessas práticas no processo produtivo da
+arquitetura. O estilo não representa visualmente o modo de fazer a
+arquitetura, e a rigor qualquer modo de produzir as construções pode se
+*vestir* com qualquer estilo.
 
 ## {data-background-image="https://i.pinimg.com/originals/32/61/e1/3261e14c64845e6778bc7eab678a9339.jpg"}
 
@@ -626,7 +653,9 @@ construção com telhado cerâmico e paredes portantes, e fingir uma
 cobertura plana ou janelas--fita. A ironia é que a própria existência
 dessa casa demonstra a continuidade entre, de um lado, o processo
 construtivo que está por trás dos estilos ecléticos e, do outro, as
-demandas estéticas do modernismo. Essa continuidade dá razão, pelo menos
+demandas estéticas do modernismo.
+
+Essa continuidade dá razão, pelo menos
 em parte, a Ruskin quando ele situa a modernidade construtiva na sua
 própria época --- quase cem anos antes da casa modernista. Com esse
 conflito entre uma descrição da arquitetura baseada em *estilos* e outra
@@ -699,10 +728,11 @@ fato de que ambos --- ecletismo e modernismo --- são *modernos*. Essa
 modernidade da qual estamos falando é a modernidade das instituições e
 dos processos produtivos da arquitetura.
 
-
 ![Warren & Wetmore, arquitetos, Grand Central Terminal, Nova York (1904--1913), e MetLife building (1963), por Pietro Belluschi e Walter Gropius. Foto: [Beyond My Ken (2012)
-](https://commons.wikimedia.org/wiki/File:Grand_Central_Terminal_MetLife_Building_Park_Ave_viaduct_Summer_Streets.jpg?uselang=es)
+](https://commons.wikimedia.org/wiki/File:Grand_Central_Terminal_MetLife_Building_Park_Ave_viaduct_Summer_Streets.jpg)
 ](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grand_Central_Terminal_MetLife_Building_Park_Ave_viaduct_Summer_Streets.jpg/780px-Grand_Central_Terminal_MetLife_Building_Park_Ave_viaduct_Summer_Streets.jpg){#fig:metlife}
+
+## {data-background-image=""}
 
 # Por que estudar arquitetura tradicional #
 
