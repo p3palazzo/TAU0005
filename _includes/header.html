@@ -1,13 +1,21 @@
 {% if page.title %}
   <header>
     <h1 class="title">{{ page.title }}</h1>
-    {% if page.subtitle %}
+    {% if page.subtitle -%}
       <p class="subtitle">{{ page.subtitle }}</p>
-    {% endif %}
+    {%- endif %}
     {%- comment -%}
     {% if page.date %}
       <p class="byline">{{ page.date | date: "%-d/%-m/%Y"}}</p>
     {% endif %}
     {%- endcomment -%}
+    <p class="byline"><span itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <span class="p-author h-card" itemprop="name">
+        {%- if page.author -%}{{ page.author }}{%- else -%}{{ site.author }}{%- endif -%}
+      </span></span>
+    </p>
+    {%if page.abstract -%}
+      <div class="epigraph"><blockquote>{{ page.abstract }}</blockquote></div>
+    {%- endif %}
   </header>
 {% endif %}

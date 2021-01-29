@@ -2,7 +2,17 @@ body {
   margin-top: 0;
 }
 
+dl {
+  font-size: 1.4rem;
+  width: 55%;
+}
+
+dt, h5 {
+  @extend .newthought;
+}
+
 em, strong,
+p.subtitle,
 .epigraph > blockquote > p,
 .epigraph > blockquote > footer {
   font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
@@ -10,6 +20,18 @@ em, strong,
 
 h2 > em {
   font-style: normal;
+}
+
+h5 {
+  display: inline;
+  float: left;
+  font-size: 1.4rem;
+  margin: 0 1.4em 0 0;
+  vertical-align: top;
+}
+
+header > div.epigraph {
+  width: 55%;
 }
 
 hr {
@@ -27,6 +49,24 @@ figcaption {
   @extend .numeral;
 }
 
+summary > p {
+  display: inline;
+}
+
+table {
+  border-collapse: collapse;
+  max-width: 90%;
+}
+
+td {
+  vertical-align: top;
+  border-top: 1px solid #111111;
+}
+
+td > p {
+  margin-top: 0;
+}
+
 .site-title {
   max-width: 1400px;
   & > img {
@@ -35,13 +75,14 @@ figcaption {
 }
 
 .smallcaps,
-.newthought {
-  font-variant: small-caps;
+span.newthought {
   text-transform: lowercase;
+  font-variant: small-caps;
+  font-weight: bold;
 }
 
-.smallcaps {
-  font-weight: bold;
+p > span.newthought {
+  font-size: 1em;
 }
 
 /* Fixes for pandoc-crossref */
@@ -56,4 +97,12 @@ figure > img.fullwidth {
 
 .marginnote {
   padding-bottom: 1rem;
+}
+
+@media (max-width: 760px) {
+  header > div.epigraph,
+  dl,
+  figure > img.fullwidth {
+    width: 90%;
+  }
 }
