@@ -15,6 +15,6 @@ metadata:
   layout        : page
   suppress-bibliography: true
   tableTitle    : Tabela
-toc             : true
+table-of-contents: true
 toc-depth       : 2
 shift-heading-level-by: 1
