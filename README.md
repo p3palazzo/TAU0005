@@ -14,7 +14,9 @@
 - [Plano de ensino](plano.md)
 - [Cronograma](cronograma.md)
 
-## Módulo I · Construção ##
+# Programa #
+
+## Módulo I · Construção #
 
  1. [Teoria da construção tradicional](_aula/01-construcao.md)
  2. [Primórdios da arquitetura](_aula/02-primordios.md)
