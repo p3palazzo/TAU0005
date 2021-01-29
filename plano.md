@@ -105,9 +105,7 @@ Estagiária docente
 Monitores
 : 
 
-# Objetivos e programa da disciplina #
-
-## Objetivos de aprendizagem ##
+# Objetivos de aprendizagem #
 
 O objetivo da disciplina é conferir um domínio operativo da arquitetura
 tradicional em geral, e da linguagem clássica em particular, enquanto
@@ -140,33 +138,33 @@ V Conjuntos
   e de formação de paisagens, reconhecendo, analisando e aplicando os
   padrões geradores da cidade tradicional.
 
-## Programa ##
+# Programa #
 
-### Módulo I · Construção tradicional ###
+## Módulo I · Construção tradicional ##
 
  1. Teoria da construção tradicional
  2. Primórdios da arquitetura
  3. Mundo grego e oriental
 
-### Módulo II · Elementos da arquitetura ###
+## Módulo II · Elementos da arquitetura ##
 
  4. Teoria da arquitetura clássica
  5. Roma e o Mediterrâneo
  6. China e o Leste da Ásia
 
-### Módulo III · Elementos de composição ###
+## Módulo III · Elementos de composição ##
 
  7. Teoria do espaço bem-definido
  8. Do classicismo ao cristianismo
  9. Índia e Sudeste asiático
 
-### Módulo IV · Tipos edilícios ###
+## Módulo IV · Tipos edilícios ##
 
 10. Teoria da tipologia edilícia
 11. Territórios árabe--islâmicos
 12. Europa pré-românica e românica
 
-### Módulo V · Conjuntos ###
+## Módulo V · Conjuntos ##
 
 13. Teoria da forma urbana
 14. Europa gótica
