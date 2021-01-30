@@ -196,8 +196,8 @@ organizado" é útil e já está delimitada por um objeto claro e nítido.
 ## {data-background-image="https://i.pinimg.com/originals/ff/76/96/ff769607b9465f4bd3e305d72f782402.jpg"}
 
 ![Planta de acessibilidade pedestre na zona de Euston, Londres, segundo
-a metodologia da sintaxe espacial. [Escritório de projetos Space Syntax,
-2013, responsável técnica pelo projeto: Anna Rose
+a metodologia da sintaxe espacial. Responsável técnica: Anna Rose.
+[Escritório de projetos Space Syntax, 2013
 ](https://spacesyntax.com/project/euston-area-plan-pedestrian-analysis-2/)
 ](https://i.pinimg.com/originals/60/41/ae/6041ae7bec9c96a204bcafb5b86b0f8a.png){#fig:syntax}
 
@@ -403,9 +403,14 @@ Na continuação, vamos definir o que é construção tradicional e como ela
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1a/Saint-Germain_Paris_%2844694722604%29.jpg"}
 
-Na seção anterior, definimos para os nossos efeitos que arquitetura é
-construção. Portanto, quando vamos falar de arquitetura tradicional,
-estamos nos referindo a algo que é, de fato, construção tradicional.
+![Vista de Paris com a torre Montparnasse ao fundo. Foto: [Bradley Weber
+(2017)
+](https://commons.wikimedia.org/wiki/File:Saint-Germain_Paris_(44694722604).jpg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Saint-Germain_Paris_%2844694722604%29.jpg/1280px-Saint-Germain_Paris_%2844694722604%29.jpg){#fig:montparnasse .fullwidth}
+
+Na seção anterior, definimos para os nossos efeitos que [arquitetura é
+construção]{.smallcaps}. Portanto, quando vamos falar de *arquitetura tradicional*,
+estamos nos referindo a algo que é, de fato, *construção tradicional*.
 Essa definição implica que "construção tradicional" é, primeiro, um
 conjunto de algum modo coerente e, segundo, algo que existe em contraste
 com "construção moderna". Essas duas afirmações têm um quê de óbvio
@@ -414,17 +419,13 @@ quando olharmos para alguma intervenção moderna numa cidade tradicional
 quando olhamos para a arquitetura como parte de um processo histórico
 que não tem um ponto de corte nítido entre tradição e modernidade.
 
-![Vista de Paris com a torre Montparnasse ao fundo. Foto: [Bradley Weber
-(2017)
-](https://commons.wikimedia.org/wiki/File:Saint-Germain_Paris_(44694722604).jpg)
-](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Saint-Germain_Paris_%2844694722604%29.jpg/1280px-Saint-Germain_Paris_%2844694722604%29.jpg){#fig:montparnasse}
-
-## {data-background-image=""}
-
 Para podermos decidir entre o óbvio e o absurdo, vamos explorar duas
 categorias de argumentos: uma que olha para o *estilo* arquitetônico
 como indicador de continuidade ou ruptura, e outra que trata dos
-*processos produtivos* da arquitetura.
+*processos produtivos* da arquitetura. A busca pelo limite entre
+tradição e modernidade vai nos levar até o começo do século
+[XX]{.smallcaps}. Finalmente, vamos buscar alguns princípios gerais que
+distinguem a construção tradicional da construção moderna.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1e/A_New_Chart_of_History_color.jpg"}
 
@@ -445,18 +446,56 @@ existe *uma tradição* que possa ser contrastada com a modernidade, só um
 acúmulo de caixas históricas e culturais que precisam ser classificadas
 e descritas nas suas respectivas individualidades pelos historiadores.
 
-## {data-background-image="https://i.pinimg.com/originals/12/2b/3c/122b3c716cc87993290e7bb84dc098a7.jpg" background-position="top"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a0/Hearst_Castle_-_a_view_of_the_castle_from_California_State_Route_1.JPG"}
 
-Na história da arquitetura, a situação era diferente: havia um senso de
-continuidade do presente com o passado que se baseava sobretudo no uso
-dos estilos neo-renascentistas e neomedievais. Para os arquitetos do
-século [XIX]{.smallcaps} e da primeira metade do [XX]{.smallcaps}, o que
-se chamava de "história" da arquitetura era um processo gradual de
+![Julia Morgan, arquiteta, Hearst Castle, San Simeon, Califórnia
+(1919--1947), vista panorâmica. Foto: [Fietsbel (2008)
+](https://commons.wikimedia.org/wiki/File:Hearst_Castle_panorama.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/b/be/Hearst_Castle_panorama.jpg){#fig:hearst-pano .fullwidth}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/34/Hearst_Castle_Casa_del_Sol_September_2012.jpg"}
+
+Na história da arquitetura, a situação era um pouco diferente: havia um
+senso de continuidade do presente com o passado que se baseava sobretudo
+no uso dos estilos neo-renascentistas e neomedievais. Para os arquitetos
+do século [XIX]{.smallcaps} e da primeira metade do [XX]{.smallcaps}, o
+que se chamava de "história" da arquitetura era um processo gradual de
 desenvolvimento dos estilos, quase sem grandes rupturas. Todas as
 "caixas" de estilos do passado eram um acervo *disponível*, por assim
-dizer, para servir como exemplo e inspiração.
+dizer, para servir como exemplo e inspiração. A epítome dessas infinitas
+possibilidades é uma mansão construída a partir de 1919 pela arquiteta
+americana Julia Morgan (@fig:hearst-pano). Essa mansão, a residência do
+magnata da imprensa William Randolph Hearst, combina vários estilos de
+inspiração espanhola, desde o gótico até o barroco
+([@fig:hearst-cgrande; @fig:hearst-church]), inclusive obras de arte
+originais desses períodos que foram levadas da Europa
+(@fig:hearst-assembly).
 
-## {data-background-image=""}
+![← Hearst Castle, Casa Grande. Foto: [King of Hearts
+(2012)](https://commons.wikimedia.org/wiki/File:Hearst_Castle_Casa_del_Sol_September_2012.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/3/34/Hearst_Castle_Casa_del_Sol_September_2012.jpg){#fig:hearst-cgrande}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/30/Hearst_Castle_Casa_Grande_September_2012_panorama_2.jpg"}
+
+![↑ Hearst Castle, Casa Grande. Foto: [King of Hearts (2012)
+](https://commons.wikimedia.org/wiki/File:Hearst_Castle_Casa_Grande_September_2012_panorama_2.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Hearst_Castle_Casa_Grande_September_2012_panorama_2.jpg/614px-Hearst_Castle_Casa_Grande_September_2012_panorama_2.jpg){#fig:hearst-church .marginnote}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/88/Another_room_in_Hearst_Castle_1.jpg"}
+
+![← Hearst Castle, salão. Foto: [Dani Lavi (2014)
+](https://commons.wikimedia.org/wiki/File:Another_room_in_Hearst_Castle_1.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Another_room_in_Hearst_Castle_1.jpg/1280px-Another_room_in_Hearst_Castle_1.jpg){#fig:hearst-assembly}
+
+<!--
+   -## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/32/Heast_Castle_library_p1080553.jpg"}
+   -
+   -![Hearst Castle, biblioteca. Foto: [David Monniaux (2006)
+   -](https://commons.wikimedia.org/wiki/File:Heast_Castle_library_p1080553.jpg)
+   -](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Heast_Castle_library_p1080553.jpg/1280px-Heast_Castle_library_p1080553.jpg){#fig:hearst-library}
+   -->
+
+## {data-background-image="https://i.pinimg.com/originals/12/2b/3c/122b3c716cc87993290e7bb84dc098a7.jpg" data-background-position="top"}
 
 Nicolas-Louis Durand,
 professor de projeto na Escola politécnica de Paris, defendia essa
@@ -474,43 +513,61 @@ digital da Universidade de Heidelberg
 ](https://digi.ub.uni-heidelberg.de/diglit/durand1802/0023)
 ](https://i.pinimg.com/originals/12/2b/3c/122b3c716cc87993290e7bb84dc098a7.jpg){#fig:durand .fullwidth}
 
+## {data-background-image="https://i.pinimg.com/750x/8e/85/7a/8e857a698553421c3a156a8f54ceeac4.jpg" data-background-position="bottom"}
+
+![↑ Paul Philippe Cret, estudo para um trono episcopal, École des
+Beaux-Arts, Paris (c. 1900)
+](https://i.pinimg.com/564x/c3/0c/a0/c30ca0341448cd3394269b1c282e8f2f.jpg){#fig:cret .marginnote}
+
+[Esse modo de pensar]{.newthought} a história da arquitetura como um
+repertório de estilos de todas as épocas para uso do projeto é conhecido
+como "arquitetura analítica" --- porque o universo do repertório era
+estudado e, por assim dizer, desmanchado para ser recombinado em
+soluções novas, nunca repetitivas, mas sempre em harmonia com o que se
+entendia ser o desenvolvimento do estilo [@garric:2015frontispices]
+(@fig:cret).
+
 ## {data-background-image="https://journals.openedition.org/lha/docannexe/image/547/img-4.png"}
 
-![Victor Blavette, composição com fragmentos do templo dito de Hércules,
+A arquitetura analítica segundo o método de
+Durand vai ser uma das bases do ensino de arquitetura nas academias de
+arte que seguiam o modelo da École des Beaux-Arts em Paris
+[@coronamartinez:2000ensaio]. Por isso, esse método é conhecido como
+*acadêmico* ou Beaux-Arts. Os levantamentos analíticos enviados pelos
+bolsistas da Academia da França em Roma nos séculos [XIX]{.smallcaps} e
+[XX]{.smallcaps} (@fig:cori) estão entre os documentos mais precisos e
+mais úteis para quem estuda arquitetura clássica.
+
+![← Victor Blavette, composição com fragmentos do templo dito de Hércules,
 Cori. Envio de Roma, publicado em Hector d'Espouy, *Fragments
 d'architecture antique*, 1905, *ap.* [Jean-Philippe Garric (2015)
 ](https://journals.openedition.org/lha/547)
 ](https://journals.openedition.org/lha/docannexe/image/547/img-4.png){#fig:cori}
 
-[Esse modo de pensar]{.newthought} a história da arquitetura como um
-repertório de estilos de todas as épocas para uso do projeto
-era conhecido como "arquitetura analítica" --- porque o universo do
-repertório era estudado e, por assim dizer, desmanchado (@fig:cori) para
-ser recombinado em soluções novas, nunca repetitivas, mas sempre em
-harmonia com o que se entendia ser o desenvolvimento do estilo
-[@garric:2015frontispices]. A arquitetura analítica segundo o método de
-Durand vai ser uma das bases do ensino de arquitetura nas academias ou
-escolas que seguiam o modelo da École des Beaux-Arts em Paris
-[@coronamartinez:2000ensaio]. Por isso, esse método é conhecido como
-*acadêmico* ou Beaux-Arts.
-
-## {data-background-image=""}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5b/P1250565_Paris_V_rue_Fosses-St-Jacques_bis_rwk.jpg"}
 
 Então, será que o estilo é a chave para compreender a unidade da
 arquitetura tradicional? A capacidade do método acadêmico de manipular
 uma variedade de estilos demonstra, sem dúvida, uma vontade de
 *demonstrar* continuidade com as tradições. Essa vontade vai garantir a
 harmonia visual das cidades do século [XIX]{.smallcaps} mesmo diante da
-modernização tecnológica muito intensa. Mesmo assim, o ideal
-de unidade da arquitetura de todas as idades graças à continuidade do
-estilo já tinha começado a se esgarçar *dentro* do próprio método
-acadêmico.
+modernização tecnológica muito intensa. As ruas de Paris (@fig:fosses)
+parecem uma paisagem harmoniosa e coerente hoje em dia justamente porque
+elas são o resultado de séculos de normas urbanísticas e de esforços dos
+construtores para se harmonizar com as construções preexistentes.
+
+![Rue des Fossés Saint-Jacques, Paris. Foto: [Mbzt (2014)
+](https://commons.wikimedia.org/wiki/File:P1250565_Paris_V_rue_Fosses-St-Jacques_bis_rwk.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/P1250565_Paris_V_rue_Fosses-St-Jacques_bis_rwk.jpg/1280px-P1250565_Paris_V_rue_Fosses-St-Jacques_bis_rwk.jpg){#fig:fosses}
 
 ## {data-background-image="https://i.pinimg.com/originals/65/40/d2/6540d21857e227f1121edb0d4098a66b.jpg" background-position="top"}
 
-De fato, o estudo da arquitetura analítica tinha uma aporia central.
-Quanto mais os arquitetos estudavam as construções do passado pela lente
-da continuidade do estilo, mais ficavam evidentes as *descontinuidades*
+[Mesmo assim, o ideal de unidade]{.newthought} da arquitetura de todas
+as idades graças à continuidade do estilo já tinha começado a se
+esgarçar *dentro* do próprio método acadêmico. De fato, o estudo da
+arquitetura analítica tinha uma aporia central. Quanto mais os
+arquitetos estudavam as construções do passado pela lente da
+continuidade do estilo, mais ficavam evidentes as *descontinuidades*
 entre períodos que supostamente pertenciam à mesma tradição "clássica".
 Essa discrepância começou a ser percebida por Piranesi na segunda metade
 do século [XVIII]{.smallcaps}, mas ficou escancarada quando o arquiteto
@@ -624,7 +681,7 @@ tradicional do trabalho como, também, a do canteiro gótico (@fig:spina),
 onde ele pode trabalhar com autonomia e criatividade. O construtor no
 canteiro, e não o arquiteto no seu escritório...
 
-## {data-background-image="https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffb937e60-b461-11e8-849b-d1a6cd5e8545.jpg?crop=1500%2C844%2C0%2C78"}
+## {data-background-image="https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffb937e60-b461-11e8-849b-d1a6cd5e8545.jpg?crop=1500,844,0,78"}
 
 ![David Watkin](https://i.pinimg.com/564x/c3/5b/b6/c35bb662a5796df1b548597efe4fdcbf.jpg){#fig:watkin .marginnote}
 
@@ -708,33 +765,152 @@ construção e espacialidade.
 History of Architecture on the Comparative Method* (1896)
 ](https://i.pinimg.com/originals/19/78/48/19784879892741380f05dedc4a7a472a.jpg){#fig:greek-roman}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1e/Gateway_of_India%2C_Bombay._1911.JPG"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1e/Gateway_of_India,_Bombay._1911.JPG"}
 
 ![George Wittet, arquiteto. Portal da Índia, Bombaim, 1924. Foto: [Myers
 Brothers
 (1924)](https://commons.wikimedia.org/wiki/File:Gateway_of_India,_Bombay._1911.JPG)
-](https://upload.wikimedia.org/wikipedia/commons/1/1e/Gateway_of_India%2C_Bombay._1911.JPG){#fig:mumbai .fullwidth}
+](https://upload.wikimedia.org/wikipedia/commons/1/1e/Gateway_of_India,_Bombay._1911.JPG){#fig:mumbai .fullwidth}
+
+## {.unlisted}
+
+![Banister Fletcher, árvore da arquitetura, em *A History of
+Architecture on the Comparative Method*, 15.ª ed. (1950)
+](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .marginnote .stretch}
+
+[Apesar disso, seguir o fio]{.newthought} condutor do estilo nos leva a
+um paradoxo justamente quando tentamos demarcar a separação entre o
+repertório de estilos ecléticos e o modernismo. A síntese eclética de
+estilos que o método acadêmico realiza é uma atitude de arquitetos que
+se consideram eles próprios como *modernos*. Essa modernidade vem, por
+um lado, do fato de que eles têm todos os períodos históricos pelas
+costas. Por outro lado, a modernidade do academicismo também está nos
+recursos técnicos e sobretudo *críticos* que está ao alcance dos
+arquitetos ecléticos: a metodologia arqueológica e historiográfica que
+permite reconstituir os estilos históricos. O exemplo emblemático dessa
+visão de conjunto sobre a história é a "Árvore da Arquitetura". Esse
+diagrama foi desenhado para a terceira edição da história da arquitetura
+de Banister Fletcher, em 1899, e só deixou de ser incluído a partir da
+décima sexta edição, em 1961 (@fig:treearch). A capacidade que o
+ecletismo tem de trabalhar com as tradições estéticas de todo o mundo e
+de todos os tempos é resultado precisamente da sua própria modernidade.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f5/Grand_Central_Terminal_MetLife_Building_Park_Ave_viaduct_Summer_Streets.jpg"}
 
-O ecletismo que chamamos de *acadêmico* (porque ele vem das academias ou
-escolas de Belas-Artes do século [XIX]{.smallcaps}) tem um duplo
-paradoxo. A capacidade que o ecletismo tem de trabalhar com as tradições
-estéticas de todo o mundo e de todos os tempos é resultado precisamente
-da sua própria modernidade. E para completar o paradoxo: a possibilidade
-que o movimento Moderno teve de suplantar o ecletismo por volta da
-metade do século [XX]{.smallcaps} (@fig:metlife) também é resultado do
-fato de que ambos --- ecletismo e modernismo --- são *modernos*. Essa
-modernidade da qual estamos falando é a modernidade das instituições e
-dos processos produtivos da arquitetura.
+E para completar o paradoxo: apesar de o modernismo rejeitar
+ideologicamente a estética do ecletismo acadêmico, do ponto de vista dos
+*processos produtivos* da arquitetura --- ou seja, as tecnologias e as
+instituições, inclusive de ensino, que produzem arquitetos e construções
+--- o modernismo é uma continuação do sistema Beaux-Arts com muito pouca
+ruptura.
+
+Um exemplo dessa continuidade tecnológica é o edifício acadêmico do
+Grand Central Terminal em Nova York, que foi construído na primeira
+década do século [XX]{.smallcaps}; por trás do revestimento classicista,
+ele usou componentes e processos construtivos tão modernos quanto os
+componentes e processos do arranha-céu modernista que o modernista
+Walter Gropius implantou logo atrás do terminal cinco décadas depois
+(@fig:metlife).
 
 ![Warren & Wetmore, arquitetos, Grand Central Terminal, Nova York (1904--1913), e MetLife building (1963), por Pietro Belluschi e Walter Gropius. Foto: [Beyond My Ken (2012)
 ](https://commons.wikimedia.org/wiki/File:Grand_Central_Terminal_MetLife_Building_Park_Ave_viaduct_Summer_Streets.jpg)
 ](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Grand_Central_Terminal_MetLife_Building_Park_Ave_viaduct_Summer_Streets.jpg/780px-Grand_Central_Terminal_MetLife_Building_Park_Ave_viaduct_Summer_Streets.jpg){#fig:metlife}
 
+## {data-background-image="https://i.pinimg.com/originals/d3/0b/b0/d30bb0b052ef68928e7102de59b6a235.jpg"}
+
+![Le Corbusier, arquiteto, maquete do plano Voisin com a sua inserção no
+centro histórico de Paris (1925)
+](https://i.pinimg.com/originals/d3/0b/b0/d30bb0b052ef68928e7102de59b6a235.jpg){#fig:voisin .fullwidth}
+
+O modernismo não só se calca na tecnologia que já era usada pela
+arquitetura eclética: ele também ocupa os mesmos lugares institucionais
+e espaciais inventados pelo sistema acadêmico. Esses lugares são as
+escolas de belas-artes, o mercado editorial e, quase que como uma
+desforra, o próprio centro físico da cidade industrial. Le Corbusier não
+pode se contentar em propor a sua Cidade Contemporânea no meio de uma
+área aparentemente vazia; ele precisa inserir um trecho do seu plano
+Voisin em pleno centro histórico de Paris (@fig:voisin). A afirmação da
+legitimidade do modernismo como sucessor da arquitetura tradicional
+*depende* dessa tomada de posse simbólica da cidade existente.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/d0/Charles_Marville,_Boulevard_Haussmann,_de_la_rue_Miromesnil,_ca._1853–70.jpg"}
+
+<!--_,-->
+
+É sintomático que o plano Voisin não pretendesse substituir a
+arquitetura eclética que Le Corbusier desprezava tanto, e que ocupava
+sobretudo os novos bulevares na periferia de Paris (@fig:haussmann). Em
+vez disso, o modernista propõe eviscerar a mesma área do centro
+histórico que já estava na mira dos projetos de "saneamento" do século
+[XIX]{.smallcaps} --- os mesmos projetos que resultaram na abertura das
+avenidas que Le Corbusier ridicularizava por serem grafismos geométricos
+sem sentido.
+
+![Boulevard Haussmann na esquina da rua Miromesnil. Foto: [Charles
+Marville, c. 1853--1870
+](https://commons.wikimedia.org/wiki/File:Charles_Marville,_Boulevard_Haussmann,_de_la_rue_Miromesnil,_ca._1853–70.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Charles_Marville,_Boulevard_Haussmann,_de_la_rue_Miromesnil,_ca._1853–70.jpg/1280px-Charles_Marville,_Boulevard_Haussmann,_de_la_rue_Miromesnil,_ca._1853–70.jpg){#fig:haussmann}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/cc/A_visitor_in_the_Louvre_Museum%2C_Paris_27_April_2013.jpg"}
+
+![Um visitante no museu do Louvre. Foto: [Jon Westra, 2013
+](https://commons.wikimedia.org/wiki/File:A_visitor_in_the_Louvre_Museum,_Paris_27_April_2013.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/A_visitor_in_the_Louvre_Museum%2C_Paris_27_April_2013.jpg/1280px-A_visitor_in_the_Louvre_Museum%2C_Paris_27_April_2013.jpg){#fig:gallery}
+
+O historiador da literatura Hans Robert Jauss se apoia no poeta francês
+do século [XIX]{.smallcaps} Charles Baudelaire e no filósofo alemão do
+século [XX]{.smallcaps} Walter Benjamin para defender essa posição
+[@jauss:1988tradition46]. Ele sustenta que a capacidade de classificar e
+apreciar a arte de outros períodos históricos e culturas é uma
+característica da modernidade como um todo, incluindo tanto o método
+acadêmico quanto as vanguardas modernistas (@fig:gallery). Outros
+aspectos, mais materiais, também aproximam o modernismo do ecletismo
+acadêmico; além da continuidade tecnológica, o modernismo se insere nas
+mesmas estruturas de financiamento e de poder político que, antes,
+promoviam o ecletismo.
+
+## {data-background-image="https://i.pinimg.com/originals/74/b9/d6/74b9d62e813acc18601b3ab89020716e.jpg" data-background-position="left"}
+
+![Gustavo Rocha Peixoto na [Escola da Cidade, São Paulo, 2015
+](http://escoladacidade.org/bau/gustavo-peixoto-a-estrategia-da-aranha/)
+](https://i.pinimg.com/750x/74/b9/d6/74b9d62e813acc18601b3ab89020716e.jpg){#fig:gustavo .marginnote}
+
+Acabamos de tomar um desvio que foi do século [XVIII]{.smallcaps} ao
+[XX]{.smallcaps} para tratar de delimitar tradição e modernidade. Nesse
+processo, o que encontramos foi uma transição gradual e não uma ruptura
+nítida. Afinal, como diz o historiador da arquitetura brasileiro Gustavo
+Rocha-Peixoto (@fig:gustavo),
+
+> [...] no fundo, a história não passa de uma grande e única transição.
+> [@rochapeixoto:2013estrategia, 41]
+
 ## {data-background-image=""}
 
-# Por que estudar arquitetura tradicional #
+[A diferença entre a arquitetura tradicional e a moderna]{.newthought},
+como acabamos de ver, *não consiste* na rejeição ou na adoção de algum
+estilo por motivos ideológicos --- seja esse estilo clássico, gótico,
+modernista ou qualquer outro. O que distingue o tradicional do moderno,
+afinal, é a transição gradual nos *modos de fazer* arquitetura --- da
+organização do trabalho ao sistema de financiamento da construção,
+passando pelas tecnologias tangíveis e intangíveis usadas no processo
+produtivo.
+
+## {data-background-image="https://i.pinimg.com/originals/f2/fc/5d/f2fc5d888a271e8087004bc9599810e6.jpg" data-background-position="right"}
+
+É bem verdade que o modernismo ideológico crava uma cunha nesse processo
+e radicaliza a transição. Ele assume a modernidade tecnológica e
+espacial não simplesmente como um fato da sociedade, mas como um
+objetivo a ser perseguido e impulsionado *custe o que custar* --- às
+vezes até como *o único* objetivo que vale a pena perseguir (@fig:cctv).
+Mas essa radicalização só nos ajuda a perceber melhor as características
+da transição.
+
+![OMA, arquitetos, e Arup, concepção estrutural, Edifício sede da CCTV,
+Pequim, 2004--2013. Foto: [Arup
+](https://www.arup.com/projects/china-central-television-headquarters)
+](https://i.pinimg.com/originals/f2/fc/5d/f2fc5d888a271e8087004bc9599810e6.jpg){#fig:cctv .fullwidth}
+
+# O que é construção tradicional #
 
 # Construção arquitravada e o mito da cabana primitiva #
 
