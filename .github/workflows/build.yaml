@@ -2,7 +2,7 @@ name: Build
 on:
   pull_request:
   push:
-    branches: [ ]
+    branches: [ master ]
 jobs:
   slides:
     runs-on: ubuntu-latest
