@@ -2,12 +2,16 @@ body {
   margin-top: 0;
 }
 
+blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote {
+  margin-right: -70%;
+}
+
 dl {
   font-size: 1.4rem;
   width: 55%;
 }
 
-dt, h5 {
+dt {
   @extend .newthought;
 }
 
@@ -18,11 +22,16 @@ p.subtitle,
   font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 }
 
+figcaption {
+  max-width: 50%;
+}
+
 h2 > em {
   font-style: normal;
 }
 
 h5 {
+  @extend .smallcaps;
   display: inline;
   float: left;
   font-size: 1.4rem;
