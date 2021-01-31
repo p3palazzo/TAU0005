@@ -2,43 +2,119 @@
 title   : "Teoria da construção tradicional"
 author  : "Pedro P. Palazzo"
 abstract: |
-  Arquitetura é construção
+  História e arquitetura tradicional
   – O que é construção tradicional
   – Sistemas arquitravados e a cabana primitiva
   – Sistemas murários–arqueados e a criação do espaço
 ---
 
-![Thomas Cole, Architect's Dream, 1840. [Wikimedia Commons
-](https://commons.wikimedia.org/wiki/File:Thomas_Cole_-_Architect%E2%80%99s_Dream_-_Google_Art_Project.jpg)
-](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-_Architect%E2%80%99s_Dream_-_Google_Art_Project.jpg/1280px-Thomas_Cole_-_Architect%E2%80%99s_Dream_-_Google_Art_Project.jpg){#fig:cole-dream .fullwidth}
+![Thomas Cole, Architect's Dream, 1840. Fonte e maiores informações:
+[Google Arts and Culture
+](https://artsandculture.google.com/story/thomas-cole-the-architect-s-dream/ggKi4X2yPzzOKw)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg/1280px-Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg){#fig:cole-dream .fullwidth}
 
-# Arquitetura é construção #
+# História e arquitetura #
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6c/Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg"}
 
+Em 1839, o arquiteto americano Ithiel Town encomendou ao seu amigo
+Thomas Cole uma pequena pintura de paisagem com algumas construções
+clássicas. Em vez disso, Cole pintou uma imensa alegoria da Arquitetura,
+intitulada *Sonho do arquiteto* (@fig:cole-dream). A tela representava
+os principais estilos arquitetônicos do Ocidente, desde o Egito antigo
+até a Idade Média passando pela Antiguidade clássica. Town se negou a
+receber a pintura porque ela não atendia à especificação da encomenda.
+
+O mal-entendido dos dois amigos, agora ex-amigos, está na oposição entre
+uma *análise* crítica da tradição arquitetônica, consagrada na pintura
+de Cole, e a expectativa de Towne por uma *aplicação* integrada dessa
+mesma tradição.
+
+Para Town, o cliente, arquitetura e pintura são ofícios que atuam num
+mercado e que, na maioria dos casos, trabalham por encomenda. O
+profissional recebe instruções e executa um serviço especializado, com
+autonomia para tomar decisões técnicas e estéticas que são da sua
+alçada; isso inclui ser capaz de manejar um repertório de iconografia
+tradicional.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6c/Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg" data-background-opacity="0.7" data-transition="zoom-in fade-out" data-background-trasition="fade"}
+
+![Thomas Cole, Architect's Dream, detalhe
+](https://upload.wikimedia.org/wikipedia/commons/b/b2/Thomas_Cole_-_The_Architect%27s_Dream_(detail)_-_WGA05142.jpg){#fig:cole-detail .marginnote}
+
 <!--_,-->
 
-Neste ponto, estamos iniciando um ciclo de estudos sobre arquitetura
-tradicional. Portanto, convém saber do que vamos falar. Mais adiante
-vamos nos deter na diferença entre estudar *arquitetura tradicional* e
-estudar *história da arquitetura* (que pode ser tradicional ou não). Por
-ora, vamos pegar leve e discutir o que é *arquitetura* e o que é
-*tradição* (@fig:cole-dream).
+Cole, o profissional especializado em questão, de fato detinha a
+formação intelectual que o cliente esperava dele. Não há duvida de que
+ele enxergasse o estudo da história como um instrumento técnico do seu
+trabalho. Apesar disso, Cole produziu uma pintura que não simplesmente
+*se serve* de elementos históricos, mas uma que diz alguma coisa *sobre*
+a história da arquitetura. O *Sonho do arquiteto* de Cole é uma espécie
+de *crítica* --- ou seja, um produto que consiste em analisar o seu
+tema. No caso, ele analisa o modo como o arquiteto (@fig:cole-detail)
+organiza o repertório da tradição ocidental.
 
-Você que é iniciante no estudo da arquitetura já deve ter lido ou ouvido
-uma dúzia de definições diferentes do que é arquitetura. Já eu garanto
-que li praticamente uma definição diferente em cada livro que trata do
-assunto.
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6c/Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg"}
 
-## {data-background-image="https://commons.wikimedia.org/wiki/File:Vitruvius.jpg"}
+Essa crítica é o cerne da pesquisa histórica contemporânea, mas ela
+produz, segundo o historiador britânico Stephen Bann, necessariamente
+uma justaposição de fragmentos [@bann:1987clio23]. Cole certamente tinha
+motivos para estar orgulhoso da qualidade da pintura que ele produziu.
+Mesmo assim, o cliente também tinha razão em dizer que a pintura não
+atendia à encomenda. O que Town esperava receber não era uma análise da
+diversidade de estilos históricos, e sim o uso desses estilos numa
+composição tradicional integrada. O pintor alemão Leo von Klenze, alguns
+anos mais tarde, demonstraria justamente essa integração na sua série de
+pinturas arqueológicas de Atenas (@fig:klenze)
 
-![[Sébastien Le Clerc, Vitrúvio apresentando o tratado *Da arquitetura*
-ao imperador Augusto, 1684](https://commons.wikimedia.org/wiki/File:Vitruvius.jpg)
-](https://upload.wikimedia.org/wikipedia/commons/a/a3/Vitruvius.jpg){.marginnote #fig:vitruve-leclerc}
+## {data-background-image="https://i.pinimg.com/originals/df/a1/bd/dfa1bd27667e37db0e392fefe54fbd49.jpg"}
 
-Algumas das definições mais conhecidas falam do ofício profissional,
-como a famosa descrição do arquiteto feita por Vitrúvio
-(@fig:vitruve-leclerc) no século [I]{.smallcaps} a.C.:
+![[Leo von Klenze, Reconstituição da Acrópole e do Areópago em Atenas.
+Óleo sobre tela, 1846
+](https://commons.wikimedia.org/wiki/File:Leo_von_Klenze_-_The_Acropolis_at_Athens_-_WGA12199.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/0/04/Leo_von_Klenze_-_The_Acropolis_at_Athens_-_WGA12199.jpg){#fig:klenze .fullwidth}
+
+## {data-background-image="https://i.pinimg.com/originals/5a/e8/89/5ae889bfade418e16e6176ef8b6bc015.jpg"}
+
+Temos aqui um conflito entre dois valores intrínsecos à definição
+moderna de profissões como a arte e a arquitetura: por um lado, o papel
+da *crítica* que transforma constantemente o campo profissional; por
+outro lado, a natureza do trabalho técnico nesse mesmo campo
+profissional, que é a de entregar *produtos* integrados. Crítica e
+produção são ambas tarefas válidas e necessárias na disciplina da
+Arquitetura, mas elas são tarefas distintas entre si. Só a História da
+arquitetura tem os instrumentos para fazer crítica, e só o ofício da
+Arquitetura tem os instrumentos para integrar.
+
+## {data-background-image="https://i.pinimg.com/originals/5a/e8/89/5ae889bfade418e16e6176ef8b6bc015.jpg" data-background-opacity="0.7"}
+
+<!--_,-->
+
+Apesar disso, é tentador misturar as duas coisas. Uma grande parte da
+bibliografia produzida no século [XX]{.smallcaps} que, supostamente,
+eram livros de História da arquitetura, na verdade eram argumentos
+teóricos sobre o ofício da Arquitetura, usando a história como pretexto.
+
+## {data-background-image="https://i.pinimg.com/originals/1f/a5/d6/1fa5d660b88586794db91d6275e2d31a.jpg"}
+
+![Capitular do tratado *Da arquitetura* de Vitrúvio na edição de Cesare
+Cesariano (Como: Gottardo da Ponte, 1521). Acervo [Museum of Fine Arts
+Boston
+](https://collections.mfa.org/objects/157316)
+](https://i.pinimg.com/originals/1f/a5/d6/1fa5d660b88586794db91d6275e2d31a.jpg){#fig:capitularq .marginnote}
+
+O uso de argumentos pseudo-históricos para servir aos propósitos da
+teoria da arquitetura tem um pressuposto implícito: Arquitetura é o que
+os arquitetos fazem. Esse pressuposto vem de longe. O arquiteto romano
+Vitrúvio, por volta do ano 15 a.C., escreveu o mais antigo tratado
+completo sobre a disciplina da arquitetura (@fig:capitularq). Para ele,
+a Arquitetura era um campo do conhecimento definido pela formação e
+atuação do arquiteto. Essa formação foi um dos primeiros assuntos nos
+quais ele tocou, logo no começo do primeiro capítulo do primeiro livro.
+A história faz parte de um rol bastante amplo de conhecimentos que o
+arquiteto profissional tem que dominar:
+
+## {data-background-image="https://i.pinimg.com/originals/1f/a5/d6/1fa5d660b88586794db91d6275e2d31a.jpg" data-background-opacity="0.7"}
 
 > A ciência do arquiteto é ornada de muitas disciplinas e de vários
 > saberes [...] E assim, parece que aquele que pretende ser arquiteto
@@ -46,8 +122,165 @@ como a famosa descrição do arquiteto feita por Vitrúvio
 > em literatura, perito no desenho gráfico, erudito em geometria, deverá
 > conhecer muitas narrativas de fatos históricos. Ouvir diligentemente
 > os filósofos, saber de música, não ser ignorante de medicina, conhecer
-> [o direito], ter conhecimento da astronomia e das orientações da
-> abóbada celeste. [@vitruvio:2007tratado, I, i]
+> [a jurisprudência], ter conhecimento da astronomia e das orientações
+> da abóbada celeste. [@vitruvio:2007tratado, I, i]
+
+## {data-background-image="https://commons.wikimedia.org/wiki/File:Vitruvius.jpg" data-background-position="right"}
+
+A descrição de Vitrúvio já massageou o ego de muitas gerações de
+arquitetos. Ela mostra um profissional culto, o que chamaríamos hoje de
+*humanista*, membro da elite cultural da sociedade e talvez próximo do
+poder político, como o próprio Vitrúvio desejava ser. Essa autoimagem
+foi bem capturada na cena imaginária do gravurista francês Sébastien
+Leclerc, que mostra Vitrúvio apresentando um projeto ao imperador
+Augusto (@fig:vitruve-leclerc).
+
+![[Sébastien Leclerc, Vitrúvio apresentando o tratado *Da arquitetura*
+ao imperador Augusto,
+1684](https://commons.wikimedia.org/wiki/File:Vitruvius.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/a/a3/Vitruvius.jpg){#fig:vitruve-leclerc}
+
+## {data-background-image="https://i.pinimg.com/originals/a1/6e/9c/a16e9c699a54eee4d87b5794aa682332.jpg"}
+
+![João Batista Vilanova Artigas na [FAUUSP]{.smallcaps}, 1979. Foto:
+[Cristiano Mascaro](https://arquivo.arq.br/profissionais/vilanova-artigas)
+](https://i.pinimg.com/originals/a1/6e/9c/a16e9c699a54eee4d87b5794aa682332.jpg){#fig:artigas
+.marginnote}
+
+Esse argumento é imensamente influente na teoria da arquitetura até
+hoje, passando pelos tratadistas do Renascimento e pela famosa carta do
+arquiteto modernista brasileiro Vilanova Artigas (@fig:artigas),
+*Arquitetura: atribuição do arquiteto*. Mais ainda, ele casa bem com as
+pretensões humanistas do ensino de arquitetura dentro das universidades,
+que é o modelo dominante nas Américas desde a metade do século
+[XX]{.smallcaps}.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Artemisia_Building_the_Mausolaeum_(Simon_Vouet)_-_Nationalmuseum_-_22229.tif/lossy-page1-3228px-Artemisia_Building_the_Mausolaeum_(Simon_Vouet)_-_Nationalmuseum_-_22229.tif.jpg"}
+
+![[Simon Vouet, Artemísia de Cária construindo o Mausoléu de
+Halicarnasso. Óleo sobre tela, início da década de 1640
+](https://commons.wikimedia.org/wiki/File:Artemisia_Building_the_Mausolaeum_(Simon_Vouet)_-_Nationalmuseum_-_22229.tif)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Artemisia_Building_the_Mausolaeum_(Simon_Vouet)_-_Nationalmuseum_-_22229.tif/lossy-page1-882px-Artemisia_Building_the_Mausolaeum_(Simon_Vouet)_-_Nationalmuseum_-_22229.tif.jpg){#fig:mausoleum .marginnote}
+
+<!--_,-->
+
+Se olharmos por esse lado, a História da Arquitetura passa a ser a
+crônica do que os arquitetos fizeram ao longo dos séculos, ou seja, um
+elenco de obras eruditas e, em geral, monumentais. Na pintura de Simon
+Vouet, os arquitetos do Mausoléu de Halicarnasso, na Grécia antiga
+(@fig:mausoleum) aparecem como os profissionais que concebem no desenho.
+Eles estão diretamente associados ao poder político, na figura da
+rainha, e bem distantes da construção propriamente dita. Acontece que os
+arquitetos que Vouet mostrou eram anacrônicos; eles não correspondiam à
+realidade do ofício na Antiguidade (uma realidade que Vouet não tinha
+como conhecer). As personagens da pintura mais pareciam os arquitetos
+que eram burocratas da Coroa francesa no século [XVII]{.smallcaps}.
+
+## {data-background-image="http://www.gizmoweb.org/wp-content/uploads/2014/06/Tafuri.jpg"}
+
+![Manfredo Tafuri
+](https://i.pinimg.com/originals/63/b8/ad/63b8ad642c86b14a064fcc10a779641f.jpg){#fig:tafuri
+.marginnote}
+
+O historiador da arquitetura italiano Manfredo Tafuri (@fig:tafuri)
+mostrou que esse anacronismo não acontece por acaso, mas que ele aparece
+toda vez que alguém tenta misturar a crítica histórica com a produção de
+uma teoria da Arquitetura. Tafuri escreveu que isso não acaba sendo nem
+História, nem Arquitetura [@tafuri:1979teorias]: não é História porque
+está a reboque de um projeto de legitimação profissional do arquiteto
+contemporâneo, e portanto não tem autonomia crítica; e não é Arquitetura
+porque faz um recorte reducionista da disciplina, que não dá o suporte
+adequado para a teoria.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6c/Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg"}
+
+<!--_,-->
+
+O Sonho do Arquiteto de Cole (ver @fig:cole-dream) nos trouxe um
+conflito entre História e Arquitetura que Tafuri nos deu o caminho para
+resolver: qual é o lugar da História na Arquitetura, e em particular,
+para que serve o estudo da História da Arquitetura numa universidade que
+forma profissionais da Arquitetura (@fig:fauunb)?
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/cd/Faculdade_de_Arquitetura_(15250522572).jpg"}
+
+A única resposta possível a esta última pergunta é: [o estudo da
+História da Arquitetura serve para fazer história da
+arquitetura]{.newthought}. História é crítica, e a autonomia intelectual
+necessária para fazer uma análise crítica se perde assim que a história
+precisa se dobrar a alguma exigência prática do ofício. Por exemplo, a
+famosa *pesquisa de repertório* que todo ateliê de ensino de projeto
+pede *não é* uma pesquisa histórica, por mais que estude obras do
+passado. Isso quer dizer que fazer pesquisa de repertório é ruim, é
+errado? Claro que não! Isso quer dizer que estudar História da
+Arquitetura é uma coisa, e estudar Arquitetura usando modelos históricos
+é outra.
+
+![Faculdade de Arquitetura e Urbanismo da Universidade de Brasília.
+Foto: [Murilo Abreu, 2014
+](https://commons.wikimedia.org/wiki/File:Faculdade_de_Arquitetura_(15250522572).jpg)
+](https://upload.wikimedia.org/wikipedia/commons/c/cd/Faculdade_de_Arquitetura_(15250522572).jpg){#fig:fauunb}
+
+## {data-background-image="https://i.pinimg.com/originals/8d/a2/29/8da2296e1f7aaa110d9a1979fdbc8380.jpg"}
+
+![João Batista Vilanova Artigas e Carlos Cascaldi, arquitetos, edifício
+da Faculdade de Arquitetura e Urbanismo da Universidade de São Paulo.
+Foto: [Rafael Craice, 2015
+](https://revistacentro.org/index.php/fau/)
+](https://i.pinimg.com/originals/8d/a2/29/8da2296e1f7aaa110d9a1979fdbc8380.jpg){#fig:fauusp}
+
+Só que cada curso de "História da Arquitetura" nas universidades precisa
+assumir se quer fazer uma coisa ou outra. Em faculdades grandes, que
+formam muitos futuros pesquisadores, como a [FAUUSP]{.smallcaps}
+(@fig:fauusp) ou a [FAU--UFRJ]{.smallcaps}, é comum os cursos de
+História da Arquitetura serem explicitamente críticos. Já em faculdades
+menores, que formam sobretudo projetistas, há uma tendência em tratar
+implicitamente os cursos históricos como uma espécie de base de cultura
+geral.
+
+## {data-background-image="https://i.pinimg.com/750x/74/b9/d6/74b9d62e813acc18601b3ab89020716e.jpg" data-background-position="right"}
+
+![Gustavo Rocha Peixoto na [Escola da Cidade, São Paulo, 2015
+](http://escoladacidade.org/bau/gustavo-peixoto-a-estrategia-da-aranha/)
+](https://i.pinimg.com/750x/74/b9/d6/74b9d62e813acc18601b3ab89020716e.jpg){#fig:gustavo .marginnote}
+
+É nessa "cultura geral" que mora o perigo um último perigo: o da
+indecisão. O professor da [FAU--UFRJ]{.smallcaps} Gustavo Rocha Peixoto
+(@fig:gustavo) defende que os cursos de "cultura geral" se guiem pelo
+que ele chama de "ensino meta-histórico" [@rochapeixoto:2013estrategia;
+ver também -@rochapeixoto:2015estrategia]. Resumindo (e provavelmente
+mutilando terrivelmente) a tese do professor (por sinal, assistam ao
+vídeo da palestra dele que está no link), Rocha Peixoto defende um
+ensino de História que desenvolva ao mesmo tempo o espírito da *crítica*
+em história e a imaginação *produtiva* da arquitetura.
+
+## {data-background-image="https://i.pinimg.com/originals/31/51/7d/31517d0db83fe18ee2633f0b88d60567.png"}
+
+Na prática, esse ensino, quando é bem conduzido, *alterna* entre a
+crítica e a formação de um repertório criativo. Na pior das hipóteses,
+ele poderia formar um repertório sem critérios claros, portanto
+contraproducente, sem alcançar tampouco nenhuma reflexão crítica. O
+perigo é especialmente grande quando se trata de estudar a arquitetura
+tradicional (daqui a pouco vamos definir o que seja isso). Todo
+arquiteto modernista tem um desejo irresistível de levar os modelos
+tradicionais pelo caminho da abstração, e essa abstração leva a
+interpretações arbitrárias, à projeção de uma ideologia decidida *a
+priori* sobre o objeto: novamente, nem crítica histórica do objeto e nem
+estudo criterioso do modelo. Um exemplo disso é o esforço premeditado
+que o teórico Colin Rowe fez para defender que a arquitetura modernista
+de Le Corbusier na década de 1920 se baseava no classicismo de Palladio
+[@rowe:1976mathematics]. O resultado é um exercício gráfico curioso
+(@fig:math), mas sem nenhuma prova de que o paralelo fosse intencional.
+
+![Ilustrações do artigo *Matemática da villa ideal*, de Colin Rowe
+](https://i.pinimg.com/originals/1d/5d/16/1d5d160374da50bedb25ff08921b6f06.png){#fig:math .fullwidth}
+
+## {data-background-image=""}
+
+[As opções estão postas.]{.newthought} História crítica da arquitetura
+*ou* estudo arquitetônico da Arquitetura tradicional.
+
+# Busca pela unidade transcendental da arquitetura erudita #
 
 ## {data-background-image="https://i.pinimg.com/originals/7e/dd/ed/7edded54cb5dfe0c0323f36b380d1e44.jpg"}
 
@@ -363,22 +596,6 @@ de uma arquitetura que se diz engajada (@fig:boris).
 Foto em Fiori (2018)
 ](https://journals.openedition.org/craup/docannexe/image/591/img-6.jpg){#fig:boris .fullwidth}
 
-## {data-background-image="http://www.gizmoweb.org/wp-content/uploads/2014/06/Tafuri.jpg"}
-
-![Manfredo Tafuri
-](https://i.pinimg.com/originals/63/b8/ad/63b8ad642c86b14a064fcc10a779641f.jpg){#fig:tafuri
-.marginnote}
-
-A contradição de Sérgio Ferro é só um exemplo entre muitos. Ela nos
-mostra como *falar* que "arquitetura é construção" só da boca para fora
-não é o mesmo que *atuar* na arquitetura pensando no processo produtivo
-da construção. A esta altura, a primeira lição que temos que ter em
-mente sobre a identidade entre arquitetura e construção é esta: a
-*crítica* da arquitetura não se confunde com a *produção* das
-construções. O historiador da arquitetura italiano Manfredo Tafuri
-(@fig:tafuri) nos ensina que ambas são tarefas legítimas e necessárias,
-mas são coisas essencialmente diferentes [@tafuri:1979teorias].
-
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6c/Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg"}
 
 <!--_,-->
@@ -401,12 +618,12 @@ Na continuação, vamos definir o que é construção tradicional e como ela
 
 # O que é construção tradicional #
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1a/Saint-Germain_Paris_%2844694722604%29.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1a/Saint-Germain_Paris_(44694722604).jpg"}
 
 ![Vista de Paris com a torre Montparnasse ao fundo. Foto: [Bradley Weber
 (2017)
 ](https://commons.wikimedia.org/wiki/File:Saint-Germain_Paris_(44694722604).jpg)
-](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Saint-Germain_Paris_%2844694722604%29.jpg/1280px-Saint-Germain_Paris_%2844694722604%29.jpg){#fig:montparnasse .fullwidth}
+](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Saint-Germain_Paris_(44694722604).jpg/1280px-Saint-Germain_Paris_(44694722604).jpg){#fig:montparnasse .fullwidth}
 
 Na seção anterior, definimos para os nossos efeitos que [arquitetura é
 construção]{.smallcaps}. Portanto, quando vamos falar de *arquitetura tradicional*,
@@ -871,10 +1088,6 @@ promoviam o ecletismo.
 
 ## {data-background-image="https://i.pinimg.com/originals/74/b9/d6/74b9d62e813acc18601b3ab89020716e.jpg" data-background-position="left"}
 
-![Gustavo Rocha Peixoto na [Escola da Cidade, São Paulo, 2015
-](http://escoladacidade.org/bau/gustavo-peixoto-a-estrategia-da-aranha/)
-](https://i.pinimg.com/750x/74/b9/d6/74b9d62e813acc18601b3ab89020716e.jpg){#fig:gustavo .marginnote}
-
 Acabamos de tomar um desvio que foi do século [XVIII]{.smallcaps} ao
 [XX]{.smallcaps} para tratar de delimitar tradição e modernidade. Nesse
 processo, o que encontramos foi uma transição gradual e não uma ruptura
@@ -912,13 +1125,20 @@ Pequim, 2004--2013. Foto: [Arup
 
 # O que é construção tradicional #
 
+## {data-background-image="https://congress.intbau.org/session-2/"}
+
+![Construção tradicional contemporânea no Marrocos. Foto: [Fundação Terrachidia, 2018
+](https://congress.intbau.org/session-2/)
+](https://i.pinimg.com/originals/93/6f/bd/936fbd07609637b47ab0aacef765431e.jpg){#fig:terrachidia
+.fullwidth}
+
 # Construção arquitravada e o mito da cabana primitiva #
 
 # Construção murária--arqueada e a criação do espaço #
 
 # {.unlisted}
 
-<!--
+
 Na verdade, a regra no Ocidente durante os últimos trezentos anos ou
 mais tem sido desconsiderar a construção, ou pelo menos tratar a
 arquitetura como se ela fosse uma ocupação intelectual abstrata,
@@ -997,4 +1217,4 @@ for the Student, Craftsman, and Amateur. London : New York: Batsford :
 Scribner’s sons, 1905.
 <a href="http://archive.org/details/historyofarchite00flet"
 target="_blank"> http://archive.org/details/historyofarchite00flet </a>
--->
+
