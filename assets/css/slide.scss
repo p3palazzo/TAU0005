@@ -62,7 +62,7 @@ section {
   h3, h4, h5 {
     @extend .smallcaps;
   }
-  p, figure {
+  p, dd, figure {
     display: none;
     visibility: hidden;
   }
@@ -87,6 +87,10 @@ div.subfigures > p {
 
 .box {
   background: #ffffff33;
+}
+
+.epigraph {
+  font-style: italic;
 }
 
 blockquote {

@@ -11,8 +11,8 @@ dl {
   width: 55%;
 }
 
-dt {
-  @extend .newthought;
+dd {
+  margin: 0;
 }
 
 em, strong,
@@ -30,16 +30,16 @@ h2 > em {
   font-style: normal;
 }
 
-h4, h5 {
+dt, h4, h5 {
   @extend .smallcaps;
   font-size: 1.4rem;
 }
 
-h5 {
-  display: inline;
+dt, h5 {
   float: left;
-  margin: 0 1.4em 0 0;
-  vertical-align: top;
+  line-height: 1.2em;
+  margin: 0 1.4rem 0 0;
+  padding-bottom: 0;
 }
 
 header > div.epigraph {
