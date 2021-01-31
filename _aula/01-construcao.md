@@ -28,7 +28,11 @@ receber a pintura porque ela não atendia à especificação da encomenda.
 O mal-entendido dos dois amigos, agora ex-amigos, está na oposição entre
 uma *análise* crítica da tradição arquitetônica, consagrada na pintura
 de Cole, e a expectativa de Towne por uma *aplicação* integrada dessa
-mesma tradição.
+tradição. É a mesma oposição que existe entre pesquisar a História da
+arquitetura e fazer Arquitetura tradicional. O curso que estamos
+iniciando aqui não é propriamente de História da arquitetura, e sim um
+[curso de Arquitetura tradicional]{.newthought}. Agora vamos ver por que
+essa escolha tem que ser feita.
 
 Para Town, o cliente, arquitetura e pintura são ofícios que atuam num
 mercado e que, na maioria dos casos, trabalham por encomenda. O
@@ -80,11 +84,11 @@ Temos aqui um conflito entre dois valores intrínsecos à definição
 moderna de profissões como a arte e a arquitetura: por um lado, o papel
 da *crítica* que transforma constantemente o campo profissional; por
 outro lado, a natureza do trabalho técnico nesse mesmo campo
-profissional, que é a de entregar *produtos* integrados. Crítica e
-produção são ambas tarefas válidas e necessárias na disciplina da
-Arquitetura, mas elas são tarefas distintas entre si. Só a História da
-arquitetura tem os instrumentos para fazer crítica, e só o ofício da
-Arquitetura tem os instrumentos para integrar.
+profissional, que é a de ser *operativa* --- ou seja, de produzir um
+objeto. Crítica e produção são ambas tarefas válidas e necessárias na
+disciplina da Arquitetura, mas elas são tarefas distintas entre si. Só a
+História da arquitetura tem os instrumentos para fazer crítica, e só o
+ofício da Arquitetura tem os instrumentos para ser operativa.
 
 ## {data-background-image="https://i.pinimg.com/originals/5a/e8/89/5ae889bfade418e16e6176ef8b6bc015.jpg" data-background-opacity="0.7"}
 
@@ -186,11 +190,11 @@ O historiador da arquitetura italiano Manfredo Tafuri (@fig:tafuri)
 mostrou que esse anacronismo não acontece por acaso, mas que ele aparece
 toda vez que alguém tenta misturar a crítica histórica com a produção de
 uma teoria da Arquitetura. Tafuri escreveu que isso não acaba sendo nem
-História, nem Arquitetura [@tafuri:1979teorias]: não é História porque
+História, nem Arquitetura: não é História porque
 está a reboque de um projeto de legitimação profissional do arquiteto
 contemporâneo, e portanto não tem autonomia crítica; e não é Arquitetura
 porque faz um recorte reducionista da disciplina, que não dá o suporte
-adequado para a teoria.
+adequado seja para a teoria, seja para a produção [@tafuri:1979teorias].
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6c/Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg"}
 
@@ -211,10 +215,11 @@ necessária para fazer uma análise crítica se perde assim que a história
 precisa se dobrar a alguma exigência prática do ofício. Por exemplo, a
 famosa *pesquisa de repertório* que todo ateliê de ensino de projeto
 pede *não é* uma pesquisa histórica, por mais que estude obras do
-passado. Isso quer dizer que fazer pesquisa de repertório é ruim, é
-errado? Claro que não! Isso quer dizer que estudar História da
-Arquitetura é uma coisa, e estudar Arquitetura usando modelos históricos
-é outra.
+passado. A pesquisa de repertório é um estudo de obras de arquitetura
+com um propósito *operativo*. Isso quer dizer que fazer pesquisa de
+repertório é ruim, é errado? Claro que não! Isso quer dizer que estudar
+História da Arquitetura é uma coisa, e estudar Arquitetura usando
+modelos tradicionais é outra.
 
 ![Faculdade de Arquitetura e Urbanismo da Universidade de Brasília.
 Foto: [Murilo Abreu, 2014
