@@ -30,11 +30,14 @@ h2 > em {
   font-style: normal;
 }
 
-h5 {
+h4, h5 {
   @extend .smallcaps;
+  font-size: 1.4rem;
+}
+
+h5 {
   display: inline;
   float: left;
-  font-size: 1.4rem;
   margin: 0 1.4em 0 0;
   vertical-align: top;
 }

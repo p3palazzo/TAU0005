@@ -14,6 +14,12 @@ html {
   block-margin: 0
 }
 
+.smallcaps {
+  font-weight: bold;
+  font-variant: small-caps;
+  text-transform: lowercase;
+}
+
 .reveal {
   //background-color: darken( $backgroundColor, 15% );
   h1, h2 {
@@ -53,6 +59,9 @@ section#title-slide {
 }
 
 section {
+  h3, h4, h5 {
+    @extend .smallcaps;
+  }
   p, figure {
     display: none;
     visibility: hidden;
@@ -67,8 +76,8 @@ section {
 }
 
 figcaption,
-div.subfigures>p {
-  display: none;
+div.subfigures > p {
+  //display: none;
   background: #faecd699;
   position: fixed;
   bottom: 20px;
@@ -86,7 +95,7 @@ blockquote {
   footer {
     text-align: right;
     cite {
-      font-style: normal;
+      font-style: italic;
     }
   }
 }
