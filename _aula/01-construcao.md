@@ -249,7 +249,7 @@ geral.
 ](http://escoladacidade.org/bau/gustavo-peixoto-a-estrategia-da-aranha/)
 ](https://i.pinimg.com/750x/74/b9/d6/74b9d62e813acc18601b3ab89020716e.jpg){#fig:gustavo .marginnote}
 
-É nessa "cultura geral" que mora o perigo um último perigo: o da
+É nessa "cultura geral" que mora um último perigo: o da
 indecisão. O professor da [FAU--UFRJ]{.smallcaps} Gustavo Rocha Peixoto
 (@fig:gustavo) defende que os cursos de "cultura geral" se guiem pelo
 que ele chama de "ensino meta-histórico" [@rochapeixoto:2013estrategia;
@@ -264,36 +264,50 @@ em história e a imaginação *produtiva* da arquitetura.
 Na prática, esse ensino, quando é bem conduzido, *alterna* entre a
 crítica e a formação de um repertório criativo. Na pior das hipóteses,
 ele poderia formar um repertório sem critérios claros, portanto
-contraproducente, sem alcançar tampouco nenhuma reflexão crítica. O
-perigo é especialmente grande quando se trata de estudar a arquitetura
+contraproducente, sem alcançar tampouco nenhuma reflexão crítica.
+Um exemplo disso é o esforço premeditado
+que o teórico Colin Rowe fez para argumentar que a arquitetura
+modernista de Le Corbusier na década de 1920 se baseava no classicismo
+de Palladio [@rowe:1976mathematics]. O resultado é um exercício gráfico
+curioso (@fig:math), mas sem nenhuma prova de que o paralelo fosse
+intencional, ou mesmo relevante.
+O perigo é especialmente grande quando se trata de estudar a arquitetura
 tradicional (daqui a pouco vamos definir o que seja isso). Todo
-arquiteto modernista tem um desejo irresistível de levar os modelos
+arquiteto contemporâneo tem um desejo irresistível de levar os modelos
 tradicionais pelo caminho da abstração, e essa abstração leva a
 interpretações arbitrárias, à projeção de uma ideologia decidida *a
 priori* sobre o objeto: novamente, nem crítica histórica do objeto e nem
-estudo criterioso do modelo. Um exemplo disso é o esforço premeditado
-que o teórico Colin Rowe fez para defender que a arquitetura modernista
-de Le Corbusier na década de 1920 se baseava no classicismo de Palladio
-[@rowe:1976mathematics]. O resultado é um exercício gráfico curioso
-(@fig:math), mas sem nenhuma prova de que o paralelo fosse intencional.
+estudo criterioso do modelo tradicional.
 
-![Ilustrações do artigo *Matemática da villa ideal*, de Colin Rowe
+![Ilustrações do artigo Matemática da *villa* ideal, de Colin Rowe
 ](https://i.pinimg.com/originals/1d/5d/16/1d5d160374da50bedb25ff08921b6f06.png){#fig:math .fullwidth}
 
-## {data-background-image=""}
+## {data-background-image="https://i.pinimg.com/originals/f2/25/06/f2250659750b854e374c9dbb76c7c6f0.jpg"}
 
-[As opções estão postas.]{.newthought} História crítica da arquitetura
-*ou* estudo arquitetônico da Arquitetura tradicional.
+[Este curso é um estudo operativo da arquitetura
+tradicional.]{.newthought} O seu objetivo é recompor os processos de
+produção do ambiente construído anteriores à Revolução industrial. Essa
+recomposição é um esforço de responsabilidade social que envolve
+profissionais e comunidades por todo o mundo, e que vem crescendo desde
+a segunda metade do século [XX]{.smallcaps} (@fig:gourna-row). O curso
+se divide em duas partes. A primeira parte é composta por três módulos
+teóricos, que introduzem os três grandes princípios da arquitetura
+tradicional: construção, espacialidade e plástica. A segunda parte é
+composta por quatro módulos que desenvolvem os quatro principais
+problemas tangíveis da prática: elementos da arquitetura, composição com
+espaços, tipologia edilícia e urbanização.
 
-# Busca pela unidade transcendental da arquitetura erudita #
+![Hassan Fathy, arquiteto, habitação social em al-Qurna, Egito,
+1946--1952
+](https://i.pinimg.com/originals/f2/25/06/f2250659750b854e374c9dbb76c7c6f0.jpg){#fig:gourna-row .fullwidth}
+
+# Arquitetura é construção #
 
 ## {data-background-image="https://i.pinimg.com/originals/7e/dd/ed/7edded54cb5dfe0c0323f36b380d1e44.jpg"}
 
 ![Auguste Perret, palais d'Iéna, Paris,
 1937](https://i.pinimg.com/originals/7e/dd/ed/7edded54cb5dfe0c0323f36b380d1e44.jpg){#fig:perret}
 
-Outras definições descrevem os objetos construídos, ou o próprio ato de
-construir.
 O engenheiro e arquiteto francês Auguste Perret insistia na relação
 muito próxima entre arquitetura e construção. Nas suas obras construídas
 em concreto armado, como o palácio Iéna em Paris (@fig:perret), tanto
@@ -621,7 +635,7 @@ direta: [Arquitetura é construção.]{.smallcaps}
 Na continuação, vamos definir o que é construção tradicional e como ela
 é diferente da construção moderna.
 
-# O que é construção tradicional #
+# O que é arquitetura tradicional #
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1a/Saint-Germain_Paris_(44694722604).jpg"}
 
