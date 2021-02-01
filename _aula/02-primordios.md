@@ -8,6 +8,10 @@ abstract: |
   -- Muros, paredes e terraplenos
 ---
 
+![Thomas Cole, The Course of Empire: The Arcadian or Pastoral State,
+1836
+](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1024px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836){#fig:cole-arcadian .fullwidth}
+
 # Sistemas construtivos em madeira e terra #
 
 - Habitação no paleolítico e neolítico globais
