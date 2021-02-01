@@ -13,20 +13,20 @@ abstract: >
 
 # Apresentação #
 
-TAU 0005 é a segunda disciplina na cadeia de Teoria e História do curso
+[TAU]{.smallcaps} 0005 é a segunda disciplina na cadeia de Teoria e História do curso
 de graduação em Arquitetura e Urbanismo na Universidade de Brasília, e a
 primeira a se dedicar inteiramente ao estudo do passado. Trata-se tanto
 de uma cadeira de formação profissional quanto de uma disciplina de
 conhecimentos gerais. A partir do estudo das construções e das cidades
 tradicionais desde a Antiguidade até o século XV, vamos desenvolver
 familiaridade com a análise crítica em história e com a teoria e prática
-da arquitetura tradicional. O núcleo do conteúdo de TAU 0005 é o que
+da arquitetura tradicional. O núcleo do conteúdo de [TAU]{.smallcaps} 0005 é o que
 chamamos de *arquitetura clássica* do Mediterrâneo antigo e a sua
 difusão e transformação ao longo do tempo e do espaço.
 
 ## Sobre a disciplina ##
 
-O programa de TAU 0005 foi escrito mais de 30 anos atrás e mudou muito
+O programa de [TAU]{.smallcaps} 0005 foi escrito mais de 30 anos atrás e mudou muito
 pouco desde então. Hoje em dia, esse conteúdo parece --- e é ---
 formalista e eurocêntrico. Mas, na sua origem, a cadeia de Teoria e
 História estabelecida em 1989 representou um grande avanço na
@@ -44,14 +44,14 @@ as oportunidades e a atender às diretrizes curriculares nacionais. Ao
 longo desses 30 anos de vigência, a cadeia de Teoria e História foi
 sendo ampliada para atender a mudanças nas diretrizes curriculares e
 para refletir novas preocupações críticas. Nesse processo, a sequência
-original de disciplinas obrigatórias --- TAU 0005 a TAU 0009 --- não
+original de disciplinas obrigatórias --- [TAU]{.smallcaps} 0005 a [TAU]{.smallcaps} 0009 --- não
 mudou praticamente nada, pelo menos na grade curricular oficial. Como
 sempre, essa aparência de que nada mudou, segundo os registros formais,
 esconde grandes mudanças na prática. Há uma inquietação constante com os
 rumos das disciplinas e muitos ajustes no conteúdo e no enfoque dado
 pelos professores.
 
-TAU 0005 tem um conteúdo *formal* distante da nossa vivência cotidiana,
+[TAU]{.smallcaps} 0005 tem um conteúdo *formal* distante da nossa vivência cotidiana,
 e vocês podem até se perguntar se essa disciplina tem alguma relevância
 para a realidade brasileira. Uma resposta simples e, de certo modo,
 correta é dizer que *todo* estudo de história e toda cultura geral em
@@ -97,12 +97,12 @@ sustentabilidade ambiental.
 ## Equipe ##
 
 Professor
+
 : Pedro P. Palazzo
 
-Estagiária docente
-: Irina Alencar de Oliveira
+Monitora
 
-Monitores
+: Julia Figueiredo Pascual
 : 
 
 # Objetivos de aprendizagem #
@@ -114,26 +114,31 @@ produção do ambiente construído. Este propósito se desdobra em cinco
 aspectos que correspondem a cada um dos módulos do programa:
 
 I Construção
+
 : Manipular componentes construtivos tradicionais em estruturas
   arquitravadas e naquelas murárias--arqueadas, bem como a lógica
   intrínseca aos detalhes construtivos de origem vernácula.
 
 II Elementos da arquitetura
+
 : Dominar as cinco ordens clássicas da arquitetura e ser capaz de as
   empregar em composições simples, reconhecendo seus aspectos estéticos
   assim como sua lógica de representação construtiva (disposição,
   proporções, modenatura).
 
 III Elementos de composição
+
 : Articular espaços com formas geométricas definidas, usando os
   elementos da construção tradicional e da arquitetura clássica para dar
   forma e caráter a esses espaços.
 
 IV Tipos edilícios
+
 : Reconhecer os seis tipos edilícios fundamentais e realizar composições
   tipológicas simples por meio da articulação de espaços tradicionais.
 
 V Conjuntos
+
 : Contextualizar a prática da arquitetura nos processos de urbanização
   e de formação de paisagens, reconhecendo, analisando e aplicando os
   padrões geradores da cidade tradicional.
@@ -174,7 +179,7 @@ V Conjuntos
 
 ## Considerações gerais ##
 
-Neste semestre, TAU 0005 se desenvolve em modo *remoto*. Todo o conteúdo
+Neste semestre, [TAU]{.smallcaps} 0005 se desenvolve em modo *remoto*. Todo o conteúdo
 e as atividades da disciplina estão no ambiente virtual de aprendizagem
 [Aprender 3][]. O nosso fio condutor é o livro-texto; as videoaulas
 gravadas, as leituras específicas e outros recursos indicados completam
@@ -277,7 +282,7 @@ indicado acima.
 #### Uma observação importante sobre o cronograma ####
 
 Dadas as circunstâncias atuais, o cronograma pode sofrer alterações
-seguindo eventuais decisões da FAU ou dos órgãos superiores da UnB.
+seguindo eventuais decisões da [FAU]{.smallcaps} ou dos órgãos superiores da UnB.
 *Respeitando o prazo previsto para cada módulo e o cronograma de
 leituras semanais,* você pode cumprir o conteúdo (leituras e videoaulas)
 e fazer as atividades (participação nos fóruns e entrega dos trabalhos)
@@ -286,7 +291,7 @@ no tempo e horário que for mais conveniente.
 # Apoio ao aluno #
 
 O conteúdo e as atividades da disciplina estão disponíveis no ambiente
-virtual de aprendizagem [Aprender 3][]. A equipe de TAU 0005 --- o
+virtual de aprendizagem [Aprender 3][]. A equipe de [TAU]{.smallcaps} 0005 --- o
 professor, a estagiária docente e as monitoras --- estará disponível ao
 vivo, por videoconferência no sistema [Microsoft Teams][] da UnB, às
 terças e quintas-feiras no horário da aula. Além disso, cada módulo tem
@@ -294,9 +299,9 @@ um fórum específico no Aprender 3 para tirar dúvidas sobre o
 desenvolvimento do respectivo trabalho.
 
 A disciplina pressupõe familiaridade com os recursos de pesquisa
-bibliográfica ~~presencial e~~ eletrônica da [Biblioteca Central (BCE)
-da UnB][BCE], incluindo o catálogo integrado e as diversas bases de dados
-de periódicos. A BCE oferece tutoriais eletrônicos e cursos de
+bibliográfica ~~presencial e~~ eletrônica da [Biblioteca Central ([BCE]{.smallcaps})
+da UnB][[BCE]{.smallcaps}], incluindo o catálogo integrado e as diversas bases de dados
+de periódicos. A [BCE]{.smallcaps} oferece tutoriais eletrônicos e cursos de
 capacitação frequentes para familiarização com as suas ferramentas.
 
 Usamos *apenas* os sistemas oficiais da UnB para nos comunicarmos:
@@ -422,7 +427,7 @@ cidadania e da profissão. Copiar parte ou tudo do trabalho alheio ---
 seja de colegas de turma, da bibliografia, ou de material "garimpado" na
 Internet --- é uma prática inaceitável e resultará em atribuição da nota
 0 (zero) ao trabalho como um todo. Dependendo da gravidade do fato,
-podemos relatar o ocorrido ao colegiado de graduação da FAU.
+podemos relatar o ocorrido ao colegiado de graduação da [FAU]{.smallcaps}.
 
 Dito isso, você não tem obrigação de ser *original* no sentido artístico
 da palavra. Em cada trabalho você precisa atender a uma exigência
@@ -437,7 +442,7 @@ Para obter aprovação na disciplina, você precisa atender a *todos* os
 três requisitos seguintes:
 
 - Entregar **todos** os trabalhos.
-- Obter a média final de 5,0 (MM).
+- Obter a média final de 5,0 ([MM]{.smallcaps}).
 - Cumprir a frequência mínima exigida de 75 % das aulas.
 
 Cada trabalho representa uma aplicação do conteúdo do respectivo
@@ -520,9 +525,9 @@ nível de detalhamento condizente com as escalas indicadas.
 
   Acessar o site da [Biblioteca Central](https://bce.unb.br). Pesquisar
   pelo livro usando a `Busca integrada` (função de busca padrão da
-  BCE). Na visualização do resultado, clicar no link
+  [BCE]{.smallcaps}). Na visualização do resultado, clicar no link
   `View record at Minha Biblioteca`. Fazer login no serviço de leitura
-  online usando as credenciais da BCE (CPF e senha usada no balcão de
+  online usando as credenciais da [BCE]{.smallcaps} (CPF e senha usada no balcão de
   empréstimo).
 
 </details>
@@ -555,9 +560,15 @@ A bibliografia básica representa um corpo de conhecimentos mínimo para
 entender o conteúdo da disciplina, mas não esgota as referências
 necessárias para realizar os trabalhos.
 
+```{=latex}
 \nocite{*}
 
 \printbibliography[keyword={tau0005-basica},heading=none]
+```
+
+```{=html}
+{% include biblio-basica.html %}
+```
 
 ## Complementar ##
 
@@ -565,13 +576,19 @@ A bibliografia complementar oferece um aprofundamento opcional em
 conteúdos mais específicos, bem como discussões teóricas relevantes para
 a abordagem desta disciplina.
 
+```{=latex}
 \printbibliography[keyword={tau0005-complementar},heading=none]
+```
+
+```{=html}
+{% include biblio-complementar.html %}
+```
 
 [Aprender 3]: https://aprender3.unb.br
 
 [área geral do Aprender 3]: 
 
-[BCE]: https://bce.unb.br
+[[BCE]{.smallcaps}]: https://bce.unb.br
 
 [Microsoft Teams]: https://teams.microsoft.com
 

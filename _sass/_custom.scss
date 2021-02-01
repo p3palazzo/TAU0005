@@ -9,6 +9,9 @@ blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote {
 dl {
   font-size: 1.4rem;
   width: 55%;
+  dt {
+    line-height: 1.4em;
+  }
 }
 
 dd {
@@ -37,9 +40,12 @@ dt, h4, h5 {
 
 dt, h5 {
   float: left;
-  line-height: 1.2em;
   margin: 0 1.4rem 0 0;
   padding-bottom: 0;
+}
+
+h5 {
+  line-height: 1.2em;
 }
 
 header > div.epigraph {
@@ -97,6 +103,10 @@ p > span.newthought {
   font-size: 1em;
 }
 
+details {
+  width: 55%;
+}
+
 /* Fixes for pandoc-crossref */
 figure > figcaption {
   @extend .marginnote;
@@ -107,6 +117,19 @@ figure > img.fullwidth {
   max-width: 164%;
 }
 
+/* Fixes for Zotero export to HTML */
+div.csl-bib-body {
+  @extend section;
+}
+
+.csl-entry {
+  @extend p;
+  margin: 0;
+  i {
+    font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  }
+}
+
 .marginnote {
   padding-bottom: 1rem;
 }
@@ -114,7 +137,8 @@ figure > img.fullwidth {
 @media (max-width: 760px) {
   header > div.epigraph,
   dl,
-  figure > img.fullwidth {
+  figure > img.fullwidth,
+  details {
     width: 90%;
   }
 }
