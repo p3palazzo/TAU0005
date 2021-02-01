@@ -86,6 +86,7 @@ exclude:
   - "*.fdb_latexmk"
   - "*.run.xml"
 keep_files:
+  - .git
   - slides
   - reveal.js
 # vim: set foldmethod=marker :

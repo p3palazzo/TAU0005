@@ -19,6 +19,11 @@ JEKYLL-PANDOC   := palazzo/jekyll-tufte:4.2.0
 
 deploy : _site .slides
 
+manual :
+	@-rm -rf _site
+	@gh repo clone tau0005 _site -- -b gh-pages --depth=1
+	@bundle install && bundle exec jekyll build
+
 tau0005.pdf : plano.pdf cronograma.pdf \
 	trabalho-1-construcao.pdf trabalho-2-ordens.pdf trabalho-3-tipologia.pdf
 	gs -dNOPAUSE -dBATCH -sDevice=pdfwrite \
