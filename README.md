@@ -46,3 +46,10 @@
 14. [Gótico](_aula/14-gotico.md)
 15. [África medieval](_aula/15-africa.md)
 
+<!--_,-->
+
+# Atividades #
+
+- [Trabalho 1: Edícula vernácula](trabalho-1-construcao.md)
+- [Trabalho 2: Analítico com ordens clássicas](trabalho-2-ordens.md)
+- [Trabalho 3: Composição com espaços](trabalho-3-tipologia.md)
