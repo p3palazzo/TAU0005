@@ -4,36 +4,50 @@
 
 @font-face { font-family: 'Trajan Pro'; font-style: normal; font-weight: bold; src: url("../fonts/TrajanPro-Bold.woff") format("woff"); }
 
+@font-face { font-family: "et-book"; src: url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot"); src: url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot?#iefix") format("embedded-opentype"), url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff") format("woff"), url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf") format("truetype"), url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg#etbookromanosf") format("svg"); font-weight: normal; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "et-book"; src: url("../fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot"); src: url("../fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot?#iefix") format("embedded-opentype"), url("../fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff") format("woff"), url("../fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf") format("truetype"), url("../fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg#etbookromanosf") format("svg"); font-weight: normal; font-style: italic; font-display: swap; }
+
+@font-face { font-family: "et-book"; src: url("../fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot"); src: url("../fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot?#iefix") format("embedded-opentype"), url("../fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff") format("woff"), url("../fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.ttf") format("truetype"), url("../fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg#etbookromanosf") format("svg"); font-weight: bold; font-style: normal; font-display: swap; }
+
+@font-face { font-family: "et-book-roman-old-style"; src: url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot"); src: url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot?#iefix") format("embedded-opentype"), url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.woff") format("woff"), url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.ttf") format("truetype"), url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.svg#etbookromanosf") format("svg"); font-weight: normal; font-style: normal; font-display: swap; }
+
 html { block-margin: 0; }
 
-.reveal h1, .reveal h2 { font-family: "Trajan Pro", "Source Serif Pro", serif; font-weight: normal; }
+.smallcaps, section h3, section h4, section h5 { font-weight: bold; font-variant: small-caps; text-transform: lowercase; }
+
+.reveal h1, .reveal h2 { font-family: "Trajan Pro", "Source Serif Pro", Georgia serif; font-weight: normal; }
 
 section.has-dark-background, section#title-slide { text-shadow: 0 0 20px #294469; /* p.subtitle::after { content: " › "; } */ }
 
-section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6, section#title-slide, section#title-slide h1, section#title-slide h2, section#title-slide h3, section#title-slide h4, section#title-slide h5, section#title-slide h6 { color: #f4dcb4; text-shadow: 0 0 20px #294469, 0 0 10px #294469; font-family: "Trajan Pro", "Source Serif Pro", serif; font-weight: normal; }
+section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6, section#title-slide, section#title-slide h1, section#title-slide h2, section#title-slide h3, section#title-slide h4, section#title-slide h5, section#title-slide h6 { color: #f4dcb4; text-shadow: 0 0 20px #294469, 0 0 10px #294469; font-family: "Trajan Pro", "Source Serif Pro", Georgia serif; font-weight: normal; }
 
-section.has-dark-background p.subtitle, section.has-dark-background p.author, section.has-dark-background p.date, section#title-slide p.subtitle, section#title-slide p.author, section#title-slide p.date { font-family: "Trajan Pro", "Source Serif Pro", serif; font-weight: normal; text-transform: uppercase; }
+section.has-dark-background p.subtitle, section.has-dark-background p.author, section.has-dark-background p.date, section#title-slide p.subtitle, section#title-slide p.author, section#title-slide p.date { font-family: "Trajan Pro", "Source Serif Pro", Georgia serif; font-weight: normal; text-transform: uppercase; }
 
 section.has-dark-background .author img, section#title-slide .author img { height: 1em; max-height: 75px; filter: invert(88%) sepia(29%) saturate(355%) hue-rotate(339deg) brightness(100%) contrast(92%); -webkit-filter: invert(88%) sepia(29%) saturate(355%) hue-rotate(339deg) brightness(100%) contrast(92%); }
 
-section img.stretch { margin: -20px 0; padding: 0; object-fit: cover; }
+section p, section dd, section figure { display: none; visibility: hidden; }
 
-figcaption, div.subfigures > p { display: none; background: #faecd699; position: fixed; bottom: 20px; z-index: 999; padding: 4px 20px; }
+section img.stretch { display: inline; margin: -20px 0; object-fit: cover; padding: 0; visibility: visible; }
+
+figcaption, div.subfigures > p { background: #faecd699; position: fixed; bottom: 20px; z-index: 999; padding: 4px 20px; }
 
 .box { background: #ffffff33; }
+
+.epigraph { font-style: italic; }
 
 blockquote { font-size: 1em; text-align: left; }
 
 blockquote footer { text-align: right; }
 
-blockquote footer cite { font-style: normal; }
+blockquote footer cite { font-style: italic; }
 
 /********************************************* GLOBAL STYLES */
-:root { --background-color: #faecd6; --main-font: Source Sans Pro, Helvetica, sans-serif; --main-font-size: 36px; --main-color: #284368; --block-margin: 20px; --heading-margin: 0 0 20px 0; --heading-font: Trajan Pro, Source Serif Pro, serif; --heading-color: #284368; --heading-line-height: 1.2; --heading-letter-spacing: normal; --heading-text-transform: uppercase; --heading-text-shadow: none; --heading-font-weight: normal; --heading1-text-shadow: none; --heading1-size: 2em; --heading2-size: 1.6em; --heading3-size: 1.3em; --heading4-size: 1em; --code-font: monospace; --link-color: #9f613b; --link-color-hover: #c58762; --selection-background-color: #d2a487; --selection-color: #fff; }
+:root { --background-color: #faecd6; --main-font: et-book, Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif; --main-font-size: 36px; --main-color: #284368; --block-margin: 20px; --heading-margin: 0 0 20px 0; --heading-font: Trajan Pro, Source Serif Pro, Georgia serif; --heading-color: #284368; --heading-line-height: 1.2; --heading-letter-spacing: normal; --heading-text-transform: uppercase; --heading-text-shadow: none; --heading-font-weight: normal; --heading1-text-shadow: none; --heading1-size: 2em; --heading2-size: 1.6em; --heading3-size: 1.3em; --heading4-size: 1em; --code-font: monospace; --link-color: #9f613b; --link-color-hover: #c58762; --selection-background-color: #d2a487; --selection-color: #fff; }
 
 .reveal-viewport { background: #faecd6; background-color: #faecd6; }
 
-.reveal { font-family: "Source Sans Pro", Helvetica, sans-serif; font-size: 36px; font-weight: normal; color: #284368; }
+.reveal { font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; font-size: 36px; font-weight: normal; color: #284368; }
 
 .reveal ::selection { color: #fff; background: #d2a487; text-shadow: none; }
 
@@ -42,7 +56,7 @@ blockquote footer cite { font-style: normal; }
 .reveal .slides section, .reveal .slides section > section { line-height: 1.3; font-weight: inherit; }
 
 /********************************************* HEADERS */
-.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 { margin: 0 0 20px 0; color: #284368; font-family: "Trajan Pro", "Source Serif Pro", serif; font-weight: normal; line-height: 1.2; letter-spacing: normal; text-transform: uppercase; text-shadow: none; word-wrap: break-word; }
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 { margin: 0 0 20px 0; color: #284368; font-family: "Trajan Pro", "Source Serif Pro", Georgia serif; font-weight: normal; line-height: 1.2; letter-spacing: normal; text-transform: uppercase; text-shadow: none; word-wrap: break-word; }
 
 .reveal h1 { font-size: 2em; }
 
