@@ -8,7 +8,8 @@
 @import "reveal.js/css/theme/template/mixins",
         "reveal.js/css/theme/template/settings",
         "fonts",
-        "tau0005";
+        "tau0005",
+        "reveal.js/css/theme/template/theme";
 
 html {
   block-margin: 0
@@ -26,84 +27,103 @@ html {
     font-family: $headingFont;
     font-weight: normal;
   }
-}
 
-section.has-dark-background,
-section#title-slide {
-  text-shadow: 0 0 20px #294469;
-	&, h1, h2, h3, h4, h5, h6 {
-		color: #f4dcb4;
-    text-shadow: 0 0 20px #294469, 0 0 10px #294469;
-    font-family: $headingFont;
-    font-weight: normal;
-	}
-  /*
-   *p.subtitle::after {
-   *  content: " › ";
-   *}
-   */
-  p.subtitle,
-  p.author,
-  p.date {
-    //float: left;
-    font-family: $headingFont;
-    font-weight: normal;
-    text-transform: uppercase;
-  }
-  .author img {
-    height: 1em;
-    max-height: 75px;
-    filter: invert(88%) sepia(29%) saturate(355%) hue-rotate(339deg) brightness(100%) contrast(92%);
-    -webkit-filter: invert(88%) sepia(29%) saturate(355%) hue-rotate(339deg) brightness(100%) contrast(92%);
-  }
-}
-
-section {
-  h3, h4, h5 {
-    @extend .smallcaps;
-  }
-  p, dd, figure {
-    display: none;
-    visibility: hidden;
-  }
-  img.stretch {
-    display: inline;
-    margin: -20px 0;
-    object-fit: cover;
-    padding: 0;
-    visibility: visible;
-  }
-}
-
-figcaption,
-div.subfigures > p {
-  //display: none;
-  background: #faecd699;
-  position: fixed;
-  bottom: 20px;
-  z-index: 999;
-  padding: 4px 20px;
-}
-
-.box {
-  background: #ffffff33;
-}
-
-.epigraph {
-  font-style: italic;
-}
-
-blockquote {
-  font-size: $heading4Size;
-  text-align: left;
-  footer {
-    text-align: right;
-    cite {
-      font-style: italic;
+  section.has-dark-background,
+  section#title-slide {
+    text-shadow: 0 0 20px #294469;
+    &, h1, h2, h3, h4, h5, h6 {
+      color: #f4dcb4;
+      text-shadow: 0 0 20px #294469, 0 0 10px #294469;
+      font-family: $headingFont;
+      font-weight: normal;
+    }
+    p.subtitle,
+    p.author,
+    p.date {
+      //float: left;
+      font-family: $headingFont;
+      font-weight: normal;
+      text-transform: uppercase;
+    }
+    .author img {
+      height: 1em;
+      max-height: 75px;
+      filter: invert(88%) sepia(29%) saturate(355%) hue-rotate(339deg) brightness(100%) contrast(92%);
+      -webkit-filter: invert(88%) sepia(29%) saturate(355%) hue-rotate(339deg) brightness(100%) contrast(92%);
     }
   }
-}
 
-// Theme template ------------------------------
-@import "reveal.js/css/theme/template/theme";
-// ---------------------------------------------
+  section {
+    blockquote,
+    div.fragment,
+    h3, h4, h5,
+    ol {
+      background: #faecd6cc;
+      margin-left: 15%;
+      margin-right: 15%;
+      padding: 1.4rem;
+    }
+    div.fragment {
+      * {
+        background: transparent;
+      }
+    }
+    dt, h3, h4, h5 {
+      font-family: $headingFont;
+      font-size: $heading2Size;
+      font-variant: small-caps;
+      font-weight: normal;
+      text-transform: lowercase;
+    }
+    p, dd, figure {
+      display: none;
+      visibility: hidden;
+    }
+    img.stretch {
+      display: inline;
+      margin: -20px 0;
+      object-fit: cover;
+      padding: 0;
+      visibility: visible;
+    }
+  }
+
+  figcaption,
+  div.subfigures > p {
+    //display: none;
+    background: #faecd699;
+    position: fixed;
+    bottom: 20px;
+    z-index: 999;
+    padding: 4px 20px;
+  }
+
+  .box {
+    background: #ffffff33;
+  }
+
+  blockquote,
+  ol {
+    font-size: $heading4Size;
+    font-style: normal;
+    //text-align: left;
+    footer {
+      text-align: right;
+      font-style: italic;
+      cite {
+        font-style: italic;
+      }
+    }
+    li {
+      margin-left: 2rem;
+    }
+    p {
+      display: block;
+      visibility: visible;
+    }
+  }
+
+  .epigraph > blockquote > p {
+    font-style: italic;
+  }
+}

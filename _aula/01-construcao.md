@@ -44,7 +44,7 @@ tradicional.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6c/Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg" data-background-opacity="0.7" data-transition="zoom-in fade-out" data-background-trasition="fade"}
 
 ![Thomas Cole, Architect's Dream, detalhe
-](https://upload.wikimedia.org/wikipedia/commons/b/b2/Thomas_Cole_-_The_Architect%27s_Dream_(detail)_-_WGA05142.jpg){#fig:cole-detail .marginnote}
+](https://upload.wikimedia.org/wikipedia/commons/b/b2/Thomas_Cole_-_The_Architect%27s_Dream_(detail)_-_WGA05142.jpg){#fig:cole-detail .marginnote .stretch}
 
 <!--_,-->
 
@@ -58,7 +58,7 @@ de *crítica* --- ou seja, um produto que consiste em analisar o seu
 tema. No caso, ele analisa o modo como o arquiteto (@fig:cole-detail)
 organiza o repertório da tradição ocidental.
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6c/Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/df/a1/bd/dfa1bd27667e37db0e392fefe54fbd49.jpg"}
 
 Essa crítica é o cerne da pesquisa histórica contemporânea, mas ela
 produz, segundo o historiador britânico Stephen Bann, necessariamente
@@ -70,8 +70,6 @@ diversidade de estilos históricos, e sim o uso desses estilos numa
 composição tradicional integrada. O pintor alemão Leo von Klenze, alguns
 anos mais tarde, demonstraria justamente essa integração na sua série de
 pinturas arqueológicas de Atenas (@fig:klenze)
-
-## {data-background-image="https://i.pinimg.com/originals/df/a1/bd/dfa1bd27667e37db0e392fefe54fbd49.jpg"}
 
 ![[Leo von Klenze, Reconstituição da Acrópole e do Areópago em Atenas.
 Óleo sobre tela, 1846
@@ -89,10 +87,6 @@ objeto. Crítica e produção são ambas tarefas válidas e necessárias na
 disciplina da Arquitetura, mas elas são tarefas distintas entre si. Só a
 História da arquitetura tem os instrumentos para fazer crítica, e só o
 ofício da Arquitetura tem os instrumentos para ser operativa.
-
-## {data-background-image="https://i.pinimg.com/originals/5a/e8/89/5ae889bfade418e16e6176ef8b6bc015.jpg" data-background-opacity="0.7"}
-
-<!--_,-->
 
 Apesar disso, é tentador misturar as duas coisas. Uma grande parte da
 bibliografia produzida no século [XX]{.smallcaps} que, supostamente,
@@ -129,7 +123,7 @@ arquiteto profissional tem que dominar:
 > [a jurisprudência], ter conhecimento da astronomia e das orientações
 > da abóbada celeste. [@vitruvio:2007tratado, I, i]
 
-## {data-background-image="https://commons.wikimedia.org/wiki/File:Vitruvius.jpg" data-background-position="right"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a3/Vitruvius.jpg" data-background-position="right"}
 
 A descrição de Vitrúvio já massageou o ego de muitas gerações de
 arquitetos. Ela mostra um profissional culto, o que chamaríamos hoje de
@@ -159,7 +153,7 @@ pretensões humanistas do ensino de arquitetura dentro das universidades,
 que é o modelo dominante nas Américas desde a metade do século
 [XX]{.smallcaps}.
 
-## {#anacronismo data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Artemisia_Building_the_Mausolaeum_(Simon_Vouet)_-_Nationalmuseum_-_22229.tif/lossy-page1-3228px-Artemisia_Building_the_Mausolaeum_(Simon_Vouet)_-_Nationalmuseum_-_22229.tif.jpg"}
+## {#anacronismo data-background-image="https://i.pinimg.com/originals/69/ae/cd/69aecd8d3b8485b5d3a2f6e9f57d5757.jpg"}
 
 ![[Simon Vouet, Artemísia de Cária construindo o Mausoléu de
 Halicarnasso. Óleo sobre tela, início da década de 1640
@@ -206,7 +200,7 @@ resolver: qual é o lugar da História na Arquitetura, e em particular,
 para que serve o estudo da História da Arquitetura numa universidade que
 forma profissionais da Arquitetura (@fig:fauunb)?
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/cd/Faculdade_de_Arquitetura_(15250522572).jpg"}
+## {data-background-image="https://i.pinimg.com/originals/e7/10/18/e7101847dacd08ff815f0132c1672b32.jpg"}
 
 A única resposta possível a esta última pergunta é: [o estudo da
 História da Arquitetura serve para fazer história da
@@ -259,7 +253,7 @@ vídeo da palestra dele que está no link), Rocha Peixoto defende um
 ensino de História que desenvolva ao mesmo tempo o espírito da *crítica*
 em história e a imaginação *produtiva* da arquitetura.
 
-## {data-background-image="https://i.pinimg.com/originals/31/51/7d/31517d0db83fe18ee2633f0b88d60567.png"}
+## {.unlisted}
 
 Na prática, esse ensino, quando é bem conduzido, *alterna* entre a
 crítica e a formação de um repertório criativo. Na pior das hipóteses,
@@ -280,7 +274,7 @@ priori* sobre o objeto: novamente, nem crítica histórica do objeto e nem
 estudo criterioso do modelo tradicional.
 
 ![Ilustrações do artigo Matemática da *villa* ideal, de Colin Rowe
-](https://i.pinimg.com/originals/1d/5d/16/1d5d160374da50bedb25ff08921b6f06.png){#fig:math .fullwidth}
+](https://i.pinimg.com/originals/1d/5d/16/1d5d160374da50bedb25ff08921b6f06.png){#fig:math .fullwidth .stretch}
 
 ## {data-background-image="https://i.pinimg.com/originals/f2/25/06/f2250659750b854e374c9dbb76c7c6f0.jpg"}
 
@@ -303,7 +297,7 @@ espaços, tipologia edilícia e urbanização.
 
 # O que é arquitetura tradicional #
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1a/Saint-Germain_Paris_(44694722604).jpg"}
+## {data-background-image="https://i.pinimg.com/originals/83/f4/9a/83f49ab46c229567faa8b1791a1e1b72.jpg"}
 
 ![Vista de Paris com a torre Montparnasse ao fundo. Foto: [Bradley Weber
 (2017)
@@ -419,7 +413,7 @@ diversos. Esses edifícios semelhantes eram reunidos numa mesma prancha e
 desenhados na mesma escala, para serem usados como repertório de projeto
 (@fig:durand).
 
-## {data-background-image="https://i.pinimg.com/750x/8e/85/7a/8e857a698553421c3a156a8f54ceeac4.jpg" data-background-position="bottom"}
+## {data-background-image="https://i.pinimg.com/750x/8e/85/7a/8e857a698553421c3a156a8f54ceeac4.jpg"}
 
 ![↑ Paul Philippe Cret, estudo para um trono episcopal, École des
 Beaux-Arts, Paris (c. 1900)
@@ -555,8 +549,6 @@ modernismo representava não tanto a *criação* de um modo totalmente novo
 de fazer arquitetura, mas a *volta* de um modo correto de fazer --- e
 por que não de um modo *primordial*, segundo Giedion.
 
-## {data-background-image="https://i.pinimg.com/564x/c3/5b/b6/c35bb662a5796df1b548597efe4fdcbf.jpg"}
-
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5b/Decorated_cusped_gothic_window.jpg"}
 
 Só que esse modo de argumentar não nasceu com o modernismo; ele aparece
@@ -591,7 +583,7 @@ tradicional do trabalho como, também, a do canteiro gótico (@fig:spina),
 onde ele pode trabalhar com autonomia e criatividade. O construtor no
 canteiro, e não o arquiteto no seu escritório...
 
-## {data-background-image="https://www.thetimes.co.uk/imageserver/image/methode%2Ftimes%2Fprod%2Fweb%2Fbin%2Ffb937e60-b461-11e8-849b-d1a6cd5e8545.jpg?crop=1500,844,0,78"}
+## {data-background-image="https://i.pinimg.com/564x/c3/5b/b6/c35bb662a5796df1b548597efe4fdcbf.jpg"}
 
 ![David Watkin](https://i.pinimg.com/564x/c3/5b/b6/c35bb662a5796df1b548597efe4fdcbf.jpg){#fig:watkin .marginnote}
 
@@ -638,20 +630,20 @@ arquitetura tradicional da arquitetura moderna.
 [Agora já temos duas categorias]{.newthought} de argumentos discutindo a
 descontinuidade entre arquitetura tradicional e moderna.
 
-1. A primeira categoria se concentra nas diferenças de estilo. Ela tenta
-   mostrar que cada período histórico,
-   com o seu estilo característico, é uma singularidade absolutamente
-   inconciliável como qualquer outro período e estilo. Desse ponto de
-   vista, não existe continuidade entre o tradicional e o moderno, mas
-   tampouco existe *uma* arquitetura tradicional (@fig:styles).
+A primeira categoria se concentra nas diferenças de estilo. Ela tenta
+mostrar que cada período histórico, com o seu estilo característico, é
+uma singularidade absolutamente inconciliável como qualquer outro
+período e estilo. Desse ponto de vista, não existe continuidade entre o
+tradicional e o moderno, mas tampouco existe *uma* arquitetura
+tradicional (@fig:styles).
 
 ## {data-background-image="https://i.pinimg.com/originals/d9/bb/29/d9bb2905f0badbf972fcaf555c7ca012.jpg"}
 
-2. A segunda categoria se concentra nas diferenças de processo
-   produtivo. Ela prioriza uma clivagem fundamental entre a construção
-   artesanal das tradições e a construção moderna, que separa a
-   concepção da execução e, no fim da linha, atomiza ao extremo o
-   próprio processo produtivo da obra (@fig:supply).
+A segunda categoria se concentra nas diferenças de processo produtivo.
+Ela prioriza uma clivagem fundamental entre a construção artesanal das
+tradições e a construção moderna, que separa a concepção da execução e,
+no fim da linha, atomiza ao extremo o próprio processo produtivo da obra
+(@fig:supply).
 
 ![↑ Luke Blackamore, História da arquitetura](https://i.pinimg.com/originals/46/dd/6b/46dd6b492c28e5b07507d50485aa70d1.jpg){#fig:styles .marginnote}
 
@@ -705,7 +697,7 @@ décima sexta edição, em 1961 (@fig:treearch). A capacidade que o
 ecletismo tem de trabalhar com as tradições estéticas de todo o mundo e
 de todos os tempos é resultado precisamente da sua própria modernidade.
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f5/Grand_Central_Terminal_MetLife_Building_Park_Ave_viaduct_Summer_Streets.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f5/Grand_Central_Terminal_MetLife_Building_Park_Ave_viaduct_Summer_Streets.jpg" data-background-position="bottom"}
 
 E para completar o paradoxo: apesar de o modernismo rejeitar
 ideologicamente a estética do ecletismo acadêmico, do ponto de vista dos
@@ -713,6 +705,8 @@ ideologicamente a estética do ecletismo acadêmico, do ponto de vista dos
 instituições, inclusive de ensino, que produzem arquitetos e construções
 --- o modernismo é uma continuação do sistema Beaux-Arts com muito pouca
 ruptura.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f5/Grand_Central_Terminal_MetLife_Building_Park_Ave_viaduct_Summer_Streets.jpg"}
 
 Um exemplo dessa continuidade tecnológica é o edifício acadêmico do
 Grand Central Terminal em Nova York, que foi construído na primeira
@@ -761,11 +755,11 @@ Marville, c. 1853--1870
 ](https://commons.wikimedia.org/wiki/File:Charles_Marville,_Boulevard_Haussmann,_de_la_rue_Miromesnil,_ca._1853–70.jpg)
 ](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Charles_Marville,_Boulevard_Haussmann,_de_la_rue_Miromesnil,_ca._1853–70.jpg/1280px-Charles_Marville,_Boulevard_Haussmann,_de_la_rue_Miromesnil,_ca._1853–70.jpg){#fig:haussmann}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/cc/A_visitor_in_the_Louvre_Museum%2C_Paris_27_April_2013.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/cc/A_visitor_in_the_Louvre_Museum,_Paris_27_April_2013.jpg"}
 
 ![Um visitante no museu do Louvre. Foto: [Jon Westra, 2013
 ](https://commons.wikimedia.org/wiki/File:A_visitor_in_the_Louvre_Museum,_Paris_27_April_2013.jpg)
-](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/A_visitor_in_the_Louvre_Museum%2C_Paris_27_April_2013.jpg/1280px-A_visitor_in_the_Louvre_Museum%2C_Paris_27_April_2013.jpg){#fig:gallery}
+](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/A_visitor_in_the_Louvre_Museum,_Paris_27_April_2013.jpg/1280px-A_visitor_in_the_Louvre_Museum,_Paris_27_April_2013.jpg){#fig:gallery}
 
 O historiador da literatura Hans Robert Jauss se apoia no poeta francês
 do século [XIX]{.smallcaps} Charles Baudelaire e no filósofo alemão do
@@ -787,10 +781,12 @@ processo, o que encontramos foi uma transição gradual e não uma ruptura
 nítida. Afinal, como diz o historiador da arquitetura brasileiro Gustavo
 Rocha-Peixoto (@fig:gustavo),
 
+## {data-background-image="https://i.pinimg.com/originals/74/b9/d6/74b9d62e813acc18601b3ab89020716e.jpg" data-background-position="left" data-background-opacity="0.5"}
+
 > [...] no fundo, a história não passa de uma grande e única transição.
 > [@rochapeixoto:2013estrategia, 41]
 
-## {data-background-image="https://congress.intbau.org/session-2/"}
+## {data-background-image="https://i.pinimg.com/originals/93/6f/bd/936fbd07609637b47ab0aacef765431e.jpg"}
 
 [A diferença entre a arquitetura tradicional e a moderna]{.newthought},
 como acabamos de ver, *não consiste* na rejeição ou na adoção de algum
@@ -818,7 +814,7 @@ Pequim, 2004--2013. Foto: [Arup
 
 # Arquitetura é construção #
 
-## {data-background-image="https://commons.wikimedia.org/wiki/File:Vitruvius.jpg" data-background-position="right" data-background-opacity="0.7"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a3/Vitruvius.jpg" data-background-position="right" data-background-opacity="0.7"}
 
 Este curso começa explorando os três princípios da arquitetura:
 construção, espacialidade e plástica. A divisão da arquitetura nessas
@@ -828,6 +824,7 @@ volta do ano 15 a.C. [@vitruvio:2007tratado, I, iii]:
 . . .
 
 Firmitas
+
 : Solidez da construção, tanto na realidade quanto na segurança visual
   que ela transmite. Durabilidade e sustentabilidade dos processos
   construtivos.
@@ -835,6 +832,7 @@ Firmitas
 . . .
 
 Utilitas
+
 : Funcionalidade dos espaços arquitetônicos, considerando a sua
   resiliência diante das inevitáveis mudanças de uso que ocorrem no
   longo prazo.
@@ -842,10 +840,11 @@ Utilitas
 . . .
 
 Venustas
+
 : Geralmente traduzida como beleza ou agrado, inclui também a adequação
   visual de uma construção ao seu propósito social mais amplo.
 
-## {data-background-image="https://congress.intbau.org/session-2/"}
+## {data-background-image="https://i.pinimg.com/originals/93/6f/bd/936fbd07609637b47ab0aacef765431e.jpg"}
 
 Cada um desses princípios é a base para uma categoria de definições
 muito difundidas da arquitetura; você certamente já ouviu falar em
@@ -890,7 +889,7 @@ construção, mas é ela própria a expressão da lógica construtiva:
 
 Começamos com isso, portanto:
 
-## {data-background-image="https://i.pinimg.com/originals/69/0a/5d/690a5d97e23daa90a3c438c78dfafb3d.jpg" data-background-opacity="0.7"}
+## {data-background-image="https://i.pinimg.com/originals/69/0a/5d/690a5d97e23daa90a3c438c78dfafb3d.jpg" data-background-opacity="0.5"}
 
 ### Arquitetura é construção. ###
 
@@ -1022,7 +1021,7 @@ reproduzem a *alienação* do trabalho porque usam processos
 predominantemente industrializados, a começar pelo concreto armado
 (@fig:boris).
 
-## {data-background-image="https://congress.intbau.org/session-2/"}
+## {data-background-image="https://i.pinimg.com/originals/93/6f/bd/936fbd07609637b47ab0aacef765431e.jpg"}
 
 [Nossa primeira aproximação]{.newthought} ao estudo da arquitetura
 tradicional dividiu o campo da arquitetura em três princípios:
@@ -1229,7 +1228,7 @@ dominante.
 ----
 
 1. [Tendas]{.smallcaps}: Estruturas tensionadas, com peles ou tecidos
-   estendidos sobre armações leves;
+   estendidos sobre armações leves;  
    ![](https://i.pinimg.com/originals/42/e7/61/42e7616e2c97a4ae22575c2c9cdad71f.jpg)
 
 ----
@@ -1245,6 +1244,8 @@ dominante.
    ![](https://i.pinimg.com/originals/bd/1d/5d/bd1d5d1e92e67705dbdad67cf81e309f.jpg)
 
 ----
+
+## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
 Esses tipos foram idealizados por dois arquitetos do final do século
 [XVIII]{.smallcaps}, o britânico William Chambers (@fig:huts) e o
