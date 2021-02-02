@@ -19,13 +19,13 @@ standalone      : true
 toc             : true
 toc-depth       : 1
 variables:
-  css           : "/tau0005/assets/css/slide.css"
+  css           : "../assets/css/slide.css"
   controls      : false
   hash          : true
   hashOneBasedIndex: true
   height        : 1080
   width         : 1920
-  progress      : true
+  progress      : false
   revealjs-url  : "../reveal.js"
   title-slide-attributes:
     data-background-image: https://upload.wikimedia.org/wikipedia/commons/3/33/Cole_Thomas_The_dream_of_the_architect_210_Sun_Unedited.jpg

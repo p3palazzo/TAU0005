@@ -1,3 +1,5 @@
+@import "settings";
+
 body {
   margin-top: 0;
 }
@@ -18,11 +20,11 @@ dd {
   margin: 0;
 }
 
-em, strong,
+em, i, strong, b,
 p.subtitle,
 .epigraph > blockquote > p,
 .epigraph > blockquote > footer {
-  font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  font-family: $mainFont;
 }
 
 figcaption {
@@ -125,9 +127,6 @@ div.csl-bib-body {
 .csl-entry {
   @extend p;
   margin: 0;
-  i {
-    font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-  }
 }
 
 .marginnote {
