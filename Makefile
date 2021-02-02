@@ -17,11 +17,8 @@ PANDOC/LATEX    := docker run --user "`id -u`:`id -g`" \
 	pandoc/latex:2.11.3.2
 JEKYLL-PANDOC   := palazzo/jekyll-tufte:4.2.0
 
-deploy : _site .slides
-
-manual :
-	@-rm -rf _site
-	@gh repo clone tau0005 _site -- -b gh-pages --depth=1
+manual : $(MARKDOWN) README.md $(SASS) $(AULAS) \
+	assets _config.yaml _spec/html.yaml _site .slides | _csl
 	@bundle install && bundle exec jekyll build
 
 tau0005.pdf : plano.pdf cronograma.pdf \
@@ -29,11 +26,14 @@ tau0005.pdf : plano.pdf cronograma.pdf \
 	gs -dNOPAUSE -dBATCH -sDevice=pdfwrite \
 		-sOutputFile=$@ $^
 
-.slides : $(SLIDES) | _site/slides
+.slides : $(SLIDES) revealjs.yaml | _site _csl
 
-_site : $(MARKDOWN) $(AULAS) _config.yaml assets _spec | _csl
-	docker run -v "`pwd`:/srv/jekyll" \
-		$(JEKYLL-PANDOC) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+_site :
+	@gh repo clone tau0005 _site -- -b gh-pages --depth=1 --recurse-submodules \
+		|| cd _site && git pull
+
+	#docker run -v "`pwd`:/srv/jekyll" \
+		#$(JEKYLL-PANDOC) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
 _site/slides/%.html : _aula/%.md revealjs.yaml biblio.bib | _csl _site/slides
 	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
@@ -47,9 +47,11 @@ _site/slides/%.html : _aula/%.md revealjs.yaml biblio.bib | _csl _site/slides
 	$(PANDOC/LATEX) -o $@ -d _spec/latex.yaml $<
 
 serve : .slides
-	docker run -p 4000:4000 -h 127.0.0.1 \
-		-v "`pwd`:/srv/jekyll" -it $(JEKYLL-PANDOC) \
-		jekyll serve --skip-initial-build --no-watch
+	@bundle exec jekyll serve
+
+	#docker run -p 4000:4000 -h 127.0.0.1 \
+		#-v "`pwd`:/srv/jekyll" -it $(JEKYLL-PANDOC) \
+		#jekyll serve --skip-initial-build --no-watch
 
 _csl :
 	git clone https://github.com/citation-style-language/styles.git _csl

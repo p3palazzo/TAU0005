@@ -8,7 +8,7 @@ description: >-
   condicionantes sociais, econômicos e políticos, desde os primórdios da
   civilização até o gótico.
 baseurl: "/tau0005"
-url: "https://p3palazzo.github.io"
+url: "https://palazzo.arq.br"
 lang: pt-BR
 include_before: |
   <div class="site-title">
@@ -79,9 +79,9 @@ plugins:
 exclude:
   - LICENSE
   - Makefile
-  - biblio.bib
   - outcomes.csv
   - reveal.js
+  - "*.bib"
   - "default.*"
   - "*.fdb_latexmk"
   - "*.run.xml"
