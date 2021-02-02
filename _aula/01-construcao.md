@@ -1,5 +1,5 @@
 ---
-title   : "Firmitas"
+title   : "Teoria da construção tradicional"
 author  : "Pedro P. Palazzo"
 abstract: |
   História e arquitetura tradicional
@@ -1472,6 +1472,9 @@ história.
 gregos e os automóveis do início do século [XX]{.smallcaps}
 ](https://i.pinimg.com/originals/94/9c/0e/949c0ebc1c773100b91ec38aa84dd32a.jpg){#fig:temple-auto}
 
+# Referências {.allowframebreaks}
+
+<!--
 
 # {.unlisted}
 
@@ -1511,3 +1514,4 @@ Scribner’s sons, 1905.
 <a href="http://archive.org/details/historyofarchite00flet"
 target="_blank"> http://archive.org/details/historyofarchite00flet </a>
 
+-->
