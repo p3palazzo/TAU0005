@@ -11,8 +11,9 @@
 
 @font-face { font-family: "et-book-roman-old-style"; src: url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot"); src: url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot?#iefix") format("embedded-opentype"), url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.woff") format("woff"), url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.ttf") format("truetype"), url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.svg#etbookromanosf") format("svg"); font-weight: normal; font-style: normal; font-display: swap; }
 
+/* @mixin bodyBackground() { background: $backgroundColor; } */
 /********************************************* GLOBAL STYLES */
-:root { --background-color: #faecd6; --main-font: et-book, Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif; --main-font-size: 36px; --main-color: #284368; --block-margin: 20px; --heading-margin: 0 0 20px 0; --heading-font: Trajan Pro, Source Serif Pro, Georgia serif; --heading-color: #284368; --heading-line-height: 1.2; --heading-letter-spacing: normal; --heading-text-transform: uppercase; --heading-text-shadow: none; --heading-font-weight: normal; --heading1-text-shadow: none; --heading1-size: 2em; --heading2-size: 1.6em; --heading3-size: 1.3em; --heading4-size: 1em; --code-font: monospace; --link-color: #9f613b; --link-color-hover: #c58762; --selection-background-color: #d2a487; --selection-color: #fff; }
+:root { --background-color: #faecd6; --main-font: et-book, Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif; --main-font-size: 36px; --main-color: #284368; --block-margin: 20px; --heading-margin: 0 0 20px 0; --heading-font: Trajan Pro, Georgia, Liberation Serif, serif; --heading-color: #284368; --heading-line-height: 1.2; --heading-letter-spacing: normal; --heading-text-transform: uppercase; --heading-text-shadow: none; --heading-font-weight: normal; --heading1-text-shadow: none; --heading1-size: 2em; --heading2-size: 1.6em; --heading3-size: 1.3em; --heading4-size: 1em; --code-font: monospace; --link-color: #9f613b; --link-color-hover: #c58762; --selection-background-color: #d2a487; --selection-color: #fff; }
 
 .reveal-viewport { background: #faecd6; background-color: #faecd6; }
 
@@ -25,7 +26,7 @@
 .reveal .slides section, .reveal .slides section > section { line-height: 1.3; font-weight: inherit; }
 
 /********************************************* HEADERS */
-.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 { margin: 0 0 20px 0; color: #284368; font-family: "Trajan Pro", "Source Serif Pro", Georgia serif; font-weight: normal; line-height: 1.2; letter-spacing: normal; text-transform: uppercase; text-shadow: none; word-wrap: break-word; }
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 { margin: 0 0 20px 0; color: #284368; font-family: "Trajan Pro", Georgia, "Liberation Serif", serif; font-weight: normal; line-height: 1.2; letter-spacing: normal; text-transform: uppercase; text-shadow: none; word-wrap: break-word; }
 
 .reveal h1 { font-size: 2em; }
 
@@ -127,13 +128,13 @@ html { block-margin: 0; }
 
 .smallcaps { font-weight: bold; font-variant: small-caps; text-transform: lowercase; }
 
-.reveal h1, .reveal h2 { font-family: "Trajan Pro", "Source Serif Pro", Georgia serif; font-weight: normal; }
+.reveal h1, .reveal h2 { font-family: "Trajan Pro", Georgia, "Liberation Serif", serif; font-weight: normal; }
 
 .reveal section.has-dark-background, .reveal section#title-slide { text-shadow: 0 0 20px #294469; }
 
-.reveal section.has-dark-background, .reveal section.has-dark-background h1, .reveal section.has-dark-background h2, .reveal section.has-dark-background h3, .reveal section.has-dark-background h4, .reveal section.has-dark-background h5, .reveal section.has-dark-background h6, .reveal section#title-slide, .reveal section#title-slide h1, .reveal section#title-slide h2, .reveal section#title-slide h3, .reveal section#title-slide h4, .reveal section#title-slide h5, .reveal section#title-slide h6 { color: #f4dcb4; text-shadow: 0 0 20px #294469, 0 0 10px #294469; font-family: "Trajan Pro", "Source Serif Pro", Georgia serif; font-weight: normal; }
+.reveal section.has-dark-background, .reveal section.has-dark-background h1, .reveal section.has-dark-background h2, .reveal section.has-dark-background h3, .reveal section.has-dark-background h4, .reveal section.has-dark-background h5, .reveal section.has-dark-background h6, .reveal section#title-slide, .reveal section#title-slide h1, .reveal section#title-slide h2, .reveal section#title-slide h3, .reveal section#title-slide h4, .reveal section#title-slide h5, .reveal section#title-slide h6 { color: #f4dcb4; text-shadow: 0 0 20px #294469, 0 0 10px #294469; font-family: "Trajan Pro", Georgia, "Liberation Serif", serif; font-weight: normal; }
 
-.reveal section.has-dark-background p.subtitle, .reveal section.has-dark-background p.author, .reveal section.has-dark-background p.date, .reveal section#title-slide p.subtitle, .reveal section#title-slide p.author, .reveal section#title-slide p.date { font-family: "Trajan Pro", "Source Serif Pro", Georgia serif; font-weight: normal; text-transform: uppercase; }
+.reveal section.has-dark-background p.subtitle, .reveal section.has-dark-background p.author, .reveal section.has-dark-background p.date, .reveal section#title-slide p.subtitle, .reveal section#title-slide p.author, .reveal section#title-slide p.date { font-family: "Trajan Pro", Georgia, "Liberation Serif", serif; font-weight: normal; text-transform: uppercase; }
 
 .reveal section.has-dark-background .author img, .reveal section#title-slide .author img { height: 1em; max-height: 75px; filter: invert(88%) sepia(29%) saturate(355%) hue-rotate(339deg) brightness(100%) contrast(92%); -webkit-filter: invert(88%) sepia(29%) saturate(355%) hue-rotate(339deg) brightness(100%) contrast(92%); }
 
@@ -141,7 +142,7 @@ html { block-margin: 0; }
 
 .reveal section div.fragment * { background: transparent; }
 
-.reveal section dt, .reveal section h3, .reveal section h4, .reveal section h5 { font-family: "Trajan Pro", "Source Serif Pro", Georgia serif; font-size: 1.6em; font-variant: small-caps; font-weight: normal; text-transform: lowercase; }
+.reveal section dt, .reveal section h3, .reveal section h4, .reveal section h5 { font-family: "Trajan Pro", Georgia, "Liberation Serif", serif; font-size: 1.6em; font-variant: small-caps; font-weight: normal; text-transform: lowercase; }
 
 .reveal section p, .reveal section dd, .reveal section figure { display: none; visibility: hidden; }
 
