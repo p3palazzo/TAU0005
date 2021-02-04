@@ -1222,8 +1222,8 @@ Architecture*, 1759
 ](https://i.pinimg.com/originals/cf/1a/f5/cf1af57c2e6422122e18196f92629e29.jpg){#fig:huts .marginnote}
 
 [As culturas construtivas tradicionais]{.newthought} podem ser agrupadas
-em três tipos genéricos de acordo com o seu sistema estrutural
-dominante.
+em três tipos genéricos de acordo com o seu sistema estrutural dominante
+(@fig:huts).
 
 ----
 
@@ -1245,13 +1245,22 @@ dominante.
 
 ----
 
-## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
+## {data-background-image=""}
 
 Esses tipos foram idealizados por dois arquitetos do final do século
-[XVIII]{.smallcaps}, o britânico William Chambers (@fig:huts) e o
-francês Quatremère de Quincy, que também inventou os nomes alegóricos de
-tenda, cabana e caverna [@chambers:1759treatise;
+[XVIII]{.smallcaps}, o britânico William Chambers (@fig:chambers) e o
+francês Quatremère de Quincy (@fig:4mere), que também inventou os nomes
+alegóricos de tenda, cabana e caverna [@chambers:1759treatise;
 @quatremere:1788caractere].
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Antoine Chrysosthome Quatremère de Quincy, retrato oficial da Câmara dos deputados](https://i.pinimg.com/originals/c1/99/e9/c199e9c3a28f036d51afc198a66049ad.jpg){#fig:4mere .stretch}
+:::
+::: {.column width=50%}
+![Sir William Chambers, retrato pintado por [Joshua Reynolds](https://commons.wikimedia.org/wiki/File:Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg/797px-Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg){#fig:chambers .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/11/90/26/11902632c1be685033a5d566ce227f6f.jpg"}
 
