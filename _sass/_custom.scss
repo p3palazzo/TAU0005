@@ -50,8 +50,18 @@ h5 {
   line-height: 1.2em;
 }
 
+div.incremental,
 header > div.epigraph {
   width: 55%;
+}
+
+div.columns {
+	clear:both;
+	width: 90%;
+}
+
+div.column {
+	float: left;
 }
 
 hr {
@@ -134,6 +144,7 @@ div.csl-bib-body {
 }
 
 @media (max-width: 760px) {
+  div.incremental,
   header > div.epigraph,
   dl,
   figure > img.fullwidth,
