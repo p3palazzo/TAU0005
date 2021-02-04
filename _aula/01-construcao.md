@@ -891,25 +891,25 @@ Começamos com isso, portanto:
 
 ## {data-background-image="https://i.pinimg.com/originals/69/0a/5d/690a5d97e23daa90a3c438c78dfafb3d.jpg" data-background-opacity="0.5"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+
 ### Arquitetura é construção. ###
 
-. . .
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.epigraph}
+::: {.epigraph}
 > Corolário 1: os objetos arquitetônicos são objetos da construção; o
 > ofício da arquitetura é lidar com objetos da construção --- imaginar,
 > realizar e estudar esses objetos; o espaço arquitetônico é aquele
 > delimitado por construções; a função social da arquitetura está no
 > modo como ela põe em prática as relações produtivas e ideológicas da
 > sociedade.
+:::
+
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Makoto Fukada, mestre carpinteiro, residência tradicional japonesa,
 século [XXI]{.smallcaps}. [Seyseysha
 ](http://www.seyseysha.com/en/about/index.html)
 ](https://i.pinimg.com/originals/69/0a/5d/690a5d97e23daa90a3c438c78dfafb3d.jpg){#fig:seyseysha .fullwidth}
-
- 
 
 ## {data-background-image="https://i.pinimg.com/originals/26/c0/3a/26c03a3fc470135f54a8bc96e0e8d474.jpg"}
 
@@ -1215,6 +1215,173 @@ agora, é feita para durar.
 ](https://agenciabrasil.ebc.com.br/geral/noticia/2018-03/trecho-de-viaduto-que-desabou-no-centro-de-brasilia-sera-demolido)
 ](https://i.pinimg.com/originals/98/98/4b/98984b91cb9e6627a34e0e7f1d5632ca.jpg){#fig:eixao}
 
+## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm" data-background-video-loop="true" data-background-video-muted="true"}
+
+![Manufatura de tijolos em Qom, Irã. [Oxlaey, 2015
+](https://commons.wikimedia.org/wiki/File:BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm)
+](https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm){#fig:qombrick
+width=100%}
+
+Dito de modo mais tangível: como a cadeia produtiva da construção
+tradicional é predominantemente local e regional, o processamento dos
+materiais de construção tende a ser mais simples, menos intenso e,
+claro, menos industrializado. A manufatura de tijolos moldados
+individualmente, como nesta olaria em Qom, no Irã (@fig:qombrick),
+resulta em produtos visualmente parecidos com os tijolos extrudados
+industrialmente, mas as suas propriedades são totalmente diferentes.
+
+## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm" data-background-video-loop="true" data-background-video-muted="true" data-background-opacity="0.25"}
+
+As propriedades mais importantes da construção tradicional que decorrem
+desses processos artesanais são:
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+Sistemas construtivos redundantes
+
+: cumprindo mais de uma função --- sustentação vertical,
+  contraventamento, isolamento térmico e acústico...
+
+Flexibilidade da construção como um todo
+
+: permite acomodar assentamento e movimentação sem necessidade de
+  juntas.
+
+Manutenção componente a componente
+
+: sem necessidade de substituição de sistemas inteiros na maior parte
+  dos casos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/11/90/26/11902632c1be685033a5d566ce227f6f.jpg"}
+
+Essas três propriedades reforçam duas características centrais do
+processo construtivo tradicional: o domínio local sobre quase todas as
+técnicas e cadeias produtivas da construção e a preferência por
+estruturas que trabalham à compressão. Essas duas características
+funcionam em conjunto, como na construção das abóbadas em tijolos leves
+que são um dos sistemas mais difundidos no sul e no oeste da Ásia
+(@fig:sharaman).
+
+<figure class="iframe-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/Ipz6u_24e8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+  </iframe>
+</figure>
+
+::: {#fig:sharaman .subfigures}
+Construção de abóbada de tijolos em Puducherry, Índia
+:::
+
+## {data-background-image="https://i.pinimg.com/originals/86/14/15/861415e6e77de024114ba3a6fcd3b76a.jpg"}
+
+![Frontispício do livro *Origem e fundamentos da desigualdade entre os
+homens*, de Jean-Jacques Rousseau, 1755
+](https://i.pinimg.com/originals/86/14/15/861415e6e77de024114ba3a6fcd3b76a.jpg){#fig:inegalite}
+
+[Depois dessa primeira aproximação]{.newthought} ao que é arquitetura
+tradicional, é importante fazer algumas ressalvas sobre o que
+arquitetura tradicional *não é*. A arquitetura tradicional não é uma
+projeção invertida da arquitetura moderna, e acima de tudo não é uma
+projeção dos desejos e fetiches culturalistas do pensamento ocidental
+moderno. Esses desejos costumam implicar uma inversão de valores que tem
+o seu auge no Iluminismo europeu do século [XVIII]{.smallcaps}, com a
+alegoria do "bom selvagem" imaginada pelo filósofo suíço Jean-Jacques
+Rousseau (@fig:inegalite).
+
+## {data-background-image="https://i.pinimg.com/originals/8e/a1/fb/8ea1fb4e8492fef21faf593de731b445.jpg"}
+
+Essa fantasia europeia pretendia substituir a história bíblica do jardim
+do Éden (@fig:eden) por um milenarismo secular centrado no *combo*
+sociedade igualitária--posse coletiva dos bens e da tecnologia--vida em
+harmonia com a natureza. Ela inspirou movimentos socialistas como a vila
+de New Harmony, fundada pelo industrial escocês Robert Owen em 1824 no
+interior dos Estados Unidos (@fig:harmony), e o o romance utópico *News
+from Nowhere* do arquiteto Arts and Crafts inglês William Morris
+(@fig:nowhere).
+
+![Jan Brueghel, o velho, Jardim do Éden, óleo sobre madeira, c. 1610--1612.
+[Acervo museu Thyssen--Bornemisza, Madri
+](https://www.museothyssen.org/en/collection/artists/brueghel-jan-elder/garden-eden)
+](https://i.pinimg.com/originals/8e/a1/fb/8ea1fb4e8492fef21faf593de731b445.jpg){#fig:eden}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/eb/New_Harmony,_Indiana,_por_F._Bates.jpg"}
+
+![Vista do projeto de New Harmony, Estados Unidos, idealizado em 1824
+por Robert Owen. Gravura: [F. Bate, 1838
+](https://commons.wikimedia.org/wiki/File:New_Harmony,_Indiana,_por_F._Bates.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/e/eb/New_Harmony,_Indiana,_por_F._Bates.jpg){#fig:harmony .fullwidth}
+
+## {data-background-image="https://i.pinimg.com/originals/4d/91/6d/4d916d930ba0a0cb67def8a9ee6fda87.jpg"}
+
+![Primeira página dupla do livro *News from Nowhere*, escrito e
+ilustrado por William Morris [(London: Hammersmith, 1892)
+](https://www.bl.uk/collection-items/news-from-nowhere-by-william-morris)
+](https://i.pinimg.com/originals/4d/91/6d/4d916d930ba0a0cb67def8a9ee6fda87.jpg){#fig:nowhere}
+
+## {.unlisted}
+
+A utopia tradicionalista do Iluminismo tem como contrapartida uma visão
+colonialista e, no fim das contas, racista de sociedades não ocidentais
+como sendo "primitivas" (@fig:tylor). As culturas que foram chamadas de
+"tradicionais" pelos europeus do século [XIX]{.smallcaps} e
+[XX]{.smallcaps} eram descritas pelos antropólogos como sociedades
+desprovidas de história: elas estariam presas numa espécie de "eterno
+presente" das origens da humanidade, repercutido no argumento de 1957 do
+historiador da arquitetura Sigfried Giedion (@fig:eternal).
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Capa de reedição recente do livro de E. B. Tylor, *Primitive Culture*, 1871](https://i.pinimg.com/564x/83/56/8a/83568acdf269a0217d77645162145cdf.jpg){#fig:tylor .stretch}
+:::
+::: {.column width=50%}
+![Capa do livro *The Eternal Present*, baseado na série de palestras de 1957 de Sigfried Giedion ](https://i.pinimg.com/564x/c4/d7/e4/c4d7e4880285ffb4dc2aa275e3c56077.jpg){#fig:eternal .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/a2/c6/92/a2c692edb6ef0b76a966a6d7b51b6dbf.jpg" data-background-position="top"}
+
+Caracterizar a arquitetura tradicional como sendo um produto de
+sociedades sem história e sem progresso tecnológico nos leva de um erro
+interpretativo para outro, que, este, é mais específico ao domínio da
+história da arquitetura. A polarização entre arquitetura "não histórica"
+e arquitetura "histórica" [@fletcher:1905history] reforça um viés
+evolucionista que está no centro das grandes narrativas convencionais em
+História da arte (ver @fig:treearch).
+
+## {data-background-image="https://i.pinimg.com/originals/2e/87/30/2e8730f7f9488b03edf17ff565d7bb22.jpg"}
+
+![Diagramas de casas vernáculas, c. 1900
+](https://i.pinimg.com/originals/2e/87/30/2e8730f7f9488b03edf17ff565d7bb22.jpg){#fig:vern1900 .marginnote .stretch}
+
+Na maioria dos livros-texto de História da arte e da arquitetura até
+hoje, esse viés fica bem evidente na distinção entre culturas artísticas
+eruditas e culturas vernáculas. Arquiteturas *históricas* são aquelas
+que se caracterizam, na narrativa, pela transformação ao longo do tempo,
+uma transformação impulsionada pelos grandes monumentos eruditos da
+Europa. Essa arquitetura erudita da Europa tem, geralmente, nome e
+sobrenome, com artistas ou, no mínimo, mecenas que se destacam pela sua
+contribuição para as inovações artísticas. Em contraste, as tradições
+vernáculas, tanto na Europa quanto em outras regiões do mundo, são
+relegadas a um segundo plano como um substrato cultural que (quase)
+nunca muda (@fig:vern1900), e pode ser liquidado em um ou dois capítulos
+*pro forma*.
+
+## {data-background-image=""}
+
+Essa narrativa apresenta a arquitetura vernácula como uma cultura
+construtiva que não está apenas *parada no tempo*, mas que, além disso,
+existe num plano cultural e tecnológico totalmente separado da
+arquitetura erudita que *evolui no tempo*. Só que essa separação não
+existe na realidade, pelo menos não antes da industrialização da
+arquitetura moderna. Os sistemas e os processos construtivos da
+arquitetura vernácula são em grande parte os mesmos usados na
+arquitetura erudita de cada região. No máximo, dentro do inventário de
+materiais e técnicas disponíveis, a arquitetura erudita tende a
+privilegiar os mais sólidos e duráveis, que são também mais caros. Mas
+nem sempre essa distinção material é muito evidente --- o mais comum é a
+diferença estar no rigor geométrico e decorativo das construções.
+
+# Construção arquitravada e o mito da cabana primitiva #
+
 ## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
 ![Cabanas primitivas segundo William Chambers, *A Treatise on Civil
@@ -1245,8 +1412,6 @@ em três tipos genéricos de acordo com o seu sistema estrutural dominante
 
 ----
 
-## {data-background-image=""}
-
 Esses tipos foram idealizados por dois arquitetos do final do século
 [XVIII]{.smallcaps}, o britânico William Chambers (@fig:chambers) e o
 francês Quatremère de Quincy (@fig:4mere), que também inventou os nomes
@@ -1261,14 +1426,6 @@ alegóricos de tenda, cabana e caverna [@chambers:1759treatise;
 ![Sir William Chambers, retrato pintado por [Joshua Reynolds](https://commons.wikimedia.org/wiki/File:Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg/797px-Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg){#fig:chambers .stretch}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/11/90/26/11902632c1be685033a5d566ce227f6f.jpg"}
-
-::::::::::::::::::::::::::::: {#fig:sharaman .iframe-wrapper .fullwidth}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Ipz6u_24e8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-# Construção arquitravada e o mito da cabana primitiva #
 
 # Construção murária--arqueada e a criação do espaço #
 
