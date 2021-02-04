@@ -4,22 +4,6 @@ body {
   margin-top: 0;
 }
 
-blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote {
-  margin-right: -70%;
-}
-
-dl {
-  font-size: 1.4rem;
-  width: 55%;
-  dt {
-    line-height: 1.4em;
-  }
-}
-
-dd {
-  margin: 0;
-}
-
 em, i, strong, b,
 p.subtitle,
 .epigraph > blockquote > p,
@@ -27,12 +11,25 @@ p.subtitle,
   font-family: $mainFont;
 }
 
-figcaption {
-  max-width: 50%;
+blockquote > p {
+  & > span.citation > span.sidenote-wrapper > span.sidenote {
+    margin-right: -70%;
+    font-family: $mainFont;
+  }
 }
 
-h2 > em {
-  font-style: normal;
+section > dl {
+  font-size: 1.4rem;
+  dt {
+    line-height: 1.4em;
+  }
+  dd {
+    margin: 0;
+  }
+}
+
+figcaption {
+  max-width: 50%;
 }
 
 dt, h4, h5 {
@@ -46,22 +43,21 @@ dt, h5 {
   padding-bottom: 0;
 }
 
+h2 {
+  em {
+      font-style: normal;
+    }
+}
+
 h5 {
   line-height: 1.2em;
 }
 
+section > details,
+section > dl,
 div.incremental,
 header > div.epigraph {
   width: 55%;
-}
-
-div.columns {
-	clear:both;
-	width: 90%;
-}
-
-div.column {
-	float: left;
 }
 
 hr {
@@ -72,6 +68,10 @@ hr {
   &::before {
     content: "* * *";
   }
+}
+
+ol, ul {
+  margin-left: -2.5rem;
 }
 
 p,
@@ -115,10 +115,6 @@ p > span.newthought {
   font-size: 1em;
 }
 
-details {
-  width: 55%;
-}
-
 /* Fixes for pandoc-crossref */
 figure > figcaption {
   @extend .marginnote;
@@ -127,6 +123,21 @@ figure > figcaption {
 figure > img.fullwidth {
   clear: both;
   max-width: 164%;
+}
+
+/* Fixes for reveal.js elements */
+div.columns {
+	clear:both;
+	width: 90%;
+  div.column {
+    float: left;
+  }
+}
+
+#refs,
+.allowframebreaks {
+  display: none;
+  visibility: hidden;
 }
 
 /* Fixes for Zotero export to HTML */
