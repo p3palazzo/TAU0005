@@ -281,31 +281,33 @@ a.sourceLine::before { text-decoration: none; }
 /* @mixin bodyBackground() { background: $backgroundColor; } */
 body { margin-top: 0; }
 
-blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote { margin-right: -70%; }
-
-dl { font-size: 1.4rem; width: 55%; }
-
-dl dt { line-height: 1.4em; }
-
-dd { margin: 0; }
-
 em, i, strong, b, p.subtitle, .subtitle.csl-entry, .epigraph > blockquote > p, .epigraph > blockquote > .csl-entry, .epigraph > blockquote > footer { font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
 
-figcaption { max-width: 50%; }
+blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote { margin-right: -70%; font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
 
-h2 > em { font-style: normal; }
+section > dl, div.csl-bib-body > dl { font-size: 1.4rem; }
+
+section > dl dt, div.csl-bib-body > dl dt { line-height: 1.4em; }
+
+section > dl dd, div.csl-bib-body > dl dd { margin: 0; }
+
+figcaption { max-width: 50%; }
 
 dt, h4, h5 { font-size: 1.4rem; }
 
 dt, h5 { float: left; margin: 0 1.4rem 0 0; padding-bottom: 0; }
 
+h2 em { font-style: normal; }
+
 h5 { line-height: 1.2em; }
 
-header > div.epigraph { width: 55%; }
+section > details, div.csl-bib-body > details, section > dl, div.csl-bib-body > dl, div.incremental, header > div.epigraph { width: 55%; }
 
 hr { border: 0; text-align: center; font-size: 2em; padding: 2rem 0 2rem 0; }
 
 hr::before { content: "* * *"; }
+
+ol, ul { margin-left: -2.5rem; }
 
 summary > p, summary > .csl-entry { display: inline; }
 
@@ -323,16 +325,21 @@ td > p, td > .csl-entry { margin-top: 0; }
 
 p > span.newthought, .csl-entry > span.newthought { font-size: 1em; }
 
-details { width: 55%; }
-
 /* Fixes for pandoc-crossref */
 figure > img.fullwidth { clear: both; max-width: 164%; }
+
+/* Fixes for reveal.js elements */
+div.columns { clear: both; width: 90%; }
+
+div.columns div.column { float: left; }
+
+#refs, .allowframebreaks { display: none; visibility: hidden; }
 
 /* Fixes for Zotero export to HTML */
 .csl-entry { margin: 0; }
 
 .marginnote, figure > figcaption { padding-bottom: 1rem; }
 
-@media (max-width: 760px) { header > div.epigraph, dl, figure > img.fullwidth, details { width: 90%; } }
+@media (max-width: 760px) { div.incremental, header > div.epigraph, dl, figure > img.fullwidth, details { width: 90%; } }
 
 /*# sourceMappingURL=main.css.map */
