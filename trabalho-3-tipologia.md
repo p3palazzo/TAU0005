@@ -121,11 +121,11 @@ escala 1 cm = 3 pés romanos ou 1 cm = 4 palmos portugueses
 
 | Critério de avaliação                                                  |  Valor |
 |------------------------------------------------------------------------|-------:|
-| Adequação à tipologia e dimensionamento verossímil                     |      8 |
+| Adequação à tipologia e dimensionamento verossímil                     |      5 |
 | Expressão construtiva válida e uso correto da ordem clássica           |      5 |
-| Precisão e clareza de execução dos desenhos                            |      5 |
+| Precisão e clareza de execução dos desenhos                            |      3 |
 | Uso correto, elegante e eficaz de margens, legendas e escalas gráficas |      2 |
-| **Total**                                                              | **20** |
+| **Total**                                                              | **15** |
 
 : Produto
 

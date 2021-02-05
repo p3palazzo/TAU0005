@@ -334,9 +334,9 @@ trabalhos que acompanham os cinco [módulo do Programa](#programa).
 | Trabalho                       | Processo | Produto | Subtotal |
 |:-------------------------------|---------:|--------:|---------:|
 | Edículas vernáculas            |       15 |      15 |       30 |
-| Analítico com ordens clássicas |       20 |      20 |       40 |
-| Resolução de planta baixa      |       20 |      20 |       40 |
-| **Total**                      |          |         |  **100** |
+| Analítico com ordens clássicas |       25 |      15 |       40 |
+| Resolução de planta baixa      |       20 |      15 |       35 |
+| **Total**                      |          |         |  **105** |
 
 : Atividades avaliativas da disciplina e respectiva pontuação
 
