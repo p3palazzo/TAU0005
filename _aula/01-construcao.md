@@ -1347,7 +1347,7 @@ e arquitetura "histórica" [@fletcher:1905history] reforça um viés
 evolucionista que está no centro das grandes narrativas convencionais em
 História da arte (ver @fig:treearch).
 
-## {data-background-image="https://i.pinimg.com/originals/2e/87/30/2e8730f7f9488b03edf17ff565d7bb22.jpg"}
+## {.unlisted}
 
 ![Diagramas de casas vernáculas, c. 1900
 ](https://i.pinimg.com/originals/2e/87/30/2e8730f7f9488b03edf17ff565d7bb22.jpg){#fig:vern1900 .marginnote .stretch}
@@ -1365,7 +1365,7 @@ relegadas a um segundo plano como um substrato cultural que (quase)
 nunca muda (@fig:vern1900), e pode ser liquidado em um ou dois capítulos
 *pro forma*.
 
-## {data-background-image=""}
+## {.unlisted}
 
 Essa narrativa apresenta a arquitetura vernácula como uma cultura
 construtiva que não está apenas *parada no tempo*, mas que, além disso,
@@ -1380,7 +1380,7 @@ privilegiar os mais sólidos e duráveis, que são também mais caros. Mas
 nem sempre essa distinção material é muito evidente --- o mais comum é a
 diferença estar no rigor geométrico e decorativo das construções.
 
-# Adendo: o problema com outras definições de arquitetura #
+# Adendo: problemas com outras definições de arquitetura #
 
 ## {data-background-image="https://i.pinimg.com/originals/9e/28/15/9e28156e5be6433b42aa14c5e2fe3d32.jpg"}
 

@@ -1,18 +1,47 @@
 ---
-title   : "Primórdios da arquitetura"
+title   : "Sistemas construtivos tradicionais"
 author  : "Pedro P. Palazzo"
 abstract: |
-  -- Construção tradicional e bioclimatismo
-  -- Sistemas construtivos em madeira e terra
-  -- Monumentalidade e sistemas estruturais arquitravados
-  -- Muros, paredes e terraplenos
+  Construção tradicional e bioclimatismo
+  – Sistemas construtivos em madeira e terra
+  – Monumentalidade e sistemas estruturais arquitravados
+  – Muros, paredes e terraplenos
 ---
 
-![Thomas Cole, The Course of Empire: The Arcadian or Pastoral State,
-1836
-](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1024px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836){#fig:cole-arcadian .fullwidth}
+![Thomas Cole, The Course of Empire: The Savage State, 1834
+](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg){#fig:cole-savage .fullwidth}
 
 # Construção arquitravada e o mito da cabana primitiva #
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg"}
+
+Os mitos de origem exercem uma atração especial sobre as teorias da
+arquitetura. A visão de mundo na qual os primórdios de algum modo
+explicam, e por que não justificam, o desenvolvimento histórico da
+cultura é recorrente não só em sociedades tradicionais, mas inclusive em
+movimentos intelectuais modernos como o Iluminismo e o Romantismo. É
+essa premissa que está por trás da série de pinturas [*O decurso do
+império*], que Thomas Cole, um artista romântico americano, realizou na
+década de 1830. Essa série começa retratando uma comunidade de
+caçadores-coletores que vivem em tendas (@fig:cole-savage); na
+sequência, ela se transforma numa sociedade agropastoril que já começa a
+produzir arquitetura monumental (@fig:cole-arcadian).
+
+Essa série estabelece desde o início um percurso determinista para a
+arquitetura: o percurso vai do abrigo primitivo da comunidade selvagem
+ao classicismo da sociedade avançada, por meio de refinamentos
+sucessivos. Pelo menos desde o "estado" pastoral, já encontramos os
+elementos fundamentais de uma sociedade dita *civilizada*: no caso, um
+templo construído com grandes pilares e vigas em pedra. O modelo desse
+templo, claro, é Stonehenge, o monumento neolítico construído por volta
+de 2600 a 2400 a.C. no sul da Inglaterra.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg"}
+
+![Thomas Cole, The Course of Empire: The Arcadian or Pastoral State, 1836
+](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian}
+
+[*O decurso do império*]: https://pt.wikipedia.org/wiki/O_Curso_do_Império
 
 ## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
