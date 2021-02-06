@@ -1305,6 +1305,8 @@ from Nowhere* do arquiteto Arts and Crafts inglês William Morris
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/eb/New_Harmony,_Indiana,_por_F._Bates.jpg"}
 
+<!--_,-->
+
 ![Vista do projeto de New Harmony, Estados Unidos, idealizado em 1824
 por Robert Owen. Gravura: [F. Bate, 1838
 ](https://commons.wikimedia.org/wiki/File:New_Harmony,_Indiana,_por_F._Bates.jpg)
