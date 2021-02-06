@@ -1236,33 +1236,21 @@ As propriedades mais importantes da construção tradicional que decorrem
 desses processos artesanais são:
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-Sistemas construtivos redundantes
+1. Compressão é preferível à flexão
 
-: cumprindo mais de uma função --- sustentação vertical,
-  contraventamento, isolamento térmico e acústico...
-
-Flexibilidade da construção como um todo
-
-: permite acomodar assentamento e movimentação sem necessidade de
-  juntas.
-
-Manutenção componente a componente
-
-: sem necessidade de substituição de sistemas inteiros na maior parte
-  dos casos.
+2. Repetição com variações
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/11/90/26/11902632c1be685033a5d566ce227f6f.jpg"}
 
-Essas três propriedades reforçam duas características centrais do
-processo construtivo tradicional: o domínio local sobre quase todas as
-técnicas e cadeias produtivas da construção e a preferência por
-estruturas que trabalham à compressão. Essas duas características
-funcionam em conjunto, como na construção das abóbadas em tijolos leves
-que são um dos sistemas mais difundidos no sul e no oeste da Ásia
-(@fig:sharaman).
+[No que diz respeito à compressão]{.newthought}, em primeiro lugar, as
+grandes massas de parede resolvem de uma tacada só uma série de
+requisitos de desempenho da edificação (@fig:sharaman). As estruturas
+aparentemente superdimensionadas para as cargas verticais na verdade
+consideram também o contraventamento para flambagem da própria estrutura
+e para cargas horizontais, como o vento ou terremotos.
 
-<figure class="iframe-wrapper">
+<figure class="iframe-wrapper fullwidth">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/Ipz6u_24e8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
   </iframe>
 </figure>
@@ -1270,6 +1258,129 @@ que são um dos sistemas mais difundidos no sul e no oeste da Ásia
 ::: {#fig:sharaman .subfigures}
 Construção de abóbada de tijolos em Puducherry, Índia
 :::
+
+## {data-background-image="https://i.pinimg.com/originals/8d/57/27/8d57279cd24b5142bea444e78813edad.png"}
+
+![Análise de desempenho térmico e qualidade do ar em construção
+tradicional na Beira Alta, Portugal. [Fernandes (2020)
+](https://www.mdpi.com/1996-1073/13/3/624)
+](https://i.pinimg.com/originals/8d/57/27/8d57279cd24b5142bea444e78813edad.png){#fig:fernandes}
+
+Além disso, a massa de material denso --- que pode ser pedra, tijolo ou
+taipa --- funciona como isolante térmico e acumulador passivo de calor
+(@fig:fernandes). Por outro lado, mesmo essas grandes massas são porosas
+em certa medida: isso mantém uma boa qualidade do ar interior, sem pôr
+em risco a integridade do sistema, ao contrário das construções modernas
+[@fernandes:2020thermal13].
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2b/Todai_ji_dougong.JPG"}
+
+Quando a estrutura principal é um esqueleto em madeira, a redundância
+construtiva resulta naturalmente da baixa resistência da madeira ao
+cisalhamento --- isso é válido tanto na construção tradicional quanto na
+moderna. O detalhamento dos apoios nas extremidades das vigas, usando
+capitéis ou mãos, dá um caráter distintivo marcante a cada uma das
+inúmeras tradições arquitetônicas da madeira
+(@fig:todaiji-daibutsudou-tokyou). As árvores e o volume de florestas em
+cada região são o principal fator de dimensionamento dos elementos
+principais --- colunas ou esteios e vigas ou barrotes.
+
+![*Tokyō* (mãos) na portada do salão dourado do Tōdaiji, Nara, Japão,
+1709. Foto: [Gisling, 2007
+](https://commons.wikimedia.org/wiki/File:Todai_ji_dougong.JPG)
+](https://upload.wikimedia.org/wikipedia/commons/2/2b/Todai_ji_dougong.JPG){#fig:todaiji-daibutsudou-tokyou}
+
+## {data-background-iframe="https://www.youtube.com/embed/PtF0R2JXAQ8"}
+
+<figure class="iframe-wrapper fullwidth">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/PtF0R2JXAQ8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+::: {#fig:satoyama .subfigures}
+Floresta manejada de Satoyama, Japão. [UN
+University](https://youtu.be/PtF0R2JXAQ8)
+:::
+
+Na Europa ocidental e na Ásia oriental, desde a Idade Média, o manejo e
+a renovação das florestas de onde se extraía a madeira tem sido uma
+preocupação central para a salvaguarda das tradições construtivas. Esse
+manejo assumiu formas variadas historicamente, desde os privilégios da
+nobreza sobre o uso das matas na França medieval até interditos
+religiosos sobre florestas sagradas no Japão da Idade Moderna
+(@fig:satoyama).
+
+## {data-background-image="https://live.staticflickr.com/65535/50916238581_e5f4ec7b7d_o_d.jpg"}
+
+[O caráter artesanal da construção]{.newthought} tradicional permite, em
+segundo lugar, adaptações nos módulos dos elementos da arquitetura. Às
+vezes, essas adaptações não são só possíveis, mas mesmo necessárias. A
+arquitetura moderna tenta realizar em cada obra expressões estéticas
+originais a partir de componentes industriais idênticos. A arquitetura
+tradicional, ao contrário, não tem problema em alinhar composições
+parecidas entre si, usando componentes que são sempre ligeiramente
+diferentes de uma obra para a outra, como nas construções em volta da
+piazza del Campo, em Siena (@fig:siena-campo).
+
+![Piazza del Campo, Siena. Foto: [Pedro P. Palazzo, 2015
+](https://www.flickr.com/photos/arqpalazzo/50916238581/in/dateposted-public/)
+](https://live.staticflickr.com/65535/50916238581_b35e751ae5_k_d.jpg){#fig:siena-campo .fullwidth}
+
+## {data-background-image="https://live.staticflickr.com/3208/2934482172_c58aff6842_3k_d.jpg"}
+
+É claro que *alguns* componentes tradicionais tendem a ser mais
+padronizados que outros: os módulos de tijolos e blocos de adobe, às
+vezes até as seções de madeira serrada, tendem a se basear em medidas
+costumeiras nas oficinas locais ou regionais, mais raramente nacionais.
+Mas mesmo esses componentes podem ser ajustados às particularidades da
+obra: na Europa e nas Américas, por exemplo, era comum produzir tijolos
+dimensionados especialmente para as colunas de algum edifício
+importante, como nessa casa romana em Herculano (@fig:gdportale).
+
+![Colunas em tijolos curvos, casa da Portada Grande, Herculano, século I
+d.C. Foto: [Paul Turner, 2008
+](https://www.flickr.com/photos/11602696@N00/2934482172/in/photostream/)
+](https://live.staticflickr.com/3208/2934482172_cfa66bd9ac_c_d.jpg){#fig:gdportale .marginnote}
+
+## {data-background-iframe="https://www.youtube.com/embed/N95Hdl79zTY"}
+
+Elementos maiores, como portas e janelas completas, são produzidos caso
+a caso, e podem muito mais facilmente ser ajustados aos requisitos de
+cada construção. É o trabalho que desempenham, ainda hoje, muitos
+marceneiros tradicionais, como o espanhol Miguel Ángel Balmaseda
+(@fig:balmaseda). E, claro, os módulos estruturais são sempre
+condicionados às dimensões do lote, sem aqueles espaços residuais que
+são a praga de muitas construções modernas. Por isso é que dizemos que a
+arquitetura tradicional se baseia na repetição de formas semelhantes,
+com variações nos casos particulares.
+
+## {data-background-image="https://i.pinimg.com/originals/fa/5e/64/fa5e644654ef44ef36e1a6496ed196fc.jpg"}
+
+Essa repetição com variações é a característica fundamental dos
+ambientes construídos tradicionais; é o que dá identidade aos pontos
+turísticos, e é o que enfatiza a coesão social de comunidades. O
+equilíbrio entre a harmonia do conjunto e a expressão individual não
+precisa ser imposto por normas urbanísticas exaustivamente detalhadas, e
+nem depende da boa vontade do cliente ou de alguma habilidade plástica
+excepcional do arquiteto: esse equilíbrio está embutido no próprio
+processo produtivo da construção, em todas as tradições do mundo, como
+aqui em Zanzibar, na Tanzânia (@fig:zzstone).
+
+<figure class="iframe-wrapper fullwidth">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/N95Hdl79zTY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
+
+::: {#fig:balmaseda .subfigures}
+Marcenaria de Miguel Ángel Balmaseda, Écija, Espanha. [Premio Richard H.
+Driehaus de las Artes de la Construcción,
+2019](https://youtu.be/N95Hdl79zTY)
+:::
+
+![Cidade de pedra, Zanzibar, Tanzânia, séculos [XIV]{.smallcaps} a
+[XIX]{.smallcaps}. Foto: [Aakash Mehrotra, 2015
+](https://handofcolors.me/2015/10/13/stone-town-zanzibar-a-road-to-follow/)
+](https://i.pinimg.com/originals/fa/5e/64/fa5e644654ef44ef36e1a6496ed196fc.jpg){#fig:zzstone .fullwidth}
+
+# O que não é arquitetura tradicional #
 
 ## {data-background-image="https://i.pinimg.com/originals/86/14/15/861415e6e77de024114ba3a6fcd3b76a.jpg"}
 
@@ -1321,15 +1432,6 @@ ilustrado por William Morris [(London: Hammersmith, 1892)
 
 ## {.unlisted}
 
-A utopia tradicionalista do Iluminismo tem como contrapartida uma visão
-colonialista e, no fim das contas, racista de sociedades não ocidentais
-como sendo "primitivas" (@fig:tylor). As culturas que foram chamadas de
-"tradicionais" pelos europeus do século [XIX]{.smallcaps} e
-[XX]{.smallcaps} eram descritas pelos antropólogos como sociedades
-desprovidas de história: elas estariam presas numa espécie de "eterno
-presente" das origens da humanidade, repercutido no argumento de 1957 do
-historiador da arquitetura Sigfried Giedion (@fig:eternal).
-
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
 ![Capa de reedição recente do livro de E. B. Tylor, *Primitive Culture*, 1871](https://i.pinimg.com/564x/83/56/8a/83568acdf269a0217d77645162145cdf.jpg){#fig:tylor .stretch}
@@ -1338,6 +1440,15 @@ historiador da arquitetura Sigfried Giedion (@fig:eternal).
 ![Capa do livro *The Eternal Present*, baseado na série de palestras de 1957 de Sigfried Giedion ](https://i.pinimg.com/564x/c4/d7/e4/c4d7e4880285ffb4dc2aa275e3c56077.jpg){#fig:eternal .stretch}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[A utopia tradicionalista do Iluminismo]{.newthought} tem como contrapartida uma visão
+colonialista e, no fim das contas, racista de sociedades não ocidentais
+como sendo "primitivas" (@fig:tylor). As culturas que foram chamadas de
+"tradicionais" pelos europeus do século [XIX]{.smallcaps} e
+[XX]{.smallcaps} eram descritas pelos antropólogos como sociedades
+desprovidas de história: elas estariam presas numa espécie de "eterno
+presente" das origens da humanidade, repercutido no argumento de 1957 do
+historiador da arquitetura Sigfried Giedion (@fig:eternal).
 
 ## {data-background-image="https://i.pinimg.com/originals/a2/c6/92/a2c692edb6ef0b76a966a6d7b51b6dbf.jpg" data-background-position="top"}
 
