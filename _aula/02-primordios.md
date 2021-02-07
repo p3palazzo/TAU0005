@@ -69,16 +69,21 @@ da saída da última missa antes da demoliçaão da igreja e do morro do
 Castelo, por Augusto Malta, 1922
 ](https://i.pinimg.com/originals/5a/dd/0a/5add0ad0201f86d7bf89d9a01e44863c.jpg){#fig:se1568}
 
-## {data-background-image=""}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5f/Long_Waves_of_Social_Evolution.jpg"}
+
+![Martin Hilbert, esquema do "progresso" tecnológico humano. [Curso
+Digital Technology and Social Change, Universidade da Califórnia, [s.d.]
+](https://commons.wikimedia.org/wiki/File:Long_Waves_of_Social_Evolution.jpg#/media/File:Long_Waves_of_Social_Evolution.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Long_Waves_of_Social_Evolution.jpg/1280px-Long_Waves_of_Social_Evolution.jpg){#fig:progress}
 
 Por outro lado, desde a metade do século [XX]{.smallcaps} o consenso
 antropológico é o de que as diversas culturas tradicionais são
 irredutíveis entre si. Desse ponto de vista, não seria possível ou
 correto supor nenhuma lógica de conjunto, sob pena de impor uma
 interpretação colonialista sobre sociedades diversas. De fato, não
-existe um processo linear que conduza necessariamente das origens
-*primitivas* da humanidade às sociedades que antigamente eram chamadas
-de *civilizadas*. 
+existe um progresso linear (@fig:progress) que conduza necessariamente
+das origens *primitivas* da humanidade às sociedades que antigamente
+eram chamadas de *civilizadas*.
 
 ## {data-background-image="https://i.pinimg.com/originals/d9/cf/6d/d9cf6d6f6ae3d38e2bd76d9d09bf9bf8.jpg"}
 
@@ -97,7 +102,12 @@ articula em culturas construtivas infinitamente diversas.
 ![Captura de tela do jogo Civilization VI
 ](https://i.pinimg.com/originals/d9/cf/6d/d9cf6d6f6ae3d38e2bd76d9d09bf9bf8.jpg){#fig:civ6-classical}
 
-## {data-background-image=""}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/84/Extracting_clay_to_produce_bricks.jpg"}
+
+![Extração de argila para olaria em Mlala, Dwangwa, Malawi. Foto:
+[Bibiloucapetown, 2017
+](https://commons.wikimedia.org/wiki/File:Extracting_clay_to_produce_bricks.jpg)
+](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extracting_clay_to_produce_bricks.jpg/1280px-Extracting_clay_to_produce_bricks.jpg){#fig:claypit}
 
 Então, o nosso problema é saber como classificar essa diversidade
 infinita numa taxonomia que, ao mesmo tempo, não seja determinista ou
@@ -105,48 +115,65 @@ colonialista, mas que ainda assim nos dê um esquema suficientemente
 claro e simples para o nosso estudo da arquitetura tradicional. A
 solução para esse problema está no ponto de partida de qualquer cadeia
 produtiva: os recursos naturais disponíveis, ou seja, aqueles que estão
-ao alcance geográfico, técnico e econômico de uma determinada sociedade.
+ao alcance geográfico, técnico e econômico de uma determinada sociedade
+(@fig:claypit).
 
-## {data-background-image=""}
+## {data-background-image="https://i.pinimg.com/originals/80/60/f5/8060f5e6ab9e2f5611b7db0f0e13a449.jpg" data-background-position="bottom"}
+
+![Sir Banister Fletcher e Banister F. Fletcher, *A History of
+Architecture on the Comparative Method*, folha de rosto da 1.ª edição, 1896
+](https://i.pinimg.com/originals/5a/f7/8c/5af78ce175489724eeb76342caff71b3.jpg){#fig:fletcher-cover .marginnote}
 
 Por isso, o estudo da arquitetura tradicional começa necessariamente
 pelo estudo dos materiais de construção que cada cultura tem ao seu
 alcance. Esse estudo forma a base daquilo que tem sido chamado, desde o
 século [XIX]{.smallcaps}, de *arquitetura comparada*. A abordagem
 comparativa foi usada, por exemplo, na *História da arquitetura* de
-Banister Fletcher, desde a sua primeira edição em 1896. A arquitetura
-comparada ficou com má fama por causa do viés eurocêntrico da época. No
-entanto, esse viés não é intrínseco ao método; na sequência, vamos
-partir dos materiais de construção como a primeira condicionante que nos
-permite classificar e comparar tradições construtivas diversas.
+Banister Fletcher, desde a sua primeira edição em 1896
+(@fig:fletcher-cover). A arquitetura comparada ficou com má fama por
+causa do viés eurocêntrico da época. No entanto, esse viés não é
+intrínseco ao método; na sequência, vamos partir dos materiais de
+construção como a primeira condicionante que nos permite classificar e
+comparar tradições construtivas diversas.
 
 Podemos começar com os registros escritos que algumas tradições
 arquitetônicas deixaram para trás. Nesses registros, alguns aspectos
 *comparáveis* da construção ficam evidentes.
 
-## {data-background-image=""}
+## {data-background-image="https://i.pinimg.com/originals/ad/66/c5/ad66c5782454670e378614af674f9d1b.jpg"}
 
 A ordem em que os materiais são apresentados nos tratados
 de arquitetura é sistemática. Ela tende a seguir uma sequência lógica
 dos sistemas construtivos usados no processo de construção. A mesma
-ordem é usada tanto no *Yingzao fashi*, um manual técnico e
-administrativo chinês do século XI, e na maioria dos tratados do
-Renascimento italiano nos séculos XV e XVI: eles começam com as
-fundações, seguem para as estruturas em madeira, e daí para alvenarias e
-acabamentos.
+ordem é usada tanto no *Yingzao fashi* (@fig:yzfs1920), um manual
+técnico e administrativo chinês do século [XI]{.smallcaps}, e na maioria
+dos tratados do Renascimento italiano nos séculos [XV]{.smallcaps} e
+[XVI]{.smallcaps}: eles começam com as fundações, seguem para as
+estruturas em madeira, e daí para alvenarias e acabamentos.
 
-## {data-background-image=""}
+![Li Jie, *Yingzao fashi*, reedição da década de 1920
+](https://i.pinimg.com/originals/ad/66/c5/ad66c5782454670e378614af674f9d1b.jpg){#fig:yzfs1920}
+
+## {data-background-image="https://i.pinimg.com/originals/65/a2/11/65a21194ab8bcb228f951a30f0768160.jpg"}
+
+![Restauro do telhado no salão principal do mosteiro budista Chion-in,
+Higashiyama, Quioto, 1234, reconstruído em 1633. Foto: [Jeffrey Friedl,
+2014](http://regex.info/blog/2014-03-10/2397)
+](https://i.pinimg.com/originals/65/a2/11/65a21194ab8bcb228f951a30f0768160.jpg){#fig:chion-in
+.fullwidth}
 
 O dimensionamento dos componentes construtivos tradicionais é sempre
 limitado pelas características da matéria-prima, mas também pela
 capacidade de manipulação e transporte ao longo da cadeia produtiva. As
 maiores árvores que existem dão o limite de tamanho dos pilares e vigas
-em madeira; a viabilidade econômica e técnica do transporte --- as
+em madeira, como no salão principal do Chion-in, um templo budista
+japonês que tem caibros feitos de troncos de árvores partidos ao meio
+(@fig:chion-in); a viabilidade econômica e técnica do transporte --- as
 estradas, os veículos e os guindastes --- determinam as maiores pedras
 que podem ser cortadas para a construção; a força de trabalho estabelece
 o volume de taipa que pode ser comprimido antes que cada camada seque. A
-variedade de condições técnicas e econômicas multiplica a diversidade
-de linguagens arquitetônicas tradicionais.
+variedade de condições técnicas e econômicas multiplica a diversidade de
+linguagens arquitetônicas tradicionais.
 
 ## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
