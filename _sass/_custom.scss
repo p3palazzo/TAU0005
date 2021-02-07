@@ -154,7 +154,7 @@ figure > figcaption {
 
 figure > img.fullwidth {
   clear: both;
-  max-width: 164%;
+  max-width: 160%;
 }
 
 /******************************************************
@@ -180,6 +180,30 @@ div.incremental {
 .allowframebreaks {
   display: none;
   visibility: hidden;
+}
+
+/******************************************************
+ * Light and Dark
+ */
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #fffff8;
+    background-color: #111111;
+    a:link {
+      background: -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#ccc, #ccc);
+      background: linear-gradient(#111111, #111111), linear-gradient(#111111, #111111), linear-gradient(#ccc, #ccc);
+      -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      background-repeat: no-repeat, no-repeat, repeat-x;
+      text-shadow: 0.03em 0 #111111, -0.03em 0 #111111, 0 0.03em #111111, 0 -0.03em #111111, 0.06em 0 #111111, -0.06em 0 #111111, 0.09em 0 #111111, -0.09em 0 #111111, 0.12em 0 #111111, -0.12em 0 #111111, 0.15em 0 #111111, -0.15em 0 #111111;
+      background-position: 0% 93%, 100% 93%, 0% 93%;
+    }
+    img {
+      // Prevents line drawings as transparent PNGs from disappearing
+      background-color: #fffff8;
+    }
+  }
 }
 
 /******************************************************
