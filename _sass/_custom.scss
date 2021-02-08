@@ -3,6 +3,10 @@
  */
 @import "settings";
 
+:root {
+  color-scheme: light dark; /* both supported */
+}
+
 // Let header image attach to the top of the screen.
 body {
   margin-top: 0;
@@ -188,7 +192,7 @@ div.incremental {
 @media (prefers-color-scheme: dark) {
   body {
     color: #fffff8;
-    background-color: #111111;
+    background-color: #212121;
     a:link {
       background: -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#ccc, #ccc);
       background: linear-gradient(#111111, #111111), linear-gradient(#111111, #111111), linear-gradient(#ccc, #ccc);
@@ -202,8 +206,27 @@ div.incremental {
     img {
       // Prevents line drawings as transparent PNGs from disappearing
       background-color: #fffff8;
+			filter: brightness(.8) contrast(1.2);
     }
   }
+}
+@media (prefers-color-scheme: no-preference),
+@media (prefers-color-scheme: light) {
+	body {
+    color: #111111;
+    background-color: #fffff8;
+		a:link {
+			text-decoration: none;
+			background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333);
+			background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333);
+			-webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+			-moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+			background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+			background-repeat: no-repeat, no-repeat, repeat-x;
+			text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8;
+			background-position: 0% 93%, 100% 93%, 0% 93%;
+		}
+	}
 }
 
 /******************************************************
