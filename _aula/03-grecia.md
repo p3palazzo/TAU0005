@@ -11,6 +11,10 @@ abstract: |
 ![Thomas Cole, The Course of Empire: Consummation, 1836
 ](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg){#fig:cole-consummation .fullwidth}
 
+# Construção arquitravada e expressão estrutural #
+
+# Construção murária--arqueada e a criação do espaço #
+
 # Construção tradicional e meio ambiente #
 
 ## {data-background-image=""}

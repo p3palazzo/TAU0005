@@ -578,7 +578,3 @@ madeira funciona como o arquétipo mais característico da construção
 tradicional. É a partir desse arquétipo que vamos analisar, na
 sequência, a construção arquitravada.
 
-# Construção arquitravada e expressão estrutural #
-
-# Construção murária--arqueada e a criação do espaço #
-
