@@ -3,10 +3,10 @@
 	"file": "main.css",
 	"sources": [
 		"main.scss",
-		"../../../../../usr/local/lib/ruby/gems/3.0.0/gems/tufte-pandoc-jekyll-0.11.3/_sass/_tufte.scss",
-		"../../../../../usr/local/lib/ruby/gems/3.0.0/gems/tufte-pandoc-jekyll-0.11.3/_sass/_tufte-extra.scss",
-		"../../../../../usr/local/lib/ruby/gems/3.0.0/gems/tufte-pandoc-jekyll-0.11.3/_sass/_pandoc.scss",
-		"../../../../../usr/local/lib/ruby/gems/3.0.0/gems/tufte-pandoc-jekyll-0.11.3/_sass/_pandoc-solarized.scss",
+		".vendor/bundle/ruby/3.0.0/gems/tufte-pandoc-jekyll-0.11.3/_sass/_tufte.scss",
+		".vendor/bundle/ruby/3.0.0/gems/tufte-pandoc-jekyll-0.11.3/_sass/_tufte-extra.scss",
+		".vendor/bundle/ruby/3.0.0/gems/tufte-pandoc-jekyll-0.11.3/_sass/_pandoc.scss",
+		".vendor/bundle/ruby/3.0.0/gems/tufte-pandoc-jekyll-0.11.3/_sass/_pandoc-solarized.scss",
 		"_sass/fonts.scss",
 		"_sass/_custom.scss",
 		"_sass/settings.scss"
