@@ -8,8 +8,7 @@ abstract: |
   – Muros, paredes e terraplenos
 ---
 
-![Thomas Cole, The Course of Empire: The Savage State, 1834
-](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg){#fig:cole-savage .fullwidth}
+![Thomas Cole, The Course of Empire: The Savage State, 1834](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg){#fig:cole-savage .fullwidth}
 
 # Materiais da arquitetura tradicional #
 
@@ -56,25 +55,15 @@ Fonseca e Paulo Maier em 1979 (@fig:se1979), pode ser considerada a
 sucessora natural da Sé tradicional (a primeira de várias) construída
 entre 1568 e 1583 (@fig:se1568).
 
-![Edgar de Oliveira da Fonseca (construção) e Pe. Paulo Lachen Maier
-(interior), catedral metropolitana de São Sebastião do Rio de Janeiro,
-1979. Foto: [Diego Baravelli, 2016
-](https://commons.wikimedia.org/wiki/File:Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg)
-](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg/1280px-Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg){#fig:se1979}
+![Edgar de Oliveira da Fonseca (construção) e Pe. Paulo Lachen Maier (interior), catedral metropolitana de São Sebastião do Rio de Janeiro, 1979. Foto: [Diego Baravelli, 2016](https://commons.wikimedia.org/wiki/File:Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg/1280px-Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg){#fig:se1979}
 
 ## {data-background-image="https://i.pinimg.com/originals/5a/dd/0a/5add0ad0201f86d7bf89d9a01e44863c.jpg" data-background-position="top"}
 
-![Igreja de São Sebastião da antiga Sé, Rio de Janeiro, 1568--1583. Foto
-da saída da última missa antes da demoliçaão da igreja e do morro do
-Castelo, por Augusto Malta, 1922
-](https://i.pinimg.com/originals/5a/dd/0a/5add0ad0201f86d7bf89d9a01e44863c.jpg){#fig:se1568}
+![Igreja de São Sebastião da antiga Sé, Rio de Janeiro, 1568--1583. Foto da saída da última missa antes da demoliçaão da igreja e do morro do Castelo, por Augusto Malta, 1922](https://i.pinimg.com/originals/5a/dd/0a/5add0ad0201f86d7bf89d9a01e44863c.jpg){#fig:se1568}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5f/Long_Waves_of_Social_Evolution.jpg"}
 
-![Martin Hilbert, esquema do "progresso" tecnológico humano. [Curso
-Digital Technology and Social Change, Universidade da Califórnia, [s.d.]
-](https://commons.wikimedia.org/wiki/File:Long_Waves_of_Social_Evolution.jpg#/media/File:Long_Waves_of_Social_Evolution.jpg)
-](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Long_Waves_of_Social_Evolution.jpg/1280px-Long_Waves_of_Social_Evolution.jpg){#fig:progress}
+![Martin Hilbert, esquema do "progresso" tecnológico humano. [Curso Digital Technology and Social Change, Universidade da Califórnia, [s.d.]](https://commons.wikimedia.org/wiki/File:Long_Waves_of_Social_Evolution.jpg#/media/File:Long_Waves_of_Social_Evolution.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Long_Waves_of_Social_Evolution.jpg/1280px-Long_Waves_of_Social_Evolution.jpg){#fig:progress}
 
 Por outro lado, desde a metade do século [XX]{.smallcaps} o consenso
 antropológico é o de que as diversas culturas tradicionais são
@@ -99,15 +88,11 @@ grande parte dominadas pela cadeia produtiva local. Um certo universo de
 recursos naturais, organizações socioeconômicas e tecnologias se
 articula em culturas construtivas infinitamente diversas.
 
-![Captura de tela do jogo Civilization VI
-](https://i.pinimg.com/originals/d9/cf/6d/d9cf6d6f6ae3d38e2bd76d9d09bf9bf8.jpg){#fig:civ6-classical}
+![Captura de tela do jogo Civilization VI](https://i.pinimg.com/originals/d9/cf/6d/d9cf6d6f6ae3d38e2bd76d9d09bf9bf8.jpg){#fig:civ6-classical}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/84/Extracting_clay_to_produce_bricks.jpg"}
 
-![Extração de argila para olaria em Mlala, Dwangwa, Malawi. Foto:
-[Bibiloucapetown, 2017
-](https://commons.wikimedia.org/wiki/File:Extracting_clay_to_produce_bricks.jpg)
-](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extracting_clay_to_produce_bricks.jpg/1280px-Extracting_clay_to_produce_bricks.jpg){#fig:claypit}
+![Extração de argila para olaria em Mlala, Dwangwa, Malawi. Foto: [Bibiloucapetown, 2017](https://commons.wikimedia.org/wiki/File:Extracting_clay_to_produce_bricks.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extracting_clay_to_produce_bricks.jpg/1280px-Extracting_clay_to_produce_bricks.jpg){#fig:claypit}
 
 Então, o nosso problema é saber como classificar essa diversidade
 infinita numa taxonomia que, ao mesmo tempo, não seja determinista ou
@@ -120,9 +105,7 @@ ao alcance geográfico, técnico e econômico de uma determinada sociedade
 
 ## {data-background-image="https://i.pinimg.com/originals/80/60/f5/8060f5e6ab9e2f5611b7db0f0e13a449.jpg" data-background-position="bottom"}
 
-![Sir Banister Fletcher e Banister F. Fletcher, *A History of
-Architecture on the Comparative Method*, folha de rosto da 1.ª edição, 1896
-](https://i.pinimg.com/originals/5a/f7/8c/5af78ce175489724eeb76342caff71b3.jpg){#fig:fletcher-cover .marginnote}
+![Sir Banister Fletcher e Banister F. Fletcher, *A History of Architecture on the Comparative Method*, folha de rosto da 1.ª edição, 1896](https://i.pinimg.com/originals/5a/f7/8c/5af78ce175489724eeb76342caff71b3.jpg){#fig:fletcher-cover .marginnote}
 
 Por isso, o estudo da arquitetura tradicional começa necessariamente
 pelo estudo dos materiais de construção que cada cultura tem ao seu
@@ -151,16 +134,11 @@ dos tratados do Renascimento italiano nos séculos [XV]{.smallcaps} e
 [XVI]{.smallcaps}: eles começam com as fundações, seguem para as
 estruturas em madeira, e daí para alvenarias e acabamentos.
 
-![Li Jie, *Yingzao fashi*, reedição da década de 1920
-](https://i.pinimg.com/originals/ad/66/c5/ad66c5782454670e378614af674f9d1b.jpg){#fig:yzfs1920}
+![Li Jie, *Yingzao fashi*, reedição da década de 1920](https://i.pinimg.com/originals/ad/66/c5/ad66c5782454670e378614af674f9d1b.jpg){#fig:yzfs1920}
 
 ## {data-background-image="https://i.pinimg.com/originals/65/a2/11/65a21194ab8bcb228f951a30f0768160.jpg"}
 
-![Restauro do telhado no salão principal do mosteiro budista Chion-in,
-Higashiyama, Quioto, 1234, reconstruído em 1633. Foto: [Jeffrey Friedl,
-2014](http://regex.info/blog/2014-03-10/2397)
-](https://i.pinimg.com/originals/65/a2/11/65a21194ab8bcb228f951a30f0768160.jpg){#fig:chion-in
-.fullwidth}
+![Restauro do telhado no salão principal do mosteiro budista Chion-in, Higashiyama, Quioto, 1234, reconstruído em 1633. Foto: [Jeffrey Friedl, 2014](http://regex.info/blog/2014-03-10/2397)](https://i.pinimg.com/originals/65/a2/11/65a21194ab8bcb228f951a30f0768160.jpg){#fig:chion-in .fullwidth}
 
 O dimensionamento dos componentes construtivos tradicionais é sempre
 limitado pelas características da matéria-prima, mas também pela
@@ -177,9 +155,7 @@ linguagens arquitetônicas tradicionais.
 
 ## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
-![Cabanas primitivas segundo William Chambers, *A Treatise on Civil
-Architecture*, 1759
-](https://i.pinimg.com/originals/cf/1a/f5/cf1af57c2e6422122e18196f92629e29.jpg){#fig:huts .marginnote}
+![Cabanas primitivas segundo William Chambers, *A Treatise on Civil Architecture*, 1759](https://i.pinimg.com/originals/cf/1a/f5/cf1af57c2e6422122e18196f92629e29.jpg){#fig:huts .marginnote}
 
 [Reconhecendo essa diversidade de aplicações]{.newthought} dos
 materiais, podemos agrupar as tradições arquitetônicas em três tipos
@@ -223,9 +199,7 @@ alegóricos de tenda, cabana e caverna [@chambers:1759treatise;
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/27/Font-de-Gaume.jpg"}
 
-![Charles R. Knight, Artistas Cro-Magnon pintando mamutes na caverna de
-Font-de-Gaume, oeste da França, 1920
-](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Font-de-Gaume.jpg/1280px-Font-de-Gaume.jpg){#fig:cavemen}
+![Charles R. Knight, Artistas Cro-Magnon pintando mamutes na caverna de Font-de-Gaume, oeste da França, 1920](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Font-de-Gaume.jpg/1280px-Font-de-Gaume.jpg){#fig:cavemen}
 
 A tipologia primordial da tenda, da cabana e da caverna não é literal, e
 nem estritamente cronológica. A imagem dos *homens das cavernas*
@@ -275,122 +249,228 @@ semipermanente. Fora esses casos especiais, a tenda é um tipo
 predominantemente temporário, e não vai nos ocupar mais neste curso.
 Nosso percurso segue, portanto, para o tipo da *cabana*.
 
-![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto:
-[Véronique Pagnier, 2011
-](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg) ↑
-](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata .marginnote}
+![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg) ↑](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata .marginnote}
 
-![Reconstituição de tenda em ossos e peles de mamute de Mezhyrich,
-Ucrânia, 15.000 a.p., no Museu Nacional de Tóquio Foto: [Momotarou2012,
-2013](https://commons.wikimedia.org/wiki/File:Dwelling_made_with_mammoth_bones.jpg) ←
-](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dwelling_made_with_mammoth_bones.jpg/1280px-Dwelling_made_with_mammoth_bones.jpg){#fig:mezhyrich}
+![Reconstituição de tenda em ossos e peles de mamute de Mezhyrich, Ucrânia, 15.000 a.p., no Museu Nacional de Tóquio Foto: [Momotarou2012, 2013](https://commons.wikimedia.org/wiki/File:Dwelling_made_with_mammoth_bones.jpg) ←](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dwelling_made_with_mammoth_bones.jpg/1280px-Dwelling_made_with_mammoth_bones.jpg){#fig:mezhyrich}
 
 ## {data-background-image="https://i.pinimg.com/originals/e6/3d/c4/e63dc40df530a89928a8b9c2b4c2c572.jpg"}
 
-![Yurta contemporânea. Foto:
-[Coprid](https://www.pond5.com/pt/stock-images/photos/item/32541060-yurt)
-](https://i.pinimg.com/originals/e6/3d/c4/e63dc40df530a89928a8b9c2b4c2c572.jpg){#fig:yurt}
+![Yurta contemporânea. Foto: [Coprid](https://www.pond5.com/pt/stock-images/photos/item/32541060-yurt)](https://i.pinimg.com/originals/e6/3d/c4/e63dc40df530a89928a8b9c2b4c2c572.jpg){#fig:yurt}
 
-# Construção arquitravada e o mito da cabana primitiva #
+# O mito da cabana primitiva #
+
+Nos tratados de arquitetura, o mito de origem da construção é
+apresentado como uma alegoria da condição humana em geral e do ofício da
+arquitetura em particular. Essa origem sempre parte de uma comunidade ou
+de um indivíduo que aprende a *imitar* o funcionamento da Natureza para
+desenvolver uma técnica construtiva. A matéria-prima é a justificativa
+mais adequada para uma taxonomia da tipologia construtiva porque as
+características dos materiais são determinantes para as propriedades dos
+sistemas construtivos. Nessa taxonomia, a madeira é o material de
+construção por excelência, e a *cabana primitiva* é a sua expressão
+mitológica. O mito da cabana primitiva aparece em três versões famosas,
+que vamos analisar junto com o registro arqueológico.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg"}
 
-![Thomas Cole, The Course of Empire: The Arcadian or Pastoral State, 1836
-](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian .fullwidth}
+O contato com a Natureza justifica a racionalidade da técnica em
+particular e a autenticidade das práticas sociais em geral, como na cena
+pastoral da nossa já conhecida série de pinturas de Thomas Cole
+(@fig:cole-arcadian) que trata do *Decurso do império*. O monumento
+megalítico no promontório reúne duas credenciais que descrevem a
+essência da cultura humana: o uso *individual* da razão, que concebe o
+uso eficiente dos materiais de construção, e a convenção *social* da
+religião organizada, que permite reunir o esforço coletivo necessário à
+execução da obra.
 
-Nos tratados de arquitetura e nos mitos de origem, os materiais e os
-sistemas construtivos são muitas vezes apresentados como alegorias da
-condição humana em geral e do ofício da arquitetura em particular. Por
-trás da cosmologia está sempre a necessidade de manter o contato entre o
-processo construtivo e os recursos naturais dos quais ele depende.
+![Thomas Cole, The Course of Empire: The Arcadian or Pastoral State, 1836 ](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian .fullwidth}
 
-Essa série estabelece desde o início um percurso determinista para a
-arquitetura: o percurso vai do abrigo primitivo da comunidade selvagem
-ao classicismo da sociedade avançada, por meio de refinamentos
-sucessivos. Pelo menos desde o "estado" pastoral, já encontramos os
-elementos fundamentais de uma sociedade dita *civilizada*: no caso, um
-templo construído com grandes pilares e vigas em pedra. O modelo desse
-templo, claro, é Stonehenge, o monumento neolítico construído por volta
-de 2600 a 2400 a.C. no sul da Inglaterra.
+## {data-background-image="https://i.pinimg.com/originals/7e/ac/0f/7eac0fad2c7dc3ff0a7471354e2bbdea.jpg"}
+
+![Orangotango construindo ninho em Bornéu. Foto: [John Fuller, 2013 ](http://johnfuller3048.blogspot.com/2013/06/borneo-3.html) ↑ ](https://i.pinimg.com/originals/7e/ac/0f/7eac0fad2c7dc3ff0a7471354e2bbdea.jpg){#fig:orang .marginnote}
+
+## {data-background-image="https://i.pinimg.com/originals/e8/5f/c8/e85fc8c962e1545901b556978c636218.jpg"}
+
+![Chimpanzé no seu ninho na Nigéria. Foto: [Cyril Russo, Minden Pictures / National Geographic, 2018 ](https://www.nationalgeographic.com/news/2018/05/chimpanzee-animals-beds-health/) ← ](https://i.pinimg.com/originals/e8/5f/c8/e85fc8c962e1545901b556978c636218.jpg){#fig:chimp}
+
+As árvores são o material de construção por excelência. Todas as
+espécies de hominídeos, dos orangotangos (@fig:orang) aos gorilas,
+chimpanzés (@fig:chimp) e humanos, usam as árvores como material e,
+eventualmente, suporte para construir os seus abrigos. Isso indica que a
+prática de construir com galhos de árvores pode remontar a até 10
+milhões atrás, ao último ancestral comum dos hominídeos
+[@fruth:2017great]. Entre os humanos, como já vimos, os vestígios mais
+antigos de abrigos podem ter de 15 a 380 mil anos (ver [@fig:terra-amata;
+@fig:mezhyrich]).
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Cabane_de_Terra_Amata_2.jpg"}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c1/Dwelling_made_with_mammoth_bones.jpg"}
+
+A espécie humana é a única entre os primatas a usar abrigos coletivos, e
+também a única a construir uma cobertura completa sobre o abrigo. Hoje
+em dia, todas as comunidades humanas, mesmo as caçadoras-coletoras,
+reutilizam os mesmos abrigos por, no mínimo, alguns dias a fio
+[@venkataraman:2017hunter-gatherer114]. Esse comportamento contrasta com
+o dos outros hominídeos, que quase sempre constroem um novo abrigo a
+cada noite. A diferença entre a mobilidade da maioria dos hominídeos em
+todo o seu território e o apego dos humanos a um sítio central só foi
+confirmada no século [XX]{.smallcaps}, mas ela está na base de mitos de
+origem da arquitetura, como a alegoria da cabana primitiva segundo
+Vitrúvio.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/47/A_Hunting_Scene_MET_DT6.jpg"}
+
+Vitrúvio [@vitruvio:2007tratado, II, i] especulava que o domínio sobre o
+fogo permitiu aos homens antigos deixarem de viver como "animais
+selvagens" e passarem a se organizar em sociedade. O relato vitruviano é
+o tema de uma série de pinturas de Piero di Cosimo no final do século
+[XV]{.smallcaps} (@fig:cosimo-hunt). A construção de abrigos
+(@fig:cosimo-vulcan) era, para Vitrúvio, um trabalho necessariamente
+coletivo e que, portanto, só poderia existir em volta do lar --- da
+fogueira familiar ou comunitária.
+
+![Piero di Cosimo, Cena de caçada, c. 1494--1500, têmpera e óleo sobre madeira. [Metropolitan Museum of Art ](https://commons.wikimedia.org/wiki/File:A_Hunting_Scene_MET_DT6.jpg) ↑ ](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/A_Hunting_Scene_MET_DT6.jpg/1280px-A_Hunting_Scene_MET_DT6.jpg){#fig:cosimo-hunt .fullwidth}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg" data-background-position="top"}
+
+<!--_,-->
+
+![Piero di Cosimo, Vulcano e Éolo, c. 1490, têmpera e óleo sobre tela. [National Gallery of Canada ](https://commons.wikimedia.org/wiki/File:Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg) ← ](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg/1072px-Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg){#fig:cosimo-vulcan}
+
+## {.unlisted}
+
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Entretien sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote .stretch}
+
+[A origem social da construção]{.newthought} foi sendo esquecida aos
+poucos pelos tratadistas do Renascimento, até ser completamente
+invertida em 1753 pelo padre jesuíta francês e teórico da arquitetura
+Marc-Antoine Laugier (@fig:laugier). O mito da cabana primitiva, na
+versão de Laugier, relata o raciocínio individual de um homem que tem a
+intuição de construir observando as árvores. Só depois da construção
+solitária é que se forma uma comunidade para usufruir do abrigo.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5d/ANICET-CHARLES-GABRIEL_LEMONNIER_A_READING_OF_VOLTAIRE.jpg"}
+
+A diferença entre o mito da cabana primitiva que Vitrúvio contou no
+século [I]{.smallcaps} a.C. e o mesmo mito na versão de Laugier, no
+século [XVIII]{.smallcaps}, é a diferença entre o conceito tradicional
+de sociedade, vigente na Antiguidade romana, e o individualismo moderno,
+que se manifesta primeiro no Iluminismo filosófico e político, e mais
+adiante no Romantismo artístico. Laugier era um pensador iluminista
+justamente porque ele partilhava o ideal de primazia do indivíduo com
+outros autores da sua época, como Rousseau e Voltaire, que aparece aqui
+sendo celebrado num salão elegante (@fig:salon). Esses autores
+consideravam que a razão é uma faculdade inata e imutável da humanidade
+--- desde que ela pudesse ser exercida livremente, isto é, em caráter
+estritamente individual.
+
+![Anicet Charles Gabriel Lemonnier, Leitura da tragédia « L'orpheline de la Chine », de Voltaire, no salão de Madame Geoffrin, óleo sobre tela de 1812](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ANICET-CHARLES-GABRIEL_LEMONNIER_A_READING_OF_VOLTAIRE.jpg/1280px-ANICET-CHARLES-GABRIEL_LEMONNIER_A_READING_OF_VOLTAIRE.jpg){#fig:salon}
+
+## {data-background-image="https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg"}
+
+![Leo von Klenze, Templo da Concórdia em Agrigento, 1857 ](https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg){#fig:klenze-concordia .fullwidth}
+
+![Germain Boffrand, salão oval da princesa, hôtel de Soubise, Paris, década de 1730](){#fig:soubise}
+
+A sequência do argumento de Laugier deixa clara a sua semelhança à
+alegoria do "bom selvagem" de Rousseau: segundo Laugier, a arquitetura
+atinge o seu auge pouco tempo depois da época da cabana primitiva
+(@fig:klenze-concordia), na Grécia antiga (no século [XVIII]{.smallcaps}
+a cronologia da pré-história e mesmo a do Mediterrâneo antigo ainda não
+estavam muito bem estabelecidas). Depois disso, a arquitetura degenera
+pouco a pouco por força de hábitos adquiridos e dos vícios introduzidos
+pelas convenções sociais [@laugier:1753essai]. Para Laugier, o fundo do
+poço da arquitetura era a "licenciosidade" do barroco e do rococó
+(@fig:soubise); ele usava o argumento da cabana primitiva para pregar
+uma purificação do estilo baseada na clareza do sistema estrutural.
+
+## {data-background-image=""}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Prise_de_la_Bastille_clean.jpg/1280px-Prise_de_la_Bastille_clean.jpg"}
+
+As implicações políticas do individualismo iluminista são bem
+conhecidas, e desembocam na Revolução francesa a partir de 1789, com a
+tentativa de formar um sistema de governo baseado na igualdade de
+direitos (@fig:bastille). Já as consequências artísticas dessa
+celebração do individualismo são mais complexas. De uma apologia da
+*razão* individual, no neoclassicismo, a arte acabou descambando para
+uma idolatria da *emoção* individual no Romantismo (@fig:friedrich). Nos
+dois casos, o momento de maior pureza de um conceito ou sensação é
+aquele que está na *origem*, tida como mais autêntica ou espontânea.
+
+![Caspar David Friedrich, Andarilho sobre o mar de névoa, 1817 ↑](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg){#fig:friedrich .marginnote}
+
+![Jean-Pierre Houël, Tomada da Bastilha, 1789, aquarela sobre papel ←](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Prise_de_la_Bastille_clean.jpg/1280px-Prise_de_la_Bastille_clean.jpg){#fig:bastille}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg"}
+
+<!--_,-->
+
+![Vincenzo Camuccini, A morte de César, 1804--1805](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/1280px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg){#fig:caesar .fullwidth}
+
+O argumento iluminista e romântico ia no sentido oposto ao de Vitrúvio.
+Para os antigos romanos, a sociabilidade, e especialmente o consenso num
+meio-termo justo, estavam na origem de todo progresso, e esse progresso
+sempre seria atingido por uma sequência gradual de refinamentos
+sucessivos... ou quase sempre (@fig:caesar). Vitrúvio não estava
+elogiando a pureza formal ou conceitual da cabana primitiva: esses são
+princípios revolucionários e *modernos*. Em vez disso, Vitrúvio
+sustentava uma tese *tradicional*: a de que o trabalho constante, no
+respeito das convenções sociais, conduz à melhoria contínua dos
+processos e dos resultados. O ideal romano de um processo social que se
+desdobra ao longo do tempo vai ser revisitado, e deformado, na segunda
+metade do século [XIX]{.smallcaps}.
+
+## {.unlisted}
+
+[A terceira versão do mito]{.newthought} da cabana primitiva foi contada
+pelo arquiteto alemão Gottfried Semper (@fig:semper) num artigo de 1851
+intitulado "Os quatro elementos da arquitetura" [@semper:1851vier].
+Semper se inspirou numa cabana de índios karib (@fig:karib) que ele
+tinha visto na exposição universal de Londres, aquela do palácio de
+Cristal [@semper:1860stil]. Como a maioria dos europeus do seu tempo,
+Semper considerava que uma sociedade dita "primitiva" no século
+[XIX]{.smallcaps} seria comparável a uma comunidade do passado remoto,
+nas origens da humanidade.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Gottfried Semper, fotografia anônima de 1865](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/ETH-BIB-Semper%2C_Gottfried_%281803-1879%29-Portrait-Portr_11235.tif/lossy-page1-616px-ETH-BIB-Semper%2C_Gottfried_%281803-1879%29-Portrait-Portr_11235.tif.jpg){#fig:semper .stretch}
+:::
+::: {.column width=50%}
+![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg"}
+
+![Henri Labrouste, arquiteto, biblioteca Sainte-Geneviève, sala de leitura, Paris, 1842. Foto: [Marie-Lan Nguyen, 2011](https://commons.wikimedia.org/wiki/File:Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg){#fig:bsg .fullwidth}
+
+No século [XIX]{.smallcaps}, esse pressuposto colonialista era
+perfeitamente compatível com as opiniões modernas e progressistas que
+Semper tinha sobre outros assuntos (e foi justamente por causa desse
+progressismo que ele teve que se exilar da Alemanha, e foi parar na
+Inglaterra). No caso da cabana primitiva, Semper levou o mito das
+origens às últimas consequências de um modo que não era concebível para
+Vitrúvio ou Laugier. Isso porque Semper foi contemporâneo do grande
+ímpeto de construção com estrutura portante em ferro fundido,
+independente da vedação das paredes, como nas bibliotecas que Henri
+Labrouste construiu em Paris (@fig:bsg).
+
+## {data-background-image=""}
+
+A possibilidade de separar a estrutura da vedação era uma coisa
+praticamente inédita na arquitetura erudita da Europa pelo menos desde a
+Grécia arcaica, depois do século [VIII]{.smallcaps} a.C. Foi a realidade
+*tecnológica* do esqueleto estrutural autônomo que permitiu a Semper
+pensar a separação *conceitual* entre estrutura e vedação. E essa
+separação é um dos pontos centrais da cabana primitiva na versão de
+Semper.
+
+# Construção arquitravada e expressão estrutural #
 
 # Construção murária--arqueada e a criação do espaço #
-
-# Construção tradicional e meio ambiente #
-
-## {data-background-image=""}
-
-No registro das tradições arquitetônicas ao longo do tempo, a geologia e
-o clima nas diferentes partes do mundo determinam a maior parte dos
-materiais de construção que podem ser usados num certo lugar. Já numa
-perspectiva contemporânea, onde as cadeias produtivas podem ser globais,
-podemos acrescentar uma restrição intencional: considerar o impacto
-ambiental que decorre do transporte de longa distância e o impacto
-socioeconômico de abrir mão do domínio local sobre as tecnologias da
-construção. No cenário econômico e ecológico da atualidade, escolher os
-processos produtivos da arquitetura tradicional acaba sendo um ato de
-responsabilidade ambiental e social.
-
-## {data-background-image=""}
-
-O acesso a recursos naturais disponíveis na região é o ponto de partida
-da cadeia produtiva tradicional, mas a gestão e o processamento desses
-recursos é que definem a forma que esses recursos assumem enquanto
-componentes construtivos nas diferentes tradições. O modo de talhar
-pedras, o uso da argila em taipas ou em blocos, os encaixes entre peças
-de madeira são todas particularidades culturais que influenciam o
-processo construtivo e resultam naquilo que chamamos mais
-superficialmente de o *estilo* característico de cada tradição.
-
-## {data-background-image=""}
-
-Para além de se servir dos materiais extraídos da natureza, uma tradição
-arquitetônica sustentável precisa garantir o manejo desses recursos no
-longo prazo. Na Mesopotâmia antiga, algumas mudanças importantes não só
-nos sistemas construtivos mas também na agricultura e na pecuária talvez
-tenham a ver com o desmatamento das encostas montanhosas que formam o
-perímetro exterior do Crescente fértil. Reflorestar, mas também extrair
-e processar minérios com prudência, têm que ser preocupações centrais no
-processo produtivo.
-
-Em quase todas as cadeias da construção, existe um certo distanciamento
-entre, de um lado, a extração e o processamento dos materiais e, do
-outro lado, a especificação e o uso desses materiais na obra. O que é
-importante é que essa distância não represente, para o construtor ou o
-arquiteto, falta de conhecimento ou de preocupação com as etapas
-anteriores.
-
-## {data-background-image=""}
-
-Já no século [XV]{.smallcaps}, Leon Battista Alberti, o arquiteto e
-tratadista italiano, podia comprar quase todos os componentes
-construtivos de que ele precisasse, prontos para uso [@alberti:2011arte,
-II, xiii]. No entanto, isso não o impediu de descrever, em linhas
-gerais, as características da matéria-prima ou o seu preparo. Esse
-gênero de informação, como se fosse um controle de qualidade ou de
-procedência, aparece desde o tratado de Vitrúvio e em textos do
-Renascimento inspirados por ele, como nos *Quatro livros da arquitetura*
-de Palladio [@palladio:1570quattro, I].
-
-## {data-background-image=""}
-
-O discurso sobre a origem dos materiais tende a desaparecer dos textos
-arquitetônicos a partir do século [XVII]{.smallcaps}. O fim da
-preocupação com a profundidade inteira da cadeia produtiva da construção
-acompanha uma tripla separação de competências no ofício: num vértice
-temos os arquitetos, que se especializam na solução espacial e estética
-das edificações; num segundo vértice, estão os engenheiros calculistas
-que concebem o equilíbrio estático dessas edificações a partir de
-materiais com propriedades já conhecidas; e, no terceiro vértice, temos
-os construtores que se ocupam de comprar e instalar os componentes
-padronizados. Nenhuma dessas três categorias profissionais tem mais o
-domínio da cadeia produtiva como um todo, nem sequer a necessidade ou as
-atribuições para se ocupar de trechos dessa cadeia que estejam fora da
-sua alçada.
-
-## Bioclimatismo ##
-
-- Bioclimatismo
-- Isolamento térmico e ventilação
-- Casas-pátio na Mesopotâmia e no Egito
-- Moradas na Europa megalítica
 
