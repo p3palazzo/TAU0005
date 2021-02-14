@@ -578,3 +578,74 @@ madeira funciona como o arquétipo mais característico da construção
 tradicional. É a partir desse arquétipo que vamos analisar, na
 sequência, a construção arquitravada.
 
+# Construção arquitravada #
+
+Nos mitos da cabana primitiva e nas culturas da maior parte do mundo, a
+madeira é o material primordial da arquitetura. A construção tradicional
+em madeira é uma concepção *aditiva*, isto é, ela se caracteriza
+estruturalmente e visualmente pela montagem de peças claramente
+distintas entre si. Nesta seção, vamos ver como essa montagem pode ser
+classificada segundo dois princípios estruturais de base: vigas
+simplesmente apoiadas sobre pilares e armações rígidas com peças
+engastadas entre si. Em algumas tradições, as formas da construção em
+madeira acabam por ser transpostas para a construção em pedra.
+
+## {data-background-image=""}
+
+A madeira tem um papel central em dois dos três tipos primordiais de
+construção tradicional, a "tenda" e a "cabana" ([@fig:chambers-tent;
+@fig:chambers-hut]), enquanto o terceiro tipo, a "caverna"
+(@fig:chambers-cave), é característico das construções em alvenaria ou
+taipa. Esses tipos foram definidos na segunda metade do século
+[XVIII]{.smallcaps} pelo britânico William Chambers e pelo francês
+Quatremère de Quincy.
+
+## {data-background-image=""}
+
+As tendas são abrigos temporários que têm como única estrutura portante
+um certo número de varas apoiadas entre si. A hipótese de reconstituição
+dos vestígios de Terra Amata, no sudeste da França, datados de até 380
+mil anos atrás (@fig:terra-amata), talvez seja o exemplo mais antigo
+conhecido desse tipo. Várias comunidades em diferentes regiões do mundo
+usam tendas pelo menos durante uma parte do ano: por exemplo, o tipi da
+América do Norte (@fig:tipi) ou a iurta do norte da Ásia (@fig:yurt).
+Sociedades predominantemente sedentárias constroem tendas como abrigos
+de caça ou de expedições militares (@fig:usarmy).
+
+## {data-background-image=""}
+
+A simplicidade extrema das tendas é uma vantagem em se tratando de
+abrigos temporários, mas ela não se presta ao desenvolvimento de
+soluções arquitetônicas muito variadas. Os vários tipos de tendas
+encontrados pelo mundo são muito diferentes entre si, mas dentro de cada
+tradição, os exemplares individuais são muito parecidos. Por isso, é no
+tipo da cabana que vamos nos concentrar daqui para a frente.
+
+## {data-background-image=""}
+
+### Kebara ###
+
+## {data-background-image=""}
+
+Em contraste com o tipo da tenda, o tipo da cabana se caracteriza por
+ser composto de uma sequência de módulos estruturais em duas dimensões.
+Esses módulos podem ser iguais ou diferentes entre si, e podem consistir
+de componentes apoiados uns sobre os outros, ou de componentes
+engastados entre si. Nos dois casos, o desempenho estrutural da madeira
+é o que determina as proporções e os detalhes dos sistemas construtivos.
+
+## {data-background-image=""}
+
+As principais características que geram as formas arquitetônicas da
+cabana são a *alta* resistência da madeira tanto à compressão quanto à
+flexão --- sempre na direção das fibras --- e a sua *baixa* resistência
+ao cisalhamento, também conhecido como esforço cortante. Esse esforço é
+perpendicular às fibras da madeira e geralmente se concentra nas
+extremidades das vigas. Essas características resultam em pilares e
+vigas esbeltos e em soluções variadas de articulação entre os pilares e
+as vigas.
+
+## {data-background-image=""}
+
+[O primeiro sistema em esqueleto]{.newthought}
+
