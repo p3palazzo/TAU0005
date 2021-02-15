@@ -192,7 +192,7 @@ div.incremental {
 @media (prefers-color-scheme: dark) {
   body {
     color: #fffff8;
-    background-color: #212121;
+    background-color: #282828;
     a:link {
       background: -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#ccc, #ccc);
       background: linear-gradient(#111111, #111111), linear-gradient(#111111, #111111), linear-gradient(#ccc, #ccc);
@@ -207,6 +207,9 @@ div.incremental {
       // Prevents line drawings as transparent PNGs from disappearing
       background-color: #fffff8;
 			filter: brightness(.8) contrast(1.2);
+    }
+    img.nobg {
+      background: none;
     }
   }
 }
@@ -258,7 +261,7 @@ div.csl-bib-body {
 }
 
 .marginnote {
-  padding-bottom: 1rem;
+  margin-bottom: 1rem;
 }
 
 /******************************************************
