@@ -193,9 +193,7 @@ A alegoria iluminista contada por Laugier na metade do século
 invenção *racional* da cabana primitiva com a pretensão de superioridade
 da arquitetura clássica e neoclássica (@fig:laugier).
 
-## {data-background-image=""}
-
-![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .marginnote .stretch}
+## {.unlisted}
 
 A precedência da tradição grega nas histórias gerais da arquitetura é
 tão forte e tão pouco questionada que ela acaba sendo vista como um
@@ -205,11 +203,168 @@ seu livro-texto em diante (@fig:treearch). O *milagre grego* da
 arquitetura clássica é quase tão universalmente aceito, e quase tão
 estereotipado, quanto o *milagre* da filosofia grega.
 
-## {data-background-image=""}
+![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .stretch}
+
+## {.unlisted}
+
+![Região de origem da construção arquitravada "clássica". Desenho: Pedro P. Palazzo](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:medor .marginnote .nobg .stretch}
 
 Por causa disso, é fácil esquecer que a arquitetura grega faz parte de
-uma tradição mais ampla do Mediterrâneo oriental. Essa tradição se
-consolida por volta do século [XIII]{.smallcaps} a.C.
+uma tradição mais ampla de construção em madeira no Mediterrâneo
+oriental e no Crescente fértil. Essa tradição pode ser associada a uma
+faixa de montanhas e planaltos arborizados que vai da Pérsia até a
+Itália, passando pela Anatólia e pela Grécia (@fig:medor). A partir do
+final da Idade do Bronze, por volta do século [XIII]{.smallcaps} a.C.,
+essas regiões começam a desenvolver certos modos de construir com
+colunas e vigas em madeira, geralmente associadas a paredes de vedação
+em alvenaria.
+
+## {data-background-image="https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png"}
+
+A tradição construtiva arquitravada do Mediterrâneo oriental se baseia
+em colunas feitas de troncos de árvores, que sustentam vigas mestras
+pesadas, também chamadas de arquitraves, daí o nome do sistema. O modelo
+típico desse sistema foi sintetizado pelo francês Charles Chipiez e pelo
+alemão Josef Durm, ambos professores de arquitetura, no final do século
+[XIX]{.smallcaps} [@chipiez:1876histoire; @durm:1910baukunst]. O modelo
+de Chipiez procurava integrar todas as tradições arquitravadas da
+região, desde a Pérsia até a Grécia, passando pela costa do Levante,
+pelo Egito e pela Anatólia (@fig:chipiez-compare).
+
+!["Ordens" de colunas egípcias, persas e jônicas gregas, segundo Chipiez, 1876](https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png){#fig:chipiez-compare .fullwidth}
+
+## {data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg"}
+
+![Cabana vernácula na Anatólia com colunata dianteira, segundo Chipiez, 1876](https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png){#fig:chipiez-208 .stretch .marginnote}
+
+![Cabana vernácula na Anatólia com colunata perimetral, segundo Chipiez, 1876](https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png){#fig:chipiez-209 .stretch .marginnote}
+
+A proposta de Chipiez e Durm postula um sistema que é, na verdade, uma
+regressão conceitual a partir da arquitetura etrusca e grega dos
+períodos arcaico e clássico, nos séculos [VI]{.smallcaps} a
+[IV]{.smallcaps} a.C. Só que essa proposta é uma regressão conceitual a
+partir da construção em pedra, buscando reconstituir um estado
+originário ideal em madeira. Desse ponto de vista, o modelo de Durm não
+é muito diferente do mito da cabana primitiva proposto por Laugier quase
+150 anos antes (ver @fig:laugier), apesar de ser um pouco mais
+fundamentada em estudos de campo.
+
+Chipiez, em particular, reporta as origens da tradição arquitravada do
+Mediterrâneo oriental a certas cabanas que subsistiam ainda, no século
+[XIX]{.smallcaps}, na Anatólia ([@fig:chipiez-208; @fig:chipiez-209]).
+Mesmo que a evidência histórica dessa genealogia seja frágil, para dizer
+o mínimo, ela é relevante do ponto de vista da lógica de montagem da
+construção arquitravada. Por isso, vamos partir desses exemplos citados
+por Chipiez para descrever as características fundamentais dessa
+tradição arquitravada.
+
+## {data-background-image=""}
+
+[Comecemos pelas fundações.]{.newthought} O senso comum entre os
+tratadistas da arquitetura clássica, pelo menos da Roma antiga ao
+Renascimento, é que se deve cavar uma vala até encontrar uma camada de
+solo compacto. O que isso significa exatamente não é muito claro, e
+naturalmente depende da experiência empírica dos construtores. Encontrar
+o solo compacto é relativamente fácil nos sítios rochosos da maioria das
+cidades na Grécia antiga, nem tanto nas planícies que os romanos ocupam.
+
+O arquiteto do Renascimento italiano Andrea Palladio trabalhava na
+região de Veneza, uma área de solo pantanoso, sem nenhuma firmeza; por
+isso, ele indicava pavimentar o fundo da vala com lajes largas de pedra
+ou tábuas e vigas em madeira, para distribuir a carga de modo mais
+uniforme [@palladio:1738four, 7]. Outra prática tradicional em terrenos
+sem resistência é cravar estacas feitas de troncos de árvores no fundo
+da vala. Essa prática deu origem às fundações indiretas modernas, com
+estacas de concreto.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Peru_-_Flickr_-_Jarvis-31.jpg/1280px-Peru_-_Flickr_-_Jarvis-31.jpg"}
+
+<!--_,-->
+
+Encontrado o solo compacto ou feito o estaqueamento, a vala é preenchida
+com um baldrame em pedra lavrada ou aparelhada. Pedras lavradas são
+aquelas que foram simplesmente extraídas da rocha matriz ou mesmo
+encontradas soltas; elas são encaixadas umas nas outras geralmente
+usando-se bastante argamassa. Já os blocos de pedra aparelhada recebem
+um acabamento liso nas superfícies de assentamento, onde eles se
+encaixam diretamente em outros blocos ou assentam sobre uma camada fina
+de argamassa; só que esse acabamento não forma fiadas horizontais, e as
+faces externas dos blocos não costumam ter um acabamento muito refinado
+(@fig:saqsaywaman).
+
+![Saqsaywamán, fortificação em pedra aparelhada perto de Cusco, império inca, 1438. Foto: [Dennis Jarvis, 2009](https://commons.wikimedia.org/wiki/File:Peru_-_Flickr_-_Jarvis-31.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Peru_-_Flickr_-_Jarvis-31.jpg/1280px-Peru_-_Flickr_-_Jarvis-31.jpg){#fig:saqsaywaman}
+
+## {data-background-image="https://i.pinimg.com/originals/84/a0/84/84a0844920befe8a43748bc9cb4534de.png"}
+
+![Corte do templo de Hefesto, Atenas, século [V]{.smallcaps} a.C. Desenho: William B. Dinsmoor, Jr., 1984](https://i.pinimg.com/originals/84/a0/84/84a0844920befe8a43748bc9cb4534de.png){#fig:dinsmoor-back .marginnote .stretch}
+
+Palladio indica dar à base das fundações o dobro da largura da parede, e
+que ele tenha uma seção em forma de trapézio, onde o topo deve ser só um
+pouco mais largo do que a parede. No topo das fundações, vamos encontrar
+uma última camada de base que cobre toda a superfície da edificação; ela
+pode ser em terra batida ou revestida com lajes de pedra, formando uma
+espécie de radier. Na Grécia clássica, essa superfície é o estilóbata
+(@fig:dinsmoor-back).
+
+A plataforma sobre a qual a superestrutura da edificação se levanta
+raramente está no nível natural do terreno; na construção arquitravada,
+ela é quase sempre soerguida --- seja num pódio, como é o caso da
+arquitetura persa e na Itália, seja sobre alguns degraus, como na
+Grécia. O pódio pertence mais propriamente à construção murária, da qual
+vamos tratar na próxima seção; já o *crepidoma* ou degraus vai merecer
+um tratamento mais detalhado junto com o sistema formal das ordens
+clássicas greco-romanas.
+
+## {data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-position="center" data-background-repeat="no-repeat" data-background-size="containj}
+
+[Resolvidas as fundações, podemos tratar]{.newthought} da superestrutura
+do edifício. A tradição arquitravada do Mediterrâneo oriental geralmente
+combina um sistema de colunas em madeira com paredes em alvenaria, que
+servem de divisórias no espaço mas também costumam ter função estrutural
+(ver @fig:chipiez-208). As colunas propriamente ditas são, na sua
+origem, troncos de árvores. A possibilidade, ou a necessidade, de usar
+troncos de tamanhos específicos determinava as dimensões, mas também as
+proporções das colunas: mais esbeltas onde se usavam árvores mais finas,
+como pinheiros; mais grossas quando se tinha cedro ou carvalho à
+disposição. O uso descontrolado da madeira de cedro e de outras
+essências, primeiro para a construção civil e mais adiante para a
+construção naval, foi uma das principais causas de desmatamento na
+região do Crescente fértil e na Grécia ainda na Antiguidade; esse
+desmatamento pode até mesmo ter alterado o clima na região, com
+consequências que se prolongam até hoje.
+
+## {data-background-image=""}
+
+Por causa do uso de troncos nas origens dessa tradição, as colunas têm
+uma contratura elegante, onde o diâmetro superior é ligeiramente menor
+do que o diâmetro inferior. Essa contratura é feita com um perfil em
+curva suave, chamado de êntase. Num antigo canteiro de obra grego, foi
+descoberto um diagrama que mostra o método de construção geométrica
+dessa curva, numa escala distorcida verticalmente (@fig:entasis).
+
+## {data-background-image=""}
+
+Por mais que o estilóbata esteja elevado acima do terreno à sua volta,
+as colunas ainda têm quase sempre uma base em pedra. Essa base, um pouco
+mais larga do que o próprio fuste da coluna, evitava que a madeira
+entrasse em contato com qualquer poça d'água que tivesse acumulado no
+estilóbata, e também ajudava a regularizar o assentamento da coluna
+sobre o piso.
+
+## {data-background-image=""}
+
+Do mesmo modo, o topo da coluna não encostaria diretamente na viga, mas
+é coroado com um capitel. Diferentes formas de capitéis correspondem a
+diferentes necessidades estruturais: mãos lineares para um lado ou para
+o outro ajudam a conter o cisalhamento nas extremidades das vigas
+(@fig:chipiez-159); capitéis quadrados servem simplesmente para
+regularizar o contato entre a coluna e a arquitrave; e capitéis em forma
+de U evitam o deslizamento das vigas para os lados, além de facilitar a
+sobreposição de vigas perpendiculares entre si.
+
+## {data-background-image="https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png"}
+
+![Arquétipo em madeira da ordem toscana, segundo Chipiez, 1876](https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png){#fig:chipiez-159}
 
 # Construção murária--arqueada e a criação do espaço #
 
