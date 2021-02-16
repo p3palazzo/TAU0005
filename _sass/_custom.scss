@@ -207,6 +207,12 @@ div.incremental {
       // Prevents line drawings as transparent PNGs from disappearing
       background-color: #fffff8;
 			filter: brightness(.8) contrast(1.2);
+			-webkit-filter: brightness(.8) contrast(1.2);
+    }
+    img.line {
+      background: none;
+      filter: invert(100%);
+      -webkit-filter: invert(100%);
     }
     img.nobg {
       background: none;
@@ -274,5 +280,13 @@ div.csl-bib-body {
   figure > img.fullwidth,
   details {
     width: 90%;
+  }
+  img.marginnote {
+    float: none;
+    width: 90%;
+  }
+  figcaption,
+  .marginnote {
+    display: inline;
   }
 }
