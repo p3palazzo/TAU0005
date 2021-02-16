@@ -113,9 +113,9 @@ continentes, por exemplo na região do Sael (@fig:transh).
 
 ![Padrões de transumância no Sael. [OCDE, 2014](http://www.food-security.net/en/map-library/transhumance-and-nomadism/){.smallcaps}](https://i.pinimg.com/originals/13/51/34/13513400d4dbe8f1bb791c84b35d325b.jpg){#fig:transh .fullwidth}
 
-## {.unlisted}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png" data-background-size="contain" data-background-position="center"}
 
-![Regiões de origem da vida sedentária: centro-norte da Europa, nordeste da Ásia e Crescente fértil. Desenho: [Pedro P. Palazzo](https://commons.wikimedia.org/wiki/File:Origins_of_sedentism.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png){#fig:sedentism .marginnote .stretch .nobg}
+![Regiões de origem da vida sedentária: centro-norte da Europa, nordeste da Ásia e Crescente fértil. Desenho: [Pedro P. Palazzo](https://commons.wikimedia.org/wiki/File:Origins_of_sedentism.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png){#fig:sedentism .marginnote .nobg}
 
 A vida transumante ou sedentária permite às comunidades investirem mais
 esforço em construções duráveis, e também em outras comodidades duráveis
@@ -126,9 +126,9 @@ as planícies do centro-norte da Europa, as florestas temperadas em volta
 dos mares Amarelo e do Japão, no nordeste da Ásia, e as encostas
 subtropicais do Crescente fértil, na Mesopotâmia (@fig:sedentism).
 
-## {.unlisted}
+## {data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain" data-background-position="center"}
 
-![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .marginnote .stretch}
+![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .marginnote .line}
 
 Desde os mais antigos vestígios de cabanas, como no sítio arqueológico
 de Eynan, em Israel, datado de 15 a 12 mil anos atrás (@fig:eynan), a
@@ -179,9 +179,9 @@ também, a que deixou o legado mais dominante na arquitetura dos últimos
 2500 anos, um legado que foi codificado e imortalizado em pedra: a
 arquitetura clássica greco-romana.
 
-## {.unlisted}
+## {data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="center"}
 
-![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote .stretch}
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote}
 
 [A arquitetura clássica]{.newthought} é, em última análise, a razão de
 ser dos mitos sobre a cabana primitiva que vimos [mais
@@ -193,7 +193,7 @@ A alegoria iluminista contada por Laugier na metade do século
 invenção *racional* da cabana primitiva com a pretensão de superioridade
 da arquitetura clássica e neoclássica (@fig:laugier).
 
-## {.unlisted}
+## {data-background-image="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png" data-background-size="contain"}
 
 A precedência da tradição grega nas histórias gerais da arquitetura é
 tão forte e tão pouco questionada que ela acaba sendo vista como um
@@ -203,11 +203,11 @@ seu livro-texto em diante (@fig:treearch). O *milagre grego* da
 arquitetura clássica é quase tão universalmente aceito, e quase tão
 estereotipado, quanto o *milagre* da filosofia grega.
 
-![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .stretch}
+![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch}
 
-## {.unlisted}
+## {data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="contain" data-background-position="center"}
 
-![Região de origem da construção arquitravada "clássica". Desenho: Pedro P. Palazzo](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:medor .marginnote .nobg .stretch}
+![Região de origem da construção arquitravada "clássica". Desenho: Pedro P. Palazzo](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:medor .marginnote .nobg}
 
 Por causa disso, é fácil esquecer que a arquitetura grega faz parte de
 uma tradição mais ampla de construção em madeira no Mediterrâneo
@@ -231,13 +231,13 @@ de Chipiez procurava integrar todas as tradições arquitravadas da
 região, desde a Pérsia até a Grécia, passando pela costa do Levante,
 pelo Egito e pela Anatólia (@fig:chipiez-compare).
 
-!["Ordens" de colunas egípcias, persas e jônicas gregas, segundo Chipiez, 1876](https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png){#fig:chipiez-compare .fullwidth}
+!["Ordens" de colunas egípcias, persas e jônicas gregas, segundo Chipiez, 1876](https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png){#fig:chipiez-compare .fullwidth .line}
 
 ## {data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg"}
 
-![Cabana vernácula na Anatólia com colunata dianteira, segundo Chipiez, 1876](https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png){#fig:chipiez-208 .stretch .marginnote}
+![Cabana vernácula na Anatólia com colunata dianteira, segundo Chipiez, 1876](https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png){#fig:chipiez-208 .stretch .marginnote .line}
 
-![Cabana vernácula na Anatólia com colunata perimetral, segundo Chipiez, 1876](https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png){#fig:chipiez-209 .stretch .marginnote}
+![Cabana vernácula na Anatólia com colunata perimetral, segundo Chipiez, 1876](https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png){#fig:chipiez-209 .stretch .marginnote .line}
 
 A proposta de Chipiez e Durm postula um sistema que é, na verdade, uma
 regressão conceitual a partir da arquitetura etrusca e grega dos
@@ -296,7 +296,7 @@ faces externas dos blocos não costumam ter um acabamento muito refinado
 
 ## {data-background-image="https://i.pinimg.com/originals/84/a0/84/84a0844920befe8a43748bc9cb4534de.png"}
 
-![Corte do templo de Hefesto, Atenas, século [V]{.smallcaps} a.C. Desenho: William B. Dinsmoor, Jr., 1984](https://i.pinimg.com/originals/84/a0/84/84a0844920befe8a43748bc9cb4534de.png){#fig:dinsmoor-back .marginnote .stretch}
+![Corte do templo de Hefesto, Atenas, século [V]{.smallcaps} a.C. Desenho: William B. Dinsmoor, Jr., 1984](https://i.pinimg.com/originals/84/a0/84/84a0844920befe8a43748bc9cb4534de.png){#fig:dinsmoor-back .marginnote .stretch .line}
 
 Palladio indica dar à base das fundações o dobro da largura da parede, e
 que ele tenha uma seção em forma de trapézio, onde o topo deve ser só um
@@ -362,9 +362,7 @@ regularizar o contato entre a coluna e a arquitrave; e capitéis em forma
 de U evitam o deslizamento das vigas para os lados, além de facilitar a
 sobreposição de vigas perpendiculares entre si.
 
-![Arquétipo em madeira da ordem toscana, segundo Chipiez, 1876](https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png){#fig:chipiez-159}
-
-## Falar das arquitraves e dos barrotes, versão persa e versão grega
+![Arquétipo em madeira da ordem toscana, segundo Chipiez, 1876](https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png){#fig:chipiez-159 .line}
 
 ## {data-background-image=""}
 
@@ -400,17 +398,90 @@ de cada elemento tomado individualmente --- o diâmetro das colunas ou a
 seção das arquitraves e dos barrotes. Ainda assim, essa margem de
 segurança existe e não é pequena. A gama de proporções canônicas das
 ordens clássicas gregas, ou mesmo a das colunas persas, é um tanto
-conservadora; uma parte disso tem a ver com a transposição de materiais
-da madeira para a pedra.
+conservadora (ver @fig:chipiez-compare); uma parte disso tem a ver com a
+transposição de materiais da madeira para a pedra.
 
 ## {data-background-image=""}
 
-A outra forma de redundância estrutural está nos vãos: os intercolúnios
+A redundância vai além das dimensões das colunas: na arquitetura grega,
+as arquitraves costumam ser duplicadas ou mesmo triplicadas em
+profundidade, agregando mais um nível de redundância (@fig:arquitrave).
+Outra forma de redundância estrutural está nos vãos: os intercolúnios
 (a distância entre os eixos das colunas) são bastante estreitos, e as
 proporções das colunatas egípcias, persas e gregas são muito
 verticalizadas.
 
-## Planos rígidos: terraços persas e celas gregas ##
+## {data-background-image="https://i.pinimg.com/originals/e9/75/60/e97560b20b57f958ed77019069bb7508.png" data-background-size="contain" data-background-position="center"}
+
+Além da redundância no dimensionamento da estrutura arquitravada, as
+tradições do Mediterrâneo oriental também usam elementos de
+contraventamento no sentido mais estrito. Os principais são as paredes
+em alvenaria que geralmente estão associadas à estrutura arquitravada.
+Um dos exemplos mais antigos e literais desse método é o chamado
+*heroön*, ou túmulo do herói, em Lefkandi, construído na Grécia no
+século [X]{.smallcaps} a.C. (@fig:lefkandi-axon).
+
+Nessa construção, temos duas colunatas em madeira com as suas
+arquitraves --- um períptero, ou ala que contorna o exterior da
+edificação, e uma colunata no eixo longitudinal, sustentando a viga de
+cumeeira. Além de as colunas estarem engastadas no solo, ambas as
+colunatas são ligadas por vigas secundárias a uma parede de adobe com
+fundações em pedra lavrada (@fig:lefkandi-section).
+
+![Axonométrica do túmulo dito *heroön* (tumba do herói), Lefkandi, Grécia, século [X]{.smallcaps} a.C.](https://i.pinimg.com/originals/e9/75/60/e97560b20b57f958ed77019069bb7508.png){#fig:lefkandi-axon .line}
+
+## {data-background-image="https://i.pinimg.com/originals/db/38/30/db3830c4766e6388653536ee1acac6b8.png" data-background-size="contain" data-background-position="center"}
+
+![Corte transversal do *heroön* de Lefkandi](https://i.pinimg.com/originals/db/38/30/db3830c4766e6388653536ee1acac6b8.png){#fig:lefkandi-section .line}
+
+## {data-background-image=""}
+
+O tipo construtivo do túmulo de Lefkandi é uma dentre muitas variações
+sobre o tema da combinação de colunatas em madeira com paredes em
+alvenaria que foram exploradas na Grécia do período geométrico, entre os
+séculos [X]{.smallcaps} e [VIII]{.smallcaps} a.C. Essas variações
+acabaram se consolidando em dois tipos predominantes que, a partir do
+final do século [VII]{.smallcaps}, deram origem às duas primeiras
+*ordens clássicas* em pedra: a dórica e a jônica. Mais adiante vamos nos
+debruçar em detalhe sobre essas ordens, e sobre as adaptações graduais
+que o uso da pedra como material de construção implica.
+
+## {data-background-image=""}
+
+[Na arquitetura monumental da Pérsia antiga,]{.newthought} o método de
+contraventamento é diferente. Encontramos grandes salões hipostilos ---
+ou seja, pontuados por uma malha bastante cerrada de colunas --- onde as
+paredes contornam o perímetro do salão. Nesse caso, as paredes
+perimetrais sozinhas não resolvem o problema do contraventamento. Em vez
+disso, todo o espaço do *apadana* (esse é o nome que se dá ao salão dos
+palácios persas) é coberto por um terraço rígido.
+
+## {data-background-image="https://i.pinimg.com/originals/72/2b/40/722b40cf631a30343be5bbe7a5e4a1a7.png" data-background-size="contain" data-background-position="center"}
+
+Esse terraço tem uma construção complexa, como todo assoalho horizontal
+na arquitetura tradicional. A estrutura do terraço começa com o sistema
+de vigas mestras e secundárias: as primeiras encaixadas no vão dos
+capitéis, as segundas apoiadas sobre o topo dos capitéis. Sobre as
+vigas, temos um sistema de barrotes muito próximos uns dos outros que
+sustenta um assoalho de tábuas. Esse primeiro assoalho serve de teto
+para o *apadana*; sobre ele ainda temos um terrapleno com um metro de
+espessura, que oferece estabilidade e isolamento térmico para o sistema
+da cobertura. A cobertura se completa com uma espécie de sótão e mais
+uma sequência de assoalhos e terraplenos; o terraço é finalmente
+revestido com lajes de pedra e tem uma platibanda de acabamento com
+tijolos vidrados (@fig:chipiez-terrasse).
+
+A montagem rebuscada desse terraço chama a nossa atenção para uma
+característica importante que diz respeito à *forma* das construções
+arquitravadas.
+
+![Reconstituição dos terraços de Persépolis, segundo Charles Chipiez](https://i.pinimg.com/originals/72/2b/40/722b40cf631a30343be5bbe7a5e4a1a7.png){#fig:chipiez-terrasse .line}
+
+## {data-background-image=""}
+
+[A construção arquitravada é aditiva]{.newthought} por natureza. Ela se
+compõe da montagem de elementos claramente distintos entre si,
+encaixados ou apoiados uns sobre os outros.
 
 # Construção murária--arqueada e a criação do espaço #
 
