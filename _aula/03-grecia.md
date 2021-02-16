@@ -351,7 +351,7 @@ entrasse em contato com qualquer poça d'água que tivesse acumulado no
 estilóbata, e também ajudava a regularizar o assentamento da coluna
 sobre o piso.
 
-## {data-background-image=""}
+## {data-background-image="https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png"}
 
 Do mesmo modo, o topo da coluna não encostaria diretamente na viga, mas
 é coroado com um capitel. Diferentes formas de capitéis correspondem a
@@ -362,9 +362,55 @@ regularizar o contato entre a coluna e a arquitrave; e capitéis em forma
 de U evitam o deslizamento das vigas para os lados, além de facilitar a
 sobreposição de vigas perpendiculares entre si.
 
-## {data-background-image="https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png"}
-
 ![Arquétipo em madeira da ordem toscana, segundo Chipiez, 1876](https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png){#fig:chipiez-159}
+
+## Falar das arquitraves e dos barrotes, versão persa e versão grega
+
+## {data-background-image=""}
+
+[Uma característica importante]{.newthought} do sistema arquitravado do
+Mediterrâneo oriental é que ele não tem nenhuma forma de
+contraventamento intrínseca à sua concepção estrutural. Todos os
+elementos construtivos, das bases das colunas aos barrotes, são
+simplesmente apoiados uns sobre os outros sem nenhum travamento
+substancial. Nenhum elemento diagonal vem dar rigidez à montagem de
+peças verticais e horizontais. Um esqueleto relativamente leve em
+madeira sem contraventamento é uma construção muito frágil; qualquer
+carga horizontal, como nos terremotos que são bastante frequentes na
+região, derruba o edifício como se fosse uma torre de Jenga. Mesmo algum
+assentamento diferencial nas fundações poderia pôr em risco a
+estabilidade da construção.
+
+## {data-background-image=""}
+
+Duas soluções conjuntas resolvem o problema do contraventamento na
+construção arquitravada do Mediterrâneo oriental:
+
+### Redundância estrutural ###
+
+e
+
+### Núcleo rígido ###
+
+## {data-background-image=""}
+
+A primeira solução é uma certa redundância no dimensionamento da
+estrutura. Essa redundância não é só uma margem de segurança no perfil
+de cada elemento tomado individualmente --- o diâmetro das colunas ou a
+seção das arquitraves e dos barrotes. Ainda assim, essa margem de
+segurança existe e não é pequena. A gama de proporções canônicas das
+ordens clássicas gregas, ou mesmo a das colunas persas, é um tanto
+conservadora; uma parte disso tem a ver com a transposição de materiais
+da madeira para a pedra.
+
+## {data-background-image=""}
+
+A outra forma de redundância estrutural está nos vãos: os intercolúnios
+(a distância entre os eixos das colunas) são bastante estreitos, e as
+proporções das colunatas egípcias, persas e gregas são muito
+verticalizadas.
+
+## Planos rígidos: terraços persas e celas gregas ##
 
 # Construção murária--arqueada e a criação do espaço #
 
