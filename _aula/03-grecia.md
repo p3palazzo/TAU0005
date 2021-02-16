@@ -258,6 +258,8 @@ construção arquitravada. Por isso, vamos partir desses exemplos citados
 por Chipiez para descrever as características fundamentais dessa
 tradição arquitravada.
 
+# Compondo uma construção arquitravada #
+
 ## {data-background-image=""}
 
 [Comecemos pelas fundações.]{.newthought} O senso comum entre os
@@ -481,7 +483,99 @@ arquitravadas.
 
 [A construção arquitravada é aditiva]{.newthought} por natureza. Ela se
 compõe da montagem de elementos claramente distintos entre si,
-encaixados ou apoiados uns sobre os outros.
+relativamente grandes na escala da edificação como um todo, e encaixados
+ou apoiados uns sobre os outros. Essa montagem tende a produzir um
+sistema espacial modular a partir das dimensões dos principais elementos
+da arquitetura --- as colunas e os vãos entre elas, definidos pelas
+arquitraves.
+
+## {data-background-image=""}
+
+Construir com elementos modulares é uma prática especialmente vantajosa
+na arquitetura em madeira. Isso é o caso porque o ciclo de produção das
+colunas e vigas em madeira é relativamente longo e distante do canteiro
+de obra: os perfis serrados precisam secar durante vários meses, até
+dois anos dependendo do clima, e demandam uma área espaçosa para isso.
+Essa distância física e temporal entre o corte das árvores e a
+construção do edifício favorece a padronização das medidas de pilares e
+vigas.
+
+## {data-background-image="https://i.pinimg.com/originals/9d/f8/1a/9df81a21d7cc6f867e223109c33b0277.png" data-background-size="contain" data-background-position="center"}
+
+No *Yingzao fashi*, uma compilação de regras para a construção editada
+pelo arquiteto chinês Li Jie no final do século [XI]{.smallcaps} d.C.,
+há oito classes hierárquicas de construção que correspondem a outros
+tantos módulos de seção e comprimento das vigas, das colunas e dos
+elementos acessórios [@liang:1984pictorial]. Essa regra continuou em
+vigor e foi reeditada várias vezes na China até a segunda metade do
+século [XVIII]{.smallcaps}. Na prancha ilustrada pelo historiador da
+arquitetura Liang Sicheng, no século [XX]{.smallcaps}, as dimensões
+padrão de vigas em cada uma das oito classes ficam bem evidentes
+(@fig:liang-103).
+
+![Regras de carpintaria segundo o *Yingcao fashi*, século [XI]{.smallcaps}, traduzidas e ilustradas por Liang Sicheng no século [XX]{.smallcaps}](https://i.pinimg.com/originals/9d/f8/1a/9df81a21d7cc6f867e223109c33b0277.png){#fig:liang-103 .line}
+
+## {data-background-image=""}
+
+Outros sistemas seguem uma lógica mais simples. No *stick framing*, o
+modo norte-americano de construir com madeira serrada, os perfis são
+sempre leves o suficiente para serem carregados e montados por equipes
+pequenas de carpinteiros. As dimensões são altamente padronizadas em
+medidas nominais, e o desempenho estrutural das armações de esteios e
+barrotes é bem conhecido.
+
+## {data-background-image=""}
+
+A modularidade tem um papel importante na padronização de concepções
+estruturais e de dimensionamento da construção, mas além disso ela pode,
+ou não, ser explorada como um instrumento de articulação arquitetônica.
+No caso da carpintaria norte-americana, essa modularidade simplesmente
+estabelece espessuras padrão de paredes e limites práticos para o
+tamanho das peças na arquitetura residencial. Já em sistemas que usam
+elementos de grande porte, como a carpintaria chinesa ou europeia, os
+módulos são mais determinantes para a proporção geral da construção, mas
+também podem ser manipulados e ajustados a condições específicas.
+
+Especialmente comuns são a diminuição de amplitude dos vãos do centro
+para as extremidades, e a diminuição de altura dos níveis da base para o
+topo. Outra possibilidade é o uso de tramos alternados.
+
+## {data-background-image=""}
+
+Uma das variações mais frequentes em várias tradições de construção
+arquitravada é aumentar a amplitude do vão central e reduzi-la nas
+extremidades da colunata. Esse ajuste está previsto no *Yingcao fashi* e
+é um dos assim chamados "refinamentos ópticos" bem conhecidos na
+arquitetura clássica greco-romana. Talvez essa prática se origine de uma
+percepção intuitiva de que os cantos da construção precisam ter uma
+estrutura reforçada, seja para contraventamento, seja por causa do
+assentamento das fundações. Em qualquer caso, ela transmite um senso
+visual de estabilidade e equilíbrio que é quase tão importante para a
+*firmitas* vitruviana quanto a solidez efetiva da construção.
+
+## {data-background-image=""}
+
+É pelo mesmo motivo da estabilidade estrutural e visual que se costuma
+reduzir a altura dos níveis sucessivos da estrutura, da base até o topo.
+Palladio indicava reduzir cada pavimento sucessivo a ^15^/~16~, ⅞ e ¾ da
+altura do térreo. Essa diminuição proporcional da estrutura *visível*
+não implica necessariamente disciplinar as alturas dos *pavimentos* por
+trás da fachada.
+
+## {data-background-image=""}
+
+O modo mais flexível de introduzir variações na modularidade de uma
+composição arquitravada é com o uso de tramos alternados. É uma solução
+relativamente rara na construção em madeira, e muito mais comum com
+pedra, especialmente manipulando sistemas de ordens clássicas. Os tramos
+alternados começaram a se popularizar na Europa medieval e se tornam um
+expediente habitual de composição no Renascimento
+[@geymueller:1901baukunst2]. Os tramos alternados, em duas ou mais
+medidas que se seguem num ritmo, permitem resolver uma variedade de
+condições estruturais, funcionais ou estéticas. A forma mais comum é
+enquadrar um vão largo entre dois vãos estreitos, e assim
+sucessivamente, terminando sempre com um vão estreito nas extremidades
+da construção, e tendo de preferência um vão largo no eixo de simetria.
 
 # Construção murária--arqueada e a criação do espaço #
 
