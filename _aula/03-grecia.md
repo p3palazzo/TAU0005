@@ -577,7 +577,79 @@ enquadrar um vão largo entre dois vãos estreitos, e assim
 sucessivamente, terminando sempre com um vão estreito nas extremidades
 da construção, e tendo de preferência um vão largo no eixo de simetria.
 
+## {.unlisted}
+
+O mito da cabana primitiva nos deu a deixa para falar da madeira como
+material de construção primordial. Esse material se presta a sistemas de
+construção que chamamos de *arquitravados*, compostos de modo aditivo
+por pilares e vigas apoiados ou encaixados uns nos outros. As formas que
+esses sistemas assumem em todo o mundo vêm justamente das propriedades
+estruturais da madeira: alta resistência à tração e à compressão, baixa
+resistência ao cisalhamento. Isso resulta em sistemas com colunas e
+vigas esbeltas, ligadas por capitéis lineares ou mãos de apoio bem
+desenvolvidas. O contraventamento é uma necessidade, e costuma ser feito
+com elementos encaixados uns nos outros, núcleos de paredes em alvenaria
+ou terraços rígidos. Pela sua natureza, a construção arquitravada
+resulta em malhas lineares de pontos de apoio; vamos ver na sequência
+como essa lógica é diferente da construção murária --- feita de paredes
+portantes.
+
 # Construção murária--arqueada e a criação do espaço #
+
+A construção murária, ou seja, baseada em paredes, é a delimitação por
+excelência do espaço. Na seção anterior, vimos como a construção
+arquitravada vem do uso da madeira, e resulta em malhas estruturais com
+composição aditiva. A construção murária, por sua vez, tem o seu
+paradigma material nas alvenarias, e corresponde a uma concepção
+subtrativa: como se o espaço pudesse ser escavado dentro de uma massa
+estrutural sólida.
+
+## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
+
+A tenda (ver @fig:chambers-huts) é o tipo originário das construções
+temporárias. No domínio da arquitetura durável, o mito da cabana
+primitiva foi o nosso ponto de partida para explicar a construção
+arquitravada em madeira. A construção murária, portanto, remete ao
+terceiro e último tipo originário: a caverna. Ao contrário dos dois
+primeiros tipos, a alegoria de uma caverna não é uma analogia muito
+clara com processos propriamente construtivos; em vez disso, ela
+representa uma certa ideia de espacialidade.
+
+## {data-background-image="https://i.pinimg.com/originals/13/1e/7d/131e7d63fbf350e28f24f1d15e557b8a.png"}
+
+O teórico francês Quatremère de Quincy, no final do século
+[XVIII]{.smallcaps}, desenvolveu o caráter da "caverna"
+[@quatremere:1788caractere] com base num dos três tipos de abrigos
+primitivos propostos em 1759 por Chambers (@fig:chambers-second).
+Segundo Quatremère, a caverna seria o abrigo primitivo das sociedades
+pastorais: um abrigo caracterizado pelas suas necessidades de espaço, ao
+contrário da cabana, que era determinada pelo desenvolvimento de uma certa
+lógica construtiva.
+
+![Cabana primitiva em forma de "caverna", segundo Chambers, 1759](https://i.pinimg.com/originals/13/1e/7d/131e7d63fbf350e28f24f1d15e557b8a.png){#fig:chambers-second .fullwidth}
+
+## {data-background-image=""}
+
+Com esse argumento, Quatremère pretendia relegar a caverna à cultura de
+sociedades muito antigas, como o Egito e a Mesopotâmia. Aqui, vamos
+subverter essa hierarquia e tratar a caverna como o tipo de todas as
+culturas construtivas que se baseiam em massas de alvenaria portante.
+
+## {data-background-image=""}
+
+A alvenaria é o segundo princípio construtivo ancestral: ela sempre
+aparece associada às construções arquitravadas, seja como fundação, seja
+como contraventamento. A alvenaria nasce, com perdão da licença poética,
+do gesto primário de quem empilha uns seixos na beira do caminho para
+marcar a sua passagem.
+
+## {data-background-image=""}
+
+Mesmo assim, a origem da parede portante tem sido tratada como algo
+derivativo, secundário na lógica da arquitetura. O teórico alemão do
+século [XIX]{.smallcaps} Gottfried Semper especulou que a parede não
+nascia com a solidez duma alvenaria estrutural, e sim com a leveza de
+uma esteira trançada.
 
 # Construção tradicional e meio ambiente #
 
