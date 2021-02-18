@@ -258,8 +258,6 @@ construção arquitravada. Por isso, vamos partir desses exemplos citados
 por Chipiez para descrever as características fundamentais dessa
 tradição arquitravada.
 
-# Compondo uma construção arquitravada #
-
 ## {data-background-image=""}
 
 [Comecemos pelas fundações.]{.newthought} O senso comum entre os
@@ -302,29 +300,45 @@ faces externas dos blocos não costumam ter um acabamento muito refinado
 
 Palladio indica dar à base das fundações o dobro da largura da parede, e
 que ele tenha uma seção em forma de trapézio, onde o topo deve ser só um
-pouco mais largo do que a parede. No topo das fundações, vamos encontrar
-uma última camada de base que cobre toda a superfície da edificação; ela
-pode ser em terra batida ou revestida com lajes de pedra, formando uma
-espécie de radier. Na Grécia clássica, essa superfície é o estilóbata
-(@fig:dinsmoor-back).
+pouco mais largo do que a parede. No entanto, essa prática não é
+universal: muitas vezes, as fundações são paredes verticais um pouco
+mais largas do que a superestrutura acima delas. No topo das fundações,
+vamos encontrar uma última camada de base que cobre toda a superfície da
+edificação; ela pode ser em terra batida ou revestida com lajes de
+pedra, formando uma espécie de radier. Na Grécia clássica, essa
+superfície é o estilóbata (@fig:dinsmoor-back).
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stratos_DSC04042.jpg/1280px-Stratos_DSC04042.jpg"}
 
 A plataforma sobre a qual a superestrutura da edificação se levanta
 raramente está no nível natural do terreno; na construção arquitravada,
 ela é quase sempre soerguida --- seja num pódio, como é o caso da
-arquitetura persa e na Itália, seja sobre alguns degraus, como na
-Grécia. O pódio pertence mais propriamente à construção murária, da qual
-vamos tratar na próxima seção; já o *crepidoma* ou degraus vai merecer
-um tratamento mais detalhado junto com o sistema formal das ordens
-clássicas greco-romanas.
+arquitetura persa e na Itália, seja sobre alguns degraus, como na Grécia
+(@fig:krepis). O pódio pertence mais propriamente à construção murária,
+da qual vamos tratar na próxima seção; já o *crepidoma* ou degraus vai
+merecer um tratamento mais detalhado junto com o sistema formal das
+ordens clássicas greco-romanas.
 
-## {data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-position="center" data-background-repeat="no-repeat" data-background-size="containj}
+![Krepidoma do templo de Zeus, Stratos, Grécia, iniciado 321 a.C. Foto: [Rjdeadly, 2016](https://commons.wikimedia.org/wiki/File:Stratos_DSC04042.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stratos_DSC04042.jpg/1280px-Stratos_DSC04042.jpg){#fig:krepis}
 
-[Resolvidas as fundações, podemos tratar]{.newthought} da superestrutura
+## {data-background-image=""}
+
+Estabelecidos os princípios conceituais e a base física para a
+construção arquitravada, vamos ver na próxima seção quais são os
+requisitos técnicos para a superestrutura em madeira ou pedra.
+
+# Compondo uma construção arquitravada #
+
+Resolvidas as fundações, podemos tratar da superestrutura
 do edifício. A tradição arquitravada do Mediterrâneo oriental geralmente
 combina um sistema de colunas em madeira com paredes em alvenaria, que
 servem de divisórias no espaço mas também costumam ter função estrutural
 (ver @fig:chipiez-208). As colunas propriamente ditas são, na sua
-origem, troncos de árvores. A possibilidade, ou a necessidade, de usar
+origem, troncos de árvores.
+
+## {data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-position="center" data-background-repeat="no-repeat" data-background-size="containj}
+
+A possibilidade, ou a necessidade, de usar
 troncos de tamanhos específicos determinava as dimensões, mas também as
 proporções das colunas: mais esbeltas onde se usavam árvores mais finas,
 como pinheiros; mais grossas quando se tinha cedro ou carvalho à
@@ -335,14 +349,19 @@ região do Crescente fértil e na Grécia ainda na Antiguidade; esse
 desmatamento pode até mesmo ter alterado o clima na região, com
 consequências que se prolongam até hoje.
 
-## {data-background-image=""}
+## {data-background-image="https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png"}
 
 Por causa do uso de troncos nas origens dessa tradição, as colunas têm
 uma contratura elegante, onde o diâmetro superior é ligeiramente menor
 do que o diâmetro inferior. Essa contratura é feita com um perfil em
 curva suave, chamado de êntase. Num antigo canteiro de obra grego, foi
 descoberto um diagrama que mostra o método de construção geométrica
-dessa curva, numa escala distorcida verticalmente (@fig:entasis).
+dessa curva, numa escala distorcida verticalmente; esse método já tinha
+sido intuído pelo arquiteto italiano Fra Giocondo no século
+[XVI]{.smallcaps}, muito antes da descoberta desse diagrama
+(@fig:entasis).
+
+![Esquema da êntase de uma coluna clássica, na edição do tratado de Vitrúvio por Fra Giocondo, século [XVI]{.smallcaps} (redesenhado no século [XX]{.smallcaps})](https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png){#fig:entasis .fullwidth}
 
 ## {data-background-image=""}
 
@@ -891,9 +910,66 @@ Níger, como Djenné (@fig:djenne).
 Na teoria, a taipa de pilão poderia se prestar a formas totalmente
 orgânicas, já que ela não depende do módulo mínimo de um bloco. Na
 prática, ela é usada sobretudo em grandes paredes retilíneas, para
-permitir a reutilização do taipal com mais facilidade.
+permitir a reutilização do taipal com mais facilidade. A grande
+espessura das paredes em taipa de pilão faz com que elas, em geral, não
+precisem de contraventamento.
 
 ## {data-background-image=""}
+
+Esse não é o caso das paredes de blocos, especialmente as que são
+construídas com blocos pequenos --- em geral, adobe ou tijolo cozido. A
+eficiência dita que essas paredes sejam as mais esbeltas possíveis, para
+não consumir material sem necessidade. O dimensionamento recomendado por
+Palladio, que nos dá as indicações mais práticas e claras a esse
+respeito, é o seguinte:
+
+1. A parede do pavimento superior terá *uma vez* de alvenaria (a
+   espessura da parede é determinada pelo comprimento de um tijolo);
+
+2. Cada pavimento sucessivo para baixo deve aumentar essa espessura em
+   meia vez.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif/lossy-page1-4233px-Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif.jpg"}
+
+![Colunas embutidas formando contrafores no interior da cela do templo de Baco, Baalbek, século [II]{.smallcaps} d.C. Foto: [Félix Bonfils](https://commons.wikimedia.org/wiki/File:Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif/lossy-page1-1242px-Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif.jpg){#fig:contraforte}
+
+![Muro serpenteante, Shaw nature reserve. Foto: [Steve Bougeno, 2015](https://500px.com/photo/128955465/wall-by-Steve--Bougeno/)](https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg){#fig:serpentine .marginnote}
+
+<!--_,-->
+
+Mas, mesmo uma parede de uma vez (25 a 40 centímetros de espessura,
+dependendo do revestimento e do módulo do tijolo) está sujeita à
+flambagem se for muito longa ou alta. Por isso, a parede precisa ser
+contraventada. Vários expedientes são usados para isso na construção
+murária. Uma parede de tijolos pode simplesmente ser encaixada entre
+cunhais de pedra ou vice-versa (@fig:cunhal). Paredes em pedra ou mesmo
+taipa podem ser reforçadas com contrafortes, que eventualmente assumem a
+forma de pilastras ou colunas "decorativas" na fachada
+(@fig:contraforte).
+
+## {data-background-image="https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg"}
+
+A solução mais sofisticada para o contraventamento na construção murária
+é deslocar o alinhamento da parede em planta, uma prática bastante comum
+em muretas serpenteantes no campo (@fig:serpentine). Esse deslocamento
+aumenta o momento de inércia da parede como um todo, o que evita a
+flambagem e resiste também a cargas horizontais, como a do vento.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f2/Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG"}
+
+<!--_,-->
+
+Numa edificação, fazer uma parede serpenteante não é muito prático. Em
+vez disso, o mais comum é usar ressaltos ortogonais. Esses ressaltos
+podem ser maciços, e nesse caso podem se tornar volumes em forma de
+torres (@fig:saqqara). Eles podem, também, ser vazados para dentro, e
+nesse caso oferecem vãos nas paredes para encaixar mobiliário. Por fim,
+a largura dos ressaltos permite enquadrar portas e janelas com mais
+firmeza visual, além de oferecer espaço para assentos junto às janelas.
+
+![Recinto murado do complexo mortuário do faraó Djoser em Saqqara, Egito, c. 2670--2650 a.C., em alvenaria de pedra com ressaltos. Foto: [Maveric149, 2008](https://commons.wikimedia.org/wiki/File:Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG)](https://upload.wikimedia.org/wikipedia/commons/f/f2/Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG){#fig:saqqara .fullwidth}
+
+## {.unlisted}
 
 A taipa e a alvenaria são os principais sistemas de construção
 tradicional de paredes portantes. Eles consistem num uso mais ou menos
@@ -912,4 +988,34 @@ murária são o objeto da próxima seção.
 Na taxonomia da arquitetura tradicional, associamos a construção murária
 com o caráter da *caverna*, enquanto a construção arquitravada tem o
 caráter da *cabana*. Essa oposição sinaliza duas relações diferentes
-entre construção e espaço.
+entre construção e espaço. A cabana é um paradigma aditivo: a montagem
+de peças formando um esqueleto estrutural que organiza o espaço
+indefinido numa malha. Já a caverna é um paradigma subtrativo: os
+espaços de formas definidas são como que escavados entre as massas de
+paredes.
+
+## {data-background-image=""}
+
+A arquitetura aditiva pede um estudo rigoroso da articulação de malhas
+estruturais e do seu impacto na modularidade dos espaços. A arquitetura
+subtrativa, por sua vez, pede atenção para a forma geométrica de cada
+espaço e para a sequência de espaços individuais num conjunto.
+
+Pensar o espaço de modo subtrativo, escavando volumes dentro de uma
+massa construída, na verdade abre um universo mais amplo de
+possibilidades de manipulação da forma. Os espaços pode estar
+simplesmente justapostos numa sequência, ou podem se interpenetrar,
+formando articulações mais complexas de volumes. As formas geométricas
+em três dimensões podem se alinhar horizontalmente, ao longo do percurso
+dos usuários, mas também verticalmente, compondo ambientes visualmente
+ricos e amplos.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"}
+
+O conceito de uma arquitetura feita de espaços como que *escavados* na
+matéria sólida não é só uma alegoria: as mais antigas construções
+duráveis que se conhece eram semienterradas ou tinham pelo menos uma
+parte do seu espaço escavado contra o terreno inclinado. Os monumentos
+de Göbekli Tepe, no extremo norte do Crescente fértil, foram construídos
+desse modo entre 9600 e 8500 a.C. (ver @fig:gt-pano).
+
