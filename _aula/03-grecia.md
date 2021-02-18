@@ -635,98 +635,73 @@ sociedades muito antigas, como o Egito e a Mesopotâmia. Aqui, vamos
 subverter essa hierarquia e tratar a caverna como o tipo de todas as
 culturas construtivas que se baseiam em massas de alvenaria portante.
 
-## {data-background-image=""}
+## {data-background-image="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png" data-background-size="contain" data-background-position="center"}
 
-A alvenaria é o segundo princípio construtivo ancestral: ela sempre
-aparece associada às construções arquitravadas, seja como fundação, seja
-como contraventamento. A alvenaria nasce, com perdão da licença poética,
-do gesto primário de quem empilha uns seixos na beira do caminho para
-marcar a sua passagem.
+![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .marginnote .line}
 
-## {data-background-image=""}
-
-Mesmo assim, a origem da parede portante tem sido tratada como algo
+A origem da parede portante tem sido tratada como algo
 derivativo, secundário na lógica da arquitetura. O teórico alemão do
 século [XIX]{.smallcaps} Gottfried Semper especulou que a parede não
 nascia com a solidez duma alvenaria estrutural, e sim com a leveza de
-uma esteira trançada.
+uma esteira trançada. Esse pressuposto vem do modelo de cabana primitiva
+proposto por Semper em 1860, que deriva de uma habitação contemporânea
+dos índios karib (@fig:karib).
 
-# Construção tradicional e meio ambiente #
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg"}
 
-## {data-background-image=""}
+Semper escreveu isso numa época em que estava se tornando comum
+construir com esqueletos estruturais em ferro, deixando as paredes com
+um papel de simples vedação, sem função estrutural. Por isso, essa
+separação entre esqueleto portante e parede divisória parecia natural
+para ele, talvez até primordial. Mas essa distinção é mais uma regressão
+conceitual do que algo efetivamente atestado na história da arquitetura.
 
-No registro das tradições arquitetônicas ao longo do tempo, a geologia e
-o clima nas diferentes partes do mundo determinam a maior parte dos
-materiais de construção que podem ser usados num certo lugar. Já numa
-perspectiva contemporânea, onde as cadeias produtivas podem ser globais,
-podemos acrescentar uma restrição intencional: considerar o impacto
-ambiental que decorre do transporte de longa distância e o impacto
-socioeconômico de abrir mão do domínio local sobre as tecnologias da
-construção. No cenário econômico e ecológico da atualidade, escolher os
-processos produtivos da arquitetura tradicional acaba sendo um ato de
-responsabilidade ambiental e social.
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png" data-background-size="contain" data-background-position="center"}
 
-## {data-background-image=""}
-
-O acesso a recursos naturais disponíveis na região é o ponto de partida
-da cadeia produtiva tradicional, mas a gestão e o processamento desses
-recursos é que definem a forma que esses recursos assumem enquanto
-componentes construtivos nas diferentes tradições. O modo de talhar
-pedras, o uso da argila em taipas ou em blocos, os encaixes entre peças
-de madeira são todas particularidades culturais que influenciam o
-processo construtivo e resultam naquilo que chamamos mais
-superficialmente de o *estilo* característico de cada tradição.
+Como quer que seja,
+a alvenaria é o segundo princípio construtivo ancestral: ela sempre
+aparece associada às construções arquitravadas, seja como fundação, seja
+como contraventamento. A alvenaria nasce, com perdão da licença poética,
+do gesto primário de quem empilha uns seixos na beira do caminho para
+marcar a sua passagem. Ela está presente como arrimo em algumas das mais
+antigas cabanas de caçadores-coletores, por exemplo no sítio
+arqueológico de Eynan, em Israel, datado de 15 a 12 mil anos atrás (ver
+@fig:eynan).
 
 ## {data-background-image=""}
 
-Para além de se servir dos materiais extraídos da natureza, uma tradição
-arquitetônica sustentável precisa garantir o manejo desses recursos no
-longo prazo. Na Mesopotâmia antiga, algumas mudanças importantes não só
-nos sistemas construtivos mas também na agricultura e na pecuária talvez
-tenham a ver com o desmatamento das encostas montanhosas que formam o
-perímetro exterior do Crescente fértil. Reflorestar, mas também extrair
-e processar minérios com prudência, têm que ser preocupações centrais no
-processo produtivo.
+É nas regiões pouco arborizadas que a construção murária assume, pela
+primeira vez, o papel estrutural dominante. Muitas dessas regiões, de
+clima semiárido, ficam na zona tropical e subtropical do hemisfério
+Norte. Alguns dos exemplares mais antigos dessa arquitetura se localizam
+na América do Norte e no Oriente Médio. Esses exemplares justificam o
+nome de "caverna" que usamos para caracterizar o tipo básico da
+construção murária: as paredes em pedra seca aparentemente começam a ser
+usadas como arrimo ou acabamento para espaços semienterrados.
 
-Em quase todas as cadeias da construção, existe um certo distanciamento
-entre, de um lado, a extração e o processamento dos materiais e, do
-outro lado, a especificação e o uso desses materiais na obra. O que é
-importante é que essa distância não represente, para o construtor ou o
-arquiteto, falta de conhecimento ou de preocupação com as etapas
-anteriores.
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"}
 
-## {data-background-image=""}
+![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano .fullwidth}
 
-Já no século [XV]{.smallcaps}, Leon Battista Alberti, o arquiteto e
-tratadista italiano, podia comprar quase todos os componentes
-construtivos de que ele precisasse, prontos para uso [@alberti:2011arte,
-II, xiii]. No entanto, isso não o impediu de descrever, em linhas
-gerais, as características da matéria-prima ou o seu preparo. Esse
-gênero de informação, como se fosse um controle de qualidade ou de
-procedência, aparece desde o tratado de Vitrúvio e em textos do
-Renascimento inspirados por ele, como nos *Quatro livros da arquitetura*
-de Palladio [@palladio:1570quattro, I].
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png"}
+
+![Göbekli Tepe, vista aérea das escavações. Foto: [E. Kücuk, Instituto Arqueológico Alemão (DAI), 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png){#fig:gt-plan .marginnote}
+
+Depois da cabana de Eynan, o sítio mais antigo que se conhece com
+construção murária é Göbekli Tepe (@fig:gt-pano), um morro no extremo
+norte do Crescente fértil que começou a ser ocupado por volta de 9500
+a.C. Aqui também temos arrimos em pedra seca em volta de pelo menos
+quatro espaços semienterrados de planta mais ou menos circular
+(@fig:gt-plan). Ao contrário de Eynan, em Göbekli Tepe os pilares, que
+talvez sustentassem alguma cobertura, são grandes lajes de pedra.
 
 ## {data-background-image=""}
 
-O discurso sobre a origem dos materiais tende a desaparecer dos textos
-arquitetônicos a partir do século [XVII]{.smallcaps}. O fim da
-preocupação com a profundidade inteira da cadeia produtiva da construção
-acompanha uma tripla separação de competências no ofício: num vértice
-temos os arquitetos, que se especializam na solução espacial e estética
-das edificações; num segundo vértice, estão os engenheiros calculistas
-que concebem o equilíbrio estático dessas edificações a partir de
-materiais com propriedades já conhecidas; e, no terceiro vértice, temos
-os construtores que se ocupam de comprar e instalar os componentes
-padronizados. Nenhuma dessas três categorias profissionais tem mais o
-domínio da cadeia produtiva como um todo, nem sequer a necessidade ou as
-atribuições para se ocupar de trechos dessa cadeia que estejam fora da
-sua alçada.
-
-## Bioclimatismo ##
-
-- Bioclimatismo
-- Isolamento térmico e ventilação
-- Casas-pátio na Mesopotâmia e no Egito
-- Moradas na Europa megalítica
+Ao contrário do abrigo em Eynan e de quase todas as outras construções
+da mesma época, as estruturas de Göbekli Tepe eram (quase?) inteiramente
+feitas de pedra, e não parecem ter sido usadas como abrigo ou habitação.
+Isso nos leva a uma questão que, daí para a frente, seria central na
+arquitetura de muitas tradições por todo o mundo: o uso de materiais
+duráveis preferencialmente dedicado para construções não estritamente
+utilitárias, como edifícios religiosos ou simbólicos do poder político.
 
