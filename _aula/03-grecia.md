@@ -68,7 +68,7 @@ de caça ou de expedições militares (@fig:marines).
 
 ## {data-background-image="https://i.pinimg.com/originals/2d/2e/33/2d2e33d53242aa4865f1430d1b6abb47.jpg"}
 
-![Interior de um *mudhif*. Foto: [Ikhlas Abbis](http://www.abbis.photo/portfolio/architecture/) ↑](https://i.pinimg.com/originals/5b/1e/86/5b1e86330939e6262c84d74e2e500dda.jpg){#fig:mudhif-int .marginnote .stretch}
+![Interior de um *mudhif*. Foto: [Ikhlas Abbis](http://www.abbis.photo/portfolio/architecture/) ↑](https://i.pinimg.com/originals/5b/1e/86/5b1e86330939e6262c84d74e2e500dda.jpg){#fig:mudhif-int .marginnote}
 
 ![Construção de um *mudhif*. Foto: [Jassim Alasadi](https://www.theguardian.com/cities/2020/jan/15/the-case-for-making-low-tech-dumb-cities-instead-of-smart-ones) ←](https://i.pinimg.com/originals/2d/2e/33/2d2e33d53242aa4865f1430d1b6abb47.jpg){#fig:mudhif-build}
 
@@ -235,6 +235,8 @@ pelo Egito e pela Anatólia (@fig:chipiez-compare).
 
 ## {data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg"}
 
+## {.unlisted}
+
 ![Cabana vernácula na Anatólia com colunata dianteira, segundo Chipiez, 1876](https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png){#fig:chipiez-208 .stretch .marginnote .line}
 
 ![Cabana vernácula na Anatólia com colunata perimetral, segundo Chipiez, 1876](https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png){#fig:chipiez-209 .stretch .marginnote .line}
@@ -296,7 +298,7 @@ faces externas dos blocos não costumam ter um acabamento muito refinado
 
 ## {data-background-image="https://i.pinimg.com/originals/84/a0/84/84a0844920befe8a43748bc9cb4534de.png"}
 
-![Corte do templo de Hefesto, Atenas, século [V]{.smallcaps} a.C. Desenho: William B. Dinsmoor, Jr., 1984](https://i.pinimg.com/originals/84/a0/84/84a0844920befe8a43748bc9cb4534de.png){#fig:dinsmoor-back .marginnote .stretch .line}
+![Corte do templo de Hefesto, Atenas, século [V]{.smallcaps} a.C. Desenho: William B. Dinsmoor, Jr., 1984](https://i.pinimg.com/originals/84/a0/84/84a0844920befe8a43748bc9cb4534de.png){#fig:dinsmoor-back .marginnote .line}
 
 Palladio indica dar à base das fundações o dobro da largura da parede, e
 que ele tenha uma seção em forma de trapézio, onde o topo deve ser só um
@@ -1018,4 +1020,6 @@ duráveis que se conhece eram semienterradas ou tinham pelo menos uma
 parte do seu espaço escavado contra o terreno inclinado. Os monumentos
 de Göbekli Tepe, no extremo norte do Crescente fértil, foram construídos
 desse modo entre 9600 e 8500 a.C. (ver @fig:gt-pano).
+
+# Referências {#refs}
 
