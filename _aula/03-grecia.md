@@ -500,7 +500,7 @@ Essa distância física e temporal entre o corte das árvores e a
 construção do edifício favorece a padronização das medidas de pilares e
 vigas.
 
-## {data-background-image="https://i.pinimg.com/originals/9d/f8/1a/9df81a21d7cc6f867e223109c33b0277.png" data-background-size="contain" data-background-position="center"}
+## {data-background-image="https://i.pinimg.com/originals/9d/f8/1a/9df81a21d7cc6f867e223109c33b0277.png" data-background-position="bottom"}
 
 No *Yingzao fashi*, uma compilação de regras para a construção editada
 pelo arquiteto chinês Li Jie no final do século [XI]{.smallcaps} d.C.,
@@ -511,7 +511,10 @@ vigor e foi reeditada várias vezes na China até a segunda metade do
 século [XVIII]{.smallcaps}. Na prancha ilustrada pelo historiador da
 arquitetura Liang Sicheng, no século [XX]{.smallcaps}, as dimensões
 padrão de vigas em cada uma das oito classes ficam bem evidentes
-(@fig:liang-103).
+(@fig:liang-103). O resultado são edifícios também modulares, com tramos
+estruturais que seguem dimensões e proporções padronizadas.
+
+## {data-background-image="https://i.pinimg.com/originals/9d/f8/1a/9df81a21d7cc6f867e223109c33b0277.png" data-background-position="top"}
 
 ![Regras de carpintaria segundo o *Yingcao fashi*, século [XI]{.smallcaps}, traduzidas e ilustradas por Liang Sicheng no século [XX]{.smallcaps}](https://i.pinimg.com/originals/9d/f8/1a/9df81a21d7cc6f867e223109c33b0277.png){#fig:liang-103 .line}
 
@@ -594,7 +597,7 @@ resulta em malhas lineares de pontos de apoio; vamos ver na sequência
 como essa lógica é diferente da construção murária --- feita de paredes
 portantes.
 
-# Construção murária--arqueada e a criação do espaço #
+# Construção murária #
 
 A construção murária, ou seja, baseada em paredes, é a delimitação por
 excelência do espaço. Na seção anterior, vimos como a construção
@@ -709,23 +712,35 @@ utilitárias, como edifícios religiosos ou simbólicos do poder político.
 
 ## {data-background-image=""}
 
-Os materiais da construção murária têm um ciclo de produção geralmente
+[O ciclo de produção dos materiais]{.newthought} da construção murária é geralmente
 mais curto que o da madeira. O aspecto crítico é a extração da
 matéria-prima, e isso vale tanto para a pedra quanto para os blocos
-feitos de barro seco ou cozido. Na maior parte do mundo, as rochas
+feitos de barro seco ou cozido. O impacto ambiental da extração dessa
+matéria-prima mineral é um aspecto cada vez mais importante à medida que
+o volume de construção aumenta em todo o mundo. Nas sociedades não
+industrializadas, esse impacto é moderado pelo esforço econômico
+necessário para a extração de rochas e argila: por isso, a regra era a
+reutilização de elementos de construções antigas, quando não a
+reutilização e preservação das edificações como um todo.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/eb/Ħaġar_Qim,_megalit_templom_bejárata.jpg"}
+
+Na maior parte do mundo, as rochas
 usadas para a construção são sedimentares, porque elas combinam
 facilidade de extração e resistência mecânica suficiente para os
 propósitos da construção. Essas rochas se dividem, para efeitos
 práticos, em dois grandes grupos: os calcários e os arenitos.
 
-## {data-background-image=""}
-
-O calcário é o grupo de rochas em geral mais útil para a construção.
+O calcário é o grupo de rochas em geral mais útil para a construção, e
+por isso tem sido usado desde o Neolítico, como nos monumentos
+megalíticos de Malta, construídos por volta de 3000 a.C. (@fig:hagar).
 Além de ser usado em blocos, o calcário também pode ser britado e
 queimado para produzir cal, que é um insumo importante em argamassas e
 também é a matéria-prima do gesso. O calcário geralmente se deposita em
 leitos ou veios sucessivos, e por isso tem um *grão* linear que precisa
 ser levado em conta no uso estrutural dos blocos.
+
+![Monumento megalítico de Ħaġar Qim, Malta, 3200 a 2500 a.C., construído em calcário. Foto: [Kiss Tamás, 1999](https://commons.wikimedia.org/wiki/File:Ħaġar_Qim,_megalit_templom_bejárata.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ħaġar_Qim,_megalit_templom_bejárata.jpg/1280px-Ħaġar_Qim,_megalit_templom_bejárata.jpg){#fig:hagar}
 
 ## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm" data-background-video-loop="true" data-background-video-muted="true"}
 
@@ -738,12 +753,163 @@ isso.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/84/Extracting_clay_to_produce_bricks.jpg"}
 
-Tanto a argila quanto a areia usadas na confecção dos tijolos devem
-estar livres de matéria orgânica: por isso os materiais mais indicados
-pelos tratadistas e construtores são a argila e a areia ditas "de mina",
-ou seja, extraídas de encostas ou poços, como neste barranco no Malaui
-(@fig:claypit), e não recolhidas na superfície, como na margem de rios
-ou do mar.
+Tanto a argila quanto a areia usadas na confecção dos blocos e tijolos
+devem estar livres de matéria orgânica. Eventualmente, blocos de adobe
+podem ser "aditivados" com fibras ou proteínas orgânicas, mas isso deve
+ser feito de modo controlado. Por isso, os materiais mais
+indicados pelos tratadistas e construtores são a argila e a areia ditas
+"de mina", ou seja, extraídas de encostas ou poços, como neste barranco
+no Malaui (@fig:claypit), e não recolhidas na superfície, da margem de
+rios ou do mar.
 
 ![Extração de argila para olaria em Mlala, Dwangwa, Malaui. Foto: [Bibiloucapetown, 2017](https://commons.wikimedia.org/wiki/File:Extracting_clay_to_produce_bricks.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extracting_clay_to_produce_bricks.jpg/1280px-Extracting_clay_to_produce_bricks.jpg){#fig:claypit}
 
+## {data-background-image=""}
+
+Em todos os casos, a obtenção e a correção da matéria-prima, seguida da
+moldagem e secagem dos blocos, pode levar algumas semanas. Em regiões de
+clima úmido, onde se usam sobretudo tijolos cozidos, é preciso deixar
+secar os blocos moldados durante muito mais tempo, talvez até alguns
+meses, antes de os queimar. Em qualquer caso, a relativa facilidade de
+se produzir os blocos de adobe ou os tijolos, e as suas pequenas
+dimensões, fazem com que esses componentes possam ser altamente
+padronizados e estocados em grandes quantidades para pronta entrega.
+Ainda assim, a produção de blocos em formas personalizadas, numa olaria
+artesanal, também é simples, o que permite resolver elementos especiais
+como colunas e cimalhas.
+
+## {data-background-image="https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png" data-background-size="contain"}
+
+[O assentamento dos blocos com argamassa]{.newthought} é a regra em
+quase todas as tradições da construção murária. Em muitos casos, o
+material de que é feita a argamassa é o mesmo material dos blocos:
+barro, para assentar blocos em adobe, ou cal e areia, para assentar
+blocos de pedra. Em sociedades que fazem uso generalizado de tijolos
+cozidos, a argamassa de cal também costuma ser usada na argamassa, já
+que o procedimento de produção dos dois elementos envolve tecnologias
+semelhantes: a queima com redução de oxigênio, como neste forno de cal
+do século [XVIII]{.smallcaps} [@quintanafrias:2005cal5] (@fig:montesa).
+
+![Forno de cal de Montesa, Valência, Espanha, século [XVIII]{.smallcaps}. Modelagem: [Pablo Aparicio Reso, 2013](http://hornodemontesa.blogspot.com/2013/05/26-como-era-un-horno-de-cal-tradicional.html)](https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png){#fig:montesa}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/91/Tufo_Necropoli_della_Banditaccia.JPG" data-background-size="contain"}
+
+![Parede em blocos de tufo na necrópole etrusca de Banditaccia, Itália, c. século [VI]{.smallcaps} a.C. Foto: [Patafisik, 2009](https://commons.wikimedia.org/wiki/File:Tufo_Necropoli_della_Banditaccia.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tufo_Necropoli_della_Banditaccia.JPG/800px-Tufo_Necropoli_della_Banditaccia.JPG){#fig:tufo .marginnote}
+
+Pelo mesmo motivo, regiões com muitos depósitos de rochas vulcânicas,
+como o tufo na Itália (@fig:tufo), também agregam certas cinzas
+vulcânicas à argamassa. Essas cinzas são conhecidas como *pozolanas* por
+causa da cidade de Pozzuoli, onde elas são especialmente abundantes.
+Tanto a cal quanto as pozolanas dão propriedades hidráulicas à
+argamassa, isto é, esses materiais reagem quimicamente com a água da
+mistura.
+
+## {data-background-video="https://assets.mixkit.co/videos/preview/mixkit-working-with-concrete-14729-large.mp4"}
+
+As argamassas resultantes dessas reações têm propriedades interessantes
+para a construção: além de aumentarem a resistência do sistema, a
+argamassa de cal preserva alguma flexibilidade que ajuda a acomodar o
+assentamento da estrutura; a reação de pozolana com cal dá ainda mais
+resistência, coesão quando os blocos também são feitos de tufo, e
+durabilidade para a parede, e mesmo alguma impermeabilização. Por isso,
+a pozolana é bastante usada mesmo na construção moderna, como aditivo ao
+cimento.
+
+## {data-background-image=""}
+
+O sistema construtivo mais difundido na Roma antiga, que muito chamam de
+"concreto romano", na verdade é uma alvenaria de pequenos blocos de
+rocha vulcânica assentados com um volume grande de argamassa pozolânica.
+Vamos nos deter nesse sistema mais adiante.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tadelakt-ouarzazate-morocco-1.jpg"}
+
+![Aplicação de *tadelakt* tingido. For: [Eigenheym, 2014](https://commons.wikimedia.org/wiki/File:Tadelakt.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Tadelakt.jpg/800px-Tadelakt.jpg){#fig:tadelakt .marginnote}
+
+O mesmo material usado para o assentamento dos blocos também pode ser
+usado no revestimento de paredes e mesmo de pisos. O *tadelakt*
+(@fig:tadelakt), uma mistura de barro com gesso (obtido a partir da
+cal), é um revestimento muito usado na bacia do Mediterrâneo e
+vizinhanças, tanto em paredes quanto em pisos. Ele dá um acabamento
+muito liso e com alguma resistência à umidade.
+
+## {data-background-image=""}
+
+[Além da alvenaria de blocos]{.newthought}, há outro modo tradicional de
+construir paredes: as taipas. Esse termo designa uma grande variedade de
+métodos de construção com terra. Alguns, como a taipa de mão,
+pau-a-pique ou tabicado, consistem numa armação em madeira ou fibras
+vegetais, sobre a qual se coloca uma camada de terra; nesses casos, a
+parede tem uma resistência estrutural baixa. Por isso, esses tipos de
+taipa são usados sobretudo para paredes de vedação, ou em construções
+muito pequenas e simples.
+
+## {data-background-image=""}
+
+Quando se fala em taipa como sistema estrutural, é a taipa de pilão que
+vem à mente: uma série de camadas de terra compactada, geralmente
+assentadas dentro de uma forma temporária (o taipal) ou como um
+terrapleno entre paredes de alvenaria.
+
+## {data-background-image="https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg"}
+
+Esse procedimento, na sua forma tradicional, foi descrito e ilustrado
+pelo engenheiro francês Jean-Baptiste Rondelet no início do século
+[XIX]{.smallcaps} [@rondelet:1812traite1]. O sistema da taipa deve, em
+quase todos os casos, assentar sobre uma fundação em pedra aparelhada ou
+cantaria (@fig:taipal). Essa fundação dá um assentamento mais homogêneo
+para a parede, e que a umidade ascendente comprometa a solidez da
+parede. Do mesmo modo, a taipa deve ser coroada com um ou mais frechais
+em madeira, para regularizar o assentamento da cobertura sobre a parede.
+Ao contrário da melhor prática na concretagem, na taipa cada camada
+comprimida (@fig:ram) precisa secar antes de se lançar a camada
+seguinte.
+
+![Esquema do processo de construção com taipa de pilão. [Jean-Baptiste Rondelet, 1802](https://gallica.bnf.fr/ark:/12148/bpt6k6555321j/f20.item)](https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg){#fig:taipal .fullwidth}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/92/Ramming_Earth.JPG"}
+
+![Compactando manualmente uma parede em taipa de pilão. Sinai, Egito. Foto: [Moshirah, 2008](https://commons.wikimedia.org/wiki/File:Ramming_Earth.JPG) ↑](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ramming_Earth.JPG/1280px-Ramming_Earth.JPG){#fig:ram .marginnote}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg"}
+
+![Mesquita maior em Djenné, Mali, século [XIV]{.smallcaps}, reconstruída 1906--1907. Foto: [Gilles Mairet, 1972](https://commons.wikimedia.org/wiki/File:La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg) ←](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg/1280px-La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg){#fig:djenne}
+
+<!--_,-->
+
+O taipal geralmente é uma forma móvel em madeira, apoiada en tirantes
+que deixam buracos regulares na taipa (@fig:taipal). Esses buracos podem
+ser simplesmente tapados, ou podem servir de apoios para uma camada de
+revestimento. Em alguns casos, os tirantes podem ser deixados no corpo
+da parede para dar mais estabilidade e facilitar o acesso para
+manutenção. Esse costume é tradicional na região do Sael, ao sul do
+deserto do Saara, por exemplo nas cidades históricas do delta do rio
+Níger, como Djenné (@fig:djenne).
+
+## {data-background-image=""}
+
+Na teoria, a taipa de pilão poderia se prestar a formas totalmente
+orgânicas, já que ela não depende do módulo mínimo de um bloco. Na
+prática, ela é usada sobretudo em grandes paredes retilíneas, para
+permitir a reutilização do taipal com mais facilidade.
+
+## {data-background-image=""}
+
+A taipa e a alvenaria são os principais sistemas de construção
+tradicional de paredes portantes. Eles consistem num uso mais ou menos
+processado de recursos minerais, na forma de massas contínuas, blocos
+crus ou cozidos, e argamassas. As principais condicionantes para o uso
+de sistemas murários são a extração da matéria-prima e a capacidade
+técnica e econômica de processamento.
+
+A construção murária resulta em estruturas que geralmente têm uma
+aparência de grandes massas sólidas, e que delimitam com muita clareza
+os espaços arquitetônicos. As manipulações espaciais na construção
+murária são o objeto da próxima seção.
+
+# Arquitetura subtrativa #
+
+Na taxonomia da arquitetura tradicional, associamos a construção murária
+com o caráter da *caverna*, enquanto a construção arquitravada tem o
+caráter da *cabana*. Essa oposição sinaliza duas relações diferentes
+entre construção e espaço.
