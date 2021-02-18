@@ -687,6 +687,8 @@ usadas como arrimo ou acabamento para espaços semienterrados.
 
 ![Göbekli Tepe, vista aérea das escavações. Foto: [E. Kücuk, Instituto Arqueológico Alemão (DAI), 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png){#fig:gt-plan .marginnote}
 
+<!--_,-->
+
 Depois da cabana de Eynan, o sítio mais antigo que se conhece com
 construção murária é Göbekli Tepe (@fig:gt-pano), um morro no extremo
 norte do Crescente fértil que começou a ser ocupado por volta de 9500
@@ -704,4 +706,44 @@ Isso nos leva a uma questão que, daí para a frente, seria central na
 arquitetura de muitas tradições por todo o mundo: o uso de materiais
 duráveis preferencialmente dedicado para construções não estritamente
 utilitárias, como edifícios religiosos ou simbólicos do poder político.
+
+## {data-background-image=""}
+
+Os materiais da construção murária têm um ciclo de produção geralmente
+mais curto que o da madeira. O aspecto crítico é a extração da
+matéria-prima, e isso vale tanto para a pedra quanto para os blocos
+feitos de barro seco ou cozido. Na maior parte do mundo, as rochas
+usadas para a construção são sedimentares, porque elas combinam
+facilidade de extração e resistência mecânica suficiente para os
+propósitos da construção. Essas rochas se dividem, para efeitos
+práticos, em dois grandes grupos: os calcários e os arenitos.
+
+## {data-background-image=""}
+
+O calcário é o grupo de rochas em geral mais útil para a construção.
+Além de ser usado em blocos, o calcário também pode ser britado e
+queimado para produzir cal, que é um insumo importante em argamassas e
+também é a matéria-prima do gesso. O calcário geralmente se deposita em
+leitos ou veios sucessivos, e por isso tem um *grão* linear que precisa
+ser levado em conta no uso estrutural dos blocos.
+
+## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm" data-background-video-loop="true" data-background-video-muted="true"}
+
+A matéria-prima mais difundida na construção murária do mundo todo é a
+terra. Nas formas mais rústicas de construção popular, a terra
+naturalmente presente no local da obra pode ser usada. Mas, em qualquer
+aplicação um pouco mais refinada tecnicamente --- mesmo na maior parte
+da construção vernácula ---, o padrão de qualidade é mais exigente que
+isso. 
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/84/Extracting_clay_to_produce_bricks.jpg"}
+
+Tanto a argila quanto a areia usadas na confecção dos tijolos devem
+estar livres de matéria orgânica: por isso os materiais mais indicados
+pelos tratadistas e construtores são a argila e a areia ditas "de mina",
+ou seja, extraídas de encostas ou poços, como neste barranco no Malaui
+(@fig:claypit), e não recolhidas na superfície, como na margem de rios
+ou do mar.
+
+![Extração de argila para olaria em Mlala, Dwangwa, Malaui. Foto: [Bibiloucapetown, 2017](https://commons.wikimedia.org/wiki/File:Extracting_clay_to_produce_bricks.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extracting_clay_to_produce_bricks.jpg/1280px-Extracting_clay_to_produce_bricks.jpg){#fig:claypit}
 
