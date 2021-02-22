@@ -8,8 +8,7 @@ abstract: |
   – Origem das ordens dórica e jônica
 ---
 
-![Thomas Cole, The Course of Empire: Consummation, 1836
-](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg){#fig:cole-consummation .fullwidth}
+![Thomas Cole, The Course of Empire: Consummation, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg){#fig:cole-consummation .fullwidth}
 
 # Construção arquitravada da madeira à pedra #
 
@@ -985,41 +984,5 @@ aparência de grandes massas sólidas, e que delimitam com muita clareza
 os espaços arquitetônicos. As manipulações espaciais na construção
 murária são o objeto da próxima seção.
 
-# Arquitetura subtrativa #
-
-Na taxonomia da arquitetura tradicional, associamos a construção murária
-com o caráter da *caverna*, enquanto a construção arquitravada tem o
-caráter da *cabana*. Essa oposição sinaliza duas relações diferentes
-entre construção e espaço. A cabana é um paradigma aditivo: a montagem
-de peças formando um esqueleto estrutural que organiza o espaço
-indefinido numa malha. Já a caverna é um paradigma subtrativo: os
-espaços de formas definidas são como que escavados entre as massas de
-paredes.
-
-## {data-background-image=""}
-
-A arquitetura aditiva pede um estudo rigoroso da articulação de malhas
-estruturais e do seu impacto na modularidade dos espaços. A arquitetura
-subtrativa, por sua vez, pede atenção para a forma geométrica de cada
-espaço e para a sequência de espaços individuais num conjunto.
-
-Pensar o espaço de modo subtrativo, escavando volumes dentro de uma
-massa construída, na verdade abre um universo mais amplo de
-possibilidades de manipulação da forma. Os espaços pode estar
-simplesmente justapostos numa sequência, ou podem se interpenetrar,
-formando articulações mais complexas de volumes. As formas geométricas
-em três dimensões podem se alinhar horizontalmente, ao longo do percurso
-dos usuários, mas também verticalmente, compondo ambientes visualmente
-ricos e amplos.
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"}
-
-O conceito de uma arquitetura feita de espaços como que *escavados* na
-matéria sólida não é só uma alegoria: as mais antigas construções
-duráveis que se conhece eram semienterradas ou tinham pelo menos uma
-parte do seu espaço escavado contra o terreno inclinado. Os monumentos
-de Göbekli Tepe, no extremo norte do Crescente fértil, foram construídos
-desse modo entre 9600 e 8500 a.C. (ver @fig:gt-pano).
-
-# Referências {#refs}
+# Referências {.unnumbered}
 
