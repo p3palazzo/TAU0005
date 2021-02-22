@@ -379,5 +379,20 @@ espessa da Mesopotâmia. A alvenaria romana é na verdade uma variedade de
 sistemas construtivos que envolvem alguma combinação de pedregulhos mais
 ou menos regularizados e tijolos cozidos (@fig:testaceus).
 
+## {data-background-image=""}
+
+Os antigos romanos também conheciam a parede em cantaria --- blocos de
+pedra com acabamento preciso e pouquíssima argamassa de assentamento,
+sem um miolo de parede a ser preenchido. Mas essa técnica era incomum no
+Mediterrâneo ocidental, e exótica a ponto de o próprio Vitrúvio a chamar
+de "aparelho grego".
+
+## {data-background-image=""}
+
+Os sistemas construtivos em uso corrente na Itália antes e durante o
+império Romano podem ser rotulados no seu conjunto como *aparelhos
+cimentícios*, ou seja, construções com bastante argamassa de
+assentamento.
+
 # Referências {.unnumbered}
 
