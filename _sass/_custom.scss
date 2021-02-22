@@ -180,7 +180,7 @@ div.incremental {
  * Hide Bibliography title because our style does not output a
  * reference list.
  */
-#refs,
+.unnumbered,
 .allowframebreaks {
   display: none;
   visibility: hidden;
