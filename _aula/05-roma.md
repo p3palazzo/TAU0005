@@ -379,13 +379,15 @@ espessa da Mesopotâmia. A alvenaria romana é na verdade uma variedade de
 sistemas construtivos que envolvem alguma combinação de pedregulhos mais
 ou menos regularizados e tijolos cozidos (@fig:testaceus).
 
-## {data-background-image=""}
+## {data-background-image="https://live.staticflickr.com/65535/50972614793_c11bf0abac_k_d.jpg"}
 
 Os antigos romanos também conheciam a parede em cantaria --- blocos de
 pedra com acabamento preciso e pouquíssima argamassa de assentamento,
 sem um miolo de parede a ser preenchido. Mas essa técnica era incomum no
 Mediterrâneo ocidental, e exótica a ponto de o próprio Vitrúvio a chamar
-de "aparelho grego".
+de "aparelho grego" (@fig:erechtheion).
+
+![Mnésicles, arquiteto, Erecteu, Atenas, 421--406 a.C. Parede estrutural em cantaria de pedra simples. Foto: [Pedro P. Palazzo, 2011](https://www.flickr.com/photos/arqpalazzo/50972614793/in/dateposted-public/)](https://live.staticflickr.com/65535/50972614793_c11bf0abac_k_d.jpg){#fig:erechtheion .fullwidth}
 
 ## {data-background-image="https://i.pinimg.com/originals/97/ef/74/97ef74a2550ee01847152232c33eb10b.png" data-background-opacity="0.25"}
 
