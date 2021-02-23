@@ -29,8 +29,9 @@ tau0005.pdf : plano.pdf cronograma.pdf \
 .slides : $(SLIDES) revealjs.yaml | _site _csl
 
 _site :
-	@gh repo clone tau0005 _site -- -b gh-pages --depth=1 --recurse-submodules \
-		|| cd _site && git pull
+	@test -e _site/.git || \
+		gh repo clone tau0005 _site -- -b gh-pages --depth=1 --recurse-submodules
+	@cd _site && git pull
 
 	#docker run -v "`pwd`:/srv/jekyll" \
 		#$(JEKYLL-PANDOC) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
@@ -56,8 +57,8 @@ serve : .slides
 _csl :
 	git clone https://github.com/citation-style-language/styles.git _csl
 
-_site/slides :
-	mkdir -p _site/slides
+_site/slides : _site
+	@mkdir -p _site/slides
 
 clean :
 	-@rm *.aux *.bbl *.bcf *.blg *.fls *.log
