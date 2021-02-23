@@ -387,7 +387,7 @@ sem um miolo de parede a ser preenchido. Mas essa técnica era incomum no
 Mediterrâneo ocidental, e exótica a ponto de o próprio Vitrúvio a chamar
 de "aparelho grego".
 
-## {data-background-image=""}
+## {data-background-image="https://i.pinimg.com/originals/97/ef/74/97ef74a2550ee01847152232c33eb10b.png" data-background-opacity="0.25"}
 
 Os sistemas construtivos em uso corrente na Itália antes e durante o
 império Romano podem ser rotulados no seu conjunto como *aparelhos
@@ -419,6 +419,34 @@ Testáceo
   cortados ao longo da diagonal para dar mais aderência ao miolo da
   parede. Geralmente usado em fiadas ou cunhais para estabilizar uma
   parede em aparelho reticulado.
+
+## {data-background-image="https://i.pinimg.com/originals/64/93/78/649378cbdcf844fac97ecda58d316b27.jpg" data-background-size="contain"}
+
+![Aparelhos romanos: em elevação, (a) incerto, (b) reticulado; (c) ambos, em planta](https://i.pinimg.com/originals/64/93/78/649378cbdcf844fac97ecda58d316b27.jpg){#fig:opus .marginnote}
+
+![Obra testácea associada ao aparelho reticulado e a fiadas de regularização em cantaria de pedra](https://i.pinimg.com/originals/13/0d/c6/130dc6d70b9028964895db38f8db5582.jpg){#fig:opus-mix}
+
+Vitrúvio defendia que o aparelho incerto (@fig:opus [a]) era mais
+resistente pois as juntas são necessariamente desencontradas, e que o
+aparelho reticulado (@fig:opus [b]) era usado por causa da sua
+regularidade visual na superfície das paredes. Em ambos os casos, os
+blocos eram talhados de modo a garantir uma boa superfície de aderência
+com o miolo da parede (@fig:opus [c]). Esse miolo é, também, uma forma
+de aparelho incerto, onde os blocos não têm nenhuma face regular e estão
+assentados num volume maior de argamassa.
+
+## {data-background-image="https://i.pinimg.com/originals/13/0d/c6/130dc6d70b9028964895db38f8db5582.jpg"}
+
+Por causa dessa fragilidade do aparelho reticulado, o seu uso mais comum
+é numa obra mista, em associação com o aparelho testáceo
+(@fig:opus-mix). Os tijolos nesse sistema servem a dois propósitos:
+primeiro, são usados como cunhais, ou amarrações que solidarizam a
+parede na direção vertical, especialmente nos ângulos; segundo, eles
+aparecem em fiadas de regularização, às vezes associados à cantaria de
+pedra. Essas fiadas servem para garantir o assentamento homogêneo da
+parede e a solidarizar na direção horizontal.
+
+# Coberturas e aberturas nas paredes #
 
 # Referências {.unnumbered}
 
