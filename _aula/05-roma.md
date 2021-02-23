@@ -392,7 +392,33 @@ de "aparelho grego".
 Os sistemas construtivos em uso corrente na Itália antes e durante o
 império Romano podem ser rotulados no seu conjunto como *aparelhos
 cimentícios*, ou seja, construções com bastante argamassa de
-assentamento.
+assentamento. Esses sistemas são compostos por três tipos de aparelhos,
+ou modos de "armar" os blocos:
+
+Incerto
+
+: Formado por pedregulhos do tamanho de um punho ou um pouco maiores,
+  apenas regularizados em formas poligonais variadas, assentados com
+  bastante argamassa para preencher os vãos.
+
+. . .
+
+Reticulado
+
+: Formado por pedregulhos do mesmo tamanho, mas regularizados com uma
+  face quase perfeitamente quadrada e a face oposta irregular, para
+  melhor aderência ao miolo da parede. Existe um meio-termo entre o
+  aparelho incerto e o reticulado, que é o semi-reticulado.
+
+. . .
+
+Testáceo
+
+: Formado pelos tijolos romanos de grandes dimensões --- um pé e meio ou
+  dois pés ---, usados inteiros para juntar as duas faces da parede ou
+  cortados ao longo da diagonal para dar mais aderência ao miolo da
+  parede. Geralmente usado em fiadas ou cunhais para estabilizar uma
+  parede em aparelho reticulado.
 
 # Referências {.unnumbered}
 
