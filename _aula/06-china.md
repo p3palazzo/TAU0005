@@ -2,11 +2,61 @@
 title   : "China e o Leste da Ásia"
 author  : "Pedro P. Palazzo"
 abstract: |
-  -- Estruturas mistas em alvenaria e madeira
-  -- O sistema estrutural chinês enquanto "ordem"
-  -- Pintura e vazio
-  -- Preservação e reconstrução no Japão
+  Estruturas mistas em alvenaria e madeira
+  – O sistema estrutural chinês enquanto "ordem"
+  – Regras suntuárias e ritual
+  – Construção tradicional e meio ambiente
 ---
+
+# Estilo, construção e cultura #
+
+## Esfera cultural chinesa ##
+
+Do Turquestão ao Japão e da Manchúria à Indochina [@liang:1984pictorial,
+21].
+
+## Teoria da evolução orgânica do estilo ##
+
+Analogia ou falácia biológica.
+
+> A construção chinesa é uma estrutura altamente "orgânica". É um [ser
+> de] crescimento nativo que foi concebido e nasceu no passado remoto da
+> pré-história, chegou à "adolescência" na dinastia Han (por volta o
+> início da era Cristã), amadureceu na plenitude da glória e do vigor na
+> dinastia Tang (séculos [VII]{.smallcaps} e [VIII]{.smallcaps}),
+> envelheceu com graça e elegância na dinastia Song (séculos
+> [XI]{.smallcaps} e [XII]{.smallcaps}), para então começar a mostrar
+> sinais de velhice, fraqueza e rigidez, a partir do início da dinastia
+> Ming (século [XV]{.smallcaps}). [@liang:1984pictorial, 17]
+
+## Gramática precede a linguagem ##
+
+> Estudar a história da arquitetura chinesa sem conhecimento dessas
+> regras é como estudar a história da literatura de língua inglesa sem
+> antes aprender a gramática do inglês. [@liang:1984pictorial, 27]
+
+# Sistema estrutural chinês enquanto "ordem" #
+
+## Plataformas ##
+
+Tai e taixie [@steinhardt:2019chinese, 34].
+
+## Pórticos longitudinais ##
+
+## Dougong e encaixes ##
+
+## Caifen ##
+
+# Regras suntuárias e rituais #
+
+## Continuidade e tradição ##
+
+## Classes de construções ##
+
+## Pureza e poluição ##
+
+Aproximação às arquiteturas do sagrado: capitais móveis na China e no
+Japão, estruturas de culto temporárias ou periodicamente renovadas.
 
 # Construção tradicional e meio ambiente #
 
