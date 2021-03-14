@@ -2,7 +2,7 @@
 title   : "China e o Leste da Ásia"
 author  : "Pedro P. Palazzo"
 abstract: |
-  Estruturas mistas em alvenaria e madeira
+  Estilo, construção e cultura
   – O sistema estrutural chinês enquanto "ordem"
   – Regras suntuárias e ritual
   – Construção tradicional e meio ambiente
@@ -14,29 +14,60 @@ abstract: |
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG" data-background-size="535px 472px"}
 
-Do Turquestão ao Japão e da Manchúria à Indochina [@liang:1984pictorial,
-21].
+O mundo influenciado pela cultura chinesa se estendia, no seu auge
+durante o século [VII]{.smallcaps} d.C., do Turquestão ao Japão e da
+Manchúria à Indochina [@liang:1984pictorial, 21]. O centro irradiador da
+cultura chinesa ficava no cruzamento entre duas grandes zonas climáticas
+e dois reinos biogeográficos. Essa mistura de condições resultou numa
+tradição que se adaptava com facilidade a diferentes regiões e modos de
+vida.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg" data-background-position="right"}
 
 ![Regiões biogeográficas segundo Alfred Rusell Wallace, 1876](https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG){#fig:wallace .fullwidth}
 
-Tradição arquitetônica chinesa se forma pela ponte entre dois reinos
-biogeográficos e dois biomas.
-
 Do Paleártico ao Oriental
 
-## {data-background-image="https://commons.wikimedia.org/wiki/File:China_K%C3%B6ppen.svg"}
+## {data-background-image="https://commons.wikimedia.org/wiki/File:China_Köppen.svg"}
 
 Do subtropical ao continental
 
-![Biomas de vegetação natural da China. [Adam Peterson, 2016](https://commons.wikimedia.org/wiki/File:China_K%C3%B6ppen.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/China_K%C3%B6ppen.svg/1152px-China_K%C3%B6ppen.svg.png){#fig:cn-koeppen}
+![Biomas de vegetação natural da China. [Adam Peterson, 2016](https://commons.wikimedia.org/wiki/File:China_Köppen.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/China_Köppen.svg/1152px-China_Köppen.svg.png){#fig:cn-koeppen}
 
-## Eurocentrismo e a China "lendária" ##
+## Ceticismo e a China "lendária" ##
 
-Descobertas arqueológicas recentes têm confirmado a existência de
-acontecimentos, lugares e reinos mencionados na historiografia chinesa
-tradicional, antes considerada no Ocidente como lendária.
+Superioridade estratégia das potências ocidentais → superioridade
+ideológica?
+
+No final da dinastia Qing e período republicano, historiadores como
+[Gu Jiegang][] adotaram uma perspectiva
+[cética](https://en.wikipedia.org/wiki/Doubting_Antiquity_School) com
+respeito à cronologia chinesa tradicional. Esse ceticismo estava
+alinhado com a visão da história desenvolvida na Europa do século
+[XIX]{.smallcaps}. Segundo essa visão, as fontes primárias só têm
+credibilidade se forem contemporâneas dos eventos descritos. Como os
+registros chineses foram recompilados e reescritos várias vezes ao longo
+dos milênios, os historiadores do século [XX]{.smallcaps} consideravam
+os períodos mais antigos da história chinesa como um enfeite lendário
+que não corresponderia ao estado primitivo da sociedade naquela época.
+
+[Gu Jiegang]: https://en.wikipedia.org/wiki/Gu_Jiegang
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png"}
+
+![Extensão territorial da [dinastia Xià (c. 2070--1600 a.C.)](https://en.wikipedia.org/wiki/Xia–Shang–Zhou_Chronology_Project). Mapa: [Lamassu Design, 2009](https://commons.wikimedia.org/wiki/File:Xia_dynasty.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png){#fig:xia-map}
+
+## {data-background-image="https://live.staticflickr.com/2895/14068360418_dad7f989ab_k_d.jpg"}
+
+![*Jue* (tripé para servir vinho), dinastia Xià, século [XVIII]{.smallcaps} a.C., bronze, pés reconstituídos. Museu de Shanghai. Foto: [H. Sondaz, 2013](https://commons.wikimedia.org/wiki/File:Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg/768px-Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg){#fig:xia-jue .marginnote}
+
+Descobertas arqueológicas desde 1959 (@fig:xia-jue) têm confirmado a
+existência de acontecimentos, lugares e reinos mencionados na
+historiografia chinesa tradicional.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/26/二里头一号宫殿平面图_zh_hant.png" data-background-size="646px 548px"}
+
+![Planta do palácio I em Erlitou, associado à dinastia Xià, c. 1600 a.C. Desenho: [Shibo77, 2011](https://commons.wikimedia.org/wiki/File:二里头一号宫殿平面图_zh_hant.png)](https://upload.wikimedia.org/wikipedia/commons/2/26/二里头一号宫殿平面图_zh_hant.png){#fig:erlitou-gongtian .nobg}
 
 ## Teoria da evolução orgânica do estilo ##
 
@@ -59,6 +90,8 @@ Analogia ou falácia biológica.
 > antes aprender a gramática do inglês. [@liang:1984pictorial, 27]
 
 # Sistema estrutural chinês enquanto "ordem" #
+
+## Analogia com o classicismo greco-romano ##
 
 ## Plataformas ##
 
