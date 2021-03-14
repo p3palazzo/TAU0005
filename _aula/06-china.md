@@ -12,10 +12,31 @@ abstract: |
 
 ## Esfera cultural chinesa ##
 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG" data-background-size="535px 472px"}
+
 Do Turquestão ao Japão e da Manchúria à Indochina [@liang:1984pictorial,
 21].
 
-Biogeografia
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg" data-background-position="right"}
+
+![Regiões biogeográficas segundo Alfred Rusell Wallace, 1876](https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG){#fig:wallace .fullwidth}
+
+Tradição arquitetônica chinesa se forma pela ponte entre dois reinos
+biogeográficos e dois biomas.
+
+Do Paleártico ao Oriental
+
+## {data-background-image="https://commons.wikimedia.org/wiki/File:China_K%C3%B6ppen.svg"}
+
+Do subtropical ao continental
+
+![Biomas de vegetação natural da China. [Adam Peterson, 2016](https://commons.wikimedia.org/wiki/File:China_K%C3%B6ppen.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/China_K%C3%B6ppen.svg/1152px-China_K%C3%B6ppen.svg.png){#fig:cn-koeppen}
+
+## Eurocentrismo e a China "lendária" ##
+
+Descobertas arqueológicas recentes têm confirmado a existência de
+acontecimentos, lugares e reinos mencionados na historiografia chinesa
+tradicional, antes considerada no Ocidente como lendária.
 
 ## Teoria da evolução orgânica do estilo ##
 
