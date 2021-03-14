@@ -48,7 +48,7 @@ _site/slides/%.html : _aula/%.md revealjs.yaml biblio.bib | _csl _site/slides
 	$(PANDOC/LATEX) -o $@ -d _spec/latex.yaml $<
 
 serve : .slides
-	@bundle exec jekyll serve
+	@bundle exec jekyll serve --incremental
 
 	#docker run -p 4000:4000 -h 127.0.0.1 \
 		#-v "`pwd`:/srv/jekyll" -it $(JEKYLL-PANDOC) \
