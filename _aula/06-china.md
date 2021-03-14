@@ -15,6 +15,8 @@ abstract: |
 Do Turquestão ao Japão e da Manchúria à Indochina [@liang:1984pictorial,
 21].
 
+Biogeografia
+
 ## Teoria da evolução orgânica do estilo ##
 
 Analogia ou falácia biológica.
@@ -136,4 +138,16 @@ sua alçada.
 - Isolamento térmico e ventilação
 - Casas-pátio na Mesopotâmia e no Egito
 - Moradas na Europa megalítica
+
+## Telhado chinês ##
+
+- Telhado curvo como adaptação do salão+corredor com coberturas
+  independentes
+
+e/ou
+
+- Longos beirais para proteger da chuva, curvos para deixar entrar luz
+  do dia.
+
+## Engata com próximo tópico: espaço ##
 
