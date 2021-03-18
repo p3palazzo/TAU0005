@@ -10,9 +10,9 @@ MARKDOWN  = $(filter-out README.md,$(wildcard *.md))
 AULAS     = $(wildcard _aula/*.md)
 SLIDES   := $(patsubst _aula/%.md,_site/slides/%.html,$(AULAS))
 
-PANDOC/CROSSREF := docker run -v "`pwd`:/data" \
+PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	--user "`id -u`:`id -g`" pandoc/crossref:2.11.4
-PANDOC/LATEX    := docker run --user "`id -u`:`id -g`" \
+PANDOC/LATEX    := docker run --rm --user "`id -u`:`id -g`" \
 	-v "`pwd`:/data" -v "`pwd`/assets/fonts:/usr/share/fonts" \
 	pandoc/latex:2.11.4
 JEKYLL-PANDOC   := palazzo/jekyll-tufte:4.2.0
@@ -40,7 +40,7 @@ _site/slides/%.html : _aula/%.md revealjs.yaml biblio.bib | _csl _site/slides
 	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
 
 %.pdf : %.tex biblio.bib
-	docker run -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
+	docker run --rm -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		-v "`pwd`/assets/fonts/unb:/usr/share/fonts" blang/latex:ctanfull \
 		latexmk -pdflatex="xelatex" -cd -f -interaction=batchmode -pdf $<
 
