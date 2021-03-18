@@ -164,17 +164,22 @@ figure > img.fullwidth {
 /******************************************************
  * Fixes for reveal.js elements
  */
-div.columns {
-	clear:both;
-	width: 90%;
-  div.column {
-    float: left;
+div {
+  &.columns {
+    clear:both;
+    width: 90%;
+    div.column {
+      float: left;
+    }
+  }
+  &.incremental {
+    width: 55%;
+  }
+  &.subfigures > p {
+    @extend figcaption;
   }
 }
 
-div.incremental {
-  width: 55%;
-}
 
 /*
  * Hide Bibliography title because our style does not output a
