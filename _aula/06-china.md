@@ -25,7 +25,7 @@ facilidade a diferentes regiões e modos de vida.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg" data-background-position="right"}
 
-![Regiões biogeográficas segundo Alfred Rusell Wallace, 1876. A China atravessa a divisa entre as regiões Paleártica e Oriental](https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG){#fig:wallace .fullwidth}
+![Regiões biogeográficas segundo Alfred Rusell Wallace, 1876. A China atravessa a divisa entre as regiões Paleártica e Oriental](https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg){#fig:wallace .fullwidth}
 
 ## {data-background-image="https://commons.wikimedia.org/wiki/File:China_Köppen.svg"}
 
@@ -172,8 +172,6 @@ escrito histórias da pintura e da escultura no leste da Ásia mostrando a
 sua evolução orgânica, entre eles Ernest Fenollosa). Liang resumiu essa
 intenção dizendo com todas as letras:
 
-. . .
-
 > A construção chinesa é uma estrutura altamente "orgânica". É um [ser
 > de] crescimento nativo que foi concebido e nasceu no passado remoto da
 > pré-história, chegou à "adolescência" na dinastia Han (por volta o
@@ -183,12 +181,6 @@ intenção dizendo com todas as letras:
 > [XI]{.smallcaps} e [XII]{.smallcaps}), para então começar a mostrar
 > sinais de velhice, fraqueza e rigidez, a partir do início da dinastia
 > Ming (século [XV]{.smallcaps}). [@liang:1984pictorial, 17]
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/China_-_Song_Dynasty-es.svg/1043px-China_-_Song_Dynasty-es.svg.png" data-background-size="contain"}
-
-![Dinastia Song no seu auge. Mapa: [Mozzan, 2013, traduzido por Rowan Wind Whistler, 2015](https://commons.wikimedia.org/wiki/File:China_-_Song_Dynasty-es.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/China_-_Song_Dynasty-es.svg/1043px-China_-_Song_Dynasty-es.svg.png){#fig:song .marginnote}
-
-<!--_,-->
 
 # Sistema estrutural chinês enquanto "ordem" #
 
@@ -218,11 +210,11 @@ dos Estados Unidos. Entre eles estava o casal formado pela escritora Lin
 Huiyin e pelo arquiteto Liang Sicheng (ver @fig:liang-lin).
 O aprendizado Beaux-Arts de Liang forneceu o método realizar o primeiro
 levantamento sistemático da arquitetura tradicional na China
-(@liang-parts).
+(@fig:liang-01).
 
 ## {data-background-image="https://i.pinimg.com/originals/85/52/82/855282f257cac6a604f9d3e76eedf562.png" data-background-size="contain"}
 
-![Nomenclatura dos componentes principais de uma construção chinesa. Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/85/52/82/855282f257cac6a604f9d3e76eedf562.png){#fig:liang-parts .nobg}
+![Nomenclatura dos componentes principais de uma construção chinesa. Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/85/52/82/855282f257cac6a604f9d3e76eedf562.png){#fig:liang-01 .nobg .line}
 
 ## {.unlisted}
 
@@ -231,8 +223,6 @@ chinesa ao público americano, Liang estabeleceu um esquema
 interpretativo baseado no sistema Beaux-Arts. Uma das principais
 características desse sistema é que ele ensinava arquitetura como se
 fosse uma forma de *linguagem* [@summerson:1997linguagem]. Por isso,
-
-. . .
 
 > Estudar a história da arquitetura chinesa sem conhecimento dessas
 > regras é como estudar a história da literatura de língua inglesa sem
@@ -249,17 +239,25 @@ próprio método Beaux-Arts nos séculos [XIX]{.smallcaps} e
 Gromort passando por Guadet e Varon, mas também os americanos Curtis e
 Harbeson.
 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/China_-_Song_Dynasty-es.svg/1043px-China_-_Song_Dynasty-es.svg.png" data-background-size="contain"}
+
+![Dinastia Song no seu auge. Mapa: [Mozzan, 2013, traduzido por Rowan Wind Whistler, 2015](https://commons.wikimedia.org/wiki/File:China_-_Song_Dynasty-es.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/China_-_Song_Dynasty-es.svg/1043px-China_-_Song_Dynasty-es.svg.png){#fig:song .marginnote}
+
+<!--_,-->
+
 ## {.unlisted}
 
 No caso da China, as *gramáticas normativas* são dois tratados
 compilados para ajudar os administradores do estado a medir e controlar
 obras públicas. O primeiro é o *Yingzao fashi*, que foi compilado por Li
-Jie entre 1090 e 1103. Ele representa as práticas da arquitetura erudita
-durante a dinastia Song, que era considerada pelos próprios chineses
+Jie entre 1090 e 1103 (@fig:liang-07). Ele representa as práticas da
+arquitetura erudita durante a dinastia Song (@fig:song), que era
+considerada pelos próprios chineses
 como o apogeu e a síntese do desenvolvimento histórico das artes na
 China. O segundo é o *Gongcheng zofa*, uma revisão e atualização do
 tratado anterior levando em conta algumas mudanças estruturais e
-suntuárias. Ele fazia parte da última grande recompilação oficial do
+suntuárias (@fig:liang-08). Ele fazia parte da última grande
+recompilação oficial do
 pensamento político, filosófico e histórico da China, feita durante a
 última dinastia imperial; por isso, ele foi considerado um exemplo do
 engessamento conservador da tradição chinesa, e da estagnação
@@ -268,17 +266,17 @@ certa agenda política republicana.
 
 :::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:liang-07-08}
 ::: {.column width=50%}
-![Regras de carpintaria estrutural da dinastia Song segundo o *Yingzao fashi*, 1103](https://i.pinimg.com/originals/f4/c9/9b/f4c99b94f2c261080a66a10b39a6cc24.png){#fig:liang-07 .nobg .stretch}
+![Regras de carpintaria estrutural da dinastia Song segundo o *Yingzao fashi*, 1103](https://i.pinimg.com/originals/f4/c9/9b/f4c99b94f2c261080a66a10b39a6cc24.png){#fig:liang-07 .stretch}
 :::
 ::: {.column width=50%}
-![Regras de carpintaria estrutural da dinastia Qing segundo o *Gongcheng zofa*, 1778](https://i.pinimg.com/originals/b9/f2/50/b9f25090c239fcc5880b50e2fba9fb4f.png){#fig:liang-08 .nobg .stretch}
+![Regras de carpintaria estrutural da dinastia Qing segundo o *Gongcheng zofa*, 1778](https://i.pinimg.com/originals/b9/f2/50/b9f25090c239fcc5880b50e2fba9fb4f.png){#fig:liang-08 .stretch}
 :::
 Pranchas desenhadas por Liang em 1943 e publicadas em 1984
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png" data-background-size="contain"}
 
-!["Ordem" chinesa. Liang Sicheng e Li Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png){#fig:liang-order .nobg}
+!["Ordem" chinesa. Liang Sicheng e Li Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png){#fig:liang-order .nobg .line}
 
 Foi assim que Liang e Lin chegaram ao esquema de uma "ordem chinesa"
 (@fig:liang-order). Essa expressão operava duas mudanças conceituais
@@ -297,19 +295,38 @@ construção em madeira mais antiga conservada na China (@fig:liang-24a).
 
 ![Fóguāngsǐ, monte Wutai, Shanxi, 857. Fotografia da expedição de Liang Sicheng, Lin Hiuyin, John e Wilma Fairbank, 1934](https://i.pinimg.com/originals/af/2f/3a/af2f3afb73a19be7ddc0eb75e5f6c9c0.jpg){#fig:liang-24a}
 
-Esse estudo minucioso permitiu ir além da interpretação
-
 ## {data-background-image="https://i.pinimg.com/originals/63/39/db/6339db291242961bee44bb90b1d8bc17.png" data-background-size="contain"}
 
-![Evolução da "ordem chinesa". Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/63/39/db/6339db291242961bee44bb90b1d8bc17.png){#fig:liang-evolution .nobg}
+![Evolução da "ordem chinesa". Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/63/39/db/6339db291242961bee44bb90b1d8bc17.png){#fig:liang-32 .nobg .line}
+
+Esse estudo minucioso permitiu ir além da interpretação dos tratados e
+confrontar as edificações construídas na sua diversidade. Com isso,
+Liang e Lin estabeleceram um esquema de "evolução" da ordem chinesa
+(@fig:liang-32). Isso colocava a tradição arquitetônica da China no
+mesmo patamar de historicidade da arquitetura europeia esquematizada na
+"árvore" de Fletcher.
 
 ## Plataformas ##
 
-Tai e taixie [@steinhardt:2019chinese, 34].
+## {data-background-image="https://i.pinimg.com/originals/a8/52/6f/a8526febba8123bdba4e3c8079cc4c1f.png"}
+
+<!--Tai e taixie [@steinhardt:2019chinese, 34].-->
+
+![Reconstituição do corte longitudinal de um palácio da dinastia Han com fundações do tipo *taixie*, por Steinhardt (2019)](https://i.pinimg.com/originals/a8/52/6f/a8526febba8123bdba4e3c8079cc4c1f.png){#fig:han-taixie .fullwidth}
 
 ## Pórticos longitudinais ##
 
+## {data-background-image="https://i.pinimg.com/originals/2f/bd/fd/2fbdfd63849f527472ef4dadec10df67.jpg"}
+
+![Esquema construtivo do salão principal do Fóguāngsǐ, desenho por Fu Xinian](https://i.pinimg.com/originals/2f/bd/fd/2fbdfd63849f527472ef4dadec10df67.jpg){#fig:fu-foguang}
+
 ## Dougong e encaixes ##
+
+## {data-background-iframe="https://www.youtube.com/watch?v=JnB3fQTE1XU"}
+
+<figure class="iframe-wrapper">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/JnB3fQTE1XU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</figure>
 
 ## Caifen ##
 
@@ -329,6 +346,10 @@ Aproximação às arquiteturas do sagrado: capitais móveis na China e no
 Japão, estruturas de culto temporárias ou periodicamente renovadas.
 
 # Construção tradicional e meio ambiente #
+
+## {data-background-image="https://i.pinimg.com/originals/74/55/e1/7455e16ceb095d4c3abc4cd5c04457de.jpg" data-background-size="contain"}
+
+## {data-background-image="https://i.pinimg.com/originals/99/2e/4a/992e4a6fca299d47854e2a83e8641a62.jpg" data-background-size="contain"}
 
 ## {data-background-image=""}
 
@@ -417,5 +438,5 @@ e/ou
 - Longos beirais para proteger da chuva, curvos para deixar entrar luz
   do dia.
 
-## Engata com próximo tópico: espaço ##
+## Próximo tópico: espaço ##
 
