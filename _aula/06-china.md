@@ -34,28 +34,57 @@ Do subtropical ao continental
 
 ![Biomas de vegetação natural da China. [Adam Peterson, 2016](https://commons.wikimedia.org/wiki/File:China_Köppen.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/China_Köppen.svg/1152px-China_Köppen.svg.png){#fig:cn-koeppen}
 
-## Ceticismo e a China "lendária" ##
+## {.unlisted}
 
-Superioridade estratégia das potências ocidentais → superioridade
-ideológica?
-
-No final da dinastia Qing e período republicano, historiadores como
-[Gu Jiegang][] adotaram uma perspectiva
+[No final da última dinastia]{.newthought} imperial chinesa e durante o período
+republicano, historiadores como [Gu Jiegang][] adotaram uma perspectiva
 [cética](https://en.wikipedia.org/wiki/Doubting_Antiquity_School) com
-respeito à cronologia chinesa tradicional. Esse ceticismo estava
+respeito à cronologia histórica tradicional. Esse ceticismo estava
 alinhado com a visão da história desenvolvida na Europa do século
 [XIX]{.smallcaps}. Segundo essa visão, as fontes primárias só têm
-credibilidade se forem contemporâneas dos eventos descritos. Como os
-registros chineses foram recompilados e reescritos várias vezes ao longo
-dos milênios, os historiadores do século [XX]{.smallcaps} consideravam
-os períodos mais antigos da história chinesa como um enfeite lendário
-que não corresponderia ao estado primitivo da sociedade naquela época.
+credibilidade se forem contemporâneas dos eventos descritos.
 
 [Gu Jiegang]: https://en.wikipedia.org/wiki/Gu_Jiegang
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png"}
+## {.unlisted}
+
+A historiografia chinesa tradicional se baseava no modelo estabelecido
+pelo [*Registros do historiador*][] (@fig:shiji), um livro compilado no
+começo do século [I]{.smallcaps} a.C. por Sima Qian (@fig:sima-qian).
+Esse modelo organizava a cronologia segundo *dinastias* reais e
+imperiais. Como os registros chineses foram recompilados e reescritos
+várias vezes ao longo dos milênios, os historiadores do século
+[XX]{.smallcaps} consideravam os períodos mais antigos da história
+chinesa como um enfeite lendário que não corresponderia ao estado
+primitivo da sociedade naquela época.
+
+[*Registros do historiador*]: https://pt.wikipedia.org/wiki/Registros_do_Historiador
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Registros do historiador, edição japonesa do século [XIV]{.smallcaps} com pontuação e glosas de leitura (*kambun*). Acervo [Biblioteca Nacional Central de Taiwan](https://catalog.digitalarchives.tw/item/00/07/e9/9d.html)](https://image.digitalarchives.tw/ImageCache/00/07/8d/4a.jpg){#fig:shiji .stretch}
+:::
+::: {.column width=50%}
+![Sima Qian](https://i.pinimg.com/originals/e2/62/b4/e262b449e066156897137f6414e1f0ed.png){#fig:sima-qian .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png" data-background-size="contain"}
+
+Os historiadores céticos substituíram a cronologia tradicional, segundo
+*dinastias* (@fig:xia-map), pelo padrão ocidental moderno de designar
+*culturas* arqueológicas (@fig:erlitou-map). Essas novas interpretações
+estabeleciam a credibilidade dos pesquisadores chineses num mundo
+acadêmico dominado por europeus e americanos. Mas, ao mesmo tempo, elas
+também validavam uma pretensão de superioridade cultural da Europa sobre
+a Ásia, já que a história mais antiga da China acabava sendo reduzida a
+um mundo tribal e supostamente primitivo.
 
 ![Extensão territorial da [dinastia Xià (c. 2070--1600 a.C.)](https://en.wikipedia.org/wiki/Xia–Shang–Zhou_Chronology_Project). Mapa: [Lamassu Design, 2009](https://commons.wikimedia.org/wiki/File:Xia_dynasty.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png){#fig:xia-map}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erlitou_map.svg/920px-Erlitou_map.svg.png" data-background-size="contain"}
+
+![Extensão geográfica da [cultura Erlitou](https://en.wikipedia.org/wiki/Erlitou_culture), primeira metade do [II]{.smallcaps} milênio a.C.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erlitou_map.svg/920px-Erlitou_map.svg.png){#fig:erlitou-map}
 
 ## {data-background-image="https://live.staticflickr.com/2895/14068360418_dad7f989ab_k_d.jpg"}
 
@@ -91,7 +120,63 @@ Analogia ou falácia biológica.
 
 # Sistema estrutural chinês enquanto "ordem" #
 
-## Analogia com o classicismo greco-romano ##
+A arquitetura tradicional da China atingiu desde o século
+[XI]{.smallcaps} uma padronização quase completa dos seus elementos
+construtivos em madeira. Essa padronização decorre de processos de
+centralização política e de unificação econômica que duraram milênios,
+com "renascimentos" periódicos ao longo das dinastias. O resultado é um
+sistema racionalizado, com detalhes fixos mas que permitem uma grande
+flexibilidade de combinações. Esse sistema já chegou a ser chamado no
+Ocidente de "ordem chinesa", por analogia às ordens da arquitetura
+clássica.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c6/Foguang_Temple_9.JPG"}
+
+[A padronização da arquitetura chinesa]{.newthought} é, portanto, muito
+mais antiga do que a codificação das ordens clássicas no Renascimento
+europeu, e até mais completa. Muito tempo depois, no começo do século
+[XX]{.smallcaps}, o sistema Beaux-Arts, inspirado no método de ensino da
+escola de Belas-Artes de Paris, passou a ser o método hegemônico para o
+estudo e a pesquisa da arquitetura no Ocidente. Nessa época, vários
+jovens chineses estavam se formando em universidades dos Estados Unidos
+(um deles foi o arquiteto Ieoh Ming Pei, famoso pela pirâmide do Louvre
+--- @fig:louvre).
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/66/Louvre_Museum_Wikimedia_Commons.jpg"}
+
+![Ieoh Ming Pei, arquiteto, pirâmide do Louvre, Paris, 1984--1989. Foto: [Benh Lieu Song, 2010](https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1280px-Louvre_Museum_Wikimedia_Commons.jpg){#fig:louvre .fullwidth}
+
+## {data-background-image="https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg"}
+
+![Lin Huiyin e Liang Sicheng numa viagem pela província chinesa de Shanxi, 1934. Foto: [acervo da família Fairbank](https://www.smithsonianmag.com/history/lovers-shanxi-saved-chinas-ancient-architectural-treasures-before-lost-forever-180961424/)](https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg){#fig:liang-lin}
+
+Dois desses arquitetos foram o casal formado pela escritora Lin Huiyin e
+pelo arquiteto Liang Sicheng (@fig:liang-lin). Eles estudaram na
+Universidade da Pensilvânia na década de 1920. Liang estudou arquitetura
+clássica no sistema Beaux-Arts, e esse aprendizado forneceu o método
+realizar o primeiro levantamento sistemático da arquitetura tradicional
+na China (@liang-parts).
+
+## {data-background-image="https://i.pinimg.com/originals/85/52/82/855282f257cac6a604f9d3e76eedf562.png" data-background-size="contain"}
+
+![Nomenclatura dos componentes principais de uma construção chinesa. Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/85/52/82/855282f257cac6a604f9d3e76eedf562.png){#fig:liang-parts .nobg}
+
+## {data-background-image="https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png" data-background-size="contain"}
+
+!["Ordem" chinesa. Liang Sicheng e Li Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png){#fig:liang-order .nobg}
+
+Foi assim que Liang e Lin chegaram ao esquema de uma "ordem chinesa"
+(@fig:liang-order). Essa expressão operava duas mudanças conceituais
+importantes: uma no olhar chinês para o seu próprio patrimônio
+arqueológico, e outra no olhar ocidental para a arquitetura chinesa. Do
+ponto de vista chinês, Liang e Ling pertenceram a uma geração de
+pesquisadores que realizaram descobertas arqueológicas cruciais.
+
+clássicos. 
+
+## {data-background-image="https://i.pinimg.com/originals/63/39/db/6339db291242961bee44bb90b1d8bc17.png" data-background-size="contain"}
+
+![Evolução da "ordem chinesa". Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/63/39/db/6339db291242961bee44bb90b1d8bc17.png){#fig:liang-evolution .nobg}
 
 ## Plataformas ##
 
@@ -106,6 +191,10 @@ Tai e taixie [@steinhardt:2019chinese, 34].
 # Regras suntuárias e rituais #
 
 ## Continuidade e tradição ##
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7d/Jianzhen_memorial_hall.jpg"}
+
+![Liang Sicheng, arquiteto, Memorial para o monge Jianzhen (Ganjin), Yangzhou, China, 1963. Foto: [Gisling, 2007](https://commons.wikimedia.org/wiki/File:Jianzhen_memorial_hall.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Jianzhen_memorial_hall.jpg/1280px-Jianzhen_memorial_hall.jpg){#fig:liang-ganjin}
 
 ## Classes de construções ##
 
