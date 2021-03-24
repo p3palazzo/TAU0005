@@ -50,9 +50,15 @@ section > dl {
 }
 
 // Uniform styling of lesser headings
-dt, h4, h5 {
+dt, h3, h4, h5 {
   @extend .smallcaps;
   font-size: 1.4rem;
+  font-style: normal;
+  letter-spacing: 0.1rem;
+  em {
+    font-style: normal;
+    letter-spacing: 0.3rem;
+  }
 }
 
 // Run-in definition lists and headings
@@ -146,6 +152,10 @@ span.newthought {
   text-transform: lowercase;
   font-variant: small-caps;
   font-weight: bold;
+  em {
+    font-style: normal;
+    letter-spacing: 0.2em;
+  }
 }
 
 /******************************************************
