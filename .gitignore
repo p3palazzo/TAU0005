@@ -12,7 +12,7 @@ _csl
 _site
 .cache
 .jekyll-cache
-.slides
+.jekyll-metadata
 .vendor
 
 #  Latex
