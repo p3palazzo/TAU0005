@@ -86,6 +86,7 @@ h5 {
 // Substitute asterisks for horizontal rule
 hr {
   border: 0;
+  clear: left;
   text-align: center;
   font-size: 2em;
   padding: 2rem 0 2rem 0;
@@ -167,16 +168,32 @@ figure > img.fullwidth {
 div {
   &.columns {
     clear:both;
-    width: 90%;
+    width: 100%;
     div.column {
       float: left;
+      figure {
+        margin-bottom: 1em;
+        max-width: 90%;
+        figcaption {
+          margin-left: 0;
+          margin-right: -55%;
+        }
+      }
     }
   }
   &.incremental {
     width: 55%;
   }
-  &.subfigures > p {
-    @extend figcaption;
+  &.subfigures {
+    figure > figcaption {
+      //float: none;
+    }
+    p {
+      @extend figcaption;
+      margin-bottom: 2em;
+      margin-right: 5%;
+      max-width: 35%;
+    }
   }
 }
 
