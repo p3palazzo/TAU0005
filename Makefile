@@ -17,8 +17,7 @@ PANDOC/LATEX    := docker run --rm --user "`id -u`:`id -g`" \
 	pandoc/latex:2.12
 JEKYLL-PANDOC   := palazzo/jekyll-tufte:4.2.0-2.12
 
-manual : $(MARKDOWN) README.md $(SASS) $(AULAS) \
-	assets _config.yaml _spec/html.yaml _site .slides | _csl
+manual : $(ANYTHING) | _csl
 	@bundle install && bundle exec jekyll build
 
 tau0005.pdf : plano.pdf cronograma.pdf \
