@@ -11,11 +11,11 @@ AULAS     = $(wildcard _aula/*.md)
 SLIDES   := $(patsubst _aula/%.md,_site/slides/%.html,$(AULAS))
 
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
-	--user "`id -u`:`id -g`" pandoc/crossref:2.11.4
+	--user "`id -u`:`id -g`" pandoc/crossref:2.12
 PANDOC/LATEX    := docker run --rm --user "`id -u`:`id -g`" \
 	-v "`pwd`:/data" -v "`pwd`/assets/fonts:/usr/share/fonts" \
-	pandoc/latex:2.11.4
-JEKYLL-PANDOC   := palazzo/jekyll-tufte:4.2.0
+	pandoc/latex:2.12
+JEKYLL-PANDOC   := palazzo/jekyll-tufte:4.2.0-2.12
 
 manual : $(MARKDOWN) README.md $(SASS) $(AULAS) \
 	assets _config.yaml _spec/html.yaml _site .slides | _csl
