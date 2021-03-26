@@ -26,19 +26,61 @@ Arquitetura simbólica, clássica e romântica.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG/1280px-Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG" data-background-position="bottom"}
 
-![Templos de Hera em Paestum (Possidônia), séculos VI e V a.C. Foto: [V. Alfano, 2012](https://commons.wikimedia.org/wiki/File:Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG/1280px-Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG){#fig:paestum}
+![Templos de Hera em Paestum (Possidônia), séculos [VI]{.smallcaps} e [V]{.smallcaps} a.C. Foto: [V. Alfano, 2012](https://commons.wikimedia.org/wiki/File:Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG/1280px-Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG){#fig:paestum}
 
-## {data-background-image=""}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg"}
+
+![Leo von Klenze, Reconstituição da Acrópole de Atenas, 1846. Óleo sobre tela](https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg){#fig:klenze-akro .fullwidth}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg"}
+
+![Robert de Luzarches, arquiteto, depois Thomas e Renaud de Cormont, chefes de canteiro. Nave da catedral de Amiens, 1220--1270. Foto: [Zairon, 2018](https://commons.wikimedia.org/wiki/File:Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg){#fig:amiens}
 
 ## Pevsner ##
 
-História do espaço é história da arquitetura ou história econômica?
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+- História da construção = história da técnica
+- História da função = história econômica
+- História do estilo = história da arquitetura
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Espaço e anti-espaço ##
 
-# Quatro elementos da arquitetura #
+Espaço tradicional em oposição ao anti-espaço modernista [@peterson:2020space].
 
-# Caráter e decoro #
+## {data-background-image="https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png" data-background-size="contain"}
+
+![Oscar Niemeyer e Departamento de Arquitetura da Novacap, segundo anteprojeto para o andar nobre do Congresso Nacional, Brasília, 1957. Documentado por [Elcio Gomes da Silva e José Manoel Morales Sánchez, 2009](https://mdc.arq.br/2009/03/09/congresso-nacional-da-documentacao-tecnica-a-obra-construida/)](https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png){#fig:on-cn .fullwidth .line .nobg}
+
+## {data-background-image="https://i.pinimg.com/originals/f0/e2/fd/f0e2fda773ec7a55f7cb009abc8868d9.jpg"}
+
+![Oscar Niemeyer e Departamento de Arquitetura da Novacap, salão Verde do Congresso Nacional, Brasília, 1957--1960. Foto: [Brasília na Trilha, 2015](http://www.brasilianatrilha.com.br/2015/12/congresso-nacional.html)](https://i.pinimg.com/originals/f0/e2/fd/f0e2fda773ec7a55f7cb009abc8868d9.jpg){#fig:salao-verde}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif/lossy-page1-1280px-Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif.jpg"}
+
+![Francisco Marcelino de Souza Aguiar, engenheiro, palácio Monroe, Rio de Janeiro, 1906. [Planta do 1.º pavimento levantada em 1924](https://commons.wikimedia.org/wiki/File:Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif/lossy-page1-1280px-Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif.jpg){#fig:monroe-plan}
+
+## {data-background-image="https://i.pinimg.com/originals/4b/1a/7f/4b1a7fce1348fa77c0a380fdd33196f3.jpg"}
+
+![Termas de Diocleciano, Roma, 298--306 d.C. Planta: [Edmond Paulin, 1890](https://digi.ub.uni-heidelberg.de/diglit/paulin1890/0039)](https://i.pinimg.com/originals/4b/1a/7f/4b1a7fce1348fa77c0a380fdd33196f3.jpg){#fig:thdio-plan}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg"}
+
+![Miguel Ângelo Buonarroti, arquiteto, Santa Maria degli Angeli e Martiri, Roma, 1562, implantada no tepidário das termas de Diocleciano. Foto: [Pedro P. Palazzo, 2015](https://commons.wikimedia.org/wiki/File:IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg){#fig:angeli .fullwidth}
+
+## {data-background-image="https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg" data-background-size="contain"}
+
+![Sant'Ivo alla Sapienza, corte transversal por [Dominique Barrière, c. 1695](https://commons.wikimedia.org/wiki/File:SantIvo_Drawing_04.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SantIvo_Drawing_04.jpg/664px-SantIvo_Drawing_04.jpg){#fig:sapienza-sec .marginnote}
+
+![Francesso Borromini, Sant'Ivo alla Sapienza, 1642--1660. Planta por [Dominique Barrière, 1720](https://archive.org/details/gri_33125012765174/page/n11/mode/2up)](https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg){#fig:sapienza-plan}
+
+# {.unlisted}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SantIvo_Drawing_04.jpg/664px-SantIvo_Drawing_04.jpg" data-background-size="contain"}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg" data-background-position="bottom"}
+
+![Pátio em frente a Sant'Ivo della Sapienza. Foto: [Vlad Lesnov, 2010](https://commons.wikimedia.org/wiki/File:Archivio_di_stato_di_Roma_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg){#fig:sapienza-cortile .fullwidth}
 
 # Articulação arquitetônica do espaço #
 
@@ -152,3 +194,6 @@ Rob Krier, *Architectural composition*, 1988
 
 Siheyuan (pátio entre 4 alas) e gong (salão central, corredor perimetral
 e passarela coberta de ligação): Zhou em diante
+
+# Caráter e decoro #
+
