@@ -4,12 +4,6 @@ vpath %.scss _sass:assets/css
 vpath %.xml _site
 vpath %.yaml .:_spec
 
-SASS      = $(wildcard *.scss)
-ANYTHING  = $(filter-out _site,$(wildcard *))
-MARKDOWN  = $(filter-out README.md,$(wildcard *.md))
-AULAS     = $(wildcard _aula/*.md)
-SLIDES   := $(patsubst _aula/%.md,_site/slides/%.html,$(AULAS))
-
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	--user "`id -u`:`id -g`" pandoc/crossref:2.12
 PANDOC/LATEX    := docker run --rm --user "`id -u`:`id -g`" \
@@ -17,8 +11,17 @@ PANDOC/LATEX    := docker run --rm --user "`id -u`:`id -g`" \
 	pandoc/latex:2.12
 JEKYLL-PANDOC   := palazzo/jekyll-tufte:4.2.0-2.12
 
-manual : $(ANYTHING) | _csl
-	@bundle install && bundle exec jekyll build
+ASSETS  = $(wildcard assets/*)
+CSS     = $(wildcard assets/css/*)
+FONTS   = $(wildcard assets/fonts/*)
+SASS    = $(wildcard *.scss)
+ROOT    = $(wildcard *.md)
+AULA    = $(wildcard _aula/*.md)
+SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(AULA))
+
+deploy : _site $(SLIDES) $(AULA) $(ASSETS) $(CSS) $(ROOT) $(SASS) | _csl
+	@bundle install \
+		&& bundle exec jekyll build --future
 
 tau0005.pdf : plano.pdf cronograma.pdf \
 	trabalho-1-construcao.pdf trabalho-2-ordens.pdf trabalho-3-tipologia.pdf
@@ -54,10 +57,11 @@ serve : .slides
 		#jekyll serve --skip-initial-build --no-watch
 
 _csl :
-	git clone https://github.com/citation-style-language/styles.git _csl
+	@gh repo clone citation-style-language/styles \
+		$@ -- --depth=1
 
 _site/slides : _site
 	@mkdir -p _site/slides
 
 clean :
-	-@rm *.aux *.bbl *.bcf *.blg *.fls *.log
+	-@rm -r *.aux *.bbl *.bcf *.blg *.fls *.log _csl
