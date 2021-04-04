@@ -32,6 +32,8 @@ Espalato, plantas reconstituídas por Ernest Hébrard, 1912
 
 ![Palácio de Diocleciano em Espalato, elevação do peristilo oriental e corte do vestíbulo. Reconstituição por [George Niemann, 1910](https://commons.wikimedia.org/wiki/File:Tafel_07_Aufriss_des_östl._Peristylflügels_-_Schnitt_Vestibül_-_Wiederherstellung.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tafel_07_Aufriss_des_östl._Peristylflügels_-_Schnitt_Vestibül_-_Wiederherstellung.jpg/1280px-Tafel_07_Aufriss_des_östl._Peristylflügels_-_Schnitt_Vestibül_-_Wiederherstellung.jpg){#fig:spalato-peristyl .fullwidth}
 
+<!--_,-->
+
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tafel_13_Schnitt_durch_das_Mausoleum_und_Aufriss_der_Vorhalle_des_Vestibüls.jpg/1280px-Tafel_13_Schnitt_durch_das_Mausoleum_und_Aufriss_der_Vorhalle_des_Vestibüls.jpg"}
 
 ![Palácio de Diocleciano em Espalato, corte do mausoléu e elevação do vestíbulo. Reconstituição por [George Niemann, 1910](https://commons.wikimedia.org/wiki/File:Tafel_13_Schnitt_durch_das_Mausoleum_und_Aufriss_der_Vorhalle_des_Vestibüls.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Tafel_13_Schnitt_durch_das_Mausoleum_und_Aufriss_der_Vorhalle_des_Vestibüls.jpg/1024px-Tafel_13_Schnitt_durch_das_Mausoleum_und_Aufriss_der_Vorhalle_des_Vestibüls.jpg){#fig:spalato-vestibul}
@@ -52,9 +54,13 @@ Espalato, plantas reconstituídas por Ernest Hébrard, 1912
 
 ![Europa em 476 d.C. Desenho: [Richard Ishida, 2016](https://commons.wikimedia.org/wiki/File:476_CE,_Europe.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/476_CE,_Europe.svg/1197px-476_CE,_Europe.svg.png){#fig:eu-476}
 
+<!--_,-->
+
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/925_CE,_Europe.svg/1197px-925_CE,_Europe.svg.png" data-background-position="bottom"}
 
 ![Europa em 925 d.C. Desenho: [Richard Ishida, 2016](https://commons.wikimedia.org/wiki/File:925_CE,_Europe.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/925_CE,_Europe.svg/1197px-925_CE,_Europe.svg.png){#fig:eu-925}
+
+<!--_,-->
 
 # Espólios e cultura edilícia #
 
