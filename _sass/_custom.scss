@@ -10,6 +10,7 @@
 // Let header image attach to the top of the screen.
 body {
   margin-top: 0;
+  font-family: $mainFont;
 }
 
 /*
@@ -54,7 +55,7 @@ dt, h3, h4, h5 {
   @extend .smallcaps;
   font-size: 1.4rem;
   font-style: normal;
-  letter-spacing: 0.1rem;
+  letter-spacing: $headingLetterSpacing;
   em {
     font-style: normal;
     letter-spacing: 0.3rem;
@@ -71,6 +72,13 @@ dt, h5 {
 // Make captions align with sidenotes
 figcaption {
   max-width: 50%;
+}
+
+h1 {
+  font-family: $headingFont;
+  font-size: $heading1Size;
+  letter-spacing: $headingLetterSpacing;
+  text-transform: $headingTextTransform;
 }
 
 /*
@@ -149,9 +157,10 @@ td > p {
 // When I say small caps, I mean it.
 .smallcaps,
 span.newthought {
+  font-family: "Cormorant SC";
   text-transform: lowercase;
   font-variant: small-caps;
-  font-weight: bold;
+  //font-weight: bold;
   em {
     font-style: normal;
     letter-spacing: 0.2em;
@@ -221,36 +230,6 @@ div {
 /******************************************************
  * Light and Dark
  */
-@media (prefers-color-scheme: dark) {
-  body {
-    color: #fffff8;
-    background-color: #282828;
-    a:link {
-      background: -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#ccc, #ccc);
-      background: linear-gradient(#111111, #111111), linear-gradient(#111111, #111111), linear-gradient(#ccc, #ccc);
-      -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      background-repeat: no-repeat, no-repeat, repeat-x;
-      text-shadow: 0.03em 0 #111111, -0.03em 0 #111111, 0 0.03em #111111, 0 -0.03em #111111, 0.06em 0 #111111, -0.06em 0 #111111, 0.09em 0 #111111, -0.09em 0 #111111, 0.12em 0 #111111, -0.12em 0 #111111, 0.15em 0 #111111, -0.15em 0 #111111;
-      background-position: 0% 93%, 100% 93%, 0% 93%;
-    }
-    img {
-      // Prevents line drawings as transparent PNGs from disappearing
-      background-color: #fffff8;
-			filter: brightness(.8) contrast(1.2);
-			-webkit-filter: brightness(.8) contrast(1.2);
-    }
-    img.line {
-      background: none;
-      filter: invert(100%);
-      -webkit-filter: invert(100%);
-    }
-    img.nobg {
-      background: none;
-    }
-  }
-}
 @media (prefers-color-scheme: no-preference) {
 	body {
     color: #111111;
@@ -284,6 +263,36 @@ div {
 			background-position: 0% 93%, 100% 93%, 0% 93%;
 		}
 	}
+}
+@media (prefers-color-scheme: dark) {
+  body {
+    color: #fffff8;
+    background-color: #282828;
+    a:link {
+      background: -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#ccc, #ccc);
+      background: linear-gradient(#111111, #111111), linear-gradient(#111111, #111111), linear-gradient(#ccc, #ccc);
+      -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      background-repeat: no-repeat, no-repeat, repeat-x;
+      text-shadow: 0.03em 0 #111111, -0.03em 0 #111111, 0 0.03em #111111, 0 -0.03em #111111, 0.06em 0 #111111, -0.06em 0 #111111, 0.09em 0 #111111, -0.09em 0 #111111, 0.12em 0 #111111, -0.12em 0 #111111, 0.15em 0 #111111, -0.15em 0 #111111;
+      background-position: 0% 93%, 100% 93%, 0% 93%;
+    }
+    img {
+      // Prevents line drawings as transparent PNGs from disappearing
+      background-color: #fffff8;
+			filter: brightness(.8) contrast(1.2);
+			-webkit-filter: brightness(.8) contrast(1.2);
+    }
+    img.line {
+      background: none;
+      filter: invert(75%);
+      -webkit-filter: invert(75%);
+    }
+    img.nobg {
+      background: none;
+    }
+  }
 }
 
 /******************************************************
