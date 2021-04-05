@@ -1,6 +1,7 @@
 @charset "UTF-8";
 /* Import ET Book styles adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
 /* Tufte CSS styles */
+@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Cormorant+SC:wght@400;500;600;700&display=swap");
 html { font-size: 15px; }
 
 body { width: 87.5%; margin-left: auto; margin-right: auto; padding-left: 12.5%; font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; background-color: #fffff8; color: #111; max-width: 1400px; counter-reset: sidenote-counter; }
@@ -15,7 +16,7 @@ hr { display: block; height: 1px; width: 55%; border: 0; border-top: 1px solid #
 
 p.subtitle, .subtitle.csl-entry { font-style: italic; margin-top: 1rem; margin-bottom: 1rem; font-size: 1.8rem; display: block; line-height: 1; }
 
-.numeral, p, .csl-entry, figcaption, div.subfigures p, div.subfigures .csl-entry { font-family: et-book-roman-old-style; }
+.numeral { font-family: et-book-roman-old-style; }
 
 .danger { color: red; }
 
@@ -270,24 +271,13 @@ a.sourceLine::before { text-decoration: none; }
 
 @font-face { font-family: 'Trajan Pro'; font-style: normal; font-weight: bold; src: url("../fonts/TrajanPro-Bold.woff") format("woff"); }
 
-@font-face { font-family: "et-book"; src: url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot"); src: url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.eot?#iefix") format("embedded-opentype"), url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.woff") format("woff"), url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.ttf") format("truetype"), url("../fonts/et-book/et-book-roman-line-figures/et-book-roman-line-figures.svg#etbookromanosf") format("svg"); font-weight: normal; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "et-book"; src: url("../fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot"); src: url("../fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.eot?#iefix") format("embedded-opentype"), url("../fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.woff") format("woff"), url("../fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.ttf") format("truetype"), url("../fonts/et-book/et-book-display-italic-old-style-figures/et-book-display-italic-old-style-figures.svg#etbookromanosf") format("svg"); font-weight: normal; font-style: italic; font-display: swap; }
-
-@font-face { font-family: "et-book"; src: url("../fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot"); src: url("../fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.eot?#iefix") format("embedded-opentype"), url("../fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.woff") format("woff"), url("../fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.ttf") format("truetype"), url("../fonts/et-book/et-book-bold-line-figures/et-book-bold-line-figures.svg#etbookromanosf") format("svg"); font-weight: bold; font-style: normal; font-display: swap; }
-
-@font-face { font-family: "et-book-roman-old-style"; src: url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot"); src: url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.eot?#iefix") format("embedded-opentype"), url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.woff") format("woff"), url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.ttf") format("truetype"), url("../fonts/et-book/et-book-roman-old-style-figures/et-book-roman-old-style-figures.svg#etbookromanosf") format("svg"); font-weight: normal; font-style: normal; font-display: swap; }
-
 /* General tweaks for nicer appearance */
 /* @mixin bodyBackground() { background: $backgroundColor; } */
 :root { color-scheme: light dark; /* both supported */ }
 
-body { margin-top: 0; }
+body { margin-top: 0; font-family: "Cormorant Garamond", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
 
-/* Revert to default font in italics and bold because the oldstyle numerals font does not have these shapes. */
-em, i, strong, b, p.subtitle, .subtitle.csl-entry, .epigraph > blockquote > p, .epigraph > blockquote > .csl-entry, .epigraph > blockquote > footer { font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
-
-blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote { margin-right: -70%; font-family: "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
+blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote { margin-right: -70%; }
 
 section > details, div.csl-bib-body > details, section > dl, div.csl-bib-body > dl, header > div.epigraph { width: 55%; }
 
@@ -305,10 +295,12 @@ dt, h5 { float: left; margin: 0 1.4rem 0 0; padding-bottom: 0; }
 
 figcaption, div.subfigures p, div.subfigures .csl-entry { max-width: 50%; }
 
-/* Don't get headings caught in floats, reverse the emphasis since h2 uses italics. */
-h2 { clear: both; }
+h1 { font-family: "Cormorant Garamond", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; font-size: 2em; font-weight: 300; letter-spacing: 0.1rem; text-transform: uppercase; }
 
-h2 em { font-style: normal; }
+/* Don't get headings caught in floats, reverse the emphasis since h2 uses italics. */
+h1, h2 { clear: both; }
+
+h1 em, h2 em { font-style: normal; letter-spacing: 0.2rem; }
 
 h5 { line-height: 1.2em; }
 
@@ -317,6 +309,12 @@ hr { border: 0; clear: left; text-align: center; font-size: 2em; padding: 2rem 0
 hr::before { content: "* * *"; }
 
 ol, ul { margin-left: -2.5rem; }
+
+ul { list-style-type: none; }
+
+ul li { text-indent: -2rem; }
+
+ul li::before { content: "— "; }
 
 span.newthought { font-size: 1.4rem; }
 
@@ -332,7 +330,7 @@ td > p, td > .csl-entry { margin-top: 0; }
 
 .site-title > img { width: 90%; }
 
-.smallcaps, dt, h3, h4, h5, span.newthought { text-transform: lowercase; font-variant: small-caps; font-weight: bold; }
+.smallcaps, dt, h3, h4, h5, span.newthought { font-family: "Cormorant SC"; text-transform: lowercase; font-weight: 600; }
 
 .smallcaps em, dt em, h3 em, h4 em, h5 em, span.newthought em { font-style: normal; letter-spacing: 0.2em; }
 
@@ -356,16 +354,20 @@ div.subfigures p, div.subfigures .csl-entry { margin-bottom: 2em; margin-right: 
 .unnumbered, .allowframebreaks { display: none; visibility: hidden; }
 
 /****************************************************** Light and Dark */
-@media (prefers-color-scheme: dark) { body { color: #fffff8; background-color: #282828; } body a:link { background: -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#ccc, #ccc); background: linear-gradient(#111111, #111111), linear-gradient(#111111, #111111), linear-gradient(#ccc, #ccc); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #111111, -0.03em 0 #111111, 0 0.03em #111111, 0 -0.03em #111111, 0.06em 0 #111111, -0.06em 0 #111111, 0.09em 0 #111111, -0.09em 0 #111111, 0.12em 0 #111111, -0.12em 0 #111111, 0.15em 0 #111111, -0.15em 0 #111111; background-position: 0% 93%, 100% 93%, 0% 93%; } body img { background-color: #fffff8; filter: brightness(0.8) contrast(1.2); -webkit-filter: brightness(0.8) contrast(1.2); } body img.line { background: none; filter: invert(100%); -webkit-filter: invert(100%); } body img.nobg { background: none; } }
-
 @media (prefers-color-scheme: no-preference) { body { color: #111111; background-color: #fffff8; } body a:link { text-decoration: none; background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333); background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8; background-position: 0% 93%, 100% 93%, 0% 93%; } }
 
 @media (prefers-color-scheme: light) { body { color: #111111; background-color: #fffff8; } body a:link { text-decoration: none; background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333); background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8; background-position: 0% 93%, 100% 93%, 0% 93%; } }
 
+@media (prefers-color-scheme: dark) { body { color: #fffff8; background-color: #282828; } body a:link { background: -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#ccc, #ccc); background: linear-gradient(#111111, #111111), linear-gradient(#111111, #111111), linear-gradient(#ccc, #ccc); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #111111, -0.03em 0 #111111, 0 0.03em #111111, 0 -0.03em #111111, 0.06em 0 #111111, -0.06em 0 #111111, 0.09em 0 #111111, -0.09em 0 #111111, 0.12em 0 #111111, -0.12em 0 #111111, 0.15em 0 #111111, -0.15em 0 #111111; background-position: 0% 93%, 100% 93%, 0% 93%; } body img { background-color: #fffff8; filter: brightness(0.8) contrast(1.2); -webkit-filter: brightness(0.8) contrast(1.2); } body img.line { background: none; filter: invert(75%); -webkit-filter: invert(75%); } body img.nobg { background: none; } }
+
 /****************************************************** Fixes for Zotero export to HTML */
 .csl-entry { margin: 0; }
 
-.marginnote, figure > figcaption, div.subfigures figure > p { margin-bottom: 1rem; }
+.marginnote, figure > figcaption, div.subfigures figure > p, .sidenote { margin-bottom: 1rem; }
+
+.marginnote em, figure > figcaption em, div.subfigures figure > p em, .sidenote em { font-weight: 500; }
+
+.sidenote-number, .sidenote-number:after, .sidenote:before { font-family: "Cormorant Garamond", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
 
 /****************************************************** Screen width overrides must come last. */
 @media (max-width: 760px) { div.incremental, header > div.epigraph, dl, figure > img.fullwidth, details { width: 90%; } img.marginnote { float: none; width: 90%; } figcaption, div.subfigures p, div.subfigures .csl-entry, .marginnote, figure > figcaption { display: inline; } }
