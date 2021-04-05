@@ -13,22 +13,10 @@ body {
   font-family: $mainFont;
 }
 
-/*
- * Revert to default font in italics and bold because the oldstyle
- * numerals font does not have these shapes.
- */
-em, i, strong, b,
-p.subtitle,
-.epigraph > blockquote > p,
-.epigraph > blockquote > footer {
-  font-family: $mainFont;
-}
-
 // Improve position + style of Pandoc citations
 blockquote > p {
   & > span.citation > span.sidenote-wrapper > span.sidenote {
     margin-right: -70%;
-    font-family: $mainFont;
   }
 }
 
@@ -75,8 +63,9 @@ figcaption {
 }
 
 h1 {
-  font-family: $headingFont;
+  font-family: $mainFont;
   font-size: $heading1Size;
+  font-weight: $headingFontWeight;
   letter-spacing: $headingLetterSpacing;
   text-transform: $headingTextTransform;
 }
@@ -85,10 +74,11 @@ h1 {
  * Don't get headings caught in floats,
  * reverse the emphasis since h2 uses italics.
  */
-h2 {
+h1, h2 {
   clear: both;
   em {
       font-style: normal;
+      letter-spacing: $headingLetterSpacing * 2;
     }
 }
 
@@ -114,10 +104,14 @@ ol, ul {
   margin-left: -2.5rem;
 }
 
-// Old-style figures
-p,
-figcaption {
-  @extend .numeral;
+ul {
+  list-style-type: none;
+  li {
+    text-indent: -2rem;
+    &::before {
+      content: "— ";
+    }
+  }
 }
 
 // Don't enlarge new thoughts
@@ -159,7 +153,7 @@ td > p {
 span.newthought {
   font-family: "Cormorant SC";
   text-transform: lowercase;
-  font-variant: small-caps;
+  font-weight: 600;
   //font-weight: bold;
   em {
     font-style: normal;
@@ -307,8 +301,19 @@ div.csl-bib-body {
   margin: 0;
 }
 
-.marginnote {
+.marginnote,
+.sidenote {
   margin-bottom: 1rem;
+  em {
+    font-weight: 500;
+  }
+}
+
+// Prevent Pandoc-Tufte from falling back on ET-Book.
+.sidenote-number,
+.sidenote-number:after,
+.sidenote:before {
+  font-family: $mainFont;
 }
 
 /******************************************************
