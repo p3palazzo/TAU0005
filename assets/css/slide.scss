@@ -17,7 +17,7 @@ html {
 
 .smallcaps {
   font-family: "Cormorant SC";
-  font-weight: 500;
+  font-weight: $headingFontWeight;
   text-transform: lowercase;
 }
 
@@ -25,7 +25,7 @@ html {
   //background-color: darken( $backgroundColor, 15% );
   h1, h2 {
     font-family: $headingFont;
-    font-weight: normal;
+    font-weight: $headingFontWeight;
   }
 
   section.has-dark-background,
@@ -35,15 +35,16 @@ html {
       color: #f4dcb4;
       text-shadow: 0 0 20px #294469, 0 0 10px #294469;
       font-family: $headingFont;
-      font-weight: normal;
+      font-weight: $headingFontWeight;
+      text-transform: $headingTextTransform;
     }
     p.subtitle,
     p.author,
     p.date {
       //float: left;
       font-family: $headingFont;
-      font-weight: normal;
-      text-transform: uppercase;
+      font-weight: $headingFontWeight;
+      text-transform: $headingTextTransform;
     }
     .author img {
       height: 1em;
@@ -69,10 +70,9 @@ html {
       }
     }
     dt, h3, h4, h5 {
-      font-family: $headingFont;
+      font-family: "Cormorant SC";
       font-size: $heading2Size;
-      font-variant: small-caps;
-      font-weight: normal;
+      font-weight: $headingFontWeight;
       text-transform: lowercase;
     }
     p, dd, figure {
