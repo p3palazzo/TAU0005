@@ -12,7 +12,9 @@ abstract: |
 
 ![Edwin Lord Weeks. Across the Pool to the Golden Temple of Amritsar, 1883](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1024px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg){#fig:weeks .fullwidth}
 
-# Oriente e ocidente #
+# Unidade na diversidade #
+
+
 
 A cultura tradicional da Índia é *exótica* aos olhos do Ocidente num
 nível que outras culturas da Ásia não atingem. A China é centralizada,
@@ -46,7 +48,7 @@ arquitetura monumental na Índia. Para Brown:
 > Renascimento italiano reflete a intelectualidade da sua época. Do
 > mesmo modo, a qualidade preeminente da arquitetura da Índia é o seu
 > teor espiritual. ... Ela é a mente materializada em termos de rocha,
-> tijolo ou pedra. [@brown:1959indian, 1]
+> tijolo ou pedra. [@brown:1959indiana, 1]
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/27/43/40/274340c0fd8060640d0f6019cfeb6d9c.jpg"}
 
@@ -55,7 +57,7 @@ arquitetura monumental na Índia. Para Brown:
 Os pesquisadores indianos tratam do tema da espiritualidade na
 arquitetura de modos variados, mas sempre diferentes do exotismo
 ocidental. O historiador da arte cingalês [Ananda
-Coomaraswamy](https://pt.wikipedia.org/wiki/Ananda_Coomaraswamy) foi um
+Coomaraswamy](https://pt.wikipedia.org/wiki/Ananda_Coomaraswamy) (@fig:coomaraswamy) foi um
 dos pioneiros da revisão da arquitetura indiana segundo um viés que não
 se fazia subserviente aos esquemas interpretativos europeus. Na verdade,
 Coomaraswamy defendia que os conceitos tradicionais de arte na Índia e
@@ -64,17 +66,115 @@ na Europa se aproximavam numa transcendência universal
 muito materialista, não era capaz de explicar adequadamente essa unidade
 conceitual.
 
-O sistema histórico de Coomaraswamy era uma faca de dois gumes. Por um
-lado, ele afirmava uma autonomia metodológica para a história da
-arquitetura indiana com respeito ao paradigma colonialista britânico.
-Por outro lado, esse sistema se baseava numa unidade continental cuja
-base era o hinduísmo e, especialmente, as origens arianas da cultura
-indiana como um todo (nada a ver com o conceito nazista de "ariano").
+Apesar disso, o sistema teórico de Coomaraswamy era uma faca de dois
+gumes. Por um lado, ele afirmava uma autonomia metodológica para a
+história da arquitetura indiana com respeito ao paradigma colonialista
+britânico. Por outro lado, esse sistema promovia uma espécie de
+colonialismo cultural interno. Coomaraswamy propunha uma unidade
+continental que tinha o hinduísmo como base e, mais ainda, afirmava a
+primazia da cultura ariana na história da Índia como um todo (atenção:
+nada a ver com o conceito nazista de "ariano": os arianos de verdade
+foram um povo pré-histórico que viveu logo depois da separação do tronco
+linguístico indo-europeu; eles deram origem às sociedades e aos dialetos
+do norte da Índia e da Pérsia antiga).
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png" data-background-size="contain"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Civilização do vale do rio Indo, fase central. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png){#fig:indus-mature}
+:::
+::: {.column width=50%}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/57/Early_Vedic_Culture_(1700-1100_BCE).png" data-background-size="contain"}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_(1100-500_BCE).png" data-background-size="contain"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Migrações arianas no período védico inicial. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Early_Vedic_Culture_(1700-1100_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/57/Early_Vedic_Culture_(1700-1100_BCE).png){#fig:early-vedic .stretch}
+:::
+::: {.column width=50%}
+![Reinos nāgara do período védico tardio. Os territórios ao sul da área sombreada correspondem em linhas gerais à cultura dravídica. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Late_Vedic_Culture_(1100-500_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_(1100-500_BCE).png){#fig:late-vedic .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+A interpretação da arquitetura na Índia antiga segundo Coomaraswamy
+postula a continuidade entre a civilização urbana do vale do rio Indo
+(@fig:indus-mature), na Idade do Bronze, e a cultura védica de tradição
+oral que introduziu a Idade do Ferro no subcontinente
+([@fig:early-vedic; @fig:late-vedic]). Essa pretensa continuidade tem
+sido um ponto de discórdia na historiografia da Índia: por um lado, os
+críticos dessa teoria argumentam que ela é um pretexto pseudo-científico
+para o supremacismo hindu; por outro, a evidência arqueológica cada vez
+mais tende a corroborar uma transição contínua entre as culturas das
+Idades do Bronze e do Ferro no subcontinente Indiano.
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2f/Shiva_Pashupati.jpg" data-background-size="contain"}
+
+![Selo Paśupati (senhor dos animais), talvez representando uma figura de "Shiva" ou iogue. [Mohenjo-Dāro, 2600--1900 a.C.](https://commons.wikimedia.org/wiki/File:Shiva_Pashupati.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Shiva_Pashupati.jpg){#fig:pasupati .marginnote}
+
+Uma das evidências mais antigas nesse sentido é um carimbo para objetos
+em argila representando uma personagem com três rostos em posição de
+iogue. Coomaraswamy chegou a identificar essa figura com o deus
+hinduísta Shiva, mas essa identidade não é amplamente reconhecida. Um
+argumento mais convincente é a continuidade da cultura urbana no norte
+da Índia entre o declínio das cidades do vale do rio Indo, por volta de
+1300 a.C. (ver @fig:indus-mature), e a ascensão das cidades na planície
+ocidental dos rios Ganges e Yamuna (@fig:pgw), que correspondem ao
+período e à região das sociedades védicas antigas
+[@kenoyer:1995interaction].
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8c/Painted_Grey_Ware_Culture_%281200-600_BCE%29.png" data-background-size="contain"}
+
+![Cidades da cultura da cêramica cinza pintada, Idade do Ferro inicial. Mapa: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Painted_Grey_Ware_Culture_(1200-600_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/8/8c/Painted_Grey_Ware_Culture_%281200-600_BCE%29.png){#fig:pgw}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dancing_girl_of_Mohenjo-daro.jpg/493px-Dancing_girl_of_Mohenjo-daro.jpg" data-background-size="contain"}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/1e/9e/b3/1e9eb357b7e3488ff55719d1373f3924.jpg" data-background-size="contain"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Dançarina dita "dravídica", Mohenjo-Dāro, 2300--1750 a.C. Bronze, 10,8 cm de altura. [Museu Nacional, Nova Déli](https://commons.wikimedia.org/wiki/File:Dancing_girl_of_Mohenjo-daro.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dancing_girl_of_Mohenjo-daro.jpg/493px-Dancing_girl_of_Mohenjo-daro.jpg){#fig:dravidian-dancer .stretch}
+:::
+::: {.column width=50%}
+![Figura dita do rei--sacerdote ou sacerdote "ariano", Mohenjo-Dāro, 2400--1900 a.C. Pedra-sabão cozida, 17,5 cm de altura. [Museu Nacional do Paquistão, Karachī](https://commons.wikimedia.org/wiki/File:Mohenjo-daro_Priesterkönig.jpeg)](https://i.pinimg.com/originals/1e/9e/b3/1e9eb357b7e3488ff55719d1373f3924.jpg){#fig:aryan-priest .stretch}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Duas estátuas muito pequenas, escavadas em Mohenjo-Dāro, acabaram se
+tornando o fulcro do debate sobre a unidade da cultura indiana. Uma
+delas (@fig:dravidian-dancer) é em bronze não polido, portanto negra, e
+representa uma mulher com lábios grossos, cabelo encaracolado e nariz
+achatado --- traços físicos dominantes hoje em dia entre os povos do sul
+da Índia. Por causa disso, ela foi apelidada de "dançarina dravídica". A
+outra (@fig:aryan-priest) é em pedra-sabão branca e representa um homem
+bom barba lisa e nariz aquilino --- feições mais características do
+noroeste do subcontinente Indiano. Esta recebeu a alcunha de "sacerdote
+ariano".
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/6b/1d/1e/6b1d1e4f03a4e191993052ff3f3e19d6.jpg"}
+
+Essas e outras evidências descobertas desde a primeira metade do século
+[XX]{.smallcaps} apontam para uma miscigenação étnica e continuidade
+cultural entre a cultura da Idade do Bronze no vale do rio Indo [^1]e a
+cultura da Idade do Ferro na planície do rio Ganges, dominada pelos
+indo-arianos. Essa miscigenação é muito mais antiga do que se acreditava
+antigamente, e pode ter começado com as primeiras migrações indo-arianas
+por volta de 1800 a.C. (@fig:migrations).
+
+![Migrações na Eurásia da Idade do Bronze Média, c. 1750--1250 a.C. No centro, migração de povos indo-arianos ("Rigvédicos") da Ásia central para o noroeste da Índia. Mapa: [Carlos Quiles, 2021](https://indo-european.eu/maps/middle-bronze-age/)](https://i.pinimg.com/originals/6b/1d/1e/6b1d1e4f03a4e191993052ff3f3e19d6.jpg){#fig:migrations .fullwidth}
 
 Nāgara vs Drāviḍa
 
 Prevenções ocidentais: ênfase no templo como monumento vs diversidade
 das formas de devoção
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c4/Maurya_Empire,_c.250_BCE.png" data-background-size="contain"}
+
+![Império Maurya no seu auge. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Maurya_Empire,_c.250_BCE.png)](https://upload.wikimedia.org/wikipedia/commons/c/c4/Maurya_Empire,_c.250_BCE.png){#fig:maurya}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png" data-background-size="contain"}
 
@@ -85,6 +185,18 @@ das formas de devoção
 ![Estupas e mosteiros na colina de Sanchi, reconstituição nos primeiros séculos d.C. segundo [Percy Brown, 1900](https://commons.wikimedia.org/wiki/File:Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png/1280px-Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png){#fig:sanci-rec .line .nobg}
 
 # Traçado regulador e cosmologia #
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/5a/4d/4e/5a4d4e523063b122e3bc96c7c22eb537.jpg"}
+
+![Esquemas conceituais de aldeias indo-arianas. Desenho em [E.B. Havell, 1918](https://commons.wikimedia.org/wiki/File:Indo-Aryan_village_plans.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png){#fig:havell .marginnote .line .nobg}
+
+![Reconstituição do assentamento de Arkaim, sul dos montes Urais, c. 2000 a.C. Desenho: [Jvtrplzz](https://www.heritagedaily.com/2020/04/arkaim/127669)](https://i.pinimg.com/originals/5a/4d/4e/5a4d4e523063b122e3bc96c7c22eb537.jpg){#fig:arkaim}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png" data-background-size="contain"}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1280px-Brown-18060_0021-1.jpg" data-background-size="contain"}
+
+![Aldeia védica com cerca e portal. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0021-1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1280px-Brown-18060_0021-1.jpg){#fig:brown-vedic}
 
 [Vāstu śāstra](https://en.wikipedia.org/wiki/Vastu_shastra) (tratados de
 arquitetura) e [*Śilpa
@@ -101,6 +213,8 @@ construtivas.
 
 ![Manduka mandala de 64 casas para o projeto de templos hinduístas. Desenho: [Mark Muesse, 2014](https://commons.wikimedia.org/wiki/File:64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg/1024px-64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg.png){#fig:manduka-mandala}
 
+<!--_,-->
+
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/39/bd/90/39bd90af04072a4d03da58b399da5333.jpg" data-background-size="contain"}
 
 ![Charles Correa, arquiteto, Jawahar Kala Kendra, Jaipur, 1986, planta](https://i.pinimg.com/originals/39/bd/90/39bd90af04072a4d03da58b399da5333.jpg){#fig:jkk-plan}
@@ -111,7 +225,7 @@ Vāstu puruṣa mandala
 classicismo; a palavra se refere à curvatura das coberturas feitas de
 galhos, juncos ou folhagens [@coomaraswamy:1992essays, 106].
 
-Construção originária em teca [@brown:1959indian, 6].
+Construção originária em teca [@brown:1959indiana, 6].
 
 # Do monumento maciço ao espaço escavado #
 
@@ -183,3 +297,7 @@ Templo (pura) é um palácio (prāsāda) abstraído e verticalizado
 
 # Civilizações hidráulicas #
 
+
+[^1]: A população pré-histórica do vale do rio Indo provavelmente não
+    era dravídica e sim austro-asiática, parte de um substrato que se
+    estende até o sudeste Asiático.
