@@ -1,7 +1,6 @@
-from            : markdown
+from            : "markdown+tex_math_single_backslash"
 to              : revealjs
 bibliography    : biblio.bib
-cite-method     : citeproc
 fail-if-warnings: true
 file-scope      : true
 filters:
@@ -9,11 +8,11 @@ filters:
   - citeproc
 metadata:
   csl           : "_csl/chicago-author-date.csl"
+  cssLabelSep   : "&ndash;"
   lang          : pt-BR
   suppress-bibliography: false
 slide-level     : 2
 standalone      : true
-toc             : true
 toc-depth       : 1
 variables:
   css           : "../assets/css/slide.css"

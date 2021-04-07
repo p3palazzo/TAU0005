@@ -57,11 +57,6 @@ dt, h5 {
   padding-bottom: 0;
 }
 
-// Make captions align with sidenotes
-figcaption {
-  max-width: 50%;
-}
-
 h1 {
   font-family: $headingFont;
   font-size: $heading1Size;
@@ -140,6 +135,11 @@ td > p {
   margin-top: 0;
 }
 
+.marginnote,
+.sidenote {
+  font-weight: 500;
+}
+
 // Align header image with content
 .site-title {
   max-width: 1400px;
@@ -151,7 +151,7 @@ td > p {
 // When I say small caps, I mean it.
 .smallcaps,
 span.newthought {
-  font-family: "Cormorant SC";
+  font-family: $scFont;
   text-transform: lowercase;
   font-weight: 600;
   //font-weight: bold;
@@ -168,6 +168,7 @@ span.newthought {
 // Correct handling of figures with captions
 figure > figcaption {
   @extend .marginnote;
+  max-width: 50%;
 }
 
 figure > img.fullwidth {
@@ -215,8 +216,7 @@ div {
  * Hide Bibliography title because our style does not output a
  * reference list.
  */
-.unnumbered,
-.allowframebreaks {
+#refs {
   display: none;
   visibility: hidden;
 }

@@ -7,6 +7,7 @@ $backgroundColor: #faecd6;
 // Primary/body text
 $mainFontSize: 32px;
 $mainFont: "Cormorant Garamond", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+$scFont: "Cormorant SC", Palatino, "Palatino Linotype", "Palatino LT STD", "Georgia", serif;
 $mainColor: #284368;
 
 // Vertical spacing between blocks of text
@@ -14,13 +15,13 @@ $mainColor: #284368;
 
 // Headings
 //$headingMargin: 0 0 $blockMargin 0;
-$headingFont: "Cormorant Garamond", Georgia, 'Liberation Serif', serif;
+$headingFont: "Cormorant Garamond", "Alegreya", Georgia, 'Liberation Serif', serif;
 $headingColor: #284368;
 //$headingLineHeight: 1.2;
 $headingLetterSpacing: 0.1rem;
 $headingTextTransform: uppercase;
 //$headingTextShadow: none;
-$headingFontWeight: 500;
+$headingFontWeight: 400;
 //$heading1TextShadow: $headingTextShadow;
 
 $heading1Size: 2.0em;

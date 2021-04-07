@@ -109,11 +109,9 @@ html {
       bottom: 20px;
       padding: 8px 2.5%;
     }
-
     .box {
       background: #ffffff33;
     }
-
     blockquote,
     ol {
       font-size: $heading4Size;
@@ -132,6 +130,13 @@ html {
       p {
         display: block;
         visibility: visible;
+      }
+    }
+    .references {
+      text-align: left;
+      margin: 0 20%;
+      .csl-entry {
+        padding: 8px 0;
       }
     }
   }
