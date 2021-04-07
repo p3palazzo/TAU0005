@@ -38,7 +38,7 @@ Essa era a opinião do historiador da arte inglês Percy Brown
 (@fig:brown-walli), um dos pioneiros no estudo das origens da
 arquitetura monumental na Índia. Para Brown:
 
-## {.unlisted}
+. . .
 
 > Em cada um dos principais processos históricos da arquitetura há um
 > princípio básico fundamentando a sua concepção, e que lhe dá a sua
@@ -82,15 +82,13 @@ do norte da Índia e da Pérsia antiga).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Civilização do vale do rio Indo, fase central. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png){#fig:indus-mature}
+![Civilização do vale do rio Indo, fase central. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png){#fig:indus-mature .stretch}
 :::
 ::: {.column width=50%}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/57/Early_Vedic_Culture_(1700-1100_BCE).png" data-background-size="contain"}
-
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_(1100-500_BCE).png" data-background-size="contain"}
+## {.unlisted}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
@@ -127,9 +125,9 @@ ocidental dos rios Ganges e Yamuna (@fig:pgw), que correspondem ao
 período e à região das sociedades védicas antigas
 [@kenoyer:1995interaction].
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8c/Painted_Grey_Ware_Culture_%281200-600_BCE%29.png" data-background-size="contain"}
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8c/Painted_Grey_Ware_Culture_(1200-600_BCE).png" data-background-size="contain"}
 
-![Cidades da cultura da cêramica cinza pintada, Idade do Ferro inicial. Mapa: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Painted_Grey_Ware_Culture_(1200-600_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/8/8c/Painted_Grey_Ware_Culture_%281200-600_BCE%29.png){#fig:pgw}
+![Cidades da cultura da cêramica cinza pintada, Idade do Ferro inicial. Mapa: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Painted_Grey_Ware_Culture_(1200-600_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/8/8c/Painted_Grey_Ware_Culture_(1200-600_BCE).png){#fig:pgw .stretch}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dancing_girl_of_Mohenjo-daro.jpg/493px-Dancing_girl_of_Mohenjo-daro.jpg" data-background-size="contain"}
 
