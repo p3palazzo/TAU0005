@@ -9,11 +9,8 @@ filters:
   - citeproc
 metadata:
   csl           : "_csl/chicago-author-date.csl"
-  cssLabelSep   : "&ndash;"
-  figureTitle   : Figura
   lang          : pt-BR
   suppress-bibliography: false
-  tableTitle    : Tabela
 slide-level     : 2
 standalone      : true
 toc             : true

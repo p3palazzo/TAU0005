@@ -1,6 +1,5 @@
 from            : "markdown+tex_math_single_backslash"
 bibliography    : "biblio.bib"
-cite-method     : citeproc
 fail-if-warnings: true
 file-scope      : true
 filters:
@@ -15,6 +14,4 @@ metadata:
   layout        : page
   suppress-bibliography: true
   tableTitle    : Tabela
-table-of-contents: true
-toc-depth       : 2
 shift-heading-level-by: 1

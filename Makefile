@@ -14,7 +14,7 @@ JEKYLL-PANDOC   := palazzo/jekyll-tufte:4.2.0-2.12
 ASSETS  = $(wildcard assets/*)
 CSS     = $(wildcard assets/css/*)
 FONTS   = $(wildcard assets/fonts/*)
-SASS    = $(wildcard *.scss)
+SASS    = $(wildcard assets/css/*.scss) $(wildcard _sass/*.scss)
 ROOT    = $(wildcard *.md)
 AULA    = $(wildcard _aula/*.md)
 SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(AULA))
@@ -28,7 +28,7 @@ tau0005.pdf : plano.pdf cronograma.pdf \
 	gs -dNOPAUSE -dBATCH -sDevice=pdfwrite \
 		-sOutputFile=$@ $^
 
-.slides : $(SLIDES) revealjs.yaml | _site _csl
+.slides : $(SLIDES) revealjs.yaml $(SASS) | _site _csl
 
 _site :
 	@test -e _site/.git || \
@@ -38,7 +38,7 @@ _site :
 	#docker run -v "`pwd`:/srv/jekyll" \
 		#$(JEKYLL-PANDOC) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
-_site/slides/%.html : _aula/%.md revealjs.yaml biblio.bib | _csl _site/slides
+_site/slides/%.html : _aula/%.md revealjs.yaml biblio.bib $(SASS) | _csl _site/slides
 	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
 
 %.pdf : %.tex biblio.bib
@@ -64,4 +64,4 @@ _site/slides : _site
 	@mkdir -p _site/slides
 
 clean :
-	-@rm -r *.aux *.bbl *.bcf *.blg *.fls *.log _csl
+	-@rm -rf *.aux *.bbl *.bcf *.blg *.fls *.log _csl _site

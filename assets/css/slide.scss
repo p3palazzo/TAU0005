@@ -21,6 +21,10 @@ html {
   text-transform: lowercase;
 }
 
+    .epigraph > blockquote > p {
+      font-style: italic;
+    }
+
 .reveal {
   //background-color: darken( $backgroundColor, 15% );
   h1, h2 {
@@ -75,55 +79,62 @@ html {
       font-weight: $headingFontWeight;
       text-transform: lowercase;
     }
-    p, dd, figure {
+    p, dd, & > figure > img {
       display: none;
       visibility: hidden;
     }
-    img.stretch {
-      display: inline;
-      margin: -20px 0;
-      object-fit: cover;
-      padding: 0;
-      visibility: visible;
+    .columns {
+      margin-top: -20px;
     }
-  }
-
-  figcaption,
-  div.subfigures > p {
-    //display: none;
-    background: #faecd699;
-    position: fixed;
-    bottom: 20px;
-    z-index: 999;
-    padding: 4px 20px;
-  }
-
-  .box {
-    background: #ffffff33;
-  }
-
-  blockquote,
-  ol {
-    font-size: $heading4Size;
-    font-style: normal;
-    //text-align: left;
-    footer {
-      text-align: right;
-      font-style: italic;
-      cite {
-        font-style: italic;
+    .column figure {
+      object-fit: contain;
+      margin: 0;
+      padding: 0;
+      img {
+        margin: 0;
+        height: auto;
+        width: auto;
+        max-height: 100%;
+        max-width: 100%;
+      }
+      figcaption {
+        // Workaround assuming we'll only ever have 2 columns per slide
+        width: 45%;
       }
     }
-    li {
-      margin-left: 2rem;
+    figcaption,
+    div.subfigures > p {
+      background: #faecd6cc;
+      position: fixed;
+      bottom: 20px;
+      padding: 8px 2.5%;
     }
-    p {
-      display: block;
-      visibility: visible;
-    }
-  }
 
-  .epigraph > blockquote > p {
-    font-style: italic;
+    .box {
+      background: #ffffff33;
+    }
+
+    blockquote,
+    ol {
+      font-size: $heading4Size;
+      font-style: normal;
+      //text-align: left;
+      footer {
+        text-align: right;
+        font-style: italic;
+        cite {
+          font-style: italic;
+        }
+      }
+      li {
+        margin-left: 2rem;
+      }
+      p {
+        display: block;
+        visibility: visible;
+      }
+    }
   }
 }
+
+// vim: set foldmethod=indent :
