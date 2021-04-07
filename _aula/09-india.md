@@ -1,6 +1,7 @@
 ---
 title   : "Índia e os reinos das monções"
 author  : "Pedro P. Palazzo"
+figureTemplate: $$t$$
 abstract: |
   Oriente e Ocidente
   – Do monumento maciço ao espaço escavado
@@ -37,8 +38,6 @@ verdadeira.
 Essa era a opinião do historiador da arte inglês Percy Brown
 (@fig:brown-walli), um dos pioneiros no estudo das origens da
 arquitetura monumental na Índia. Para Brown:
-
-. . .
 
 > Em cada um dos principais processos históricos da arquitetura há um
 > princípio básico fundamentando a sua concepção, e que lhe dá a sua
@@ -82,7 +81,7 @@ do norte da Índia e da Pérsia antiga).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Civilização do vale do rio Indo, fase central. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png){#fig:indus-mature .stretch}
+![Civilização do vale do rio Indo, fase central. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png){#fig:indus-mature}
 :::
 ::: {.column width=50%}
 :::
@@ -92,10 +91,10 @@ do norte da Índia e da Pérsia antiga).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Migrações arianas no período védico inicial. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Early_Vedic_Culture_(1700-1100_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/57/Early_Vedic_Culture_(1700-1100_BCE).png){#fig:early-vedic .stretch}
+![Migrações arianas no período védico inicial. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Early_Vedic_Culture_(1700-1100_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/57/Early_Vedic_Culture_(1700-1100_BCE).png){#fig:early-vedic}
 :::
 ::: {.column width=50%}
-![Reinos nāgara do período védico tardio. Os territórios ao sul da área sombreada correspondem em linhas gerais à cultura dravídica. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Late_Vedic_Culture_(1100-500_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_(1100-500_BCE).png){#fig:late-vedic .stretch}
+![Reinos nāgara do período védico tardio. Os territórios ao sul da área sombreada correspondem em linhas gerais à cultura dravídica. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Late_Vedic_Culture_(1100-500_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_(1100-500_BCE).png){#fig:late-vedic}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -125,20 +124,18 @@ ocidental dos rios Ganges e Yamuna (@fig:pgw), que correspondem ao
 período e à região das sociedades védicas antigas
 [@kenoyer:1995interaction].
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8c/Painted_Grey_Ware_Culture_(1200-600_BCE).png" data-background-size="contain"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/6b/db/ff/6bdbff8a2fabdfe15917a6deac28b449.png" data-background-size="contain"}
 
-![Cidades da cultura da cêramica cinza pintada, Idade do Ferro inicial. Mapa: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Painted_Grey_Ware_Culture_(1200-600_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/8/8c/Painted_Grey_Ware_Culture_(1200-600_BCE).png){#fig:pgw .stretch}
+![Cidades da cultura da cêramica cinza pintada, Idade do Ferro inicial. Mapa: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Painted_Grey_Ware_Culture_(1200-600_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/8/8c/Painted_Grey_Ware_Culture_(1200-600_BCE).png){#fig:pgw}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dancing_girl_of_Mohenjo-daro.jpg/493px-Dancing_girl_of_Mohenjo-daro.jpg" data-background-size="contain"}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/1e/9e/b3/1e9eb357b7e3488ff55719d1373f3924.jpg" data-background-size="contain"}
+## {.unlisted}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
-![Dançarina dita "dravídica", Mohenjo-Dāro, 2300--1750 a.C. Bronze, 10,8 cm de altura. [Museu Nacional, Nova Déli](https://commons.wikimedia.org/wiki/File:Dancing_girl_of_Mohenjo-daro.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dancing_girl_of_Mohenjo-daro.jpg/493px-Dancing_girl_of_Mohenjo-daro.jpg){#fig:dravidian-dancer .stretch}
+![Dançarina dita "dravídica", Mohenjo-Dāro, 2300--1750 a.C. Bronze, 10,8 cm de altura. [Museu Nacional, Nova Déli](https://commons.wikimedia.org/wiki/File:Dancing_girl_of_Mohenjo-daro.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dancing_girl_of_Mohenjo-daro.jpg/657px-Dancing_girl_of_Mohenjo-daro.jpg){#fig:dravidian-dancer}
 :::
 ::: {.column width=50%}
-![Figura dita do rei--sacerdote ou sacerdote "ariano", Mohenjo-Dāro, 2400--1900 a.C. Pedra-sabão cozida, 17,5 cm de altura. [Museu Nacional do Paquistão, Karachī](https://commons.wikimedia.org/wiki/File:Mohenjo-daro_Priesterkönig.jpeg)](https://i.pinimg.com/originals/1e/9e/b3/1e9eb357b7e3488ff55719d1373f3924.jpg){#fig:aryan-priest .stretch}
+![Estatueta dita do rei--sacerdote ou sacerdote "ariano", Mohenjo-Dāro, 2400--1900 a.C. Pedra-sabão cozida, 17,5 cm de altura. [Museu Nacional do Paquistão, Karachī](https://commons.wikimedia.org/wiki/File:Mohenjo-daro_Priesterkönig.jpeg)](https://i.pinimg.com/originals/1e/9e/b3/1e9eb357b7e3488ff55719d1373f3924.jpg){#fig:aryan-priest}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -176,21 +173,23 @@ das formas de devoção
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png" data-background-size="contain"}
 
-![Planta dos monumentos na colina de Sāñćī. [Archaeological Survey of India](https://commons.wikimedia.org/wiki/File:Plan_of_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png){#fig:sanci-site-plan .fullwidth .line .nobg}
+![Planta dos monumentos na colina de Sāñcī. [Archaeological Survey of India](https://commons.wikimedia.org/wiki/File:Plan_of_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png){#fig:sanci-site-plan .fullwidth .line .nobg}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png/1280px-Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png" data-background-size="contain"}
 
 ![Estupas e mosteiros na colina de Sanchi, reconstituição nos primeiros séculos d.C. segundo [Percy Brown, 1900](https://commons.wikimedia.org/wiki/File:Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png/1280px-Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png){#fig:sanci-rec .line .nobg}
 
+<!--_,-->
+
 # Traçado regulador e cosmologia #
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/5a/4d/4e/5a4d4e523063b122e3bc96c7c22eb537.jpg"}
 
-![Esquemas conceituais de aldeias indo-arianas. Desenho em [E.B. Havell, 1918](https://commons.wikimedia.org/wiki/File:Indo-Aryan_village_plans.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png){#fig:havell .marginnote .line .nobg}
-
 ![Reconstituição do assentamento de Arkaim, sul dos montes Urais, c. 2000 a.C. Desenho: [Jvtrplzz](https://www.heritagedaily.com/2020/04/arkaim/127669)](https://i.pinimg.com/originals/5a/4d/4e/5a4d4e523063b122e3bc96c7c22eb537.jpg){#fig:arkaim}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png" data-background-size="contain"}
+
+![Esquemas conceituais de aldeias indo-arianas. Desenho em [E.B. Havell, 1918](https://commons.wikimedia.org/wiki/File:Indo-Aryan_village_plans.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png){#fig:havell .marginnote .line .nobg}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1280px-Brown-18060_0021-1.jpg" data-background-size="contain"}
 
@@ -217,11 +216,35 @@ construtivas.
 
 ![Charles Correa, arquiteto, Jawahar Kala Kendra, Jaipur, 1986, planta](https://i.pinimg.com/originals/39/bd/90/39bd90af04072a4d03da58b399da5333.jpg){#fig:jkk-plan}
 
-Vāstu puruṣa mandala
+Vāstu puruṣa mandala. Em uso atualmente como referência cultural,
+princípios de geomancia e "auto-ajuda".
+
+## {.unlisted}
 
 *Kuṭikā* (cabana ou célula) como arquétipo rural à semelhança do
-classicismo; a palavra se refere à curvatura das coberturas feitas de
-galhos, juncos ou folhagens [@coomaraswamy:1992essays, 106].
+classicismo ([@fig:brown-032; @fig:brown-050]); a palavra se refere à
+curvatura das coberturas feitas de galhos, juncos ou folhagens
+[@coomaraswamy:1992essays, 106].
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Representações de cabanas em mosteiros escavados na rocha. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0032.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Brown-18060_0032.jpg/614px-Brown-18060_0032.jpg){#fig:brown-032}
+:::
+::: {.column width=50%}
+![Representações de santuários em cabanas nos relevos antigos. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0050.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brown-18060_0050.jpg/623px-Brown-18060_0050.jpg){#fig:brown-050}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Construção em madeira reconstituída a partir de espaços escavados na rocha. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0026.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Brown-18060_0026.jpg/666px-Brown-18060_0026.jpg){#fig:brown-026}
+:::
+::: {.column width=50%}
+![Origens formais dos tipos de templos. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0125.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Brown-18060_0125.jpg/622px-Brown-18060_0125.jpg){#fig:brown-125}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Construção originária em teca [@brown:1959indiana, 6].
 
@@ -229,7 +252,7 @@ Construção originária em teca [@brown:1959indiana, 6].
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png" data-background-size="contain"}
 
-![Reconstituição do Templo 40 em Sāñćī, segundo [Percy Brown, 1900](https://commons.wikimedia.org/wiki/File:IA_Temple_40_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png){#fig:temple40 .line .nobg}
+![Reconstituição do Templo 40 em Sāñcī, segundo [Percy Brown, 1900](https://commons.wikimedia.org/wiki/File:IA_Temple_40_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png){#fig:temple40 .line .nobg}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg/1280px-Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg"}
 
@@ -239,7 +262,7 @@ Construção originária em teca [@brown:1959indiana, 6].
 
 ![Volumetria da caverna de Lomas Ṛṣi. Desenho: [Percy Brown, 1900](https://commons.wikimedia.org/wiki/File:Lomas_Rishi_cave.jpg)](https://i.pinimg.com/originals/1e/09/97/1e0997b4a3a7893313b6e6336a45546d.png){#fig:lomas-3d .nobg .line}
 
-Templo (pura) é um palácio (prāsāda) abstraído e verticalizado
+Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png"}
 
@@ -247,7 +270,7 @@ Templo (pura) é um palácio (prāsāda) abstraído e verticalizado
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg" data-background-size="contain"}
 
-![Procissão de Prasenajit de Kosala deixando Saravasti para se encontrar com o Buda, relevo na *toraṇa* norte da estupa 1 em Sāñćī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg){#fig:prasenajit-sanci .marginnote}
+![Procissão de Prasenajit de Kosala deixando Saravasti para se encontrar com o Buda, relevo na *toraṇa* norte da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg){#fig:prasenajit-sanci .marginnote}
 
 ## {.unlisted}
 
@@ -265,15 +288,15 @@ Templo (pura) é um palácio (prāsāda) abstraído e verticalizado
 
 ## {.unlisted data-background-image="https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg"}
 
-![Cidade de Kuśināgarā, cena da guerra das relíquias, relevo na *toraṇa* (portada) sul da estupa 1 em Sāñćī, Madhya Pradesh, reinado de Sātakaṇi II, 50--25 a.C. Foto: [Anandajoti Bhikku, 2017](https://www.flickr.com/photos/anandajoti/33813012975/in/photostream/)](https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg){#fig:kusinagara-sanci .fullwidth}
+![Cidade de Kuśināgarā, cena da guerra das relíquias, relevo na *toraṇa* (portada) sul da estupa 1 em Sāñcī, Madhya Pradesh, reinado de Sātakaṇi II, 50--25 a.C. Foto: [Anandajoti Bhikku, 2017](https://www.flickr.com/photos/anandajoti/33813012975/in/photostream/)](https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg){#fig:kusinagara-sanci .fullwidth}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png" data-background-size="contain"}
 
-![Reconstituição do portão da cidade de Kuśināgarā segundo [Percy Brown, 1900](https://commons.wikimedia.org/wiki/File:Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png)](https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png){#fig:kusinagar-brown .line .nobg}
+![Reconstituição do portão da cidade de Kuśināgarā segundo [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png)](https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png){#fig:kusinagar-brown .line .nobg}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg" data-background-size="contain"}
 
-![Rei Bimbisara partindo de Rajagriha para visitar o Buda, relevo na *torana* sul da estupa 1 em Sāñćī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg){#fig:rajagriha-sanci .marginnote}
+![Rei Bimbisara partindo de Rajāgṛha para visitar o Buda, relevo na *torana* sul da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg){#fig:rajagriha-sanci .marginnote}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/83/56/94/8356949968a0413e38ca504f22a3a184.png"}
 
@@ -285,9 +308,9 @@ Templo (pura) é um palácio (prāsāda) abstraído e verticalizado
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG/1280px-Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG"}
 
-![Relevo na passarela elevada da estupa 1 em Sāñćī, 50--25 a.C. Foto: [Photo Dharma, 2017](https://commons.wikimedia.org/wiki/File:Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg){#fig:promenade .marginnote}
+![Relevo na passarela elevada da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Photo Dharma, 2017](https://commons.wikimedia.org/wiki/File:Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg){#fig:promenade .marginnote}
 
-![Cena celestial, *toraṇa* leste da estupa 1 em Sāñćī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG/1280px-Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG){#fig:heavenly-sanci}
+![Cena celestial, *toraṇa* leste da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG/1280px-Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG){#fig:heavenly-sanci}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg" data-background-size="contain"}
 
