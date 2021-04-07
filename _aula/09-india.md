@@ -177,7 +177,7 @@ das formas de devoção
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png/1280px-Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png" data-background-size="contain"}
 
-![Estupas e mosteiros na colina de Sanchi, reconstituição nos primeiros séculos d.C. segundo [Percy Brown, 1900](https://commons.wikimedia.org/wiki/File:Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png/1280px-Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png){#fig:sanci-rec .line .nobg}
+![Estupas e mosteiros na colina de Sanchi, reconstituição nos primeiros séculos d.C. segundo [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png/1280px-Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png){#fig:sanci-rec .line .nobg}
 
 <!--_,-->
 
@@ -252,15 +252,15 @@ Construção originária em teca [@brown:1959indiana, 6].
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png" data-background-size="contain"}
 
-![Reconstituição do Templo 40 em Sāñcī, segundo [Percy Brown, 1900](https://commons.wikimedia.org/wiki/File:IA_Temple_40_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png){#fig:temple40 .line .nobg}
+![Reconstituição do Templo 40 em Sāñcī, segundo [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:IA_Temple_40_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png){#fig:temple40 .line .nobg}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg/1280px-Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/8f/df/7e/8fdf7e39d8f32c9e45f0d5980012bc5d.jpg"}
 
 ![Portal da caverna de Lomas Ṛṣi, Bihar, 250--185 a.C. Foto: [Photo Dharma, 2013](https://commons.wikimedia.org/wiki/File:Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg/1024px-Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg){#fig:lomas-portal}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/1e/09/97/1e0997b4a3a7893313b6e6336a45546d.png" data-background-size="contain"}
 
-![Volumetria da caverna de Lomas Ṛṣi. Desenho: [Percy Brown, 1900](https://commons.wikimedia.org/wiki/File:Lomas_Rishi_cave.jpg)](https://i.pinimg.com/originals/1e/09/97/1e0997b4a3a7893313b6e6336a45546d.png){#fig:lomas-3d .nobg .line}
+![Volumetria da caverna de Lomas Ṛṣi. Desenho: [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Lomas_Rishi_cave.jpg)](https://i.pinimg.com/originals/1e/09/97/1e0997b4a3a7893313b6e6336a45546d.png){#fig:lomas-3d .nobg .line}
 
 Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
 
@@ -296,7 +296,7 @@ Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg" data-background-size="contain"}
 
-![Rei Bimbisara partindo de Rajāgṛha para visitar o Buda, relevo na *torana* sul da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg){#fig:rajagriha-sanci .marginnote}
+![Rei Bimbisara partindo de Rajāgṛha para visitar o Buda, relevo na *toraṇa* sul da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg){#fig:rajagriha-sanci .marginnote}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/83/56/94/8356949968a0413e38ca504f22a3a184.png"}
 
@@ -310,13 +310,81 @@ Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
 
 ![Relevo na passarela elevada da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Photo Dharma, 2017](https://commons.wikimedia.org/wiki/File:Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg){#fig:promenade .marginnote}
 
-![Cena celestial, *toraṇa* leste da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG/1280px-Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG){#fig:heavenly-sanci}
-
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg" data-background-size="contain"}
+
+![Cena celestial, *toraṇa* leste da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG/1280px-Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG){#fig:heavenly-sanci}
 
 <!--_,-->
 
 # Civilizações hidráulicas #
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/4a/MatheranPanoramaPointDrySeason.JPG"}
+
+![Panorama point, monte Methera, Ghats Ocidentais, Mahārāṣṭra. Foto: [Arne Hückelheim, maio de 2010](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointDrySeason.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MatheranPanoramaPointDrySeason.JPG/1280px-MatheranPanoramaPointDrySeason.JPG){#fig:matheran-dry .fullwidth}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a9/MatheranPanoramaPointMonsoon.JPG"}
+
+![Panorama point, monte Methera, Ghats Ocidentais, Mahārāṣṭra. Foto: [Arne Hückelheim, agosto de 2010](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointMonsoon.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MatheranPanoramaPointMonsoon.JPG/1280px-MatheranPanoramaPointMonsoon.JPG){#fig:matheran-wet .fullwidth}
+
+Ciclo das monções.
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Austronesian_maritime_trade_network_in_the_Indian_Ocean.png/1280px-Austronesian_maritime_trade_network_in_the_Indian_Ocean.png" data-background-size="contain"}
+
+![Rede comercial marítima dos povos austronésios. Mapa: [Obsidian Soul, 2019](https://commons.wikimedia.org/wiki/File:Austronesian_maritime_trade_network_in_the_Indian_Ocean.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Austronesian_maritime_trade_network_in_the_Indian_Ocean.png/1280px-Austronesian_maritime_trade_network_in_the_Indian_Ocean.png){#fig:austro-trade}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hinduism_Expansion_in_Asia-pt.svg/1280px-Hinduism_Expansion_in_Asia-pt.svg.png"}
+
+![Expansão do hinduísmo na Ásia, século [I]{.smallcaps} a [XII]{.smallcaps} d.C. Mapa: [Gunawan Kartapranata, 2015](https://commons.wikimedia.org/wiki/File:Hinduism_Expansion_in_Asia-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hinduism_Expansion_in_Asia-pt.svg/1280px-Hinduism_Expansion_in_Asia-pt.svg.png){#fig:hindu-exp}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/66/45/32/664532deb9ae18436624d6ac60f269a8.jpg"}
+
+![Rochedo e palácio de Sigiriya, Sri Lanka, iniciado 477 d.C.](https://i.pinimg.com/originals/66/45/32/664532deb9ae18436624d6ac60f269a8.jpg){#fig:sigiriya-drone .fullwidth}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/0e/b2/c8/0eb2c8b48df86a86c202539bc84ea3aa.png" data-background-size="contain"}
+
+![Complexo urbano--paisagístico--palaciano de Sigiriya. Planta: [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/0e/b2/c8/0eb2c8b48df86a86c202539bc84ea3aa.png){#fig:sigiriya-plan .fullwidth}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/fe/a5/e6/fea5e65b5ea935966953bde3854766fe.png" data-background-size="contain"}
+
+![Sistema de proporções dos jardins na cidade baixa de Sigiriya. Reconstituição por [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/fe/a5/e6/fea5e65b5ea935966953bde3854766fe.png){#fig:sigiriya-proportions}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/36/f9/69/36f96931639425b493d52487a5a787a5.png" data-background-size="contain"}
+
+![Sistema de proporções e eixos em Sigiriya. Reconstituição por [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/36/f9/69/36f96931639425b493d52487a5a787a5.png){#fig:sigiriya-abc}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/53/a8/d0/53a8d0903d6930e195d66a1d0941b99c.png" data-background-size="contain"}
+
+![Sistema de proporções no mandala central do jardim de Sigiriya. Reconstituição por [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/53/a8/d0/53a8d0903d6930e195d66a1d0941b99c.png){#fig:sigiriya-mandala}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/10/2d/aa/102daa0e55901e8e41add2647fea7616.png"}
+
+![Esquema hidráulico dos jardins de Sigiriya. Reconstituição por [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/10/2d/aa/102daa0e55901e8e41add2647fea7616.png){#fig:sigiriya-hydra}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/53/02/f2/5302f21acc76cf1053c0cdec50c9fe21.jpg" data-background-size="contain"}
+
+![Planta dos jardins suspensos do rei Kaśyapa no palácio de Sigiriya, após 477. Desenho: [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/53/02/f2/5302f21acc76cf1053c0cdec50c9fe21.jpg){#fig:kasyapa-plan .marginnote}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/2c/ed/f9/2cedf9ffb64749c980a24015d9a8f12b.png" data-background-size="contain"}
+
+![Volumetria dos jardins suspensos de Kaśyapa. Modelo: [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/2c/ed/f9/2cedf9ffb64749c980a24015d9a8f12b.png){#fig:kasyapa-model}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg" data-background-size="contain"}
+
+![Antiga rota do chá em Chenyao, China. Foto: [Nekitarc, 2017](https://commons.wikimedia.org/wiki/File:衬腰岩茶马古道照片.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg){#fig:chenyao .marginnote}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/06/Map_of_the_Tea-Horse_road.png" data-background-size="contain"}
+
+![Antiga rota do chá entre a China, a Índia e o Sudeste asiático. Mapa: [Redgeographics, 2017](https://commons.wikimedia.org/wiki/File:Map_of_the_Tea-Horse_road.png)](https://upload.wikimedia.org/wikipedia/commons/0/06/Map_of_the_Tea-Horse_road.png){#fig:tea-horse}
+
+A "rota do chá a cavalo" tem esse nome porque é muito estreita e íngreme
+para a passagem de camelos ou carros, sendo praticável somente para
+cavalos e carregadores a pé.
+
+::: {#refs .allowframebreaks}
+
+# Bibliografia #
+
+:::
 
 
 [^1]: A população pré-histórica do vale do rio Indo provavelmente não
