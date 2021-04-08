@@ -318,19 +318,32 @@ Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
 
 # Civilizações hidráulicas #
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/4a/MatheranPanoramaPointDrySeason.JPG"}
+## {.unlisted}
 
-![Panorama point, monte Methera, Ghats Ocidentais, Mahārāṣṭra. Foto: [Arne Hückelheim, maio de 2010](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointDrySeason.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MatheranPanoramaPointDrySeason.JPG/1280px-MatheranPanoramaPointDrySeason.JPG){#fig:matheran-dry .fullwidth}
+:::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:monsoon}
+::: {.column width=50%}
+![verão](https://i.pinimg.com/originals/f6/c5/71/f6c571941eb1d9071cf2e8564e80003f.jpg){#fig:monsoon-summer}
+:::
+::: {.column width=50%}
+![inverno](https://i.pinimg.com/originals/c3/b9/a1/c3b9a1215325c57a6a75e83bdbf00371.jpg){#fig:monsoon-winter}
+:::
+Diagrama dos ventos de monções no oceano Índico e sul da Ásia
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a9/MatheranPanoramaPointMonsoon.JPG"}
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/ff/The_South_Asian_Monsoon.gif"}
 
-![Panorama point, monte Methera, Ghats Ocidentais, Mahārāṣṭra. Foto: [Arne Hückelheim, agosto de 2010](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointMonsoon.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MatheranPanoramaPointMonsoon.JPG/1280px-MatheranPanoramaPointMonsoon.JPG){#fig:matheran-wet .fullwidth}
+![Registro de pluviometria das monções no sul da Ásia. Desenho: [Mdmadhu, 2017](https://commons.wikimedia.org/wiki/File:The_South_Asian_Monsoon.gif)](https://upload.wikimedia.org/wikipedia/commons/f/ff/The_South_Asian_Monsoon.gif){#fig:monsoon-gif}
 
-Ciclo das monções.
+## {.unlisted}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Austronesian_maritime_trade_network_in_the_Indian_Ocean.png/1280px-Austronesian_maritime_trade_network_in_the_Indian_Ocean.png" data-background-size="contain"}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:ghats}
+![[maio](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointDrySeason.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MatheranPanoramaPointDrySeason.JPG/1280px-MatheranPanoramaPointDrySeason.JPG){#fig:matheran-dry .fullwidth}
 
-![Rede comercial marítima dos povos austronésios. Mapa: [Obsidian Soul, 2019](https://commons.wikimedia.org/wiki/File:Austronesian_maritime_trade_network_in_the_Indian_Ocean.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Austronesian_maritime_trade_network_in_the_Indian_Ocean.png/1280px-Austronesian_maritime_trade_network_in_the_Indian_Ocean.png){#fig:austro-trade}
+![[agosto](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointMonsoon.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MatheranPanoramaPointMonsoon.JPG/1280px-MatheranPanoramaPointMonsoon.JPG){#fig:matheran-wet .fullwidth}
+
+Ciclo das monções em Panorama point, Monte Methera, Ghats ocidentais.
+Fotos: Arne Hückelheim, 2010
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hinduism_Expansion_in_Asia-pt.svg/1280px-Hinduism_Expansion_in_Asia-pt.svg.png"}
 
@@ -356,7 +369,7 @@ Ciclo das monções.
 
 ![Sistema de proporções no mandala central do jardim de Sigiriya. Reconstituição por [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/53/a8/d0/53a8d0903d6930e195d66a1d0941b99c.png){#fig:sigiriya-mandala}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/10/2d/aa/102daa0e55901e8e41add2647fea7616.png"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/10/2d/aa/102daa0e55901e8e41add2647fea7616.png" data-background-size="contain"}
 
 ![Esquema hidráulico dos jardins de Sigiriya. Reconstituição por [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/10/2d/aa/102daa0e55901e8e41add2647fea7616.png){#fig:sigiriya-hydra}
 
@@ -368,17 +381,194 @@ Ciclo das monções.
 
 ![Volumetria dos jardins suspensos de Kaśyapa. Modelo: [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/2c/ed/f9/2cedf9ffb64749c980a24015d9a8f12b.png){#fig:kasyapa-model}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg" data-background-size="contain"}
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Austronesian_maritime_trade_network_in_the_Indian_Ocean.png/1280px-Austronesian_maritime_trade_network_in_the_Indian_Ocean.png" data-background-size="contain"}
 
-![Antiga rota do chá em Chenyao, China. Foto: [Nekitarc, 2017](https://commons.wikimedia.org/wiki/File:衬腰岩茶马古道照片.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg){#fig:chenyao .marginnote}
+[O desenvolvimento político e econômico do Sudeste
+asiático]{.newthought} entre os séculos [IX]{.smallcaps} e
+[XIV]{.smallcaps} se deve em parte a um período de aquecimento global.
+Esse período de aquecimento deslocou as redes comerciais da Ásia da rota
+terrestre da Seda, que passava pelos desertos da Ásia central, para os
+percursos marítimos do oceano Índico (@fig:austro-trade). Além disso,
+esse período está associado à queda da dinastia Tang na China, que
+dependia do comércio na rota da Seda e do abastecimento em
+matérias-primas da Ásia central.
+
+![Rede comercial marítima dos povos austronésios. Mapa: [Obsidian Soul, 2019](https://commons.wikimedia.org/wiki/File:Austronesian_maritime_trade_network_in_the_Indian_Ocean.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Austronesian_maritime_trade_network_in_the_Indian_Ocean.png/1280px-Austronesian_maritime_trade_network_in_the_Indian_Ocean.png){#fig:austro-trade}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Asia_1200ad.jpg/1280px-Asia_1200ad.jpg"}
+
+![Estados da Ásia no início do século [XIII]{.smallcaps}. Mapa: [Talessman, 2007](https://commons.wikimedia.org/wiki/File:Asia_1200ad.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Asia_1200ad.jpg/1280px-Asia_1200ad.jpg){#fig:asia-12}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/06/Map_of_the_Tea-Horse_road.png" data-background-size="contain"}
 
+Esse processo permitiu a ascensão da dinastia Chola no sul da Índia como
+a primeira potência marítima e mercante da região (@fig:asia-12).
+Enquanto isso, na China, a dinastia Song se abria para o sul, para
+controlar o abastecimento em dois insumos que estavam se tornando
+essenciais para a subsistência e o modo de vida dos chineses: o chá e o
+arroz. A chamada "antiga rota do chá" ou "rota do chá e dos cavalos"
+(@fig:tea-horse) dava acesso às plantações do sudoeste da China e do
+reino de Dali.
+
 ![Antiga rota do chá entre a China, a Índia e o Sudeste asiático. Mapa: [Redgeographics, 2017](https://commons.wikimedia.org/wiki/File:Map_of_the_Tea-Horse_road.png)](https://upload.wikimedia.org/wikipedia/commons/0/06/Map_of_the_Tea-Horse_road.png){#fig:tea-horse}
 
-A "rota do chá a cavalo" tem esse nome porque é muito estreita e íngreme
-para a passagem de camelos ou carros, sendo praticável somente para
-cavalos e carregadores a pé.
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yunnan-Myanmar_border.jpg/1280px-Yunnan-Myanmar_border.jpg"}
+
+![Região fronteiriça entre o Yunnan (China) e a Birmânia. Foto: [David and Jessie, 2009](https://commons.wikimedia.org/wiki/File:Yunnan-Myanmar_border.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yunnan-Myanmar_border.jpg/1280px-Yunnan-Myanmar_border.jpg){#fig:yu-my}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg" data-background-size="contain"}
+
+A antiga rota do chá era um sistema de caminhos de montanha
+(@fig:yu-my), praticáveis só para carregadores pedestres, cavalos e
+mulas ([@fig:chenyao; @fig:porters]). Ela permitia o escambo de chá
+chinês por cavalos tibetanos e o comércio de tecidos de seda chinesa e
+algodão bengalês --- dois produtos manufaturados que eram exportados
+para toda a Ásia, África e Europa.
+
+![Antiga rota do chá em Chenyao, China. Foto: [Nekitarc, 2017](https://commons.wikimedia.org/wiki/File:衬腰岩茶马古道照片.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg){#fig:chenyao .marginnote}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/f6/31/2e/f6312e27de421012a29fe99d442055c7.jpg"}
+
+![Carregadores de chá em Sichuan](https://i.pinimg.com/originals/f6/31/2e/f6312e27de421012a29fe99d442055c7.jpg){#fig:porters}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/ae/cb/e5/aecbe5513a24ac16161a0d021d7fbec2.jpg"}
+
+![Plantação de arroz em Wuli, Yunnan. Foto: [Xing Fangyu, 2020](https://news.cgtn.com/news/2020-08-22/Explore-the-ancient-Tea-Horse-Road-in-Wuli-Village-Ta6xRDLvJ6/index.html)](https://i.pinimg.com/originals/ae/cb/e5/aecbe5513a24ac16161a0d021d7fbec2.jpg){#fig:wuli .fullwidth}
+
+Com o aumento do comércio, a partir do século [IX]{.smallcaps}, a
+população do sul da China foi se urbanizando. Isso gerava demanda por
+abastecimento em grande escala. As regiões de monções se especializaram
+então no plantio em arrozais irrigados, uma das técnicas agrícolas de
+maior produtividade em todo o mundo (@fig:wuli).
+
+Os três fatores --- deslocamento das rotas comerciais para o sul,
+demanda por redes de abastecimento para as cidades grandes e aquecimento
+global permitindo o aumento da produtividade agrícola --- gera uma
+economia do excedente agrário no Sudeste asiático. O comércio de longa
+distância nesse sistema é predominantemente baseado no escambo. Na
+ausência de moeda, o arroz é trocado sobretudo por artigos de luxo.
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Khmer_Empire_Expansion.png/1280px-Khmer_Empire_Expansion.png"}
+
+[O império Khmer]{.newthought} é um estado que se estabeleceu e se
+expandiu na onda da economia agroexportadora (@fig:khmer-exp). Ele foi
+um estado altamente especializado: os seus objetivos eram produzir arroz
+para o mercado externo e controlar os percursos de escoamento da
+produção ao longo do rio Mekong, sobretudo para o norte na rota do chá e
+para o sul no comércio marítimo. A capacidade de organizar e manter o
+sistema agroexportador vinha da centralização política; essa
+centralização, por sua vez, era mantida tanto pela capacidade de o
+sistema alimentar a própria população local, quanto pela afirmação
+simbólica da legitimidade dos reis khmeres.
+
+![Expansão do império Khmer. Mapa: [Thames Mapping, 2021](https://commons.wikimedia.org/wiki/File:Khmer_Empire_Expansion.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Khmer_Empire_Expansion.png/1280px-Khmer_Empire_Expansion.png){#fig:khmer-exp}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hinduism_Expansion_in_Asia-pt.svg/1280px-Hinduism_Expansion_in_Asia-pt.svg.png"}
+
+A legitimidade simbólica da realeza khmer estava atrelada à expansão do
+hinduísmo no Sudeste asiático (ver [@fig:hindu-exp](#fig:hindu-exp)) e
+ao conceito de direito divino da monarquia que se articulava no diálogo
+entre essa religião "importada" e as formas de religiosidade locais. O
+status divino dos reis estava, portanto, vinculado, por um lado, à
+obtenção de artigos de luxo por meio do comércio --- sobretudo seda,
+ouro e pedras preciosas (@fig:khmer-king) ---, e por outro lado à
+construção e manutenção de complexos monumentais de templos associados a
+palácios (@fig:angkor-vid).
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/09/8f/20/098f208939f3a7df8c16d0efa7ca79ad.jpg" data-background-size="contain"}
+
+![Diorama representando um rei khmer. Cambodian Cultural Village, Siem Reap](https://i.pinimg.com/originals/09/8f/20/098f208939f3a7df8c16d0efa7ca79ad.jpg){#fig:khmer-king}
+
+## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/0/0e/Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm" data-background-video-muted="true"}
+
+![Vista aérea de Angkor Wat. Produção: [[ZDF]{.smallcaps}, 2020](https://commons.wikimedia.org/wiki/File:Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm)](https://upload.wikimedia.org/wikipedia/commons/0/0e/Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm){#fig:angkor-vid .fullwidth}
+
+<!--_,-->
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/22/c1/d5/22c1d558443827a8dc08c5b068ce78ce.jpg" data-background-position="top"}
+
+![Sistema de canais e reservatórios de Angkor no período imperial. National Geographic](https://i.pinimg.com/originals/22/c1/d5/22c1d558443827a8dc08c5b068ce78ce.jpg){#fig:angkor-canals .fullwidth}
+
+[A capital khmer em Angkor]{.smallcaps} cumpria ao mesmo tempo todas as
+funções de legitimação e manutenção do poder político centralizado.
+Antes de mais nada, a cidade foi escolhida para ser o centro de uma área
+extensa de arrozais irrigados, aberta no meio da floresta
+(@fig:angkor-canals). A implantação da cidade perto da margem do Grande
+Lago era estratégica: as chuvas de monção fazem o volume do rio Mekong
+aumentar tanto que o sentido do curso do próprio lago se inverte,
+alagando a planície em volta dele (@fig:tonle-sap).
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/96/72/ce/9672ce84c9bb2d7265c8c135b642ae20.png"}
+
+![Alagamento sazonal do Grande Lago, Camboja. Escola de Arquitetura da Universidade de Hong Kong](https://i.pinimg.com/originals/96/72/ce/9672ce84c9bb2d7265c8c135b642ae20.png){#fig:tonle-sap}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Angkor_Wat_reflejado_en_un_estanque_01.jpg/1280px-Angkor_Wat_reflejado_en_un_estanque_01.jpg"}
+
+![Tanque de água em Angkor Wat. Foto: [Luis Bartolomé Marcos, 2014](https://commons.wikimedia.org/wiki/File:Angkor_Wat_reflejado_en_un_estanque_01.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Angkor_Wat_reflejado_en_un_estanque_01.jpg/1280px-Angkor_Wat_reflejado_en_un_estanque_01.jpg){#fig:angkor-pond .fullwidth}
+
+A razão de ser da cidade era capturar os benefícios desse alagamento.
+Ele permitia fazer três colheitas de arroz por ano: uma colheita do
+arroz que crescia na região alagada, outra colheita em campos que podiam
+ser alagados artificialmente por tanques (@fig:angkor-pond), e uma
+terceira colheita de arroz cultivado em terreno seco. Os canais e
+reservatórios, chamados *baray* em khmer, eram minuciosamente
+dimensionados e tinham um sistema de comportas. Durante a estação das
+chuvas, a cheia do lago alimentava os tanques; na estação seca, as
+comportas eram abertas e a água armazenada nos reservatórios era usada
+para irrigar os campos.
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/99/10/48/9910484c36aca42b76f47bcc136241e2.jpg"}
+
+![Vrah Vishnulok, o centro administrativo e religioso de Angkor, formado por Angkor Wat e Angkor Thom](https://i.pinimg.com/originals/99/10/48/9910484c36aca42b76f47bcc136241e2.jpg){#fig:vrah-vishnulok}
+
+A cidade de Vrah Vishnulok (@fig:vrah-vishnulok) ficava no centro desse
+sistema. O complexo palaciano, conhecido hoje como Angkor Thom, ficava
+diretamente entre os dois maiores *baray*. Ao sul está Angkor Wat, o
+templo mais importante do conjunto. Os fossos que circundam Angkor Wat e
+Angkor Thom não são só elementos ornamentais ou de proteção, mas também
+faziam parte do sistema de gestão da água. A inserção da cidade
+administrativa no seu conjunto só passou a ser melhor compreendida
+recentemente.
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/f9/26/8d/f9268d83cdb74c50fd1cc0bfac847d66.jpg" data-background-position="bottom"}
+
+Até o começo do século [XX]{.smallcaps}, os arqueólogos acreditavam que
+Vrah Vishnulok era um complexo religioso--administrativo isolado no meio
+de uma vasta zona totalmente rural, como mostra a reconstituição da
+@fig:vrah-vishnulok. Mais recentemente, cruzando os levantamentos de
+radar com o relato de um diplomata chinês do século [XIII]{.smallcaps},
+Zhou Daguan, foi possível reconstituir uma imagem de Angkor Wat e Angkor
+Thom muito mais condizente com a capital de um grande império.
+
+Todo o espaço em volta desses conjuntos axiais e regulares
+(@fig:angkor-wat-ponds) era ocupado por uma malha deformada de canais e
+tanques secundários [@evans:2015landscape89]. As casas das famílias se
+agrupavam em volta desses reservatórios menores. O complexo de Angkor
+era todo ele uma imensa urbanização de baixa densidade, uma espécie de
+cidade-jardim, onde as atividades agrícolas, artesanais, comerciais,
+administrativas e religiosas aconteciam de modo distribuído por todo o
+território (@fig:angkor-general).
+
+![Levantamento por LiDAR da área em torno de Angkor Wat. [Evans e Fletcher, 2015](https://www.cambridge.org/core/journals/antiquity/article/landscape-of-angkor-wat-redefined/F3F0731A514E338A76DA8A906458A890#)](https://i.pinimg.com/originals/f9/26/8d/f9268d83cdb74c50fd1cc0bfac847d66.jpg){#fig:angkor-wat-ponds}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/f9/17/05/f91705dd6fb0131b6673e6c0de54a950.jpg"}
+
+![Plano de conjunto de Angkor, levantado por LiDAR. [Evans e Fletcher, 2015](http://dx.doi.org/10.15184/aqy.2015.157)](https://i.pinimg.com/originals/f9/17/05/f91705dd6fb0131b6673e6c0de54a950.jpg){#fig:angkor-general .fullwidth}
+
+## {.unlisted data-background-image="http://3.bp.blogspot.com/-NFynrCXSBXk/UugVwZb3riI/AAAAAAAABgo/4V1kr9oIMcQ/s1600/winter+is+coming_stark.gif"}
+
+[Assim como o império Khmer ascendeu]{.newthought} no século
+[IX]{.smallcaps} graças ao aquecimento global e à demanda crescente por
+arroz no sul da China, ele entrou em declínio no século
+[XIV]{.smallcaps} com o início de um período de resfriamento global
+conhecido como a "pequena Idade do Gelo". As chuvas de monção diminuíram
+ao longo de algumas décadas e as cheias do lago se reduziram, o que
+assoreou os reservatórios e reduziu a capacidade produtiva do campo em
+volta de Angkor. Sem meios de subsistência, a população se dispersou e o
+poder econômico e militar dos reis decaiu. No século [XV]{.smallcaps}, o
+império Khmer foi conquistado pelo reino de Sião --- a atual Tailândia
+---, uma sociedade guerreira que não dependia de grandes redes
+comerciais.
 
 ::: {#refs .allowframebreaks}
 
