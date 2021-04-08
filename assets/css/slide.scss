@@ -79,7 +79,9 @@ html {
       font-weight: $headingFontWeight;
       text-transform: lowercase;
     }
-    p, dd, & > figure > img {
+    p, dd,
+    & > figure > img,
+    & > figure > video {
       display: none;
       visibility: hidden;
     }

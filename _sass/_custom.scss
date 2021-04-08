@@ -50,6 +50,10 @@ dt, h3, h4, h5 {
   }
 }
 
+h3.unlisted {
+  margin: 0;
+}
+
 // Run-in definition lists and headings
 dt, h5 {
   float: left;
@@ -152,9 +156,8 @@ td > p {
 .smallcaps,
 span.newthought {
   font-family: $scFont;
+  font-variant: normal;
   text-transform: lowercase;
-  font-weight: 600;
-  //font-weight: bold;
   em {
     font-style: normal;
     letter-spacing: 0.2em;
@@ -166,51 +169,60 @@ span.newthought {
  */
 
 // Correct handling of figures with captions
-figure > figcaption {
+figcaption {
   @extend .marginnote;
   max-width: 50%;
 }
 
 figure > img.fullwidth {
   clear: both;
-  max-width: 160%;
+  max-width: 160%; // Empirically determined to line up with other elements.
 }
 
 /******************************************************
  * Fixes for reveal.js elements
  */
-div {
-  &.columns {
-    clear:both;
-    width: 100%;
-    div.column {
-      float: left;
-      figure {
-        margin-bottom: 1em;
-        max-width: 90%;
-        figcaption {
-          margin-left: 0;
-          margin-right: 0;
-        }
-      }
-    }
+.subfigures {
+  figcaption {
+    text-align: right;
   }
-  &.incremental {
-    width: 55%;
+  p {
+    @extend figcaption;
+    text-align: left;
+    margin-bottom: 2em;
+    margin-right: 12.5%; // Empirically determined to line up with other elements.
+    max-width: 27.5%; // column width of 55% * 50% width for captions
   }
+}
+.columns {
+  clear:both;
+  width: 92.5%; // Empirically determined to line up with other elements.
   &.subfigures {
-    figure > figcaption {
-      //float: none;
+    img {
+      float: left;
     }
     p {
-      @extend figcaption;
-      margin-bottom: 2em;
       margin-right: 5%;
-      max-width: 35%;
+      max-width: 30%; // 50% + 5% margin on either side = 60% * 50%
     }
   }
 }
-
+.column {
+  float: left;
+  figure {
+    margin-bottom: 1em;
+    max-width: 90%;
+    figcaption {
+      margin-left: 0;
+      margin-right: 0;
+      max-width: 66%;
+      width: 66%;
+    }
+  }
+}
+.incremental {
+  width: 55%;
+}
 
 /*
  * Hide Bibliography title because our style does not output a
