@@ -16,16 +16,20 @@ html {
 }
 
 .smallcaps {
-  font-weight: bold;
-  font-variant: small-caps;
+  font-family: "Cormorant SC";
+  font-weight: $headingFontWeight;
   text-transform: lowercase;
 }
+
+    .epigraph > blockquote > p {
+      font-style: italic;
+    }
 
 .reveal {
   //background-color: darken( $backgroundColor, 15% );
   h1, h2 {
     font-family: $headingFont;
-    font-weight: normal;
+    font-weight: $headingFontWeight;
   }
 
   section.has-dark-background,
@@ -35,15 +39,16 @@ html {
       color: #f4dcb4;
       text-shadow: 0 0 20px #294469, 0 0 10px #294469;
       font-family: $headingFont;
-      font-weight: normal;
+      font-weight: $headingFontWeight;
+      text-transform: $headingTextTransform;
     }
     p.subtitle,
     p.author,
     p.date {
       //float: left;
       font-family: $headingFont;
-      font-weight: normal;
-      text-transform: uppercase;
+      font-weight: $headingFontWeight;
+      text-transform: $headingTextTransform;
     }
     .author img {
       height: 1em;
@@ -69,61 +74,74 @@ html {
       }
     }
     dt, h3, h4, h5 {
-      font-family: $headingFont;
+      font-family: "Cormorant SC";
       font-size: $heading2Size;
-      font-variant: small-caps;
-      font-weight: normal;
+      font-weight: $headingFontWeight;
       text-transform: lowercase;
     }
-    p, dd, figure {
+    p, dd,
+    & > figure > img,
+    & > figure > video {
       display: none;
       visibility: hidden;
     }
-    img.stretch {
-      display: inline;
-      margin: -20px 0;
-      object-fit: cover;
-      padding: 0;
-      visibility: visible;
+    .columns {
+      margin-top: -20px;
     }
-  }
-
-  figcaption,
-  div.subfigures > p {
-    //display: none;
-    background: #faecd699;
-    position: fixed;
-    bottom: 20px;
-    z-index: 999;
-    padding: 4px 20px;
-  }
-
-  .box {
-    background: #ffffff33;
-  }
-
-  blockquote,
-  ol {
-    font-size: $heading4Size;
-    font-style: normal;
-    //text-align: left;
-    footer {
-      text-align: right;
-      font-style: italic;
-      cite {
-        font-style: italic;
+    .column figure {
+      object-fit: contain;
+      margin: 0;
+      padding: 0;
+      img {
+        margin: 0;
+        height: auto;
+        width: auto;
+        max-height: 100%;
+        max-width: 100%;
+      }
+      figcaption {
+        // Workaround assuming we'll only ever have 2 columns per slide
+        width: 45%;
       }
     }
-    li {
-      margin-left: 2rem;
+    figcaption,
+    div.subfigures > p {
+      background: #faecd6cc;
+      position: fixed;
+      bottom: 20px;
+      padding: 8px 2.5%;
     }
-    p {
-      display: block;
-      visibility: visible;
+    .box {
+      background: #ffffff33;
     }
-  }
-
-  .epigraph > blockquote > p {
-    font-style: italic;
+    blockquote,
+    ol {
+      font-size: $heading4Size;
+      font-style: normal;
+      //text-align: left;
+      footer {
+        text-align: right;
+        font-style: italic;
+        cite {
+          font-style: italic;
+        }
+      }
+      li {
+        margin-left: 2rem;
+      }
+      p {
+        display: block;
+        visibility: visible;
+      }
+    }
+    .references {
+      text-align: left;
+      margin: 0 20%;
+      .csl-entry {
+        padding: 8px 0;
+      }
+    }
   }
 }
+
+// vim: set foldmethod=indent :

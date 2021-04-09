@@ -13,22 +13,10 @@ body {
   font-family: $mainFont;
 }
 
-/*
- * Revert to default font in italics and bold because the oldstyle
- * numerals font does not have these shapes.
- */
-em, i, strong, b,
-p.subtitle,
-.epigraph > blockquote > p,
-.epigraph > blockquote > footer {
-  font-family: $mainFont;
-}
-
 // Improve position + style of Pandoc citations
 blockquote > p {
   & > span.citation > span.sidenote-wrapper > span.sidenote {
     margin-right: -70%;
-    font-family: $mainFont;
   }
 }
 
@@ -62,6 +50,10 @@ dt, h3, h4, h5 {
   }
 }
 
+h3.unlisted {
+  margin: 0;
+}
+
 // Run-in definition lists and headings
 dt, h5 {
   float: left;
@@ -69,14 +61,10 @@ dt, h5 {
   padding-bottom: 0;
 }
 
-// Make captions align with sidenotes
-figcaption {
-  max-width: 50%;
-}
-
 h1 {
   font-family: $headingFont;
   font-size: $heading1Size;
+  font-weight: $headingFontWeight;
   letter-spacing: $headingLetterSpacing;
   text-transform: $headingTextTransform;
 }
@@ -85,10 +73,11 @@ h1 {
  * Don't get headings caught in floats,
  * reverse the emphasis since h2 uses italics.
  */
-h2 {
+h1, h2 {
   clear: both;
   em {
       font-style: normal;
+      letter-spacing: $headingLetterSpacing * 2;
     }
 }
 
@@ -114,10 +103,14 @@ ol, ul {
   margin-left: -2.5rem;
 }
 
-// Old-style figures
-p,
-figcaption {
-  @extend .numeral;
+ul {
+  list-style-type: none;
+  li {
+    text-indent: -2rem;
+    &::before {
+      content: "— ";
+    }
+  }
 }
 
 // Don't enlarge new thoughts
@@ -146,6 +139,11 @@ td > p {
   margin-top: 0;
 }
 
+.marginnote,
+.sidenote {
+  font-weight: 500;
+}
+
 // Align header image with content
 .site-title {
   max-width: 1400px;
@@ -157,10 +155,9 @@ td > p {
 // When I say small caps, I mean it.
 .smallcaps,
 span.newthought {
-  font-family: "Cormorant SC";
+  font-family: $scFont;
+  font-variant: normal;
   text-transform: lowercase;
-  font-variant: small-caps;
-  //font-weight: bold;
   em {
     font-style: normal;
     letter-spacing: 0.2em;
@@ -172,57 +169,66 @@ span.newthought {
  */
 
 // Correct handling of figures with captions
-figure > figcaption {
+figcaption {
   @extend .marginnote;
+  max-width: 50%;
 }
 
 figure > img.fullwidth {
   clear: both;
-  max-width: 160%;
+  max-width: 160%; // Empirically determined to line up with other elements.
 }
 
 /******************************************************
  * Fixes for reveal.js elements
  */
-div {
-  &.columns {
-    clear:both;
-    width: 100%;
-    div.column {
-      float: left;
-      figure {
-        margin-bottom: 1em;
-        max-width: 90%;
-        figcaption {
-          margin-left: 0;
-          margin-right: -55%;
-        }
-      }
-    }
+.subfigures {
+  figcaption {
+    text-align: right;
   }
-  &.incremental {
-    width: 55%;
+  p {
+    @extend figcaption;
+    text-align: left;
+    margin-bottom: 2em;
+    margin-right: 12.5%; // Empirically determined to line up with other elements.
+    max-width: 27.5%; // column width of 55% * 50% width for captions
   }
+}
+.columns {
+  clear:both;
+  width: 92.5%; // Empirically determined to line up with other elements.
   &.subfigures {
-    figure > figcaption {
-      //float: none;
+    img {
+      float: left;
     }
     p {
-      @extend figcaption;
-      margin-bottom: 2em;
       margin-right: 5%;
-      max-width: 35%;
+      max-width: 30%; // 50% + 5% margin on either side = 60% * 50%
     }
   }
 }
-
+.column {
+  float: left;
+  figure {
+    margin-bottom: 1em;
+    max-width: 90%;
+    figcaption {
+      margin-left: 0;
+      margin-right: 0;
+      max-width: 66%;
+      width: 66%;
+    }
+  }
+}
+.incremental {
+  width: 55%;
+}
 
 /*
  * Hide Bibliography title because our style does not output a
  * reference list.
  */
-.unnumbered,
-.allowframebreaks {
+#refs {
   display: none;
   visibility: hidden;
 }
@@ -307,8 +313,19 @@ div.csl-bib-body {
   margin: 0;
 }
 
-.marginnote {
+.marginnote,
+.sidenote {
   margin-bottom: 1rem;
+  em {
+    font-weight: 500;
+  }
+}
+
+// Prevent Pandoc-Tufte from falling back on ET-Book.
+.sidenote-number,
+.sidenote-number:after,
+.sidenote:before {
+  font-family: $mainFont;
 }
 
 /******************************************************
