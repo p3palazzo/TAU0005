@@ -331,6 +331,8 @@ Mundo indiano: arquitetura demarca lugares; caráter dado pela posição do
 monumento, pouca articulação dos espaços interiores --- diminutos e/ou
 receptáculos ornamentados para um ponto focal material.
 
+Arquitetura edicular [@hardy:2019kashmiri; @bharne:2012rediscovering].
+
 # Civilizações hidráulicas #
 
 ## {.unlisted}
