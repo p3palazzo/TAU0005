@@ -38,8 +38,10 @@ _site :
 	#docker run -v "`pwd`:/srv/jekyll" \
 		#$(JEKYLL-PANDOC) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
-_site/slides/%.html : _aula/%.md revealjs.yaml biblio.bib $(SASS) | _csl _site/slides
-	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
+_site/slides/%.html : _aula/%.md revealjs.yaml revealjs-crossref.yaml \
+	biblio.bib $(SASS) | _csl _site/slides
+	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml \
+		-McrossrefYaml=_spec/revealjs-crossref.yaml $<
 
 %.pdf : %.tex biblio.bib
 	docker run --rm -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
