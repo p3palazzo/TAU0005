@@ -170,6 +170,8 @@ das formas de devoção
 
 ![Império Maurya no seu auge. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Maurya_Empire,_c.250_BCE.png)](https://upload.wikimedia.org/wikipedia/commons/c/c4/Maurya_Empire,_c.250_BCE.png){#fig:maurya}
 
+<!--_,-->
+
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png" data-background-size="contain"}
 
 ![Planta dos monumentos na colina de Sāñcī. [Archaeological Survey of India](https://commons.wikimedia.org/wiki/File:Plan_of_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png){#fig:sanci-site-plan .fullwidth .line .nobg}
@@ -193,6 +195,8 @@ das formas de devoção
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1280px-Brown-18060_0021-1.jpg" data-background-size="contain"}
 
 ![Aldeia védica com cerca e portal. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0021-1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1280px-Brown-18060_0021-1.jpg){#fig:brown-vedic}
+
+## Do texto à construção ##
 
 [Vāstu śāstra](https://en.wikipedia.org/wiki/Vastu_shastra) (tratados de
 arquitetura) e [*Śilpa
@@ -247,7 +251,9 @@ curvatura das coberturas feitas de galhos, juncos ou folhagens
 
 Construção originária em teca [@brown:1959indiana, 6].
 
-# Do monumento maciço ao espaço escavado #
+# Espaço ou lugar #
+
+## Do monumento maciço ao espaço escavado ##
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png" data-background-size="contain"}
 
@@ -314,6 +320,17 @@ Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
 ![Cena celestial, *toraṇa* leste da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG/1280px-Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG){#fig:heavenly-sanci}
 
 <!--_,-->
+
+## Arquitetura do lugar e arquitetura de espaços ##
+
+Bacia do Mediterrâneo: arquitetura produz espaços; caráter dado pela
+extensão e forma geométrica dos volumes interiores.
+
+Mundo indiano: arquitetura demarca lugares; caráter dado pela posição do
+monumento, pouca articulação dos espaços interiores --- diminutos e/ou
+receptáculos ornamentados para um ponto focal material.
+
+Arquitetura edicular [@hardy:2019kashmiri; @bharne:2012rediscovering].
 
 # Civilizações hidráulicas #
 
