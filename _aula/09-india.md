@@ -1,7 +1,6 @@
 ---
 title   : "Índia e os reinos das monções"
 author  : "Pedro P. Palazzo"
-figureTemplate: $$t$$
 abstract: |
   Oriente e Ocidente
   – Do monumento maciço ao espaço escavado

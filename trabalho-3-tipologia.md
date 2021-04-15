@@ -42,7 +42,7 @@ espaços, do parcelamento do solo e do espaço público:
 
 ## Objetivos ##
 
-1. Reconhecer os seis tipos edilícios fundamentais e realizar
+1. Reconhecer os sete tipos edilícios fundamentais e realizar
    composições tipológicas simples por meio da articulação de espaços
    tradicionais.
 
@@ -50,74 +50,144 @@ espaços, do parcelamento do solo e do espaço público:
    e de formação de paisagens, reconhecendo, analisando e aplicando os
    padrões geradores da cidade tradicional.
 
-# Produto #
+# Processo (20 pontos) #
+
+### Semana 1: Casa primitiva (5 pontos) ###
+
+A cidade de Ammaia, na província romana da Lusitânia, foi planejada com
+quarteirões de 90 × 175 pés romanos (considere um pé romano, 1' =
+30 cm,[^1] divisível em 12 polegadas, 1" = 2,5 cm). Esses quarteirões se
+dividem em 14 lotes de 25' × 45'. As ruas têm 20' de largura e as
+testadas dos lotes estão voltadas para noroeste ou sudeste. A cidade
+estava situada numa encosta suave (a inclinação do terreno pode ser
+desconsiderada na escala do lote).
+
+1. Escolha uma orientação de lote e uma posição no quarteirão (miolo ou
+   esquina). Desenhe a planta baixa, um corte e a elevação da fachada
+   principal de uma construção primitiva no lote, composta por três
+   células quadradas ou ligeiramente alongadas. Considere:
+
+   - Paredes em alvenaria de tijolos ou pedra lavrada com 1' (um pé) de
+     espessura;
+   - Vão estrutural máximo de 15' e largura mínima dos ambientes de 8';
+   - Telhado em carpintaria simples (frechal e caibros, sem tesoura);
+   - Portas e janelas com 4' de vão e vergas com 6" (6 polegadas) de
+     seção;
+   - As paredes longas (ou seja, paredes que não são empenas) com
+     exposição ao sul devem ser protegidas por um pórtico sustentado
+     por uma ordem toscana, com 4' de profundidade da face externa da
+     parede até o eixo das colunas;
+   - Pelo menos duas paredes (longas ou empenas) devem estar alinhadas
+     junto à testada do lote e a uma das divisas laterais --- a
+     espessura da parede de meação pode ser compartilhada com o lote
+     vizinho, se for o caso;
+   - Toda a extensão das divisas do lote que não esteja edificada deve
+     ser delimitada por um muro com 8' de altura;
+   - Como de costume, mostre todos os elementos estruturais no corte.
+
+A composição deve conciliar uma boa orientação bioclimática (preferir
+exposição ao sul) e uma boa relação com a cidade (acesso direto à rua).
+O corte deve representar a largura da rua por inteiro, até a fachada da
+casa à frente, e a elevação deve representar uma pequena parte das casas
+vizinhas (ou uma casa vizinha e a largura total da rua, se for um lote
+de esquina).
+
+### Semana 2: Casa com átrio (5 pontos) ###
+
+A cidade está se desenvolvendo e adquirindo um caráter urbano. A nossa
+casa primitiva vai ser ampliada para adquirir o caráter de uma *domus*
+romana ou de uma casa árabe. A esta altura, a casa deve ocupar toda a
+largura do lote, e a profundidade remanescente aos fundos deve ser
+ajardinada. Partindo do núcleo desenvolvido na etapa anterior, amplie e,
+se necessário, reforme a casa original. Escolha uma das duas opções
+abaixo:
+
+1. *Domus* romana:
+
+   - Um ou dois estabelecimentos comerciais abertos para a rua e
+     protegidos por um pórtico sobre a calçada;
+   - Uma composição axial com corredor de entrada (*andron*), átrio,
+     sala de recepção formal (*tablinum*) e jardim com peristilo
+     (galeria coberta);
+   - O átrio deve ser cercado por um beiral com 4' de profundidade;
+   - O *tablinum* deve ter paredes e teto ricamente decorados;
+   - O peristilo deve ter pelo menos uma galeria aberta para o sul e
+     estar diretamente conectado ao *tablinum*;
+   - Outros espaços conforme adequado ao caráter de uma casa romana.
+
+2. Casa árabe:
+
+   - Um ou dois estabelecimentos comerciais abertos para a rua e
+     protegidos por um pórtico sobre a calcada;
+   - Uma composição não axial com vestíbulo de entrada, pátio, sala de
+     recepção formal (*iwan*) e alcovas anexas;
+   - O pátio deve ser cercado por um alpendre com 4' de profundidade e
+     terá seu piso e paredes ricamente decorados;
+   - O *iwan* será ligeiramente elevado com respeito ao pátio, e as
+     alcovas, ligeiramente elevadas com respeito ao *iwan*;
+   - A casa pode ter um jardim privado, com água; caso contrário, haverá
+     uma fonte no centro do pátio;
+   - Outros espaços conforme adequado ao caráter de uma casa árabe.
+
+Continue considerando a orientação bioclimática e, se o lote for de
+esquina, determine a rua principal para implantação do comércio.
+Mantenha os módulos estruturas da etapa anterior. Represente apenas a
+planta do térreo, além do corte longitudinal e da elevação da fachada
+conforme etapa anterior.
+
+### Semana 3: Tavernização medieval (5 pontos) ###
+
+A região está desestabilizada politicamente, e as classes altas se
+retiraram da cidade para o campo, bem como para um castelo construído no
+topo da colina. As casas urbanas estão sendo reutilizadas por famílias
+mais modestas, e os lotes vão ser aproveitados como moradia, oficina e
+comércio popular.
+
+1. Divida o lote original em pelo menos duas parcelas, levando em
+   consideração as construções existentes. Promova o adensamento da
+   ocupação:
+
+   - Toda a extensão da divisa com a(s) rua(s) será protegida por
+     alpendres;
+   - A fachada do primeiro andar estará no alinhamento dessa galeria
+     pública;
+   - Toda a projeção construída no interior dos lotes terá o térreo + 1
+     pavimento;
+   - O pavimento superior será separado do térreo por um assoalho em
+     madeira (a não ser onde eventualmente existissem abóbadas na etapa
+     anterior) e poderá ser construído em alvenaria ou em madeira, com
+     paredes de tabique; deve haver um beiral sobre a fachada.
+
+Mantenha os módulos estruturais da etapa anterior. Represente apenas a
+planta do térreo, um corte e uma elevação sobre a rua à escolha (sempre
+mostrando a largura completa da rua e parte das casas vizinhas como
+couber).
+
+### Semana 4: Composição da prancha final (5 pontos) ###
+
+Esboce uma diagramação de prancha para mostrar a sucessão das três
+etapas anteriores (veja os requisitos de apresentação do produto,
+abaixo). Aproveite para corrigir erros assinalados nas etapas
+anteriores.
+
+# Produto (15 pontos) #
+
+Reapresente as três etapas anteriores numa única prancha e todas na
+mesma escala, de modo que as sucessivas transformações possam ser
+relacionadas com clareza. Se quiser, inclua vistas isométricas. Deve ser
+possível apreender com clareza:
+
+- A sucessão de adensamentos e adaptações condizentes com os três
+  períodos desenvolvidos (primitivo, romano--árabe e medieval);
+- A composição dos ambientes segundo o processo tipológico do
+  Mediterrâneo ocidental;
+- A concepção construtiva correta de todos os elementos e seus pontos de
+  contato;
+- Todas as outras exigências de conteúdo e representação já exigidas nas
+  semanas anteriores.
 
 Esboço da composição espacial e articulação arquitetônica de uma casa
 urbana privada no Mediterrâneo antigo ou medieval e da rua à sua frente.
-
-- Usar o módulo da centuriação romana *ou* o das vilas novas portuguesas
-  para dimensionar o lote, a rua, e os ambientes da casa: o lote terá,
-  segundo o caso, uma testada de 30 pés romanos ou de 25 palmos
-  portugueses;
-- O lote se situa na bacia do Mediterrâneo (sul da Europa ou norte da
-  África) e a sua testada está voltada para oeste;
-- A casa deve combinar os tipos da *domus* e da *taberna* e ter dois
-  pavimentos (térreo + 1) ao menos na parte dianteira;
-- Usar a ordem toscana ou a dórica para articular as superfícies
-  exteriores mais importantes, e determinar o restante da decoração
-  conforme apropriado;
-- As paredes de meação (nas divisas laterais do lote) e a fachada são
-  portantes, e a espessura das paredes de meação pode ser compartilhada
-  à metade com o lote vizinho;
-- Nenhum vão estrutural pode ser mais largo do que 15 pés ou 20 palmos;
-- Os interiores do pavimento superior não precisam ser desenvolvidos,
-  mas é preciso mostrar o perímetro externo da casa no corte (contorno
-  das paredes externas e cobertura);
-- O corte deve mostrar a construção dos assoalhos e/ou abóbadas no teto
-  do pavimento térreo;
-- As casas vizinhas e defronte à sua têm aproximadamente a mesma cota de
-  coroamento na fachada;
-- Representar as escalas gráficas usando a unidade de medida tradicional
-  escolhida, e também em metros.
-
-## Apresentação ##
-
-Este trabalho será entregue na forma de esboço: croquis precisos, com
-medidas exatas, feitos à mão livre. Não é preciso arte-finalizar, mas é
-importante compor a folha desenhada com o mesmo apuro do trabalho
-anterior. Todos os desenhos, exceto os detalhes, devem ser realizados na
-escala 1 cm = 3 pés romanos ou 1 cm = 4 palmos portugueses
-(aproximadamente 1:100).
-
-1. Planta baixa do lote com o térreo da casa e a largura total da rua à
-   sua frente;
-2. Corte longitudinal do lote com a casa e a largura total da rua à sua
-   frente;
-3. Elevação da fachada principal da casa;
-4. Detalhes conforme apropriado.
-
-# Cronograma e critérios de avaliação #
-
-| Data  | Atividade                                                                  |
-|-------|----------------------------------------------------------------------------|
-| 13/04 | Lancamento do trabalho: escolher módulo e iniciar a pesquisa de repertório |
-| 20/04 | Orientação 1: implantação, volumetria e características principais         |
-| 27/04 | Orientação 2: dimensionar espaços nas três projeções ortográficas          |
-| 04/05 | Orientação 3: refinar a representação dos espaços interiores e da fachada  |
-| 11/05 | Orientação 4: resolução de detalhes construtivos e layout da prancha       |
-| 18/05 | Entrega do esboço final                                                    |
-
-: Cronograma
-
-| Critério de avaliação                                                              |  Valor |
-|------------------------------------------------------------------------------------|-------:|
-| Orientação 1: croquis mostrando boa resolução modular, urbanística e bioclimática  |      5 |
-| Orientação 2: croquis da planta, corte, fachada em escala 1:200                    |      5 |
-| Orientação 3: esboços desenvolvendo interiores em planta e corte, e fachada, 1:100 |      5 |
-| Orientação 4: croquis de detalhes, prancha com posição dos desenhos                |      5 |
-| **Total**                                                                          | **20** |
-
-: Processo
 
 | Critério de avaliação                                                  |  Valor |
 |------------------------------------------------------------------------|-------:|
@@ -127,7 +197,37 @@ escala 1 cm = 3 pés romanos ou 1 cm = 4 palmos portugueses
 | Uso correto, elegante e eficaz de margens, legendas e escalas gráficas |      2 |
 | **Total**                                                              | **15** |
 
-: Produto
+# Apresentação (todas as etapas) #
+
+Este trabalho será entregue na forma de esboço: croquis precisos, com
+medidas exatas, feitos à mão livre. Não é preciso arte-finalizar, mas é
+importante compor a folha desenhada com o mesmo apuro do trabalho
+anterior. Todos os desenhos, exceto os detalhes, devem ser realizados na
+escala 1 cm = 3 pés romanos (aproximadamente 1:100).
+
+Todas as entregas devem representar:
+
+1. Planta baixa do lote com o térreo da casa e a largura total da rua à
+   sua frente;
+2. Corte longitudinal do lote com a casa e a largura total da rua à sua
+   frente;
+3. Elevação da fachada principal da casa e inserção com respeito às
+   casas vizinhas;
+4. Detalhes conforme apropriado;
+5. Norte e petipé (escala gráfica) em pés romanos e metros.
+
+# Cronograma e critérios de avaliação #
+
+| Data  | Atividade                                                                  |
+|-------|----------------------------------------------------------------------------|
+| 15/04 | Lancamento do trabalho: escolher módulo e iniciar a pesquisa de repertório |
+| 20/04 | Orientação 1                                                               |
+| 27/04 | Orientação 2                                                               |
+| 04/05 | Orientação 3                                                               |
+| 11/05 | Orientação 4                                                               |
+| 18/05 | Entrega do esboço final                                                    |
+
+: Cronograma
 
 Ver também os critérios gerais de apresentação e avaliação no plano de
 ensino.
@@ -171,5 +271,5 @@ para uma pesquisa mais aprofundada.
   of Architectural Education* 61, nº 4 (2008): 95–107.
   https://doi.org/10.2307/40480871.
 
-## Exemplos de diagramação de prancha ##
 
+[^1]: Na realidade, 1' = 29,6 cm. Vamos arredondar por conveniência.
