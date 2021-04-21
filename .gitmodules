@@ -7,3 +7,6 @@
 [submodule "_sass"]
 	path = _sass
 	url = git@gist.github.com:4e80bf692e3b0cd64c9b32e57980eb39.git
+[submodule "_spec"]
+	path = _spec
+	url = git@gist.github.com:a452c6915b27358b8f6665ae733c682a.git
