@@ -6,11 +6,11 @@
     {%- endif %}
     <p class="byline"><span itemprop="author" itemscope itemtype="http://schema.org/Person">
       <span class="p-author h-card" itemprop="name">
-        {%- if page.author -%}{{ page.author }}{%- else -%}{{ site.author }}{%- endif -%}
+        {%- if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif -%}
       </span></span>
     </p>
-    {%if page.abstract -%}
+    {%if page.abstract %}
       <div class="epigraph"><blockquote>{{ page.abstract }}</blockquote></div>
-    {%- endif %}
+    {% endif -%}
   </header>
-{%- endif %}
+{% endif %}
