@@ -16,14 +16,14 @@ slide-level     : 2
 standalone      : true
 toc-depth       : 1
 variables:
-  css           : "../assets/css/slide.css"
   controls      : 0
+  css           : "../assets/css-slides/revealjs.css"
   hash          : true
   hashOneBasedIndex: true
-  height        : 1080
-  width         : 1920
   progress      : 0
   revealjs-url  : "../reveal.js"
+  width         : 1920
+  height        : 1080
   title-slide-attributes:
     data-background-image: https://upload.wikimedia.org/wikipedia/commons/3/33/Cole_Thomas_The_dream_of_the_architect_210_Sun_Unedited.jpg
     data-background-size: cover

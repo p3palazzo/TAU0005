@@ -11,6 +11,9 @@
 body {
   margin-top: 0;
   font-family: $mainFont;
+  * {
+    font-variant: proportional-nums oldstyle-nums;
+  }
 }
 
 // Improve position + style of Pandoc citations
@@ -22,6 +25,7 @@ blockquote > p {
 
 // Correct width of some elements
 section > details,
+section > div.notes,
 section > dl,
 header > div.epigraph {
   width: 55%;
