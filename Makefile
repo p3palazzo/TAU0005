@@ -40,8 +40,7 @@ _site :
 
 _site/slides/%.html : _aula/%.md revealjs.yaml revealjs-crossref.yaml \
 	biblio.bib $(SASS) | _csl _site/slides
-	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml \
-		-McrossrefYaml=_spec/revealjs-crossref.yaml $<
+	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
 
 %.pdf : %.tex biblio.bib
 	docker run --rm -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
