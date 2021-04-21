@@ -4,3 +4,6 @@
 [submodule "assets/css-slides"]
 	path = assets/css-slides
 	url = git@gist.github.com:44eae8bf1ecf6d3ab9e268e650e276d8.git
+[submodule "_sass"]
+	path = _sass
+	url = git@gist.github.com:4e80bf692e3b0cd64c9b32e57980eb39.git

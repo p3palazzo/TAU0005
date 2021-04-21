@@ -3,9 +3,7 @@
 <head>
   {% include head.html %}
 </head>
-<body>
-  {% include before.html %}
-  <article>
+<body> {% include before.html %} <article>
     {% include header.html %}
     {{ content }}
     {% if page.layout != 'index' -%}
