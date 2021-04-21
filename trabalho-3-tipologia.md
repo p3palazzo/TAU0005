@@ -52,9 +52,11 @@ espaços, do parcelamento do solo e do espaço público:
 
 # Processo (20 pontos) #
 
+![Ammaia, Lusitânia romana](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia .fullwidth}
+ 
 ### Semana 1: Casa primitiva (5 pontos) ###
 
-A cidade de Ammaia, na província romana da Lusitânia, foi planejada com
+A cidade de Ammaia (@fig:ammaia), na província romana da Lusitânia, foi planejada com
 quarteirões de 90 × 175 pés romanos (considere um pé romano, 1' =
 30 cm,[^1] divisível em 12 polegadas, 1" = 2,5 cm). Esses quarteirões se
 dividem em 14 lotes de 25' × 45'. As ruas têm 20' de largura e as
