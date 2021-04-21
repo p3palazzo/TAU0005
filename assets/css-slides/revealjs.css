@@ -1,0 +1,170 @@
+/* This SASS file customizes the appearance of a Reveal.js slideshow generated from Pandoc and hosted via Jekyll. It requires a _settings.scss file declaring custom variables and font-faces. It assumes reveal.js is loaded as a submodule at the root of the repo. The triple dashes at the top are there for compatibility with Jekyll. */
+@import url("https://use.typekit.net/hny1sfi.css");
+/* @mixin bodyBackground() { background: $backgroundColor; } */
+/********************************************* GLOBAL STYLES */
+:root { --background-color: #fffff8; --main-font: eb-garamond, Garamond, Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif; --main-font-size: 32px; --main-color: #111111; --block-margin: 20px; --heading-margin: 0 0 20px 0; --heading-font: eb-garamond, Garamond, Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif; --heading-color: #284368; --heading-line-height: 1.2; --heading-letter-spacing: 0.2rem; --heading-text-transform: uppercase; --heading-text-shadow: none; --heading-font-weight: 400; --heading1-text-shadow: 0 0 20px #111111, 0 0 10px #111111; --heading1-size: 2.4em; --heading2-size: 1.6em; --heading3-size: 1.3em; --heading4-size: 1em; --code-font: Source Code Pro, monospace; --link-color: #111111; --link-color-hover: #373737; --selection-background-color: #515151; --selection-color: #fff; }
+
+.reveal-viewport { background: #fffff8; background-color: #fffff8; }
+
+.reveal { font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; font-size: 32px; font-weight: normal; color: #111111; }
+
+.reveal ::selection { color: #fff; background: #515151; text-shadow: none; }
+
+.reveal ::-moz-selection { color: #fff; background: #515151; text-shadow: none; }
+
+.reveal .slides section, .reveal .slides section > section { line-height: 1.3; font-weight: inherit; }
+
+/********************************************* HEADERS */
+.reveal h1, .reveal h2, .reveal h3, .reveal h4, .reveal h5, .reveal h6 { margin: 0 0 20px 0; color: #284368; font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; font-weight: 400; line-height: 1.2; letter-spacing: 0.2rem; text-transform: uppercase; text-shadow: none; word-wrap: break-word; }
+
+.reveal h1 { font-size: 2.4em; }
+
+.reveal h2 { font-size: 1.6em; }
+
+.reveal h3 { font-size: 1.3em; }
+
+.reveal h4 { font-size: 1em; }
+
+.reveal h1 { text-shadow: 0 0 20px #111111, 0 0 10px #111111; }
+
+/********************************************* OTHER */
+.reveal p { margin: 20px 0; line-height: 1.3; }
+
+/* Remove trailing margins after titles */
+.reveal h1:last-child, .reveal h2:last-child, .reveal h3:last-child, .reveal h4:last-child, .reveal h5:last-child, .reveal h6:last-child { margin-bottom: 0; }
+
+/* Ensure certain elements are never larger than the slide itself */
+.reveal img, .reveal video, .reveal iframe { max-width: 95%; max-height: 95%; }
+
+.reveal strong, .reveal b { font-weight: bold; }
+
+.reveal em { font-style: italic; }
+
+.reveal ol, .reveal dl, .reveal ul { display: inline-block; text-align: left; margin: 0 0 0 1em; }
+
+.reveal ol { list-style-type: decimal; }
+
+.reveal ul { list-style-type: disc; }
+
+.reveal ul ul { list-style-type: square; }
+
+.reveal ul ul ul { list-style-type: circle; }
+
+.reveal ul ul, .reveal ul ol, .reveal ol ol, .reveal ol ul { display: block; margin-left: 40px; }
+
+.reveal dt { font-weight: bold; }
+
+.reveal dd { margin-left: 40px; }
+
+.reveal blockquote { display: block; position: relative; width: 70%; margin: 20px auto; padding: 5px; font-style: italic; background: rgba(255, 255, 255, 0.05); box-shadow: 0px 0px 2px rgba(0, 0, 0, 0.2); }
+
+.reveal blockquote p:first-child, .reveal blockquote p:last-child { display: inline-block; }
+
+.reveal q { font-style: italic; }
+
+.reveal pre { display: block; position: relative; width: 90%; margin: 20px auto; text-align: left; font-size: 0.55em; font-family: "Source Code Pro", monospace; line-height: 1.2em; word-wrap: break-word; box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.15); }
+
+.reveal code { font-family: "Source Code Pro", monospace; text-transform: none; }
+
+.reveal pre code { display: block; padding: 5px; overflow: auto; max-height: 400px; word-wrap: normal; }
+
+.reveal table { margin: auto; border-collapse: collapse; border-spacing: 0; }
+
+.reveal table th { font-weight: bold; }
+
+.reveal table th, .reveal table td { text-align: left; padding: 0.2em 0.5em 0.2em 0.5em; border-bottom: 1px solid; }
+
+.reveal table th[align="center"], .reveal table td[align="center"] { text-align: center; }
+
+.reveal table th[align="right"], .reveal table td[align="right"] { text-align: right; }
+
+.reveal table tbody tr:last-child th, .reveal table tbody tr:last-child td { border-bottom: none; }
+
+.reveal sup { vertical-align: super; font-size: smaller; }
+
+.reveal sub { vertical-align: sub; font-size: smaller; }
+
+.reveal small { display: inline-block; font-size: 0.6em; line-height: 1.2em; vertical-align: top; }
+
+.reveal small * { vertical-align: top; }
+
+.reveal img { margin: 20px 0; }
+
+/********************************************* LINKS */
+.reveal a { color: #111111; text-decoration: none; transition: color .15s ease; }
+
+.reveal a:hover { color: #373737; text-shadow: none; border: none; }
+
+.reveal .roll span:after { color: #fff; background: black; }
+
+/********************************************* Frame helper */
+.reveal .r-frame { border: 4px solid #111111; box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+
+.reveal a .r-frame { transition: all .15s linear; }
+
+.reveal a:hover .r-frame { border-color: #111111; box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
+
+/********************************************* NAVIGATION CONTROLS */
+.reveal .controls { color: #111111; }
+
+/********************************************* PROGRESS BAR */
+.reveal .progress { background: rgba(0, 0, 0, 0.2); color: #111111; }
+
+/********************************************* PRINT BACKGROUND */
+@media print { .backgrounds { background-color: #fffff8; } }
+
+* { font-variant: oldstyle-nums proportional-nums; }
+
+.smallcaps, dt, h3, h4, h5 { font-variant: all-small-caps; }
+
+blockquote, div.fragment, div.subfigures > p, dl, figcaption, h1, h2, h3, h4, h5, ol, ul, .box { background: rgba(255, 255, 248, 0.7); backdrop-filter: blur(5px); }
+
+dt, h3, h4, h5 { font-size: 1.6em; }
+
+blockquote, ol, ul { font-size: 1em; font-style: normal; margin-left: 15%; margin-right: 15%; padding: 1.4rem; }
+
+blockquote footer, ol footer, ul footer { text-align: right; font-style: italic; }
+
+blockquote footer cite, ol footer cite, ul footer cite { font-style: italic; }
+
+blockquote li, ol li, ul li { margin-left: 2rem; }
+
+li::before, td { font-variant: tabular-nums; }
+
+figcaption, div.subfigures > p { padding: 8px 2.5%; }
+
+.reveal { box-shadow: inset 0 0 5em 1em #fffff6; }
+
+.reveal h1, .reveal h2 { font-variant: lining-nums proportional-nums titling-caps; text-shadow: none; }
+
+.reveal section.green { background: #00ff00; }
+
+.reveal section.has-dark-background, .reveal section#title-slide { color: #fffff8; height: 100vh; }
+
+.reveal section.has-dark-background, .reveal section.has-dark-background h1, .reveal section.has-dark-background h2, .reveal section.has-dark-background h3, .reveal section.has-dark-background h4, .reveal section.has-dark-background h5, .reveal section.has-dark-background h6, .reveal section.has-dark-background p.subtitle, .reveal section.has-dark-background p.author, .reveal section.has-dark-background p.date, .reveal section#title-slide, .reveal section#title-slide h1, .reveal section#title-slide h2, .reveal section#title-slide h3, .reveal section#title-slide h4, .reveal section#title-slide h5, .reveal section#title-slide h6, .reveal section#title-slide p.subtitle, .reveal section#title-slide p.author, .reveal section#title-slide p.date { background: none; border: none; color: #fffff8; font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; font-variant: lining-nums proportional-nums titling-caps; font-weight: 400; letter-spacing: 0.2rem; position: fixed; text-shadow: 0 0 20px #111111, 0 0 10px #111111; text-transform: uppercase; width: 100%; }
+
+.reveal section.has-dark-background h1, .reveal section#title-slide h1 { bottom: 50%; }
+
+.reveal section.has-dark-background p.author, .reveal section#title-slide p.author { bottom: 0; font-size: 1.3em; font-weight: 500; }
+
+.reveal section.has-dark-background p.subtitle, .reveal section#title-slide p.subtitle { top: 0; font-size: 1.3em; font-weight: 500; }
+
+.reveal section dd > img, .reveal section dd > video, .reveal section > figure > img, .reveal section > figure > video { height: 100%; visibility: hidden; }
+
+.columns { margin-top: -20px; }
+
+.column figure { object-fit: contain; margin: 0; padding: 0; }
+
+.column figure img { margin: 0; height: auto; width: auto; max-height: 100vh; max-width: 100%; }
+
+.column figure figcaption { width: 45%; }
+
+.epigraph > blockquote > p { font-style: italic; }
+
+.fragment * { background: transparent; }
+
+.references { text-align: left; margin: 0 20%; }
+
+.references .csl-entry { padding: 8px 0; }
+
+/*# sourceMappingURL=revealjs.css.map */

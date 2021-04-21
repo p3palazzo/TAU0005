@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* Import ET Book styles adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
 /* Tufte CSS styles */
-@import url("https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&family=Cormorant+SC:wght@400;500;600;700&display=swap");
+@import url("https://use.typekit.net/hny1sfi.css");
 html { font-size: 15px; }
 
 body { width: 87.5%; margin-left: auto; margin-right: auto; padding-left: 12.5%; font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; background-color: #fffff8; color: #111; max-width: 1400px; counter-reset: sidenote-counter; }
@@ -22,7 +22,7 @@ p.subtitle, .subtitle.csl-entry { font-style: italic; margin-top: 1rem; margin-b
 
 article { position: relative; padding: 5rem 0rem; }
 
-section, div.csl-bib-body { padding-top: 1rem; padding-bottom: 1rem; }
+section, .incremental, div.csl-bib-body, details, div.notes, dl { padding-top: 1rem; padding-bottom: 1rem; }
 
 p, .csl-entry, ol, ul { font-size: 1.4rem; line-height: 2rem; }
 
@@ -46,10 +46,10 @@ blockquote p, blockquote .csl-entry { width: 55%; margin-right: 40px; }
 
 blockquote footer { width: 55%; font-size: 1.1rem; text-align: right; }
 
-section > p, section > .csl-entry, div.csl-bib-body > p, div.csl-bib-body > .csl-entry, section > footer, div.csl-bib-body > footer, section > table, div.csl-bib-body > table { width: 55%; }
+section > p, .incremental > p, section > .csl-entry, .incremental > .csl-entry, div.csl-bib-body > p, div.csl-bib-body > .csl-entry, details > p, details > .csl-entry, div.notes > p, div.notes > .csl-entry, dl > p, dl > .csl-entry, section > footer, .incremental > footer, div.csl-bib-body > footer, details > footer, div.notes > footer, dl > footer, section > table, .incremental > table, div.csl-bib-body > table, details > table, div.notes > table, dl > table { width: 55%; }
 
 /* 50 + 5 == 55, to be the same width as paragraph */
-section > ol, div.csl-bib-body > ol, section > ul, div.csl-bib-body > ul { width: 50%; -webkit-padding-start: 5%; }
+section > ol, .incremental > ol, div.csl-bib-body > ol, details > ol, div.notes > ol, dl > ol, section > ul, .incremental > ul, div.csl-bib-body > ul, details > ul, div.notes > ul, dl > ul { width: 50%; -webkit-padding-start: 5%; }
 
 li:not(:first-child) { margin-top: 0.25rem; }
 
@@ -57,7 +57,7 @@ figure { padding: 0; border: 0; font-size: 100%; font: inherit; vertical-align: 
 
 figcaption, .subfigures p, .subfigures .csl-entry { float: right; clear: right; margin-top: 0; margin-bottom: 0; font-size: 1.1rem; line-height: 1.6; vertical-align: baseline; position: relative; max-width: 40%; }
 
-figure.fullwidth figcaption, figure.fullwidth .subfigures p, figure.fullwidth .subfigures .csl-entry, .subfigures figure.fullwidth p, .subfigures figure.fullwidth .csl-entry { margin-right: 24%; }
+figure.fullwidth figcaption, figure.fullwidth .subfigures p, .subfigures figure.fullwidth p, figure.fullwidth .subfigures .csl-entry, .subfigures figure.fullwidth .csl-entry { margin-right: 24%; }
 
 /* Links: replicate underline that clears descenders */
 a:link, a:visited { color: inherit; }
@@ -83,7 +83,7 @@ img { max-width: 100%; }
 
 .sidenote:before { content: counter(sidenote-counter) " "; font-size: 1rem; top: -0.5rem; }
 
-blockquote .sidenote, blockquote .marginnote, blockquote figcaption, blockquote .subfigures p, blockquote .subfigures .csl-entry, .subfigures blockquote p, .subfigures blockquote .csl-entry { margin-right: -82%; min-width: 59%; text-align: left; }
+blockquote .sidenote, blockquote .marginnote, blockquote figcaption, blockquote .subfigures p, .subfigures blockquote p, blockquote .subfigures .csl-entry, .subfigures blockquote .csl-entry { margin-right: -82%; min-width: 59%; text-align: left; }
 
 div.fullwidth, table.fullwidth { width: 100%; }
 
@@ -117,7 +117,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 
 .iframe-wrapper iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
-@media (max-width: 760px) { body { width: 84%; padding-left: 8%; padding-right: 8%; } hr, section > p, section > .csl-entry, div.csl-bib-body > p, div.csl-bib-body > .csl-entry, section > footer, div.csl-bib-body > footer, section > table, div.csl-bib-body > table { width: 100%; } pre.code { width: 97%; } section > ol, div.csl-bib-body > ol { width: 90%; } section > ul, div.csl-bib-body > ul { width: 90%; } figure { max-width: 90%; } figcaption, .subfigures p, .subfigures .csl-entry, figure.fullwidth figcaption { margin-right: 0%; max-width: none; } blockquote { margin-left: 1.5em; margin-right: 0em; } blockquote p, blockquote .csl-entry, blockquote footer { width: 100%; } label.margin-toggle:not(.sidenote-number) { display: inline; } .sidenote, .marginnote, figcaption, .subfigures p, .subfigures .csl-entry { display: none; } .margin-toggle:checked + .sidenote, .margin-toggle:checked + .marginnote, .margin-toggle:checked + figcaption, .subfigures .margin-toggle:checked + p, .subfigures .margin-toggle:checked + .csl-entry { display: block; float: left; left: 1rem; clear: both; width: 95%; margin: 1rem 2.5%; vertical-align: baseline; position: relative; } label { cursor: pointer; } div.table-wrapper, table { width: 85%; } img { width: 100%; } }
+@media (max-width: 760px) { body { width: 84%; padding-left: 8%; padding-right: 8%; } hr, section > p, .incremental > p, section > .csl-entry, .incremental > .csl-entry, div.csl-bib-body > p, div.csl-bib-body > .csl-entry, details > p, details > .csl-entry, div.notes > p, div.notes > .csl-entry, dl > p, dl > .csl-entry, section > footer, .incremental > footer, div.csl-bib-body > footer, details > footer, div.notes > footer, dl > footer, section > table, .incremental > table, div.csl-bib-body > table, details > table, div.notes > table, dl > table { width: 100%; } pre.code { width: 97%; } section > ol, .incremental > ol, div.csl-bib-body > ol, details > ol, div.notes > ol, dl > ol { width: 90%; } section > ul, .incremental > ul, div.csl-bib-body > ul, details > ul, div.notes > ul, dl > ul { width: 90%; } figure { max-width: 90%; } figcaption, .subfigures p, .subfigures .csl-entry, figure.fullwidth figcaption { margin-right: 0%; max-width: none; } blockquote { margin-left: 1.5em; margin-right: 0em; } blockquote p, blockquote .csl-entry, blockquote footer { width: 100%; } label.margin-toggle:not(.sidenote-number) { display: inline; } .sidenote, .marginnote, figcaption, .subfigures p, .subfigures .csl-entry { display: none; } .margin-toggle:checked + .sidenote, .margin-toggle:checked + .marginnote, .margin-toggle:checked + figcaption, .subfigures .margin-toggle:checked + p, .subfigures .margin-toggle:checked + .csl-entry { display: block; float: left; left: 1rem; clear: both; width: 95%; margin: 1rem 2.5%; vertical-align: baseline; position: relative; } label { cursor: pointer; } div.table-wrapper, table { width: 85%; } img { width: 100%; } }
 
 /* The default x-height for code is slightly too large in side notes */
 .marginnote code, figcaption code, .subfigures p code, .subfigures .csl-entry code, .sidenote code { font-size: 0.9rem; }
@@ -145,9 +145,9 @@ article { -webkit-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
 q { quotes: "“" "”" "‘" "’"; }
 
 /* Override section behavior. We only want the top-level <section> to have padding. This makes it easier to work with --section-divs. */
-section, div.csl-bib-body { padding-top: initial; padding-bottom: initial; }
+section, .incremental, div.csl-bib-body, details, div.notes, dl { padding-top: initial; padding-bottom: initial; }
 
-article > section, article > div.csl-bib-body { padding-top: 1rem; padding-bottom: 1rem; }
+article > section, article > .incremental, article > div.csl-bib-body, article > details, article > div.notes, article > dl { padding-top: 1rem; padding-bottom: 1rem; }
 
 /* Make byline (date and/or author) small */
 p.byline, .byline.csl-entry { font-size: 1.2rem; }
@@ -266,47 +266,34 @@ code span.in { color: #93A1A1; font-weight: bold; font-style: italic; }
 /* Information */
 a.sourceLine::before { text-decoration: none; }
 
-/* #### Generated By: http://www.cufonfonts.com #### */
-@font-face { font-family: 'Trajan Pro'; font-style: normal; font-weight: normal; src: url("../fonts/TrajanPro-Regular.woff") format("woff"); }
-
-@font-face { font-family: 'Trajan Pro'; font-style: normal; font-weight: bold; src: url("../fonts/TrajanPro-Bold.woff") format("woff"); }
-
-/* General tweaks for nicer appearance */
+/*********************************************** General tweaks for nicer appearance */
 /* @mixin bodyBackground() { background: $backgroundColor; } */
-:root { color-scheme: light dark; /* both supported */ }
+body { margin-top: 0; font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
 
-body { margin-top: 0; font-family: "Cormorant Garamond", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
+body * { font-variant: proportional-nums oldstyle-nums; }
 
-blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote { margin-right: -70%; }
+.site-title { max-width: 1400px; }
 
-section > details, div.csl-bib-body > details, section > dl, div.csl-bib-body > dl, header > div.epigraph { width: 55%; }
+.site-title > img { width: 90%; }
 
-section > dl, div.csl-bib-body > dl { font-size: 1.4rem; }
+div.epigraph { width: 55%; }
 
-section > dl dt, div.csl-bib-body > dl dt { line-height: 1.4em; }
+/*********************************************** Headings and lists */
+h1, h2 { clear: both; font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; font-style: normal; font-variant: lining-nums titling-caps; font-weight: 400; text-transform: uppercase; }
 
-section > dl dd, div.csl-bib-body > dl dd { margin: 0; }
+h1 em, h2 em { font-style: normal; letter-spacing: 0.4rem; }
 
-dt, h3, h4, h5 { font-size: 1.4rem; font-style: normal; letter-spacing: 0.1rem; }
+h1 { font-size: 2.4em; letter-spacing: 0.2rem; }
 
-dt em, h3 em, h4 em, h5 em { font-style: normal; letter-spacing: 0.3rem; }
+h2 { font-size: 1.6em; font-weight: 500; letter-spacing: 0.1rem; }
 
-h3.unlisted { margin: 0; }
+dt, h3, h4, h5 { font-size: 1.4rem; font-style: normal; letter-spacing: 0.2rem; }
 
-dt, h5 { float: left; margin: 0 1.4rem 0 0; padding-bottom: 0; }
+section > dl, .incremental > dl, div.csl-bib-body > dl, details > dl, div.notes > dl, dl > dl { font-size: 1.4rem; }
 
-h1 { font-family: "Cormorant Garamond", "Alegreya", Georgia, "Liberation Serif", serif; font-size: 2em; font-weight: 400; letter-spacing: 0.1rem; text-transform: uppercase; }
+section > dl dd, .incremental > dl dd, div.csl-bib-body > dl dd, details > dl dd, div.notes > dl dd, dl > dl dd { margin: 0; }
 
-/* Don't get headings caught in floats, reverse the emphasis since h2 uses italics. */
-h1, h2 { clear: both; }
-
-h1 em, h2 em { font-style: normal; letter-spacing: 0.2rem; }
-
-h5 { line-height: 1.2em; }
-
-hr { border: 0; clear: left; text-align: center; font-size: 2em; padding: 2rem 0 2rem 0; }
-
-hr::before { content: "* * *"; }
+dt, h5 { float: left; margin: 0 1.4rem 0 0; padding: 0; line-height: 1.2em; }
 
 ol, ul { margin-left: -2.5rem; }
 
@@ -314,9 +301,12 @@ ul { list-style-type: none; }
 
 ul li { text-indent: -2rem; }
 
-ul li::before { content: "— "; }
+ul li::before { content: "— "; font-variant: tabular-nums; }
 
-span.newthought { font-size: 1.4rem; }
+/*********************************************** General formatting improvements */
+hr { border: 0; clear: left; text-align: center; font-size: 2em; padding: 2rem 0 2rem 0; }
+
+hr::before { content: "* * *"; }
 
 summary > p, summary > .csl-entry { display: inline; }
 
@@ -326,25 +316,30 @@ td { vertical-align: top; border-top: 1px solid #111111; }
 
 td > p, td > .csl-entry { margin-top: 0; }
 
-.marginnote, figcaption, .subfigures p, .subfigures .csl-entry, .sidenote { font-weight: 500; }
+/*********************************************** Pandoc+Citeproc improvements */
+section > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, .incremental > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, section > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote, .incremental > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote, div.csl-bib-body > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, div.csl-bib-body > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote, details > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, details > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote, div.notes > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, div.notes > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote, dl > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, dl > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote { margin-right: -70%; }
 
-.site-title { max-width: 1400px; }
+.marginnote, figcaption, .subfigures p, .subfigures .csl-entry, .sidenote { font-weight: 500; margin-bottom: 1rem; }
 
-.site-title > img { width: 90%; }
+.sidenote-number, .sidenote-number:after, .sidenote:before { font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
 
-.smallcaps, dt, h3, h4, h5, span.newthought { font-family: "Cormorant SC", Palatino, "Palatino Linotype", "Palatino LT STD", "Georgia", serif; font-variant: normal; text-transform: lowercase; }
+.smallcaps, dt, h3, h4, h5, span.newthought { font-variant: all-small-caps; }
 
-.smallcaps em, dt em, h3 em, h4 em, h5 em, span.newthought em { font-style: normal; letter-spacing: 0.2em; }
+span.newthought { font-size: 1.4rem; }
+
+.csl-entry { margin: 0; }
 
 /****************************************************** Fixes for pandoc-crossref */
 figcaption, .subfigures p, .subfigures .csl-entry { max-width: 50%; }
 
 figure > img.fullwidth { clear: both; max-width: 160%; }
 
-/****************************************************** Fixes for reveal.js elements */
 .subfigures figcaption, .subfigures p, .subfigures .csl-entry { text-align: right; }
 
 .subfigures p, .subfigures .csl-entry { text-align: left; margin-bottom: 2em; margin-right: 12.5%; max-width: 27.5%; }
+
+/****************************************************** Fixes for reveal.js elements */
+h3.unlisted { margin: 0; }
 
 .columns { clear: both; width: 92.5%; }
 
@@ -356,28 +351,14 @@ figure > img.fullwidth { clear: both; max-width: 160%; }
 
 .column figure { margin-bottom: 1em; max-width: 90%; }
 
-.column figure figcaption, .column figure .subfigures p, .column figure .subfigures .csl-entry, .subfigures .column figure p, .subfigures .column figure .csl-entry { margin-left: 0; margin-right: 0; max-width: 66%; width: 66%; }
-
-.incremental { width: 55%; }
-
-/* Hide Bibliography title because our style does not output a reference list. */
-#refs { display: none; visibility: hidden; }
+.column figure figcaption, .column figure .subfigures p, .subfigures .column figure p, .column figure .subfigures .csl-entry, .subfigures .column figure .csl-entry { margin-left: 0; margin-right: 0; max-width: 66%; width: 66%; }
 
 /****************************************************** Light and Dark */
-@media (prefers-color-scheme: no-preference) { body { color: #111111; background-color: #fffff8; } body a:link { text-decoration: none; background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333); background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8; background-position: 0% 93%, 100% 93%, 0% 93%; } }
+@media (prefers-color-scheme: no-preference) { body { color: #111111; background-color: #fffff8; } body a:link { text-decoration: none; background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff9, #fffff9); background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff9, #fffff9); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8; background-position: 0% 93%, 100% 93%, 0% 93%; } }
 
-@media (prefers-color-scheme: light) { body { color: #111111; background-color: #fffff8; } body a:link { text-decoration: none; background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#333, #333); background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#333, #333); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8; background-position: 0% 93%, 100% 93%, 0% 93%; } }
+@media (prefers-color-scheme: light) { body { color: #111111; background-color: #fffff8; } body a:link { text-decoration: none; background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8); background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8; background-position: 0% 93%, 100% 93%, 0% 93%; } }
 
-@media (prefers-color-scheme: dark) { body { color: #fffff8; background-color: #282828; } body a:link { background: -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#ccc, #ccc); background: linear-gradient(#111111, #111111), linear-gradient(#111111, #111111), linear-gradient(#ccc, #ccc); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #111111, -0.03em 0 #111111, 0 0.03em #111111, 0 -0.03em #111111, 0.06em 0 #111111, -0.06em 0 #111111, 0.09em 0 #111111, -0.09em 0 #111111, 0.12em 0 #111111, -0.12em 0 #111111, 0.15em 0 #111111, -0.15em 0 #111111; background-position: 0% 93%, 100% 93%, 0% 93%; } body img { background-color: #fffff8; filter: brightness(0.8) contrast(1.2); -webkit-filter: brightness(0.8) contrast(1.2); } body img.line { background: none; filter: invert(75%); -webkit-filter: invert(75%); } body img.nobg { background: none; } }
-
-/****************************************************** Fixes for Zotero export to HTML */
-.csl-entry { margin: 0; }
-
-.marginnote, figcaption, .subfigures p, .sidenote { margin-bottom: 1rem; }
-
-.marginnote em, figcaption em, .subfigures p em, .sidenote em { font-weight: 500; }
-
-.sidenote-number, .sidenote-number:after, .sidenote:before { font-family: "Cormorant Garamond", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
+@media (prefers-color-scheme: dark) { body { color: #fffff8; background-color: #2b2b2b; } body a:link { background: -webkit-linear-gradient(#2b2b2b, #2b2b2b), -webkit-linear-gradient(#2b2b2b, #2b2b2b), -webkit-linear-gradient(#fffff8, #fffff8); background: linear-gradient(#2b2b2b, #2b2b2b), linear-gradient(#2b2b2b, #2b2b2b), linear-gradient(#fffff8, #fffff8); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #2b2b2b, -0.03em 0 #2b2b2b, 0 0.03em #2b2b2b, 0 -0.03em #2b2b2b, 0.06em 0 #2b2b2b, -0.06em 0 #2b2b2b, 0.09em 0 #2b2b2b, -0.09em 0 #2b2b2b, 0.12em 0 #2b2b2b, -0.12em 0 #2b2b2b, 0.15em 0 #2b2b2b, -0.15em 0 #2b2b2b; background-position: 0% 93%, 100% 93%, 0% 93%; } body img { background-color: #2b2b2b; } body .line { background: none; filter: invert(75%); -webkit-filter: invert(75%); } body .nobg { background: none; } }
 
 /****************************************************** Screen width overrides must come last. */
 @media (max-width: 760px) { div.incremental, header > div.epigraph, dl, figure > img.fullwidth, details { width: 90%; } img.marginnote { float: none; width: 90%; } figcaption, .subfigures p, .subfigures .csl-entry, .marginnote { display: inline; } }
