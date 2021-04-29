@@ -19,27 +19,21 @@ ROOT    = $(wildcard *.md)
 AULA    = $(wildcard _aula/*.md)
 SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(AULA))
 
-deploy : _site $(SLIDES) $(AULA) $(ASSETS) $(CSS) $(ROOT) $(SASS) | _csl
-	@bundle install \
-		&& bundle exec jekyll build --future
+deploy : _site $(SLIDES) \
+	| _csl/chicago-fullnote-bibliography-with-ibid.csl
+	@bundle update \
+		&& bundle exec jekyll build
 
 tau0005.pdf : plano.pdf cronograma.pdf \
 	trabalho-1-construcao.pdf trabalho-2-ordens.pdf trabalho-3-tipologia.pdf
 	gs -dNOPAUSE -dBATCH -sDevice=pdfwrite \
 		-sOutputFile=$@ $^
 
-.slides : $(SLIDES) revealjs.yaml $(SASS) | _site _csl
-
-_site :
-	@test -e _site/.git || \
-		gh repo clone tau0005 _site -- -b gh-pages --depth=1 --recurse-submodules
-	@cd _site && git pull
-
-	#docker run -v "`pwd`:/srv/jekyll" \
-		#$(JEKYLL-PANDOC) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+.slides : $(SLIDES)
 
 _site/slides/%.html : _aula/%.md revealjs.yaml revealjs-crossref.yaml \
-	biblio.bib $(SASS) | _csl _site/slides
+	biblio.bib $(SASS) \
+	| _csl/chicago-author-date.csl _site/slides
 	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
 
 %.pdf : %.tex biblio.bib
@@ -50,19 +44,35 @@ _site/slides/%.html : _aula/%.md revealjs.yaml revealjs-crossref.yaml \
 %.tex : %.md latex.yaml biblio.bib
 	$(PANDOC/LATEX) -o $@ -d _spec/latex.yaml $<
 
-serve : .slides
-	@bundle exec jekyll serve --incremental
+_csl/%.csl : | _csl
+	@cd _csl && git checkout master -- $(@F)
+	@echo "Checked out $(@F)."
 
-	#docker run -p 4000:4000 -h 127.0.0.1 \
-		#-v "`pwd`:/srv/jekyll" -it $(JEKYLL-PANDOC) \
-		#jekyll serve --skip-initial-build --no-watch
+# {{{1 PHONY
+#      =====
 
+.PHONY : _site
+_site :
+	@test -e _site/.git && cd _site && git pull || \
+		git clone --depth=1 git@github.com:p3palazzo/tau0006.git \
+		$@
+
+.PHONY : _csl
 _csl :
-	@gh repo clone citation-style-language/styles \
-		$@ -- --depth=1
+	@echo "Fetching CSL styles..."
+	@test -e $@ || \
+		git clone --depth=1 --filter=blob:none --no-checkout \
+		https://github.com/citation-style-language/styles.git \
+		$@
 
-_site/slides : _site
-	@mkdir -p _site/slides
+.PHONY : serve
+serve : _site
+	@bundle update \
+		&& bundle exec jekyll serve
 
+.PHONY : clean
 clean :
-	-@rm -rf *.aux *.bbl *.bcf *.blg *.fls *.log _csl _site
+	-@rm -rf *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml \
+		tau0005-*.tex _csl
+
+# vim: set foldmethod=marker shiftwidth=2 tabstop=2 :
