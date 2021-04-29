@@ -432,7 +432,7 @@ entendia ser o desenvolvimento do estilo [@garric:2015frontispices]
 A arquitetura analítica segundo o método de
 Durand vai ser uma das bases do ensino de arquitetura nas academias de
 arte que seguiam o modelo da École des Beaux-Arts em Paris
-[@coronamartinez:2000ensaio]. Por isso, esse método é conhecido como
+[@corona:2000ensaio]. Por isso, esse método é conhecido como
 *acadêmico* ou Beaux-Arts. Os levantamentos analíticos enviados pelos
 bolsistas da Academia da França em Roma nos séculos [XIX]{.smallcaps} e
 [XX]{.smallcaps} (@fig:cori) estão entre os documentos mais precisos e
