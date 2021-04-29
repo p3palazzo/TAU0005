@@ -21,10 +21,10 @@ ROOT    = $(wildcard *.md)
 AULA    = $(wildcard _aula/*.md)
 SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(AULA))
 
-deploy : _site $(SLIDES) \
+deploy : $(SLIDES) \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
 	docker run --rm -v "`pwd`:/srv/jekyll" \
-		$(JEKYLL) jekyll build
+		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
 
 tau0005.pdf : plano.pdf cronograma.pdf \
 	trabalho-1-construcao.pdf trabalho-2-ordens.pdf trabalho-3-tipologia.pdf
@@ -37,6 +37,9 @@ _site/slides/%.html : _aula/%.md revealjs.yaml revealjs-crossref.yaml \
 	biblio.bib $(SASS) \
 	| _csl/chicago-author-date.csl _site/slides
 	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
+
+_site/slides :
+	-@mkdir -p _site/slides
 
 %.pdf : %.tex biblio.bib
 	docker run --rm -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
@@ -68,7 +71,7 @@ _csl :
 		$@
 
 .PHONY : serve
-serve : _site
+serve : deploy
 	docker run --rm -v "`pwd`:/srv/jekyll" \
 		-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
 		$(JEKYLL) jekyll serve
