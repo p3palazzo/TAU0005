@@ -131,9 +131,12 @@ p.signoff, .signoff.csl-entry { font-size: 1.2rem; }
 body { max-width: 1150px; }
 
 /** Makes it so that top-level <p> don't need to be wrapped in <section> */
-article > p, article > .csl-entry { width: 55%; }
+article > p, article > .csl-entry, article > footer, article > table { width: 55%; }
 
-@media (max-width: 760px) { article > p, article > .csl-entry { width: 100%; } }
+/* 50 + 5 == 55, to be the same width as paragraph */
+article > ol, article > ul { width: 50%; -webkit-padding-start: 5%; }
+
+@media (max-width: 760px) { article > p, article > .csl-entry, article > footer, article > table { width: 100%; } article > ol, article > ul { width: 90%; } }
 
 /* Enable hyphens on supported platforms */
 article { -webkit-hyphens: auto; -ms-hyphens: auto; hyphens: auto; }
