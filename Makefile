@@ -4,12 +4,14 @@ vpath %.scss _sass:assets/css
 vpath %.xml _site
 vpath %.yaml .:_spec
 
+PANDOC_VERSION  := 2.12
+JEKYLL_VERSION  := 4.2.0
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
-	--user "`id -u`:`id -g`" pandoc/crossref:2.12
-PANDOC/LATEX    := docker run --rm --user "`id -u`:`id -g`" \
-	-v "`pwd`:/data" -v "`pwd`/assets/fonts:/usr/share/fonts" \
-	pandoc/latex:2.12
-JEKYLL-PANDOC   := palazzo/jekyll-tufte:4.2.0-2.12
+	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC_VERSION)
+PANDOC/LATEX    := docker run --rm -v "`pwd`:/data" \
+	-v "`pwd`/assets/fonts:/usr/share/fonts" \
+	-u "`id -u`:`id -g`" pandoc/latex:$(PANDOC_VERSION)
+JEKYLL := palazzo/jekyll-tufte:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
 
 ASSETS  = $(wildcard assets/*)
 CSS     = $(wildcard assets/css/*)
@@ -21,8 +23,8 @@ SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(AULA))
 
 deploy : _site $(SLIDES) \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
-	@bundle update \
-		&& bundle exec jekyll build
+	docker run --rm -v "`pwd`:/srv/jekyll" \
+		$(JEKYLL) jekyll build
 
 tau0005.pdf : plano.pdf cronograma.pdf \
 	trabalho-1-construcao.pdf trabalho-2-ordens.pdf trabalho-3-tipologia.pdf
@@ -67,8 +69,9 @@ _csl :
 
 .PHONY : serve
 serve : _site
-	@bundle update \
-		&& bundle exec jekyll serve
+	docker run --rm -v "`pwd`:/srv/jekyll" \
+		-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
+		$(JEKYLL) jekyll serve
 
 .PHONY : clean
 clean :

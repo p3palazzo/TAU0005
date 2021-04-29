@@ -4,19 +4,6 @@ on:
   push:
     branches: [ master ]
 jobs:
-  slides:
-    runs-on: ubuntu-latest
-    steps:
-    - uses: actions/checkout@v2
-      with:
-        submodules: 'recursive'
-    - name: Test build website
-      run: make .slides
-    - name: Upload website
-      uses: actions/upload-artifact@v2
-      with:
-        name: slides
-        path: '_site/slides/*'
   build:
     runs-on: ubuntu-latest
     steps:
@@ -45,16 +32,6 @@ jobs:
       uses: actions/download-artifact@v2
       with:
         name: site
-        path: ${{ github.workspace }}/
-    - name: Download notas
-      uses: actions/download-artifact@v2
-      with:
-        name: notas
-        path: ${{ github.workspace }}/
-    - name: Download slides
-      uses: actions/download-artifact@v2
-      with:
-        name: slides
         path: ${{ github.workspace }}/
     - name: Commit changes to gh-pages branch
       run: |
