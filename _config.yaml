@@ -78,7 +78,6 @@ exclude:
   - LICENSE
   - Makefile
   - reveal.js
-  - "*.bib"
   - "default.*"
   - "*.fdb_latexmk"
   - "*.run.xml"
