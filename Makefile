@@ -62,7 +62,7 @@ _csl :
 		$@
 
 .PHONY : serve
-serve : deploy
+serve : _site
 	docker run --rm -v "`pwd`:/srv/jekyll" \
 		-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
 		$(JEKYLL) jekyll serve
