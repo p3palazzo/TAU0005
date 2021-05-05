@@ -14,14 +14,13 @@ PANDOC/LATEX    := docker run --rm -v "`pwd`:/data" \
 JEKYLL := palazzo/jekyll-tufte:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
 
 ASSETS  = $(wildcard assets/*)
-CSS     = $(wildcard assets/css/*)
 FONTS   = $(wildcard assets/fonts/*)
-SASS    = $(wildcard assets/css/*.scss) $(wildcard _sass/*.scss)
+SASS    = $(wildcard assets/css/*.scss) $(wildcard assets/css-slides/*.scss) $(wildcard _sass/*.scss)
 ROOT    = $(wildcard *.md)
 AULA    = $(wildcard _aula/*.md)
 SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(AULA))
 
-deploy : $(SLIDES) \
+_site : $(SLIDES) \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
 	docker run --rm -v "`pwd`:/srv/jekyll" \
 		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
@@ -31,22 +30,20 @@ tau0005.pdf : plano.pdf cronograma.pdf \
 	gs -dNOPAUSE -dBATCH -sDevice=pdfwrite \
 		-sOutputFile=$@ $^
 
-.slides : $(SLIDES)
-
 _site/slides/%.html : _aula/%.md revealjs.yaml revealjs-crossref.yaml \
-	biblio.bib $(SASS) \
+	_biblio.bib $(SASS) \
 	| _csl/chicago-author-date.csl _site/slides
 	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
 
 _site/slides :
 	-@mkdir -p _site/slides
 
-%.pdf : %.tex biblio.bib
+%.pdf : %.tex _biblio.bib
 	docker run --rm -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		-v "`pwd`/assets/fonts/unb:/usr/share/fonts" blang/latex:ctanfull \
 		latexmk -pdflatex="xelatex" -cd -f -interaction=batchmode -pdf $<
 
-%.tex : %.md latex.yaml biblio.bib
+%.tex : %.md latex.yaml _biblio.bib
 	$(PANDOC/LATEX) -o $@ -d _spec/latex.yaml $<
 
 _csl/%.csl : | _csl
@@ -55,12 +52,6 @@ _csl/%.csl : | _csl
 
 # {{{1 PHONY
 #      =====
-
-.PHONY : _site
-_site :
-	@test -e _site/.git && cd _site && git pull || \
-		git clone --depth=1 git@github.com:p3palazzo/tau0006.git \
-		$@
 
 .PHONY : _csl
 _csl :
