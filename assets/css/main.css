@@ -322,6 +322,8 @@ td > p, td > .csl-entry { margin-top: 0; }
 /*********************************************** Pandoc+Citeproc improvements */
 section > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, .incremental > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, section > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote, .incremental > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote, div.csl-bib-body > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, div.csl-bib-body > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote, details > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, details > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote, div.notes > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, div.notes > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote, dl > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, dl > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote { margin-right: -70%; }
 
+.author { width: 55%; }
+
 .marginnote, figcaption, .subfigures p, .subfigures .csl-entry, .sidenote { font-weight: 500; margin-bottom: 1rem; }
 
 .sidenote-number, .sidenote-number:after, .sidenote:before { font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
@@ -364,6 +366,6 @@ h3.unlisted { margin: 0; }
 @media (prefers-color-scheme: dark) { body { color: #fffff8; background-color: #2b2b2b; } body a:link { text-decoration: none; background: -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(white, white); background: linear-gradient(#111111, #111111), linear-gradient(#111111, #111111), linear-gradient(white, white); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #111111, -0.03em 0 #111111, 0 0.03em #111111, 0 -0.03em #111111, 0.06em 0 #111111, -0.06em 0 #111111, 0.09em 0 #111111, -0.09em 0 #111111, 0.12em 0 #111111, -0.12em 0 #111111, 0.15em 0 #111111, -0.15em 0 #111111; background-position: 0% 93%, 100% 93%, 0% 93%; } body img { background-color: #2b2b2b; } body .line { background: none; filter: invert(75%); -webkit-filter: invert(75%); } body .nobg { background: none; } }
 
 /****************************************************** Screen width overrides must come last. */
-@media (max-width: 760px) { div.incremental, header > div.epigraph, dl, figure > img.fullwidth, details { width: 90%; } img.marginnote { float: none; width: 90%; } figcaption, .subfigures p, .subfigures .csl-entry, .marginnote { display: inline; } }
+@media (max-width: 760px) { div.incremental, header > div.epigraph, dl, figure > img.fullwidth, details, .author { width: 90%; } img.marginnote { float: none; width: 90%; } figcaption, .subfigures p, .subfigures .csl-entry, .marginnote { display: inline; } }
 
 /*# sourceMappingURL=main.css.map */
