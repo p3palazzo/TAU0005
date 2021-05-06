@@ -131,7 +131,7 @@ blockquote li, ol li, ul li { margin-left: 2rem; }
 
 li::before, td { font-variant: tabular-nums; }
 
-figcaption, div.subfigures > p { padding: 8px 2.5%; }
+figcaption, div.subfigures > p { padding: 8px 2.5%; position: fixed; bottom: 2.5%; }
 
 .reveal { box-shadow: inset 0 0 5em 1em #fffff6; }
 
@@ -149,7 +149,7 @@ figcaption, div.subfigures > p { padding: 8px 2.5%; }
 
 .reveal section.has-dark-background p.subtitle, .reveal section#title-slide p.subtitle { top: 0; font-size: 1.3em; font-weight: 500; }
 
-.reveal section dd > img, .reveal section dd > video, .reveal section > figure > img, .reveal section > figure > video { height: 100%; visibility: hidden; }
+.reveal section dd > img, .reveal section dd > video, .reveal section > figure > img, .reveal section > figure > video { display: none; visibility: hidden; }
 
 .columns { margin-top: -20px; }
 
