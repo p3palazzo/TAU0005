@@ -1,3 +1,6 @@
+# {{{1 Variables
+#      =========
+
 VPATH = .:assets
 vpath %.html .:_includes:_layouts:_site
 vpath %.scss _sass:assets/css
@@ -20,6 +23,10 @@ ROOT    = $(wildcard *.md)
 AULA    = $(wildcard _aula/*.md)
 SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(AULA))
 
+# {{{1 Recipes
+#      =======
+
+.PHONY : _site
 _site : $(SLIDES) \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
 	docker run --rm -v "`pwd`:/srv/jekyll" \
@@ -53,7 +60,6 @@ _csl/%.csl : | _csl
 # {{{1 PHONY
 #      =====
 
-.PHONY : _csl
 _csl :
 	@echo "Fetching CSL styles..."
 	@test -e $@ || \
@@ -62,7 +68,8 @@ _csl :
 		$@
 
 .PHONY : serve
-serve : deploy
+serve : $(SLIDES) \
+	| _csl/chicago-fullnote-bibliography-with-ibid.csl
 	docker run --rm -v "`pwd`:/srv/jekyll" \
 		-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
 		$(JEKYLL) jekyll serve
