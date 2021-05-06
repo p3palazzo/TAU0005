@@ -5,7 +5,7 @@ fontsize: 11pt
 indent  : true
 nocite  : "@*"
 suppress-bibliography: true
-abstract: >
+abstract: |
   História do urbanismo, da arquitetura e da arte no contexto de seus
   condicionantes sociais, econômicos e políticos, desde os primórdios da
   civilização até o gótico.
