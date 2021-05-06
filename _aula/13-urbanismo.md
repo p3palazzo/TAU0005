@@ -32,6 +32,12 @@ abstract: |
 
 ![Transecto urbano, baseado em DPZ](https://i.pinimg.com/originals/95/f0/ee/95f0ee5aa71518677561cb2d5f8307a4.jpg){#fig:transect-3d .fullwidth}
 
+## Arquitetura urbana ##
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/a4/2f/52/a42f5240bc645b9435145aa2dd7cb0cd.jpg" data-background-size="contain"}
+
+![Léon Krier, ajuste da arquitetura urbana, 2003](https://i.pinimg.com/originals/a4/2f/52/a42f5240bc645b9435145aa2dd7cb0cd.jpg){#fig:lk-tua}
+
 # Elementos da forma urbana #
 
 Tipos de urbanização
@@ -102,7 +108,39 @@ Reconstituição do processo urbanístico de Castelo de Vide, Alentejo
 Modos de evolução do tecido urbano, segundo Carlos Dias Coelho (2015)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Justaposição ##
+
+- Carcassonne
+
+## Sobreposição ##
+
+- Veneza
+
+## Sedimentação ##
+
+- Desvios de testadas
+  - Braga
+  - Évora
+
+- Abertura de via em lote
+
+- Fechamento de via com lote
+
+- Estruturas temporárias em permanentes
+  - Praça Velha, Coimbra
+
+- Temenos em cidade
+  - Anfiteatro de Florença
+
 # Rua e praça #
 
+## {.unlisted data-background-image="https://i.pinimg.com/originals/2e/bc/c7/2ebcc75cf728d362a1387c80b43d4eff.jpg" data-background-size="contain"}
+
+![Léon Krier, rua--corredor e rua--lugar](https://i.pinimg.com/originals/2e/bc/c7/2ebcc75cf728d362a1387c80b43d4eff.jpg){#fig:lk-street}
+
 # Processos históricos #
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plan_mediaeval_manor.jpg/693px-Plan_mediaeval_manor.jpg" data-background-size="contain"}
+
+![Esquema de um feudo medieval, em [William R. Shepherd, *Historical Atlas*, 1923](https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plan_mediaeval_manor.jpg/693px-Plan_mediaeval_manor.jpg){#fig:manor}
 
