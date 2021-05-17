@@ -132,15 +132,25 @@ Tata somba
 
 ## Redes políticas no território: grande Zimbábue ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/f1/3c/dc/f13cdc11d527ca7beb3486fbcda7a84b.jpg"}
+
+![Boma de uMgungundlovu, Dingane, reino Zulu, 1829](https://i.pinimg.com/originals/f1/3c/dc/f13cdc11d527ca7beb3486fbcda7a84b.jpg){#fig:dingane}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O sistema espacial do *boma* é a unidade mínima de estratificação
 familiar e social nas regiões banto. A partir dele, podem ser formadas
 redes extensas de relações políticas que controlam territórios mais
-vastos.
+vastos, como era o caso do reino Zulu no século [XIX]{.smallcaps}. A sua
+capital, Dingane, chegou a ter 7000 habitantes com um cercado vasto
+[@fig:dingane]. Esse espaço interior continha uma praça de armas vasta
+(ikhanda) além dos currais de gado.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O grande Zimbábue ([@fig:zimbabwe]) é uma rede territorial que
-floresceu entre os séculos XI e XV. Essa rede tinha importância
+floresceu entre os séculos  [XI]{.smallcaps} e  [XV]{.smallcaps}. Essa rede tinha importância
 estratégica no comércio suaíle, porque controlava as minas de ouro no
 sul da África. O conjunto é extenso e era densamente povoado: ocupa uma
 superfície de 730 hectares e pode ter abrigado até dez mil habitantes no
