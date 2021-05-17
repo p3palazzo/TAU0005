@@ -96,7 +96,7 @@ tem a sua própria casa perto desse espaço central.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=85%}
-![Esquema teórico de um *boma* no sul da África: Zimbábue [@huffman:2009mapungubwe28]](https://i.pinimg.com/originals/37/06/db/3706dbf46c6d25e8758b078fe757f513.jpg){#fig:boma .line} 
+![Esquema teórico de um *boma* no sul da África: Zimbábue. Desenho: [Huffman, 2009](http://www.sciencedirect.com/science/article/pii/S0278416508000585)](https://i.pinimg.com/originals/37/06/db/3706dbf46c6d25e8758b078fe757f513.jpg){#fig:boma .line} 
 :::
 ::: {.column width=15%}
 ![Thomas Huffman](https://i1.rgstatic.net/ii/profile.image/337996172808194-1457595975447_Q512/Thomas_Huffman2.jpg){#fig:huffman}
@@ -119,13 +119,13 @@ Ver também:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::: {#fig:batammaliba .columns}
-::: {.column width=50%}
-![Locação na região fronteiriça entre Togo e Benin [@palazzo:2020batammaliba]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_%28Africa_centered%29.svg/480px-Batammaliba_region_on_the_globe_%28Africa_centered%29.svg.png){#fig:batammalibaA height=320px}
+::: {.column width=30%}
+![Locação na região fronteiriça entre Togo e Benin. Mapa: [Pedro P. Palazzo, 2020](https://commons.wikimedia.org/wiki/File:Batammaliba_region_on_the_globe_(Africa_centered).svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_(Africa_centered).svg/480px-Batammaliba_region_on_the_globe_(Africa_centered).svg.png){#fig:batammalibaA .nobg}
 
-![Planta [@james-chakraborty:2014africa, p. 415, baseada em @blier:1994anatomy]](https://www.integra.unb.br/s/8xfaAKSgGDRYnJT/preview){#fig:batammalibaB height=320px}
+![Planta. Desenho em Kathleen James-Chakraborty, 2014, baseado em Suzanne Blier, 1994](https://i.pinimg.com/originals/55/47/76/5547769998d329a362f4ca743da07dd1.png){#fig:batammalibaB .line}
 :::
-::: {.column width=50%}
-![Vista exterior [@taberlet:2008koussoukoingou]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC .stretch}
+::: {.column width=70%}
+![Vista exterior. Foto: [Jacques Taberlet, 2008](https://commons.wikimedia.org/wiki/File:Koussoukoingou2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC}
 :::
 Tata somba
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -135,12 +135,10 @@ Tata somba
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-<!--Câmera--> 
 O sistema espacial do *boma* é a unidade mínima de estratificação
 familiar e social nas regiões banto. A partir dele, podem ser formadas
 redes extensas de relações políticas que controlam territórios mais
 vastos.
-<!--/Câmera-->
 O grande Zimbábue ([@fig:zimbabwe]) é uma rede territorial que
 floresceu entre os séculos XI e XV. Essa rede tinha importância
 estratégica no comércio suaíle, porque controlava as minas de ouro no
@@ -154,24 +152,23 @@ semelhantes às relações que se estabelecem *dentro* de cada sistema
 *boma*. A cidadela maior, com muralhas de 11 metros de altura, se situa
 na cabeceira da rede, e não no centro --- a mesma situação da casa
 dominante num *boma* individual.
-
-![Vista aérea do Zimbábue. Foto: [Janice Bell, 2015](https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Vista aérea do Zimbábue. Foto: [Janice Bell, 2015](https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe}
 
 ## Adensamento do boma e malha viária ##
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O *kampung* malaio se desenvolve à margem de um caminho estruturante. No
-caso do *boma*, ao contrário, é o adensamento do sistema edificado que
+O traçado estruturante de um caminho é a base para a formação do tecido
+construído na aldeia--rua da bacia do Mediterrâneo. 
+Já no caso do *boma*, é o adensamento do sistema edificado que
 causa a formação dos caminhos. À medida que as comunidades baseadas no
 *boma* se tornam mais numerosas e ocupam o território com maior
 densidade, os cercados se aproximam de formas retangulares. O espaço
 entre eles começa, então, a tomar a forma de rua--corredor.
-
-![Vista aérea de Niamey, Chade [@mittelholzer:1930mh02-08-0093]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey .stretch}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-
+![Vista aérea de Niamey, Chade. Foto: [Walter Mittelholzer, 1930, arquivo da Escola Politécnica Federal de Zurique](https://commons.wikimedia.org/wiki/File:ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey}
 
