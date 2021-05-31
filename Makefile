@@ -2,12 +2,14 @@
 #      =========
 
 VPATH = .:assets
+vpath %.bib _bibliography
+vpath %.csl _csl
 vpath %.html .:_includes:_layouts:_site
 vpath %.scss _sass:assets/css
 vpath %.xml _site
 vpath %.yaml .:_spec
 
-PANDOC_VERSION  := 2.12
+PANDOC_VERSION  := 2.14
 JEKYLL_VERSION  := 4.2.0
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC_VERSION)
@@ -17,15 +19,12 @@ PANDOC/LATEX    := docker run --rm -v "`pwd`:/data" \
 JEKYLL := palazzo/jekyll-tufte:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
 
 ASSETS  = $(wildcard assets/*)
-FONTS   = $(wildcard assets/fonts/*)
 SASS    = $(wildcard assets/css/*.scss) $(wildcard assets/css-slides/*.scss) $(wildcard _sass/*.scss)
-ROOT    = $(wildcard *.md)
 AULA    = $(wildcard _aula/*.md)
 SLIDES := $(patsubst _aula/%.md,_site/slides/%.html,$(AULA))
 
 # {{{1 Recipes
 #      =======
-
 .PHONY : _site
 _site : $(SLIDES) \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
@@ -38,19 +37,19 @@ tau0005.pdf : plano.pdf cronograma.pdf \
 		-sOutputFile=$@ $^
 
 _site/slides/%.html : _aula/%.md revealjs.yaml revealjs-crossref.yaml \
-	_biblio.bib $(SASS) \
+	references.bib $(SASS) \
 	| _csl/chicago-author-date.csl _site/slides
 	$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
 
 _site/slides :
 	-@mkdir -p _site/slides
 
-%.pdf : %.tex _biblio.bib
+%.pdf : %.tex references.bib
 	docker run --rm -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
 		-v "`pwd`/assets/fonts/unb:/usr/share/fonts" blang/latex:ctanfull \
 		latexmk -pdflatex="xelatex" -cd -f -interaction=batchmode -pdf $<
 
-%.tex : %.md latex.yaml _biblio.bib
+%.tex : %.md latex.yaml references.bib
 	$(PANDOC/LATEX) -o $@ -d _spec/latex.yaml $<
 
 _csl/%.csl : | _csl
