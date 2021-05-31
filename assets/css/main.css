@@ -271,7 +271,7 @@ a.sourceLine::before { text-decoration: none; }
 
 /*********************************************** General tweaks for nicer appearance */
 /* @mixin bodyBackground() { background: $backgroundColor; } */
-body { margin-top: 0; font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
+body { color: #111115; margin-top: 0; font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
 
 body * { font-variant: proportional-nums oldstyle-nums; }
 
@@ -279,7 +279,7 @@ body * { font-variant: proportional-nums oldstyle-nums; }
 
 .site-title > img { width: 90%; }
 
-div.epigraph { width: 55%; }
+div.epigraph, dl { width: 55%; }
 
 /*********************************************** Headings and lists */
 h1, h2, h3 { clear: both; font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; font-weight: 400; }
@@ -294,13 +294,13 @@ h2 { font-size: 2.4em; font-style: italic; }
 
 h2 em { font-style: normal; }
 
-dt, h3, h4, h5 { font-size: 1.4rem; font-style: normal; letter-spacing: 0.05rem; }
+dt, h3, h4, h5 { clear: left; font-size: 1.4rem; font-style: normal; font-weight: 500; letter-spacing: 0.05rem; }
 
-section > dl, .incremental > dl, div.csl-bib-body > dl, details > dl, div.notes > dl, dl > dl { font-size: 1.4rem; }
+section > dl, .incremental > dl, div.csl-bib-body > dl, details > dl, div.notes > dl, dl > dl { clear: left; font-size: 1.4rem; line-height: 2rem; }
 
 section > dl dd, .incremental > dl dd, div.csl-bib-body > dl dd, details > dl dd, div.notes > dl dd, dl > dl dd { margin: 0; }
 
-dt, h5 { float: left; margin: 0 1.4rem 0 0; padding: 0; line-height: 1.2em; }
+dt, h5 { float: left; margin: 0 1.4rem 0 0; padding: 0; line-height: 2rem; }
 
 ol, ul { margin-left: -2.5rem; }
 
@@ -310,16 +310,22 @@ ul li { text-indent: -2rem; }
 
 ul li::before { content: "— "; font-variant: tabular-nums; }
 
+.line-block { font-size: 1.4rem; line-height: 2rem; }
+
+.cv dt { font-variant: tabular-nums oldstyle-nums all-small-caps; margin-left: -8.5rem; }
+
 /*********************************************** General formatting improvements */
 hr { border: 0; clear: left; text-align: center; font-size: 2em; padding: 2rem 0 2rem 0; }
 
 hr::before { content: "* * *"; }
 
+img { border: 0.5px solid #111115; }
+
 summary > p, summary > .csl-entry { display: inline; }
 
 table { border-collapse: collapse; max-width: 90%; }
 
-td { vertical-align: top; border-top: 1px solid #111111; }
+td { vertical-align: top; border-top: 1px solid #111115; }
 
 td > p, td > .csl-entry { margin-top: 0; }
 
@@ -362,12 +368,37 @@ h3.unlisted { margin: 0; }
 
 .column figure figcaption, .column figure .subfigures p, .subfigures .column figure p, .column figure .subfigures .csl-entry, .subfigures .column figure .csl-entry { margin-left: 0; margin-right: 0; max-width: 66%; width: 66%; }
 
-/****************************************************** Light and Dark */
-@media (prefers-color-scheme: no-preference), (prefers-color-scheme: light) { body { color: #111111; background-color: #fffff8; } body a:link { text-decoration: none; background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#373737, #373737); background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#373737, #373737); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8; background-position: 0% 93%, 100% 93%, 0% 93%; } }
+/****************************************************** Extendind Tufte-Pandoc-Jekyll */
+#lang-select { float: right; font-weight: 500; margin-right: 40%; }
 
-@media (prefers-color-scheme: dark) { body { color: #fffff8; background-color: #2b2b2b; } body a:link { text-decoration: none; background: -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(#111111, #111111), -webkit-linear-gradient(white, white); background: linear-gradient(#111111, #111111), linear-gradient(#111111, #111111), linear-gradient(white, white); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #111111, -0.03em 0 #111111, 0 0.03em #111111, 0 -0.03em #111111, 0.06em 0 #111111, -0.06em 0 #111111, 0.09em 0 #111111, -0.09em 0 #111111, 0.12em 0 #111111, -0.12em 0 #111111, 0.15em 0 #111111, -0.15em 0 #111111; background-position: 0% 93%, 100% 93%, 0% 93%; } body img { background-color: #2b2b2b; } body .line { background: none; filter: invert(75%); -webkit-filter: invert(75%); } body .nobg { background: none; } }
+#main-nav, #lang-select { font-size: 1.2rem; margin-top: 1rem; }
+
+#main-nav a:link, #lang-select a:link { background: none; text-shadow: none; }
+
+#main-nav a:link::after, #lang-select a:link::after { content: "  "; }
+
+.blogroll { width: 55%; }
+
+nav.pagination > ul, ul.blogroll h3 { display: inline; }
+
+nav.pagination { list-style-type: none; }
+
+nav.pagination > ul > li { display: inline; text-indent: 0; }
+
+nav.pagination > ul > li::before { content: ""; font-variant: tabular-nums; }
+
+nav.pagination > ul > li::after { content: " | "; }
+
+nav.pagination > ul > li:last-child::after { content: ""; }
+
+/****************************************************** Light and Dark */
+@media (prefers-color-scheme: no-preference), (prefers-color-scheme: light) { body { color: #111115; background-color: #fffff8; } body .en:lang(en), body .fr:lang(fr), body .pt:lang(pt) { color: rgba(17, 17, 21, 0.5); } body a:link { text-decoration: none; background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#33333f, #33333f); background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#33333f, #33333f); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8; background-position: 0% 93%, 100% 93%, 0% 93%; } body .line { border: none; } }
+
+@media (prefers-color-scheme: dark) { body { color: #fffff8; background-color: #282831; } body .en:lang(en), body .fr:lang(fr), body .pt:lang(pt) { color: rgba(255, 255, 248, 0.5); } body a:link { text-decoration: none; background: -webkit-linear-gradient(#111115, #111115), -webkit-linear-gradient(#111115, #111115), -webkit-linear-gradient(white, white); background: linear-gradient(#111115, #111115), linear-gradient(#111115, #111115), linear-gradient(white, white); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #111115, -0.03em 0 #111115, 0 0.03em #111115, 0 -0.03em #111115, 0.06em 0 #111115, -0.06em 0 #111115, 0.09em 0 #111115, -0.09em 0 #111115, 0.12em 0 #111115, -0.12em 0 #111115, 0.15em 0 #111115, -0.15em 0 #111115; background-position: 0% 93%, 100% 93%, 0% 93%; } body img { background-color: #282831; } body .line { background: none; filter: invert(83%); -webkit-filter: invert(83%); } body .nobg { background: none; } }
 
 /****************************************************** Screen width overrides must come last. */
-@media (max-width: 760px) { div.incremental, header > div.epigraph, dl, figure > img.fullwidth, details, .author { width: 90%; } img.marginnote { float: none; width: 90%; } figcaption, .subfigures p, .subfigures .csl-entry, .marginnote { display: inline; } }
+@media (max-width: 760px) { div.incremental, header > div.epigraph, dl, figure > img.fullwidth, details, .author, .blogroll { width: 90%; } img.marginnote { float: none; width: 90%; } figcaption, .subfigures p, .subfigures .csl-entry, .marginnote { display: inline; } }
+
+@media (max-width: 960px) { .cv dt { margin-left: -1.5rem; } .cv dt::before { content: "– "; } }
 
 /*# sourceMappingURL=main.css.map */

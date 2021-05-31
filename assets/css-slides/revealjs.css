@@ -2,15 +2,15 @@
 @import url("https://use.typekit.net/hny1sfi.css");
 /* @mixin bodyBackground() { background: $backgroundColor; } */
 /********************************************* GLOBAL STYLES */
-:root { --background-color: #fffff8; --main-font: eb-garamond, Garamond, Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif; --main-font-size: 32px; --main-color: #111111; --block-margin: 20px; --heading-margin: 0 0 20px 0; --heading-font: eb-garamond, Garamond, Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif; --heading-color: #284368; --heading-line-height: 1.2; --heading-letter-spacing: 0.2rem; --heading-text-transform: uppercase; --heading-text-shadow: none; --heading-font-weight: 400; --heading1-text-shadow: 0 0 20px #111111, 0 0 10px #111111; --heading1-size: 2.4em; --heading2-size: 1.6em; --heading3-size: 1.3em; --heading4-size: 1em; --code-font: Source Code Pro, monospace; --link-color: #111111; --link-color-hover: #373737; --selection-background-color: #515151; --selection-color: #fff; }
+:root { --background-color: #fffff8; --main-font: eb-garamond, Garamond, Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif; --main-font-size: 32px; --main-color: #111115; --block-margin: 20px; --heading-margin: 0 0 20px 0; --heading-font: eb-garamond, Garamond, Palatino, Palatino Linotype, Palatino LT STD, Book Antiqua, Georgia, serif; --heading-color: #284368; --heading-line-height: 1.2; --heading-letter-spacing: 0.2rem; --heading-text-transform: uppercase; --heading-text-shadow: none; --heading-font-weight: 400; --heading1-text-shadow: 0 0 20px #111115, 0 0 10px #111115; --heading1-size: 2.4em; --heading2-size: 1.6em; --heading3-size: 1.3em; --heading4-size: 1em; --code-font: Source Code Pro, monospace; --link-color: #111115; --link-color-hover: #33333f; --selection-background-color: #4a4a5b; --selection-color: #fff; }
 
 .reveal-viewport { background: #fffff8; background-color: #fffff8; }
 
-.reveal { font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; font-size: 32px; font-weight: normal; color: #111111; }
+.reveal { font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; font-size: 32px; font-weight: normal; color: #111115; }
 
-.reveal ::selection { color: #fff; background: #515151; text-shadow: none; }
+.reveal ::selection { color: #fff; background: #4a4a5b; text-shadow: none; }
 
-.reveal ::-moz-selection { color: #fff; background: #515151; text-shadow: none; }
+.reveal ::-moz-selection { color: #fff; background: #4a4a5b; text-shadow: none; }
 
 .reveal .slides section, .reveal .slides section > section { line-height: 1.3; font-weight: inherit; }
 
@@ -25,7 +25,7 @@
 
 .reveal h4 { font-size: 1em; }
 
-.reveal h1 { text-shadow: 0 0 20px #111111, 0 0 10px #111111; }
+.reveal h1 { text-shadow: 0 0 20px #111115, 0 0 10px #111115; }
 
 /********************************************* OTHER */
 .reveal p { margin: 20px 0; line-height: 1.3; }
@@ -91,24 +91,24 @@
 .reveal img { margin: 20px 0; }
 
 /********************************************* LINKS */
-.reveal a { color: #111111; text-decoration: none; transition: color .15s ease; }
+.reveal a { color: #111115; text-decoration: none; transition: color .15s ease; }
 
-.reveal a:hover { color: #373737; text-shadow: none; border: none; }
+.reveal a:hover { color: #33333f; text-shadow: none; border: none; }
 
 .reveal .roll span:after { color: #fff; background: black; }
 
 /********************************************* Frame helper */
-.reveal .r-frame { border: 4px solid #111111; box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
+.reveal .r-frame { border: 4px solid #111115; box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
 
 .reveal a .r-frame { transition: all .15s linear; }
 
-.reveal a:hover .r-frame { border-color: #111111; box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
+.reveal a:hover .r-frame { border-color: #111115; box-shadow: 0 0 20px rgba(0, 0, 0, 0.55); }
 
 /********************************************* NAVIGATION CONTROLS */
-.reveal .controls { color: #111111; }
+.reveal .controls { color: #111115; }
 
 /********************************************* PROGRESS BAR */
-.reveal .progress { background: rgba(0, 0, 0, 0.2); color: #111111; }
+.reveal .progress { background: rgba(0, 0, 0, 0.2); color: #111115; }
 
 /********************************************* PRINT BACKGROUND */
 @media print { .backgrounds { background-color: #fffff8; } }
@@ -141,7 +141,7 @@ figcaption, div.subfigures > p { padding: 8px 2.5%; position: fixed; bottom: 2.5
 
 .reveal section.has-dark-background, .reveal section#title-slide { color: #fffff8; height: 100vh; }
 
-.reveal section.has-dark-background, .reveal section.has-dark-background h1, .reveal section.has-dark-background h2, .reveal section.has-dark-background h3, .reveal section.has-dark-background h4, .reveal section.has-dark-background h5, .reveal section.has-dark-background h6, .reveal section.has-dark-background p.subtitle, .reveal section.has-dark-background p.author, .reveal section.has-dark-background p.date, .reveal section#title-slide, .reveal section#title-slide h1, .reveal section#title-slide h2, .reveal section#title-slide h3, .reveal section#title-slide h4, .reveal section#title-slide h5, .reveal section#title-slide h6, .reveal section#title-slide p.subtitle, .reveal section#title-slide p.author, .reveal section#title-slide p.date { background: none; border: none; color: #fffff8; font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; font-variant: lining-nums proportional-nums titling-caps; font-weight: 400; letter-spacing: 0.2rem; position: fixed; text-shadow: 0 0 20px #111111, 0 0 10px #111111; text-transform: uppercase; width: 100%; }
+.reveal section.has-dark-background, .reveal section.has-dark-background h1, .reveal section.has-dark-background h2, .reveal section.has-dark-background h3, .reveal section.has-dark-background h4, .reveal section.has-dark-background h5, .reveal section.has-dark-background h6, .reveal section.has-dark-background p.subtitle, .reveal section.has-dark-background p.author, .reveal section.has-dark-background p.date, .reveal section#title-slide, .reveal section#title-slide h1, .reveal section#title-slide h2, .reveal section#title-slide h3, .reveal section#title-slide h4, .reveal section#title-slide h5, .reveal section#title-slide h6, .reveal section#title-slide p.subtitle, .reveal section#title-slide p.author, .reveal section#title-slide p.date { background: none; border: none; color: #fffff8; font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; font-variant: lining-nums proportional-nums titling-caps; font-weight: 400; letter-spacing: 0.2rem; position: fixed; text-shadow: 0 0 20px #111115, 0 0 10px #111115; text-transform: uppercase; width: 100%; }
 
 .reveal section.has-dark-background h1, .reveal section#title-slide h1 { bottom: 50%; }
 
