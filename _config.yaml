@@ -1,5 +1,4 @@
-# Content {{{1
-# General {{{2
+# General
 title: História da Arquitetura e da Arte I
 author: Pedro P. Palazzo
 email: palazzo@unb.br
@@ -10,15 +9,21 @@ description: >-
 baseurl: "/tau0005"
 url: "https://palazzo.arq.br"
 lang: pt-BR
+
+# Content
+header_includes:
+  - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+  - <link rel="stylesheet" href="https://use.fontawesome.com/9303e96850.css">
 include_before: |
   <div class="site-title">
     <img src="https://repository-images.githubusercontent.com/271059855/eef83080-aa80-11ea-9464-650e34bad83c" />
   </div>
 
-# Collections {{{2
+# Collections
 collections:
   aula:
     output: true
+    permalink: /:collection/:name/
 
 defaults:
   -
@@ -27,23 +32,16 @@ defaults:
     values:
       layout: page
 
-# Build settings {{{1
-# Theme {{{2
+# Theme
 theme: tufte-pandoc-jekyll
-minima:
-  date_format : "%e %B %Y"
-  social_links:
-    twitter   : p3palazzo
-    github    : p3palazzo
-    instagram : arqtrad
 
-# Build parameters {{{2
+# Build parameters
 markdown: Pandoc
 pandoc:
   extensions:
-    - defaults: "_spec/html.yaml"
+    - defaults    : "_spec/html.yaml"
     - section-divs
-#permalink: pretty
+permalink         : pretty
 readme_index:
   enabled         : true
   remove_originals: true
@@ -58,25 +56,26 @@ sass_dir:
     - assets/css
     - assets/css-slides
     - reveal.js/css/theme/template
-timezone: America/Sao_Paulo
+timezone          : America/Sao_Paulo
 
-# Plugins {{{1
+# Plugins
 plugins:
+  - jekyll-data
   - jekyll-feed
-  - jekyll-pandoc
-  - jekyll-sitemap
-  - jekyll-seo-tag
-  # The following plugins are always used by GH-Pages
-  - jekyll-coffeescript
-  - jekyll-optional-front-matter
+  - jekyll-gist
+  - jekyll-include-cache
   - jekyll-paginate
-  - jekyll-readme-index
+  - jekyll-pandoc
   - jekyll-relative-links
+  - jekyll-scholar
+  - jekyll-seo-tag
+  - jekyll-sitemap
 
-# Keep and Exclude {{{1
+# Keep and Exclude
 exclude:
   - LICENSE
   - Makefile
+  - README.md
   - reveal.js
   - "default.*"
   - "*.fdb_latexmk"
@@ -85,4 +84,3 @@ keep_files:
   - .git
   - slides
   - reveal.js
-# vim: set foldmethod=marker :
