@@ -1,11 +1,15 @@
 ---
 title   : "Teoria da construção tradicional"
+subtitle: "Arquitetura tradicional"
 author  : "Pedro P. Palazzo"
+date    : 2021-07-20
 abstract: |
   História e arquitetura tradicional
   – O que é construção tradicional
   – Sistemas arquitravados e a cabana primitiva
   – Sistemas murários–arqueados e a criação do espaço
+title-slide-attributes:
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg/1280px-Thomas_Cole\_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg
 ---
 
 ![Thomas Cole, Architect's Dream, 1840. Fonte e maiores informações:
@@ -44,7 +48,7 @@ tradicional.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6c/Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg" data-background-opacity="0.7" data-transition="zoom-in fade-out" data-background-trasition="fade"}
 
 ![Thomas Cole, Architect's Dream, detalhe
-](https://upload.wikimedia.org/wikipedia/commons/b/b2/Thomas_Cole_-_The_Architect%27s_Dream_(detail)_-_WGA05142.jpg){#fig:cole-detail .marginnote .stretch}
+](https://upload.wikimedia.org/wikipedia/commons/b/b2/Thomas_Cole_-_The_Architect’s_Dream_(detail)_-_WGA05142.jpg){#fig:cole-detail .marginnote .stretch}
 
 <!--_,-->
 

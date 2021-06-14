@@ -1,14 +1,23 @@
 <!DOCTYPE html>
 <html>
 <head>
-  {% include head.html %}
+  {%- include head.html %}
 </head>
-<body> {% include before.html %} <article>
-    {% include header.html %}
+<body>
+  {%- include before.html %}
+  <article>
+    {%- include header.html %}
     {{ content }}
     {% if page.layout != 'index' -%}
     <section>
-      <p class="signoff"><em><a href="https://aprender3.unb.br/course/view.php?id=5670">Voltar ao Moodle 2.º/2020</a></em></p>
+      <p class="signoff">
+        <a href="{{ site.baseurl }}/" title="home">
+          <i title="Home" class="fas fa-home fa-2x"></i>
+        </a>
+        <a href="#" title="top">
+          <i title="Top" class="fas fa-arrow-up fa-2x"></i>
+        </a>
+      </p>
     </section>
     {%- endif %}
   </article>

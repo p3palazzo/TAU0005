@@ -29,7 +29,7 @@ SLIDES := $(patsubst _aula/%.md,_site/slides/%/index.html,$(AULA))
 _site : $(SLIDES) \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
 	@docker run --rm -v "`pwd`:/srv/jekyll" \
-		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build"
+		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
 tau0005.pdf : plano.pdf cronograma.pdf \
 	trabalho-1-construcao.pdf trabalho-2-ordens.pdf trabalho-3-tipologia.pdf
@@ -80,7 +80,7 @@ serve : $(SLIDES) \
 	| _csl/chicago-fullnote-bibliography-with-ibid.csl
 	@docker run --rm -v "`pwd`:/srv/jekyll" \
 		-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
-		$(JEKYLL) jekyll serve
+		$(JEKYLL) jekyll serve --future
 
 .PHONY : clean
 clean :

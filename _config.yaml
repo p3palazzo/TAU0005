@@ -14,10 +14,6 @@ lang: pt-BR
 header_includes:
   - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
   - <link rel="stylesheet" href="https://use.fontawesome.com/9303e96850.css">
-include_before: |
-  <div class="site-title">
-    <img src="https://repository-images.githubusercontent.com/271059855/eef83080-aa80-11ea-9464-650e34bad83c" />
-  </div>
 
 # Collections
 collections:
@@ -76,7 +72,6 @@ exclude:
   - LICENSE
   - Makefile
   - README.md
-  - "default.*"
   - "*.fdb_latexmk"
   - "*.run.xml"
 keep_files:
