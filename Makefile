@@ -56,6 +56,15 @@ _csl/%.csl : | _csl
 	@cd _csl && git checkout master -- $(@F)
 	@echo "Checked out $(@F)."
 
+reveal.js :
+	@test -e $@ || \
+		git submodule add https://github.com/hakimel/reveal.js
+
+_site/reveal.js : | _site
+	@test -e $@ || cd _site && \
+		git submodule add https://github.com/hakimel/reveal.js
+	@cd $@ && git checkout master
+
 # {{{1 PHONY
 #      =====
 
@@ -68,7 +77,8 @@ _csl :
 
 .PHONY : serve
 serve : $(SLIDES) \
-	| _csl/chicago-fullnote-bibliography-with-ibid.csl
+	| _csl/chicago-fullnote-bibliography-with-ibid.csl \
+	_site/reveal.js
 	docker run --rm -v "`pwd`:/srv/jekyll" \
 		-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
 		$(JEKYLL) jekyll serve
@@ -77,5 +87,17 @@ serve : $(SLIDES) \
 clean :
 	-@rm -rf *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml \
 		tau0005-*.tex _csl
+
+.PHONY : submodule-update
+submodule-update : | _sass _spec assets/css-slides reveal.js _site/reveal.js
+	@echo 'Updating _sass...'
+	@cd _sass && git checkout master && git pull --ff-only
+	@echo 'Updating _spec...'
+	@cd _spec && git checkout master && git pull --ff-only
+	@echo 'Updating assets/css-slides...'
+	@cd assets/css-slides && git checkout master && git pull --ff-only
+	@echo 'Updating reveal.js...'
+	@cd reveal.js && git checkout master && git pull --ff-only
+	@cd _site/reveal.js && git checkout master && git pull --ff-only
 
 # vim: set foldmethod=marker shiftwidth=2 tabstop=2 :
