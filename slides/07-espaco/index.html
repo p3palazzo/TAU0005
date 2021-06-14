@@ -1,0 +1,308 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="generator" content="pandoc">
+  <meta name="author" content="Pedro P. Palazzo">
+  <title>Teoria do espaço bem-definido</title>
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+  <link rel="stylesheet" href="../../reveal.js/dist/reset.css">
+  <link rel="stylesheet" href="../../reveal.js/dist/reveal.css">
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    div.csl-bib-body { }
+    div.csl-entry {
+      clear: both;
+    }
+    .hanging div.csl-entry {
+      margin-left:2em;
+      text-indent:-2em;
+    }
+    div.csl-left-margin {
+      min-width:2em;
+      float:left;
+    }
+    div.csl-right-inline {
+      margin-left:2em;
+      padding-left:1em;
+    }
+    div.csl-indent {
+      margin-left: 2em;
+    }
+  </style>
+  <link rel="stylesheet" href="../../reveal.js/dist/theme/black.css" id="theme">
+  <link rel="stylesheet" href="../../assets/css-slides/revealjs.css"/>
+</head>
+<body>
+  <div class="reveal">
+    <div class="slides">
+
+<section id="title-slide">
+  <h1 class="title">Teoria do espaço bem-definido</h1>
+  <p class="author">Pedro P. Palazzo</p>
+</section>
+
+<section>
+<section id="construção-e-espacialidade" class="title-slide slide level1">
+<h1>Construção e espacialidade</h1>
+<p>Mais cedo, dissemos que arquitetura é construção.</p>
+</section>
+<section id="hegel" class="slide level2">
+<h2>Hegel</h2>
+<p>Arquitetura simbólica, clássica e romântica.</p>
+</section>
+<section id="section" class="slide level2" data-background-image="https://i.pinimg.com/originals/f5/6b/59/f56b591ac95201074fb40f52727110a2.jpg">
+<h2 data-background-image="https://i.pinimg.com/originals/f5/6b/59/f56b591ac95201074fb40f52727110a2.jpg"></h2>
+<figure>
+<img data-src="https://i.pinimg.com/originals/f5/6b/59/f56b591ac95201074fb40f52727110a2.jpg" id="fig:dendera-plan" alt="Templo de Hathor, Dendera, iniciado em 54 a.C. Desenho: Auguste Mariette" /><figcaption aria-hidden="true">Templo de Hathor, Dendera, iniciado em 54 a.C. Desenho: <a href="https://digitalcollections.nypl.org/items/510d47e2-9645-a3d9-e040-e00a18064a99">Auguste Mariette</a></figcaption>
+</figure>
+</section>
+<section id="section-1" class="slide level2" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ceiling_of_Temple_of_Hathor.JPG/1280px-Ceiling_of_Temple_of_Hathor.JPG">
+<h2 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ceiling_of_Temple_of_Hathor.JPG/1280px-Ceiling_of_Temple_of_Hathor.JPG"></h2>
+<figure>
+<img data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ceiling_of_Temple_of_Hathor.JPG/1280px-Ceiling_of_Temple_of_Hathor.JPG" id="fig:dendera-teto" class="fullwidth" alt="Teto esculpido e pintado no templo de Hathor, Dendera. Foto:Fig Wright, 2011" /><figcaption aria-hidden="true">Teto esculpido e pintado no templo de Hathor, Dendera. Foto:<a href="https://commons.wikimedia.org/wiki/File:Ceiling_of_Temple_of_Hathor.JPG">Fig Wright, 2011</a></figcaption>
+</figure>
+</section>
+<section id="section-2" class="slide level2" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG/1280px-Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG" data-background-position="bottom">
+<h2 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG/1280px-Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG" data-background-position="bottom"></h2>
+<figure>
+<img data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG/1280px-Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG" id="fig:paestum" alt="Templos de Hera em Paestum (Possidônia), séculos VI e V a.C. Foto: V. Alfano, 2012" /><figcaption aria-hidden="true">Templos de Hera em Paestum (Possidônia), séculos <span class="smallcaps">VI</span> e <span class="smallcaps">V</span> a.C. Foto: <a href="https://commons.wikimedia.org/wiki/File:Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG">V. Alfano, 2012</a></figcaption>
+</figure>
+</section>
+<section id="section-3" class="slide level2" data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg">
+<h2 data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg"></h2>
+<figure>
+<img data-src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg" id="fig:klenze-akro" class="fullwidth" alt="Leo von Klenze, Reconstituição da Acrópole de Atenas, 1846. Óleo sobre tela" /><figcaption aria-hidden="true">Leo von Klenze, Reconstituição da Acrópole de Atenas, 1846. Óleo sobre tela</figcaption>
+</figure>
+</section>
+<section id="section-4" class="slide level2" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg">
+<h2 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg"></h2>
+<figure>
+<img data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg" id="fig:amiens" alt="Robert de Luzarches, arquiteto, depois Thomas e Renaud de Cormont, chefes de canteiro. Nave da catedral de Amiens, 1220–1270. Foto: Zairon, 2018" /><figcaption aria-hidden="true">Robert de Luzarches, arquiteto, depois Thomas e Renaud de Cormont, chefes de canteiro. Nave da catedral de Amiens, 1220–1270. Foto: <a href="https://commons.wikimedia.org/wiki/File:Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg">Zairon, 2018</a></figcaption>
+</figure>
+</section>
+<section id="pevsner" class="slide level2">
+<h2>Pevsner</h2>
+<div>
+<ul>
+<li class="fragment">História da construção = história da técnica</li>
+<li class="fragment">História da função = história econômica</li>
+<li class="fragment">História do estilo = história da arquitetura</li>
+</ul>
+</div>
+</section>
+<section id="espaço-e-anti-espaço" class="slide level2">
+<h2>Espaço e anti-espaço</h2>
+<p>Espaço tradicional em oposição ao anti-espaço modernista <span class="citation" data-cites="peterson:2020space">(Peterson and Littenberg 2020)</span>.</p>
+</section>
+<section id="section-5" class="slide level2" data-background-image="https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png" data-background-size="contain">
+<h2 data-background-image="https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png" data-background-size="contain"></h2>
+<figure>
+<img data-src="https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png" id="fig:on-cn" class="fullwidth line nobg" alt="Oscar Niemeyer e Departamento de Arquitetura da Novacap, segundo anteprojeto para o andar nobre do Congresso Nacional, Brasília, 1957. Documentado por Elcio Gomes da Silva e José Manoel Morales Sánchez, 2009" /><figcaption aria-hidden="true">Oscar Niemeyer e Departamento de Arquitetura da Novacap, segundo anteprojeto para o andar nobre do Congresso Nacional, Brasília, 1957. Documentado por <a href="https://mdc.arq.br/2009/03/09/congresso-nacional-da-documentacao-tecnica-a-obra-construida/">Elcio Gomes da Silva e José Manoel Morales Sánchez, 2009</a></figcaption>
+</figure>
+</section>
+<section id="section-6" class="slide level2" data-background-image="https://i.pinimg.com/originals/f0/e2/fd/f0e2fda773ec7a55f7cb009abc8868d9.jpg">
+<h2 data-background-image="https://i.pinimg.com/originals/f0/e2/fd/f0e2fda773ec7a55f7cb009abc8868d9.jpg"></h2>
+<figure>
+<img data-src="https://i.pinimg.com/originals/f0/e2/fd/f0e2fda773ec7a55f7cb009abc8868d9.jpg" id="fig:salao-verde" alt="Oscar Niemeyer e Departamento de Arquitetura da Novacap, salão Verde do Congresso Nacional, Brasília, 1957–1960. Foto: Brasília na Trilha, 2015" /><figcaption aria-hidden="true">Oscar Niemeyer e Departamento de Arquitetura da Novacap, salão Verde do Congresso Nacional, Brasília, 1957–1960. Foto: <a href="http://www.brasilianatrilha.com.br/2015/12/congresso-nacional.html">Brasília na Trilha, 2015</a></figcaption>
+</figure>
+</section>
+<section id="section-7" class="slide level2" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif/lossy-page1-1280px-Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif.jpg">
+<h2 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif/lossy-page1-1280px-Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif.jpg"></h2>
+<figure>
+<img data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif/lossy-page1-1280px-Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif.jpg" id="fig:monroe-plan" alt="Francisco Marcelino de Souza Aguiar, engenheiro, palácio Monroe, Rio de Janeiro, 1906. Planta do 1.º pavimento levantada em 1924" /><figcaption aria-hidden="true">Francisco Marcelino de Souza Aguiar, engenheiro, palácio Monroe, Rio de Janeiro, 1906. <a href="https://commons.wikimedia.org/wiki/File:Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif">Planta do 1.º pavimento levantada em 1924</a></figcaption>
+</figure>
+</section>
+<section id="section-8" class="slide level2" data-background-image="https://i.pinimg.com/originals/4b/1a/7f/4b1a7fce1348fa77c0a380fdd33196f3.jpg">
+<h2 data-background-image="https://i.pinimg.com/originals/4b/1a/7f/4b1a7fce1348fa77c0a380fdd33196f3.jpg"></h2>
+<figure>
+<img data-src="https://i.pinimg.com/originals/4b/1a/7f/4b1a7fce1348fa77c0a380fdd33196f3.jpg" id="fig:thdio-plan" alt="Termas de Diocleciano, Roma, 298–306 d.C. Planta: Edmond Paulin, 1890" /><figcaption aria-hidden="true">Termas de Diocleciano, Roma, 298–306 d.C. Planta: <a href="https://digi.ub.uni-heidelberg.de/diglit/paulin1890/0039">Edmond Paulin, 1890</a></figcaption>
+</figure>
+</section>
+<section id="section-9" class="slide level2" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg">
+<h2 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg"></h2>
+<figure>
+<img data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg" id="fig:angeli" class="fullwidth" alt="Miguel Ângelo Buonarroti, arquiteto, Santa Maria degli Angeli e Martiri, Roma, 1562, implantada no tepidário das termas de Diocleciano. Foto: Pedro P. Palazzo, 2015" /><figcaption aria-hidden="true">Miguel Ângelo Buonarroti, arquiteto, Santa Maria degli Angeli e Martiri, Roma, 1562, implantada no tepidário das termas de Diocleciano. Foto: <a href="https://commons.wikimedia.org/wiki/File:IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg">Pedro P. Palazzo, 2015</a></figcaption>
+</figure>
+</section>
+<section id="section-10" class="slide level2" data-background-image="https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg" data-background-size="contain">
+<h2 data-background-image="https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg" data-background-size="contain"></h2>
+<figure>
+<img data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SantIvo_Drawing_04.jpg/664px-SantIvo_Drawing_04.jpg" id="fig:sapienza-sec" class="marginnote" alt="Sant’Ivo alla Sapienza, corte transversal por Dominique Barrière, c. 1695" /><figcaption aria-hidden="true">Sant’Ivo alla Sapienza, corte transversal por <a href="https://commons.wikimedia.org/wiki/File:SantIvo_Drawing_04.jpg">Dominique Barrière, c. 1695</a></figcaption>
+</figure>
+<figure>
+<img data-src="https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg" id="fig:sapienza-plan" alt="Francesso Borromini, Sant’Ivo alla Sapienza, 1642–1660. Planta por Dominique Barrière, 1720" /><figcaption aria-hidden="true">Francesso Borromini, Sant’Ivo alla Sapienza, 1642–1660. Planta por <a href="https://archive.org/details/gri_33125012765174/page/n11/mode/2up">Dominique Barrière, 1720</a></figcaption>
+</figure>
+</section></section>
+<section>
+<section id="section-11" class="title-slide slide level1 unlisted">
+<h1 class="unlisted"></h1>
+
+</section>
+<section id="section-12" class="slide level2" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SantIvo_Drawing_04.jpg/664px-SantIvo_Drawing_04.jpg" data-background-size="contain">
+<h2 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SantIvo_Drawing_04.jpg/664px-SantIvo_Drawing_04.jpg" data-background-size="contain"></h2>
+</section>
+<section id="section-13" class="slide level2" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg" data-background-position="bottom">
+<h2 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg" data-background-position="bottom"></h2>
+<figure>
+<img data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg" id="fig:sapienza-cortile" class="fullwidth" alt="Pátio em frente a Sant’Ivo della Sapienza. Foto: Vlad Lesnov, 2010" /><figcaption aria-hidden="true">Pátio em frente a Sant’Ivo della Sapienza. Foto: <a href="https://commons.wikimedia.org/wiki/File:Archivio_di_stato_di_Roma_-_panoramio.jpg">Vlad Lesnov, 2010</a></figcaption>
+</figure>
+</section></section>
+<section>
+<section id="articulação-arquitetônica-do-espaço" class="title-slide slide level1">
+<h1>Articulação arquitetônica do espaço</h1>
+
+</section>
+<section id="formas-básicas-de-construções" class="slide level2">
+<h2>Formas básicas de construções</h2>
+</section>
+<section id="section-14" class="slide level2 unlisted">
+<h2 class="unlisted"></h2>
+<div id="fig:rkrier-56-57" class="subfigures columns">
+<div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/89/b4/56/89b456c0021b5b85c3a6acd0fb766ee0.png" title="fig:" id="fig:rkrier-56" class="stretch" alt="a — Formas arquitetônicas primárias: adaptações do quadrado, triângulo e círculo, exemplos teóricos de tipos edilícios primários, p. 56" />
+</div><div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/43/d7/4d/43d74d3154cd364b8ce2be5061834574.png" title="fig:" id="fig:rkrier-57" class="stretch" alt="b — Exemplos históricos dos tipos arquitetônicos básicos, p. 57" />
+</div>
+</div>
+</section>
+<section id="section-15" class="slide level2 unlisted">
+<h2 class="unlisted"></h2>
+<div id="fig:rkrier-58-59" class="subfigures columns">
+<div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/08/24/97/0824974c5024e4858e37dee24382b334.png" title="fig:" id="fig:rkrier-58" class="stretch" alt="a — Casos teóricos de deformação dos tipos primários, p. 58" />
+</div><div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/db/76/20/db76200ee6592c6a826f790c7c47aa9d.png" title="fig:" id="fig:rkrier-59" class="stretch" alt="b — Exemplos históricos de edifícios baseados em geometrias deformadas, p. 59" />
+</div>
+</div>
+</section>
+<section id="section-16" class="slide level2 unlisted">
+<h2 class="unlisted"></h2>
+<div id="fig:rkrier-60-61" class="subfigures columns">
+<div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/01/63/06/016306bdedc16f5ea0483296a774e04a.png" title="fig:" id="fig:rkrier-60" class="stretch" alt="a — Exemplos teóricos de divisão e ruptura em espaços edificados, p. 60" />
+</div><div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/da/47/13/da47134a44bda76a2d0222c092f89c7f.png" title="fig:" id="fig:rkrier-61" class="stretch" alt="b — Exemplos históricos de edifícios desconexos, p. 61" />
+</div>
+</div>
+</section>
+<section id="section-17" class="slide level2" data-background-image="https://i.pinimg.com/originals/cf/89/f3/cf89f31152c629f76ac44f824c91a30e.png" data-background-size="contain">
+<h2 data-background-image="https://i.pinimg.com/originals/cf/89/f3/cf89f31152c629f76ac44f824c91a30e.png" data-background-size="contain"></h2>
+<figure>
+<img data-src="https://i.pinimg.com/originals/cf/89/f3/cf89f31152c629f76ac44f824c91a30e.png" id="fig:rkrier-62" alt="Rob Krier, Architectural composition, 1988. Exemplos teóricos de fragmentos geométricos, p. 62" /><figcaption aria-hidden="true">Rob Krier, <em>Architectural composition</em>, 1988. Exemplos teóricos de fragmentos geométricos, p. 62</figcaption>
+</figure>
+</section>
+<section id="section-18" class="slide level2 unlisted">
+<h2 class="unlisted"></h2>
+<div id="fig:rkrier-63-65" class="subfigures columns">
+<div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/4c/a3/22/4ca3226e5e386d2c04d9167bc3939e56.png" title="fig:" id="fig:rkrier-63" class="stretch" alt="a — Exemplos teóricos de composições aditivas, p. 63" />
+</div><div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/5a/c5/03/5ac503040b587365b90edb2136815044.png" title="fig:" id="fig:rkrier-65" class="stretch" alt="b — Exemplos históricos de edifícios aditivos, p. 65" />
+</div>
+</div>
+</section>
+<section id="section-19" class="slide level2 unlisted">
+<h2 class="unlisted"></h2>
+<div id="fig:rkrier-66-67" class="subfigures columns">
+<div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/95/53/7d/95537d2224cb8e5bde10764b115fc71c.png" title="fig:" id="fig:rkrier-66" class="stretch" alt="a — Exemplos teóricos de composições intersecantes, p. 66" />
+</div><div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/ff/18/8c/ff188c7f385582b9e824ec100687cdb7.png" title="fig:" id="fig:rkrier-67" class="stretch" alt="b — Exemplos históricos de edifícios compostos de interseções de elementos, p. 67" />
+</div>
+</div>
+</section>
+<section id="formas-básicas-de-espaços" class="slide level2">
+<h2>Formas básicas de espaços</h2>
+</section>
+<section id="section-20" class="slide level2 unlisted">
+<h2 class="unlisted"></h2>
+<div id="fig:rkrier-73-75" class="subfigures columns">
+<div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/12/81/4d/12814d7a9e8a5523156d1f5104c10c07.png" title="fig:" id="fig:rkrier-73" class="stretch" alt="a — Espaços interiores quadrados, p. 73" />
+</div><div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/ac/02/b9/ac02b94ebf789e688db191d96b797a7d.png" title="fig:" id="fig:rkrier-75" class="stretch" alt="b — Espaços interiores octogonais, cruciformes e circulares, p. 75" />
+</div>
+</div>
+</section>
+<section id="section-21" class="slide level2 unlisted">
+<h2 class="unlisted"></h2>
+<div id="fig:rkrier-74-76" class="subfigures columns">
+<div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/fd/62/7f/fd627fccd6423a7ee75ce99abf7a016c.png" title="fig:" id="fig:rkrier-74" class="stretch" alt="a — Geometrias distorcidas, sequências rítmicas e espaços retangulares, p. 74" />
+</div><div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/87/21/e1/8721e1c5b3645744ad8a959566679f85.png" title="fig:" id="fig:rkrier-76" class="stretch" alt="b — Sobreposição de formas básicas, p. 76" />
+</div>
+</div>
+</section>
+<section id="section-22" class="slide level2 unlisted">
+<h2 class="unlisted"></h2>
+<div id="fig:rkrier-78-77" class="subfigures columns">
+<div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/73/9d/2d/739d2d3721251eff590c7c2039cf4bb3.png" title="fig:" id="fig:rkrier-78" class="stretch" alt="a — Espaços triangulares e formas especiais, p. 78" />
+</div><div class="column" style="width:50%;">
+<img data-src="https://i.pinimg.com/originals/b9/a4/82/b9a482abdcdac5799bb4fd70ce9b3c0e.png" title="fig:" id="fig:rkrier-77" class="stretch" alt="b — Aplicações práticas de espaços aditivos e intersecantes, p. 77" />
+</div>
+</div>
+</section>
+<section class="slide level2">
+
+<p>Siheyuan (pátio entre 4 alas) e gong (salão central, corredor perimetral e passarela coberta de ligação): Zhou em diante</p>
+</section></section>
+<section id="caráter-e-decoro" class="title-slide slide level1 unnumbered">
+<h1 class="unnumbered">Caráter e decoro</h1>
+<div id="refs" class="references csl-bib-body hanging-indent" role="doc-bibliography">
+<div id="ref-peterson:2020space" class="csl-entry" role="doc-biblioentry">
+Peterson, Steven, and Barbara Littenberg. 2020. <em>Space &amp; Anti-Space: The Fabric of Place, City and Architecture</em>. <span>Novato, Cal.</span>: <span>ORO</span>.
+</div>
+</div>
+</section>
+    </div>
+  </div>
+
+  <script src="../../reveal.js/dist/reveal.js"></script>
+
+  <!-- reveal.js plugins -->
+  <script src="../../reveal.js/plugin/notes/notes.js"></script>
+  <script src="../../reveal.js/plugin/search/search.js"></script>
+  <script src="../../reveal.js/plugin/zoom/zoom.js"></script>
+
+  <script>
+
+      // Full list of configuration options available at:
+      // https://revealjs.com/config/
+      Reveal.initialize({
+      
+        // Display controls in the bottom right corner
+        controls: 0,
+        // Display a presentation progress bar
+        progress: 0,
+        // Add the current slide number to the URL hash so that reloading the
+        // page/copying the URL will return you to the same slide
+        hash: true,
+        // Start with 1 for the hash rather than 0
+        hashOneBasedIndex: true,
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1920,
+        height: 1080,
+
+        // reveal.js plugins
+        plugins: [
+          RevealNotes,
+          RevealSearch,
+          RevealZoom
+        ]
+      });
+    </script>
+    </body>
+</html>
