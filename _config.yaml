@@ -72,7 +72,6 @@ exclude:
   - LICENSE
   - Makefile
   - README.md
-  - "default.*"
   - "*.fdb_latexmk"
   - "*.run.xml"
 keep_files:
