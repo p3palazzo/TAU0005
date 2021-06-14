@@ -76,11 +76,9 @@ exclude:
   - LICENSE
   - Makefile
   - README.md
-  - reveal.js
   - "default.*"
   - "*.fdb_latexmk"
   - "*.run.xml"
 keep_files:
   - .git
   - slides
-  - reveal.js
