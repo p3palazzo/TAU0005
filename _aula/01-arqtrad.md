@@ -4,10 +4,10 @@ subtitle: "Arquitetura tradicional"
 author  : "Pedro P. Palazzo"
 date    : 2021-07-20
 abstract: |
-  História e arquitetura tradicional
-  – O que é construção tradicional
-  – Sistemas arquitravados e a cabana primitiva
-  – Sistemas murários–arqueados e a criação do espaço
+  História ou arquitetura tradicional
+  – Continuidade e ruptura
+  – Arquitetura é construção
+  – Construção tradicional e construção moderna
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg/1280px-Thomas_Cole\_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg
 ---
@@ -17,7 +17,7 @@ title-slide-attributes:
 ](https://artsandculture.google.com/story/thomas-cole-the-architect-s-dream/ggKi4X2yPzzOKw)
 ](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg/1280px-Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg){#fig:cole-dream .fullwidth}
 
-# História e arquitetura #
+# História ou arquitetura #
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6c/Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg"}
 
@@ -299,7 +299,7 @@ espaços, tipologia edilícia e urbanização.
 1946--1952
 ](https://i.pinimg.com/originals/f2/25/06/f2250659750b854e374c9dbb76c7c6f0.jpg){#fig:gourna-row .fullwidth}
 
-# O que é arquitetura tradicional #
+# Continuidade e ruptura #
 
 ## {data-background-image="https://i.pinimg.com/originals/83/f4/9a/83f49ab46c229567faa8b1791a1e1b72.jpg"}
 
@@ -1033,7 +1033,7 @@ construção, espacialidade e plástica, onde a construção é a base dos
 outros dois princípios. Na continuação, vamos detalhar o que é
 construção tradicional e como ela é diferente da construção moderna.
 
-# O que é construção tradicional #
+# Construção tradicional e construção moderna #
 
 ## {data-background-image="https://live.staticflickr.com/1785/41502875850_8726dee05f_k_d.jpg"}
 
@@ -1718,9 +1718,6 @@ mais tem sido desconsiderar a construção, ou pelo menos tratar a
 arquitetura como se ela fosse uma ocupação intelectual abstrata,
 totalmente separada do processo construtivo.
 
-Enquadramento disciplinar da História da Arquitetura
-====================================================
-
 Estágios da história da cidade
 ------------------------------
 
@@ -1733,19 +1730,5 @@ Estágios da história da cidade
 . . .
 
 - Cidade como commodity (investimento)
-
-Recursos complementares {.unlisted }
-=======================
-
-## {data-background-iframe="https://www.youtube-nocookie.com/embed/YQZGHr9qJoQ"}
-
-Arquitetura comparada
----------------------
-
-Fletcher, Bannister. A History of Architecture on the Comparative Method
-for the Student, Craftsman, and Amateur. London : New York: Batsford :
-Scribner’s sons, 1905.
-<a href="http://archive.org/details/historyofarchite00flet"
-target="_blank"> http://archive.org/details/historyofarchite00flet </a>
 
 -->
