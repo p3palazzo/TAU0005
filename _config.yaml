@@ -20,6 +20,9 @@ collections:
   aula:
     output: true
     permalink: /:collection/:name/
+  trab:
+    output: true
+    permalink: /:collection/:name/
 
 defaults:
   -
@@ -35,16 +38,12 @@ theme: tufte-pandoc-jekyll
 markdown: Pandoc
 pandoc:
   extensions:
-    - defaults    : "_spec/html.yaml"
+    - defaults: "_spec/html.yaml"
     - section-divs
-permalink         : pretty
-readme_index:
-  enabled         : true
-  remove_originals: true
-  with_frontmatter: true
+permalink: pretty
 relative_links:
-  enabled         : true
-  collections     : true
+  enabled: true
+  collections: true
 sass_dir:
   load_paths:
     - _sass

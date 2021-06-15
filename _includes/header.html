@@ -9,8 +9,15 @@
         {%- if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif -%}
       </span></span>
     </p>
-    {%if page.abstract %}
-      <div class="epigraph"><blockquote>{{ page.abstract }}</blockquote></div>
-    {% endif -%}
+      <div class="epigraph">
+        <blockquote>
+        {%- if page.abstract %}
+          {{ page.abstract }}
+        {% endif -%}
+        {%- if page.layout == 'index' -%}
+          {{ site.description }}
+        {% endif -%}
+        </blockquote>
+      </div>
   </header>
 {% endif %}
