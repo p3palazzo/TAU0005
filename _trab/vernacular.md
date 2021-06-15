@@ -1,7 +1,7 @@
 ---
-title   : "Edículas vernáculas"
-subtitle: "Trabalho I"
-bibliography: "bibio.bib"
+title: "Edículas vernáculas"
+subtitle: "Atividade I"
+author: "Pedro P. Palazzo"
 ---
 
 # Ementa #

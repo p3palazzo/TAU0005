@@ -11,12 +11,14 @@
     </p>
       <div class="epigraph">
         <blockquote>
-        {%- if page.abstract %}
-          {{ page.abstract }}
-        {% endif -%}
-        {%- if page.layout == 'index' -%}
-          {{ site.description }}
-        {% endif -%}
+          <p>
+          {%- if page.abstract %}
+            {{ page.abstract }}
+          {% endif -%}
+          {%- if page.layout == 'index' -%}
+            {{ site.description }}
+          {% endif -%}
+          </p>
         </blockquote>
       </div>
   </header>
