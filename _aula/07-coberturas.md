@@ -1,11 +1,13 @@
 ---
-title   : "China e o Leste da Ásia"
+title   : "Coberturas e superfícies"
+subtitle: "Firmitas V"
 author  : "Pedro P. Palazzo"
+date    : 2021-08-31
 abstract: |
   Estilo, construção e cultura
-  – O sistema estrutural chinês enquanto "ordem"
-  – Regras suntuárias e ritual
-  – Construção tradicional e meio ambiente
+  — Coberturas complexas
+  — Molduras, vedações e aberturas
+  — Revestimentos
 ---
 
 # Estilo, construção e cultura #
@@ -439,4 +441,9 @@ e/ou
   do dia.
 
 ## Próximo tópico: espaço ##
+
+
+# Modenatura e variações #
+
+# Referências {.allowframebreaks}
 
