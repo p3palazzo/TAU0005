@@ -60,11 +60,6 @@ reveal.js :
 	@test -e $@ || \
 		git submodule add https://github.com/hakimel/reveal.js
 
-_site/reveal.js : | _site
-	@test -e $@ || cd _site && \
-		git submodule add https://github.com/hakimel/reveal.js
-	@cd $@ && git checkout master
-
 # {{{1 PHONY
 #      =====
 
@@ -95,7 +90,5 @@ submodule-update : | _sass _spec assets/css-slides reveal.js
 	@cd _spec && git checkout master && git pull --ff-only
 	@echo 'Updating assets/css-slides...'
 	@cd assets/css-slides && git checkout master && git pull --ff-only
-	@echo 'Updating reveal.js...'
-	@cd reveal.js && git checkout master && git pull --ff-only
 
 # vim: set foldmethod=marker shiftwidth=2 tabstop=2 :
