@@ -1,8 +1,6 @@
 ---
 title: "Por que estudar história da arquitetura"
-author: "Pedro P. Palazzo"
 date: 2021-07-20
-layout: page
 ---
 
 Por que estudar arquitetura tradicional em pleno século

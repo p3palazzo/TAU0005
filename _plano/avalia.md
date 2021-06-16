@@ -1,8 +1,6 @@
 ---
 title: "Avaliação"
-author: "Pedro P. Palazzo"
 date: 2021-07-20
-layout: page
 ---
 
 # Critérios de aprovação na disciplina #
@@ -193,5 +191,5 @@ atendimento aos requisitos do trabalho e nível de detalhamento
 condizente com as escalas indicadas.
 
 
-[Aprender 3]: https://aprender3.unb.br
+[Aprender 3]: https://aprender3.unb.br/course/view.php?id=8552
 

@@ -1,8 +1,6 @@
 ---
 title: "O que você vai aprender"
-author: "Pedro P. Palazzo"
-date: 2021-07-18
-layout: page
+date: 2021-07-20
 ---
 
 O objetivo da disciplina é conferir um domínio operativo da arquitetura
@@ -11,8 +9,13 @@ ferramentas de análise e produção sustentável e resiliente do
 ambiente construído. Este propósito se desdobra em três aspectos que
 correspondem a cada uma das unidades do [Programa](../index.md):
 
-[Atividade de nivelamento](_trab/rodape.md) <!--_,-->
-~ Rodapé (10 pontos)
+Introdução à disciplina
+
+~ *Dominar algumas convenções fundamentais da arquitetura tradicional e
+  da sua representação gráfica.*
+
+[Atividade](_trab/rodape.md) <!--_,-->
+~ Analítico (10 pontos)
 
 I.  Elementos da construção
 
@@ -30,7 +33,7 @@ II. Elementos de composição
       dar forma e caráter a esses espaços.
 
 [Atividade](_trab/quincunx.md) <!--_,-->
-~ Composição com espaços (30 pontos)
+~ Composição com volumes (30 pontos)
 
 III. Fazer arquitetura
 
@@ -40,5 +43,5 @@ III. Fazer arquitetura
        construtiva (disposição, proporções, modenatura).
 
 [Atividade](_trab/analitico.md) <!--_,-->
-~ Analítico (30 pontos)
+~ Analítico com ordens clássicas (30 pontos)
 

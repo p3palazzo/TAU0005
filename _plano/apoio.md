@@ -1,8 +1,6 @@
 ---
 title: "Apoio ao aluno"
-author: "Pedro P. Palazzo"
 date: 2021-07-20
-layout: page
 ---
 
 O conteúdo e as atividades da disciplina estão disponíveis no ambiente
@@ -39,6 +37,8 @@ semana, mas o que vamos contar é o número de *semanas* em que você
 comentou!
 
 
-[Aprender 3]: https://aprender3.unb.br
+[Aprender 3]: https://aprender3.unb.br/course/view.php?id=8552
 
 [[BCE]{.smallcaps}]: https://bce.unb.br
+
+[Microsoft Teams]: https://teams.microsoft.com/l/team/19%3aUsJdAp730q1MDQwmuqPX1xrVCzihj-ZgM2WnodRSnmw1%40thread.tacv2/conversations?groupId=d022e11c-3e61-4d38-a5e3-e4e1e8590e32&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059
