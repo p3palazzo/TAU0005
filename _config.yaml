@@ -13,7 +13,16 @@ lang: pt-BR
 # Content
 header_includes:
   - <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
-  - <link rel="stylesheet" href="https://use.fontawesome.com/9303e96850.css">
+  - <script src="https://kit.fontawesome.com/eddf3d9a63.js" crossorigin="anonymous"></script>
+include_before: |
+  <nav id="main-nav">
+    <a class="icons" href="/tau0005/" title="Programa"><i class="far fa-calendar-alt fa-2x" title="Programa"></i></a>
+    <a class="icons" href="/tau0005/plano/bibliografia/" title="Bibliografia"><i class="fas fa-book fa-2x" title="Bibliografia"></i></a>
+    <a class="icons" href="/tau0005/plano/avalia/" title="Avaliação"><i class="fas fa-pencil-alt fa-2x" title="Avaliação"></i></a>
+    <a class="icons" href="/tau0005/plano/apoio/" title="Apoio"><i class="fas fa-hands fa-2x" title="Apoio"></i></a>
+    <a class="icons" href="https://teams.microsoft.com/l/team/19%3aUsJdAp730q1MDQwmuqPX1xrVCzihj-ZgM2WnodRSnmw1%40thread.tacv2/conversations?groupId=d022e11c-3e61-4d38-a5e3-e4e1e8590e32&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059" title="Microsoft Teams"><i class="fab fa-microsoft fa-2x" title="Microsoft Teams"></i></a>
+    <a class="icons" href="https://aprender3.unb.br/course/view.php?id=8552" title="Moodle (Aprender 3)"><i class="ai ai-moodle ai-2x" title="Moodle (Aprender 3)"></i></a>
+  </nav>
 
 # Collections
 collections:
