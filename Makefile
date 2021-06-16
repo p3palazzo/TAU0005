@@ -5,7 +5,7 @@ VPATH = .:assets
 vpath %.bib _bibliography
 vpath %.csl _csl
 vpath %.html .:_includes:_layouts:_site
-vpath %.scss _sass:assets/css
+vpath %.scss _sass:assets/css:assets/css-slides
 vpath %.xml _site
 vpath %.yaml .:_spec
 
@@ -19,7 +19,7 @@ PANDOC/LATEX    := docker run --rm -v "`pwd`:/data" \
 JEKYLL := palazzo/jekyll-tufte:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
 
 ASSETS  = $(wildcard assets/*)
-SASS    = $(wildcard assets/css/*.scss) $(wildcard assets/css-slides/*.scss) $(wildcard _sass/*.scss)
+SASS    = assets/css-slides/revealjs.scss _sass/_settings.scss reveal.js/.git
 AULA    = $(wildcard _aula/*.md)
 SLIDES := $(patsubst _aula/%.md,_site/slides/%/index.html,$(AULA))
 
