@@ -1,19 +1,20 @@
 ---
 title: "Programa"
-author: "Pedro P. Palazzo"
+subtitle: "Turma C · primeiro semestre de 2021"
+author: "Professores: Pedro P. Palazzo e Irina Oliveira · Monitor: a definir"
 layout: index
 include_before: |
   <img src="https://repository-images.githubusercontent.com/271059855/eef83080-aa80-11ea-9464-650e34bad83c" alt="História da Arquitetura e da Arte I" title="História da Arquitetura e da Arte I" />
 ---
 
-# Antes de começarmos #
+# Antes de começar #
 
 1. [Por que estudar história da arquitetura ?](_plano/por-que-historia.md) <!--_,-->
 2. [Como estudamos história na FAU–UnB ?](_plano/sobre-disciplina.md) <!--_,-->
 3. [O que você vai aprender nesta disciplina ?](_plano/objetivos.md) <!--_,-->
 4. [Como vamos trabalhar ?](_plano/metodologia.md) <!--_,-->
 7. [O que você precisa ler ?](_plano/bibliografia.md) <!--_,-->
-6. [Como você será avaliado ?](_plano/avalia.md) <!--_,-->
+6. [Como vamos avaliar o seu aproveitamento ?](_plano/avalia.md) <!--_,-->
 5. [Precisa de ajuda ?](_plano/apoio.md) <!--_,-->
 
 # Introdução #
@@ -36,8 +37,8 @@ II. [Processos da arquitetura](_aula/02-processos.md)
       — Representação
       — Mito da cabana primitiva
 
-[Atividade](_trab/rodape.md) <!--_,-->
-~ Rodapé (10 pontos)
+[Atividade de nivelamento](_trab/rodape.md) <!--_,-->
+~ Analítico (10 pontos)
 
 # Elementos da construção #
 
@@ -113,7 +114,7 @@ XI. [Comunidade](_aula/11-comunidade.md)
       — Universalidade dos processos urbanísticos
 
 [Atividade](_trab/quincunx.md) <!--_,-->
-~ Composição com espaços (30 pontos)
+~ Composição com volumes (30 pontos)
 
 # Fazer arquitetura #
 
@@ -151,7 +152,7 @@ XV.  [Caracterizar](_aula/15-caracterizar.md)
    -->
 
 [Atividade](_trab/analitico.md) <!--_,-->
-~ Analítico (30 pontos)
+~ Analítico com ordens clássicas (30 pontos)
 
 
 [^1]: {-} 20/07
