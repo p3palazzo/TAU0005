@@ -4,11 +4,13 @@
     {% if page.subtitle -%}
       <p class="subtitle">{{ page.subtitle }}</p>
     {%- endif %}
-    <p class="byline"><span itemprop="author" itemscope itemtype="http://schema.org/Person">
+    {%- if page.author %}
+    <p class="author"><span itemprop="author" itemscope itemtype="http://schema.org/Person">
       <span class="p-author h-card" itemprop="name">
-        {%- if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif -%}
+        {{ page.author }}
       </span></span>
     </p>
+    {% endif -%}
       <div class="epigraph">
         <blockquote>
           <p>
