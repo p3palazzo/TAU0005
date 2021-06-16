@@ -23,13 +23,25 @@ collections:
   plano:
     output: true
     permalink: /:collection/:name/
+    order:
+      - por-que-historia.md
+      - sobre-disciplina.md
+      - objetivos.md
+      - metodologia.md
+      - apoio.md
+      - avalia.md
+      - bibliografia.md
   trab:
     output: true
     permalink: /:collection/:name/
+    order:
+      - processo.md
+      - vernacular.md
+      - quincunx.md
+      - analitico.md
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
     values:
       layout: page
@@ -55,7 +67,12 @@ sass_dir:
     - assets/css
     - assets/css-slides
     - reveal.js/css/theme/template
-timezone          : America/Sao_Paulo
+scholar:
+  locale: pt-BR
+  sort_by: author,year
+  order: ascending,descending
+  style: "chicago-fullnote-bibliography-with-ibid"
+timezone: America/Sao_Paulo
 
 # Plugins
 plugins:

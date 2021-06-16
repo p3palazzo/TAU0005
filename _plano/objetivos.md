@@ -2,6 +2,7 @@
 title: "Objetivos de aprendizagem"
 author: "Pedro P. Palazzo"
 date: 2021-07-18
+layout: page
 ---
 
 O objetivo da disciplina é conferir um domínio operativo da arquitetura

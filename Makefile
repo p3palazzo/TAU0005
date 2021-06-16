@@ -41,7 +41,7 @@ _site/slides/%/index.html : _aula/%.md revealjs.yaml revealjs-crossref.yaml \
 	| _csl/chicago-author-date.csl
 	@-mkdir -p $(@D)
 	@$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
-	@echo $(@D)
+	@echo $(@D)/
 
 %.pdf : %.tex references.bib
 	@docker run --rm -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \

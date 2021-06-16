@@ -2,6 +2,7 @@
 title: "Sobre a disciplina"
 author: "Pedro P. Palazzo"
 date: 2021-07-19
+layout: page
 ---
 
 [TAU 0005]{.smallcaps} é a segunda disciplina na cadeia de Teoria e

@@ -9,6 +9,10 @@ include_before: |
 - [Por que estudar história da arquitetura?](_plano/por-que-historia.md)
 - [Sobre a disciplina](_plano/sobre-disciplina.md)
 - [Objetivos de aprendizagem](_plano/objetivos.md)
+- [Metodologia e atividades didáticas](_plano/metodologia.md)
+- [Apoio ao aluno](_plano/apoio.md)
+- [Avaliação](_plano/avalia.md)
+- [Bibliografia](_plano/bibliografia.md)
 
 # Introdução #
 

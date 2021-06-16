@@ -2,6 +2,7 @@
 title: "Por que estudar história da arquitetura"
 author: "Pedro P. Palazzo"
 date: 2021-07-20
+layout: page
 ---
 
 Por que estudar arquitetura tradicional em pleno século
@@ -63,9 +64,9 @@ Cada uma dessas três crises mostra um problema com o paradigma dominante
 da arquitetura contemporânea. São esses três problemas que aproximam o
 conteúdo crítico na disciplina de [TAU 0005]{.smallcaps} dos desafios
 contemporâneos da arquitetura. Cada crise é a motivação para um dos
-nossos [objetivos de aprendizagem](2021-07-18-objetivos.md). Esses
-objetivos resgatam lições da arquitetura tradicional para alcançar um
-processo produtivo verdadeiramente sustentável da construção, a
-organização de espaços e ambientes resilientes, e a articulação de
-experiências culturalmente significativas.
+nossos [objetivos de aprendizagem](objetivos.md). Esses objetivos
+resgatam lições da arquitetura tradicional para alcançar um processo
+produtivo verdadeiramente sustentável da construção, a organização de
+espaços e ambientes resilientes, e a articulação de experiências
+culturalmente significativas.
 
