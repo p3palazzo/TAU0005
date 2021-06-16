@@ -1,10 +1,8 @@
 ---
-title: "Programa"
-subtitle: "TAU 0005 Turma C · primeiro semestre de 2021"
+title: "História da Arquitetura e da Arte I"
+subtitle: "TAU 0005 turma C primeiro semestre letivo de 2021"
 author: "Professores: Pedro P. Palazzo e Irina Oliveira <br /> Monitor: a definir"
 layout: index
-include_before: |
-  <img src="https://repository-images.githubusercontent.com/271059855/eef83080-aa80-11ea-9464-650e34bad83c" alt="História da Arquitetura e da Arte I" title="História da Arquitetura e da Arte I" />
 ---
 
 # Antes de começar #
@@ -38,7 +36,7 @@ II. [Processos da arquitetura](_aula/02-processos.md)
       — Mito da cabana primitiva
 
 [Atividade de nivelamento](_trab/rodape.md) <!--_,-->
-~ Analítico (10 pontos)
+~ [^a1] Analítico (10 pontos)
 
 # Elementos da construção #
 
@@ -78,7 +76,7 @@ VII. [Coberturas e superfícies](_aula/07-coberturas.md)
        — Revestimentos
 
 [Atividade](_trab/vernacular.md) <!--_,-->
-~ Edícula vernácula (30 pontos)
+~ [^a2] Edícula vernácula (30 pontos)
 
 # Elementos de composição #
 
@@ -114,7 +112,7 @@ XI. [Comunidade](_aula/11-comunidade.md)
       — Universalidade dos processos urbanísticos
 
 [Atividade](_trab/quincunx.md) <!--_,-->
-~ Composição com volumes (30 pontos)
+~ [^a3] Composição com volumes (30 pontos)
 
 # Fazer arquitetura #
 
@@ -152,12 +150,15 @@ XV.  [Caracterizar](_aula/15-caracterizar.md)
    -->
 
 [Atividade](_trab/analitico.md) <!--_,-->
-~ Analítico com ordens clássicas (30 pontos)
+~ [^a4] Analítico com ordens clássicas (30 pontos)
 
 
 [^1]: {-} 20 de julho
 
 [^2]: {-} 27 de julho
+
+[^a1]: {-} Entrega  
+     29 de julho
 
 [^3]: {-} 03 de agosto
 
@@ -168,6 +169,9 @@ XV.  [Caracterizar](_aula/15-caracterizar.md)
 [^6]: {-} 24 de agosto
 
 [^7]: {-} 31 de agosto
+
+[^a2]: {-} Entrega  
+     07 de setembro
 
 [^8]: {-} 09 de setembro
 
@@ -181,6 +185,9 @@ XV.  [Caracterizar](_aula/15-caracterizar.md)
 
 [^11]: {-} 05 de outubro
 
+[^a3]: {-} Entrega  
+     12 de outubro
+
 [^12]: {-} 14 de outubro
 
 [^13]: {-} 19 de outubro
@@ -189,4 +196,7 @@ XV.  [Caracterizar](_aula/15-caracterizar.md)
 
 [^15]: {-} 04 de novembro
 
-<!--[^16]: {-} 09/11-->
+<!--[^16]: {-} 09 de novembro-->
+
+[^a4]: {-} Entrega  
+     02 de novembro
