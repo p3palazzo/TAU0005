@@ -1,5 +1,5 @@
 ---
-title: "Metodologia e atividades didáticas"
+title: "Como vamos trabalhar"
 author: "Pedro P. Palazzo"
 date: 2021-07-20
 layout: page

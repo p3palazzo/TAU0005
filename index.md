@@ -6,19 +6,25 @@ include_before: |
   <img src="https://repository-images.githubusercontent.com/271059855/eef83080-aa80-11ea-9464-650e34bad83c" alt="História da Arquitetura e da Arte I" title="História da Arquitetura e da Arte I" />
 ---
 
-- [Por que estudar história da arquitetura?](_plano/por-que-historia.md)
-- [Sobre a disciplina](_plano/sobre-disciplina.md)
-- [Objetivos de aprendizagem](_plano/objetivos.md)
-- [Metodologia e atividades didáticas](_plano/metodologia.md)
-- [Apoio ao aluno](_plano/apoio.md)
-- [Avaliação](_plano/avalia.md)
-- [Bibliografia](_plano/bibliografia.md)
+# Antes de começarmos #
+
+1. [Por que estudar história da arquitetura ?](_plano/por-que-historia.md) <!--_,-->
+2. [Como estudamos história na FAU–UnB ?](_plano/sobre-disciplina.md) <!--_,-->
+3. [O que você vai aprender nesta disciplina ?](_plano/objetivos.md) <!--_,-->
+4. [Como vamos trabalhar ?](_plano/metodologia.md) <!--_,-->
+7. [O que você precisa ler ?](_plano/bibliografia.md) <!--_,-->
+6. [Como você será avaliado ?](_plano/avalia.md) <!--_,-->
+5. [Precisa de ajuda ?](_plano/apoio.md) <!--_,-->
 
 # Introdução #
 
+::: marginnote-directions
+Toque no alvo ⊕ para mostrar as datas.
+:::
+
 I.  [Arquitetura tradicional](_aula/01-arqtrad.md)
 
-    ~ História ou arquitetura [^1]
+    ~ [^1] História ou arquitetura
       — Continuidade e ruptura
       — Arquitetura é construção
       — Construção tradicional e construção moderna
@@ -148,38 +154,38 @@ XV.  [Caracterizar](_aula/15-caracterizar.md)
 ~ Analítico (30 pontos)
 
 
-[^1]: {-} 20/07/2021
+[^1]: {-} 20/07
 
-[^2]: {-} 27/07/2021
+[^2]: {-} 27/07
 
-[^3]: {-} 03/08/2021
+[^3]: {-} 03/08
 
-[^4]: {-} 10/08/2021
+[^4]: {-} 10/08
 
-[^5]: {-} 17/08/2021
+[^5]: {-} 17/08
 
-[^6]: {-} 24/08/2021
+[^6]: {-} 24/08
 
-[^7]: {-} 31/08/2021
+[^7]: {-} 31/08
 
-[^8]: {-} 09/09/2021
+[^8]: {-} 09/09
 
-[^9]: {-} 14/09/2021
+[^9]: {-} 14/09
 
-[^10]: {-} 21/09/2021
+[^10]: {-} 21/09
 
 <!-- Semana universitária -->
 
-[^se]: {-} 28/09/2021
+[^se]: {-} 28/09
 
-[^11]: {-} 05/10/2021
+[^11]: {-} 05/10
 
-[^12]: {-} 14/10/2021
+[^12]: {-} 14/10
 
-[^13]: {-} 19/10/2021
+[^13]: {-} 19/10
 
-[^14]: {-} 26/10/2021
+[^14]: {-} 26/10
 
-[^15]: {-} 04/11/2021
+[^15]: {-} 04/11
 
-<!--[^16]: {-} 09/11/2021-->
+<!--[^16]: {-} 09/11-->

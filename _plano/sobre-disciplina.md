@@ -22,8 +22,9 @@ organização do nosso curso. Desde a abertura do curso de Arquitetura e
 Urbanismo da UnB, em 1962, o conteúdo das disciplinas, mesmo aquelas
 obrigatórias, ficava quase totalmente a critério do professor. Esse
 modelo gerava um currículo imprevisível para os alunos, às vezes
-repetitivo e sempre cheio de lacunas. Além disso, ele favorecia quem já
-trouxesse de casa uma cultura humanística e histórica sólida.
+repetitivo e sempre cheio de lacunas. Além disso, era um programa
+elitista, já que ele favorecia quem trazia de casa uma cultura
+humanística e histórica sólida.
 
 A reforma curricular de 1989 se inspirou no currículo dos principais
 cursos de Arquitetura do Brasil e das Américas. Ela propunha uma
@@ -61,7 +62,12 @@ nosso curso: como o estudo da história da arquitetura se *integra* por
 inteiro num currículo voltado, sobretudo, para a formação de
 profissionais no *ofício* da arquitetura?
 
-A minha resposta a esse desafio é a seguinte: a arquitetura clássica é o
+Como [já vimos](por-que-historia.md), a crítica histórica também pode
+trazer respostas para problemas contemporâneos. As tradições
+arquitetônicas globais são modos resilientes de construir consumindo
+pouca energia e respeitando a diversidade de culturas regionais. Dentro
+dessa diversidade, a arquitetura clássica que se formou na bacia do
+Mediterrâneo (sul da Europa, norte da África e oeste da Ásia) é o
 sistema mais coerente, versátil e duradouro já inventado para dar forma
 ao ambiente construído. Só a arquitetura chinesa (que também incluímos
 no programa deste semestre) se aproxima da coerência sistemática e da
@@ -82,3 +88,4 @@ pesquisa em Arquitetura e Urbanismo pelo menos desde a década de 1960.
 Eles têm sido, também, cada vez mais aplicados na solução de problemas
 contemporâneos, desde a habitação de interesse social até a
 sustentabilidade ambiental.
+

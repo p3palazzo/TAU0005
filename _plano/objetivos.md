@@ -1,5 +1,5 @@
 ---
-title: "Objetivos de aprendizagem"
+title: "O que você vai aprender"
 author: "Pedro P. Palazzo"
 date: 2021-07-18
 layout: page
