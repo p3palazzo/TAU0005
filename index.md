@@ -155,38 +155,38 @@ XV.  [Caracterizar](_aula/15-caracterizar.md)
 ~ Analítico com ordens clássicas (30 pontos)
 
 
-[^1]: {-} 20/07
+[^1]: {-} 20 de julho
 
-[^2]: {-} 27/07
+[^2]: {-} 27 de julho
 
-[^3]: {-} 03/08
+[^3]: {-} 03 de agosto
 
-[^4]: {-} 10/08
+[^4]: {-} 10 de agosto
 
-[^5]: {-} 17/08
+[^5]: {-} 17 de agosto
 
-[^6]: {-} 24/08
+[^6]: {-} 24 de agosto
 
-[^7]: {-} 31/08
+[^7]: {-} 31 de agosto
 
-[^8]: {-} 09/09
+[^8]: {-} 09 de setembro
 
-[^9]: {-} 14/09
+[^9]: {-} 14 de setembro
 
-[^10]: {-} 21/09
+[^10]: {-} 21 de setembro
 
 <!-- Semana universitária -->
 
-[^se]: {-} 28/09
+[^se]: {-} 28 de setembro
 
-[^11]: {-} 05/10
+[^11]: {-} 05 de outubro
 
-[^12]: {-} 14/10
+[^12]: {-} 14 de outubro
 
-[^13]: {-} 19/10
+[^13]: {-} 19 de outubro
 
-[^14]: {-} 26/10
+[^14]: {-} 26 de outubro
 
-[^15]: {-} 04/11
+[^15]: {-} 04 de novembro
 
 <!--[^16]: {-} 09/11-->
