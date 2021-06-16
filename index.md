@@ -1,7 +1,7 @@
 ---
 title: "Programa"
-subtitle: "Turma C · primeiro semestre de 2021"
-author: "Professores: Pedro P. Palazzo e Irina Oliveira · Monitor: a definir"
+subtitle: "TAU 0005 Turma C · primeiro semestre de 2021"
+author: "Professores: Pedro P. Palazzo e Irina Oliveira <br /> Monitor: a definir"
 layout: index
 include_before: |
   <img src="https://repository-images.githubusercontent.com/271059855/eef83080-aa80-11ea-9464-650e34bad83c" alt="História da Arquitetura e da Arte I" title="História da Arquitetura e da Arte I" />
