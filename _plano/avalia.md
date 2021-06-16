@@ -31,12 +31,13 @@ leitura do livro-texto e de outros textos indicados, além de três
 trabalhos que acompanham as três unidades do
 [Programa](../index.md).
 
-| Trabalho                       | Processo | Produto | Subtotal |
-|:-------------------------------|---------:|--------:|---------:|
-| Edículas vernáculas            |       15 |      15 |       30 |
-| Analítico com ordens clássicas |       25 |      15 |       40 |
-| Resolução de planta baixa      |       20 |      15 |       35 |
-| **Total**                      |          |         |  **105** |
+| Trabalho                       | Pontuação |
+|:-------------------------------|----------:|
+| Atividade de nivelamento       |        10 |
+| Edícula vernácula              |        30 |
+| Composição com volumes         |        30 |
+| Analítico com ordens clássicas |        30 |
+| **Total**                      |   **100** |
 
 : Atividades avaliativas da disciplina e respectiva pontuação {#tbl:atividades}
 
