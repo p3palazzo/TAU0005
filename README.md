@@ -6,12 +6,12 @@
 > condicionantes sociais, econômicos e políticos, desde os primórdios da
 > civilização até o gótico.
 
-- [Plano de ensino](plano.md)
-- [Cronograma](cronograma.md)
-- [Programa](_aula/)
+* * *
 
-# Atividades #
-
-- [Trabalho 1: Edícula vernácula](trabalho-1-construcao.md)
-- [Trabalho 2: Analítico com ordens clássicas](trabalho-2-ordens.md)
-- [Trabalho 3: Composição com espaços](trabalho-3-tipologia.md)
+ TAU0005 (c) 2021 by Pedro P. Palazzo
+ 
+ TAU0005 is licensed under a
+ Creative Commons Attribution 3.0 Unported License.
+ 
+ You should have received a copy of the license along with this
+ work.  If not, see <http://creativecommons.org/licenses/by/3.0/>.
