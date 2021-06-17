@@ -34,7 +34,7 @@ II. [Arquitetura tradicional](_aula/01-arqtrad.md)
       — Arquitetura é construção
       — Construção tradicional e construção moderna
 
-[Atividade de nivelamento](_trab/rodape.md) <!--_,-->
+[Atividade de nivelamento](_trab/analitico.md) <!--_,-->
 ~ [^a1] Analítico
 
 # Elementos da construção #
@@ -148,7 +148,7 @@ XV.  [Caracterizar](_aula/15-caracterizar.md)
    -       — Proporções fixas e dinâmicas
    -->
 
-[Atividade](_trab/analitico.md) <!--_,-->
+[Atividade](_trab/classico.md) <!--_,-->
 ~ [^a4] Analítico com ordens clássicas
 
 
