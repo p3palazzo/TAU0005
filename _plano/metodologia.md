@@ -3,22 +3,20 @@ title: "Como vamos trabalhar"
 date: 2021-07-20
 ---
 
-# Considerações gerais #
+# Nossas ferramentas #
 
-Neste semestre, [TAU]{.smallcaps} 0005 se desenvolve em modo *remoto*.
-Todo o conteúdo e as atividades da disciplina estão no ambiente virtual
-de aprendizagem [Aprender 3][]. Esse ambiente usa um sistema livre de
+#### O Moodle ####
+
+Neste semestre, você vai continuar estudando em modo *remoto*. Todo o
+conteúdo e as atividades da disciplina estão no ambiente virtual de
+aprendizagem [Aprender 3][]. Esse ambiente usa um sistema livre de
 ensino a distância chamado [Moodle](https://moodle.org) (pronuncia-se
 "múdou"). Por isso, na maioria das vezes vamos nos referir à plataforma
-virtual como *o Moodle*. O nosso fio condutor é o livro-texto; as
-videoaulas gravadas, as leituras específicas e outros recursos indicados
-completam o conteúdo da disciplina. Estaremos sempre em contato por
-videoconferência, mensagens e fóruns, para discutir o conteúdo e as
-atividades ao longo do semestre.
+virtual como *o Moodle*.
 
-Na área geral do Aprender 3, você vai encontrar:
+Na área geral do Moodle, você vai encontrar:
 
-- Este Plano de curso e o Cronograma da disciplina;
+- Este Plano de curso e o Programa da disciplina;
 - Mural de avisos postados pela equipe da disciplina, onde comunicamos
   informações gerais e eventuais alterações no cronograma ou nas
   atividades;
@@ -26,7 +24,38 @@ Na área geral do Aprender 3, você vai encontrar:
   como um todo;
 - Links para acessar a videoconferência semanal ao vivo e as gravações.
 
+Todas as atividades vão ser entregues pelo Moodle. Você também pode
+acompanhar a sua frequência e desempenho ao longo de todo o semestre
+acessando `Este curso > Notas` na barra superior da janela.
+
+#### A Videoconferência ####
+
+Toda terça e quinta-feira, no horário normal da aula (20h50--22h30),
+temos um encontro ao vivo usando a ferramenta de videoconferência do
+[Microsoft Teams][]. Sempre que puder, participe ao vivo para tirar
+dúvidas e receber orientação sobre as atividades. Quando não puder
+participar, você poderá ver a gravação em até duas semanas depois da
+aula.
+
+# Que compromisso você precisa ter com o cronograma? #
+
+Você precisa acompanhar o andamento do semestre fazendo as leituras,
+estudando o conteúdo das aulas (disponível por escrito ou em vídeo), e
+entregando os trabalhos dentro do prazo. No entanto, sabemos que o
+acesso à internet pode ser precário, portanto você não é obrigado a
+*marcar presença* nas videoconferências ao vivo. Para cumprir a
+frequência obrigatória (75 %), entregue a atividade de cada semana no
+Moodle dentro do prazo:
+
+- Entrega até as 23h59 da segunda-feira = presença integral da semana;
+- Entrega até as 23h59 da quarta-feira = metade da presença da semana;
+
+Após a quarta-feira não é mais permitido entregar a atividade da semana
+em andamento, exceto por motivos devidamente justificados.
+
 # Desenvolvimento do semestre #
+
+Cada semana do semestre corresponde a um tópico do conteúdo.
 
 O conteúdo dito da disciplina deve ser cumprido ao longo de 15 semanas.
 A matéria se divide em cinco módulos com três semanas de duração cada

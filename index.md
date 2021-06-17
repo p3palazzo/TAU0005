@@ -10,7 +10,7 @@ layout: index
 1. [Por que estudar história da arquitetura ?](_plano/por-que-historia.md) <!--_,-->
 2. [Como estudamos história na FAU–UnB ?](_plano/sobre-disciplina.md) <!--_,-->
 3. [O que você vai aprender nesta disciplina ?](_plano/objetivos.md) <!--_,-->
-4. [Como vamos trabalhar ?](_plano/metodologia.md) <!--_,-->
+4. [Como vamos trabalhar a distância ?](_plano/metodologia.md) <!--_,-->
 7. [O que você precisa ler ?](_plano/bibliografia.md) <!--_,-->
 6. [Como vamos avaliar o seu aproveitamento ?](_plano/avalia.md) <!--_,-->
 5. [Precisa de ajuda ?](_plano/apoio.md) <!--_,-->
@@ -21,19 +21,19 @@ layout: index
 Toque no alvo ⊕ para mostrar as datas.
 :::
 
-I.  [Arquitetura tradicional](_aula/01-arqtrad.md)
+I.  [Processos da arquitetura](_aula/02-processos.md)
 
-    ~ [^1] História ou arquitetura
-      — Continuidade e ruptura
-      — Arquitetura é construção
-      — Construção tradicional e construção moderna
-
-II. [Processos da arquitetura](_aula/02-processos.md)
-
-    ~ [^2] Ordem
+    ~ [^1] Ordem
       — Proporção
       — Representação
       — Mito da cabana primitiva
+
+II. [Arquitetura tradicional](_aula/01-arqtrad.md)
+
+    ~ [^2] História ou arquitetura
+      — Continuidade e ruptura
+      — Arquitetura é construção
+      — Construção tradicional e construção moderna
 
 [Atividade de nivelamento](_trab/rodape.md) <!--_,-->
 ~ [^a1] Analítico (10 pontos)
