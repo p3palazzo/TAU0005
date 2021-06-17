@@ -1,6 +1,7 @@
 ---
-title   : "Analítico"
-subtitle: "Introdução"
+title   : "Analítico com ordens clássicas"
+subtitle: "Trabalho II"
+bibliography: "biblio.bib"
 ---
 
 > Projetar é compor, mas para compor é preciso ter objetos a serem compostos:

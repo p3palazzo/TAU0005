@@ -14,8 +14,8 @@ Introdução à disciplina
 ~ *Dominar algumas convenções fundamentais da arquitetura tradicional e
   da sua representação gráfica.*
 
-[Atividade](_trab/rodape.md) <!--_,-->
-~ Analítico (10 pontos)
+[Atividade](_trab/analitico.md) <!--_,-->
+~ Analítico
 
 I.  Elementos da construção
 
@@ -24,7 +24,7 @@ I.  Elementos da construção
       intrínseca aos detalhes construtivos de origem vernácula.
 
 [Atividade](_trab/vernacular.md) <!--_,-->
-~ Edícula vernácula (30 pontos)
+~ Edícula vernácula
 
 II. Elementos de composição
 
@@ -33,7 +33,7 @@ II. Elementos de composição
       dar forma e caráter a esses espaços.
 
 [Atividade](_trab/quincunx.md) <!--_,-->
-~ Composição com volumes (30 pontos)
+~ Composição com volumes
 
 III. Fazer arquitetura
 
@@ -42,6 +42,6 @@ III. Fazer arquitetura
        aspectos estéticos assim como sua lógica de representação
        construtiva (disposição, proporções, modenatura).
 
-[Atividade](_trab/analitico.md) <!--_,-->
-~ Analítico com ordens clássicas (30 pontos)
+[Atividade](_trab/classico.md) <!--_,-->
+~ Analítico com ordens clássicas
 

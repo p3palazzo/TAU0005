@@ -49,9 +49,10 @@ elaboração das atividades, e devem ser estudadas com afinco. Elas estão
 disponíveis na área de arquivos do [Aprender 3][].
 
 1. {% reference chitham:2005classical %}
-2. {% reference pereira:19--enciclopedia %}
-3. {% reference segurado:edificacoes %}
-4. {% reference vitruvio:2007tratado %}
+2. {% reference liang:1984pictorial %}
+3. {% reference pereira:1955enciclopedia %}
+4. {% reference segurado:edificacoes %}
+5. {% reference vitruvio:2007tratado %}
 
 <i class="fas fa-check-circle"></i>
 
