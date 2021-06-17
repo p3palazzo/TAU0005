@@ -11,9 +11,8 @@ layout: index
 2. [Como estudamos história na FAU–UnB ?](_plano/sobre-disciplina.md) <!--_,-->
 3. [O que você vai aprender nesta disciplina ?](_plano/objetivos.md) <!--_,-->
 4. [Como vamos trabalhar a distância ?](_plano/metodologia.md) <!--_,-->
-7. [O que você precisa ler ?](_plano/bibliografia.md) <!--_,-->
+5. [O que você precisa ler ?](_plano/bibliografia.md) <!--_,-->
 6. [Como vamos avaliar o seu aproveitamento ?](_plano/avalia.md) <!--_,-->
-5. [Precisa de ajuda ?](_plano/apoio.md) <!--_,-->
 
 # Introdução #
 
@@ -36,7 +35,7 @@ II. [Arquitetura tradicional](_aula/01-arqtrad.md)
       — Construção tradicional e construção moderna
 
 [Atividade de nivelamento](_trab/rodape.md) <!--_,-->
-~ [^a1] Analítico (10 pontos)
+~ [^a1] Analítico
 
 # Elementos da construção #
 
@@ -76,7 +75,7 @@ VII. [Coberturas e superfícies](_aula/07-coberturas.md)
        — Revestimentos
 
 [Atividade](_trab/vernacular.md) <!--_,-->
-~ [^a2] Edícula vernácula (30 pontos)
+~ [^a2] Edícula vernácula
 
 # Elementos de composição #
 
@@ -112,7 +111,7 @@ XI. [Comunidade](_aula/11-comunidade.md)
       — Universalidade dos processos urbanísticos
 
 [Atividade](_trab/quincunx.md) <!--_,-->
-~ [^a3] Composição com volumes (30 pontos)
+~ [^a3] Composição com volumes
 
 # Fazer arquitetura #
 
@@ -150,7 +149,7 @@ XV.  [Caracterizar](_aula/15-caracterizar.md)
    -->
 
 [Atividade](_trab/analitico.md) <!--_,-->
-~ [^a4] Analítico com ordens clássicas (30 pontos)
+~ [^a4] Analítico com ordens clássicas
 
 
 [^1]: {-} 20 de julho

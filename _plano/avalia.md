@@ -3,57 +3,106 @@ title: "Avaliação"
 date: 2021-07-20
 ---
 
-# Critérios de aprovação na disciplina #
+Nesta disciplina, você vai trabalhar em ritmo semanal. Cada semana
+corresponde a um tópico do conteúdo e pede a realização de uma tarefa
+assíncrona (ou seja, sem hora marcada), que conta como presença. Essas
+atividades semanais contribuem para a atividade avaliativa de cada
+Unidade, que vale nota. Para obter aprovação na disciplina, você precisa
+atender a *todos* os requisitos seguintes:
 
-Para obter aprovação na disciplina, você precisa atender a *todos* os
-três requisitos seguintes:
+<i class="fas fa-check-circle"></i>
+~ Somar 12 presenças semanais, que correspondem à frequência mínima de
+  75 % da carga horária da disciplina ([@tbl:freq, abaixo]).
 
-- Entregar os produtos finais de todas as quatro atividades avaliativas.
-- Obter 50 pontos no total do semestre, que correspondem à menção
-  [MM]{.smallcaps}.
-- Cumprir a frequência mínima exigida de 75 % das aulas.
+<i class="fas fa-check-circle"></i>
+~ Entregar todas as quatro atividades avaliativas ([@tbl:atividades,
+  abaixo]).
 
-Cada trabalho representa uma aplicação do conteúdo do respectivo
+<i class="fas fa-check-circle"></i>
+~ Obter 50 pontos no total das atividades avaliativas do semestre, que
+  correspondem à menção [MM]{.smallcaps}.
+
+# A sua frequência #
+
+Cada semana tem uma tarefa correspondente, indicada no Moodle. Essa
+tarefa pode ser uma breve pesquisa ou o desenvolvimento de uma parte da
+atividade avaliativa da unidade, ou ainda a própria entrega final de
+cada atividade avaliativa. Para *marcar presença* na respectiva semana,
+você precisa entregar o resultado dessa tarefa no Moodle dentro do prazo
+previsto na [@tbl:freq]. A sua frequência total no semestre será a soma
+numérica de todas as frequências semanais.
+
+: Frequência por entrega de tarefas {#tbl:freq}
+
+|                                         |                                 |
+|-----------------------------------------|---------------------------------|
+| Entrega até as 23h^59^ da segunda-feira | 1,0 presença integral da semana |
+| Entrega até as 23h^59^ da sexta-feira   | 0,5 presença da semana (metade) |
+
+<i class="fas fa-check-circle"></i> 
+~ Nas semanas de entrega de atividade avaliativa, você vai obter a
+  presença integral sempre que entregar a tarefa até a data prevista no
+  Moodle, independentemente do dia da semana em que ela cair.
+
+<i class="fas fa-exclamation-triangle"></i> 
+~ Após a sexta-feira não é mais permitido entregar a atividade para
+  obter a presença da semana em andamento.
+  Todas as atividades devem ser entregues na respectiva tarefa no
+  Moodle. *Não há exceções*.
+
+<i class="fas fa-exclamation-circle"></i> 
+~ Se acontecer algum impedimento prolongado e justificado que impeça
+  você de cumprir as tarefas semanais, nem tudo está perdido! Você
+  poderá ingressar com um pedido de *regime domiciliar*. Informe-se com
+  antecedência junto à secretaria de graduação da [FAU]{.smallcaps}.
+
+# As suas atividades avaliativas #
+
+Cada atividade representa uma aplicação do conteúdo do respectivo
 módulo, demandando compreensão dos princípios arquitetônicos e
 urbanísticos abordados, para além da simples repetição das aulas. Por
 isso, os trabalhos e seus critérios de avaliação estão alinhados aos
 objetivos de aprendizagem de cada módulo. No entanto, o conhecimento e
-as competências a serem aplicadas em cada trabalho são *cumulativos:* você
-precisará ter dominado os requisitos de um trabalho para ter sucesso no
-trabalho seguinte!
-
-# Organização e normas gerais #
-
-A nota final da disciplina é computada a partir do acompanhamento da
-leitura do livro-texto e de outros textos indicados, além de três
-trabalhos que acompanham as três unidades do
-[Programa](../index.md).
-
-| Trabalho                       | Pontuação |
-|:-------------------------------|----------:|
-| Atividade de nivelamento       |        10 |
-| Edícula vernácula              |        30 |
-| Composição com volumes         |        30 |
-| Analítico com ordens clássicas |        30 |
-| **Total**                      |   **100** |
-
-: Atividades avaliativas da disciplina e respectiva pontuação {#tbl:atividades}
+as competências a serem aplicadas em cada trabalho são *cumulativos:*
+você precisará ter dominado os requisitos de um trabalho para ter
+sucesso no trabalho seguinte!
 
 A entrega de todas as atividades da disciplina será feita,
 exclusivamente, por meio eletrônico, na plataforma [Aprender 3][] da
 UnB, nos fóruns e tarefas previstos para esse fim. Não recebemos, *sob
 hipótese alguma*, trabalhos por e-mail.
 
-<!--
-   -Entregas com atraso sofrerão desconto de 10 pontos (sobre 100) por
-   -semana de atraso, exceto nos casos justificados e comprovados previstos
-   -na legislação e nos regimento aplicáveis.
-   -->
+| Unidade | Atividade                          | Entrega | Pontuação |
+|:-------:|:-----------------------------------|:-------:|----------:|
+|  Intro  | [Analítico][]                      |  29/07  |        10 |
+|    I    | [Edícula vernácula][]              |  07/09  |        20 |
+|    II   | [Composição com volumes][]         |  12/10  |        30 |
+|   III   | [Analítico com ordens clássicas][] |  04/11  |        40 |
+|         | **Total do semestre**              |         |   **100** |
 
-Necessidades especiais na realização das atividades da disciplina e no
-acompanhamento do semestre devem ser apontadas ao professor da turma o
-mais cedo possível, e serão analisadas caso a caso à luz das regras em
-vigor.
+: Atividades avaliativas da disciplina e respectiva pontuação {#tbl:atividades}
+
+[Analítico]: ../_trab/analitico.md
+
+[Edícula vernácula]: ../_trab/vernacular.md
+
+[Composição com volumes]: ../_trab/quincunx.md
+
+[Analítico com ordens clássicas]: ../_trab/processo.md
+
+<!--_,-->
+
+<i class="fas fa-exclamation-triangle"></i>
+~ Você precisa *entregar* todas as quatro atividades que valem nota,
+  além de obter 50 pontos no total do semestre. Se deixar de entregar
+  alguma das atividades, você receberá automaticamente a menção `SR`,
+  *mesmo que tenha pontuação total suficiente*.
+
+<i class="fas fa-exclamation-circle"></i>
+~ Necessidades especiais na realização das atividades da disciplina e no
+  acompanhamento do semestre devem ser apontadas ao professor da turma o
+  mais cedo possível, e serão analisadas caso a caso à luz das regras em
+  vigor.
 
 <!--
    -## Estrutura da avaliação ##
@@ -119,77 +168,40 @@ vigor.
    -
    -->
 
-# Sobre plágio e originalidade #
+# Sobre criatividade e originalidade #
 
-Integridade e reconhecimento são valores éticos fundamentais da
-cidadania e da profissão. Copiar parte ou tudo do trabalho alheio ---
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
+> Em arquitetura tradicional, existem soluções que funcionam e soluções
+> que não funcionam; dentre as soluções que funcionam, algumas funcionam
+> melhor do que outras. Esse é o nosso critério de avaliação.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Nesta disciplina, você não precisa ser *original* no sentido que o
+romantismo artístico deu para a palavra. O objetivo do nosso trabalho
+não é *se expressar* pessoalmente e sim *crescer* cultural e
+profissionalmente. A atividade que você entregar não é um reflexo da sua
+*identidade* enquanto indivíduo, e sim do que você *aprendeu* com um
+conteúdo novo.
+
+Em cada tarefa você precisa demonstrar *criatividade.* Criatividade é a
+capacidade de gerar uma forma arquitetônica que não seja necessariamente
+inusitada, e sim que atenda a uma exigência bastante específica descrita
+na ementa de cada tarefa. Assim, você vai demonstrar a sua compreensão
+da construção tradicional e da arquitetura clássica. Não complique
+desnecessariamente o processo buscando uma expressão original e
+rebuscada: a sua linguagem pessoal vai aparecer gradual e naturalmente
+do seu modo de resolver o problema proposto.
+
+#### Plágio ####
+
+Dito isso, integridade e reconhecimento são valores éticos fundamentais
+da cidadania e da profissão. Copiar parte ou tudo do trabalho alheio ---
 seja de colegas de turma, da bibliografia, ou de material "garimpado" na
 Internet --- é uma prática inaceitável e resultará em atribuição da nota
-0 (zero) ao trabalho como um todo. Dependendo da gravidade do fato,
-podemos relatar o ocorrido ao colegiado de graduação da [FAU]{.smallcaps}.
-
-Dito isso, você não tem obrigação de ser *original* no sentido artístico
-da palavra. Em cada trabalho você precisa atender a uma exigência
-pontual e demonstrar compreensão *correta* da construção tradicional e
-da arquitetura clássica. Não complique desnecessariamente o processo
-buscando uma expressão rebuscada: a sua linguagem pessoal vai aparecer
-gradual e naturalmente do seu modo de resolver o problema proposto.
-
-# Processo #
-
-Metade da nota de cada trabalho é dada pelo processo de desenvolvimento
-que você seguir. Trabalhe com regularidade, buscando orientação em aula
-e apresentando o seu esforço em andamento. A sua compreensão do modo de
-tradicional de construir, da linguagem clássica da arquitetura em suas
-formas canônicas, e das composições espaciais tradicionais, são os
-critérios de avaliação nesta componente da nota.
-
-# Produto #
-
-A outra metade da nota é dada pelo resultado final de cada trabalho, tal
-como apresentado e entregue na data estipulada no cronograma. O uso
-correto das ordens clássicas e outros elementos da arquitetura
-tradicional, a precisão de proporções e detalhes, e a clareza na
-apresentação visual são os fatores preponderantes nesta componente da
-nota.
-
-Toda entrega de trabalho deverá incluir os elementos seguintes,
-integrados ao desenho das pranchas ou à face superior da base nas
-maquetes:
-
-- Escalas gráficas (tantas quantas foram as diferentes escalas usadas no
-  produto) e figura humana ("calunga");
-- Norte, somente se estiver definido pelo sítio do projeto;
-- Título do trabalho;
-- Autoria, disciplina, turma e semestre;
-- Margem nas pranchas desenhadas ou base nas maquetes.
-
-*Não é necessário* seguir as normas [ABNT NBR]{.smallcaps} 10.068 e
-10.582 para o posicionamento das margens ou legendas, nem cotar
-dimensões nos desenhos técnicos. No entanto, é importante deixar ver, em
-todos os desenhos relevantes, a construção geométrica das proporções e o
-traçado regulador usado na composição.
-
-### Uso do computador (CAD/modelagem 3D) nos trabalhos ###
-
-Em condições normais, o estudo da arquitetura clássica deve ser feito
-à mão --- croquis à mão livre, desenho técnico na prancheta, e maquete
-física. A ligação direta entre a mão e o produto garante *sempre* o
-melhor aprendizado e o melhor ajuste entre a composição arquitetônica
-como um todo e os elementos canônicos das ordens clássicas. Além disso,
-a arte-final da arquitetura tradicional é sempre *mais fácil e rápida*
-de ser feita à mão livre, ajustando intuitivamente a precisão do detalhe
-à escala do desenho. No entanto, considerando as dificuldades do ensino
-a distância e a entrega em arquivos digitais, *excepcionalmente* vamos
-aceitar também trabalhos arte-finalizados no computador
-([CAD]{.smallcaps}, modelagem 3D ou qualquer outro programa de sua
-preferência).
-
-Em todos os casos, o produto deve ser entregue em formato
-[PDF]{.smallcaps} ou  [JPG]{.smallcaps}, e mostrar com clareza o
-atendimento aos requisitos do trabalho e nível de detalhamento
-condizente com as escalas indicadas.
-
+`0` (zero) à entrega como um todo. Dependendo da gravidade do fato,
+podemos relatar o ocorrido ao colegiado de graduação da
+[FAU]{.smallcaps}. Além disso, 90 % dos desenhos de arquitetura clássica
+que vocês encontrarem no Google estão *errados!*
 
 [Aprender 3]: https://aprender3.unb.br/course/view.php?id=8552
 
