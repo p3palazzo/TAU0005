@@ -1,6 +1,7 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.2"
 gem "tufte-pandoc-jekyll"
+gem "bibtex-ruby"
 gem "sassc"
 gem "stringex"
 gem "webrick" #required by ruby 3.0

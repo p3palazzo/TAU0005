@@ -5,7 +5,7 @@ VPATH = .:assets
 vpath %.bib _bibliography
 vpath %.csl _csl
 vpath %.html .:_includes:_layouts:_site
-vpath %.scss _sass:assets/css
+vpath %.scss _sass:assets/css:assets/css-slides
 vpath %.xml _site
 vpath %.yaml .:_spec
 
@@ -19,7 +19,7 @@ PANDOC/LATEX    := docker run --rm -v "`pwd`:/data" \
 JEKYLL := palazzo/jekyll-tufte:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
 
 ASSETS  = $(wildcard assets/*)
-SASS    = $(wildcard assets/css/*.scss) $(wildcard assets/css-slides/*.scss) $(wildcard _sass/*.scss)
+SASS    = assets/css-slides/revealjs.scss _sass/_settings.scss reveal.js/.git
 AULA    = $(wildcard _aula/*.md)
 SLIDES := $(patsubst _aula/%.md,_site/slides/%/index.html,$(AULA))
 
@@ -41,7 +41,7 @@ _site/slides/%/index.html : _aula/%.md revealjs.yaml revealjs-crossref.yaml \
 	| _csl/chicago-author-date.csl
 	@-mkdir -p $(@D)
 	@$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
-	@echo $(@D)
+	@echo $(@D)/
 
 %.pdf : %.tex references.bib
 	@docker run --rm -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
@@ -59,11 +59,6 @@ _csl/%.csl : | _csl
 reveal.js :
 	@test -e $@ || \
 		git submodule add https://github.com/hakimel/reveal.js
-
-_site/reveal.js : | _site
-	@test -e $@ || cd _site && \
-		git submodule add https://github.com/hakimel/reveal.js
-	@cd $@ && git checkout master
 
 # {{{1 PHONY
 #      =====
@@ -95,7 +90,5 @@ submodule-update : | _sass _spec assets/css-slides reveal.js
 	@cd _spec && git checkout master && git pull --ff-only
 	@echo 'Updating assets/css-slides...'
 	@cd assets/css-slides && git checkout master && git pull --ff-only
-	@echo 'Updating reveal.js...'
-	@cd reveal.js && git checkout master && git pull --ff-only
 
 # vim: set foldmethod=marker shiftwidth=2 tabstop=2 :

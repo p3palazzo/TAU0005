@@ -1,16 +1,387 @@
 ---
-title   : "Roma e o Mediterrâneo"
+title   : "Construção murária"
+subtitle: "Firmitas III"
 author  : "Pedro P. Palazzo"
+date    : 2021-08-17
 abstract: |
-  Estrutura murária, decoração arquitravada
-  – Ordens e seus elementos complementares
-  – Traçados reguladores
-  – Pintura e perspectiva
+  Energia e arquitetura
+  — Materiais naturais
+  — Materiais cozidos
+  — Processos construtivos e perspectiva
+title-slide-attributes:
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Giovanni_Paolo_Panini_–_Ancient_Rome.jpg/994px-Giovanni_Paolo_Panini_–_Ancient_Rome.jpg
 ---
 
 ![Giovanni Paolo Pannini, Galeria de vistas da Roma antiga, 1757](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Giovanni_Paolo_Panini_–_Ancient_Rome.jpg/994px-Giovanni_Paolo_Panini_–_Ancient_Rome.jpg){#fig:pannini .fullwidth}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/a3/Vitruvius.jpg" data-background-position="right"}
+
+# Construção murária #
+
+A construção murária, ou seja, baseada em paredes, é a delimitação por
+excelência do espaço. Na seção anterior, vimos como a construção
+arquitravada vem do uso da madeira, e resulta em malhas estruturais com
+composição aditiva. A construção murária, por sua vez, tem o seu
+paradigma material nas alvenarias, e corresponde a uma concepção
+subtrativa: como se o espaço pudesse ser escavado dentro de uma massa
+estrutural sólida.
+
+## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
+
+A tenda (ver @fig:chambers-huts) é o tipo originário das construções
+temporárias. No domínio da arquitetura durável, o mito da cabana
+primitiva foi o nosso ponto de partida para explicar a construção
+arquitravada em madeira. A construção murária, portanto, remete ao
+terceiro e último tipo originário: a caverna. Ao contrário dos dois
+primeiros tipos, a alegoria de uma caverna não é uma analogia muito
+clara com processos propriamente construtivos; em vez disso, ela
+representa uma certa ideia de espacialidade.
+
+## {data-background-image="https://i.pinimg.com/originals/13/1e/7d/131e7d63fbf350e28f24f1d15e557b8a.png"}
+
+O teórico francês Quatremère de Quincy, no final do século
+[XVIII]{.smallcaps}, desenvolveu o caráter da "caverna"
+[@quatremere:1788caractere] com base num dos três tipos de abrigos
+primitivos propostos em 1759 por Chambers (@fig:chambers-second).
+Segundo Quatremère, a caverna seria o abrigo primitivo das sociedades
+pastorais: um abrigo caracterizado pelas suas necessidades de espaço, ao
+contrário da cabana, que era determinada pelo desenvolvimento de uma certa
+lógica construtiva.
+
+![Cabana primitiva em forma de "caverna", segundo Chambers, 1759](https://i.pinimg.com/originals/13/1e/7d/131e7d63fbf350e28f24f1d15e557b8a.png){#fig:chambers-second .fullwidth}
+
+## {data-background-image=""}
+
+Com esse argumento, Quatremère pretendia relegar a caverna à cultura de
+sociedades muito antigas, como o Egito e a Mesopotâmia. Aqui, vamos
+subverter essa hierarquia e tratar a caverna como o tipo de todas as
+culturas construtivas que se baseiam em massas de alvenaria portante.
+
+## {data-background-image="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png" data-background-size="contain" data-background-position="center"}
+
+![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .marginnote .line}
+
+A origem da parede portante tem sido tratada como algo
+derivativo, secundário na lógica da arquitetura. O teórico alemão do
+século [XIX]{.smallcaps} Gottfried Semper especulou que a parede não
+nascia com a solidez duma alvenaria estrutural, e sim com a leveza de
+uma esteira trançada. Esse pressuposto vem do modelo de cabana primitiva
+proposto por Semper em 1860, que deriva de uma habitação contemporânea
+dos índios karib (@fig:karib).
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg"}
+
+Semper escreveu isso numa época em que estava se tornando comum
+construir com esqueletos estruturais em ferro, deixando as paredes com
+um papel de simples vedação, sem função estrutural. Por isso, essa
+separação entre esqueleto portante e parede divisória parecia natural
+para ele, talvez até primordial. Mas essa distinção é mais uma regressão
+conceitual do que algo efetivamente atestado na história da arquitetura.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png" data-background-size="contain" data-background-position="center"}
+
+Como quer que seja,
+a alvenaria é o segundo princípio construtivo ancestral: ela sempre
+aparece associada às construções arquitravadas, seja como fundação, seja
+como contraventamento. A alvenaria nasce, com perdão da licença poética,
+do gesto primário de quem empilha uns seixos na beira do caminho para
+marcar a sua passagem. Ela está presente como arrimo em algumas das mais
+antigas cabanas de caçadores-coletores, por exemplo no sítio
+arqueológico de Eynan, em Israel, datado de 15 a 12 mil anos atrás (ver
+@fig:eynan).
+
+## {data-background-image=""}
+
+É nas regiões pouco arborizadas que a construção murária assume, pela
+primeira vez, o papel estrutural dominante. Muitas dessas regiões, de
+clima semiárido, ficam na zona tropical e subtropical do hemisfério
+Norte. Alguns dos exemplares mais antigos dessa arquitetura se localizam
+na América do Norte e no Oriente Médio. Esses exemplares justificam o
+nome de "caverna" que usamos para caracterizar o tipo básico da
+construção murária: as paredes em pedra seca aparentemente começam a ser
+usadas como arrimo ou acabamento para espaços semienterrados.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"}
+
+![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano .fullwidth}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png"}
+
+![Göbekli Tepe, vista aérea das escavações. Foto: [E. Kücuk, Instituto Arqueológico Alemão (DAI), 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png){#fig:gt-plan .marginnote}
+
+<!--_,-->
+
+Depois da cabana de Eynan, o sítio mais antigo que se conhece com
+construção murária é Göbekli Tepe (@fig:gt-pano), um morro no extremo
+norte do Crescente fértil que começou a ser ocupado por volta de 9500
+a.C. Aqui também temos arrimos em pedra seca em volta de pelo menos
+quatro espaços semienterrados de planta mais ou menos circular
+(@fig:gt-plan). Ao contrário de Eynan, em Göbekli Tepe os pilares, que
+talvez sustentassem alguma cobertura, são grandes lajes de pedra.
+
+## {data-background-image=""}
+
+Ao contrário do abrigo em Eynan e de quase todas as outras construções
+da mesma época, as estruturas de Göbekli Tepe eram (quase?) inteiramente
+feitas de pedra, e não parecem ter sido usadas como abrigo ou habitação.
+Isso nos leva a uma questão que, daí para a frente, seria central na
+arquitetura de muitas tradições por todo o mundo: o uso de materiais
+duráveis preferencialmente dedicado para construções não estritamente
+utilitárias, como edifícios religiosos ou simbólicos do poder político.
+
+## {data-background-image=""}
+
+[O ciclo de produção dos materiais]{.newthought} da construção murária é geralmente
+mais curto que o da madeira. O aspecto crítico é a extração da
+matéria-prima, e isso vale tanto para a pedra quanto para os blocos
+feitos de barro seco ou cozido. O impacto ambiental da extração dessa
+matéria-prima mineral é um aspecto cada vez mais importante à medida que
+o volume de construção aumenta em todo o mundo. Nas sociedades não
+industrializadas, esse impacto é moderado pelo esforço econômico
+necessário para a extração de rochas e argila: por isso, a regra era a
+reutilização de elementos de construções antigas, quando não a
+reutilização e preservação das edificações como um todo.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/eb/Ħaġar_Qim,_megalit_templom_bejárata.jpg"}
+
+Na maior parte do mundo, as rochas
+usadas para a construção são sedimentares, porque elas combinam
+facilidade de extração e resistência mecânica suficiente para os
+propósitos da construção. Essas rochas se dividem, para efeitos
+práticos, em dois grandes grupos: os calcários e os arenitos.
+
+O calcário é o grupo de rochas em geral mais útil para a construção, e
+por isso tem sido usado desde o Neolítico, como nos monumentos
+megalíticos de Malta, construídos por volta de 3000 a.C. (@fig:hagar).
+Além de ser usado em blocos, o calcário também pode ser britado e
+queimado para produzir cal, que é um insumo importante em argamassas e
+também é a matéria-prima do gesso. O calcário geralmente se deposita em
+leitos ou veios sucessivos, e por isso tem um *grão* linear que precisa
+ser levado em conta no uso estrutural dos blocos.
+
+![Monumento megalítico de Ħaġar Qim, Malta, 3200 a 2500 a.C., construído em calcário. Foto: [Kiss Tamás, 1999](https://commons.wikimedia.org/wiki/File:Ħaġar_Qim,_megalit_templom_bejárata.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ħaġar_Qim,_megalit_templom_bejárata.jpg/1280px-Ħaġar_Qim,_megalit_templom_bejárata.jpg){#fig:hagar}
+
+## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm" data-background-video-loop="true" data-background-video-muted="true"}
+
+A matéria-prima mais difundida na construção murária do mundo todo é a
+terra. Nas formas mais rústicas de construção popular, a terra
+naturalmente presente no local da obra pode ser usada. Mas, em qualquer
+aplicação um pouco mais refinada tecnicamente --- mesmo na maior parte
+da construção vernácula ---, o padrão de qualidade é mais exigente que
+isso. 
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/84/Extracting_clay_to_produce_bricks.jpg"}
+
+Tanto a argila quanto a areia usadas na confecção dos blocos e tijolos
+devem estar livres de matéria orgânica. Eventualmente, blocos de adobe
+podem ser "aditivados" com fibras ou proteínas orgânicas, mas isso deve
+ser feito de modo controlado. Por isso, os materiais mais
+indicados pelos tratadistas e construtores são a argila e a areia ditas
+"de mina", ou seja, extraídas de encostas ou poços, como neste barranco
+no Malaui (@fig:claypit), e não recolhidas na superfície, da margem de
+rios ou do mar.
+
+![Extração de argila para olaria em Mlala, Dwangwa, Malaui. Foto: [Bibiloucapetown, 2017](https://commons.wikimedia.org/wiki/File:Extracting_clay_to_produce_bricks.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extracting_clay_to_produce_bricks.jpg/1280px-Extracting_clay_to_produce_bricks.jpg){#fig:claypit}
+
+## {data-background-image=""}
+
+Em todos os casos, a obtenção e a correção da matéria-prima, seguida da
+moldagem e secagem dos blocos, pode levar algumas semanas. Em regiões de
+clima úmido, onde se usam sobretudo tijolos cozidos, é preciso deixar
+secar os blocos moldados durante muito mais tempo, talvez até alguns
+meses, antes de os queimar. Em qualquer caso, a relativa facilidade de
+se produzir os blocos de adobe ou os tijolos, e as suas pequenas
+dimensões, fazem com que esses componentes possam ser altamente
+padronizados e estocados em grandes quantidades para pronta entrega.
+Ainda assim, a produção de blocos em formas personalizadas, numa olaria
+artesanal, também é simples, o que permite resolver elementos especiais
+como colunas e cimalhas.
+
+## {data-background-image="https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png" data-background-size="contain"}
+
+[O assentamento dos blocos com argamassa]{.newthought} é a regra em
+quase todas as tradições da construção murária. Em muitos casos, o
+material de que é feita a argamassa é o mesmo material dos blocos:
+barro, para assentar blocos em adobe, ou cal e areia, para assentar
+blocos de pedra. Em sociedades que fazem uso generalizado de tijolos
+cozidos, a argamassa de cal também costuma ser usada na argamassa, já
+que o procedimento de produção dos dois elementos envolve tecnologias
+semelhantes: a queima com redução de oxigênio, como neste forno de cal
+do século [XVIII]{.smallcaps} [@quintanafrias:2005cal5] (@fig:montesa).
+
+![Forno de cal de Montesa, Valência, Espanha, século [XVIII]{.smallcaps}. Modelagem: [Pablo Aparicio Reso, 2013](http://hornodemontesa.blogspot.com/2013/05/26-como-era-un-horno-de-cal-tradicional.html)](https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png){#fig:montesa}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/91/Tufo_Necropoli_della_Banditaccia.JPG" data-background-size="contain"}
+
+![Parede em blocos de tufo na necrópole etrusca de Banditaccia, Itália, c. século [VI]{.smallcaps} a.C. Foto: [Patafisik, 2009](https://commons.wikimedia.org/wiki/File:Tufo_Necropoli_della_Banditaccia.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tufo_Necropoli_della_Banditaccia.JPG/800px-Tufo_Necropoli_della_Banditaccia.JPG){#fig:tufo .marginnote}
+
+Pelo mesmo motivo, regiões com muitos depósitos de rochas vulcânicas,
+como o tufo na Itália (@fig:tufo), também agregam certas cinzas
+vulcânicas à argamassa. Essas cinzas são conhecidas como *pozolanas* por
+causa da cidade de Pozzuoli, onde elas são especialmente abundantes.
+Tanto a cal quanto as pozolanas dão propriedades hidráulicas à
+argamassa, isto é, esses materiais reagem quimicamente com a água da
+mistura.
+
+## {data-background-video="https://assets.mixkit.co/videos/preview/mixkit-working-with-concrete-14729-large.mp4"}
+
+As argamassas resultantes dessas reações têm propriedades interessantes
+para a construção: além de aumentarem a resistência do sistema, a
+argamassa de cal preserva alguma flexibilidade que ajuda a acomodar o
+assentamento da estrutura; a reação de pozolana com cal dá ainda mais
+resistência, coesão quando os blocos também são feitos de tufo, e
+durabilidade para a parede, e mesmo alguma impermeabilização. Por isso,
+a pozolana é bastante usada mesmo na construção moderna, como aditivo ao
+cimento.
+
+## {data-background-image=""}
+
+O sistema construtivo mais difundido na Roma antiga, que muito chamam de
+"concreto romano", na verdade é uma alvenaria de pequenos blocos de
+rocha vulcânica assentados com um volume grande de argamassa pozolânica.
+Vamos nos deter nesse sistema mais adiante.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tadelakt-ouarzazate-morocco-1.jpg"}
+
+![Aplicação de *tadelakt* tingido. For: [Eigenheym, 2014](https://commons.wikimedia.org/wiki/File:Tadelakt.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Tadelakt.jpg/800px-Tadelakt.jpg){#fig:tadelakt .marginnote}
+
+O mesmo material usado para o assentamento dos blocos também pode ser
+usado no revestimento de paredes e mesmo de pisos. O *tadelakt*
+(@fig:tadelakt), uma mistura de barro com gesso (obtido a partir da
+cal), é um revestimento muito usado na bacia do Mediterrâneo e
+vizinhanças, tanto em paredes quanto em pisos. Ele dá um acabamento
+muito liso e com alguma resistência à umidade.
+
+## {data-background-image=""}
+
+[Além da alvenaria de blocos]{.newthought}, há outro modo tradicional de
+construir paredes: as taipas. Esse termo designa uma grande variedade de
+métodos de construção com terra. Alguns, como a taipa de mão,
+pau-a-pique ou tabicado, consistem numa armação em madeira ou fibras
+vegetais, sobre a qual se coloca uma camada de terra; nesses casos, a
+parede tem uma resistência estrutural baixa. Por isso, esses tipos de
+taipa são usados sobretudo para paredes de vedação, ou em construções
+muito pequenas e simples.
+
+## {data-background-image=""}
+
+Quando se fala em taipa como sistema estrutural, é a taipa de pilão que
+vem à mente: uma série de camadas de terra compactada, geralmente
+assentadas dentro de uma forma temporária (o taipal) ou como um
+terrapleno entre paredes de alvenaria.
+
+## {data-background-image="https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg"}
+
+Esse procedimento, na sua forma tradicional, foi descrito e ilustrado
+pelo engenheiro francês Jean-Baptiste Rondelet no início do século
+[XIX]{.smallcaps} [@rondelet:1812traite1]. O sistema da taipa deve, em
+quase todos os casos, assentar sobre uma fundação em pedra aparelhada ou
+cantaria (@fig:taipal). Essa fundação dá um assentamento mais homogêneo
+para a parede, e que a umidade ascendente comprometa a solidez da
+parede. Do mesmo modo, a taipa deve ser coroada com um ou mais frechais
+em madeira, para regularizar o assentamento da cobertura sobre a parede.
+Ao contrário da melhor prática na concretagem, na taipa cada camada
+comprimida (@fig:ram) precisa secar antes de se lançar a camada
+seguinte.
+
+![Esquema do processo de construção com taipa de pilão. [Jean-Baptiste Rondelet, 1802](https://gallica.bnf.fr/ark:/12148/bpt6k6555321j/f20.item)](https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg){#fig:taipal .fullwidth}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/92/Ramming_Earth.JPG"}
+
+![Compactando manualmente uma parede em taipa de pilão. Sinai, Egito. Foto: [Moshirah, 2008](https://commons.wikimedia.org/wiki/File:Ramming_Earth.JPG) ↑](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ramming_Earth.JPG/1280px-Ramming_Earth.JPG){#fig:ram .marginnote}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg"}
+
+![Mesquita maior em Djenné, Mali, século [XIV]{.smallcaps}, reconstruída 1906--1907. Foto: [Gilles Mairet, 1972](https://commons.wikimedia.org/wiki/File:La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg) ←](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg/1280px-La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg){#fig:djenne}
+
+<!--_,-->
+
+O taipal geralmente é uma forma móvel em madeira, apoiada en tirantes
+que deixam buracos regulares na taipa (@fig:taipal). Esses buracos podem
+ser simplesmente tapados, ou podem servir de apoios para uma camada de
+revestimento. Em alguns casos, os tirantes podem ser deixados no corpo
+da parede para dar mais estabilidade e facilitar o acesso para
+manutenção. Esse costume é tradicional na região do Sael, ao sul do
+deserto do Saara, por exemplo nas cidades históricas do delta do rio
+Níger, como Djenné (@fig:djenne).
+
+## {data-background-image=""}
+
+Na teoria, a taipa de pilão poderia se prestar a formas totalmente
+orgânicas, já que ela não depende do módulo mínimo de um bloco. Na
+prática, ela é usada sobretudo em grandes paredes retilíneas, para
+permitir a reutilização do taipal com mais facilidade. A grande
+espessura das paredes em taipa de pilão faz com que elas, em geral, não
+precisem de contraventamento.
+
+## {data-background-image=""}
+
+Esse não é o caso das paredes de blocos, especialmente as que são
+construídas com blocos pequenos --- em geral, adobe ou tijolo cozido. A
+eficiência dita que essas paredes sejam as mais esbeltas possíveis, para
+não consumir material sem necessidade. O dimensionamento recomendado por
+Palladio, que nos dá as indicações mais práticas e claras a esse
+respeito, é o seguinte:
+
+1. A parede do pavimento superior terá *uma vez* de alvenaria (a
+   espessura da parede é determinada pelo comprimento de um tijolo);
+
+2. Cada pavimento sucessivo para baixo deve aumentar essa espessura em
+   meia vez.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif/lossy-page1-4233px-Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif.jpg"}
+
+![Colunas embutidas formando contrafores no interior da cela do templo de Baco, Baalbek, século [II]{.smallcaps} d.C. Foto: [Félix Bonfils](https://commons.wikimedia.org/wiki/File:Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif/lossy-page1-1242px-Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif.jpg){#fig:contraforte}
+
+![Muro serpenteante, Shaw nature reserve. Foto: [Steve Bougeno, 2015](https://500px.com/photo/128955465/wall-by-Steve--Bougeno/)](https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg){#fig:serpentine .marginnote}
+
+<!--_,-->
+
+Mas, mesmo uma parede de uma vez (25 a 40 centímetros de espessura,
+dependendo do revestimento e do módulo do tijolo) está sujeita à
+flambagem se for muito longa ou alta. Por isso, a parede precisa ser
+contraventada. Vários expedientes são usados para isso na construção
+murária. Uma parede de tijolos pode simplesmente ser encaixada entre
+cunhais de pedra ou vice-versa (@fig:cunhal). Paredes em pedra ou mesmo
+taipa podem ser reforçadas com contrafortes, que eventualmente assumem a
+forma de pilastras ou colunas "decorativas" na fachada
+(@fig:contraforte).
+
+## {data-background-image="https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg"}
+
+A solução mais sofisticada para o contraventamento na construção murária
+é deslocar o alinhamento da parede em planta, uma prática bastante comum
+em muretas serpenteantes no campo (@fig:serpentine). Esse deslocamento
+aumenta o momento de inércia da parede como um todo, o que evita a
+flambagem e resiste também a cargas horizontais, como a do vento.
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f2/Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG"}
+
+<!--_,-->
+
+Numa edificação, fazer uma parede serpenteante não é muito prático. Em
+vez disso, o mais comum é usar ressaltos ortogonais. Esses ressaltos
+podem ser maciços, e nesse caso podem se tornar volumes em forma de
+torres (@fig:saqqara). Eles podem, também, ser vazados para dentro, e
+nesse caso oferecem vãos nas paredes para encaixar mobiliário. Por fim,
+a largura dos ressaltos permite enquadrar portas e janelas com mais
+firmeza visual, além de oferecer espaço para assentos junto às janelas.
+
+![Recinto murado do complexo mortuário do faraó Djoser em Saqqara, Egito, c. 2670--2650 a.C., em alvenaria de pedra com ressaltos. Foto: [Maveric149, 2008](https://commons.wikimedia.org/wiki/File:Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG)](https://upload.wikimedia.org/wikipedia/commons/f/f2/Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG){#fig:saqqara .fullwidth}
+
+## {.unlisted}
+
+A taipa e a alvenaria são os principais sistemas de construção
+tradicional de paredes portantes. Eles consistem num uso mais ou menos
+processado de recursos minerais, na forma de massas contínuas, blocos
+crus ou cozidos, e argamassas. As principais condicionantes para o uso
+de sistemas murários são a extração da matéria-prima e a capacidade
+técnica e econômica de processamento.
+
+A construção murária resulta em estruturas que geralmente têm uma
+aparência de grandes massas sólidas, e que delimitam com muita clareza
+os espaços arquitetônicos. As manipulações espaciais na construção
+murária são o objeto da próxima seção.
 
 # Arquitetura subtrativa #
 
@@ -41,15 +412,14 @@ ricos e amplos.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"}
 
-![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano .fullwidth}
-
 As construções semienterradas com planta centralizada são a epítome da
-arquitetura subtrativa, que parece escavada numa massa sólida. Na
-pré-história e na Antiguidade, são essas construções que definem com
-maior clareza os seus espaços interiores. Elas necessariamente são
-construídas com alguma combinação de escavação, aterro e muros de arrimo
-em pedra. Esses arrimos vão desde pedra lavrada, blocos simplesmente
-recolhidos e empilhados, até grandes lajes megalíticas.
+arquitetura subtrativa, que parece escavada numa massa sólida (ver
+@fig:gt-pano). Na pré-história e na Antiguidade, são essas construções
+que definem com maior clareza os seus espaços interiores. Elas
+necessariamente são construídas com alguma combinação de escavação,
+aterro e muros de arrimo em pedra. Esses arrimos vão desde pedra
+lavrada, blocos simplesmente recolhidos e empilhados, até grandes lajes
+megalíticas.
 
 ## {data-background-image="https://i.pinimg.com/originals/6b/f8/67/6bf8674353e270e052c3e571526de747.jpg"}
 
@@ -448,7 +818,5 @@ aparecem em fiadas de regularização, às vezes associados à cantaria de
 pedra. Essas fiadas servem para garantir o assentamento homogêneo da
 parede e a solidarizar na direção horizontal.
 
-# Coberturas e aberturas nas paredes #
-
-# Referências {.unnumbered}
+# Referências {.allowframebreaks}
 

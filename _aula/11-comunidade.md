@@ -198,6 +198,64 @@ Reconstituição do processo urbanístico de Castelo de Vide, Alentejo
 :::::::::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+# Bairro e arrabalde #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A cidade mediterrânea medieval é um sistema de cidadelas inseridas num
+traçado estruturante de aldeias--rua.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/1024px-Evora_-_Roman_town_over_present_urban_fabric.svg.png" data-background-size="contain"}
+
+<!--_,-->
+
+![Évora, traçado romano sobreposto à planta urbanística atual. Desenho: [Pedro P. Palazzo, 2019](https://commons.wikimedia.org/wiki/File:Evora_-_Roman_town_over_present_urban_fabric.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/1024px-Evora_-_Roman_town_over_present_urban_fabric.svg.png){#fig:evora}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Goad-Insurance-Cairo-1905-10-11-12-13.jpg/1280px-Goad-Insurance-Cairo-1905-10-11-12-13.jpg"}
+
+![Mousky, Cairo, baseado na planta de [Goad, 1905](https://commons.wikimedia.org/wiki/File:Goad-Insurance-Cairo-1905-10-11-12-13.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Goad-Insurance-Cairo-1905-10-11-12-13.jpg/1280px-Goad-Insurance-Cairo-1905-10-11-12-13.jpg){#fig:goad .fullwidth}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/1b/f5/3c/1bf53c56aca9810281bcc60691f1eb01.png" data-background-position="left"}
+
+![Comunidade cristã no arrabalde norte de Alepo, Síria, sob o império Otomano, c. 1900. David, 2008](https://i.pinimg.com/originals/1b/f5/3c/1bf53c56aca9810281bcc60691f1eb01.png){#fig:alep-xr .line .fullwidth}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O arrabalde costuma ter um traçado viário radioconcêntrico. A separação
+de comunidades é menos marcada do que na medina.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+*Waqf* (mãos-mortas) --- amortização e desamortização.
+
+# Portos do Sael #
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/56/c2/b2/56c2b2e7e55d315e8a60f0c1aa607236.jpg" data-background-position="left"}
+
+![Impérios do ouro e sal e rotas comerciais na Idade Média. [Smithsonian Institution National Museum of African Art, 2020](https://africa.si.edu/exhibitions/current-exhibitions/caravans-of-gold-fragments-in-time-art-culture-and-exchange-across-medieval-saharan-africa/video/)](https://i.pinimg.com/originals/56/c2/b2/56c2b2e7e55d315e8a60f0c1aa607236.jpg){#fig:si .fullwidth}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mali.A2001291.1045.250m.jpg/1280px-Mali.A2001291.1045.250m.jpg"}
+
+![Delta interior do rio Níger no final da estação das chuvas. Foto do satélite [MODIS]{.smallcaps}, [[NASA]{.smallcaps}, 2001](https://commons.wikimedia.org/wiki/File:Mali.A2001291.1045.250m.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mali.A2001291.1045.250m.jpg/1280px-Mali.A2001291.1045.250m.jpg){#fig:delta}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Mali_Empire.jpg/1280px-The_Mali_Empire.jpg" data-background-size="contain"}
+
+![Império do Mali no final do reinado de Mansa Musa (1337). Mapa: [Gabriel Moss, 2016](https://commons.wikimedia.org/wiki/File:The_Mali_Empire.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Mali_Empire.jpg/1280px-The_Mali_Empire.jpg){#fig:mali}
+
+## {.unlisted}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![foto aérea da década de 1950](https://i.pinimg.com/originals/96/5e/5c/965e5c2677d840c822ce4add63f7ff8b.png){#fig:zaria-aerial}
+:::
+::: {.column width=50%}
+![planta por Hakim & Ahmed, 2008](https://i.pinimg.com/originals/9a/69/1e/9a691ebc137b1543d7fc79a2aebe6db0.png){#fig:zaria-plan .line}
+:::
+Zaria, atual Nigéria, agrupamento de complexos domésticos
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/2e/74/c0/2e74c0e0c9b6cb3f54e90ba7ad8fa32b.png" data-background-size="contain"}
+
+![Zaria, atual Nigéria, complexo doméstico e percurso de acesso segundo Hakim & Ahmed, 2008](https://i.pinimg.com/originals/2e/74/c0/2e74c0e0c9b6cb3f54e90ba7ad8fa32b.png){#fig:zaria-compound .line}
+
 # Processos históricos #
 
 ## Transformações do traçado ##

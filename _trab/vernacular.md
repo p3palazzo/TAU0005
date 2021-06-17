@@ -1,7 +1,16 @@
 ---
-title   : "Edículas vernáculas"
-subtitle: "Trabalho I"
-bibliography: "bibio.bib"
+title: "Edículas vernáculas"
+subtitle: "Atividade I"
+author: "Pedro P. Palazzo"
+date: 2021-09-07
+nocite: |
+  @camp:1984ancient,
+  @choisy:1873art2,
+  @choisy:1883art2,
+  @fornes:1857manual,
+  @segurado:edificacoes,
+  @senseney:2011art,
+  @wright:2000ancient2
 ---
 
 # Ementa #
@@ -9,7 +18,7 @@ bibliography: "bibio.bib"
 Os sistemas construtivos tradicionais de todos os povos do mundo usam
 materiais predominantemente locais, pouco processados, e saberes
 empíricos lentamente refinados, privilegiando estruturas portantes à
-compressão [@krier:2009architecture, 36]. Esse processo resulta em
+compressão. Esse processo resulta em
 arquiteturas com marcada identidade local. Dentro de uma ampla gama de
 variações regionais e culturais, a construção tradicional converge para
 certos padrões universais que respondem a necessidades de durabilidade,
@@ -20,10 +29,12 @@ técnicos qualificados e promovendo um processo produtivo ecológico e
 autogestionado. Nesse espírito, começaremos nossos estudos de
 arquitetura tradicional com a seguinte proposta:
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
 > Construir uma edícula com um único ambiente interno, consoante os
 > princípios universais da construção tradicional.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Objetivo ##
+#### Objetivo ####
 
 Manipular componentes construtivos tradicionais em estruturas
 arquitravadas e naquelas murárias--arqueadas, bem como a lógica
@@ -138,24 +149,4 @@ gradual e naturalmente do seu modo de resolver o problema proposto.
 
 As referências indicadas abaixo devem ser usadas como ponto de partida
 para uma pesquisa mais aprofundada.
-
-- Camp, John McK, e William B. Dinsmoor. *Ancient Athenian building
-  methods.* Excavations of the Athenian Agora 21. Athens: American School
-  of Classical Studies at Athens, 1984.
-- Choisy, Auguste. *L’art de bâtir chez les Byzantins.* Vol. 2
-  (ilustrações). Paris: Sté Anonyme de Publications Périodiques, 1883. -
-- ————. *L’Art de bâtir chez les Romains.* Vol. 2 (ilustrações).
-  Paris: Ducher, 1873.
-- Fornés Gurrea, Manuel. *Manual Práctico del Arte de Edificar.* 2.ª ed.
-  Valencia: Mariano Cabrerizo, 1857.
-- Segurado, João Emilio dos Santos. *Edificações.* Construcção civil 1.
-  Lisboa: Bibliotheca de instrucção profissional, [s.d.].
-- Senseney, John R. *The Art of Building in the Classical World:*
-  Vision, Craftsmanship, and Linear Perspective in Greek and Roman
-  Architecture. New York: Cambridge University Press, 2011.
-- Wright, George R. H. *Ancient building technology.* Vol. 2
-  (ilustrações). Technology and change in history, v. 4, 7. Leiden ;
-  Boston: Brill, 2000.
-
-## Exemplos de produtos ##
 
