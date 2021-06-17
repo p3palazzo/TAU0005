@@ -10,3 +10,62 @@
   "pandoc-solarized",
   "custom"
 ;
+
+/*****************************************************
+ * O Moodle Aprender 3 não tem modo escuro.
+ * Para adequar ao nosso esquema de cores,
+ * incluir código abaixo na seção "Geral".
+
+   <style>
+     body,
+     div.page,
+     #region-main,
+     div.content,
+     h3.sectionname,
+     #page .course-content ul li.section.main {
+       color: #111115; background-color: #fffff8;
+     }
+   </style>
+
+ * O código a seguir cancela o modo escuro neste site.
+ *****************************************************/
+
+@media (prefers-color-scheme: no-preference),
+       (prefers-color-scheme: light),
+       (prefers-color-scheme: dark) {
+	body {
+    color: $mainColor;
+    background-color: $backgroundColor;
+    a:link {
+      text-decoration: none;
+      background: -webkit-linear-gradient($backgroundColor, $backgroundColor), -webkit-linear-gradient($backgroundColor, $backgroundColor), -webkit-linear-gradient(lighten($mainColor, 15%), lighten($mainColor, 15%));
+      background: linear-gradient($backgroundColor, $backgroundColor), linear-gradient($backgroundColor, $backgroundColor), linear-gradient(lighten($mainColor, 15%), lighten($mainColor, 15%));
+      -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      background-repeat: no-repeat, no-repeat, repeat-x;
+      text-shadow: 0.03em 0 $backgroundColor, -0.03em 0 $backgroundColor, 0 0.03em $backgroundColor, 0 -0.03em $backgroundColor, 0.06em 0 $backgroundColor, -0.06em 0 $backgroundColor, 0.09em 0 $backgroundColor, -0.09em 0 $backgroundColor, 0.12em 0 $backgroundColor, -0.12em 0 $backgroundColor, 0.15em 0 $backgroundColor, -0.15em 0 $backgroundColor;
+      background-position: 0% 93%, 100% 93%, 0% 93%;
+    }
+    img, .line, .nobg {
+      // Prevents line drawings as transparent PNGs from disappearing
+      background: none;
+    }
+    table {
+      border-top: 2px solid $mainColor;
+      border-bottom: 2px solid $mainColor;
+      td {
+        border-top: 1px solid $mainColor;
+      }
+      th {
+        border-bottom: 1px solid $mainColor;
+      }
+    }
+    .line {
+      border: none;
+    }
+    .nobg {
+      border: none;
+    }
+	}
+}
