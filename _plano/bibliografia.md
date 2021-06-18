@@ -42,17 +42,19 @@ videoconferências de cada semana.
   usando as suas credenciais da [BCE]{.smallcaps} ([CPF]{.smallcaps} e
   senha usada no balcão de empréstimo).
 
-# Manuais práticos de arquitetura tradicional e clássica #
+# Tratados de arquitetura tradicional e clássica #
 
 As obras indicadas abaixo são os pontos de partida mais indicados para a
 elaboração das atividades, e devem ser estudadas com afinco. Elas estão
-disponíveis na área de arquivos do [Aprender 3][].
+disponíveis na área de arquivos do [Aprender 3][] ou no link indicado.
 
-1. {% reference chitham:2005classical %}
-2. {% reference liang:1984pictorial %}
-3. {% reference pereira:1955enciclopedia %}
-4. {% reference segurado:edificacoes %}
-5. {% reference vitruvio:2007tratado %}
+```{=latex}
+\printbibliography[keyword={tau0005-tratado},heading=none]
+```
+
+```{=html}
+{% bibliography --query @*[keywords ~= tau0005-tratado] %}
+```
 
 <i class="fas fa-check-circle"></i>
 
@@ -80,8 +82,13 @@ podem ser úteis para tirar dúvidas ou adquirir habilidades mais
 avançadas. Os dois livros do Ching estão disponíveis em formato
 eletrônico pela [BCE]{.smallcaps}.
 
-1. {% reference ching:2017representacao %}
-2. {% reference ching:2012desenho %}
+```{=latex}
+\printbibliography[keyword={tau0005-desenho},heading=none]
+```
+
+```{=html}
+{% bibliography --query @*[keywords ~= tau0005-desenho] %}
+```
 
 # Bibliografia básica #
 
@@ -99,7 +106,7 @@ na área de arquivos do [Aprender 3][].
 ```
 
 ```{=html}
-{% bibliography --query @*[keywords=tau0005-basica] %}
+{% bibliography --query @*[keywords ~= tau0005-basica] %}
 ```
 
 # Bibliografia complementar #
@@ -116,7 +123,7 @@ do [Aprender 3][].
 ```
 
 ```{=html}
-{% bibliography --query @*[keywords=tau0005-complementar] %}
+{% bibliography --query @*[keywords ~= tau0005-complementar] %}
 ```
 
 [[BCE]{.smallcaps}]: https://bce.unb.br
