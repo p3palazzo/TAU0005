@@ -4,10 +4,12 @@ subtitle: "Trabalho II"
 bibliography: "biblio.bib"
 ---
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
 > Projetar é compor, mas para compor é preciso ter objetos a serem compostos:
 > para os arquitetos, estes são os "elementos da arquitetura".
 >
-> Harbeson, [*The study of architectural design*](https://babel.hathitrust.org/cgi/pt?id=mdp.39015014100054&view=1up&seq=25), 1926, p. 27.
+> <footer>Harbeson, [*The study of architectural design*](https://babel.hathitrust.org/cgi/pt?id=mdp.39015014100054&view=1up&seq=25), 1926, p. 27.</footer>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Ementa #
 

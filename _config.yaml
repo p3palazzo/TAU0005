@@ -41,7 +41,7 @@ collections:
       - apoio.md
       - avalia.md
       - bibliografia.md
-  trab:
+  trabalho:
     output: true
     permalink: /:collection/:name/
     order:
@@ -79,8 +79,8 @@ sass_dir:
     - reveal.js/css/theme/template
 scholar:
   locale: pt-BR
-  sort_by: author,year
-  order: ascending,descending
+  sort_by: author,editor,year
+  order: ascending,ascending,descending
   style: "chicago-fullnote-bibliography-with-ibid"
 timezone: America/Sao_Paulo
 

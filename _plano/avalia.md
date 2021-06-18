@@ -82,13 +82,13 @@ hipótese alguma*, trabalhos por e-mail.
 
 : Atividades avaliativas da disciplina e respectiva pontuação {#tbl:atividades}
 
-[Analítico]: ../_trab/analitico.md
+[Analítico]: ../_trabalho/analitico.md
 
-[Edícula vernácula]: ../_trab/vernacular.md
+[Edícula vernácula]: ../_trabalho/vernacular.md
 
-[Composição com volumes]: ../_trab/quincunx.md
+[Composição com volumes]: ../_trabalho/quincunx.md
 
-[Analítico com ordens clássicas]: ../_trab/classico.md
+[Analítico com ordens clássicas]: ../_trabalho/classico.md
 
 <!--_,-->
 
