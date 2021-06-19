@@ -1,18 +1,23 @@
 ---
-title: "Estudo analítico"
+title: "Estudo analítico: a cabana primitiva"
 subtitle: "Atvidade de nivelamento inicial"
 date: 2021-07-29
 nocite: >
-  @harbeson:1927study
+  @ching:2017representacao,
+  @harbeson:1927study,
+  @laugier:1755essai,
+  @pereira:1955enciclopedia7
 ---
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
-> [...] o seu propósito é garantir ao estudante, antes de ingressar no
-> estudo da arquitetura propriamente dita, o comando de certo
-> conhecimento das coisas necessárias para representar adequadamente uma
-> edificação proposta.
+> [O] propósito [do estudo analítico] é garantir ao estudante, antes de
+> ingressar no estudo da arquitetura propriamente dita, o comando de
+> certo conhecimento das coisas necessárias para representar
+> adequadamente uma edificação proposta.
 >
-> <footer>Lloyd Warren, Prefácio *in* John Harbeson, [*The study of architectural design*](https://babel.hathitrust.org/cgi/pt?id=mdp.39015014100054&view=1up&seq=25), 1926, p. 6.</footer>
+> <footer>Lloyd Warren, Prefácio *in* John Harbeson,
+> [*The Study of Architectural Design*](https://babel.hathitrust.org/cgi/pt?id=mdp.39015014100054&view=1up&seq=25),
+> 1927, p. 6.</footer>
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Objetivo #
@@ -31,11 +36,26 @@ construção vão ser acoplados entre si, qual efeito espacial e visual
 resulta dessa montagem, e como ela precisa ser representada nas
 convenções do desenho arquitetônico.
 
-O estudo analítico (@fig:exemplos) tem sido a porta de entrada no estudo
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote}
+
+[A alegoria da cabana primitiva]{.newthought} é um expediente para enfatizar o quanto
+a arquitetura tradicional é uma expressão direta da construção. Ela
+aparece desde o tratado de Vitrúvio [@vitruvio:2007tratado, livro II
+cap. 1]. Depois dele, a versão mais famosa da cabana primitiva foi feita
+na metade do século [XVIII]{.smallcaps} ([@fig:laugier]), no ensaio do
+padre francês Marc-Antoine Laugier [@laugier:1755essai]. A cabana
+primitiva não tem necessariamente a ver com alguma cultura considerada
+"primitiva" em particular, e sim com o conceito de uma construção
+reduzida às suas mínimas necessidades. Ela é sempre pensada como uma
+montagem simples e racional de elementos em madeira. Por isso, o estudo
+de uma cabana primitiva qualquer é uma boa porta de entrada para a
+prática da arquitetura tradicional.
+
+[O estudo analítico]{.newthought}, por sua vez, tem sido a porta de entrada no estudo
 do classicismo desde a organização do ensino na Academia de Arquitetura
 em Paris, no século  [XVIII]{.smallcaps}, difundindo-se para o sistema
 as Escolas de Belas-Artes em dezenas de países, inclusive no Brasil, nos
-séculos [XIX]{.smallcaps} e [XX]{.smallcaps}. Na Escola de Belas-Artes
+séculos [XIX]{.smallcaps} e [XX]{.smallcaps} (@fig:exemplos). Na Escola de Belas-Artes
 de Paris, no final do século [XIX]{.smallcaps}, o analítico era uma das
 provas de seleção para o ingresso no curso de Arquitetura. Na do Rio de
 Janeiro, no começo do século [XX]{.smallcaps}, era um dos primeiros
@@ -57,86 +77,70 @@ detalhes, derivadas dos seus estudos classicistas.
 Exemplos de desenhos analíticos de ordens clássicas, [D.W. Bates](http://www.dwbates.com/fine-art)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-As "cinco ordens" da arquitetura clássica foram codificadas como um
-cânone relativamente tarde, nos tratados de autores italianos como
-Serlio, Vinhola (Vignola) e Palladio, em torno da metade do século [XVI]{.smallcaps}.
-No entanto, elas não são uma "invenção" arbitrária de algumas pessoas,
-mas o resultado da consolidação milenar de práticas construtivas,
-costumes projetuais e refinamentos estéticos.
-
-As ordens clássicas são elementos de um certo modo tradicional de
-construir, mas elas não são como os modernos componentes construtivos
-industrializados. Cada projeto clássico introduz ligeiras variações, por
-vezes quase imperceptíveis, nos detalhes e nas proporções das ordens,
-enfatizando assim que a sua execução é um trabalho artesanal altamente
-qualificado. As ordens também são elementos de *decoração*, mas não são
-simples "enfeites" colados no final. *O projeto clássico incorpora as
-ordens desde o início como elementos reguladores do traçado, das
-proporções e da expressão construtiva da edificação.* Mesmo quando as
-colunas ou pilastras estão embutidas numa parede portante, elas podem
-contribuir literalmente com o contraventamento da estrutura, ou
-simbolicamente como representação de uma certa lógica construtiva
-tradicional e como expressão do *decoro*, ou dignidade do projeto.
-
 # Ementa #
 
-Observe o modelo tridimensional de uma ordem clássica abaixo, executado
-em cantaria de pedra, ou seja, pedra talhada usada estruturalmente. Ele
-é baseado na descrição da ordem jônica e da base ática no tratado de
-Vitrúvio [@vitruvio:2007tratado, livro III, cap. 3--5]. Leia atentamente
-o trecho de Vitrúvio e compare com o modelo para compreender as
-proporções e os elementos que compõem esta ordem jônica canônica.
-Observe, também, as convenções de representação exemplificadas na Figura
+Observe a vista tridimensional de uma cabana primitiva abaixo, executado
+em madeira ([@fig:cabana]). Ela é baseada na síntese da ordem toscana
+segundo Robert Chitham e na sua versão em madeira descrita por Julien
+Guadet [@chitham:2005classical, p. 56--61; @guadet:1915elements1, p.
+385--392]. Estude atentamente a configuração e as proporções dessa ordem
+no tratado de Chitham e compare com a vista para compreender as
+proporções e os elementos que compõem esta cabana primitiva. Observe,
+também, as convenções de representação exemplificadas na Figura
 [-@fig:exemplos]. Então,
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
-> Desenhe um estudo analítico da ordem jônica segundo Vitrúvio, em
-> elevação, corte e planta de teto projetado, evidenciando a montagem
-> dos seus elementos construtivos.
+> Desenhe um estudo analítico da cabana primitiva em elevação, corte e
+> planta de teto projetado, evidenciando a montagem dos seus elementos
+> construtivos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Cabana primitiva em madeira na ordem toscana](){#fig:cabana}
 
 # Produto #
 
 Numa prancha [A3]{.smallcaps}, na orientação vertical, represente a
-ordem jônica do modelo tridimensional em elevação, corte e planta de
-teto projetado. Todas estas vistas são ortográficas, ou seja, sem
-perspectiva.
+cabana primitiva da Figura [-@fig:cabana] em elevação, corte e planta de
+teto projetado [Veja o que é e como desenhar uma planta de teto
+projetado em @ching:2017representacao, p.62; cortes e elevações em
+@ching:2017representacao, p. 69--88]. Todas estas vistas são
+ortográficas, ou seja, *sem* perspectiva.
 
-- Tanto no corte quanto na elevação, mostre as juntas entre os blocos de
-  pedra.
+- Tanto no corte quanto na elevação, mostre as juntas entre as peças em
+  madeira.
 - Adote dos exemplos na Figura [-@fig:exemplos] o modo de representar o
   corte associado à elevação e a coluna interrompida, mostrando apenas
   as suas extremidades inferior e superior; não é preciso representar as
   sombras.
 - Desenhe usando os [instrumentos e materiais](materiais.md) indicados e
-  siga as convenções de desenho desta disciplina; observe as
+  siga as [convenções de desenho](desenho.md) desta disciplina; observe as
   [dicas para digitalizar](digitalizar.md) a sua entrega.
 
 # Cronograma e critérios de avaliação #
 
-| Data  | Atividade                                                                 |
-|:-----:|:--------------------------------------------------------------------------|
-| 25/02 | Lançamento do trabalho: escolher ordem e iniciar a pesquisa de repertório |
-| 09/03 | Orientação 1: implantação, partido e proporções                           |
-| 16/03 | Orientação 2: desenvolver articulação construtiva e proporções da edícula |
-| 23/03 | Orientação 3: detalhar elementos da ordem e quinas da edícula             |
-| 30/03 | Orientação 4: planejar a arte-final e o layout da prancha                 |
-| 06/04 | Orientação 5: todos os desenhos esboçados na diagramação final da prancha |
-| 13/04 | Entrega da prancha arte-finalizada                                        |
+|  Data | Tarefa                             |
+|:-----:|:-----------------------------------|
+| 20/07 | Lançamento da atividade            |
+| 27/07 | Revisão dos trabalhos em andamento |
+| 29/07 | Entrega da atividade               |
 
 : Cronograma {#tbl:cronograma}
 
-| Critério de avaliação                                                  |  Valor |
-|:-----------------------------------------------------------------------|-------:|
-| Aplicação correta dos elementos canônicos da arquitetura clássica      |      8 |
-| Precisão e clareza de execução dos desenhos                            |      5 |
-| Uso correto, elegante e eficaz de margens, legendas e escalas gráficas |      2 |
-| **Total**                                                              | **15** |
+| Critério de avaliação                                                        |  Valor |
+|:-----------------------------------------------------------------------------|-------:|
+| Interpretação e proporções corretas dos elementos construtivos               |      4 |
+| Projeção ortográfica correta                                                 |      4 |
+| Uso correto e eficaz de pesos de linha, margens, legendas e escalas gráficas |      2 |
+| **Total**                                                                    | **10** |
 
-: Produto {#tbl:produto}
+: Critérios de avaliação {#tbl:criterios}
 
 # Referências #
 
 As referências indicadas abaixo devem ser usadas como ponto de partida
-para uma pesquisa mais aprofundada.
+para uma pesquisa mais aprofundada. 
+
+```{=html}
+{% bibliography --query @*[keywords ~= tau0005-analitico] %}
+```
 
