@@ -74,7 +74,7 @@ hipótese alguma*, trabalhos por e-mail.
 
 | Unidade | Atividade                          | Entrega | Pontuação |
 |:-------:|:-----------------------------------|:-------:|----------:|
-|  Intro  | [Analítico][]                      |  29/07  |        10 |
+|  Intro  | [Cabana primitiva][]               |  29/07  |        10 |
 |    I    | [Edícula vernácula][]              |  07/09  |        20 |
 |    II   | [Composição com volumes][]         |  12/10  |        30 |
 |   III   | [Analítico com ordens clássicas][] |  04/11  |        40 |
@@ -82,7 +82,7 @@ hipótese alguma*, trabalhos por e-mail.
 
 : Atividades avaliativas da disciplina e respectiva pontuação {#tbl:atividades}
 
-[Analítico]: ../_trabalho/analitico.md
+[Cabana primitiva]: ../_trabalho/analitico.md
 
 [Edícula vernácula]: ../_trabalho/vernacular.md
 

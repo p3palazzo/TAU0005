@@ -36,7 +36,7 @@ II. [Arquitetura tradicional](_aula/01-arqtrad.md)
       — Construção tradicional e construção moderna
 
 [Atividade de nivelamento](_trabalho/analitico.md) <!--_,-->
-~ [^a1] Estudo analítico
+~ [^a1] Cabana primitiva
 
 # Elementos da construção #
 
