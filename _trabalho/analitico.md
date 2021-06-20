@@ -79,8 +79,8 @@ Exemplos de desenhos analíticos de ordens clássicas, [D.W. Bates](http://www.d
 
 # Ementa #
 
-Observe a vista tridimensional de uma cabana primitiva abaixo, executado
-em madeira ([@fig:cabana]). Ela é baseada na síntese da ordem toscana
+Observe a vista isométrica de uma cabana primitiva abaixo, executado em
+madeira ([@fig:cabana]). Ela é baseada na síntese da ordem toscana
 segundo Robert Chitham e na sua versão em madeira descrita por Julien
 Guadet [@chitham:2005classical, p. 56--61; @guadet:1915elements1, p.
 385--392]. Estude atentamente a configuração e as proporções dessa ordem
@@ -95,7 +95,7 @@ também, as convenções de representação exemplificadas na Figura
 > construtivos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cabana primitiva em madeira na ordem toscana](){#fig:cabana}
+![Cabana primitiva em madeira na ordem toscana](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-cabana-primitiva.png){#fig:cabana .fullwidth}
 
 # Produto #
 
