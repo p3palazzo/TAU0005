@@ -308,13 +308,13 @@ article > dl, section > dl, .incremental > dl, div.csl-bib-body > dl, details > 
 
 dt, h5, h6 { float: left; margin: 0 1.4rem 0 0; padding: 0; line-height: 2rem; }
 
-h3, h5 { font-size: 1.8rem; }
+h3, h5, span.newthought { font-size: 1.8rem; }
 
-h5 { margin-top: -0.1rem; }
+h5, span.newthought { margin-top: -0.1rem; }
 
-article ol, article ul { margin-left: -2.5rem; width: 55%; }
+ol, ul { margin-left: -2.5rem; width: 55%; }
 
-article ol > li::marker, article ul > li::marker { font-variant: tabular-nums oldstyle-nums all-small-caps; }
+ol > li::marker, ul > li::marker { font-variant: tabular-nums oldstyle-nums all-small-caps; }
 
 ul { list-style-type: none; }
 
@@ -327,7 +327,7 @@ ul li::before { content: "— "; }
 .cv dt { font-variant: tabular-nums oldstyle-nums all-small-caps; margin-left: -8.5rem; }
 
 /*********************************************** General formatting improvements */
-h1 em, h2 em, p.subtitle em, .subtitle.csl-entry em, div.epigraph em { font-style: normal; }
+h1 em, h2 em, p.subtitle em, .subtitle.csl-entry em, div.epigraph > blockquote > p em, div.epigraph > blockquote > .csl-entry em { font-style: normal; }
 
 hr { border: 0; clear: left; text-align: center; font-size: 2.4rem; padding: 0.5rem 0; }
 
@@ -349,7 +349,7 @@ table td > p, table td > .csl-entry { margin-top: 0; }
 
 code { border: 0.5px solid #111115; border-radius: 0.5rem; padding: 0.25rem; }
 
-sup { font-weight: 500; }
+blockquote > footer, sup { font-weight: 500; }
 
 /*********************************************** Pandoc+Citeproc improvements */
 section > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, .incremental > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, section > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote, .incremental > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote, div.csl-bib-body > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, div.csl-bib-body > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote, details > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, details > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote, div.notes > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote, div.notes > blockquote > .csl-entry > span.citation > span.sidenote-wrapper > span.sidenote { margin-right: -70%; }
@@ -358,11 +358,9 @@ section > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote
 
 .marginnote, figcaption, .subfigures p, .subfigures .csl-entry, .sidenote { font-style: normal; font-weight: 500; hyphens: auto; margin-bottom: 1rem; }
 
-.sidenote-number, .sidenote-number:after, .sidenote:before { font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif; }
+.sidenote-number, .sidenote-number::after, .sidenote::before { font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif !important; font-weight: 500; }
 
 .smallcaps, dt, dt > a, h3, h4, h5, span.newthought { font-variant: all-small-caps; }
-
-span.newthought { font-size: 1.4rem; }
 
 .csl-entry { text-indent: -1.4rem; }
 
@@ -423,7 +421,7 @@ nav.pagination > ul > li:last-child::after { content: ""; }
 /****************************************************** Screen width overrides must come last. */
 .marginnote-directions { display: none; }
 
-@media (max-width: 760px) { div.incremental, header > div.epigraph, dl, figure > img.fullwidth, details, .author, .blogroll { width: 90%; } img.marginnote { float: none; width: 90%; } figcaption, .subfigures p, .subfigures .csl-entry, .marginnote-directions { display: inline; } article ol .marginnote, article ol figcaption, article ol .subfigures p, .subfigures article ol p, article ol .subfigures .csl-entry, .subfigures article ol .csl-entry, article ul .marginnote, article ul figcaption, article ul .subfigures p, .subfigures article ul p, article ul .subfigures .csl-entry, .subfigures article ul .csl-entry { display: none; } }
+@media (max-width: 760px) { div.incremental, header > div.epigraph, dl, figure > img.fullwidth, details, .author, .blogroll { width: 90%; } img.marginnote { display: inline; float: none; width: 100%; } .column { width: 100% !important; } figcaption, .subfigures p, .subfigures .csl-entry, .columns.subfigures > p, .marginnote-directions { display: inline; clear: both; max-width: 90%; width: 90%; margin-right: 0; margin-left: 10%; } }
 
 @media (max-width: 960px) { .cv dt { margin-left: -1.5rem; } .cv dt::before { content: "– "; } }
 
