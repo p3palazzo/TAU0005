@@ -68,6 +68,12 @@ Papel de rascunho
 ~ Acostume-se, também, a levar sempre consigo um caderno ou bloco de
   papel de boa qualidade para rabiscar ideias a qualquer momento.
 
+Desenho
+
+~ Respeite as [convenções de desenho arquitetônico](desenho.md) que
+  usaremos nesta disciplina. Elas são ligeiramente diferentes do que
+  você vai usar na disciplina de Desenho Arquitetônico.
+
 Entrega digital
 
 ~ [Veja aqui](digitalizar.md) algumas dicas para entregar o seu

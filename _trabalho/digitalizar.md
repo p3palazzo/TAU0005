@@ -3,6 +3,10 @@ title: Como digitalizar os desenhos
 date: 2021-07-20
 ---
 
+Veja primeiro os [instrumentos e materiais](materiais.md) indicados para
+realizar as atividades, assim como as
+[convenções de desenho](desenho.md) que usamos.
+
 Para fazer as entregas, você precisa digitalizar os desenhos e
 carregá-los na respectiva atividade no Moodle. Se você não tiver
 acesso a um scanner tamanho [A3]{.smallcaps} (quase ninguém tem, não
@@ -45,3 +49,5 @@ se sinta mal por isso!), siga as dicas a seguir:
 8. Carregue o(s) arquivo(s) na respectiva atividade do Moodle, e não se
    esqueça de clicar no botão `Enviar tarefa` depois de concluir o
    upload!
+
+[[GIMP]{.smallcaps}]: https://gimp.org

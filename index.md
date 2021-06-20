@@ -7,11 +7,12 @@ layout: index
 
 # Antes de começar #
 
-1. [Por que estudar história da arquitetura ?](_plano/por-que-historia.md) <!--_,-->
-2. [Como estudamos história na FAU–UnB ?](_plano/sobre-disciplina.md) <!--_,-->
-3. [O que você vai aprender nesta disciplina ?](_plano/objetivos.md) <!--_,-->
-4. [Como vamos trabalhar a distância ?](_plano/metodologia.md) <!--_,-->
-5. [O que você precisa ler ?](_plano/bibliografia.md) <!--_,-->
+1. [Por que estudar história da arquitetura ?](_plano/por-que-historia.md)
+2. [Como estudamos história na FAU–UnB ?](_plano/sobre-disciplina.md)
+3. [O que você vai aprender nesta disciplina ?](_plano/objetivos.md)
+4. [Como vamos trabalhar a distância ?](_plano/metodologia.md)
+5. [O que você precisa ler ?](_plano/bibliografia.md)
+6. [Que materiais você precisa ter para fazer as atividades ?](_trabalho/materiais.md)
 6. [Como vamos avaliar o seu aproveitamento ?](_plano/avalia.md) <!--_,-->
 
 # Introdução #
@@ -34,8 +35,8 @@ II. [Arquitetura tradicional](_aula/01-arqtrad.md)
       — Arquitetura é construção
       — Construção tradicional e construção moderna
 
-[Atividade de nivelamento](_trab/analitico.md) <!--_,-->
-~ [^a1] Analítico
+[Atividade de nivelamento](_trabalho/analitico.md) <!--_,-->
+~ [^a1] Cabana primitiva
 
 # Elementos da construção #
 
@@ -74,7 +75,7 @@ VII. [Coberturas e superfícies](_aula/07-coberturas.md)
        — Molduras, vedações e aberturas
        — Revestimentos
 
-[Atividade](_trab/vernacular.md) <!--_,-->
+[Atividade](_trabalho/vernacular.md) <!--_,-->
 ~ [^a2] Edícula vernácula
 
 # Elementos de composição #
@@ -110,7 +111,7 @@ XI. [Comunidade](_aula/11-comunidade.md)
       — Parataxis
       — Universalidade dos processos urbanísticos
 
-[Atividade](_trab/quincunx.md) <!--_,-->
+[Atividade](_trabalho/quincunx.md) <!--_,-->
 ~ [^a3] Composição com volumes
 
 # Fazer arquitetura #
@@ -148,7 +149,7 @@ XV.  [Caracterizar](_aula/15-caracterizar.md)
    -       — Proporções fixas e dinâmicas
    -->
 
-[Atividade](_trab/classico.md) <!--_,-->
+[Atividade](_trabalho/classico.md) <!--_,-->
 ~ [^a4] Analítico com ordens clássicas
 
 

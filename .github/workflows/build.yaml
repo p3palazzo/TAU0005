@@ -1,9 +1,11 @@
-name: Build
+name: Website
 on:
   pull_request:
   push:
     branches: [ main ]
+
 jobs:
+
   build:
     runs-on: ubuntu-latest
     steps:
@@ -17,10 +19,11 @@ jobs:
       with:
         name: site
         path: '_site/*'
+
   commit:
     runs-on: ubuntu-latest
     needs: [ build ]
-    if: github.event_name == 'push' && github.repository == 'p3palazzo/tau0005'
+    if: github.event_name == 'push'
     env:
       commit_message: ${{ github.event.head_commit.message }}
     steps:

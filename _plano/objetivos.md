@@ -14,8 +14,8 @@ Introdução à disciplina
 ~ *Dominar algumas convenções fundamentais da arquitetura tradicional e
   da sua representação gráfica.*
 
-[Atividade](_trab/analitico.md) <!--_,-->
-~ Analítico
+[Atividade](../_trabalho/analitico.md) <!--_,-->
+~ Cabana primitiva
 
 I.  Elementos da construção
 
@@ -23,7 +23,7 @@ I.  Elementos da construção
       arquitravadas e naquelas murárias--arqueadas, bem como a lógica
       intrínseca aos detalhes construtivos de origem vernácula.
 
-[Atividade](_trab/vernacular.md) <!--_,-->
+[Atividade](../_trabalho/vernacular.md) <!--_,-->
 ~ Edícula vernácula
 
 II. Elementos de composição
@@ -32,7 +32,7 @@ II. Elementos de composição
       elementos da construção tradicional e a tipologia edilícia para
       dar forma e caráter a esses espaços.
 
-[Atividade](_trab/quincunx.md) <!--_,-->
+[Atividade](../_trabalho/quincunx.md) <!--_,-->
 ~ Composição com volumes
 
 III. Fazer arquitetura
@@ -42,6 +42,6 @@ III. Fazer arquitetura
        aspectos estéticos assim como sua lógica de representação
        construtiva (disposição, proporções, modenatura).
 
-[Atividade](_trab/classico.md) <!--_,-->
+[Atividade](../_trabalho/classico.md) <!--_,-->
 ~ Analítico com ordens clássicas
 
