@@ -23,10 +23,10 @@ Toque no alvo ⊕ para mostrar as datas.
 
 I.  [Processos da arquitetura](_aula/02-processos.md)
 
-    ~ [^1] Ordem
+    ~ [^1] Ordem e lugar
       — Proporção
       — Representação
-      — Mito da cabana primitiva
+      — Alegoria da cabana primitiva
 
 II. [Arquitetura tradicional](_aula/01-arqtrad.md)
 

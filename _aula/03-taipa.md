@@ -12,7 +12,19 @@ title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg
 ---
 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg"}
+
 ![Thomas Cole, The Course of Empire: The Arcadian or Pastoral State, 1836 ](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian .fullwidth}
+
+O contato com a Natureza justifica a racionalidade da técnica em
+particular e a autenticidade das práticas sociais em geral, como na cena
+pastoral da nossa já conhecida série de pinturas de Thomas Cole
+(@fig:cole-arcadian) que trata do *Decurso do império*. O monumento
+megalítico no promontório reúne duas credenciais que descrevem a
+essência da cultura humana: o uso *individual* da razão, que concebe o
+uso eficiente dos materiais de construção, e a convenção *social* da
+religião organizada, que permite reunir o esforço coletivo necessário à
+execução da obra.
 
 # Materiais da arquitetura tradicional #
 
