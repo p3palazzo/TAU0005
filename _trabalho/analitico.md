@@ -27,6 +27,8 @@ da sua representação gráfica.
 
 # Contexto #
 
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote}
+
 Arquitetura é construção. O propósito da arquitetura é, antes de mais
 nada, o de oferecer abrigo e contexto para as atividades humanas.
 Portanto, nenhuma composição arquitetônica pode ser bem-sucedida se não
@@ -35,8 +37,6 @@ isso, temos que visualizar corretamente como os diferentes elementos da
 construção vão ser acoplados entre si, qual efeito espacial e visual
 resulta dessa montagem, e como ela precisa ser representada nas
 convenções do desenho arquitetônico.
-
-![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote}
 
 [A alegoria da cabana primitiva]{.newthought} é um expediente para enfatizar o quanto
 a arquitetura tradicional é uma expressão direta da construção. Ela
@@ -50,6 +50,31 @@ reduzida às suas mínimas necessidades. Ela é sempre pensada como uma
 montagem simples e racional de elementos em madeira. Por isso, o estudo
 de uma cabana primitiva qualquer é uma boa porta de entrada para a
 prática da arquitetura tradicional.
+
+O *grau zero* da arquitetura representado pela cabana primitiva
+comparece num tipo peculiar de construção da cultura Jōmon. Essa
+construção é chamada simplesmente de estrutura com seis pilares, e
+comparece no sítio arqueológico de Sannai Maruyama, no extremo norte da
+ilha de Honxu (@fig:sannai-site). Não é possível determinar, hoje em
+dia, a função e a configuração precisa dessas estruturas. A
+reconstituição executada no final do século [XX]{.smallcaps}
+([@fig:sannai; @fig:6pillar]) é uma conjetura baseada na posição das
+fundações e nos vestígios de madeira preservados graças ao terreno
+pantanoso do local.
+
+![Vista parcial do sítio arqueológico de Sannai Maruyama, cultura Jōmon, 3900--2300 a.C. Reconstituição 1997--2002. Foto: [663highland, 2014](https://commons.wikimedia.org/wiki/File:140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg/1280px-140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg){#fig:sannai .fullwidth}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:6pillar}
+::: {.column width=50%}
+![[[Koike]{.smallcaps} Takashi, 2008](https://commons.wikimedia.org/wiki/File:三内丸山遺跡大型掘立柱建物.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/三内丸山遺跡大型掘立柱建物.JPG/682px-三内丸山遺跡大型掘立柱建物.JPG){#fig:6pillarA}
+:::
+::: {.column width=50%}
+![[[Iwanami]{.smallcaps} Riku, 2015](https://commons.wikimedia.org/wiki/File:山内丸山遺跡_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/山内丸山遺跡_-_panoramio.jpg/685px-山内丸山遺跡_-_panoramio.jpg){#fig:6pillarB}
+:::
+Estrutura com seis pilares, sítio arqueológico de Sannai Maruyama, cultura Jōmon, c. 2600 a.C. Fotos:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * *
 
 [O estudo analítico]{.newthought}, por sua vez, tem sido a porta de entrada no estudo
 do classicismo desde a organização do ensino na Academia de Arquitetura
