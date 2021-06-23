@@ -80,6 +80,63 @@ origem da arquitetura, como a alegoria da cabana primitiva segundo
 Vitrúvio.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted}
+
+O *grau zero* da arquitetura representado pela estrutura mais simples
+possível em madeira comparece num tipo peculiar de construção da cultura
+Jōmon. Essa construção é chamada simplesmente de estrutura com seis
+pilares, e comparece no sítio arqueológico de Sannai Maruyama, no
+extremo norte da ilha de Honxu (@fig:sannai-site)
+[@jarzombek:2013architecture, 152-158]. Não é possível determinar, hoje
+em dia, a função e a configuração precisa dessas estruturas. A
+reconstituição executada no final do século [XX]{.smallcaps}
+([@fig:sannai; @fig:6pillar]) é uma conjetura baseada na posição das
+fundações e nos vestígios de madeira preservados graças ao terreno
+pantanoso do local. A estrutura dessas construções é inteiramente feita
+em toras e troncos roliços de carvalho; todas as construções eram
+orientadas aproximadamente na direção leste--oeste.
+
+::: {#fig:sannai-site}
+::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=30%}
+![Situação no território das sociedades pré-históricas que construíram habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-and-pit-dwellings.png){#fig:sannai-globe .nobg}
+:::
+::: {.column width=30%}
+![Locação junto à baía de Mutsu, atual município de Aomori, Japão](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-loc.png){#fig:sannai-mutsu}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Corte do sítio reconstituído](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-540.png){#fig:sannai-sec .fullwidth}
+
+Esquema do sítio arqueológico de Sannai Maruyama, cultura Jōmon, 3900--2300 a.C.
+:::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg/1280px-140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg"}
+
+![Vista parcial do sítio arqueológico de Sannai Maruyama, reconstituição 1997--2002. Foto: [663highland, 2014](https://commons.wikimedia.org/wiki/File:140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg/1280px-140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg){#fig:sannai}
+
+## {.unlisted}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:6pillar}
+::: {.column width=50%}
+![[[Koike]{.smallcaps} Takashi, 2008](https://commons.wikimedia.org/wiki/File:三内丸山遺跡大型掘立柱建物.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/三内丸山遺跡大型掘立柱建物.JPG/682px-三内丸山遺跡大型掘立柱建物.JPG){#fig:6pillarA}
+:::
+::: {.column width=50%}
+![[[Iwanami]{.smallcaps} Riku, 2015](https://commons.wikimedia.org/wiki/File:山内丸山遺跡_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/山内丸山遺跡_-_panoramio.jpg/685px-山内丸山遺跡_-_panoramio.jpg){#fig:6pillarB}
+:::
+Reconstituição de uma estrutura com seis pilares, sítio arqueológico de Sannai Maruyama, cultura Jōmon, c. 2600 a.C. Fotos:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * *
+
+[A alegoria da cabana primitiva]{.newthought} é um expediente para enfatizar o quanto
+a arquitetura tradicional é uma expressão direta da construção. A cabana
+primitiva não tem necessariamente a ver com alguma cultura considerada
+"primitiva" em particular, e sim com o conceito de uma construção
+reduzida às suas mínimas necessidades. Ela é sempre pensada como uma
+montagem simples e racional de elementos em madeira. Por isso, o estudo
+de uma cabana primitiva qualquer é uma boa porta de entrada para a
+prática da arquitetura tradicional.
+
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/47/A_Hunting_Scene_MET_DT6.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -106,7 +163,7 @@ fogueira familiar ou comunitária.
 ![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[A origem social da construção]{.newthought} foi sendo esquecida aos
+A origem social da construção foi sendo esquecida aos
 poucos pelos tratadistas do Renascimento, até ser completamente
 invertida em 1753 pelo padre jesuíta francês e teórico da arquitetura
 Marc-Antoine Laugier (@fig:laugier). O mito da cabana primitiva, na
