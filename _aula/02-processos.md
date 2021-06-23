@@ -161,6 +161,12 @@ arquitetura.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Prise_de_la_Bastille_clean.jpg/1280px-Prise_de_la_Bastille_clean.jpg"}
 
+![Jean-Pierre Houël, Tomada da Bastilha, 1789, aquarela sobre papel](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Prise_de_la_Bastille_clean.jpg/1280px-Prise_de_la_Bastille_clean.jpg){#fig:bastille}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"}
+
+![Caspar David Friedrich, Andarilho sobre o mar de névoa, 1817](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg){#fig:friedrich .marginnote}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As implicações políticas do individualismo iluminista são bem
 conhecidas, e desembocam na Revolução francesa a partir de 1789, com a
@@ -173,17 +179,9 @@ dois casos, o momento de maior pureza de um conceito ou sensação é
 aquele que está na *origem*, tida como mais autêntica ou espontânea.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Jean-Pierre Houël, Tomada da Bastilha, 1789, aquarela sobre papel](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Prise_de_la_Bastille_clean.jpg/1280px-Prise_de_la_Bastille_clean.jpg){#fig:bastille}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"}
-
-![Caspar David Friedrich, Andarilho sobre o mar de névoa, 1817](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg){#fig:friedrich .marginnote}
-
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg"}
 
 <!--_,-->
-
-![Vincenzo Camuccini, A morte de César, 1804--1805](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/1280px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg){#fig:caesar .fullwidth}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O argumento iluminista e romântico ia no sentido oposto ao de Vitrúvio.
@@ -199,6 +197,8 @@ processos e dos resultados. O ideal romano de um processo social que se
 desdobra ao longo do tempo vai ser revisitado, e deformado, na segunda
 metade do século [XIX]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Vincenzo Camuccini, A morte de César, 1804--1805](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/1280px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg){#fig:caesar .fullwidth}
 
 ## {.unlisted}
 
