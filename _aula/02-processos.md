@@ -5,20 +5,124 @@ author: "Pedro P. Palazzo"
 date: 2021-07-27
 abstract: |
   Ordem e lugar
-  — Proporção
+  — Proporção e escala
   — Representação
   — Alegoria da cabana primitiva
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
 ---
 
-## {data-visibility=hidden}
+# {.unlisted data-visibility=hidden}
 
 ![Thomas Cole, The Course of Empire: The Savage State, 1834](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg){#fig:cole-savage .fullwidth}
 
 # Ordem e lugar #
 
-# Proporção #
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A arquitetura organiza o ambiente humano por meio da construção. Essa
+organização não tem a ver com impor uma rigidez geométrica, mas com os
+princípios de ordem emergente que atendem às expectativas da percepção
+do ser humano e da socialização nas diferentes culturas. Esse é um
+processo global de ordenamento que vai da ocupação do território numa
+região inteira até a escala dos detalhes construtivos. Por isso, a nossa
+primeira aproximação ao estudo da arquitetura tradicional vai ser
+observar a produção de ordem emergente nas várias escalas de ocupação do
+espaço pelas sociedades.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/1280px-Spreading_homo_sapiens_la.svg.png"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Reconhecer, ocupar e organizar um lugar no mundo. Essa é uma das mais
+fundamentais razões de ser das comunidades humanas. Por natureza, a
+nossa espécie tende a ocupar todos os espaços disponíveis na Terra;
+desde as origens da humanidade, mais de 200 mil anos atrás no leste da
+África [^1], as nossas tribos têm migrado e se adaptado a todas as
+regiões e climas do mundo (@fig:ooa).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Modelo atualmente vigente da migração do *Homo sapiens*. Desenho: [NordNordWest, 2014](https://commons.wikimedia.org/wiki/File:Spreading_homo_sapiens_la.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/1280px-Spreading_homo_sapiens_la.svg.png){#fig:ooa}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Balloon_Safari_2012_06_01_3128_(7522677448).jpg/1280px-Balloon_Safari_2012_06_01_3128_(7522677448).jpg"}
+
+![Vista da paisagem de savana no parque nacional do Serengeti, Tanzânia. Foto: [Harvey Barrison, 2012](https://commons.wikimedia.org/wiki/Image:Balloon_Safari_2012_06_01_3128_(7522677448).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Balloon_Safari_2012_06_01_3128_(7522677448).jpg/1280px-Balloon_Safari_2012_06_01_3128_(7522677448).jpg){#fig:serengeti}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A maneira humana de compreender o ambiente à sua volta e de organizar um
+lugar nesse ambiente é a chave para a nossa adaptação às condições mais
+variadas. Essa capacidade vem dos desafios ambientais na paisagem
+variada e instável nas savanas do leste da África [@buras:2019art], a
+região de origem do gênero humano (@fig:serengeti).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LengaiNatron.jpg/1280px-LengaiNatron.jpg" data-background-position="bottom"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A evolução biológica transformou a visão no nosso sentido dominante, mas
+também nos deu a capacidade de reconhecer padrões no espaço e de guardar
+esses padrões na memória, para além do nosso campo de visão imediato.
+Ela nos condicionou a procurar lugares altos e protegidos, como a linha
+de cumeada do vale do Rift, que é chamado com razão de "berço da
+humanidade" (@fig:rift). A ocupação da linha de cumeada oferece uma
+posição de reconhecimento da paisagem e de controle sobre o território
+(@fig:olduvai).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Vista panorâmica da garganta do Olduvai, vale do Rift, norte da Tanzânia. Foto: [Noel Feans, 2009](https://commons.wikimedia.org/wiki/File:Olduvai_Gorge_or_Oldupai_Gorge.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Olduvai_Gorge_or_Oldupai_Gorge.jpg/1280px-Olduvai_Gorge_or_Oldupai_Gorge.jpg){#fig:rift .fullwidth}
+
+## {.unlisted data-background-iframe="https://www.youtube.com/watch?v=8To3-9ZecnU"}
+
+::: {#fig:olduvai .iframe-wrapper}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8To3-9ZecnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Garganta do Olduvai. Filme: [David Gutiérrez e Ignacio Zapico, 2016](https://youtu.be/8To3-9ZecnU)
+:::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A linha de cumeada é um percurso eficiente para as pessoas se orientarem
+e controlarem o território amplo que a comunidade precisa explorar para
+o seu sustento. Só que o cume do relevo é muito exposto e longe da água.
+Por isso, as comunidades procuram *controlar* os percursos de cumeada
+principais do território, mas elas estabelecem os seus *assentamentos*
+num nível mais baixo, nas cumeadas secundárias [@strappa:2013lettura].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Alguns dos vestígios arqueológicos mais antigos de habitações humanas
+ocupam essa posição na cumeada secundária. Essa tendência se
+intensificou a partir do paleolítico superior, o período mais recente do
+que se chama informalmente de "idade da pedra lascada". Não é um recorte
+cronológico propriamente dito, mas um indicador de tecnologias e modos
+de vida em diferentes sociedades, algumas delas vigentes até hoje. As
+comunidades do paleolítico superior costumam ter entre 50 e 500 membros.
+Elas tendem a viver de modo mais ou menos sedentário, isto é, em
+povoações permanentes num mesmo lugar durante alguns anos. Isso implica
+uma escolha premeditada e muito cuidadosa do sítio onde a povoação vai
+se estabelecer.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No sítio de Kostyonki, no atual sudoeste da Rússia (@fig:kostyonki-loc),
+o rio Don corre de norte a sul formando um vale de meandros com mais ou
+menos 2 quilômetros de largura. As encostas em volta do vale são suaves,
+mas sulcadas pela erosão de dezenas de riachos afluentes do rio Don. As
+linhas de cumeada principais seguem paralelas ao curso do rio, a uma
+distância de 2 a 3 quilômetros da borda do vale (@fig:kostyonki-site).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:kostyonki}
+![Localização no contexto das sociedades pré-históricas com habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-locator.png){#fig:kostyonki-loc .nobg .marginnote}
+
+![Ocupação do sítio c. 14.000 a.p. Desenho com base em Jarzombek (2013) e Grigor'ev (1967)](){#fig:kostyonki-site}
+
+Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Proporção e escala #
 
 # Representação #
 
@@ -273,7 +377,7 @@ nas origens da humanidade.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=53.5%}
-![Gottfried Semper, fotografia anônima de 1865](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/ETH-BIB-Semper%2C_Gottfried_%281803-1879%29-Portrait-Portr_11235.tif/lossy-page1-616px-ETH-BIB-Semper%2C_Gottfried_%281803-1879%29-Portrait-Portr_11235.tif.jpg){#fig:semper}
+![Gottfried Semper, fotografia anônima de 1865](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/ETH-BIB-Semper%2C_Gottfried_(1803-1879)-Portrait-Portr_11235.tif/lossy-page1-616px-ETH-BIB-Semper%2C_Gottfried_(1803-1879)-Portrait-Portr_11235.tif.jpg){#fig:semper}
 :::
 ::: {.column width=46.5%}
 ![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line}
@@ -428,3 +532,17 @@ sequência, a construção arquitravada.
 
 # Bibliografia {.allowframebreaks}
 
+
+[^1]: A interpretação hegemônica sobre a origem do *Homo sapiens* está
+em revisão constante. No final do século [XIX]{.smallcaps} e na primeira
+metade do século [XX]{.smallcaps}, as teorias multirregionais eram
+dominantes. Essas teorias postulavam que a humanidade moderna evoluiu
+separadamente em diversas regiões desde a mais remota antiguidade; essas
+teorias eram usadas para justificar diferenças e hierarquias entre
+diferentes raças humanas. A partir da década de 1960, a teoria
+monofilética se tornou dominante; essa teoria também é conhecida como
+"modelo da origem africana recente" e defende que a nossa espécie se
+formou somente no leste da África entre 300 e 200 mil anos atrás. No
+entanto, descobertas arqueológicas e pesquisas genéticas recentes
+mostram que essa população singular de *Homo sapiens* assimilou outras
+espécies humanas ao longo da sua expansão na África, Ásia e Europa.
