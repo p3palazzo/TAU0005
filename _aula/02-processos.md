@@ -103,7 +103,7 @@ uma escolha premeditada e muito cuidadosa do sítio onde a povoação vai
 se estabelecer.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No sítio de Kostyonki, no atual sudoeste da Rússia (@fig:kostyonki-loc),
@@ -117,10 +117,34 @@ distância de 2 a 3 quilômetros da borda do vale (@fig:kostyonki-site).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:kostyonki}
 ![Localização no contexto das sociedades pré-históricas com habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-locator.png){#fig:kostyonki-loc .nobg .marginnote}
 
-![Ocupação do sítio c. 14.000 a.p. Desenho com base em Jarzombek (2013) e Grigor'ev (1967)](){#fig:kostyonki-site}
+![Ocupação do sítio c. 14.000 a.p. Desenho com base em Jarzombek (2013) e Grigor'ev (1967), curvas de nível a cada 5 metros. Linha tracejada grossa: percurso estruturante de cumeada; linha tracejada fina: percursos de cumeada secundários; linha pontilhada: percurso de contra-cumeada](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png){#fig:kostyonki-site .fullwidth}
 
 Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/c2/04/d7/c204d703c49c29d5487c1a3ce88abe10.jpg" data-background-position="bottom"}
+
+![Ridgeway, um percurso estruturante de cumeada no sul da Inglaterra em uso contínuo desde o Neolítico (c. 3000 a.C.). [Celtic Trails](https://www.celtictrailswalkingholidays.co.uk/walking-holidays/the-ridgeway/)](https://i.pinimg.com/originals/c2/04/d7/c204d703c49c29d5487c1a3ce88abe10.jpg){#fig:ridgeway}
+
+## {.unlisted data-background-image=""}
+
+![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](){#fig:bronzo}
+
+## {.unlisted data-visibility="hidden"}
+
+![Diagrama do teko'á guarani, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-souza-2016-tekoha.png){#fig:tekoa .marginnote}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png" data-background-size="contain"}
+
+![Diagrama territorial do Guará, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png){#fig:guara}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-1.png" data-background-size="contain"}
+
+![Esquema do controle do território por um assentamento caçador--coletor, segundo Binford (1982): zoneamento e alcance de um assentamento semipermanente](https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-1.png){#fig:binford1 .line}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-2.png" data-background-size="contain"}
+
+![Esquema do controle do território por um assentamento caçador--coletor, segundo Binford (1982): territorialidade e sucessão de assentamentos semipermanentes](https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-2.png){#fig:binford2 .line}
 
 # Proporção e escala #
 
