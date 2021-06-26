@@ -79,7 +79,8 @@ Garganta do Olduvai. Filme: [David Gutiérrez e Ignacio Zapico, 2016](https://yo
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A linha de cumeada é um percurso eficiente para as pessoas se orientarem
+[A linha de cumeada]{.newthought} é um percurso eficiente para as
+pessoas se orientarem
 e controlarem o território amplo que a comunidade precisa explorar para
 o seu sustento. Só que o cume do relevo é muito exposto e longe da água.
 Por isso, as comunidades procuram *controlar* os percursos de cumeada
@@ -87,31 +88,66 @@ principais do território, mas elas estabelecem os seus *assentamentos*
 num nível mais baixo, nas cumeadas secundárias [@strappa:2013lettura].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter%2C_Madhya_Pradesh.jpg/1280px-A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter%2C_Madhya_Pradesh.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Alguns dos vestígios arqueológicos mais antigos de habitações humanas
 ocupam essa posição na cumeada secundária. Essa tendência se
 intensificou a partir do paleolítico superior, o período mais recente do
-que se chama informalmente de "idade da pedra lascada". Não é um recorte
-cronológico propriamente dito, mas um indicador de tecnologias e modos
-de vida em diferentes sociedades, algumas delas vigentes até hoje. As
-comunidades do paleolítico superior costumam ter entre 50 e 500 membros.
-Elas tendem a viver de modo mais ou menos sedentário, isto é, em
-povoações permanentes num mesmo lugar durante alguns anos. Isso implica
-uma escolha premeditada e muito cuidadosa do sítio onde a povoação vai
-se estabelecer.
+que se chama informalmente de "idade da pedra lascada" ou ainda de
+"idade das cavernas" (@fig:bhimbetka).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png"}
+![Pinturas rupestres no abrigo de Bhimbetka, 10 mil anos atrás, atual Madhya Pradesh, Índia. Foto: [PranjalG431, 2016](https://commons.wikimedia.org/wiki/File:A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter%2C_Madhya_Pradesh.jpg/1280px-A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter%2C_Madhya_Pradesh.jpg){#fig:bhimbetka}
+
+## {.unlisted}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No sítio de Kostyonki, no atual sudoeste da Rússia (@fig:kostyonki-loc),
+O paleolítico não é um recorte cronológico
+propriamente dito, mas um indicador de tecnologias e modos de vida em
+diferentes sociedades, algumas delas vigentes até hoje. As comunidades
+do paleolítico superior costumam ter entre 50 e 500 membros. Elas tendem
+a viver de modo mais ou menos sedentário, isto é, em povoações
+permanentes num mesmo lugar durante alguns anos. Isso implica uma
+escolha premeditada e muito cuidadosa do sítio onde a povoação vai se
+estabelecer.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-video=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No sítio de Kostyonki, no atual sudoeste da Rússia,
 o rio Don corre de norte a sul formando um vale de meandros com mais ou
 menos 2 quilômetros de largura. As encostas em volta do vale são suaves,
 mas sulcadas pela erosão de dezenas de riachos afluentes do rio Don. As
-linhas de cumeada principais seguem paralelas ao curso do rio, a uma
-distância de 2 a 3 quilômetros da borda do vale (@fig:kostyonki-site).
+linhas de cumeada principais seguem paralelas ao rio, que corre do norte
+para o sul, a uma distância de 2 a 3 quilômetros da borda do vale
+(@fig:kostyonki-google).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Kostyonki, Rússia](){#fig:kostyonki-google}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kostenky_model.jpg/1280px-Kostenky_model.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Entre as gargantas dos afluentes, uma série de linhas de cumeada
+secundárias se ramifica partir da linha de cumeada principal. 14 mil
+anos atrás, as comunidades do paleolítico superior estabeleceram os seus
+acampamentos perto do final dessas cumeadas secundárias, logo acima do
+vale (@fig:kostyonki-model).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Maquete do sítio no museu arqueológico de Kostyonki. Foto: [Eva Tutin, 2014](https://commons.wikimedia.org/wiki/File:Kostenky_model.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kostenky_model.jpg/1280px-Kostenky_model.jpg){#fig:kostyonki-model}
+
+## {.unlisted data-background-transition="fade-out" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Cada acampamento era formado por algumas cabanas
+alongadas [@grigorev:1967new8; @jarzombek:2013architecture, 23]. A
+implantação no final das cumeadas secundárias dava um certo grau de
+proteção e de controle visual sobre todo o vale. Ao mesmo tempo, os
+acampamentos não eram longe da água e dos campos de caça e coleta no
+fundo do vale (@fig:kostyonki).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:kostyonki}
@@ -122,13 +158,60 @@ distância de 2 a 3 quilômetros da borda do vale (@fig:kostyonki-site).
 Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted data-background-transition="fade-in" data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg"}
+
+![Kostyonki na atualidade. Mapa de base: OpenStreetMap](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg){#fig:kostyonki-osm .fullwidth}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A organização do território pelos primeiros habitantes humanos no
+paleolítico superior não era simplesmente uma resposta de circunstância
+às necessidades particulares do modo de vida caçador--coletor. Essa
+organização persiste e se consolida ao longo dos milênios. A rodovia que
+passa perto de Kostyonki ainda segue o mesmo percurso pela linha de
+cumeada principal, e a cidade moderna ocupa a mesma área no sopé das
+cumeadas secundárias (@fig:kostyonki-osm).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/c2/04/d7/c204d703c49c29d5487c1a3ce88abe10.jpg" data-background-position="bottom"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No sul da Inglaterra, o Ridgeway (@fig:ridgeway) é um percurso de
+cumeada pré-histórico que continuou a ser o principal eixo de referência
+e circulação pelo menos até a construção das estradas romanas no século
+I d.C. Hoje em dia, é uma trilha de caminhada bastante popular.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Ridgeway, um percurso estruturante de cumeada no sul da Inglaterra em uso contínuo desde o Neolítico (c. 3000 a.C.). [Celtic Trails](https://www.celtictrailswalkingholidays.co.uk/walking-holidays/the-ridgeway/)](https://i.pinimg.com/originals/c2/04/d7/c204d703c49c29d5487c1a3ce88abe10.jpg){#fig:ridgeway}
 
 ## {.unlisted data-background-image=""}
 
 ![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](){#fig:bronzo}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Já em regiões muito montanhosas, como a Itália, os percursos de cumeada
+secundários tendem a se alongar muito. Um desses percursos secundários
+termina nas colinas que formam o sítio de Roma (@fig:bronzo).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-1.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[Na sequência,]{.newthought} a implantação do assentamento determina um
+raio de ação da comunidade. Ou melhor, vários raios de ação, segundo as
+várias necessidades --- caça, coleta, aquisição de matéria-prima para
+ferramentas e gestão de resíduos, por exemplo. Esses raios de ação foram
+conceituados nas décadas de 1960 a 80 pelo arqueólogo americano Lewis
+Binford [@binford:1982archaeology1]. Os raios de ação diferenciados da
+coleta cotidiana, por um lado, e das expedições de caça que duram vários
+dias, por outro, definem um zoneamento econômico do território
+([@fig:binford1; @fig:binford2]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Esquema do controle do território por um assentamento caçador--coletor, segundo Binford (1982): zoneamento e alcance de um assentamento semipermanente](https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-1.png){#fig:binford1 .line}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-2.png" data-background-size="contain"}
+
+![Esquema do controle do território por um assentamento caçador--coletor, segundo Binford (1982): territorialidade e sucessão de assentamentos semipermanentes](https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-2.png){#fig:binford2 .line}
 
 ## {.unlisted data-visibility="hidden"}
 
@@ -138,15 +221,27 @@ Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia
 
 ![Diagrama territorial do Guará, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png){#fig:guara}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-1.png" data-background-size="contain"}
+## {.unlisted}
 
-![Esquema do controle do território por um assentamento caçador--coletor, segundo Binford (1982): zoneamento e alcance de um assentamento semipermanente](https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-1.png){#fig:binford1 .line}
-
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-2.png" data-background-size="contain"}
-
-![Esquema do controle do território por um assentamento caçador--coletor, segundo Binford (1982): territorialidade e sucessão de assentamentos semipermanentes](https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-2.png){#fig:binford2 .line}
+[Todas as escalas de produção]{.newthought} do ambiente tradicional são
+organizadas à semelhança do território, em estágios sucessivos de
+ocupação e preenchimento do espaço. A organização do território segue,
+predominantemente, as formas orgânicas da topografia e vegetação
+existentes. Quanto mais descemos dessa escala do território para a de
+assentamentos, construções e detalhes, mais o uso de traçados
+reguladores e proporções ganha importância.
 
 # Proporção e escala #
+
+Desde o Renascimento, nós temos o conceito de proporção como uma
+condição matemática fixa. Falamos na seção áurea e em outras relações
+geométricas como a perfeição de formas acabadas. Mas, em quase todas as
+culturas tradicionais, as proporções não são a *finalidade* da
+arquitetura e sim o *meio* de produzir a arquitetura. As proporções são
+mecanismos para desdobrar o espaço com regularidade em escalas
+sucessivas e ao longo das gerações que constroem uma obra.
+
+## {.unlisted data-background-image=""}
 
 # Representação #
 
