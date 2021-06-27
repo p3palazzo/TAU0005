@@ -213,16 +213,56 @@ dias, por outro, definem um zoneamento econômico do território
 
 ![Esquema do controle do território por um assentamento caçador--coletor, segundo Binford (1982): territorialidade e sucessão de assentamentos semipermanentes](https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-2.png){#fig:binford2 .line}
 
-## {.unlisted data-visibility="hidden"}
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A escolha do sítio, como vimos, é deliberada. Ela se repete em
+praticamente todas as implantações de territórios em sociedades que são,
+pelo menos em parte, caçadoras e coletoras. Os sítios privilegiados por
+caçadores--coletores, por sua vez, continuam sendo relevantes para
+sociedades que estabelecem assentamentos permanentes e praticam manejo
+florestal intensivo ou agricultura.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png" data-background-size="contain"}
+
+![Área Kuikuro do alto Xingu indicando sítios arqueológicos c. 1250--1450, segundo Heckenberger (2003). Círculos com estrela: povoações fortificadas e com terreiro; círculos pontuados: povoações com terreiro; pontos: aldeias](https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png){#fig:kuikuro .marginnote .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esse é o caso do território kuikuro no alto rio Xingu desde o século
+[XIII]{.smallcaps} [@heckenberger:2003amazonia301]. Nos vestígios
+arqueológicos mais antigos, as povoações dominantes se encontravam
+distribuídas a distâncias regulares, com povoações menores entre elas
+(@fig:kuikuro). O sistema de povoações era estruturado por caminhos
+largos nas linhas de cumeada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-souza-2016-tekoha.png" data-background-size="auto"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O *teko'á* é o território
+imediato controlado por uma aldeia guarani (@fig:tekoa). A aldeia é
+estabelecida no final da cumeada secundária, perto da água mas fora do
+alcance das cheias do rio. Ela controla um perímetro de lavoura e de
+floresta manejada no seu entorno imediato [@araujo:2016logica10;
+@soares:1997guarani].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Diagrama do teko'á guarani, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-souza-2016-tekoha.png){#fig:tekoa .marginnote}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png" data-background-size="contain"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png" data-background-size="auto"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os vários *teko'á* que formam uma aliança política são organizados em
+volta de percursos estruturantes nas cumeadas do terreno, entre os rios
+maiores (@fig:guara). Esse território político é chamado de *guará*.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Diagrama territorial do Guará, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png){#fig:guara}
 
 ## {.unlisted}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Todas as escalas de produção]{.newthought} do ambiente tradicional são
 organizadas à semelhança do território, em estágios sucessivos de
 ocupação e preenchimento do espaço. A organização do território segue,
@@ -230,18 +270,121 @@ predominantemente, as formas orgânicas da topografia e vegetação
 existentes. Quanto mais descemos dessa escala do território para a de
 assentamentos, construções e detalhes, mais o uso de traçados
 reguladores e proporções ganha importância.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Proporção e escala #
 
-Desde o Renascimento, nós temos o conceito de proporção como uma
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Desde o Renascimento, o conceito de proporção tem sido o de uma
 condição matemática fixa. Falamos na seção áurea e em outras relações
 geométricas como a perfeição de formas acabadas. Mas, em quase todas as
 culturas tradicionais, as proporções não são a *finalidade* da
 arquitetura e sim o *meio* de produzir a arquitetura. As proporções são
-mecanismos para desdobrar o espaço com regularidade em escalas
-sucessivas e ao longo das gerações que constroem uma obra.
+mecanismos para planejar o espaço com regularidade em escalas sucessivas
+e ao longo das gerações que constroem uma obra.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As proporções são o primeiro instrumento da arquitetura tradicional.
+Hoje em dia, os projetos arquitetônicos são condicionados por medidas
+numéricas: normas que exigem dimensões métricas de ambientes, o cálculo
+estrutural que estipula quantidades de materiais, o desempenho de
+componentes que é medido em patamares numéricos... Por isso, as cotas de
+dimensão e os quadros quantitativos são os elementos mais importantes de
+um projeto arquitetônico na atualidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain"}
+
+![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault .marginnote}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O uso moderno e contemporâneo das proporções acabou seguindo essa mesma
+lógica, e prova disso são os tratados das ordens clássicas publicados
+nos últimos quinhentos anos. O que chamamos de as "cinco ordens" da
+arquitetura clássica (@fig:perrault) são, de modo muito resumido,
+receitas para ajustar as proporções de colunas, vigas, arcos e pedestais
+entre si e com o edifício como um todo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png" data-background-size="contain"}
+
+![Detalhe da ordem dórica segundo Vinhola, edição de 1787](https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png){#fig:vignola .marginnote .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os tratados das ordens, como o do Vinhola no final do século
+[XVI]{.smallcaps}, ensinam essas proporções quase sempre na forma de uma
+série de cotas que medem a dimensão de cada elemento em módulos e partes
+de módulos (@fig:vignola).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/7c/5e/e1/7c5ee136540dcbb85c2ad97992904e61.jpg" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esse modo de representar as ordens é muito conveniente para um arquiteto
+que está na sua prancheta, com escalímetro na mão, precisando fazer um
+desenho de uma ordem clássica como parte de um projeto mais ou menos
+acabado (@fig:esquie). O projeto vai então ser ele próprio cotado e
+entregue a um construtor que vai transferir essas cotas para as medidas
+da obra, usando uma trena. É um modo moderno de trabalhar por excelência
+[@carpo:2003drawing62].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Detalhes da ordem jônica de Vinhola, em edição de Pierre Esquié, 1922](https://i.pinimg.com/originals/7c/5e/e1/7c5ee136540dcbb85c2ad97992904e61.jpg){#fig:esquie}
+
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:chitham}
+::: {.column width=50%}
+![configuração geral](https://hcommons.org/app/uploads/sites/1001018/2021/06/chitham2005-084-corinthian.png){#fig:chitham084 .line}
+:::
+::: {.column width=50%}
+![detalhe da base e pedestal](https://hcommons.org/app/uploads/sites/1001018/2021/06/chitham2005-091-corinthian.png){#fig:chitham091 .line}
+:::
+Ordem coríntia segundo Chitham (2005)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No final do século [XX]{.smallcaps}, essa preferência numérica entrou na
+era digital com o sistema de proporções decimais nas ordens clássicas de
+Robert Chitham [@chitham:2005classical]. As cotas de Chitham são,
+literalmente, frações decimais para serem usadas com uma calculadora
+digital na mão (era a década de 1980), ou mesmo no [CAD]{.smallcaps}
+(@fig:chitham).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As ordens clássicas são o exemplo mais consagrado do uso de proporções
+fixas na arquitetura, mas nem de longe são o único. Desde a segunda
+metade do século [XIX]{.smallcaps}, a queridinha dos arquitetos é mais
+abstrata: a seção áurea. Adolf Zeising, um psicólogo alemão, escreveu um
+livro defendendo que as proporções matemáticas em geral, e a seção áurea
+em particular, eram estruturas centrais na natureza e na arte
+[@zeising:1854neue]. Foi a partir daí que a mania da seção áurea e a
+teoria das "geometrias sagradas" [@bonell:1999divina; @doczi:2008poder]
+se desenvolveu.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/le-corbusier-villa-stein-golden.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A seção áurea foi especialmente atraente para os modernistas porque ela
+oferecia um sistema de proporção suficientemente abstrato e flexível
+para se adaptar ou, no fim das contas, justificar retroativamente
+qualquer projeto (@fig:corb).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Le Corbusier, arquiteto, seção áurea nas fachadas norte e sul da villa Stein, Garches, 1927](https://hcommons.org/app/uploads/sites/1001018/2021/06/le-corbusier-villa-stein-golden.png){#fig:corb .line}
 
 ## {.unlisted data-background-image=""}
+
+[Tudo isso é muito interessante,]{.newthought} mas não tem nada a ver
+com o uso das proporções na arquitetura tradicional. Essa maneira
+renascentista e modernista de 
 
 # Representação #
 
@@ -649,7 +792,7 @@ tradicional. É a partir desse arquétipo que vamos analisar, na
 sequência, a construção arquitravada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Bibliografia {.allowframebreaks}
+# Bibliografia {.allowframebreaks} #
 
 
 [^1]: A interpretação hegemônica sobre a origem do *Homo sapiens* está
