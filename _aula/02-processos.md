@@ -380,11 +380,33 @@ qualquer projeto (@fig:corb).
 
 ![Le Corbusier, arquiteto, seção áurea nas fachadas norte e sul da villa Stein, Garches, 1927](https://hcommons.org/app/uploads/sites/1001018/2021/06/le-corbusier-villa-stein-golden.png){#fig:corb .line}
 
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[Tudo isso é muito interessante,]{.newthought} mas não tem nada a ver
+com o uso das proporções na arquitetura tradicional. Essa maneira de
+*pintar* as proporções como objetos de uma beleza acabada e imutável tem
+uma longa história na teoria da arte desde o Renascimento. Só que essa
+história representa só uma linhagem artística, que é especificamente
+erudita, europeia e moderna. Em praticamente todas as outras culturas
+tradicionais, as proporções não são um *resultado* da obra de
+arquitetura e sim um *modo de fazer* construções.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain"}
+
+![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .marginnote .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Tudo começa com um círculo. Alguns dos mais antigos abridos permanentes
+são cabanas de planta circular. É o caso do sítio arqueológico de Eynan,
+em Israel, que data de 15 a 12 mil anos atrás (@fig:eynan)
+[@haklay:2015new10].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {.unlisted data-background-image=""}
 
-[Tudo isso é muito interessante,]{.newthought} mas não tem nada a ver
-com o uso das proporções na arquitetura tradicional. Essa maneira
-renascentista e modernista de 
+![Desdobramento do círculo para composições derivadas: *vesica piscis* e abrigo alongado]()
 
 # Representação #
 
