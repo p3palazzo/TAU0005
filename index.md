@@ -21,54 +21,54 @@ layout: index
 Toque no alvo ⊕ para mostrar as datas.
 :::
 
-I.  [Processos da arquitetura](_aula/02-processos.md)
+I.  [História e arquitetura tradicional](_aula/arqtrad.md)
 
-    ~ [^1] Ordem
-      — Proporção
-      — Representação
-      — Mito da cabana primitiva
-
-II. [Arquitetura tradicional](_aula/01-arqtrad.md)
-
-    ~ [^2] História ou arquitetura
+    ~ [^1] História ou arquitetura
       — Continuidade e ruptura
       — Arquitetura é construção
       — Construção tradicional e construção moderna
+
+II. [Processos da arquitetura](_aula/processos.md)
+
+    ~ [^2] Ordem e lugar
+      — Proporção
+      — Representação
+      — Alegoria da cabana primitiva
 
 [Atividade de nivelamento](_trabalho/analitico.md) <!--_,-->
 ~ [^a1] Cabana primitiva
 
 # Elementos da construção #
 
-III. [Taipas e fundações](_aula/03-taipa.md)
+III. [Taipas e fundações](_aula/taipa.md)
 
      ~ [^3] Materiais da construção tradicional
        — Construções semienterradas
        — Plataformas e terraplenos
        — Fundações
 
-IV.  [Construção arquitravada](_aula/04-arquitravada.md)
+IV.  [Construção arquitravada](_aula/arquitravada.md)
 
      ~ [^4] Da forquilha ao pórtico
        — Colunas e vigas
        — Assoalhos e terraços
        — Da madeira à pedra
 
-V.  [Construção murária](_aula/05-muraria.md)
+V.  [Construção murária](_aula/muraria.md)
 
     ~ [^5] Energia e arquitetura
       — Materiais naturais
       — Materiais cozidos
       — Processos construtivos e perspectiva
 
-VI. Arcos e abóbadas
+VI. [Arcos e abóbadas](_aula/arcos.md)
 
     ~ [^6] Geometria e forças
       — Arcos e abóbadas lineares
       — Cruzarias e cúpulas
       — Estruturas avançadas
 
-VII. [Coberturas e superfícies](_aula/07-coberturas.md)
+VII. [Coberturas e superfícies](_aula/coberturas.md)
 
      ~ [^7] Estilo, construção e cultura
        — Coberturas complexas
@@ -80,21 +80,21 @@ VII. [Coberturas e superfícies](_aula/07-coberturas.md)
 
 # Elementos de composição #
 
-VIII. [Corpo e natureza](_aula/08-corpo-natureza.md)
+VIII. [Corpo e natureza](_aula/clima.md)
 
       ~ [^8] Arquitetura e as estações
         — Unidade na diversidade
         — Três idades
         — Captar e armazenar
 
-IX.  [Propósitos](_aula/09-propositos.md)
+IX.  [Propósitos](_aula/propositos.md)
 
      ~ [^9] Lar e casa
        — Tipologia processual
        — Sete tipos
        — 
 
-X.  [Composição](_aula/10-composicao.md)
+X.  [Composição](_aula/composicao.md)
 
     ~ [^10] Tipos distributivos
       — Do volume ao espaço
@@ -104,7 +104,7 @@ X.  [Composição](_aula/10-composicao.md)
 Semana universitária
 ~  [^se]
 
-XI. [Comunidade](_aula/11-comunidade.md)
+XI. [Comunidade](_aula/comunidade.md)
 
     ~ [^11] Lugar e território
       — Res publica e res privata
@@ -116,34 +116,34 @@ XI. [Comunidade](_aula/11-comunidade.md)
 
 # Fazer arquitetura #
 
-XII. [Completar](_aula/12-completar.md)
+XII. [Completar](_aula/completar.md)
 
      ~ [^12] Ordem emergente
        — Quinze propriedades
        — Linguagens de padrões
        — Produção
 
-XIII. [Ordenar](_aula/13-ordenar.md)
+XIII. [Ordenar](_aula/ordenar.md)
 
       ~ [^13] Traçado regulador e cosmologia
         — Ornamento e geometria
         — Neutralidade das malhas espaciais
 
-XIV. [Articular](_aula/14-articular.md)
+XIV. [Articular](_aula/articular.md)
 
      ~ [^14] Indicação e composição
        — Proporções espaciais e plásticas
        — Ordens clássicas
        — Outras ordens
 
-XV.  [Caracterizar](_aula/15-caracterizar.md)
+XV.  [Caracterizar](_aula/caracterizar.md)
 
      ~ [^15] Economia e conveniência
        — Caráter e decoro
        — Iconografia
 
 <!--
-   -XVI. [Proporcionar](_aula/16-proporcionar.md)
+   -XVI. [Proporcionar](_aula/proporcionar.md)
    -
    -     ~ [^16] Proporções como instrumento da construção
    -       — Proporções fixas e dinâmicas

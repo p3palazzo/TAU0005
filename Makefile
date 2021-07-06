@@ -52,6 +52,13 @@ _site/slides/%/index.html : _aula/%.md revealjs.yaml revealjs-crossref.yaml \
 %.tex : %.md latex.yaml references.bib
 	$(PANDOC/LATEX) -o $@ -d _spec/latex.yaml $<
 
+_csl :
+	@echo "Fetching CSL styles..."
+	@test -e $@ || \
+		git clone --depth=1 --filter=blob:none --no-checkout \
+		https://github.com/citation-style-language/styles.git \
+		$@
+
 _csl/%.csl : | _csl
 	@cd _csl && git checkout master -- $(@F)
 	@echo "Checked out $(@F)."
@@ -62,13 +69,6 @@ reveal.js :
 
 # {{{1 PHONY
 #      =====
-
-_csl :
-	@echo "Fetching CSL styles..."
-	@test -e $@ || \
-		git clone --depth=1 --filter=blob:none --no-checkout \
-		https://github.com/citation-style-language/styles.git \
-		$@
 
 .PHONY : serve
 serve : $(SLIDES) \

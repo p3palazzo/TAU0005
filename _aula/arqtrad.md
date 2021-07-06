@@ -1,6 +1,6 @@
 ---
-title   : "Teoria da construção tradicional"
-subtitle: "Arquitetura tradicional"
+title   : "História e arquitetura tradicional"
+subtitle: "Arquitetura tradicional I"
 author  : "Pedro P. Palazzo"
 date    : 2021-07-20
 abstract: |

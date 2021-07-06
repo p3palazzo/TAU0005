@@ -30,7 +30,9 @@ jobs:
     - uses: actions/checkout@v2
       with:
         ref : 'gh-pages'
-        submodules: 'recursive'
+    - name: Clear previous site
+      run: |
+        cd ${{ github.workspace }} && rm -r *
     - name: Download site
       uses: actions/download-artifact@v2
       with:

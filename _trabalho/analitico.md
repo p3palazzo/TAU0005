@@ -27,6 +27,8 @@ da sua representação gráfica.
 
 # Contexto #
 
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote}
+
 Arquitetura é construção. O propósito da arquitetura é, antes de mais
 nada, o de oferecer abrigo e contexto para as atividades humanas.
 Portanto, nenhuma composição arquitetônica pode ser bem-sucedida se não
@@ -35,8 +37,6 @@ isso, temos que visualizar corretamente como os diferentes elementos da
 construção vão ser acoplados entre si, qual efeito espacial e visual
 resulta dessa montagem, e como ela precisa ser representada nas
 convenções do desenho arquitetônico.
-
-![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote}
 
 [A alegoria da cabana primitiva]{.newthought} é um expediente para enfatizar o quanto
 a arquitetura tradicional é uma expressão direta da construção. Ela
@@ -50,6 +50,47 @@ reduzida às suas mínimas necessidades. Ela é sempre pensada como uma
 montagem simples e racional de elementos em madeira. Por isso, o estudo
 de uma cabana primitiva qualquer é uma boa porta de entrada para a
 prática da arquitetura tradicional.
+
+O *grau zero* da arquitetura representado pela cabana primitiva
+comparece num tipo peculiar de construção da cultura Jōmon. Essa
+construção é chamada simplesmente de estrutura com seis pilares, e
+comparece no sítio arqueológico de Sannai Maruyama, no extremo norte da
+ilha de Honxu (@fig:sannai-site) [@jarzombek:2013architecture, 152-158].
+Não é possível determinar, hoje em dia, a função e a configuração
+precisa dessas estruturas. A reconstituição executada no final do século
+[XX]{.smallcaps} ([@fig:sannai; @fig:6pillar]) é uma conjetura baseada
+na posição das fundações e nos vestígios de madeira preservados graças
+ao terreno pantanoso do local. A estrutura dessas construções é
+inteiramente feita em toras e troncos roliços de carvalho; todas as
+construções eram orientadas aproximadamente na direção leste--oeste.
+
+::: {#fig:sannai-site}
+::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=30%}
+![Situação no território das sociedades pré-históricas que construíram habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-and-pit-dwellings.png){#fig:sannai-globe .nobg}
+:::
+::: {.column width=30%}
+![Locação junto à baía de Mutsu, atual município de Aomori, Japão](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-loc.png){#fig:sannai-mutsu}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Corte do sítio reconstituído](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-540.png){#fig:sannai-sec .fullwidth}
+
+Esquema do sítio arqueológico de Sannai Maruyama, cultura Jōmon, 3900--2300 a.C.
+:::
+
+![Vista parcial do sítio arqueológico de Sannai Maruyama, reconstituição 1997--2002. Foto: [663highland, 2014](https://commons.wikimedia.org/wiki/File:140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg/1280px-140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg){#fig:sannai}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:6pillar}
+::: {.column width=50%}
+![[[Koike]{.smallcaps} Takashi, 2008](https://commons.wikimedia.org/wiki/File:三内丸山遺跡大型掘立柱建物.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/三内丸山遺跡大型掘立柱建物.JPG/682px-三内丸山遺跡大型掘立柱建物.JPG){#fig:6pillarA}
+:::
+::: {.column width=50%}
+![[[Iwanami]{.smallcaps} Riku, 2015](https://commons.wikimedia.org/wiki/File:山内丸山遺跡_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/山内丸山遺跡_-_panoramio.jpg/685px-山内丸山遺跡_-_panoramio.jpg){#fig:6pillarB}
+:::
+Reconstituição de uma estrutura com seis pilares, sítio arqueológico de Sannai Maruyama, cultura Jōmon, c. 2600 a.C. Fotos:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * *
 
 [O estudo analítico]{.newthought}, por sua vez, tem sido a porta de entrada no estudo
 do classicismo desde a organização do ensino na Academia de Arquitetura
@@ -79,15 +120,9 @@ Exemplos de desenhos analíticos de ordens clássicas, [D.W. Bates](http://www.d
 
 # Ementa #
 
-Observe a vista isométrica de uma cabana primitiva abaixo, executado em
-madeira ([@fig:cabana]). Ela é baseada na síntese da ordem toscana
-segundo Robert Chitham e na sua versão em madeira descrita por Julien
-Guadet [@chitham:2005classical, p. 56--61; @guadet:1915elements1, p.
-385--392]. Estude atentamente a configuração e as proporções dessa ordem
-no tratado de Chitham e compare com a vista para compreender as
-proporções e os elementos que compõem esta cabana primitiva. Observe,
-também, as convenções de representação exemplificadas na Figura
-[-@fig:exemplos]. Então,
+Observe as fotos da estrutura com seis pilares no sítio arqueológico de
+Sannai Maruyama (ver [@fig:6pillar]). Observe, também, as convenções de
+representação exemplificadas na Figura [-@fig:exemplos]. Então,
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
 > Desenhe um estudo analítico da cabana primitiva em elevação, corte e
@@ -95,25 +130,38 @@ também, as convenções de representação exemplificadas na Figura
 > construtivos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cabana primitiva em madeira na ordem toscana](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-cabana-primitiva.png){#fig:cabana .fullwidth}
-
 # Produto #
 
 Numa prancha [A3]{.smallcaps}, na orientação vertical, represente a
-cabana primitiva da Figura [-@fig:cabana] em elevação, corte e planta de
-teto projetado [Veja o que é e como desenhar uma planta de teto
-projetado em @ching:2017representacao, p.62; cortes e elevações em
-@ching:2017representacao, p. 69--88]. Todas estas vistas são
-ortográficas, ou seja, *sem* perspectiva.
+cabana primitiva da estrutura com seis pilares de Sannai Maruyama, em
+elevação, corte e planta de teto projetado [Veja o que é e como desenhar
+uma planta de teto projetado em @ching:2017representacao, p.62; cortes e
+elevações em @ching:2017representacao, p. 69--88]. Todas estas vistas
+são ortográficas, ou seja, *sem* perspectiva.
 
 - Tanto no corte quanto na elevação, mostre as juntas entre as peças em
   madeira.
-- Adote dos exemplos na Figura [-@fig:exemplos] o modo de representar o
-  corte associado à elevação e a coluna interrompida, mostrando apenas
-  as suas extremidades inferior e superior; não é preciso representar as
-  sombras.
-- Desenhe usando os [instrumentos e materiais](materiais.md) indicados e
-  siga as [convenções de desenho](desenho.md) desta disciplina; observe as
+- O traçado regulador, a ser representado nos desenhos com o peso de
+  linha mais leve, é uma malha de 4,2 metros em todas as direções,
+  medida no eixo dos pilares e na superfície dos pisos.
+- Aproveite a simetria do conjunto da estrutura para otimizar o
+  aproveitamento da folha de desenho.
+- Considere que os pilares são troncos roliços com seção (diâmetro) de 1
+  metro na base e 80 centímetros no topo; a contratura dos troncos deve
+  ser uma curva suave, não uma linha reta.
+- Os pilares são fincados em valas de planta circular, com 2 metros de
+  diâmetro e 1 metro de profundidade, preenchidas com terra batida
+  misturada com cascalho. Represente um detalhe dessa fundação em corte,
+  separadamente do corte da construção como um todo.
+- Considere que as vigas e os contraventamentos são troncos roliços com
+  50 centímetros de seção, e os barrotes são toras roliças com 35
+  centímetros de seção; o piso de cada nível acima do solo é formado por
+  troncos roliços com 20 centímetros de seção, colocados lado a lado sem
+  espaços vazios. Represente a sobreposição de vigas, barrotes e piso
+  tanto na planta de teto projetado quanto num detalhe ampliado.
+- Inclua uma escala gráfica e norte; desenhe usando os
+  [instrumentos e materiais](materiais.md) indicados e siga as
+  [convenções de desenho](desenho.md) desta disciplina; observe as
   [dicas para digitalizar](digitalizar.md) a sua entrega.
 
 # Cronograma e critérios de avaliação #
