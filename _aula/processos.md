@@ -260,6 +260,10 @@ maiores (@fig:guara). Esse território político é chamado de *guará*.
 
 ![Diagrama territorial do Guará, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png){#fig:guara}
 
+## {.unlisted data-background-image="" data-background-site="contain"}
+
+![Diagrama da formação de cidades-estado segundo Kemp](){#fig:kemp .line}
+
 ## {.unlisted}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
