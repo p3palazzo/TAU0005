@@ -21,19 +21,19 @@ layout: index
 Toque no alvo ⊕ para mostrar as datas.
 :::
 
-I.  [Processos da arquitetura](_aula/processos.md)
+I.  [História e arquitetura tradicional](_aula/arqtrad.md)
 
-    ~ [^1] Ordem e lugar
-      — Proporção
-      — Representação
-      — Alegoria da cabana primitiva
-
-II. [Arquitetura tradicional](_aula/arqtrad.md)
-
-    ~ [^2] História ou arquitetura
+    ~ [^1] História ou arquitetura
       — Continuidade e ruptura
       — Arquitetura é construção
       — Construção tradicional e construção moderna
+
+II. [Processos da arquitetura](_aula/processos.md)
+
+    ~ [^2] Ordem e lugar
+      — Proporção
+      — Representação
+      — Alegoria da cabana primitiva
 
 [Atividade de nivelamento](_trabalho/analitico.md) <!--_,-->
 ~ [^a1] Cabana primitiva

@@ -1,6 +1,6 @@
 ---
 title: "Processos da arquitetura"
-subtitle: "Arquitetura tradicional I"
+subtitle: "Arquitetura tradicional II"
 author: "Pedro P. Palazzo"
 date: 2021-07-27
 abstract: |
