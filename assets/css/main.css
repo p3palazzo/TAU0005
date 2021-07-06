@@ -300,9 +300,9 @@ h3, h5, span.newthought { font-size: 1.8rem; }
 
 h5, span.newthought { margin-top: -0.1rem; }
 
-ol, ul { margin-left: -2.5rem; width: 55%; }
+article ol, article ul { margin-left: -2.5rem; width: 55%; -webkit-padding-start: 2.5rem; }
 
-ol > li::marker, ul > li::marker { font-variant: tabular-nums oldstyle-nums all-small-caps; }
+article ol > li::marker, article ul > li::marker { font-variant: tabular-nums oldstyle-nums all-small-caps; }
 
 ul { list-style-type: none; }
 
@@ -319,7 +319,9 @@ h1 em, h2 em, p.subtitle em, .subtitle.csl-entry em, div.epigraph > blockquote >
 
 hr { border: 0; clear: left; text-align: center; font-size: 2.4rem; padding: 0.5rem 0; }
 
-img { border: 0.5px solid #111115; }
+iframe, img { border: 0.5px solid #111115; }
+
+iframe.nobg, iframe.line, img.nobg, img.line { background: none !important; border: none !important; }
 
 summary > p, summary > .csl-entry { display: inline; }
 
@@ -344,7 +346,9 @@ section > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote
 
 .author { width: 55%; }
 
-.marginnote, figcaption, .subfigures p, .subfigures .csl-entry, .sidenote { font-style: normal; font-weight: 500; hyphens: auto; margin-bottom: 1rem; }
+.marginnote, figcaption, .subfigures p, .subfigures .csl-entry, .sidenote { font-style: normal; font-weight: 500; hyphens: auto; margin-bottom: 1rem; background: rgba(255, 255, 248, 0.7); }
+
+.sidenote { text-indent: -1rem; }
 
 .sidenote-number, .sidenote-number::after, .sidenote::before { font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif !important; font-weight: 500; }
 
@@ -355,7 +359,9 @@ section > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote
 /****************************************************** Fixes for pandoc-crossref */
 figcaption, .subfigures p, .subfigures .csl-entry { max-width: 50%; }
 
-figure > img.fullwidth { clear: both; max-width: 160%; }
+p ~ figure > img.marginnote, .csl-entry ~ figure > img.marginnote, div.notes ~ figure > img.marginnote { margin-top: 1.6rem; }
+
+figure > img.fullwidth { clear: both; margin-top: 2rem; max-width: 160%; }
 
 .subfigures figcaption, .subfigures p, .subfigures .csl-entry { text-align: right; }
 
@@ -402,9 +408,9 @@ nav.pagination > ul > li::after { content: " | "; }
 nav.pagination > ul > li:last-child::after { content: ""; }
 
 /****************************************************** Light and Dark */
-@media (prefers-color-scheme: no-preference), (prefers-color-scheme: light) { body { color: #111115; background-color: #fffff8; } body .en:lang(en), body .fr:lang(fr), body .pt:lang(pt) { color: rgba(17, 17, 21, 0.5); } body a:link { text-decoration: none; background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#33333f, #33333f); background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#33333f, #33333f); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8; background-position: 0% 93%, 100% 93%, 0% 93%; } body .line { border: none; } }
+@media (prefers-color-scheme: no-preference), (prefers-color-scheme: light) { body { color: #111115; background-color: #fffff8; } body .en:lang(en), body .fr:lang(fr), body .pt:lang(pt) { color: rgba(17, 17, 21, 0.5); } body a:link { text-decoration: none; background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#33333f, #33333f); background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#33333f, #33333f); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8; background-position: 0% 93%, 100% 93%, 0% 93%; } }
 
-@media (prefers-color-scheme: dark) { body { color: #fffff8; background-color: #282831; } body .en:lang(en), body .fr:lang(fr), body .pt:lang(pt) { color: rgba(255, 255, 248, 0.5); } body a:link { text-decoration: none; background: -webkit-linear-gradient(#111115, #111115), -webkit-linear-gradient(#111115, #111115), -webkit-linear-gradient(white, white); background: linear-gradient(#111115, #111115), linear-gradient(#111115, #111115), linear-gradient(white, white); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #111115, -0.03em 0 #111115, 0 0.03em #111115, 0 -0.03em #111115, 0.06em 0 #111115, -0.06em 0 #111115, 0.09em 0 #111115, -0.09em 0 #111115, 0.12em 0 #111115, -0.12em 0 #111115, 0.15em 0 #111115, -0.15em 0 #111115; background-position: 0% 93%, 100% 93%, 0% 93%; } body img { background-color: #282831; } body table { border-top: 2px solid #fffff8; border-bottom: 2px solid #fffff8; } body table td { border-top: 1px solid #fffff8; } body table th { border-bottom: 1px solid #fffff8; } body .line { background: none; filter: invert(83%); -webkit-filter: invert(83%); } body .nobg { background: none; } }
+@media (prefers-color-scheme: dark) { body { color: #fffff8; background-color: #282831; } body .en:lang(en), body .fr:lang(fr), body .pt:lang(pt) { color: rgba(255, 255, 248, 0.5); } body a:link { text-decoration: none; background: -webkit-linear-gradient(#111115, #111115), -webkit-linear-gradient(#111115, #111115), -webkit-linear-gradient(white, white); background: linear-gradient(#111115, #111115), linear-gradient(#111115, #111115), linear-gradient(white, white); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #111115, -0.03em 0 #111115, 0 0.03em #111115, 0 -0.03em #111115, 0.06em 0 #111115, -0.06em 0 #111115, 0.09em 0 #111115, -0.09em 0 #111115, 0.12em 0 #111115, -0.12em 0 #111115, 0.15em 0 #111115, -0.15em 0 #111115; background-position: 0% 93%, 100% 93%, 0% 93%; } body img { background-color: #282831; } body table { border-top: 2px solid #fffff8; border-bottom: 2px solid #fffff8; } body table td { border-top: 1px solid #fffff8; } body table th { border-bottom: 1px solid #fffff8; } body .line { filter: invert(83%); -webkit-filter: invert(83%); } body .marginnote, body figcaption, body .subfigures p, .subfigures body p, body .subfigures .csl-entry, .subfigures body .csl-entry, body .sidenote { background: rgba(40, 40, 49, 0.8); } }
 
 /****************************************************** Screen width overrides must come last. */
 .marginnote-directions { display: none; }
@@ -414,6 +420,6 @@ nav.pagination > ul > li:last-child::after { content: ""; }
 @media (max-width: 960px) { .cv dt { margin-left: -1.5rem; } .cv dt::before { content: "– "; } }
 
 /***************************************************** O Moodle Aprender 3 não tem modo escuro. Para adequar ao nosso esquema de cores, incluir código abaixo na seção "Geral". <style> body, div.page, #region-main, div.content, h3.sectionname, #page .course-content ul li.section.main { color: #111115; background-color: #fffff8; } </style> O código a seguir cancela o modo escuro neste site. */
-@media (prefers-color-scheme: no-preference), (prefers-color-scheme: light), (prefers-color-scheme: dark) { body { color: #111115; background-color: #fffff8; } body a:link { text-decoration: none; background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#33333f, #33333f); background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(#33333f, #33333f); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8; background-position: 0% 93%, 100% 93%, 0% 93%; } body img, body .line, body .nobg { background: none; } body table { border-top: 2px solid #111115; border-bottom: 2px solid #111115; } body table td { border-top: 1px solid #111115; } body table th { border-bottom: 1px solid #111115; } body .line { border: none; } body .nobg { border: none; } }
+/* @media (prefers-color-scheme: no-preference), (prefers-color-scheme: light), (prefers-color-scheme: dark) { body { color: $mainColor; background-color: $backgroundColor; a:link { text-decoration: none; background: -webkit-linear-gradient($backgroundColor, $backgroundColor), -webkit-linear-gradient($backgroundColor, $backgroundColor), -webkit-linear-gradient(lighten($mainColor, 15%), lighten($mainColor, 15%)); background: linear-gradient($backgroundColor, $backgroundColor), linear-gradient($backgroundColor, $backgroundColor), linear-gradient(lighten($mainColor, 15%), lighten($mainColor, 15%)); -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-size: 0.05em 1px, 0.05em 1px, 1px 1px; background-repeat: no-repeat, no-repeat, repeat-x; text-shadow: 0.03em 0 $backgroundColor, -0.03em 0 $backgroundColor, 0 0.03em $backgroundColor, 0 -0.03em $backgroundColor, 0.06em 0 $backgroundColor, -0.06em 0 $backgroundColor, 0.09em 0 $backgroundColor, -0.09em 0 $backgroundColor, 0.12em 0 $backgroundColor, -0.12em 0 $backgroundColor, 0.15em 0 $backgroundColor, -0.15em 0 $backgroundColor; background-position: 0% 93%, 100% 93%, 0% 93%; } img, .line, .nobg { // Prevents line drawings as transparent PNGs from disappearing background: none; } table { border-top: 2px solid $mainColor; border-bottom: 2px solid $mainColor; td { border-top: 1px solid $mainColor; } th { border-bottom: 1px solid $mainColor; } } .line { border: none; } .nobg { border: none; } } } */
 
 /*# sourceMappingURL=main.css.map */
