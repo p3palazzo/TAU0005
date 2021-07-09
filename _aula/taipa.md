@@ -430,7 +430,7 @@ meados do século [XX]{.smallcaps} (@fig:epcc14-05).
 [Agora que já sabemos]{.newthought} quais são os principais tipos e as
 dimensões das fundações tradicionais, precisamos saber como assentá-las.
 Isso se faz escavando uma vala, que pode ser um pouco mais larga do que
-a espessura das fundações (@fig:eppc14-05). Em terreno movediço, é
+a espessura das fundações (@fig:epcc14-05). Em terreno movediço, é
 preciso escorar a vala, como se fosse um taipal invertido
 (@fig:epcc14-04). Depois de construída a fundação, a largura de vala que
 sobra precisa ser aterrada e compactada para garantir a boa distribuição
