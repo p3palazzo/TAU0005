@@ -423,22 +423,20 @@ importante com a homogeneidade do assentamento no solo.
 
 ## {.unlisted data-background-iframe="https://www.youtube-nocookie.com/embed/eNN7T4fBQo4?start=240"}
 
+:::::::::::::::::::::::::::::::::::::::::: {#fig:rubble .iframe-wrapper}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eNN7T4fBQo4?start=240" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Construção de uma fundação em pedra lavrada para uma casa de pau a
+pique. [House Alive, 2016](https://youtu.be/eNN7T4fBQo4?t=240)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Por causa das diferenças enormes entre tipos de solos, as regras de
+[Por causa das diferenças]{.newthought} enormes entre tipos de solos, as regras de
 dimensionamento das fundações são só indicações preliminares. Mais do
 que em qualquer outra parte da arquitetura tradicional, a solidez das
 fundações depende da experiência dos mestres de obras de cada lugar, que
 conhecem profundamente as características dos solos e dos materiais de
 construção na sua região (@fig:rubble).
-
-<figure class="iframe-wrapper fullwidth">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eNN7T4fBQo4?start=240" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::: {#fig:rubble .subfigures}
-Construção de uma fundação em pedra lavrada para uma casa de pau a
-pique. [House Alive, 2016](https://youtu.be/eNN7T4fBQo4?t=240)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image=""}
@@ -500,13 +498,11 @@ reforçadas com outros materiais que não a alvenaria. Isso é porque, como
 já vimos, as fundações tradicionais não podem, em condições normais, ser
 submetidas a esforços de tração ou cortantes. Apesar disso, há algumas
 exceções em regiões sujeitas a terremotos (@fig:adobe-funda).
-
-<figure class="iframe-wrapper fullwidth">
-  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9kZaq5SwBxo?start=371" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</figure>
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::: {#fig:adobe-funda .subfigures}
+:::::::::::::::::::::::::: {#fig:adobe-funda .iframe-wrapper}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9kZaq5SwBxo?start=371" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Construção de fundações mistas para paredes em adobe. [Arquitectura sin Fronteras Galicia, 2014](https://youtu.be/9kZaq5SwBxo?t=371)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
