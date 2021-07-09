@@ -64,7 +64,7 @@ markdown: Pandoc
 pandoc:
   extensions:
     - defaults: "_spec/html.yaml"
-    - csl: "_csl/chicago-fullnote-bibliography-with-ibid.csl"
+    - csl: "_csl/chicago-note-bibliography-with-ibid.csl"
     - section-divs
 permalink: pretty
 relative_links:
