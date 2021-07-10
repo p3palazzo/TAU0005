@@ -1,4 +1,4 @@
 figureTitle: Figura
 tableTitle: Tabela
 tblPrefix: tabela
-subfigureRefIndexTemplate: $$i$$$$suf$$ [$$s$$]
+subfigureRefIndexTemplate: $$i$$$$suf$$ $$s$$

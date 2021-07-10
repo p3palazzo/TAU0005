@@ -14,7 +14,7 @@ title-slide-attributes:
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg"}
 
-![Thomas Cole, The Course of Empire: The Arcadian or Pastoral State, 1836 ](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian .fullwidth}
+![Thomas Cole, The Course of Empire: The Arcadian or Pastoral State, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian .fullwidth}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O contato com a Natureza justifica a racionalidade da técnica em
@@ -379,18 +379,71 @@ possível. Nos solos rasos, onde a rocha ou uma camada compacta pode ser
 encontrada perto da superfície, as fundações podem se apoiar diretamente
 sobre essa camada. Já nos solos profundos, a terra funciona como um
 material muito viscoso, que vai resistir à carga transmitida pelas
-fundações (@fig:cargas-funda). Nesse caso, duas precauções são muito
-importantes: primeiro, a carga do edifício precisa ser equilibrada entre
-todas as fundações, para evitar o assentamento diferencial, que é quando
-uma parte do edifício afunda mais no solo do que outra; segundo, as
-fundações precisam estar comprimidas em todas as direções --- a carga
-não pode ser distribuída onde houver esforços de tração ou corte.
+fundações (@fig:cargas-funda).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Para evitar esses problemas, podemos seguir as regras de dimensionamento
+Nesse caso, duas precauções são muito
+importantes: primeiro, a carga do edifício precisa ser equilibrada entre
+todas as fundações, para evitar o assentamento diferencial, que é quando
+uma parte do edifício afunda mais no solo do que outra; segundo, as
+fundações precisam estar comprimidas em todas as direções --- a carga
+não pode ser distribuída onde houver esforços de tração ou corte
+(@fig:diferencial).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Assentamento diferencial e esforços de tração e cortante](){#fig:diferencial .line}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/33/52/f5/3352f5c1459c5625fe8ff68ca3c36abc.png" data-background-position="top"}
+
+![Civilização do vale do rio Indo, fase inicial (3300--2600 a.C.). Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization,_Early_Phase_(3300-2600_BCE).png)](https://i.pinimg.com/originals/33/52/f5/3352f5c1459c5625fe8ff68ca3c36abc.png){#fig:indus-early}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+É por isso que alguns dos assentamentos permanentes mais antigos que se
+conhece já eram construídos sobre plantas bastante regulares. É o caso
+de Mehrgarh, uma cidade neolítica no vale do rio Indo
+(@fig:indus-early).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/52/bb/7c/52bb7c1e9efe132df5fc5e661d8ccd35.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mehrgarh foi construída mais de cinco mil anos atrás numa planície
+aluvial, portanto numa área de solo profundo e pouco resistente. As
+escavações descobriram construções com malhas retangulares e quadradas
+de sapatas em pedra lavrada com argamassa de barro sustentando paredes
+em blocos de adobe (@fig:mehrgarh). Não se sabe se essas estruturas eram
+casas ou celeiros, mas em qualquer caso elas mostram uma preocupação
+importante com a homogeneidade do assentamento no solo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Fundações escavadas no sítio arqueológico de Mehrgarh, vale do rio Indo, c. 5500--3500 a.C. Foto: Catherine Jarrigue, Mission Archéologique de l'Indus](https://i.pinimg.com/originals/52/bb/7c/52bb7c1e9efe132df5fc5e661d8ccd35.jpg){#fig:mehrgarh}
+
+## {.unlisted data-background-iframe="https://www.youtube-nocookie.com/embed/eNN7T4fBQo4?start=240"}
+
+:::::::::::::::::::::::::::::::::::::::::: {#fig:rubble .iframe-wrapper}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eNN7T4fBQo4?start=240" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Construção de uma fundação em pedra lavrada para uma casa de pau a
+pique. [House Alive, 2016](https://youtu.be/eNN7T4fBQo4?t=240)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[Por causa das diferenças]{.newthought} enormes entre tipos de solos, as regras de
+dimensionamento das fundações são só indicações preliminares. Mais do
+que em qualquer outra parte da arquitetura tradicional, a solidez das
+fundações depende da experiência dos mestres de obras de cada lugar, que
+conhecem profundamente as características dos solos e dos materiais de
+construção na sua região (@fig:rubble).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ainda assim, e em caráter muito geral e preliminar, podemos seguir as
+regras de dimensionamento estabelecidas nos tratados de arquitetura
 de Alberti e Palladio. Segundo Alberti, as sapatas ou os baldrames das
 fundações precisam ter, pelo menos, um oitavo da altura total das
 paredes acima delas (mas, no mínimo, um metro de profundidade). Além
@@ -437,5 +490,178 @@ sobra precisa ser aterrada e compactada para garantir a boa distribuição
 das cargas, especialmente onde o solo for profundo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Bibliografia # {.allowframebreaks}
+## {.unlisted data-background-iframe="https://www.youtube-nocookie.com/embed/9kZaq5SwBxo?start=371"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As fundações tradicionais em geral não são "armadas", ou seja,
+reforçadas com outros materiais que não a alvenaria. Isso é porque, como
+já vimos, as fundações tradicionais não podem, em condições normais, ser
+submetidas a esforços de tração ou cortantes. Apesar disso, há algumas
+exceções em regiões sujeitas a terremotos (@fig:adobe-funda).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::: {#fig:adobe-funda .iframe-wrapper}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9kZaq5SwBxo?start=371" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Construção de fundações mistas para paredes em adobe. [Arquitectura sin Fronteras Galicia, 2014](https://youtu.be/9kZaq5SwBxo?t=371)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::: {.r-stack #fig:absc}
+![vista exterior](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-003-1.png){#fig:abscB .line .fragment .fade-in-then-out}
+
+![engaste do esteio no alicerce em pedra aparelhada](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-002-1.png){#fig:abscA .line .fragment .fade-in-then-out}
+
+![encaixe dos baldrames e frechais no esteio](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-013.png){#fig:abscD .line .fragment .fade-in-then-out}
+
+![elevação com corte do terreno](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-021b-1.png){#fig:abscC .line .fragment .fade-in-then-out}
+
+Esquema de montagem das fundações mistas de madeira sobre pedra lavrada na arquitetura vernácula no Brasil, segundo Vasconcellos, *Arquitetura no Brasil: sistemas construtivos*
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+
+As estruturas mistas de alvenaria e madeira são muito comuns nessas
+regiões do mundo, e especialmente no leste da Ásia e na península
+Ibérica --- e também, por extensão da cultura ibérica, na América
+Latina. Nesse caso, é comum que as fundações sejam elas próprias mistas
+(@fig:abscB). É o caso, especialmente, da construção vernácula no
+Brasil, que foi estudada nestes croquis do arquiteto Sylvio de
+Vasconcellos na segunda metade do século [XX]{.smallcaps}
+[@vasconcellos:1979arquitetura]. A nossa tradição usa esteios e
+baldrames em madeira (@fig:abscD) engastados num alicerce em pedra
+aparelhada (@fig:abscA). O *nabo* do esteio também pode ser levemente
+queimado e fincado diretamente no solo, mas esse tipo de construção
+tende a apodrecer com facilidade (@fig:abscC).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
+
+![Corte esquemático de uma parede da antiga Mesopotâmia construída em adobe com fundação em pedra, segundo Anastasio, *Building Between the Two Rivers*, 59](https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png){#fig:anastasio59 .nobg .marginnote}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A deterioração de fundações em madeira, muito frequente no Brasil,
+mostra como é importante garantir uma boa drenagem em volta das
+fundações. Por isso, é costume soerguer os alicerces um pouco acima do
+nível do solo, e portanto também o nível do piso térreo fica
+ligeiramente elevado. Assim, há menos risco de infiltração de umidade na
+junta entre a sapata de fundação e a parede. Essa era a prática padrão
+nas muralhas e nos edifícios da antiga Mesopotâmia (@fig:anastasio59),
+onde a superestrutura costumava ser construída em adobe e, portanto, era
+especialmente sensível ao risco de umidade ascendente
+[@anastasio:2020building, 59].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/ed/15/c5/ed15c515c38988f1997f70bf7df8b1c5.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Quando se usam pisos em madeira, esse sistema também garante uma boa
+ventilação entre o chão e o assoalho do térreo, o que também ajuda a
+reduzir o acúmulo de umidade (@fig:valpa).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Esquema de fundações tradicionais em Valparaíso, Chile, segundo Barros e Sarabia, *Sistemas constructivos básicos*](https://i.pinimg.com/originals/ed/15/c5/ed15c515c38988f1997f70bf7df8b1c5.jpg){#fig:valpa}
+
+## {.unlisted data-background-iframe="https://player.vimeo.com/video/62772222?autoplay=1"}
+
+::::::::::::::::::::::::::::::::::::::::::::: {#fig:bitresh .iframe-wrapper .fullwidth}
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/62772222?autoplay=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+
+Bit Resh, o templo de Anu e Antum em Uruk. Iniciado no século
+[XV]{.smallcaps} a.C. Reconstituição do estado no período selêucida,
+século [III]{.smallcaps} a.C.:
+[Artefacts, 2010](http://www.artefacts-berlin.de/portfolio-item/uruk-visualisation-project-the-seleucid-period/)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[O efeito arquitetônico]{.newthought} do alicerce sobrelevado sempre foi
+bastante explorado para dar uma impressão de monumentalidade em
+construções importantes. Quando essa elevação é especialmente exagerada
+para além dos requisitos práticos, e ganha uma superfície diferenciada
+ou decorada, ela é chamada de *silhar* ou *silharia*. Um exemplo de
+silharia ornamentada é a do templo de Anu em Uruk, na antiga
+Mesopotâmia. Essa construção do século [XV]{.smallcaps} a.C.
+(@fig:bitresh) tem um silhar decorado com figuras humanas esculpidas na
+alvenaria.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vorderasiatisches_Museum_Berlin_038.jpg/2560px-Vorderasiatisches_Museum_Berlin_038.jpg"}
+
+![Silharia do templo de Anu e Antum em Uruk, século [XV]{.smallcaps} a.C., fragmento no Vorderasiatisches Museum em Berlim. Foto: [Einsamer Schütze, 2011](https://commons.wikimedia.org/wiki/File:Vorderasiatisches_Museum_Berlin_038.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vorderasiatisches_Museum_Berlin_038.jpg/1280px-Vorderasiatisches_Museum_Berlin_038.jpg){#fig:vorderasiatisches .marginnote}
+
+## {.unlisted data-background-image="https://i0.wp.com/www.artefacts-berlin.de/wp-content/uploads/2018/06/uruk_seleucid_003.png"}
+
+![Templo de Kara-in-dash dedicado a Anu e Antum em Uruk, iniciado no século [XV]{.smallcaps} a.C. Reconstituição do estado no período selêucida, século [III]{.smallcaps} a.C.: [Artefacts, 2010](http://www.artefacts-berlin.de/portfolio-item/uruk-visualisation-project-the-seleucid-period/)](https://i0.wp.com/www.artefacts-berlin.de/wp-content/uploads/2018/06/uruk_seleucid_003.png){#fig:karaindash}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Apesar de ser bastante detalhado (@fig:vorderasiatisches), esse silhar
+articula a elevação do templo com uma impressão de solidez e textura
+rústica na base (@fig:karaindash).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/19/69/ea/1969eab3ab4eb5190d700219722b3167.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
+
+![Reconstituição do pódio e *apadana* no palácio imperial de Persépolis, por Charles Chipiez](https://i.pinimg.com/originals/19/69/ea/1969eab3ab4eb5190d700219722b3167.jpg){#fig:persepolis .marginnote}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Uma versão ainda mais monumental desse mesmo expediente é o *pódio*
+usado em muitos edifícios da Antiguidade. Em geral, como aqui no palácio
+de Persépolis, do século [V]{.smallcaps} a.C. (@fig:persepolis), o pódio
+é uma combinação do terrapleno com a silharia.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-color="#00ff00"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Uma última ameaça para a durabilidade das fundações tradicionais é
+colocar sistemas construtivos modernos em contato com elas,
+especialmente concreto armado e impermeabilizantes. Já vimos como as
+fundações tradicionais devem ser construídas para drenar a umidade do
+solo; os materiais modernos são ditos "impermeáveis", mas na prática o
+que eles fazem em contato com os sistemas construtivos tradicionais é
+impedir a umidade que *já entrou* de *sair* da construção.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-iframe="https://www.youtube-nocookie.com/embed/d23S8P-H0lM?t=16"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esse tipo de problema ocorreu no sítio arqueológico da antiga Babilônia
+(@fig:ishtar). Na década de 1960, foi construído um percurso turístico
+com piso em concreto. Isso impediu que a umidade do solo escoasse pela
+superfície, para evitar que os turistas tivessem que caminhar no chão
+lamacento. Só que, com isso, a água ficou retida no subsolo, começou a
+ascender por dentro da estrutura das muralhas e a escoar para fora da
+parede logo acima do chão. Isso causou a destruição da camada mais
+superficial dos tijolos, que foi sendo lavada ao longo dos anos por essa
+circulação da água.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::: {#fig:ishtar .iframe-wrapper}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d23S8P-H0lM?t=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Modelo fotogramétrico da porta de Ishtar, Babilônia, século
+[VI]{.smallcaps} a.C. [Programa de Pós-graduação em Patrimônio da
+Universidade da Flórida e World Monuments Fund,
+2016](https://youtu.be/d23S8P-H0lM)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-color="#00ff00"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As fundações tradicionais são, portanto, soluções eficientes e adaptadas
+ao tipo de solo e aos materiais disponíveis na região. Elas são o
+resultado de refinamentos e adaptações desenvolvidas ao longo de
+milênios, mas como toda construção elas se deterioram com o tempo.
+Acontece que muitas tentativas de *melhorar* o desempenho das
+construções tradicionais usando materiais industrializados acabam
+piorando as condições que elas tentavam resolver. Quase sempre, a melhor
+solução para conservar uma construção tradicional é conhecer e aplicar
+os próprios sistemas construtivos originais dessa construção. Por isso,
+nos próximos tópicos, vamos conhecer mais sobre as estruturas que vão em
+cima das fundações tradicionais.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Bibliografia {.allowframebreaks}
 
