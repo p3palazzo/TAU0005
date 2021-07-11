@@ -1,13 +1,14 @@
 # {{{1 Variables
 #      =========
 
-VPATH = .:assets
+VPATH = . assets
 vpath %.bib _bibliography
 vpath %.csl _csl
-vpath %.html .:_includes:_layouts:_site
-vpath %.scss _sass:assets/css:assets/css-slides
+vpath %.html . _includes _layouts _site
+vpath %.scss _sass assets/css assets/css-slides \
+	slides/reveal.js/css/theme/template
 vpath %.xml _site
-vpath %.yaml .:_spec
+vpath %.yaml . _spec
 
 PANDOC_VERSION  := 2.14
 JEKYLL_VERSION  := 4.2.0
@@ -19,15 +20,16 @@ PANDOC/LATEX    := docker run --rm -v "`pwd`:/data" \
 JEKYLL := palazzo/jekyll-tufte:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
 
 ASSETS  = $(wildcard assets/*)
-SASS    = assets/css-slides/revealjs.scss _sass/_settings.scss reveal.js/.git
 AULA    = $(wildcard _aula/*.md)
-SLIDES := $(patsubst _aula/%.md,_site/slides/%/index.html,$(AULA))
+SLIDES  = $(patsubst _aula/%.md,slides/%/index.html,$(AULA))
+SASS    = revealjs.scss _settings.scss \
+					mixins.scss settings.scss theme.scss
 
 # {{{1 Recipes
 #      =======
 .PHONY : _site
 _site : $(SLIDES) \
-	| _csl/chicago-note-bibliography-with-ibid.csl
+	| _csl/chicago-note-bibliography.csl
 	@docker run --rm -v "`pwd`:/srv/jekyll" \
 		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
@@ -36,12 +38,12 @@ tau0005.pdf : plano.pdf cronograma.pdf \
 	gs -dNOPAUSE -dBATCH -sDevice=pdfwrite \
 		-sOutputFile=$@ $^
 
-_site/slides/%/index.html : _aula/%.md revealjs.yaml revealjs-crossref.yaml \
-	references.bib $(SASS) \
+slides/%/index.html : _aula/%.md revealjs.yaml \
+	revealjs-crossref.yaml references.bib $(SASS) \
 	| _csl/modern-language-association.csl
 	@-mkdir -p $(@D)
 	@$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
-	@echo $(@D)/
+	@echo $(@D)
 
 %.pdf : %.tex references.bib
 	@docker run --rm -i -v "`pwd`:/data" --user "`id -u`:`id -g`" \
@@ -71,11 +73,11 @@ reveal.js :
 #      =====
 
 .PHONY : serve
-serve : $(SLIDES) \
-	| _csl/chicago-note-bibliography-with-ibid.csl
+serve : _site \
+	| _csl/chicago-note-bibliography.csl
 	@docker run --rm -v "`pwd`:/srv/jekyll" \
 		-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
-		$(JEKYLL) jekyll serve --future
+		$(JEKYLL) jekyll serve --future --skip-initial-build
 
 .PHONY : clean
 clean :
