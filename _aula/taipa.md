@@ -325,17 +325,260 @@ se tem num abrigo semienterrado ou adossado, o solo oferece isolamento
 térmico e abrigo contra o vento.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na taxonomia da arquitetura tradicional, associamos a construção murária
+com o caráter da *caverna*, enquanto a construção arquitravada tem o
+caráter da *cabana* (ver @fig:huts). Essa oposição sinaliza duas
+relações diferentes entre construção e espaço. A cabana é um paradigma
+*aditivo*: a montagem de peças formando um esqueleto estrutural que
+organiza o espaço indefinido numa malha. Já a caverna é um paradigma
+*subtrativo*: os espaços de formas definidas são como que escavados
+entre as massas de paredes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain"}
+
+![Reconstituição de abrigo do período Natufiano em ain-Mallaha, Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .marginnote .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nem sempre essa distinção é tão clara. Um dos mais antigos abrigos
+permanentes que se conhece fica no sítio arqueológico de Eynan,
+atualmente em Israel (@fig:eynan). Ele foi construído por volta de 15 a
+12 mil anos atrás [@haklay:2015new10] e tem características tanto da
+cabana quanto da caverna. Esse abrigo é formado por um muro de
+contenção em pedra lavrada que dá abrigo para uma cabana de planta
+circular encaixada contra a encosta.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-iframe="https://www.youtube-nocookie.com/embed/z8A0LpX7_yM?start=1464"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No noroeste da península Arábica, um conjunto curioso de cercados
+retangulares foi construído a partir do [VI]{.smallcaps} milênio a.C.
+([@fig:mustatil]). Essas estruturas têm uma sistemática
+construtiva constante, usando blocos de pedra lavrada fincados
+verticalmente no solo e preenchimento com cascalho
+[@groucutt:2020monumental30].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!--
+   -::::::::::::::::::::::::::::::::::::::::::: {#fig:alula .iframe-wrapper}
+   -<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z8A0LpX7_yM?start=1464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   -
+   -*Mustatil* (cercado retangular) próximo a al-Ula, Arábia Saudita, c.
+   -5000 a.C.
+   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+   -->
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/30/64/fb/3064fb0fb0487eeabef2f0ea63dd88d1.jpg"}
+
+![*Mustatil* visto desde uma das extremidades](https://i.pinimg.com/originals/30/64/fb/3064fb0fb0487eeabef2f0ea63dd88d1.jpg){#fig:mustatil}
+
+## {.unlisted data-background-image="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20210526192136801-0073:S0003598X2100051X:S0003598X2100051X_fig3.png"}
+
+![Câmara semienterrada na extremidade de um *mustatil*. Fotos: [Agência de Arqueologia do Reino da Arábia Saudita](https://www.cambridge.org/core/journals/antiquity/article/mustatils-cult-and-monumentality-in-neolithic-northwestern-arabia/80E2AD8B538C268E7CA5C3C29CB4EC52)](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20210526192136801-0073:S0003598X2100051X:S0003598X2100051X_fig3.png){#fig:musta-chamber}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As extremidades desses cercados são plataformas que às vezes contêm um
+espaço semienterrado com restos de fogo e de gado (@fig:musta-chamber).
+Isso indica que esses cercados podiam ser armadilhas para caçar gado. As
+câmaras podiam ser abrigos temporários e, quem sabe, cerimoniais onde as
+pessoas cozinhavam e consumiam a caça [@thomas:2021mustatils95].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"}
+
+![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano .fullwidth}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[As construções semienterradas]{.newthought} com planta centralizada são
+a epítome de uma arquitetura que vamos chamar de *subtrativa*, isto é,
+que parece escavada numa massa sólida (@fig:gt-pano). Na pré-história e
+na Antiguidade, são essas construções que definem com maior clareza os
+seus espaços interiores. Elas necessariamente são construídas com alguma
+combinação de escavação, aterro e muros de arrimo em pedra. Esses
+arrimos vão desde pedra lavrada, blocos simplesmente recolhidos e
+empilhados, até grandes lajes megalíticas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/6b/f8/67/6bf8674353e270e052c3e571526de747.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O conceito de uma arquitetura feita de espaços como que *escavados* na
+matéria sólida não é só uma alegoria: as mais antigas construções
+duráveis que se conhece eram semienterradas ou tinham pelo menos uma
+parte do seu espaço escavado contra o terreno inclinado
+(@fig:gt-natgeo). Os monumentos de Göbekli Tepe, no extremo norte do
+Crescente fértil, foram construídos desse modo entre 9600 e 8500 a.C.
+Não está claro se esses espaços eram originalmente cobertos; se fosse o
+caso, a semelhança com cavernas seria ainda mais marcante.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Construção dos recintos de Göbekli Tepe, c. 9600 a.C. Desenho: [Fernando Baptista, 2016](https://www.nationalgeographic.com/travel/article/150120-gobekli-tepe-oldest-monument-turkey-archaeology)](https://i.pinimg.com/originals/6b/f8/67/6bf8674353e270e052c3e571526de747.jpg){#fig:gt-natgeo}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg"}
+
+![Vista aérea dos templos megalíticos de Ħal Tarxien, Malta, 3250--3000 a.C.](https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg){#fig:tarxien-aer .marginnote}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg/1280px-Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg"}
+
+![Vista do templo central de Ħal Tarxien, ao longo do eixo que vai do portal principal ao altar, c. 3100 a.C. Foto: [Ethan Doyle White, 2017](https://commons.wikimedia.org/wiki/File:Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg/1280px-Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg){#fig:tarxien-axis}
+
+<!--_,-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A partir daí, o tipo da construção semienterrada se espalha pelo
+corredor eurasiático durante o período Neolítico. A arquitetura
+megalítica na Europa se reporta a essa configuração, como no conjunto de
+templos construídos antes de 3000 a.C. em Malta (@fig:tarxien-aer).
+Esses templos eram formados por sequências de espaços semicirculares
+cada vez mais restritos, dando um senso de reclusão crescente até que se
+alcançava um altar no fundo da construção (@fig:tarxien-axis).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anta_orca_de_pendilhe_0486.JPG/1280px-Anta_orca_de_pendilhe_0486.JPG"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[As construções semienterradas]{.newthought} se aclimatam até as
+extremidades úmidas da Eurásia, onde elas são usadas tanto como
+sepulturas quanto como habitações --- às vezes ao mesmo tempo. As
+construções monumentais muitas vezes são delimitadas com imensas lajes
+de pedra em todos os lados: os dolmens ou antas (@fig:pendilhe). Essas
+estruturas teriam sido cobertas com um terrapleno por todos os lados,
+formando um túmulo, e poderiam ser usadas para vários propósitos
+rituais: desde sacrifícios religiosos até sepultamentos humanos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Anta da orca de Pendilhe, Portugal, final do IV milênio a.C. Foto: [João Carvalho, 2005](https://commons.wikimedia.org/wiki/File:Anta_orca_de_pendilhe_0486.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anta_orca_de_pendilhe_0486.JPG/1280px-Anta_orca_de_pendilhe_0486.JPG){#fig:pendilhe}
+
+## {.unlisted data-background-iframe="https://www.youtube.com/watch?v=_DX-OBFdUTE&t=71s"}
+
+<!--_,-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Cortes do túmulo de Maeshowe. [Fantoman400, 2006](https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif){#fig:maeshowe-sec .marginnote}
+
+Nas ilhas Órcades, o túmulo neolítico de Maeshowe, de c. 2800 a.C., tem
+uma câmara central quadrada, com 4 metros de lado, debaixo de um
+terrapleno artificial. Um corredor com 11 metros de comprimento mas
+menos de um metro de pé-direito dá acesso à câmara, de onde se abrem
+três células secundárias (@fig:maeshowe-plan). Como em Malta, o espaço
+mais importante é a célula que fica diante do eixo do corredor
+(@fig:maeshowe-sec), pelo qual a luz do sol entra no dia do solstício de
+inverno.
+
+![Planta do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 a.C. Desenho: F.W.I. Thomas, após 1861](https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg){#fig:maeshowe-plan}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-iframe="https://www.youtube.com/watch?v=Rlkjf-i5_Qw&t=11s"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+![Reconstituição da aldeia de Skara Brae vista desde o pátio de acesso ao corredor](https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png){#fig:skb-art .marginnote}
+
+![Câmara de uma casa em Skara Brae, com lar central e três plataformas contra as paredes, célula satélie ao fundo. Foto: [Archaeology Scotland, 2013](https://commons.wikimedia.org/wiki/File:Skara_Brae_Beds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/1280px-Skara_Brae_Beds.jpg){#fig:skb-int}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg"}
+
+![Planta da aldeia neolítica de Skara Brae, ilhas Órcades, Escócia, 3100--2800 a.C. Desenho adaptado de V. Gordon Childe, 1930](https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg){#fig:skb-plan}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A configuração desse túmulo se parece bastante com a das habitações em
+Skara Brae, também nas ilhas Órcades e datadas da mesma época
+(@fig:skb-plan). Aqui também, cada casa tem uma câmara principal com
+algumas células satélites; todas as casas se articulam em volta de um
+corredor central, e o conjunto é coberto por um terrapleno
+(@fig:skb-art) apoiado em vigas de madeira. A única fonte de iluminação
+direta era uma abertura zenital, que também servia de exaustor. Outra
+semelhança com o túmulo de Maeshowe é que alguns corpos foram sepultados
+dentro das próprias casas, debaixo das plataformas que serviam de bancos
+e camas (@fig:skb-int).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/ce/51/bc/ce51bcfc1ca839b7e5f4b5e1f8414288.png"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No Japão, as casas semienterradas aparecem desde o final do Paleolítico
+[@kawashima:2011burial38], e são cobertas com uma estrutura em madeira
+revestida com casca de árvore ([@fig:jomon-diagram; @fig:jomon-detail]).
+Esse tipo continua dominante na habitação rural japonesa, com alguns
+aprimoramentos, até o século [XVI]{.smallcaps} d.C.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Diagrama de uma casa semienterrada, período Jōmon tardio, Japão, últimos séculos a.C. [Kawashima, 2011](https://doi.org/10.4312/dp.38.9)](https://i.pinimg.com/originals/ce/51/bc/ce51bcfc1ca839b7e5f4b5e1f8414288.png){#fig:jomon-diagram .line .marginnote}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png" data-background-size="contain"}
+
+![Detalhe da estrutura de uma casa semienterrada, período Jōmon tardio](https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png){#fig:jomon-detail}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/fc/Tomba_dei_Rilievi_(Banditaccia).jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A solução espacial da câmara com células acopladas reaparece nas
+necrópoles etruscas, na Itália do século [VI]{.smallcaps} a.C. em
+diante. A chamada tumba dos relevos na necrópole de Banditaccia, na
+antiga cidade etrusca de Cisra, é um dos exemplares mais característicos
+desse tipo (@fig:cerveteri). Ela é literalmente escavada na rocha, como
+a maioria das tumbas da nobreza etrusca, e tem um espaço central de onde
+irradiam as células para os sarcófagos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Interior da tumba dos relevos, necrópole etrusca de Banditaccia, Cisra (atual Cerveteri), Itália, c. 400 a.C. Foto: [Roberto Ferrari, 2009](https://commons.wikimedia.org/wiki/File:Tomba_dei_Rilievi_(Banditaccia).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tomba_dei_Rilievi_(Banditaccia).jpg/1280px-Tomba_dei_Rilievi_(Banditaccia).jpg){#fig:cerveteri}
+
+
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
 ![Mureta serpenteante, Shaw nature reserve, centro dos Estados Unidos. Foto: [Steve Bougeno, 2015](https://500px.com/photo/128955465/wall-by-Steve--Bougeno)](https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg){#fig:shaw .marginnote}
-
-## {.unlisted data-background-image=""}
 
 # Plataformas e terraplenos {#terrapleno}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg"}
 
 ![Taipal segundo Jean-Baptiste Rondelet, *Traité de l'art de bâtir*, livro I:ii, 1812](https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg){#fig:rondelet .fullwidth}
+
+## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[A espacialidade da arquitetura subtrativa]{.newthought} e,
+particularmente, o tipo da câmara com células anexas, é um paradigma que
+pode ser adaptado a uma gama muito variada de necessidades
+arquitetônicas, da habitação a grandes edifícios públicos. Na bacia do
+Mediterrâneo, a câmara com células ou as sequências de células resultam
+em composições que respondem bem ao clima ameno, um pouco seco e muito
+ensolarado da região. Os abrigos sazonais de caçadores-coletores
+atestados no Levante desde 12.800 a.C. [@bar-yosef:1989origins3] logo
+deram origem a assentamentos densos formados por células com estrutura
+em adobe [@rosenberg:2020720015].
+
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Reconstituição do tecido construído de Çatal Höyük, Anatólia, 7100--5700 a.C. [[ZDF]{.smallcaps}, 2020](https://commons.wikimedia.org/wiki/File:Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm)](https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm){#fig:catalhoyuk-vid .fullwidth}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/b4/7c/91/b47c9135a83f1695150a0214ad5204bf.png"}
+
+![Planta da aldeia neolítica de Çatal Höyük. Contorno pontilhado: pátios externos](https://i.pinimg.com/originals/b4/7c/91/b47c9135a83f1695150a0214ad5204bf.png){#fig:catalhoyuk-plan .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O sítio representativo dessa composição de habitações por células
+construídas em adobe é a aldeia neolítica de Çatal Höyük, no sul da
+Anatólia, datada de 7100 a.C (@fig:catalhoyuk-vid). Çatal Höyük foi
+ocupada sazonalmente por uma comunidade agropastoril e tinha um tecido
+construído muito compacto, com poucos pátios internos e nenhuma rua
+(@fig:catalhoyuk-plan).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png" data-background-position="top"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As células eram construídas com uma estrutura portante mista de madeira
+e grandes blocos de adobe (@fig:catalhoyuk-build). O espaço interior era
+organizado com uma área central cercada por plataformas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
 
 # Fundações tradicionais {#fundacoes}
 
