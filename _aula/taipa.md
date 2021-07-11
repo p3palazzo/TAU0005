@@ -4,10 +4,10 @@ subtitle: "Elementos da construção I"
 author  : "Pedro P. Palazzo"
 date    : 2021-08-03
 abstract: |
-  Materiais da construção tradicional
-  — Construções semienterradas
-  — Plataformas e terraplenos
-  — Fundações
+  [Materiais da construção tradicional](#materiais)
+  — [Construções semienterradas](#semienterrado)
+  — [Plataformas e terraplenos](#terrapleno)
+  — [Fundações](#fundacoes)
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg
 ---
@@ -28,7 +28,7 @@ religião organizada, que permite reunir o esforço coletivo necessário à
 execução da obra.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Materiais da construção tradicional #
+# Materiais da construção tradicional {#materiais}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg"}
 
@@ -85,7 +85,7 @@ entre 1568 e 1583 (@fig:se1568).
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/5a/dd/0a/5add0ad0201f86d7bf89d9a01e44863c.jpg" data-background-position="top"}
 
-![Igreja de São Sebastião da antiga Sé, Rio de Janeiro, 1568--1583. Foto da saída da última missa antes da demoliçaão da igreja e do morro do Castelo, por Augusto Malta, 1922](https://i.pinimg.com/originals/5a/dd/0a/5add0ad0201f86d7bf89d9a01e44863c.jpg){#fig:se1568}
+![Igreja de São Sebastião da antiga Sé, Rio de Janeiro, 1568--1583. Foto da saída da última missa antes da demolição da igreja e do morro do Castelo, por Augusto Malta, 1922](https://i.pinimg.com/originals/5a/dd/0a/5add0ad0201f86d7bf89d9a01e44863c.jpg){#fig:se1568}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5f/Long_Waves_of_Social_Evolution.jpg"}
 
@@ -144,7 +144,7 @@ estudo forma a base daquilo que tem sido chamado, desde o século
 [XIX]{.smallcaps}, de *arquitetura comparada*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/5a/f7/8c/5af78ce175489724eeb76342caff71b3.jpg" data-background-size="contain" data-background-position="left"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/5a/f7/8c/5af78ce175489724eeb76342caff71b3.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
 ![Sir Banister Fletcher e Banister F. Fletcher, *A History of Architecture on the Comparative Method*, folha de rosto da 1.ª edição, 1896](https://i.pinimg.com/originals/5a/f7/8c/5af78ce175489724eeb76342caff71b3.jpg){#fig:fletcher-cover .marginnote}
 
@@ -227,7 +227,7 @@ desses materiais e das tecnologias usadas (@fig:huts):
    portantes maciças com abóbadas.  
    ![](https://i.pinimg.com/originals/bd/1d/5d/bd1d5d1e92e67705dbdad67cf81e309f.jpg)
 
-----
+## {.unlisted}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esses tipos foram idealizados por dois arquitetos do final do século
@@ -238,11 +238,11 @@ alegóricos de tenda, cabana e caverna [@chambers:1759treatise;
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Antoine Chrysosthome Quatremère de Quincy, retrato oficial da Câmara dos deputados](https://i.pinimg.com/originals/c1/99/e9/c199e9c3a28f036d51afc198a66049ad.jpg){#fig:4mere .stretch}
+::: {.column width=54%}
+![Sir William Chambers, retrato pintado por [Joshua Reynolds](https://commons.wikimedia.org/wiki/File:Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg/797px-Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg){#fig:chambers}
 :::
-::: {.column width=50%}
-![Sir William Chambers, retrato pintado por [Joshua Reynolds](https://commons.wikimedia.org/wiki/File:Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg/797px-Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg){#fig:chambers .stretch}
+::: {.column width=46%}
+![Antoine Chrysosthome Quatremère de Quincy, retrato oficial da Câmara dos deputados](https://i.pinimg.com/originals/c1/99/e9/c199e9c3a28f036d51afc198a66049ad.jpg){#fig:4mere}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -314,7 +314,7 @@ Nosso percurso segue, portanto, para o tipo da *cabana*.
 
 ![Yurta contemporânea. Foto: [Anton Starikov, 2011](https://www.pond5.com/pt/stock-images/photos/item/32541060-yurt)](https://i.pinimg.com/originals/e6/3d/c4/e63dc40df530a89928a8b9c2b4c2c572.jpg){#fig:yurt}
 
-# Construções semienterradas #
+# Construções semienterradas {#semienterrado}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As mais antigas habitações permanentes eram contenções em pedra seca
@@ -325,19 +325,19 @@ se tem num abrigo semienterrado ou adossado, o solo oferece isolamento
 térmico e abrigo contra o vento.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg" data-background-size="contain" data-background-position="left"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
 ![Mureta serpenteante, Shaw nature reserve, centro dos Estados Unidos. Foto: [Steve Bougeno, 2015](https://500px.com/photo/128955465/wall-by-Steve--Bougeno)](https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg){#fig:shaw .marginnote}
 
 ## {.unlisted data-background-image=""}
 
-# Plataformas e terraplenos #
+# Plataformas e terraplenos {#terrapleno}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg"}
 
 ![Taipal segundo Jean-Baptiste Rondelet, *Traité de l'art de bâtir*, livro I:ii, 1812](https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg){#fig:rondelet .fullwidth}
 
-# Fundações tradicionais #
+# Fundações tradicionais {#fundacoes}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Todas as construções que não são simplesmente escavadas no chão ou
@@ -663,5 +663,5 @@ nos próximos tópicos, vamos conhecer mais sobre as estruturas que vão em
 cima das fundações tradicionais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Bibliografia {.allowframebreaks}
+# Bibliografia {.allowframebreaks #biblio}
 
