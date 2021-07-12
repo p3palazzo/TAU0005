@@ -365,7 +365,7 @@ section > blockquote > p > span.citation > span.sidenote-wrapper > span.sidenote
 .smallcaps, dt, dt > a, h3, h4, h5, span.newthought { font-variant: all-small-caps; }
 
 /****************************************************** CSL styling taken from Tufte-CSS, not yet implemented in Jekyll-Pandoc-Tufte. */
-div.csl-bib-body { width: 55%; font-size: 1.4rem; }
+div.csl-bib-body { width: 55%; font-size: 1.4rem; line-height: 2rem; }
 
 div.csl-entry { clear: both; margin-top: .5rem; }
 
