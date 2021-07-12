@@ -1,5 +1,6 @@
 ---
-title   : "Teoria do espaço bem-definido"
+title   : "Volumes"
+subtitle: "Elementos de composição III"
 author  : "Pedro P. Palazzo"
 abstract: |
   Construção e espacialidade

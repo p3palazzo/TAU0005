@@ -1,6 +1,6 @@
 ---
 title   : "Corpo e natureza"
-subtitle: "Utilitas I"
+subtitle: "Elementos de composição I"
 author  : "Pedro P. Palazzo"
 date    : 2021-09-07
 abstract: |

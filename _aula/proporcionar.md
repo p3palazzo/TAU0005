@@ -1,6 +1,6 @@
 ---
 title   : "Proporcionar"
-subtitle: "Venustas V"
+subtitle: "Fazer arquitetura V"
 author  : "Pedro P. Palazzo"
 date    : 2021-11-09
 abstract: |

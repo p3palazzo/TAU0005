@@ -1,6 +1,8 @@
 ---
-title   : "Do classicismo ao cristianismo"
+title   : "Caracterizar"
+subtitle: "Fazer arquitetura IV"
 author  : "Pedro P. Palazzo"
+date    : 2021-11-04
 abstract: |
   Continuidade entre a Antiguidade tardia e a Idade Média
   – Uso de espólios e transformações na cultura edilícia

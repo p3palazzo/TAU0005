@@ -1,6 +1,6 @@
 ---
 title   : "Construção arquitravada"
-subtitle: "Firmitas II"
+subtitle: "Elementos da construção II"
 author  : "Pedro P. Palazzo"
 date    : 2021-08-10
 abstract: |
