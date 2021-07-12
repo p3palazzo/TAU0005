@@ -18,6 +18,9 @@ title-slide-attributes:
 
 # Construção murária #
 
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A construção murária, ou seja, baseada em paredes, é a delimitação por
 excelência do espaço. Na seção anterior, vimos como a construção
 arquitravada vem do uso da madeira, e resulta em malhas estruturais com
@@ -25,9 +28,15 @@ composição aditiva. A construção murária, por sua vez, tem o seu
 paradigma material nas alvenarias, e corresponde a uma concepção
 subtrativa: como se o espaço pudesse ser escavado dentro de uma massa
 estrutural sólida.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
+
+![Mureta serpenteante, Shaw nature reserve, centro dos Estados Unidos. Foto: [Steve Bougeno, 2015](https://500px.com/photo/128955465/wall-by-Steve--Bougeno)](https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg){#fig:shaw .marginnote}
 
 ## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A tenda (ver @fig:chambers-huts) é o tipo originário das construções
 temporárias. No domínio da arquitetura durável, o mito da cabana
 primitiva foi o nosso ponto de partida para explicar a construção
@@ -36,9 +45,11 @@ terceiro e último tipo originário: a caverna. Ao contrário dos dois
 primeiros tipos, a alegoria de uma caverna não é uma analogia muito
 clara com processos propriamente construtivos; em vez disso, ela
 representa uma certa ideia de espacialidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/13/1e/7d/131e7d63fbf350e28f24f1d15e557b8a.png"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O teórico francês Quatremère de Quincy, no final do século
 [XVIII]{.smallcaps}, desenvolveu o caráter da "caverna"
 [@quatremere:1788caractere] com base num dos três tipos de abrigos
@@ -47,20 +58,24 @@ Segundo Quatremère, a caverna seria o abrigo primitivo das sociedades
 pastorais: um abrigo caracterizado pelas suas necessidades de espaço, ao
 contrário da cabana, que era determinada pelo desenvolvimento de uma certa
 lógica construtiva.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Cabana primitiva em forma de "caverna", segundo Chambers, 1759](https://i.pinimg.com/originals/13/1e/7d/131e7d63fbf350e28f24f1d15e557b8a.png){#fig:chambers-second .fullwidth}
 
 ## {data-background-image=""}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Com esse argumento, Quatremère pretendia relegar a caverna à cultura de
 sociedades muito antigas, como o Egito e a Mesopotâmia. Aqui, vamos
 subverter essa hierarquia e tratar a caverna como o tipo de todas as
 culturas construtivas que se baseiam em massas de alvenaria portante.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png" data-background-size="contain" data-background-position="center"}
 
 ![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .marginnote .line}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A origem da parede portante tem sido tratada como algo
 derivativo, secundário na lógica da arquitetura. O teórico alemão do
 século [XIX]{.smallcaps} Gottfried Semper especulou que a parede não
@@ -68,6 +83,7 @@ nascia com a solidez duma alvenaria estrutural, e sim com a leveza de
 uma esteira trançada. Esse pressuposto vem do modelo de cabana primitiva
 proposto por Semper em 1860, que deriva de uma habitação contemporânea
 dos índios karib (@fig:karib).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg"}
 
@@ -385,6 +401,9 @@ murária são o objeto da próxima seção.
 
 # Arquitetura subtrativa #
 
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na taxonomia da arquitetura tradicional, associamos a construção murária
 com o caráter da *caverna*, enquanto a construção arquitravada tem o
 caráter da *cabana*. Essa oposição sinaliza duas relações diferentes
@@ -393,9 +412,11 @@ de peças formando um esqueleto estrutural que organiza o espaço
 indefinido numa malha. Já a caverna é um paradigma subtrativo: os
 espaços de formas definidas são como que escavados entre as massas de
 paredes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura aditiva pede um estudo rigoroso da articulação de malhas
 estruturais e do seu impacto na modularidade dos espaços. A arquitetura
 subtrativa, por sua vez, pede atenção para a forma geométrica de cada
@@ -409,9 +430,11 @@ formando articulações mais complexas de volumes. As formas geométricas
 em três dimensões podem se alinhar horizontalmente, ao longo do percurso
 dos usuários, mas também verticalmente, compondo ambientes visualmente
 ricos e amplos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As construções semienterradas com planta centralizada são a epítome da
 arquitetura subtrativa, que parece escavada numa massa sólida (ver
 @fig:gt-pano). Na pré-história e na Antiguidade, são essas construções
@@ -420,6 +443,7 @@ necessariamente são construídas com alguma combinação de escavação,
 aterro e muros de arrimo em pedra. Esses arrimos vão desde pedra
 lavrada, blocos simplesmente recolhidos e empilhados, até grandes lajes
 megalíticas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/6b/f8/67/6bf8674353e270e052c3e571526de747.jpg"}
 

@@ -357,20 +357,24 @@ circular encaixada contra a encosta.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No noroeste da península Arábica, um conjunto curioso de cercados
 retangulares foi construído a partir do [VI]{.smallcaps} milênio a.C.
-([@fig:mustatil]). Essas estruturas têm uma sistemática
+([@fig:alula; @fig:mustatil]). Essas estruturas têm uma sistemática
 construtiva constante, usando blocos de pedra lavrada fincados
 verticalmente no solo e preenchimento com cascalho
 [@groucutt:2020monumental30].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-<!--
-   -::::::::::::::::::::::::::::::::::::::::::: {#fig:alula .iframe-wrapper}
-   -<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z8A0LpX7_yM?start=1464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   -
-   -*Mustatil* (cercado retangular) próximo a al-Ula, Arábia Saudita, c.
-   -5000 a.C.
-   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-   -->
+::::::::::::::::::::::::::::::::::::::::::: {#fig:alula .iframe-wrapper}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z8A0LpX7_yM?start=1464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+*Mustatil* (cercado retangular) próximo a al-Ula, Arábia Saudita, c.
+5000 a.C.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-visibility="hidden"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+ 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/30/64/fb/3064fb0fb0487eeabef2f0ea63dd88d1.jpg"}
 
@@ -393,11 +397,9 @@ pessoas cozinhavam e consumiam a caça [@thomas:2021mustatils95].
 ![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano .fullwidth}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[As construções semienterradas]{.newthought} com planta centralizada são
-a epítome de uma arquitetura que vamos chamar de *subtrativa*, isto é,
-que parece escavada numa massa sólida (@fig:gt-pano). Na pré-história e
-na Antiguidade, são essas construções que definem com maior clareza os
-seus espaços interiores. Elas necessariamente são construídas com alguma
+[As construções semienterradas]{.newthought} são, de toda a arquitetura,
+as que definem com maior clareza os seus espaços interiores. Elas
+necessariamente são construídas com alguma
 combinação de escavação, aterro e muros de arrimo em pedra. Esses
 arrimos vão desde pedra lavrada, blocos simplesmente recolhidos e
 empilhados, até grandes lajes megalíticas.
@@ -409,10 +411,10 @@ empilhados, até grandes lajes megalíticas.
 O conceito de uma arquitetura feita de espaços como que *escavados* na
 matéria sólida não é só uma alegoria: as mais antigas construções
 duráveis que se conhece eram semienterradas ou tinham pelo menos uma
-parte do seu espaço escavado contra o terreno inclinado
-(@fig:gt-natgeo). Os monumentos de Göbekli Tepe, no extremo norte do
-Crescente fértil, foram construídos desse modo entre 9600 e 8500 a.C.
-Não está claro se esses espaços eram originalmente cobertos; se fosse o
+parte do seu espaço escavado contra o terreno inclinado (@fig:gt-pano).
+Os monumentos de Göbekli Tepe, no extremo norte do Crescente fértil,
+foram construídos desse modo entre 9600 e 8500 a.C. (@fig:gt-natgeo) Não
+está claro se esses espaços eram originalmente cobertos; se fosse o
 caso, a semelhança com cavernas seria ainda mais marcante.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -528,11 +530,42 @@ irradiam as células para os sarcófagos.
 ![Interior da tumba dos relevos, necrópole etrusca de Banditaccia, Cisra (atual Cerveteri), Itália, c. 400 a.C. Foto: [Roberto Ferrari, 2009](https://commons.wikimedia.org/wiki/File:Tomba_dei_Rilievi_(Banditaccia).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tomba_dei_Rilievi_(Banditaccia).jpg/1280px-Tomba_dei_Rilievi_(Banditaccia).jpg){#fig:cerveteri}
 
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
-
-![Mureta serpenteante, Shaw nature reserve, centro dos Estados Unidos. Foto: [Steve Bougeno, 2015](https://500px.com/photo/128955465/wall-by-Steve--Bougeno)](https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg){#fig:shaw .marginnote}
-
 # Plataformas e terraplenos {#terrapleno}
+
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O abrigo aconchegante num espaço escavado na terra ou adossado a um
+talude é uma das mais antigas formas de construção humana. Sempre que as
+sociedades se estabelecem em assentamentos permanentes ou, pelo menos,
+sazonais, elas começam a substituir os abrigos no solo natural pela
+construção de terraplenos. Eles podem recriar o senso de proteção do
+solo escavado ou do talude, ou então, pelo contrário, colocar uma
+construção em evidência acima do nível do terreno à sua volta.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[A terceira versão do mito]{.newthought} da cabana primitiva foi contada
+pelo arquiteto alemão Gottfried Semper (@fig:semper) num artigo de 1851
+intitulado "Os quatro elementos da arquitetura" [@semper:1851vier].
+Semper se inspirou numa cabana de índios karib (@fig:karib) que ele
+tinha visto na exposição universal de Londres, aquela do palácio de
+Cristal [@semper:1860stil]. Como a maioria dos europeus do seu tempo,
+Semper considerava que uma sociedade dita "primitiva" no século
+[XIX]{.smallcaps} seria comparável a uma comunidade do passado remoto,
+nas origens da humanidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=53.5%}
+![Gottfried Semper, fotografia anônima de 1865](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/ETH-BIB-Semper%2C_Gottfried_(1803-1879)-Portrait-Portr_11235.tif/lossy-page1-616px-ETH-BIB-Semper%2C_Gottfried_(1803-1879)-Portrait-Portr_11235.tif.jpg){#fig:semper}
+:::
+::: {.column width=46.5%}
+![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg"}
 
@@ -541,16 +574,16 @@ irradiam as células para os sarcófagos.
 ## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[A espacialidade da arquitetura subtrativa]{.newthought} e,
-particularmente, o tipo da câmara com células anexas, é um paradigma que
-pode ser adaptado a uma gama muito variada de necessidades
-arquitetônicas, da habitação a grandes edifícios públicos. Na bacia do
-Mediterrâneo, a câmara com células ou as sequências de células resultam
-em composições que respondem bem ao clima ameno, um pouco seco e muito
-ensolarado da região. Os abrigos sazonais de caçadores-coletores
-atestados no Levante desde 12.800 a.C. [@bar-yosef:1989origins3] logo
-deram origem a assentamentos densos formados por células com estrutura
-em adobe [@rosenberg:2020720015].
+[A espacialidade da arquitetura na terra]{.newthought} e, particularmente,
+o tipo da câmara com células anexas, é um paradigma que pode ser
+adaptado a uma gama muito variada de necessidades arquitetônicas, da
+habitação a grandes edifícios públicos. Na bacia do Mediterrâneo, a
+câmara com células ou as sequências de células resultam em composições
+que respondem bem ao clima ameno, um pouco seco e muito ensolarado da
+região. Os abrigos sazonais de caçadores-coletores atestados no Levante
+desde 12.800 a.C. [@bar-yosef:1989origins3] logo deram origem a
+assentamentos densos formados por células com estrutura em adobe
+[@rosenberg:2020720015].
 
 * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -581,6 +614,8 @@ organizado com uma área central cercada por plataformas.
 ![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
 
 # Fundações tradicionais {#fundacoes}
+
+## {.unlisted}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Todas as construções que não são simplesmente escavadas no chão ou
@@ -810,7 +845,7 @@ reduzir o acúmulo de umidade (@fig:valpa).
 ## {.unlisted data-background-iframe="https://player.vimeo.com/video/62772222?autoplay=1"}
 
 ::::::::::::::::::::::::::::::::::::::::::::: {#fig:bitresh .iframe-wrapper .fullwidth}
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/62772222?autoplay=1" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/62772222?autoplay=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 Bit Resh, o templo de Anu e Antum em Uruk. Iniciado no século
 [XV]{.smallcaps} a.C. Reconstituição do estado no período selêucida,
