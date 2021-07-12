@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 gem "jekyll", "~> 4.2"
-gem "tufte-pandoc-jekyll"
+gem "tufte-pandoc-jekyll", "~> 0.12"
 gem "bibtex-ruby"
 gem "sassc"
 gem "stringex"

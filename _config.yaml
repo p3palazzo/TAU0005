@@ -64,7 +64,7 @@ markdown: Pandoc
 pandoc:
   extensions:
     - defaults: "_spec/html.yaml"
-    - csl: "_csl/chicago-note-bibliography-with-ibid.csl"
+    - csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-note-bibliography-with-ibid.csl"
     - section-divs
 permalink: pretty
 relative_links:
@@ -106,4 +106,3 @@ exclude:
   - "*.run.xml"
 keep_files:
   - .git
-  - slides
