@@ -2,7 +2,7 @@
   <header>
     <h1 class="title">{{ page.title }}</h1>
     {% if page.subtitle -%}
-      <p class="subtitle">{{ page.subtitle }} {{ page.item }}</p>
+      <p class="subtitle">{{ page.subtitle }} {% if page.item %}{{ page.item | prepend: " · " }}{%- endif -%}</p>
     {%- endif %}
     {%- if page.author %}
     <p class="author"><span itemprop="author" itemscope itemtype="http://schema.org/Person">
