@@ -1,6 +1,6 @@
 ---
 title   : "Propósitos"
-subtitle: "Utilitas II"
+subtitle: "Elementos de composição II"
 author  : "Pedro P. Palazzo"
 date    : 2021-09-14
 abstract: |

@@ -1,6 +1,8 @@
 ---
-title   : "Europa na alta Idade Média"
+title   : "Completar"
+subtitle: "Fazer arquitetura I"
 author  : "Pedro P. Palazzo"
+date    : 2021-10-05
 abstract: |
   Crescimentos urbanos na Europa medieval
   – Casas, castelos e outras arquiteturas civis

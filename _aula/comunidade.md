@@ -1,5 +1,6 @@
 ---
 title   : "Teoria da forma urbana"
+subtitle: "Elementos de composição IV"
 author  : "Pedro P. Palazzo"
 abstract: |
   Princípios de morfologia urbana

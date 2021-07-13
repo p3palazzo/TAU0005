@@ -1,6 +1,6 @@
 ---
 title   : "Construção murária"
-subtitle: "Firmitas III"
+subtitle: "Elementos da construção III"
 author  : "Pedro P. Palazzo"
 date    : 2021-08-17
 abstract: |

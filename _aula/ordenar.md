@@ -1,6 +1,6 @@
 ---
 title   : "Ordenar"
-subtitle: "Venustas II"
+subtitle: "Fazer arquitetura II"
 author  : "Pedro P. Palazzo"
 date    : 2021-10-19
 abstract:

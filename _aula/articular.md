@@ -1,6 +1,6 @@
 ---
 title   : "Articular"
-subtitle: "Venustas III"
+subtitle: "Fazer arquitetura III"
 author  : "Pedro P. Palazzo"
 date    : 2021-10-26
 abstract: |

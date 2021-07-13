@@ -1,6 +1,6 @@
 ---
 title: "Construção arqueada"
-subtitle: "Arquitetura tradicional VI"
+subtitle: "Elementos da construção IV"
 author: "Pedro P. Palazzo"
 date: 2021-08-17
 abstract: |

@@ -94,7 +94,7 @@ IX.  [Propósitos](_aula/propositos.md)
        — Sete tipos
        — 
 
-X.  [Composição](_aula/composicao.md)
+X.  [Volumes](_aula/volumes.md)
 
     ~ [^10] Tipos distributivos
       — Do volume ao espaço
