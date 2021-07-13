@@ -3,7 +3,7 @@ title   : "Ordenar"
 subtitle: "Fazer arquitetura"
 item    : "II"
 author  : "Pedro P. Palazzo"
-date    : 2021-10-19
+date    : 2021-10-14
 toc:
   - Traçado regulador e cosmologia no vāstu śāstra
   - Ornamento e geometria
