@@ -308,6 +308,8 @@ article > dl, section > dl, .incremental > dl, details > dl, div.notes > dl { cl
 
 dt, h5, h6 { float: left; margin: 0 1.4rem 0 0; padding: 0; line-height: 1.5rem; }
 
+li > dl > dt, dl > dt:first-of-type { line-height: 2rem; }
+
 h3, h5, span.newthought { font-size: 1.8rem; }
 
 h5, span.newthought { margin-top: -0.1rem; }
