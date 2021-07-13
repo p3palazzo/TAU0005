@@ -4,10 +4,12 @@ subtitle: "Arquitetura tradicional I"
 author  : "Pedro P. Palazzo"
 date    : 2021-07-20
 abstract: |
-  História ou arquitetura tradicional
-  – Continuidade e ruptura
-  – Arquitetura é construção
-  – Construção tradicional e construção moderna
+  [História ou arquitetura](#história-ou-arquitetura)
+  --- [Continuidade e ruptura](#continuidade-e-ruptura)
+  --- [Arquitetura é construção](#arquitetura-é-construção)
+  --- [Construção tradicional e construção moderna](#construção-tradicional-e-construção-moderna)
+  --- [O que não é arquitetura tradicional](#o-que-não-é-arquitetura-tradicional)
+  --- [Adendo: problemas com outras definições de arquitetura](#adendo)
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg/1280px-Thomas_Cole\_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg
 ---
@@ -1497,7 +1499,7 @@ privilegiar os mais sólidos e duráveis, que são também mais caros. Mas
 nem sempre essa distinção material é muito evidente --- o mais comum é a
 diferença estar no rigor geométrico e decorativo das construções.
 
-# Adendo: problemas com outras definições de arquitetura #
+# Adendo: problemas com outras definições de arquitetura {#adendo}
 
 ## {data-background-image="https://i.pinimg.com/originals/9e/28/15/9e28156e5be6433b42aa14c5e2fe3d32.jpg"}
 
@@ -1706,29 +1708,5 @@ história.
 gregos e os automóveis do início do século [XX]{.smallcaps}
 ](https://i.pinimg.com/originals/94/9c/0e/949c0ebc1c773100b91ec38aa84dd32a.jpg){#fig:temple-auto}
 
-# Referências {.allowframebreaks}
+# Bibliografia {.allowframebreaks}
 
-<!--
-
-# {.unlisted}
-
-
-Na verdade, a regra no Ocidente durante os últimos trezentos anos ou
-mais tem sido desconsiderar a construção, ou pelo menos tratar a
-arquitetura como se ela fosse uma ocupação intelectual abstrata,
-totalmente separada do processo construtivo.
-
-Estágios da história da cidade
-------------------------------
-
-- Cidade como artefato (obra de arte)
-
-. . .
-
-- Cidade como produto (consumo)
-
-. . .
-
-- Cidade como commodity (investimento)
-
--->

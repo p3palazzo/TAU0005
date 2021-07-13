@@ -4,10 +4,10 @@ subtitle: "Arquitetura tradicional II"
 author: "Pedro P. Palazzo"
 date: 2021-07-27
 abstract: |
-  Ordem e lugar
-  — Proporção e escala
-  — Representação
-  — Alegoria da cabana primitiva
+  [Ordem e lugar](#ordem-e-lugar)
+  --- [Proporção e escala](#proporção-e-escala)
+  --- [Representação](#representação)
+  --- [Alegoria da cabana primitiva](#alegoria-da-cabana-primitiva)
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
 ---

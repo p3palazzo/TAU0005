@@ -4,17 +4,17 @@ subtitle: "Elementos da construção II"
 author  : "Pedro P. Palazzo"
 date    : 2021-08-10
 abstract: |
-  Da forquilha ao pórtico
-  — Colunas e vigas
-  — Assoalhos e terraços
-  — Da madeira à pedra
+  [Da forquilha ao pórtico](#da-forquilha-ao-pórtico)
+  --- [Colunas e vigas](#colunas-e-vigas)
+  --- [Assoalhos e terraços](#assoalhos-e-terraços)
+  --- [Da madeira à pedra](#da-madeira-à-pedra)
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg
 ---
 
 ![Thomas Cole, The Course of Empire: Consummation, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg){#fig:cole-consummation .fullwidth}
 
-# Construção arquitravada da madeira à pedra #
+# Da forquilha ao pórtico #
 
 Nos mitos da cabana primitiva e nas culturas da maior parte do mundo, a
 madeira é o material primordial da arquitetura. A construção tradicional
@@ -332,7 +332,7 @@ Estabelecidos os princípios conceituais e a base física para a
 construção arquitravada, vamos ver na próxima seção quais são os
 requisitos técnicos para a superestrutura em madeira ou pedra.
 
-# Compondo uma construção arquitravada #
+# Colunas e vigas #
 
 Resolvidas as fundações, podemos tratar da superestrutura
 do edifício. A tradição arquitravada do Mediterrâneo oriental geralmente
@@ -621,5 +621,9 @@ resulta em malhas lineares de pontos de apoio; vamos ver na sequência
 como essa lógica é diferente da construção murária --- feita de paredes
 portantes.
 
-# Referências {.allowframebreaks}
+# Assoalhos e terraços #
+
+# Da madeira à pedra #
+
+# Bibliografia {.allowframebreaks}
 
