@@ -6,6 +6,7 @@ author  : "Pedro P. Palazzo"
 date    : 2021-10-26
 toc:
   - Casas, castelos e outras arquiteturas civis
+  - Querela do ornamento
   - Espacialidade na pintura gótica italiana
 ---
 
