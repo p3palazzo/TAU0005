@@ -1,12 +1,15 @@
 ---
 title   : "Teoria da forma urbana"
-subtitle: "Elementos de composição IV"
+subtitle: "Elementos de composição"
+item    : "IV"
 author  : "Pedro P. Palazzo"
-abstract: |
-  Princípios de morfologia urbana
-  – Elementos da forma urbana
-  – Rua e praça na cidade antiga
-  – Parcelamento do solo e arquitetura
+date    : 2021-10-05
+toc:
+  - Princípios de morfologia urbana
+  - Elementos da forma urbana
+  - Rua e praça na cidade antiga
+  - Bairro e arrabalde
+  - Parcelamento do solo e arquitetura
 ---
 
 # Princípios da forma urbana #
@@ -363,3 +366,29 @@ sedimentação e sobreposição de novas ruas (@fig:firenze).
 
 ![Esquema de um feudo medieval, em [William R. Shepherd, *Historical Atlas*, 1923](https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plan_mediaeval_manor.jpg/693px-Plan_mediaeval_manor.jpg){#fig:manor}
 
+# Bibliografia {.allowframebreaks}
+
+<!--
+
+# {.unlisted}
+
+
+Na verdade, a regra no Ocidente durante os últimos trezentos anos ou
+mais tem sido desconsiderar a construção, ou pelo menos tratar a
+arquitetura como se ela fosse uma ocupação intelectual abstrata,
+totalmente separada do processo construtivo.
+
+Estágios da história da cidade
+------------------------------
+
+- Cidade como artefato (obra de arte)
+
+. . .
+
+- Cidade como produto (consumo)
+
+. . .
+
+- Cidade como commodity (investimento)
+
+-->

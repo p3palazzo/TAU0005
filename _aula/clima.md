@@ -1,13 +1,14 @@
 ---
 title   : "Corpo e natureza"
-subtitle: "Elementos de composição I"
+subtitle: "Elementos de composição"
+item    : "I"
 author  : "Pedro P. Palazzo"
 date    : 2021-09-07
-abstract: |
-  Arquitetura e as estações
-  — Unidade na diversidade
-  — Três idades do homem: arquitetura para todos
-  — Captar e armazenar: civilizações hidráulicas no Ceilão e no Sudeste asiático
+toc:
+  - Arquitetura e as estações
+  - Unidade na diversidade
+  - "Três idades do homem: arquitetura para todos"
+  - "Captar e armazenar: civilizações hidráulicas no Ceilão e no Sudeste asiático"
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1280px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
 ---

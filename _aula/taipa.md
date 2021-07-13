@@ -1,13 +1,14 @@
 ---
 title   : "Taipas e fundações"
-subtitle: "Elementos da construção I"
+subtitle: "Elementos da construção"
+item    : "I"
 author  : "Pedro P. Palazzo"
 date    : 2021-08-03
-abstract: |
-  [Materiais da construção tradicional](#materiais)
-  — [Construções semienterradas](#semienterrado)
-  — [Plataformas e terraplenos](#terrapleno)
-  — [Fundações](#fundacoes)
+toc:
+  - Materiais da construção tradicional
+  - Construções semienterradas
+  - Plataformas e terraplenos
+  - Fundações
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg
 ---
@@ -547,8 +548,8 @@ construção em evidência acima do nível do terreno à sua volta.
 ## {.unlisted}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[A terceira versão do mito]{.newthought} da cabana primitiva foi contada
-pelo arquiteto alemão Gottfried Semper (@fig:semper) num artigo de 1851
+O conceito de *plataforma* vem da alegoria da cabana primitiva na forma
+contada pelo arquiteto alemão Gottfried Semper (@fig:semper) num artigo de 1851
 intitulado "Os quatro elementos da arquitetura" [@semper:1851vier].
 Semper se inspirou numa cabana de índios karib (@fig:karib) que ele
 tinha visto na exposição universal de Londres, aquela do palácio de
@@ -612,6 +613,148 @@ organizado com uma área central cercada por plataformas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
+
+## {.unlisted data-background-image=""}
+
+[Além da alvenaria de blocos]{.newthought}, há outro modo tradicional de
+construir paredes: as taipas. Esse termo designa uma grande variedade de
+métodos de construção com terra. Alguns, como a taipa de mão,
+pau-a-pique ou tabicado, consistem numa armação em madeira ou fibras
+vegetais, sobre a qual se coloca uma camada de terra; nesses casos, a
+parede tem uma resistência estrutural baixa. Por isso, esses tipos de
+taipa são usados sobretudo para paredes de vedação, ou em construções
+muito pequenas e simples.
+
+## {.unlisted data-background-image=""}
+
+Quando se fala em taipa como sistema estrutural, é a taipa de pilão que
+vem à mente: uma série de camadas de terra compactada, geralmente
+assentadas dentro de uma forma temporária (o taipal) ou como um
+terrapleno entre paredes de alvenaria.
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg"}
+
+Esse procedimento, na sua forma tradicional, foi descrito e ilustrado
+pelo engenheiro francês Jean-Baptiste Rondelet no início do século
+[XIX]{.smallcaps} [@rondelet:1812traite1]. O sistema da taipa deve, em
+quase todos os casos, assentar sobre uma fundação em pedra aparelhada ou
+cantaria (@fig:taipal). Essa fundação dá um assentamento mais homogêneo
+para a parede, e que a umidade ascendente comprometa a solidez da
+parede. Do mesmo modo, a taipa deve ser coroada com um ou mais frechais
+em madeira, para regularizar o assentamento da cobertura sobre a parede.
+Ao contrário da melhor prática na concretagem, na taipa cada camada
+comprimida (@fig:ram) precisa secar antes de se lançar a camada
+seguinte.
+
+![Esquema do processo de construção com taipa de pilão. [Jean-Baptiste Rondelet, 1802](https://gallica.bnf.fr/ark:/12148/bpt6k6555321j/f20.item)](https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg){#fig:taipal .fullwidth}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/92/Ramming_Earth.JPG"}
+
+![Compactando manualmente uma parede em taipa de pilão. Sinai, Egito. Foto: [Moshirah, 2008](https://commons.wikimedia.org/wiki/File:Ramming_Earth.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ramming_Earth.JPG/1280px-Ramming_Earth.JPG){#fig:ram .marginnote}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg"}
+
+![Mesquita maior em Djenné, Mali, século [XIV]{.smallcaps}, reconstruída 1906--1907. Foto: [Gilles Mairet, 1972](https://commons.wikimedia.org/wiki/File:La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg/1280px-La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg){#fig:djenne}
+
+<!--_,-->
+
+O taipal geralmente é uma forma móvel em madeira, apoiada en tirantes
+que deixam buracos regulares na taipa (@fig:taipal). Esses buracos podem
+ser simplesmente tapados, ou podem servir de apoios para uma camada de
+revestimento. Em alguns casos, os tirantes podem ser deixados no corpo
+da parede para dar mais estabilidade e facilitar o acesso para
+manutenção. Esse costume é tradicional na região do Sael, ao sul do
+deserto do Saara, por exemplo nas cidades históricas do delta do rio
+Níger, como Djenné (@fig:djenne).
+
+## {.unlisted data-background-image=""}
+
+Na teoria, a taipa de pilão poderia se prestar a formas totalmente
+orgânicas, já que ela não depende do módulo mínimo de um bloco. Na
+prática, ela é usada sobretudo em grandes paredes retilíneas, para
+permitir a reutilização do taipal com mais facilidade. A grande
+espessura das paredes em taipa de pilão faz com que elas, em geral, não
+precisem de contraventamento.
+
+## {.unlisted}
+
+[O conceito de terrapleno se realiza]{.newthought} de fato com uma
+construção um pouco mais complexa. Ela consiste nalguma espécie de
+terrapleno entre contenções em alvenaria. Ao contrário da taipa de
+pilão, que usa formas removíveis, o terrapleno fica permanentemente
+constituído por esse sistema de enchimento e contenções. São sistemas
+usados sobretudo para edifícios grandes, com coberturas pesadas e onde
+se busca um aspecto monumental a partir da aparência da massa edificada.
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ziggarut_of_Ur_-_M.Lubinski.jpg/1280px-Ziggarut_of_Ur_-_M.Lubinski.jpg"}
+
+<!--_,-->
+
+A antiga Mesopotâmia tem alguns dos mais antigos exemplos de parede
+espessa. Os templos dos antigos sumérios, nos [IV]{.smallcaps} e
+[III]{.smallcaps} milênios a.C., usam paredes espessas e mesmo
+terraplenos maciços. O Zigurate de Ur, construído entre 2050 e 1980
+a.C., é talvez o exemplo mais emblemático e bem conservado, apesar de
+ter sido restaurado com uma mão bem pesada no final do século
+[XX]{.smallcaps} (@fig:ziggurat). O que resta do monumento hoje em dia é
+um imenso terraço em degraus, com muros de arrimo em adobe que enquadram
+um terrapleno com 30 metros de altura.
+
+![Zigurate, antigo reino de Ur, atual Iraque, c. 2050--1980 a.C. Foto: [Michael Lubinski, 2006](https://commons.wikimedia.org/wiki/File:Ziggarut_of_Ur_-_M.Lubinski.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ziggarut_of_Ur_-_M.Lubinski.jpg/1280px-Ziggarut_of_Ur_-_M.Lubinski.jpg){#fig:ziggurat}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/a9/25/45/a925451f15346eca6d7d517c08836520.png"}
+
+![Reconstituição do Zigurate de Eanna, Uruk, século [XXI]{.smallcaps} a.C. Modelo: [Artefacts](http://www.artefacts-berlin.de/portfolio-item/the-ur-iii-period/)](https://i.pinimg.com/originals/a9/25/45/a925451f15346eca6d7d517c08836520.png){#fig:eanna}
+
+Os zigurates na verdade eram mais do que o simples terraço com um
+edifício em cima; eles eram sistemas de espaços abertos e fechados
+sucessivos [@anastasio:2020building], com portais controlando o acesso
+às areas mais internas (@fig:eanna). As paredes eram peças chave nesse
+sistema, portanto, e elas apresentam variações sobre o tema da estrutura
+em adobe, de acordo com a espessura de cada uma.
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png"}
+
+![Corte de uma parede em adobe típica da antiga Mesopotâmia. (a) parede, (b) baldrame ou soco, (c) fundação em sapata corrida, (bondstone) bloco juntouro ou perpianho. Anastasio, 2020](https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png){#fig:adobe-foundations .marginnote}
+
+Estruturas simples poderiam ter apenas uma alvenaria em adobe apoiada
+sobre uma sapata corrida em pedra lavrada (@fig:adobe-foundations).
+Nesse caso, alguns blocos seriam grandes o suficiente para travar a
+espessura da parede de um lado a outro: são o que chamamos de blocos
+juntouros ou perpianhos.
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/fb/Eridu_mound4c.8.png" data-background-size="contain"}
+
+No entanto, edifícios maiores em geral precisam de paredes mais grossas
+e estáveis. Nesse caso, era comum encapar o miolo da parede em adobe com
+uma face de tijolos cozidos em cada lado [@anastasio:2020building, 62].
+Essas faces em tijolo cozido eram tão estruturais quanto o miolo em
+adobe. Elas eram ligadas entre si, em algumas fiadas, com cordas e
+esteiras de palha embutidas na argamassa. Seria esse o sistema
+construtivo adotado em grandes edifícios, como o antiquíssimo "templo de
+Enki" em Eridu (e que talvez fosse um palácio), construído por volta de
+4000 a.C. (@fig:eridu). E nos grandes terraços que elevam os edifícios
+públicos monumentais, a camada é tripla: tijolo cozido, adobe, e o
+terrapleno propriamente dito preenchido com qualquer tipo de material
+compactado --- terra, entulho de construção e outros resíduos.
+
+## {.unlisted data-background-iframe="https://www.youtube.com/watch?v=0h_YGXsMBUo&t=26"}
+
+Com o tempo, essas faces em tijolos cozidos seriam vistas como uma
+superfície ideal para ornamentar a construção. Na Babilônia, os tijolos
+na superfície externa de algumas muralhas eram decorados com relevos
+pintados e tinha um acabamento vidrado. É o caso da famosa porta de
+Ishtar, atualmente reconstituída a partir de vestígios originais no
+museu Pergamon de Berlim (@fig:ishtar). Além dessa decoração, também
+podemos ver como a massa construída do portal enquadra o espaço numa
+sucessão de pátios cada vez mais restritos, até chegar na porta
+propriamente dita. Esse enclausuramento dos volumes é a função
+primordial dessas estruturas monumentais, seja por motivos militares ou
+simbólicos.
+
+![Templo de Enki em Eridu, nível VII, c. 4000--3800 a.C. Modelo: [Cush 2016](https://commons.wikimedia.org/wiki/File:Eridu_temple_7.png)](https://upload.wikimedia.org/wikipedia/commons/6/68/Eridu_temple_7.png){#fig:eridu .marginnote}
+
+![Porta de Ishtar, Babilônia, 575 a.C., atualmente no museu Pergamon, Berlim](https://i.pinimg.com/originals/d5/83/2c/d5832cea9db6c2723d2ff99226e4b400.jpg){#fig:ishtar}
 
 # Fundações tradicionais {#fundacoes}
 
@@ -906,7 +1049,7 @@ impedir a umidade que *já entrou* de *sair* da construção.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse tipo de problema ocorreu no sítio arqueológico da antiga Babilônia
-(@fig:ishtar). Na década de 1960, foi construído um percurso turístico
+(@fig:ishtar-model). Na década de 1960, foi construído um percurso turístico
 com piso em concreto. Isso impediu que a umidade do solo escoasse pela
 superfície, para evitar que os turistas tivessem que caminhar no chão
 lamacento. Só que, com isso, a água ficou retida no subsolo, começou a
@@ -916,7 +1059,7 @@ superficial dos tijolos, que foi sendo lavada ao longo dos anos por essa
 circulação da água.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::: {#fig:ishtar .iframe-wrapper}
+:::::::::::::::::::::::::::::::::::: {#fig:ishtar-model .iframe-wrapper}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d23S8P-H0lM?t=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Modelo fotogramétrico da porta de Ishtar, Babilônia, século

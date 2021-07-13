@@ -1,13 +1,14 @@
 ---
 title   : "Caracterizar"
-subtitle: "Fazer arquitetura IV"
+subtitle: "Fazer arquitetura"
+item    : "IV"
 author  : "Pedro P. Palazzo"
 date    : 2021-11-04
-abstract: |
-  Continuidade entre a Antiguidade tardia e a Idade Média
-  – Uso de espólios e transformações na cultura edilícia
-  – Composições espaciais no mundo judaico-cristão
-  – Artes decorativas no norte da Europa e na rota da Seda
+toc:
+  - Quando termina a Antiguidade?
+  - Espólios e cultura edilícia
+  - Composições espaciais de congregação
+  - Querela do ornamento
 ---
 
 # Quando termina a Antiguidade? #
@@ -77,4 +78,22 @@ Espalato, plantas reconstituídas por Ernest Hébrard, 1912
 ![Arco de Constantino, Roma, 312: espólios de monumentos anteriores. Desenho por [Marsyas, 2006](https://commons.wikimedia.org/wiki/File:Constantine_arch_datation_pt.svg) baseado em Ward-Perkins](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Constantine_arch_datation_pt.svg/1024px-Constantine_arch_datation_pt.svg.png){#fig:constarch-spolia}
 
 # Composições espaciais de congregação #
+
+# Querela do ornamento #
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg"}
+
+![Abadia de Cluny, estágio III, século [XII]{.smallcaps}. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/cluny/) baseada em Kenneth J. Conant](https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg){#fig:cluny}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg"}
+
+![Nave da igreja da abadia de Fontenay, Borgonha, 1130--1147](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg){#fig:fontenay}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/1800px-Map_France_Gothic_1180.svg.png" data-background-position="top"}
+
+![Algumas das primeiras igrejas góticas na França, século [XII]{.smallcaps}. Amarelo escuro: extensão territorial do reino da França c. 1180; amarelo claro: domínio real](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/900px-Map_France_Gothic_1180.svg.png){#fig:gothic-1180 .marginnote}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg"}
+
+![Abadia de S. Dionísio (Saint-Denis), igreja concebida pelo abade Suger e construída 1122--1151. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/saint-denis/)](https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg){#fig:sdenis-golvin}
 

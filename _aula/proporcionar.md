@@ -1,9 +1,10 @@
 ---
 title   : "Proporcionar"
-subtitle: "Fazer arquitetura V"
+subtitle: "Fazer arquitetura"
+item    : "V"
 author  : "Pedro P. Palazzo"
 date    : 2021-11-09
-abstract: |
-  Proporções como instrumento da construção
-  — Proporções fixas e dinâmicas
+toc:
+  - Proporções como instrumento da construção
+  - Proporções fixas e dinâmicas
 ---

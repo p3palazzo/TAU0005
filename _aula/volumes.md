@@ -1,12 +1,14 @@
 ---
 title   : "Volumes"
-subtitle: "Elementos de composição III"
+subtitle: "Elementos de composição"
+item    : "III"
 author  : "Pedro P. Palazzo"
-abstract: |
-  Construção e espacialidade
-  – Quatro elementos da arquitetura
-  – Caráter e decoro
-  – Articulação arquitetônica do espaço
+date    : 2021-09-21
+toc:
+  - Construção e espacialidade
+  - Quatro elementos da arquitetura
+  - Caráter e decoro
+  - Articulação arquitetônica do espaço
 ---
 
 # Espaço ou lugar #

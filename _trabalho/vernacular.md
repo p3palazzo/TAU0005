@@ -1,6 +1,7 @@
 ---
 title: "Edículas vernáculas"
-subtitle: "Atividade I"
+subtitle: "Elementos da construção"
+item: "Atividade I"
 author: "Pedro P. Palazzo"
 date: 2021-09-07
 nocite: |

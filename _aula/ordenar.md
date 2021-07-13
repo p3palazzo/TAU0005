@@ -1,15 +1,16 @@
 ---
 title   : "Ordenar"
-subtitle: "Fazer arquitetura II"
+subtitle: "Fazer arquitetura"
+item    : "II"
 author  : "Pedro P. Palazzo"
 date    : 2021-10-19
-abstract:
-  Traçado regulador e cosmologia no vāstu śāstra
-  – Ornamento, geometria e paisagismo
-  – Da arquitetura tipológica às malhas espaciais
+toc:
+  - Traçado regulador e cosmologia no vāstu śāstra
+  - Ornamento e geometria
+  - Malhas espaciais
 ---
 
-# Traçado regulador e cosmologia #
+# Traçado regulador e cosmologia no vāstu śāstra #
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/5a/4d/4e/5a4d4e523063b122e3bc96c7c22eb537.jpg"}
 

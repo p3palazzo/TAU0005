@@ -1,20 +1,19 @@
 ---
 title   : "Completar"
-subtitle: "Fazer arquitetura I"
+subtitle: "Fazer arquitetura"
+item    : "I"
 author  : "Pedro P. Palazzo"
-date    : 2021-10-05
-abstract: |
-  Crescimentos urbanos na Europa medieval
-  – Casas, castelos e outras arquiteturas civis
-  – Tecnologia e profissão na construção gótica
-  – Espacialidade na pintura gótica italiana
+date    : 2021-10-14
+toc:
+  - Casas, castelos e outras arquiteturas civis
+  - Espacialidade na pintura gótica italiana
 ---
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg"}
 
 ![Thomas Cole. The Past, 1838](https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg){#fig:cole-past .fullwidth}
 
-# Arquitetura civil na Europa #
+# Casas, castelos e outras arquiteturas civis #
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/e1/43/d1/e143d14acdb8f920ef42f7932c01facc.jpg"}
 

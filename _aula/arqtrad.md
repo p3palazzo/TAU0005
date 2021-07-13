@@ -1,13 +1,16 @@
 ---
 title   : "História e arquitetura tradicional"
-subtitle: "Arquitetura tradicional I"
+subtitle: "Arquitetura tradicional"
+item    : "I"
 author  : "Pedro P. Palazzo"
 date    : 2021-07-20
-abstract: |
-  História ou arquitetura tradicional
-  – Continuidade e ruptura
-  – Arquitetura é construção
-  – Construção tradicional e construção moderna
+toc:
+  - História ou arquitetura
+  - Continuidade e ruptura
+  - Arquitetura é construção
+  - Construção tradicional e construção moderna
+  - O que não é arquitetura tradicional
+  - "Adendo: problemas com outras definições de arquitetura"
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg/1280px-Thomas_Cole\_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg
 ---
@@ -1706,29 +1709,5 @@ história.
 gregos e os automóveis do início do século [XX]{.smallcaps}
 ](https://i.pinimg.com/originals/94/9c/0e/949c0ebc1c773100b91ec38aa84dd32a.jpg){#fig:temple-auto}
 
-# Referências {.allowframebreaks}
+# Bibliografia {.allowframebreaks}
 
-<!--
-
-# {.unlisted}
-
-
-Na verdade, a regra no Ocidente durante os últimos trezentos anos ou
-mais tem sido desconsiderar a construção, ou pelo menos tratar a
-arquitetura como se ela fosse uma ocupação intelectual abstrata,
-totalmente separada do processo construtivo.
-
-Estágios da história da cidade
-------------------------------
-
-- Cidade como artefato (obra de arte)
-
-. . .
-
-- Cidade como produto (consumo)
-
-. . .
-
-- Cidade como commodity (investimento)
-
--->

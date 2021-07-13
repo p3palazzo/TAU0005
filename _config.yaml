@@ -44,7 +44,7 @@ defaults:
   - scope:
       path: ""
     values:
-      layout: page
+      layout: index
   - scope:
       path: ""
       type: "plano"
