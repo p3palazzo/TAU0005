@@ -31,8 +31,9 @@ autogestionado. Nesse espírito, começaremos nossos estudos de
 arquitetura tradicional com a seguinte proposta:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
-> Construir uma edícula com um único ambiente interno, consoante os
-> princípios universais da construção tradicional.
+> Construir uma edícula de planta centralizada, simétrica, com um único
+> ambiente interno, consoante os princípios universais da construção
+> tradicional.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Objetivo #
@@ -43,19 +44,23 @@ intrínseca aos detalhes construtivos de origem vernácula.
 
 # Produto #
 
+## Conteúdo ##
+
 Uma edícula (pequena construção) de planta centralizada, feita com
 paredes portantes em alvenaria e uma cobertura plana, com um único
 ambiente interno.
 
-- Na planta do ambiente único da edícula deve ser possível inscrever um
+- No piso do ambiente único da edícula deve ser possível inscrever um
   círculo com 2,5 metros de diâmetro, o qual deve tocar a estrutura da
   edícula em quatro pontos equidistantes;
+- A edícula pode ter uma, duas ou quatro aberturas para acesso, bem
+  proporcionadas e detalhadas;
 - A estrutura das paredes deve ser em alvenaria estrutural feita com
-  qualquer tecnologia tradicional em pedra, terra seca ou tijolo cozido,
+  qualquer alvenaria de blocos tradicional,
   tendo uma espessura de 45 centímetros no seu ponto mais estreito,
   revestimentos incluídos;
 - A cobertura será um terraço plano com estrutura em madeira revestida
-  externamente com um contrapiso condizente com o restante da
+  externamente com um contrapiso, condizente com o restante da
   construção.
 - O piso interior deve ser diferenciado do chão exterior em nível e em
   revestimento;
@@ -78,60 +83,34 @@ Considerando as acomodações previstas no plano de ensino, a maquete
 física poderá ser substituída por:
 
 - Desenhos técnicos na escala 1:20, em projeções ortográficas (planta,
-  corte, elevação) ou em diagramas isométricos; ou
+  corte, elevação) ou em diagramas isométricos equivalentes; ou
 - Uma maquete eletrônica postada numa plataforma de hospedagem de
   modelos 3D como o [Sketchfab](http://sketchfab.com) (submeter o link
   na entrega do trabalho), *ou* carregar imagens e vídeos da maquete
   junto com o arquivo da modelagem.
 
-# Cronograma e critérios de avaliação #
+<i class="fas fa-exclamation-triangle"></i>
+~ As texturas da maquete eletrônica, assim como o acabamento da maquete
+  física ou a arte-final dos desenhos técnicos, devem representar com
+  exatidão as juntas e montagens dos componentes construtivos. Se não
+  souber como mapear texturas numa maquete eletrônica para atingir essa
+  visualização correta, *não faça maquete eletrônica!*
 
-| Data  | Atividade                                                |
-|-------|----------------------------------------------------------|
-| 02/02 | Lançamento do trabalho: iniciar a pesquisa de repertório |
-| 09/02 | Orientação 1: sistema construtivo e forma da edícula     |
-| 16/02 | Orientação 2: detalhes construtivos                      |
-| 25/02 | Orientação 3: execução da maquete                        |
-| 02/03 | Entrega do trabalho                                      |
+# Critérios de avaliação #
 
-: Cronograma
-
-| Critério de avaliação                                                  |  Valor |
-|------------------------------------------------------------------------|-------:|
-| Orientação 1: croquis do partido e sistema construtivo na escala 1:100 |      5 |
-| Orientação 2: croquis de detalhes e montagens da construção            |      5 |
-| Orientação 3: uma parede e a cobertura da maquete                      |      5 |
-| **Total**                                                              | **15** |
-
-: Processo
-
-| Critério de avaliação                                               |  Valor |
+| Critério                                                            |  Valor |
 |---------------------------------------------------------------------|-------:|
-| Aplicação correta dos elementos da construção tradicional           |      7 |
-| Precisão e clareza na execução da maquete                           |      6 |
-| Uso correto, elegante e eficaz da base, legendas e escalas gráficas |      2 |
-| **Total**                                                           | **15** |
+| Aplicação correta dos elementos da construção tradicional           |     10 |
+| Precisão e clareza na execução do produto                           |      5 |
+| Uso correto, elegante e eficaz da base, legendas e escalas gráficas |      5 |
+| **Total**                                                           | **20** |
 
-: Produto
+Você também deve atender ao seguinte:
 
-Ver também os critérios gerais de apresentação e avaliação no plano de
-ensino.
-
-## Sobre plágio e originalidade ##
-
-Integridade e reconhecimento são valores éticos fundamentais da
-cidadania e da profissão. Copiar parte ou tudo do trabalho alheio ---
-seja de colegas de turma, da bibliografia, ou de material "garimpado" na
-Internet --- é uma prática inaceitável e resultará em atribuição da nota
-0 (zero) ao trabalho como um todo. Dependendo da gravidade do fato,
-podemos relatar o ocorrido ao colegiado de graduação da FAU.
-
-Dito isso, você não tem obrigação de ser *original* no sentido artístico
-da palavra. Em cada trabalho você precisa atender a uma exigência
-pontual e demonstrar compreensão *correta* da construção tradicional e
-da arquitetura clássica. Não complique desnecessariamente o processo
-buscando uma expressão rebuscada: a sua linguagem pessoal vai aparecer
-gradual e naturalmente do seu modo de resolver o problema proposto.
+- [Critérios e normas gerais de avaliação](../_plano/avalia.md);
+- [Materiais indicados para desenhar](materiais.md);
+- [Normas de desenho desta disciplina](desenho.md);
+- [Dicas para digitalizar desenhos](digitalizar.md).
 
 # Referências #
 

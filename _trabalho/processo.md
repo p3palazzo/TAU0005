@@ -40,6 +40,29 @@ espaços, do parcelamento do solo e do espaço público:
 > tradicional, explorando a modularidade de dimensões horizontais e
 > verticais desde o passeio público até a intimidade da casa.
 
+* * * *
+
+A palavra *quincúncia* vem do latim *quincunx*, que descreve uma
+combinação de cinco pontos ou objetos: quatro deles formam os vértices
+de um quadrado, e o quinto se situa no centro. Essa combinação
+geralmente é expandida para uma malha de jogo-da-velha, com nove casas
+--- duas séries de quatro casas no perímetro e uma casa central.
+Ela é usada por uma grande variedade de culturas para articular tipos
+edilícios diversos, desde casas até locais de culto. Em várias
+cosmologias tradicionais, a quincúncia tem algum simbolismo associado à
+Terra (o planeta) ou à ordem do Universo.
+
+Com ou sem referências cosmológicas, a clareza formal da quincúncia
+permite resolver muitas composições complexas com elegância. A
+quincúncia é especialmente útil quando parcialmente deformada para
+enfatizar um eixo de simetria, ou para dar destaque hierárquico a um
+ambiente sobre os demais. As possibilidades desse traçado regulador nos
+permitem dar continuidade à nossa exploração da arquitetura clássica:
+
+> Integrar a edícula do trabalho anterior numa composição espacial em
+> quincúncia, sempre respeitando os princípios da construção tradicional
+> e da arquitetura clássica.
+
 ## Objetivos ##
 
 1. Reconhecer os sete tipos edilícios fundamentais e realizar
@@ -173,6 +196,16 @@ abaixo). Aproveite para corrigir erros assinalados nas etapas
 anteriores.
 
 # Produto (15 pontos) #
+
+Uma pequena composição arquitetônica em quincúncia, empregando elementos
+construtivos e/ou paisagísticos da arquitetura clássica, podendo conter
+espaços cobertos e descobertos, encerrados e permeáveis. A composição
+será implantada num espaço público aberto, e não deve ter um programa de
+necessidades determinado. A composição deve conter a edícula extraída do
+trabalho anterior, que poderá ser revista e corrigida para inclusão
+neste novo conjunto.
+
+* * * *
 
 Reapresente as três etapas anteriores numa única prancha e todas na
 mesma escala, de modo que as sucessivas transformações possam ser
