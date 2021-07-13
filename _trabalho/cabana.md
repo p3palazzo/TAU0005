@@ -1,7 +1,8 @@
 ---
 title: "Estudo analítico: a cabana primitiva"
-subtitle: "Atvidade de nivelamento inicial"
-date: 2021-07-29
+subtitle: "Arquitetura tradicional"
+item: "Atvidade de nivelamento"
+date: 2021-08-05
 nocite: >
   @ching:2017representacao,
   @harbeson:1927study,

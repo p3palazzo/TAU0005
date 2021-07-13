@@ -1,13 +1,14 @@
 ---
 title   : "Construção arquitravada"
-subtitle: "Elementos da construção II"
+subtitle: "Elementos da construção"
+item    : "II"
 author  : "Pedro P. Palazzo"
 date    : 2021-08-10
-abstract: |
-  [Da forquilha ao pórtico](#da-forquilha-ao-pórtico)
-  --- [Colunas e vigas](#colunas-e-vigas)
-  --- [Assoalhos e terraços](#assoalhos-e-terraços)
-  --- [Da madeira à pedra](#da-madeira-à-pedra)
+toc:
+  - Da forquilha ao pórtico
+  - Colunas e vigas
+  - Assoalhos e terraços
+  - Da madeira à pedra
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg
 ---

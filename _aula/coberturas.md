@@ -1,13 +1,14 @@
 ---
 title   : "Coberturas e superfícies"
-subtitle: "Elementos da construção V"
+subtitle: "Elementos da construção"
+item    : "V"
 author  : "Pedro P. Palazzo"
 date    : 2021-08-31
-abstract: |
-  Estilo, construção e cultura
-  — Coberturas complexas
-  — Molduras, vedações e aberturas
-  — Revestimentos
+toc:
+  - Estilo, construção e cultura
+  - Coberturas complexas
+  - Molduras, vedações e aberturas
+  - Revestimentos
 ---
 
 # Estilo, construção e cultura #

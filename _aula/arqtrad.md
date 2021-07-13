@@ -1,15 +1,16 @@
 ---
 title   : "História e arquitetura tradicional"
-subtitle: "Arquitetura tradicional I"
+subtitle: "Arquitetura tradicional"
+item    : "I"
 author  : "Pedro P. Palazzo"
 date    : 2021-07-20
-abstract: |
-  [História ou arquitetura](#história-ou-arquitetura)
-  --- [Continuidade e ruptura](#continuidade-e-ruptura)
-  --- [Arquitetura é construção](#arquitetura-é-construção)
-  --- [Construção tradicional e construção moderna](#construção-tradicional-e-construção-moderna)
-  --- [O que não é arquitetura tradicional](#o-que-não-é-arquitetura-tradicional)
-  --- [Adendo: problemas com outras definições de arquitetura](#adendo)
+toc:
+  - História ou arquitetura
+  - Continuidade e ruptura
+  - Arquitetura é construção
+  - Construção tradicional e construção moderna
+  - O que não é arquitetura tradicional
+  - "Adendo: problemas com outras definições de arquitetura"
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg/1280px-Thomas_Cole\_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg
 ---
@@ -1499,7 +1500,7 @@ privilegiar os mais sólidos e duráveis, que são também mais caros. Mas
 nem sempre essa distinção material é muito evidente --- o mais comum é a
 diferença estar no rigor geométrico e decorativo das construções.
 
-# Adendo: problemas com outras definições de arquitetura {#adendo}
+# Adendo: problemas com outras definições de arquitetura #
 
 ## {data-background-image="https://i.pinimg.com/originals/9e/28/15/9e28156e5be6433b42aa14c5e2fe3d32.jpg"}
 

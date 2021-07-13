@@ -2,7 +2,7 @@
   <header>
     <h1 class="title">{{ page.title }}</h1>
     {% if page.subtitle -%}
-      <p class="subtitle">{{ page.subtitle }}</p>
+      <p class="subtitle">{{ page.subtitle }} {{ page.item }}</p>
     {%- endif %}
     {%- if page.author %}
     <p class="author"><span itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -11,16 +11,26 @@
       </span></span>
     </p>
     {% endif -%}
+    {%- if page.abstract %}
       <div class="epigraph">
         <blockquote>
           <p>
-          {%- if page.abstract %}
             {{ page.abstract | markdownify }}
-          {%- elsif page.layout == 'index' -%}
-            {{ site.description }}
-          {% endif -%}
           </p>
         </blockquote>
       </div>
+    {% endif -%}
+    {%- if page.toc %}
+      <div class="epigraph">
+        <blockquote>
+          <p>
+            {% for topic in page.toc -%}
+              <a href="#{{ topic | downcase | replace: ' ', '-' | remove: ':' | remove: ',' }}">{{ topic }}</a>
+              {% unless forloop.last %} &mdash; {% endunless %}
+            {%- endfor %}
+          </p>
+        </blockquote>
+      </div>
+    {% endif -%}
   </header>
 {% endif %}

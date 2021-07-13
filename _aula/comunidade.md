@@ -1,13 +1,15 @@
 ---
 title   : "Teoria da forma urbana"
-subtitle: "Elementos de composição IV"
+subtitle: "Elementos de composição"
+item    : "IV"
 author  : "Pedro P. Palazzo"
-abstract: |
-  [Princípios de morfologia urbana](#princípios-da-forma-urbana)
-  --- [Elementos da forma urbana](#elementos-da-forma-urbana)
-  --- [Rua e praça na cidade antiga](#rua-e-praça)
-  --- [Bairro e arrabalde](#bairro-e-arrabalde)
-  --- [Parcelamento do solo e arquitetura](#processos-históricos)
+date    : 2021-10-05
+toc:
+  - Princípios de morfologia urbana
+  - Elementos da forma urbana
+  - Rua e praça na cidade antiga
+  - Bairro e arrabalde
+  - Parcelamento do solo e arquitetura
 ---
 
 # Princípios da forma urbana #

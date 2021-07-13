@@ -1,7 +1,8 @@
 ---
 title   : "Analítico com ordens clássicas"
-subtitle: "Trabalho II"
-bibliography: "biblio.bib"
+subtitle: "Fazer arquitetura"
+item: "Atividade III"
+date: 2021-11-02
 ---
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph

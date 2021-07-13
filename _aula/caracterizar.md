@@ -1,13 +1,14 @@
 ---
 title   : "Caracterizar"
-subtitle: "Fazer arquitetura IV"
+subtitle: "Fazer arquitetura"
+item    : "IV"
 author  : "Pedro P. Palazzo"
 date    : 2021-11-04
-abstract: |
-  Continuidade entre a Antiguidade tardia e a Idade Média
-  --- [Espólios e cultura edilícia](#espólios-e-cultura-edilícia)
-  --- Composições espaciais no mundo judaico-cristão
-  --- Artes decorativas no norte da Europa e na rota da Seda
+toc:
+  - Quando termina a Antiguidade?
+  - Espólios e cultura edilícia
+  - Composições espaciais de congregação
+  - Querela do ornamento
 ---
 
 # Quando termina a Antiguidade? #

@@ -1,13 +1,14 @@
 ---
 title   : "Taipas e fundações"
-subtitle: "Elementos da construção I"
+subtitle: "Elementos da construção"
+item    : "I"
 author  : "Pedro P. Palazzo"
 date    : 2021-08-03
-abstract: |
-  [Materiais da construção tradicional](#materiais)
-  -- [Construções semienterradas](#semienterrado)
-  -- [Plataformas e terraplenos](#terrapleno)
-  -- [Fundações](#fundacoes)
+toc:
+  - Materiais da construção tradicional
+  - Construções semienterradas
+  - Plataformas e terraplenos
+  - Fundações
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg
 ---

@@ -1,14 +1,15 @@
 ---
 title   : "Propósitos"
-subtitle: "Elementos de composição II"
+subtitle: "Elementos de composição"
+item    : "II"
 author  : "Pedro P. Palazzo"
 date    : 2021-09-14
-abstract: |
-  História da arte ou história da construção
-  — Lar e casa
-  — Tipologia processual: ferramentas de análise e projeto
-  — Sete tipos edilícios fundamentais
-  — Princípios do projeto tipológico
+toc:
+  - História da arte ou história da construção
+  - Lar e casa
+  - "Tipologia processual: ferramentas de análise e projeto"
+  - Sete tipos edilícios fundamentais
+  - Princípios do projeto tipológico
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/f/f4/Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg
 ---

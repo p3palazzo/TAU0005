@@ -1,13 +1,14 @@
 ---
 title: "Construção arqueada"
-subtitle: "Elementos da construção IV"
+subtitle: "Elementos da construção"
+item: "IV"
 author: "Pedro P. Palazzo"
 date: 2021-08-17
-abstract: |
-  Geometria e forças
-  --- Arcos e abóbadas lineares
-  --- Cruzarias e cúpulas
-  --- [Tecnologia e profissão](#tecnologia-e-profissão)
+toc:
+  - Geometria e forças
+  - Arcos e abóbadas lineares
+  - Cruzarias e cúpulas
+  - Tecnologia e profissão
 title-slide-attributes:
   data-background-image:
 ---

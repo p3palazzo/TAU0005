@@ -1,13 +1,14 @@
 ---
 title   : "Construção murária"
-subtitle: "Elementos da construção III"
+subtitle: "Elementos da construção"
+item    : "III"
 author  : "Pedro P. Palazzo"
 date    : 2021-08-17
-abstract: |
-  [Energia e arquitetura](#energia-e-arquitetura)
-  --- [Construir com blocos](#construir-com-blocos)
-  --- [Arquitetura subtrativa](#arquitetura-subtrativa)
-  --- [Parede espessa](#parede-espessa)
+toc:
+  - Energia e arquitetura
+  - Construir com blocos
+  - Arquitetura subtrativa
+  - Parede espessa
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Giovanni_Paolo_Panini_–_Ancient_Rome.jpg/994px-Giovanni_Paolo_Panini_–_Ancient_Rome.jpg
 ---
