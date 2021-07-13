@@ -1,9 +1,9 @@
 ---
 title   : "História e arquitetura tradicional"
 subtitle: "Arquitetura tradicional"
-item    : "I"
+item    : "II"
 author  : "Pedro P. Palazzo"
-date    : 2021-07-20
+date    : 2021-07-27
 toc:
   - História ou arquitetura
   - Continuidade e ruptura

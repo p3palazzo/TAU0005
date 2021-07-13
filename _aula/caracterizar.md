@@ -48,3 +48,5 @@ toc:
 
 # Espacialidade na pintura gótica #
 
+# Bibliografia {.allowframebreaks}
+
