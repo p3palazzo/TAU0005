@@ -16,8 +16,7 @@
           <p>
           {%- if page.abstract %}
             {{ page.abstract | markdownify }}
-          {% endif -%}
-          {%- if page.layout == 'index' -%}
+          {%- elsif page.layout == 'index' -%}
             {{ site.description }}
           {% endif -%}
           </p>
