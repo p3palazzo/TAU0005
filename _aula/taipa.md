@@ -786,9 +786,9 @@ mais grosseiramente e encaixadas sem um aparelho regular.
 
 ![Interpretação das fundações de muralhas descritas por Vitrúvio, na tradução de [Claude Perrault, 1673](http://archive.org/details/gri_33125008503100)](https://i.pinimg.com/originals/99/11/a3/9911a3e0d03eb5628fde9bc5ce76e161.jpg){#fig:vitruve-pl4}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/funda-solos.png" data-background-size="contain"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/funda-solos-1.png" data-background-size="contain"}
 
-![Fundações em solo raso e em solo profundo](https://hcommons.org/app/uploads/sites/1002372/2021/07/funda-solos.png){#fig:cargas-funda .line}
+![Fundações em solo raso e em solo profundo](https://hcommons.org/app/uploads/sites/1002372/2021/07/funda-solos-1.png){#fig:cargas-funda .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Só que nem sempre isso é possível, especialmente onde o solo é muito
@@ -869,16 +869,14 @@ de Alberti e Palladio. Segundo Alberti, as sapatas ou os baldrames das
 fundações precisam ter, pelo menos, um oitavo da altura total das
 paredes acima delas (mas, no mínimo, um metro de profundidade). Além
 disso, Palladio indicava que a espessura das fundações devia ser o dobro
-da espessura das paredes assentada sobre elas (@fig:funda-dims). Em
-terrenos muito instáveis, arenosos ou pantanosos, pode-se usar fundações
-indiretas: as sapatas são assentadas sobre um cravejamento de estacas
-formadas por toras de madeira fincadas no chão. Como esses tipos de
-solos costumam ser totalmente encharcados quase o tempo todo, a água
+da espessura das paredes assentada sobre elas (ver @fig:cargas-funda).
+Em terrenos muito instáveis, arenosos ou pantanosos, pode-se usar
+fundações indiretas: as sapatas são assentadas sobre um cravejamento de
+estacas formadas por toras de madeira fincadas no chão. Como esses tipos
+de solos costumam ser totalmente encharcados quase o tempo todo, a água
 impede o contato do oxigênio com a madeira, que demora mais para
 apodrecer.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Dimensionamento de fundações segundo Alberti e Palladio](){#fig:funda-dims .line}
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/epcc14-05.png" data-background-size="contain"}
 
