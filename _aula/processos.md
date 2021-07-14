@@ -7,7 +7,7 @@ date: 2021-07-20
 toc:
   - Ordem e lugar
   - Proporção e escala
-  - Representação
+  - Preferência geográfica
   - Alegoria da cabana primitiva
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
@@ -114,7 +114,9 @@ escolha premeditada e muito cuidadosa do sítio onde a povoação vai se
 estabelecer.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video=""}
+## {.unlisted data-background-video="https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4"}
+
+![Kostyonki, Rússia. Fonte: Google Earth](https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4){#fig:kostyonki-google .fullwidth}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No sítio de Kostyonki, no atual sudoeste da Rússia,
@@ -125,8 +127,6 @@ linhas de cumeada principais seguem paralelas ao rio, que corre do norte
 para o sul, a uma distância de 2 a 3 quilômetros da borda do vale
 (@fig:kostyonki-google).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Kostyonki, Rússia](){#fig:kostyonki-google}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kostenky_model.jpg/1280px-Kostenky_model.jpg"}
 
@@ -184,9 +184,9 @@ I d.C. Hoje em dia, é uma trilha de caminhada bastante popular.
 
 ![Ridgeway, um percurso estruturante de cumeada no sul da Inglaterra em uso contínuo desde o Neolítico (c. 3000 a.C.). [Celtic Trails](https://www.celtictrailswalkingholidays.co.uk/walking-holidays/the-ridgeway/)](https://i.pinimg.com/originals/c2/04/d7/c204d703c49c29d5487c1a3ce88abe10.jpg){#fig:ridgeway}
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-image="http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg" data-background-size="contain"}
 
-![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](){#fig:bronzo}
+![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg){#fig:bronzo .marginnote}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Já em regiões muito montanhosas, como a Itália, os percursos de cumeada
@@ -261,9 +261,22 @@ maiores (@fig:guara). Esse território político é chamado de *guará*.
 
 ![Diagrama territorial do Guará, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png){#fig:guara}
 
-## {.unlisted data-background-image="" data-background-site="contain"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kemp-033.png" data-background-site="contain"}
 
-![Diagrama da formação de cidades-estado segundo Kemp](){#fig:kemp .line}
+![Diagrama da formação de cidades-estado no Egito neolítico, segundo Kemp](https://hcommons.org/app/uploads/sites/1002372/2021/07/kemp-033.png){#fig:kemp .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A implantação de povoações na extremidade das cumeadas secundárias
+permite o controle visual e estratégico de um território bastante amplo.
+Com o desenvolvimento da agricultura em várias regiões do mundo, essas
+povoações se adensam. Então, o senso intuitivo de um território
+controlado por cada comunidade vai se transformando no desenho de
+fronteiras mais ou menos estáveis entre cidades-estado
+[@kemp:1989ancient]. Isto é, a definição institucionalizada do
+território vem *antes* de uma hierarquização social e política muito
+pronunciada (@fig:kemp). Essa territorialidade é uma característica
+fundamental do processo de urbanização.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted}
 
@@ -279,6 +292,8 @@ reguladores e proporções ganha importância.
 
 # Proporção e escala #
 
+## {.unlisted data-background-color="#00ff00"}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Desde o Renascimento, o conceito de proporção tem sido o de uma
 condição matemática fixa. Falamos na seção áurea e em outras relações
@@ -289,7 +304,7 @@ mecanismos para planejar o espaço com regularidade em escalas sucessivas
 e ao longo das gerações que constroem uma obra.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As proporções são o primeiro instrumento da arquitetura tradicional.
@@ -301,7 +316,7 @@ dimensão e os quadros quantitativos são os elementos mais importantes de
 um projeto arquitetônico na atualidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
 ![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault .marginnote}
 
@@ -314,7 +329,7 @@ receitas para ajustar as proporções de colunas, vigas, arcos e pedestais
 entre si e com o edifício como um todo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png" data-background-size="contain"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
 ![Detalhe da ordem dórica segundo Vinhola, edição de 1787](https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png){#fig:vignola .marginnote .line}
 
@@ -325,7 +340,7 @@ série de cotas que medem a dimensão de cada elemento em módulos e partes
 de módulos (@fig:vignola).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/7c/5e/e1/7c5ee136540dcbb85c2ad97992904e61.jpg" data-background-size="contain"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/7c/5e/e1/7c5ee136540dcbb85c2ad97992904e61.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse modo de representar as ordens é muito conveniente para um arquiteto
@@ -360,7 +375,7 @@ digital na mão (era a década de 1980), ou mesmo no [CAD]{.smallcaps}
 (@fig:chitham).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As ordens clássicas são o exemplo mais consagrado do uso de proporções
@@ -385,7 +400,7 @@ qualquer projeto (@fig:corb).
 
 ![Le Corbusier, arquiteto, seção áurea nas fachadas norte e sul da villa Stein, Garches, 1927](https://hcommons.org/app/uploads/sites/1001018/2021/06/le-corbusier-villa-stein-golden.png){#fig:corb .line}
 
-## {.unlisted}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Tudo isso é muito interessante,]{.newthought} mas não tem nada a ver
@@ -409,11 +424,27 @@ em Israel, que data de 15 a 12 mil anos atrás (@fig:eynan)
 [@haklay:2015new10].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted data-background-image="https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A planta circular é uma solução prática e eficiente para encerrar a
+maior quantidade de espaço com o menor consumo de material e uma
+estrutura que estabiliza a si mesma. Por isso, ela continua a ser usada
+em pequenos depósitos rurais, como este chafurdão no Alentejo
+(@fig:chafurdao).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Chafurdão no vale de Cales, Castelo de Vide, Alentejo, Portugal. [[ADER--AL]{.smallcaps}, 2014](http://www.outralentejo.org/galeria/castelo-de-vide_chafurdao-do-vale-de-cales/)](https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg){#fig:chafurdao}
+
 ## {.unlisted data-background-image=""}
 
-![Desdobramento do círculo para composições derivadas: *vesica piscis* e abrigo alongado]()
+![Planta do círculo megalítico de Nabta Playa, Egito, c. 9000 a.C.]()
 
-# Representação #
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png" data-background-size="contain"}
+
+![Proporções derivadas do quadrado. Acima: um quadrado e meio ou "quinta"; dois quadrados ou "oitava"; abaixo: retângulo gerado pela diagonal do quadrado e seção áurea; centro: proporções da casa kuikuro e traçado gerado pela meia diagonal do quadrado](https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png){#fig:proporcoes .line .fullwidth}
+
+# Preferência geográfica #
 
 # Alegoria da cabana primitiva #
 
