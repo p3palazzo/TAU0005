@@ -333,9 +333,11 @@ h1 em, h2 em, p.subtitle em, div.epigraph > blockquote > p em { font-style: norm
 
 hr { border: 0; clear: left; text-align: center; font-size: 2.4rem; padding: 0.5rem 0; }
 
-iframe, img { border: 0.5px solid #111115; }
+iframe, img, video { border: 0.5px solid #111115; }
 
-iframe.nobg, iframe.line, img.nobg, img.line { background: none !important; border: none !important; }
+iframe.nobg, iframe.line, img.nobg, img.line, video.nobg, video.line { background: none !important; border: none !important; }
+
+figure > video { max-width: 100%; }
 
 summary > p { display: inline; }
 
