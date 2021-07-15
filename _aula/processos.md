@@ -7,7 +7,7 @@ date: 2021-07-20
 toc:
   - Ordem e lugar
   - Proporção e escala
-  - Representação
+  - Preferência geográfica
   - Alegoria da cabana primitiva
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
@@ -18,6 +18,8 @@ title-slide-attributes:
 ![Thomas Cole, The Course of Empire: The Savage State, 1834](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg){#fig:cole-savage .fullwidth}
 
 # Ordem e lugar #
+
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura organiza o ambiente humano por meio da construção. Essa
@@ -33,16 +35,35 @@ espaço pelas sociedades.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/1280px-Spreading_homo_sapiens_la.svg.png"}
 
+![Modelo atualmente vigente da migração do *Homo sapiens*. Desenho: [NordNordWest, 2014](https://commons.wikimedia.org/wiki/File:Spreading_homo_sapiens_la.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/1280px-Spreading_homo_sapiens_la.svg.png){#fig:ooa}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Reconhecer, ocupar e organizar um lugar no mundo. Essa é uma das mais
 fundamentais razões de ser das comunidades humanas. Por natureza, a
 nossa espécie tende a ocupar todos os espaços disponíveis na Terra;
 desde as origens da humanidade, mais de 200 mil anos atrás no leste da
-África [^1], as nossas tribos têm migrado e se adaptado a todas as
+África, as nossas tribos têm migrado e se adaptado a todas as
 regiões e climas do mundo (@fig:ooa).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Modelo atualmente vigente da migração do *Homo sapiens*. Desenho: [NordNordWest, 2014](https://commons.wikimedia.org/wiki/File:Spreading_homo_sapiens_la.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/1280px-Spreading_homo_sapiens_la.svg.png){#fig:ooa}
+## {.unlisted data-background-color="#00ff00"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por sinal, a interpretação hegemônica sobre a origem do *Homo sapiens*
+está em revisão constante. No final do século [XIX]{.smallcaps} e na
+primeira metade do século [XX]{.smallcaps}, as teorias multirregionais
+eram dominantes. Essas teorias postulavam que a humanidade moderna
+evoluiu separadamente em diversas regiões desde a mais remota
+antiguidade; essas teorias eram usadas para justificar diferenças e
+hierarquias entre diferentes raças humanas. A partir da década de 1960,
+a teoria monofilética se tornou dominante; essa teoria também é
+conhecida como "modelo da origem africana recente" e defende que a nossa
+espécie se formou somente no leste da África entre 300 e 200 mil anos
+atrás. No entanto, descobertas arqueológicas e pesquisas genéticas
+recentes mostram que essa população singular de *Homo sapiens* assimilou
+outras espécies humanas ao longo da sua expansão na África, Ásia e
+Europa.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Balloon_Safari_2012_06_01_3128_(7522677448).jpg/1280px-Balloon_Safari_2012_06_01_3128_(7522677448).jpg"}
 
@@ -114,7 +135,9 @@ escolha premeditada e muito cuidadosa do sítio onde a povoação vai se
 estabelecer.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video=""}
+## {.unlisted data-background-video="https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4"}
+
+![Kostyonki, Rússia. Fonte: Google Earth](https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4){#fig:kostyonki-google .fullwidth}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No sítio de Kostyonki, no atual sudoeste da Rússia,
@@ -125,8 +148,6 @@ linhas de cumeada principais seguem paralelas ao rio, que corre do norte
 para o sul, a uma distância de 2 a 3 quilômetros da borda do vale
 (@fig:kostyonki-google).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Kostyonki, Rússia](){#fig:kostyonki-google}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kostenky_model.jpg/1280px-Kostenky_model.jpg"}
 
@@ -184,9 +205,9 @@ I d.C. Hoje em dia, é uma trilha de caminhada bastante popular.
 
 ![Ridgeway, um percurso estruturante de cumeada no sul da Inglaterra em uso contínuo desde o Neolítico (c. 3000 a.C.). [Celtic Trails](https://www.celtictrailswalkingholidays.co.uk/walking-holidays/the-ridgeway/)](https://i.pinimg.com/originals/c2/04/d7/c204d703c49c29d5487c1a3ce88abe10.jpg){#fig:ridgeway}
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-image="http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg" data-background-size="contain"}
 
-![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](){#fig:bronzo}
+![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg){#fig:bronzo .marginnote}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Já em regiões muito montanhosas, como a Itália, os percursos de cumeada
@@ -261,9 +282,22 @@ maiores (@fig:guara). Esse território político é chamado de *guará*.
 
 ![Diagrama territorial do Guará, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png){#fig:guara}
 
-## {.unlisted data-background-image="" data-background-site="contain"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kemp-033.png" data-background-site="contain"}
 
-![Diagrama da formação de cidades-estado segundo Kemp](){#fig:kemp .line}
+![Diagrama da formação de cidades-estado no Egito neolítico, segundo Kemp](https://hcommons.org/app/uploads/sites/1002372/2021/07/kemp-033.png){#fig:kemp .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A implantação de povoações na extremidade das cumeadas secundárias
+permite o controle visual e estratégico de um território bastante amplo.
+Com o desenvolvimento da agricultura em várias regiões do mundo, essas
+povoações se adensam. Então, o senso intuitivo de um território
+controlado por cada comunidade vai se transformando no desenho de
+fronteiras mais ou menos estáveis entre cidades-estado
+[@kemp:1989ancient]. Isto é, a definição institucionalizada do
+território vem *antes* de uma hierarquização social e política muito
+pronunciada (@fig:kemp). Essa territorialidade é uma característica
+fundamental do processo de urbanização.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted}
 
@@ -279,6 +313,8 @@ reguladores e proporções ganha importância.
 
 # Proporção e escala #
 
+## {.unlisted data-background-color="#00ff00"}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Desde o Renascimento, o conceito de proporção tem sido o de uma
 condição matemática fixa. Falamos na seção áurea e em outras relações
@@ -289,7 +325,7 @@ mecanismos para planejar o espaço com regularidade em escalas sucessivas
 e ao longo das gerações que constroem uma obra.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As proporções são o primeiro instrumento da arquitetura tradicional.
@@ -301,7 +337,7 @@ dimensão e os quadros quantitativos são os elementos mais importantes de
 um projeto arquitetônico na atualidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
 ![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault .marginnote}
 
@@ -314,7 +350,7 @@ receitas para ajustar as proporções de colunas, vigas, arcos e pedestais
 entre si e com o edifício como um todo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png" data-background-size="contain"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
 ![Detalhe da ordem dórica segundo Vinhola, edição de 1787](https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png){#fig:vignola .marginnote .line}
 
@@ -325,7 +361,7 @@ série de cotas que medem a dimensão de cada elemento em módulos e partes
 de módulos (@fig:vignola).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/7c/5e/e1/7c5ee136540dcbb85c2ad97992904e61.jpg" data-background-size="contain"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/7c/5e/e1/7c5ee136540dcbb85c2ad97992904e61.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse modo de representar as ordens é muito conveniente para um arquiteto
@@ -360,7 +396,7 @@ digital na mão (era a década de 1980), ou mesmo no [CAD]{.smallcaps}
 (@fig:chitham).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As ordens clássicas são o exemplo mais consagrado do uso de proporções
@@ -385,7 +421,7 @@ qualquer projeto (@fig:corb).
 
 ![Le Corbusier, arquiteto, seção áurea nas fachadas norte e sul da villa Stein, Garches, 1927](https://hcommons.org/app/uploads/sites/1001018/2021/06/le-corbusier-villa-stein-golden.png){#fig:corb .line}
 
-## {.unlisted}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Tudo isso é muito interessante,]{.newthought} mas não tem nada a ver
@@ -406,14 +442,152 @@ arquitetura e sim um *modo de fazer* construções.
 Tudo começa com um círculo. Alguns dos mais antigos abridos permanentes
 são cabanas de planta circular. É o caso do sítio arqueológico de Eynan,
 em Israel, que data de 15 a 12 mil anos atrás (@fig:eynan)
-[@haklay:2015new10].
+[@haklay:2015new10]. O traçado circular permite determinar todas as
+dimensões da construção usando praticamente só uma corda, portanto não é
+de espantar que essas cabanas pré-históricas sejam circulares.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A planta circular é uma solução prática e eficiente para encerrar a
+maior quantidade de espaço com o menor consumo de material e uma
+estrutura que estabiliza a si mesma. Por isso, ela continua a ser usada
+em pequenos depósitos rurais, como este chafurdão no Alentejo
+(@fig:chafurdao).
+
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Chafurdão no vale de Cales, Castelo de Vide, Alentejo, Portugal. [[ADER--AL]{.smallcaps}, 2014](http://www.outralentejo.org/galeria/castelo-de-vide_chafurdao-do-vale-de-cales/)](https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg){#fig:chafurdao .fullwidth}
+
+## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm"}
+
+![Stonehenge, Inglaterra, c. 2600 a.C., vista aérea. Filmagem: [Chris Ridley, 2015](https://commons.wikimedia.org/wiki/File:Stonehenge_at_Sunrise_-_by_Drone..webm)](https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm){#fig:stonehenge-drone .fullwidth}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/67/Stonehenge_render.jpg"}
+
+![Reconstituição tridimensional de Stonehenge. [Joseph Lertola, 2007](https://commons.wikimedia.org/wiki/File:Stonehenge_render.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stonehenge_render.jpg/1280px-Stonehenge_render.jpg){#fig:lertola}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A planta circular é quase sinônimo de grandes composições megalíticas em
+algumas das mais antigas sociedades agrárias. O exemplo mais emblemático
+é Stonehenge, no sul da Inglaterra (@fig:stonehenge-drone). Esse
+complexo foi construído por uma sociedade neolítica para observar os
+solstícios (@fig:lertola), e com isso, provavelmente, ajustar o
+calendário agrícola.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/86/88/9d/86889d42e51395ac63ae2b4e543085b6.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O traçado geométrico de Stonehenge, que foi reconstituído na primeira
+metade do século [XVIII]{.smallcaps} por William Stukeley e Roger Gale
+(@fig:stonehenge-gale), não está diretamente relacionado com a
+orientação astronômica do monumento. Ele é um expediente para dar a
+regularidade que um observador postado no centro do círculo precisa para
+avaliar corretamente o alinhamento do sol e das estrelas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Planta do círculo megalítico de Stonehenge, Inglaterra, c. 2600 a.C., com proporções reconstituídas por William Stukeley e desenhadas por Roger Gale, 1723](https://hcommons.org/app/uploads/sites/1002372/2021/07/stonehenge-gale.png){#fig:stonehenge-gale .line}
+
+## {.unlisted data-background-color="#00ff00"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[O círculo é muito conveniente]{.newthought} para organizar geometrias
+precisas e de grandes dimensões, economizando material e esforço. Só
+que, em várias sociedades, as construções humanas vão ganhando funções
+mais complexas e mais equipamentos e mobiliário permanentes ao longo do
+tempo. Nesses casos, a planta circular passa a ser um inconveniente por
+não ter superfícies retas nem espaço alongados. Nesses casos, o quadrado
+acaba por ser a forma mais prática.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O quadrado pode se desdobrar numa variedade de retângulos com proporções
+convenientes (@fig:proporcoes). Os mais básicos desses retângulos são o
+de um quadrado e meio e dois quadrados; essas proporções são análogas a
+harmonias musicais --- a quinta e a oitava --- e, por isso, foram muito
+apreciadas em culturas que atribuíam um significado transcendental às
+proporções, como a Grécia antiga e o Renascimento [@bonell:1999divina].
+
+Na vida real, duas outras relações proporcionais são bastante úteis. Uma
+delas é o retângulo gerado a partir da diagonal do quadrado, que é uma
+medida muito fácil de demarcar num canteiro de obra; esse retângulo tem
+outra propriedade interessante, que é a possibilidade de ser dividido em
+duas metades com a mesma proporção do retângulo original --- essa
+propriedade está na origem das folhas de papel da série `A`, que foi
+desenvolvida no início do século [XX]{.smallcaps} pensando na economia
+do corte de folhas. Outra proporção muito conveniente na construção é
+aquela que é gerada pela metade da diagonal do quadrado; é uma boa
+relação entre a largura de um espaço monumental e a espessura das suas
+paredes --- ela foi bastante usada na Europa medieval
+[@conant:1968after-life27].
+
+Como já vimos, a seção áurea é uma relação proporcional um tanto
+badalada desde a segunda metade do século [XIX]{.smallcaps}
+[@zeising:1854neue]. Acontece que ela é menos conveniente de se executar
+num canteiro de obra; as suas vantagens dizem mais respeito a uma
+interpretação transcendental das proporções como espelho da natureza
+[@doczi:2008poder].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Proporções derivadas do quadrado. Acima: um quadrado e meio ou "quinta"; dois quadrados ou "oitava"; abaixo: retângulo gerado pela diagonal do quadrado e seção áurea; centro: proporções da casa kamayurá e traçado gerado pela meia diagonal do quadrado](https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png){#fig:proporcoes .line .fullwidth}
 
 ## {.unlisted data-background-image=""}
 
-![Desdobramento do círculo para composições derivadas: *vesica piscis* e abrigo alongado]()
+![Casa kamayurá](){#fig:kamayura}
 
-# Representação #
+## {.unlisted data-background-image=""}
+
+Malha proporcional triangular.
+
+## {.unlisted data-background-image=""}
+
+Ordens de grandeza.
+
+![Relações dimensionais em sucessivas ordens de grandeza](){#fig:grandeza .line}
+
+## {.unlisted data-background-color="#00ff00"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[As proporções na arquitetura]{.newthought} tradicional são expedientes
+práticos para se compor e executar uma construção ou um complexo
+espacial. Elas podem ser interpretadas *a posteriori* desde um ponto de
+vista transcendental, mas isso não tem necessariamente a ver com o modo
+como as proporções são usadas de fato no processo produtivo do ambiente
+construído.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-color="#00ff00"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Até aqui falamos de alguns aspectos universais da arquitetura
+tradicional: a organização do espaço e as proporções como instrumento
+para regularizar a forma construída. Esses aspectos são ainda bastante
+abstratos e não passam, afinal, de pré-requisitos
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Preferência geográfica #
+
+## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/f/f2/Molens-518935.ogv"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Assim como todo o nosso modo de vida contemporâneo, a arquitetura
+moderna é uma indústria de altíssimo consumo de energia. Duas revoluções
+energéticas cruciais aconteceram nos últimos trezentos anos: primeiro,
+com a Revolução Industrial, a força de trabalho manual e a energia
+diretamente fornecida pela natureza (@fig:molens) foram substituídas por
+máquinas movidas a combustíveis fósseis; segundo, desde o final do
+século [XIX]{.smallcaps}, a necessidade de construir edifícios adaptados
+ao clima foi substituída pela capacidade de consumir energia para
+aquecer e refrigerar qualquer tipo de espaço em qualquer clima
+[@calder:2021architecture].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Moinhos de vento em Elshout, Países Baixos, 1927. Acervo [Instituto Neerlandês do Som e Imagem](https://commons.wikimedia.org/wiki/File:Molens-518935.ogv)](https://upload.wikimedia.org/wikipedia/commons/f/f2/Molens-518935.ogv){#fig:molens width="100%"}
 
 # Alegoria da cabana primitiva #
 
@@ -819,19 +993,5 @@ tradicional. É a partir desse arquétipo que vamos analisar, na
 sequência, a construção arquitravada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Bibliografia {.allowframebreaks} #
+# Bibliografia {.allowframebreaks}
 
-
-[^1]: A interpretação hegemônica sobre a origem do *Homo sapiens* está
-em revisão constante. No final do século [XIX]{.smallcaps} e na primeira
-metade do século [XX]{.smallcaps}, as teorias multirregionais eram
-dominantes. Essas teorias postulavam que a humanidade moderna evoluiu
-separadamente em diversas regiões desde a mais remota antiguidade; essas
-teorias eram usadas para justificar diferenças e hierarquias entre
-diferentes raças humanas. A partir da década de 1960, a teoria
-monofilética se tornou dominante; essa teoria também é conhecida como
-"modelo da origem africana recente" e defende que a nossa espécie se
-formou somente no leste da África entre 300 e 200 mil anos atrás. No
-entanto, descobertas arqueológicas e pesquisas genéticas recentes
-mostram que essa população singular de *Homo sapiens* assimilou outras
-espécies humanas ao longo da sua expansão na África, Ásia e Europa.
