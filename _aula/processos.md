@@ -7,7 +7,7 @@ date: 2021-07-20
 toc:
   - Ordem e lugar
   - Proporção e escala
-  - Preferência geográfica
+  - Preferência temporal e preferência local
   - Alegoria da cabana primitiva
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
@@ -46,7 +46,7 @@ desde as origens da humanidade, mais de 200 mil anos atrás no leste da
 regiões e climas do mundo (@fig:ooa).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-color="#00ff00"}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/processos/olduvai-archaeo.webm"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por sinal, a interpretação hegemônica sobre a origem do *Homo sapiens*
@@ -65,7 +65,7 @@ outras espécies humanas ao longo da sua expansão na África, Ásia e
 Europa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Balloon_Safari_2012_06_01_3128_(7522677448).jpg/1280px-Balloon_Safari_2012_06_01_3128_(7522677448).jpg"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/ff/3b/e1/ff3be128c76432bd6f5ab55e79c490ec.jpg"}
 
 ![Vista da paisagem de savana no parque nacional do Serengeti, Tanzânia. Foto: [Harvey Barrison, 2012](https://commons.wikimedia.org/wiki/Image:Balloon_Safari_2012_06_01_3128_(7522677448).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Balloon_Safari_2012_06_01_3128_(7522677448).jpg/1280px-Balloon_Safari_2012_06_01_3128_(7522677448).jpg){#fig:serengeti}
 
@@ -92,7 +92,7 @@ posição de reconhecimento da paisagem e de controle sobre o território
 
 ![Vista panorâmica da garganta do Olduvai, vale do Rift, norte da Tanzânia. Foto: [Noel Feans, 2009](https://commons.wikimedia.org/wiki/File:Olduvai_Gorge_or_Oldupai_Gorge.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Olduvai_Gorge_or_Oldupai_Gorge.jpg/1280px-Olduvai_Gorge_or_Oldupai_Gorge.jpg){#fig:rift .fullwidth}
 
-## {.unlisted data-background-iframe="https://www.youtube.com/watch?v=8To3-9ZecnU"}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/processos/olduvai-landscape.webm"}
 
 ::: {#fig:olduvai .iframe-wrapper}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8To3-9ZecnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -110,7 +110,7 @@ principais do território, mas elas estabelecem os seus *assentamentos*
 num nível mais baixo, nas cumeadas secundárias [@strappa:2013lettura].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter%2C_Madhya_Pradesh.jpg/1280px-A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter%2C_Madhya_Pradesh.jpg"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/a2/93/1e/a2931e9939024cc55979caed1277f1f8.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Alguns dos vestígios arqueológicos mais antigos de habitações humanas
@@ -120,9 +120,9 @@ que se chama informalmente de "idade da pedra lascada" ou ainda de
 "idade das cavernas" (@fig:bhimbetka).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Pinturas rupestres no abrigo de Bhimbetka, 10 mil anos atrás, atual Madhya Pradesh, Índia. Foto: [PranjalG431, 2016](https://commons.wikimedia.org/wiki/File:A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter%2C_Madhya_Pradesh.jpg/1280px-A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter%2C_Madhya_Pradesh.jpg){#fig:bhimbetka}
+![Pinturas rupestres no abrigo de Bhimbetka, 10 mil anos atrás, atual Madhya Pradesh, Índia. Foto: [PranjalG431, 2016](https://commons.wikimedia.org/wiki/File:A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg/1280px-A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg){#fig:bhimbetka}
 
-## {.unlisted}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O paleolítico não é um recorte cronológico
@@ -130,9 +130,9 @@ propriamente dito, mas um indicador de tecnologias e modos de vida em
 diferentes sociedades, algumas delas vigentes até hoje. As comunidades
 do paleolítico superior costumam ter entre 50 e 500 membros. Elas tendem
 a viver de modo mais ou menos sedentário, isto é, em povoações
-permanentes num mesmo lugar durante alguns anos. Isso implica uma
-escolha premeditada e muito cuidadosa do sítio onde a povoação vai se
-estabelecer.
+permanentes num mesmo lugar durante no mínimo uma estação e até no
+máximo alguns anos. Isso implica uma escolha premeditada e muito
+cuidadosa do sítio onde a povoação vai se estabelecer.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-video="https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4"}
@@ -439,7 +439,7 @@ arquitetura e sim um *modo de fazer* construções.
 ![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .marginnote .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Tudo começa com um círculo. Alguns dos mais antigos abridos permanentes
+Tudo começa com um círculo. Alguns dos mais antigos abrigos permanentes
 são cabanas de planta circular. É o caso do sítio arqueológico de Eynan,
 em Israel, que data de 15 a 12 mil anos atrás (@fig:eynan)
 [@haklay:2015new10]. O traçado circular permite determinar todas as
@@ -464,6 +464,8 @@ em pequenos depósitos rurais, como este chafurdão no Alentejo
 ## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm"}
 
 ![Stonehenge, Inglaterra, c. 2600 a.C., vista aérea. Filmagem: [Chris Ridley, 2015](https://commons.wikimedia.org/wiki/File:Stonehenge_at_Sunrise_-_by_Drone..webm)](https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm){#fig:stonehenge-drone .fullwidth}
+
+<!--_,-->
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/67/Stonehenge_render.jpg"}
 
@@ -561,16 +563,47 @@ como as proporções são usadas de fato no processo produtivo do ambiente
 construído.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+# Preferência temporal e preferência local #
+
 ## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Até aqui falamos de alguns aspectos universais da arquitetura
-tradicional: a organização do espaço e as proporções como instrumento
-para regularizar a forma construída. Esses aspectos são ainda bastante
-abstratos e não passam, afinal, de pré-requisitos
+Até aqui, falamos de dois aspectos gerais da arquitetura tradicional: a
+organização do espaço e as proporções como instrumento do processo
+construtivo. Esses aspectos são ainda bastante abstratos e não passam,
+afinal, de princípios gerais que sequer nos ajudam a distinguir entre
+arquitetura tradicional e arquitetura moderna. Para fazer essa
+distinção, nós temos que olhar para o consumo de energia na cadeia
+produtiva e como esse consumo influencia a gestão do tempo em diferentes
+sociedades.
+
+A arquitetura tradicional consome muito trabalho manual e um pouco do
+combustível disponível na natureza --- sobretudo água e fogo de lenha.
+Já a arquitetura moderna usa uma cadeia de usinas, máquinas e
+instalações movidas predominantemente a combustíveis fósseis, e em
+contrapartida poupam trabalho manual. Essa distinção vai resultar em
+atitudes diferentes, por um lado, quanto à vida útil das construções no
+tempo e, por outro lado, quanto à relação dessas mesmas construções com
+o clima e o sítio físico. As diferenças de atitude com respeito ao tempo
+são conhecidas, na ciência econômica, como *preferência temporal*. Já as
+diferenças de atitude com respeito ao lugar não têm propriamente um
+nome, mas para efeito de comparação vamos chamá-las de *preferência
+local*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Preferência geográfica #
+## {.unlisted data-background-image="https://i.pinimg.com/originals/e7/83/e6/e783e61df6c6534e45f61ac400ad53f2.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
+
+![Barnabas Calder. Foto: [Helen @ Gingerbread Design](https://www.unitedagents.co.uk/barnabas-calder)](https://i.pinimg.com/originals/01/bd/e9/01bde9f28c2eccdaa1eb4e35bfe80a1e.jpg){#fig:calder-trombine .marginnote}
+
+![© Pelican Books, 2021](https://i.pinimg.com/originals/e7/83/e6/e783e61df6c6534e45f61ac400ad53f2.jpg){#fig:calder-book}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O arquiteto britânico Barnabas Calder, no seu livro recente *Arquitetura
+da pré-história à urgência climática* ([@fig:calder-trombine,
+@fig:calder-book]), defende que a capacidade de gerar e consumir energia
+foi um dos fatores preponderantes nas transformações nos modos de
+construir ao longo da história [@calder:2021architecture].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/f/f2/Molens-518935.ogv"}
 
@@ -583,13 +616,275 @@ diretamente fornecida pela natureza (@fig:molens) foram substituídas por
 máquinas movidas a combustíveis fósseis; segundo, desde o final do
 século [XIX]{.smallcaps}, a necessidade de construir edifícios adaptados
 ao clima foi substituída pela capacidade de consumir energia para
-aquecer e refrigerar qualquer tipo de espaço em qualquer clima
-[@calder:2021architecture].
+aquecer e refrigerar qualquer tipo de espaço em qualquer clima.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Moinhos de vento em Elshout, Países Baixos, 1927. Acervo [Instituto Neerlandês do Som e Imagem](https://commons.wikimedia.org/wiki/File:Molens-518935.ogv)](https://upload.wikimedia.org/wikipedia/commons/f/f2/Molens-518935.ogv){#fig:molens width="100%"}
 
+## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/e/ea/Temelin.ogv"}
+
+![Usina nuclear de Temelin, Tchéquia. Filmagem: [R. Kocman, 2019](https://commons.wikimedia.org/wiki/File:Temelin.ogv)](https://upload.wikimedia.org/wikipedia/commons/e/ea/Temelin.ogv){#fig:temelin}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A capacidade de gerar e consumir qualquer quantidade de energia que se
+faça necessária --- e que seja economicamente viável --- é o que
+caracteriza as sociedades industrializadas modernas. Nessas sociedades,
+a energia pode ser extraída do ambiente em quantidades quase ilimitadas.
+A nossa energia é gerada a partir de fontes fósseis, como o carvão ou o
+petróleo, atômicas (@fig:temelin) ou renováveis, como a eletricidade
+produzida em turbinas hidráulicas e eólicas ou em painéis fotovoltaicos.
+Essa energia industrial, por assim dizer, é relativamente barata, e em
+proporção a isso, a força de trabalho manual acaba por se tornar
+relativamente cara.
+
+Na sociedade industrial, portanto, a produção pode, em geral, ser
+ampliada conforme a demanda. É verdade que a construção civil tem um
+gargalo de longo prazo, que é a quantidade de arquitetos, engenheiros e
+operários qualificados que estão ativos no mercado. Ainda assim, mesmo a
+indústria da construção tem uma certa flexibilidade para acelerar a
+produção sempre que existir uma demanda correspondente.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/3/3e/Water_driven_hammer_mill_-_Arbesbach.ogv"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em contraste com a nossa sociedade industrial, nas sociedades
+tradicionais ou pré-industriais, a energia que pode ser extraída do
+ambiente é bastante limitada [@calder:2021architecture]. O vento e a
+correnteza dos rios podem até mover moinhos (@fig:arbesbach), mas não
+podem, por exemplo, ser escalados o suficiente para mecanizar a produção
+de mais moinhos. O calor e o vapor que podem ser gerados a partir da
+queima de madeira, por outro lado, são diretamente limitados pela
+superfície de florestas que uma comunidade é capaz de manejar na prática
+e no longo prazo, além do que, a própria possibilidade de converter
+calor e vapor em trabalho é muito limitada quando não se tem acesso a
+materiais industrializados, como o aço.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Martelo de forja movido por um moinho a água em Arbesbach, Áustria, ativo desde 1802. Filmagem: [H. Raab, 2009](https://commons.wikimedia.org/wiki/File:Water_driven_hammer_mill_-_Arbesbach.ogv)](https://upload.wikimedia.org/wikipedia/commons/3/3e/Water_driven_hammer_mill_-_Arbesbach.ogv){#fig:arbesbach}
+
+## {.unlisted data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Onde for custoso gerar energia a partir do ambiente, o trabalho vai ser
+proporcionalmente mais barato. Isso significa que compensa usar a força
+bruta, humana ou animal, em várias tarefas que, nas sociedades
+industriais, tendem a ser mecanizadas. Mas isso implica, também, que o
+trabalho artesanal especializado é mais acessível e difundido do que
+numa economia baseada na indústria de massa.
+
+Ao contrário das máquinas, que podem ser produzidas em escala para
+atender a qualquer demanda, o trabalho humano é limitado pela população
+local e, mais ainda, pela capacitação técnica dos profissionais
+especializados. Ou seja, a produção industrial pode ser ampliada tanto
+quanto os recursos econômicos o permitirem; já a produção artesanal tem
+uma capacidade mais ou menos fixa para cada comunidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essa capacidade produtiva fixa faz com que a variável dependente na
+construção tradicional seja o tempo. O tempo que se leva para construir
+um edifício tradicional tende a ser proporcional ao seu tamanho e ao
+refinamento da construção. Portanto, o volume e a complexidade das
+construções que uma sociedade vai realizar depende em grande parte do
+tempo de trabalho que essa sociedade quer investir nas suas construções.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/4c/b9/dd/4cb9ddc1318f387f9cbdebf53f3a108e.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[O conceito de "preferência temporal"]{.newthought} é usado em várias
+ciências sociais para falar sobre a atitude das pessoas com respeito a
+ações que dependem da passagem do tempo. Na psicologia cognitiva, a
+"recompensa adiada", ou seja, a disposição em abrir mão de uma
+gratificação imediata em prol de um benefício maior no longo prazo, é
+considerada como um estágio no desenvolvimento mental da criança e às
+vezes como um sinal de inteligência em outros animais
+[@carvalho:2010comportamento23; @miller:2020delayed23;
+@beran:2018self-control28].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/01/Habitat_pygmées.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Para além dessa perspectiva centrada no comportamento do indivíduo, o
+conceito de preferência temporal é especialmente importante na análise
+econômica de processos na escala da sociedade como um todo
+[@frederick:2002time40], inclusive da construção. Para comunidades
+seminômades que vivem em regiões onde a matéria-prima para a construção
+de abrigos é abundante, não faz sentido investir na complexidade nem na
+durabilidade das suas construções. As aldeias da etnia Bagyeli, na
+África equatorial (@fig:bagyeli), portanto, têm uma estrutura bastante
+engenhosa mas muito rápida de se erguer. Elas são feitas para durarem
+alguns meses e a aldeia pode ser simplesmente abandonada depois desse
+tempo, permitindo a regeneração da floresta no local
+[@jarzombek:2013architecture].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Cabana do povo Bagyeli, África equatorial. Foto: [Nadnad30, 2015](https://commons.wikimedia.org/wiki/File:Habitat_pygmées.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/01/Habitat_pygmées.jpg){#fig:bagyeli}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg/2560px-Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg"}
+
+![Aldeia nas planícies da América do Norte, c. finais do século [XIX]{.smallcaps}. Acervo [Wellcome collection](https://commons.wikimedia.org/wiki/File:Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg/1280px-Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg){#fig:wellcome}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Pelo contrário, sociedades seminômades que vivem em regiões onde a
+matéria-prima para os seus abrigos é escassa tendem a investir muito
+tempo e trabalho para refinar habitações leves e portáteis. É o caso de
+muitos povos que vivem em estepes, como as diversas etnias da Sibéria e
+da Mongólia, assim como os povos das planícies da América do Norte
+(@fig:wellcome).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-color="#00ff00"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Sociedades totalmente agrárias e sedentárias tendem a investir ainda
+mais tempo e trabalho nas suas construções, ou seja, a terem uma
+preferência temporal baixa --- elas constroem para o longo prazo. Apesar
+de terem existido comunidades de caçadores-coletores que construíram
+habitações permanentes e até mesmo arquitetura monumental
+[@dietrich:2019cereal14], esse tipo de produção é mais característico de
+comunidades que se organizam em torno de um planejamento para conservar
+ou mesmo multiplicar o valor dos ativos no longo prazo
+[@galor:2016agricultural106].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Sempre que uma sociedade produz o seu ambiente construído com uma
+preferência temporal baixa, existe alguma forma de propriedade privada e
+de transmissão da casa familiar por herança. A preferência pelo longo
+prazo implica que se vai dedicar um esforço considerável para construir
+não só os grandes monumentos representativos do poder político e
+religioso, mas até as moradias da população de todas as classes sociais.
+Construir uma casa que vai ficar de pé durante séculos é, portanto,
+investir não só no conforto imediato, mas sobretudo na qualidade de vida
+*futura* dos filhos e netos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gaston_Bachelard_1965.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
+
+![Gaston Bachelard. Acervo do [Arquivo Nacional dos Países Baixos](https://commons.wikimedia.org/wiki/File:Gaston_Bachelard_1965.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gaston_Bachelard_1965.jpg/763px-Gaston_Bachelard_1965.jpg){#fig:bachelard .marginnote}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Outra consequência da arquitetura com preferência temporal de longo
+prazo é uma grande estabilidade do ambiente construído que cada geração
+vivencia. Como os edifícios duram muito, a paisagem urbana e rural muda
+pouco durante a vida de cada pessoa. A identificação afetiva e cultural
+com as paisagens que parecem ter existido desde sempre é conhecida como
+*topofilia*. Esse é um conceito que foi cunhado na literatura
+pós-romântica, já perto da metade do século [XX]{.smallcaps}; ela passou
+a ser usada no contexto da arquitetura com o pós-modernismo, na segunda
+metade do século, e sobretudo a partir da publicação dos livros *Poética
+do espaço*, pelo filósofo francês Gaston Bachelard (@fig:bachelard)
+[@bachelard:2008poetica], e *Topofilia*, pelo geógrafo americano Yi-Fu
+Tuan (@fig:tuan) [@tuan:1980topofilia].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg" data-background-size="contain" data-background-position="right" data-background-color="#00ff00"}
+
+![Yi-Fu Tuan](https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg){#fig:tuan .marginnote}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain"}
+
+![Léon Krier, Edifícios (da Universidade de Yale) --- idade e primeira campanha significativa de reformas, 1990](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png){#fig:krier-1990 .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[Mas, se construir]{.newthought} com preferência temporal baixa é
+característica de sociedades sedentárias e com sistemas de propriedade
+privada, o que aconteceu com a arquitetura depois da Revolução
+Industrial? Não é nenhum segredo que a vida útil dos edifícios não para
+de cair (@fig:krier-1990), mesmo que a indústria venha desenvolvendo
+materiais com desempenhos cada vez melhores (pelo menos no papel).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/56/Eco-sustainable_3D_printed_house_-_Tecla_(without_sound).webm"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A qualidade dos materiais industrializados é uma das chaves para
+compreendermos esse processo. Como já vimos, a disponibilidade de
+energia nas sociedades industriais é incomparavelmente maior do que a
+das sociedades agrárias e artesanais. Na arquitetura, isso quer dizer
+que as construções produzidas pela mão dos artesãos foram substituídas
+por montagens cada vez mais mecanizadas de componentes *até certo ponto*
+industrializados (@fig:tecla) --- o fato de que as construções são
+"menos" industrializadas do que carros ou máquinas de raios X não
+importa tanto, a questão é a tendência.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Impressão [3D]{.smallcaps} de uma casa "sustentável" na Itália, 2021. Projeto: [WASP]{.smallcaps} engenharia e Mario Cucinella Arquitetos. Filmagem: [Alfredo Milano](https://commons.wikimedia.org/wiki/File:Eco-sustainable_3D_printed_house_-_Tecla_(without_sound).webm)](https://upload.wikimedia.org/wikipedia/commons/5/56/Eco-sustainable_3D_printed_house_-_Tecla_(without_sound).webm){#fig:tecla}
+
+## {.unlisted data-background-image="https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
+
+![Léon Krier, custo de construção e custo de manutenção comparados](https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980){#fig:krier-maintenance .marginnote}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ora, mas se a construção está cada vez mais industrializada, por que ela
+dura menos? Justamente porque uma indústria capaz de fabricar qualquer
+quantidade de produtos em qualquer tempo tende a assumir uma preferência
+temporal alta. Se a sociedade industrial contemporânea é capaz de
+produzir muito mais metros quadrados de construção em muito menos tempo,
+a preocupação com a manutenção acaba sendo secundária
+(@fig:krier-maintenance). O ciclo de financiamento do mercado
+imobiliário atual é baseado na rentabilidade de curto prazo. Conservar
+os ativos imobiliários no longo prazo não é um fator determinante na
+organização da cadeia produtiva.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
+
+![Emissões de CO~2~ da cadeia produtiva da construção civil. Pesquisa e gráfico: [Victoria Luise Schulz-Daubas, 2021](https://osf.io/ea5hf)](https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png){#fig:schulz .marginnote}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+E onde entra o discurso da sustentabilidade nessa lógica de preferência
+temporal alta? Bom, os componentes de uma construção têm desempenho
+certificado quando saem da fábrica, mas o tempo pelo qual eles mantêm
+esse desempenho parece ser sempre superestimado. Por causa disso, mesmo
+com todo o discurso da sustentabilidade que vem se impondo desde a
+década de 1970, as emissões de CO~2~ da cadeia produtiva da construção
+civil estão crescendo cada vez mais rápido (@fig:schulz).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+É claro que essa aceleração contínua da produção industrial e do
+descarte de produtos industrializados tem consequências, especialmente
+quando esses produtos são edifícios cada vez maiores. E eu não estou nem
+falando do passivo ambiental genérico dessa gigantesca pegada de carbono
+[@keong:2021introduction]. Não, as pessoas já estão começando a sentir
+um baque econômico mesmo; a crise imobiliária de 2008 foi só um
+solavanco especialmente forte numa tendência mais ampla de declínio na
+qualidade do universo habitacional industrializado. No final do século
+[XX]{.smallcaps} e início do [XXI]{.smallcaps}, várias nações ocidentais
+chegaram a um ponto inédito, desde o ciclo de crescimento econômico que
+começou com a Revolução Industrial, em que os filhos vão ter menos
+riqueza acumulada do que os seus próprios pais.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A preferência temporal alta da construção moderna, portanto, resulta
+numa arquitetura com valor de consumo imediato --- tanto porque essa
+arquitetura é possível graças ao aporte de energia da indústria, quanto
+porque a lógica de financiamento contemporânea favorece esse modelo de
+rentabilidade no curto prazo. O ônus desse modelo, por outro lado, é
+despejado sobre o meio ambiente, mas também sobre as gerações futuras.
+Por isso, cabe a reflexão: não será possível, e mesmo necessário, para
+lidar com a crise climática e a crise de declínio no patrimônio das
+gerações futuras, retornar para uma arquitetura de baixa preferência
+temporal? Uma arquitetura produzida lentamente, mas que volte a durar
+séculos?
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Alegoria da cabana primitiva #
+
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nos tratados de arquitetura, o mito de origem da construção é
@@ -638,9 +933,49 @@ A espécie humana é a única entre os primatas a usar abrigos coletivos, e
 também a única a construir uma cobertura completa sobre o abrigo. Hoje
 em dia, todas as comunidades humanas, mesmo as caçadoras-coletoras,
 reutilizam os mesmos abrigos por, no mínimo, alguns dias a fio
-[@venkataraman:2017hunter-gatherer114]. Esse comportamento contrasta com
+[@venkataraman:2017hunter-gatherer114].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/10/Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Além disso, os nossos abrigos muitas vezes são construídos com
+algum objetivo social, funcional ou cultural que não a proteção simples
+e imediata do corpo humano. Em vários modos de vida vigentes até hoje,
+tanto de sociedades caçadoras-coletoras quanto de comunidade pastoris e
+agrárias, é bastante comum as pessoas trabalharem e mesmo descansarem ao
+relento (@fig:gauchos).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Jean-Baptiste Henri Durand-Brager, Gaúchos preparando mate (acampamento do exército de Juan Manuel de Rosas). [*L'Illustration* [VII]{.smallcaps} (177), 1846](https://commons.wikimedia.org/wiki/File:Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg/1280px-Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg){#fig:gauchos .fullwidth}
+
+<!--_,-->
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/2560px-Oldest_Healing_Dance.jpg"}
+
+![Comunidade San em volta do lar central de uma aldeia. Foto: [Kgara Kevin Rack, 2017](https://commons.wikimedia.org/wiki/File:Oldest_Healing_Dance.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/1280px-Oldest_Healing_Dance.jpg){#fig:san}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nesses casos, as construções servem como depósitos utilitários ou ainda
+como suportes simbólicos para as identidades familiares dentro da
+comunidade. Em suma, o abrigo humano tradicional sempre é um *lar* no
+sentido cultural da palavra.
+
+Esse é o caso nas aldeias dos povos San, no sul da África,
+onde cada casa pertence a uma família nuclear (@fig:san). A posição da
+cabana serve para estabelecer as relações entre famílias dentro da
+aldeia, mas a construção não é usada nem para as atividades cotidianas e
+nem mesmo para dormir [@jarzombek:2013architecture].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/38/08/18/380818ba0d81b70e8b952689057030a7.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esse comportamento social e simbólico contrasta com
 o dos outros hominídeos, que quase sempre constroem um novo abrigo a
-cada noite. A diferença entre a mobilidade da maioria dos hominídeos em
+cada noite, e usam esse abrigo exclusivamente para repouso de um único
+indivíduo. [@fruth:2017great].
+A diferença entre a mobilidade da maioria dos hominídeos em
 todo o seu território e o apego dos humanos a um sítio central só foi
 confirmada no século [XX]{.smallcaps}, mas ela está na base de mitos de
 origem da arquitetura, como a alegoria da cabana primitiva segundo
@@ -649,6 +984,7 @@ Vitrúvio.
 
 ## {.unlisted}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *grau zero* da arquitetura representado pela estrutura mais simples
 possível em madeira comparece num tipo peculiar de construção da cultura
 Jōmon. Essa construção é chamada simplesmente de estrutura com seis
@@ -662,6 +998,7 @@ fundações e nos vestígios de madeira preservados graças ao terreno
 pantanoso do local. A estrutura dessas construções é inteiramente feita
 em toras e troncos roliços de carvalho; todas as construções eram
 orientadas aproximadamente na direção leste--oeste.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: {#fig:sannai-site}
 ::::::::::::::::::::::::::::::::::::::::::: {.columns}
@@ -693,6 +1030,7 @@ Esquema do sítio arqueológico de Sannai Maruyama, cultura Jōmon, 3900--2300 a
 Reconstituição de uma estrutura com seis pilares, sítio arqueológico de Sannai Maruyama, cultura Jōmon, c. 2600 a.C. Fotos:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 * * *
 
 [A alegoria da cabana primitiva]{.newthought} é um expediente para enfatizar o quanto
@@ -703,6 +1041,7 @@ reduzida às suas mínimas necessidades. Ela é sempre pensada como uma
 montagem simples e racional de elementos em madeira. Por isso, o estudo
 de uma cabana primitiva qualquer é uma boa porta de entrada para a
 prática da arquitetura tradicional.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/47/A_Hunting_Scene_MET_DT6.jpg"}
 
@@ -840,7 +1179,7 @@ nas origens da humanidade.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=53.5%}
-![Gottfried Semper, fotografia anônima de 1865](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/ETH-BIB-Semper%2C_Gottfried_(1803-1879)-Portrait-Portr_11235.tif/lossy-page1-616px-ETH-BIB-Semper%2C_Gottfried_(1803-1879)-Portrait-Portr_11235.tif.jpg){#fig:semper}
+![Gottfried Semper, fotografia anônima de 1865](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/ETH-BIB-Semper,_Gottfried_(1803-1879)-Portrait-Portr_11235.tif/lossy-page1-616px-ETH-BIB-Semper,_Gottfried_(1803-1879)-Portrait-Portr_11235.tif.jpg){#fig:semper}
 :::
 ::: {.column width=46.5%}
 ![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line}
