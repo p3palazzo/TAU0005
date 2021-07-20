@@ -46,7 +46,7 @@ desde as origens da humanidade, mais de 200 mil anos atrás no leste da
 regiões e climas do mundo (@fig:ooa).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/processos/olduvai-archaeo.webm"}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/processos/olduvai-archaeo.webm" data-background-video-muted="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por sinal, a interpretação hegemônica sobre a origem do *Homo sapiens*
@@ -92,7 +92,7 @@ posição de reconhecimento da paisagem e de controle sobre o território
 
 ![Vista panorâmica da garganta do Olduvai, vale do Rift, norte da Tanzânia. Foto: [Noel Feans, 2009](https://commons.wikimedia.org/wiki/File:Olduvai_Gorge_or_Oldupai_Gorge.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Olduvai_Gorge_or_Oldupai_Gorge.jpg/1280px-Olduvai_Gorge_or_Oldupai_Gorge.jpg){#fig:rift .fullwidth}
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/processos/olduvai-landscape.webm"}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/processos/olduvai-landscape.webm" data-background-video-muted="true"}
 
 ::: {#fig:olduvai .iframe-wrapper}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8To3-9ZecnU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -135,7 +135,7 @@ máximo alguns anos. Isso implica uma escolha premeditada e muito
 cuidadosa do sítio onde a povoação vai se estabelecer.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4"}
+## {.unlisted data-background-video="https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4" data-background-video-muted="true"}
 
 ![Kostyonki, Rússia. Fonte: Google Earth](https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4){#fig:kostyonki-google .fullwidth}
 
@@ -163,22 +163,18 @@ vale (@fig:kostyonki-model).
 
 ## {.unlisted data-background-transition="fade-out" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png"}
 
+![Localização no contexto das sociedades pré-históricas com habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-locator.png){#fig:kostyonki-loc .nobg .marginnote}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Cada acampamento era formado por algumas cabanas
 alongadas [@grigorev:1967new8; @jarzombek:2013architecture, 23]. A
 implantação no final das cumeadas secundárias dava um certo grau de
 proteção e de controle visual sobre todo o vale. Ao mesmo tempo, os
 acampamentos não eram longe da água e dos campos de caça e coleta no
-fundo do vale (@fig:kostyonki).
+fundo do vale (@fig:kostyonki-site).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:kostyonki}
-![Localização no contexto das sociedades pré-históricas com habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-locator.png){#fig:kostyonki-loc .nobg .marginnote}
-
-![Ocupação do sítio c. 14.000 a.p. Desenho com base em Jarzombek (2013) e Grigor'ev (1967), curvas de nível a cada 5 metros. Linha tracejada grossa: percurso estruturante de cumeada; linha tracejada fina: percursos de cumeada secundários; linha pontilhada: percurso de contra-cumeada](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png){#fig:kostyonki-site .fullwidth}
-
-Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia, ocupação c. 14.000 a.p. Desenho com base em Jarzombek (2013) e Grigor'ev (1967), curvas de nível a cada 5 metros. Linha tracejada grossa: percurso estruturante de cumeada; linha tracejada fina: percursos de cumeada secundários; linha pontilhada: percurso de contra-cumeada](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png){#fig:kostyonki-site .fullwidth}
 
 ## {.unlisted data-background-transition="fade-in" data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg"}
 
@@ -235,7 +231,7 @@ dias, por outro, definem um zoneamento econômico do território
 
 ![Esquema do controle do território por um assentamento caçador--coletor, segundo Binford (1982): territorialidade e sucessão de assentamentos semipermanentes](https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-2.png){#fig:binford2 .line}
 
-## {.unlisted}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A escolha do sítio, como vimos, é deliberada. Ela se repete em
@@ -299,7 +295,7 @@ pronunciada (@fig:kemp). Essa territorialidade é uma característica
 fundamental do processo de urbanização.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Todas as escalas de produção]{.newthought} do ambiente tradicional são
@@ -461,7 +457,7 @@ em pequenos depósitos rurais, como este chafurdão no Alentejo
 
 ![Chafurdão no vale de Cales, Castelo de Vide, Alentejo, Portugal. [[ADER--AL]{.smallcaps}, 2014](http://www.outralentejo.org/galeria/castelo-de-vide_chafurdao-do-vale-de-cales/)](https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg){#fig:chafurdao .fullwidth}
 
-## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm"}
+## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm" data-background-video-muted="true"}
 
 ![Stonehenge, Inglaterra, c. 2600 a.C., vista aérea. Filmagem: [Chris Ridley, 2015](https://commons.wikimedia.org/wiki/File:Stonehenge_at_Sunrise_-_by_Drone..webm)](https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm){#fig:stonehenge-drone .fullwidth}
 
@@ -538,19 +534,50 @@ interpretação transcendental das proporções como espelho da natureza
 
 ![Proporções derivadas do quadrado. Acima: um quadrado e meio ou "quinta"; dois quadrados ou "oitava"; abaixo: retângulo gerado pela diagonal do quadrado e seção áurea; centro: proporções da casa kamayurá e traçado gerado pela meia diagonal do quadrado](https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png){#fig:proporcoes .line .fullwidth}
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-18-scaled.jpg"}
 
-![Casa kamayurá](){#fig:kamayura}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A casa tradicional Kamayurá ([@fig:kamayura; @fig:ok-planta;
+@fig:ok-corte]) é baseada no retângulo formado pela diagonal do
+quadrado, que determina a largura do vão central [@kamayura:2019manual].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+![’Ok eté (casa tradicional) kamayurá, corte segundo [Salkuman Kamayurá, 2019](https://issuu.com/annajubs/docs/190812_casakamayurasingles)](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-18-scaled.jpg){#fig:kamayura}
 
-Malha proporcional triangular.
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg" data-background-size="contain"}
 
-## {.unlisted data-background-image=""}
+![Planta de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg){#fig:ok-planta .fullwidth}
 
-Ordens de grandeza.
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg" data-background-size="contain"}
 
-![Relações dimensionais em sucessivas ordens de grandeza](){#fig:grandeza .line}
+![Corte de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg){#fig:ok-corte .fullwidth}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/c3/c4/35/c3c4352dcfc4ca33a941b7d39581fc00.jpg" data-background-size="contain"}
+
+![Esquema de proporções na fachada do palácio Farnese, Roma, 1534--1541. Antonio da Sangallo, o novo, e Miguel Ângelo Buonarroti, arquitetos. Croquis: [René Salas, 2018](https://www.instagram.com/p/BpcbxMCFGmh/)](https://i.pinimg.com/originals/c3/c4/35/c3c4352dcfc4ca33a941b7d39581fc00.jpg){#fig:farnese}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg" data-background-size="contain"}
+
+![Malha proporcional triangular equilátera, exemplos da arquitetura vernácula alemã: casa rurais das regiões da Vestfália meridional, Francônia superior (Bavária) e casa urbana de Eppingen, Baden, 1471. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg){#fig:langhein2012-01-03}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg" data-background-size="contain"}
+
+![Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional na Suíça: haus zum Ritter, Schaffhausen, 1487--1580; paço municipal da Basileia, 1504--1513; paço municipal de Lausanne, 1673--1675. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg){#fig:langhein2012-04-06 .fullwidth}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-07-08.jpg" data-background-size="contain"}
+
+![Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional do Mediterrâneo: Oppède-la-Neuf, Luberon, sul da França, e palazzetto Spada, Roma, atribuído a Baldassare Peruzzi e Giacomo Barozzi da Vignola. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-07-08.jpg){#fig:langhein2012-07-08}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-distance-detail.jpg" data-background-size="640px 666px" data-background-position="2.5% 5%" data-background-color="#00ff00"}
+
+![Distância e detalhe, por Léon Krier](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-distance-detail.png){#fig:krier-detail .line .marginnote}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Uma última consideração importante diz respeito à escala dos elementos
+da arquitetura. Numa composição equilibrada, a diferença de escala entre
+elementos maiores e menores nunca é mais do que uma ordem de grandeza,
+ou seja, dez vezes (@fig:krier-detail).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-color="#00ff00"}
 
@@ -576,12 +603,19 @@ arquitetura tradicional e arquitetura moderna. Para fazer essa
 distinção, nós temos que olhar para o consumo de energia na cadeia
 produtiva e como esse consumo influencia a gestão do tempo em diferentes
 sociedades.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg" data-background-size="458px 458px" data-background-position="2.5% 5%" data-background-color="#00ff00"}
+
+![Arquitetura do pico do petróleo. Léon Krier, 2008](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg){#fig:krier-oil .marginnote}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura tradicional consome muito trabalho manual e um pouco do
 combustível disponível na natureza --- sobretudo água e fogo de lenha.
 Já a arquitetura moderna usa uma cadeia de usinas, máquinas e
 instalações movidas predominantemente a combustíveis fósseis, e em
-contrapartida poupam trabalho manual. Essa distinção vai resultar em
+contrapartida poupam trabalho manual (@fig:krier-oil). Essa distinção
+vai resultar em
 atitudes diferentes, por um lado, quanto à vida útil das construções no
 tempo e, por outro lado, quanto à relação dessas mesmas construções com
 o clima e o sítio físico. As diferenças de atitude com respeito ao tempo
@@ -663,7 +697,9 @@ materiais industrializados, como o aço.
 
 ![Martelo de forja movido por um moinho a água em Arbesbach, Áustria, ativo desde 1802. Filmagem: [H. Raab, 2009](https://commons.wikimedia.org/wiki/File:Water_driven_hammer_mill_-_Arbesbach.ogv)](https://upload.wikimedia.org/wikipedia/commons/3/3e/Water_driven_hammer_mill_-_Arbesbach.ogv){#fig:arbesbach}
 
-## {.unlisted data-background-image=""}
+<!--_,-->
+
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Onde for custoso gerar energia a partir do ambiente, o trabalho vai ser
@@ -681,7 +717,7 @@ quanto os recursos econômicos o permitirem; já a produção artesanal tem
 uma capacidade mais ou menos fixa para cada comunidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa capacidade produtiva fixa faz com que a variável dependente na
@@ -725,7 +761,7 @@ tempo, permitindo a regeneração da floresta no local
 
 ![Cabana do povo Bagyeli, África equatorial. Foto: [Nadnad30, 2015](https://commons.wikimedia.org/wiki/File:Habitat_pygmées.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/01/Habitat_pygmées.jpg){#fig:bagyeli}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg/2560px-Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/Plains-Indian-tipi-North-America-Wellcome-V0038483-scaled.jpg"}
 
 ![Aldeia nas planícies da América do Norte, c. finais do século [XIX]{.smallcaps}. Acervo [Wellcome collection](https://commons.wikimedia.org/wiki/File:Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg/1280px-Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg){#fig:wellcome}
 
@@ -752,7 +788,7 @@ ou mesmo multiplicar o valor dos ativos no longo prazo
 [@galor:2016agricultural106].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Sempre que uma sociedade produz o seu ambiente construído com uma
@@ -789,7 +825,7 @@ Tuan (@fig:tuan) [@tuan:1980topofilia].
 
 ![Yi-Fu Tuan](https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg){#fig:tuan .marginnote}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain" data-background-position="right"}
 
 ![Léon Krier, Edifícios (da Universidade de Yale) --- idade e primeira campanha significativa de reformas, 1990](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png){#fig:krier-1990 .line}
 
@@ -802,7 +838,7 @@ de cair (@fig:krier-1990), mesmo que a indústria venha desenvolvendo
 materiais com desempenhos cada vez melhores (pelo menos no papel).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/56/Eco-sustainable_3D_printed_house_-_Tecla_(without_sound).webm"}
+## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/5/56/Eco-sustainable_3D_printed_house_-_Tecla_(without_sound).webm"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A qualidade dos materiais industrializados é uma das chaves para
@@ -818,7 +854,7 @@ importa tanto, a questão é a tendência.
 
 ![Impressão [3D]{.smallcaps} de uma casa "sustentável" na Itália, 2021. Projeto: [WASP]{.smallcaps} engenharia e Mario Cucinella Arquitetos. Filmagem: [Alfredo Milano](https://commons.wikimedia.org/wiki/File:Eco-sustainable_3D_printed_house_-_Tecla_(without_sound).webm)](https://upload.wikimedia.org/wikipedia/commons/5/56/Eco-sustainable_3D_printed_house_-_Tecla_(without_sound).webm){#fig:tecla}
 
-## {.unlisted data-background-image="https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
+## {.unlisted data-background-image="https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980" data-background-size="contain"}
 
 ![Léon Krier, custo de construção e custo de manutenção comparados](https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980){#fig:krier-maintenance .marginnote}
 
@@ -849,7 +885,7 @@ década de 1970, as emissões de CO~2~ da cadeia produtiva da construção
 civil estão crescendo cada vez mais rápido (@fig:schulz).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 É claro que essa aceleração contínua da produção industrial e do
@@ -866,7 +902,7 @@ começou com a Revolução Industrial, em que os filhos vão ter menos
 riqueza acumulada do que os seus próprios pais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A preferência temporal alta da construção moderna, portanto, resulta
@@ -936,7 +972,7 @@ reutilizam os mesmos abrigos por, no mínimo, alguns dias a fio
 [@venkataraman:2017hunter-gatherer114].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/10/Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/Soldiers-Gauchos-preparing-tea-one-of-Juan-Manuel-de-Rosas-army-camps-Argentina-by-Jean-Baptiste-Henri-Durand-Brager.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Além disso, os nossos abrigos muitas vezes são construídos com
@@ -1064,7 +1100,7 @@ fogueira familiar ou comunitária.
 
 ![Piero di Cosimo, Vulcano e Éolo, c. 1490, têmpera e óleo sobre tela. [National Gallery of Canada ](https://commons.wikimedia.org/wiki/File:Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg) ](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg/1072px-Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg){#fig:cosimo-vulcan}
 
-## {data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
 ![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote}
 
@@ -1260,7 +1296,7 @@ Venustas = Vedação
 : Beleza e, mais especificamente, decoro
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa última parte deriva de um jogo de palavras em alemão, que Semper
@@ -1276,7 +1312,7 @@ construção. Nisso, ele se aproximava um pouco da posição de Laugier em
 favor da clareza das colunatas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {.unlisted data-background-color="#00ff00"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [As três versões do mito]{.smallcaps} da cabana primitiva --- de
