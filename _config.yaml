@@ -61,7 +61,7 @@ defaults:
         </nav>
 
 # Theme
-theme: tufte-pandoc-jekyll
+theme: tufte-crossref-jekyll
 
 # Build parameters
 markdown: Pandoc
@@ -90,11 +90,11 @@ timezone: America/Sao_Paulo
 
 # Plugins
 plugins:
-  - jekyll-data
-  - jekyll-feed
+  #- jekyll-data
+  #- jekyll-feed
   - jekyll-gist
-  - jekyll-include-cache
-  - jekyll-paginate
+  #- jekyll-include-cache
+  #- jekyll-paginate
   - jekyll-pandoc
   - jekyll-relative-links
   - jekyll-scholar
