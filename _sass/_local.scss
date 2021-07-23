@@ -57,6 +57,21 @@ hr {
   padding: 1.2rem 0;
 }
 
+@media (min-width: 761px) {
+  ol,
+  ul {
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 760px) {
+  dt,
+  h5,
+  h6 {
+    float: none;
+  }
+}
+
 /*****************************************************
  * O Moodle Aprender 3 não tem modo escuro.
  * Para adequar ao nosso esquema de cores,
