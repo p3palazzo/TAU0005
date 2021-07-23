@@ -171,7 +171,7 @@ são ortográficas, ou seja, *sem* perspectiva.
 |:-----:|:-----------------------------------|
 | 20/07 | Lançamento da atividade            |
 | 27/07 | Revisão dos trabalhos em andamento |
-| 29/07 | Entrega da atividade               |
+| 05/08 | Entrega da atividade               |
 
 : Cronograma {#tbl:cronograma}
 
