@@ -143,7 +143,7 @@ html { font-size: 32px; font-variant: oldstyle-nums proportional-nums; }
 
 .reveal h1, .reveal h2 { font-variant: lining-nums proportional-nums titling-caps; text-shadow: none; }
 
-.reveal section.green { background: #00ff00; }
+.reveal section.green { background-color: #00ff00; }
 
 .reveal section.has-dark-background, .reveal section#title-slide { height: 100vh; color: #fffff8; }
 
@@ -159,7 +159,7 @@ html { font-size: 32px; font-variant: oldstyle-nums proportional-nums; }
 
 .reveal section.has-dark-background p.date, .reveal section#title-slide p.date { display: none; }
 
-.reveal section dd > iframe, .reveal section dd > img, .reveal section dd > video, .reveal section > div.iframe-wrapper > iframe, .reveal section > div.iframe-wrapper > img, .reveal section > div.iframe-wrapper > video, .reveal section > figure > iframe, .reveal section > figure > img, .reveal section > figure > video { display: none; visibility: hidden; }
+.reveal section dd > iframe, .reveal section dd > img, .reveal section dd > video, .reveal section > div.iframe-wrapper > iframe, .reveal section > div.iframe-wrapper > img, .reveal section > div.iframe-wrapper > video, .reveal section > div.fullwidth > figure > iframe, .reveal section > div.fullwidth > figure > img, .reveal section > div.fullwidth > figure > video, .reveal section > figure > iframe, .reveal section > figure > img, .reveal section > figure > video { display: none; visibility: hidden; }
 
 .reveal .columns { margin-top: -20px; }
 
