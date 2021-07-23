@@ -65,7 +65,7 @@ ao terreno pantanoso do local. A estrutura dessas construções é
 inteiramente feita em toras e troncos roliços de carvalho; todas as
 construções eram orientadas aproximadamente na direção leste--oeste.
 
-::: {#fig:sannai-site}
+::: {#fig:sannai-site .fullwidth}
 ::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=30%}
 ![Situação no território das sociedades pré-históricas que construíram habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-and-pit-dwellings.png){#fig:sannai-globe .nobg}
@@ -171,7 +171,7 @@ são ortográficas, ou seja, *sem* perspectiva.
 |:-----:|:-----------------------------------|
 | 20/07 | Lançamento da atividade            |
 | 27/07 | Revisão dos trabalhos em andamento |
-| 29/07 | Entrega da atividade               |
+| 05/08 | Entrega da atividade               |
 
 : Cronograma {#tbl:cronograma}
 

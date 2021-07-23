@@ -1,0 +1,53 @@
+// Override theme settings ----------------------------
+// (see reveal.js/css/theme/template/settings.scss)
+@import url("https://use.typekit.net/hny1sfi.css");
+// Unlike Google Fonts, Adobe Fonts supports the whole range of OpenType features.
+// This project contains EB Garamond and Source Code Pro 300, 400, 500, 700.
+
+// Background of the presentation
+//$backgroundColor: #faecd6;
+$backgroundColor: #fffff8;
+
+// Primary/body text
+$mainFontSize: 32px; //Only used in reveal.js
+$mainFont: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+//$mainColor: #284368;
+$mainColor: #111115;
+
+// Vertical spacing between blocks of text
+//$blockMargin: 20px;
+
+// Headings
+//$headingMargin: 0 0 $blockMargin 0;
+$headingFont: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+$headingColor: #284368; // reveal.js only
+//$headingLineHeight: 1.2;
+$headingLetterSpacing: 0.2rem;
+$headingTextTransform: uppercase;
+//$headingTextShadow: none;
+$headingFontWeight: 300;
+$heading1TextShadow: 0 0 20px $mainColor, 0 0 10px $mainColor;
+
+$heading1Size: 2.4rem;
+$heading2Size: 1.8rem;
+$heading3Size: 1.4rem;
+$heading4Size: 1.0rem;
+
+$codeFont: "Source Code Pro", monospace;
+
+// Links and actions
+//$linkColor: #9f613b;
+$linkColor: $mainColor;
+$linkColorHover: lighten( $linkColor, 15% );
+
+// Text selection
+$selectionBackgroundColor: lighten( $linkColor, 25% );
+//$selectionColor: #fff;
+
+// Generates the presentation background, can be overridden
+// to return a background image or gradient
+/*
+ *@mixin bodyBackground() {
+ *  background: $backgroundColor;
+ *}
+ */

@@ -3,6 +3,8 @@ title: "Por que estudar história da arquitetura"
 date: 2021-07-20
 ---
 
+<section>
+
 Por que estudar arquitetura tradicional em pleno século
 [XXI]{.smallcaps}? A resposta a essa pergunta muda sem parar desde que a
 História começou a ser ensinada nos cursos de Arquitetura, uns 200 anos
@@ -68,3 +70,4 @@ produtivo verdadeiramente sustentável da construção, a organização de
 espaços e ambientes resilientes, e a articulação de experiências
 culturalmente significativas.
 
+</section>

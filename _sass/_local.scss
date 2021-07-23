@@ -1,0 +1,135 @@
+* {
+  font-variant: proportional-nums oldstyle-nums;
+  font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif !important;
+}
+
+p.subtitle, h1, h2, h3 { font-variant: lining-nums; }
+.newthought { font-variant: all-small-caps !important; }
+
+.subfigures > p:last-of-type,
+caption,
+figcaption,
+sup,
+.marginnote,
+.sidenote {
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+}
+
+section > figure > figcaption {
+  margin-right: -60%;
+  max-width: 50%;
+}
+
+.sidenote-number,
+.sidenote-number::after,
+.sidenote::before {
+  font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif !important;
+  font-variant: oldstyle-nums;
+  font-weight: 500;
+}
+
+img,
+video,
+iframe {
+  border: 0.5px solid #111111;
+}
+
+img.line,
+img.nobg {
+  border: 0;
+}
+
+ul {
+  list-style-type: none;
+  li {
+    text-indent: -2rem;
+    &::before {
+      content: "— ";
+    }
+  }
+}
+
+hr {
+  border: 0;
+  clear: both;
+  width: 100%;
+  padding: 1.2rem 0;
+}
+
+@media (min-width: 761px) {
+  ol,
+  ul {
+    padding-left: 0;
+  }
+}
+
+@media (max-width: 760px) {
+  dt,
+  h5,
+  h6 {
+    float: none;
+  }
+}
+
+/*****************************************************
+ * O Moodle Aprender 3 não tem modo escuro.
+ * Para adequar ao nosso esquema de cores,
+ * incluir código abaixo na seção "Geral".
+
+   <style>
+     body,
+     div.page,
+     #region-main,
+     div.content,
+     h3.sectionname,
+     #page .course-content ul li.section.main {
+       color: #111115; background-color: #fffff8;
+     }
+   </style>
+
+ * O código a seguir cancela o modo escuro neste site.
+ *****************************************************/
+
+@media (prefers-color-scheme: no-preference),
+       (prefers-color-scheme: light),
+       (prefers-color-scheme: dark) {
+  body {
+    color: #111121;
+    background-color: #fffff8;
+    a:link {
+      text-decoration: none;
+      background: -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(#fffff8, #fffff8), -webkit-linear-gradient(lighten(#111121, 15%), lighten(#111121, 15%));
+      background: linear-gradient(#fffff8, #fffff8), linear-gradient(#fffff8, #fffff8), linear-gradient(lighten(#111121, 15%), lighten(#111121, 15%));
+      -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+      background-repeat: no-repeat, no-repeat, repeat-x;
+      text-shadow: 0.03em 0 #fffff8, -0.03em 0 #fffff8, 0 0.03em #fffff8, 0 -0.03em #fffff8, 0.06em 0 #fffff8, -0.06em 0 #fffff8, 0.09em 0 #fffff8, -0.09em 0 #fffff8, 0.12em 0 #fffff8, -0.12em 0 #fffff8, 0.15em 0 #fffff8, -0.15em 0 #fffff8;
+      background-position: 0% 93%, 100% 93%, 0% 93%;
+    }
+    img, .line, .nobg {
+      background: none;
+    }
+    table {
+      border-top: 2px solid #111121;
+      border-bottom: 2px solid #111121;
+      td {
+        border-top: 1px solid #111121;
+      }
+      th {
+        border-bottom: 1px solid #111121;
+      }
+    }
+    .line,
+    .nobg {
+      border: 0;
+      filter: none;
+      -webkit-filter: none;
+    }
+    .marginnote,
+    .sidenote {
+      background: transparentize(#fffff8, 0.3);
+    }
+  }
+}
