@@ -1,3 +1,28 @@
+// Atualizado no tema, mas gem ainda não refeita
+h4,
+h5,
+h6 {
+  font-size: 1.4rem;
+}
+div.subfigures {
+  max-width: 55%;
+  -webkit-margin-start: 0;
+  -webkit-margin-end: 0;
+  margin: 0 0 3em 0;
+}
+div.fullwidth.subfigures {
+  max-width: 90%;
+}
+div.fullwidth.subfigures > p:last-of-type,
+div.fullwidth figcaption { max-width: 33%; }
+blockquote .sidenote,
+blockquote .marginnote {
+  margin-right: -60%;
+  width: 50%;
+  min-width: 50%;
+}
+// Fim: atualizado no tema, mas gem ainda não refeita
+
 * {
   font-variant: proportional-nums oldstyle-nums;
   font-family: eb-garamond, Garamond, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif !important;
@@ -5,6 +30,7 @@
 
 p.subtitle, h1, h2, h3 { font-variant: lining-nums; }
 .newthought { font-variant: all-small-caps !important; }
+dt { font-weight: 500; }
 
 .subfigures > p:last-of-type,
 caption,
@@ -16,9 +42,16 @@ sup,
   margin-bottom: 0.3rem;
 }
 
+div.subfigures > p:last-of-type,
 section > figure > figcaption {
   margin-right: -60%;
   max-width: 50%;
+}
+
+// Reverte para as medidas normais quando é fullwidth
+div.subfigures.fullwidth > p:last-of-type {
+  margin-right: 0;
+  max-width: 33%;
 }
 
 .sidenote-number,
