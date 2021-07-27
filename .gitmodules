@@ -7,3 +7,6 @@
 [submodule "_spec"]
 	path = _spec
 	url = https://gist.github.com/a452c6915b27358b8f6665ae733c682a.git
+[submodule "_sass"]
+	path = _sass
+	url = https://github.com/p3palazzo/tufte-mmistakes

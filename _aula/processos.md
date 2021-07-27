@@ -11,13 +11,13 @@ toc:
   - Alegoria da cabana primitiva
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
+  caption: "Thomas Cole, *The Course of Empire: The Savage State*, 1834"
+  actions:
+  - label: "Slides"
+    url: "/slides/processos/"
 ---
-
-# {.unlisted data-visibility=hidden}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
-![Thomas Cole, The Course of Empire: The Savage State, 1834](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg){#fig:cole-savage}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Ordem e lugar #
 

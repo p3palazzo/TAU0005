@@ -2,7 +2,7 @@
 title   : "História e arquitetura tradicional"
 subtitle: "Arquitetura tradicional"
 item    : "II"
-author  : "Pedro P. Palazzo"
+author  : Pedro P. Palazzo
 date    : 2021-07-27
 toc:
   - História ou arquitetura
@@ -13,13 +13,13 @@ toc:
   - "Adendo: problemas com outras definições de arquitetura"
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg/1280px-Thomas_Cole\_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg/1280px-Thomas_Cole\_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg
+  caption: "Thomas Cole, Architect's Dream, 1840. Fonte e maiores informações: [Google Arts and Culture ](https://artsandculture.google.com/story/thomas-cole-the-architect-s-dream/ggKi4X2yPzzOKw)"
+  actions:
+  - label: "Slides"
+    url: "/slides/arqtrad/"
 ---
-
-## {.unlisted data-visibility="hidden"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
-![Thomas Cole, Architect's Dream, 1840. Fonte e maiores informações: [Google Arts and Culture ](https://artsandculture.google.com/story/thomas-cole-the-architect-s-dream/ggKi4X2yPzzOKw)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg/1280px-Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg){#fig:cole-dream}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # História ou arquitetura #
 

@@ -3,6 +3,8 @@ title: "Apoio ao aluno"
 date: 2021-07-20
 ---
 
+<section>
+
 O conteúdo e as atividades da disciplina estão disponíveis no ambiente
 virtual de aprendizagem [Aprender 3][]. A equipe de [TAU]{.smallcaps} 0005 --- o
 professor, a estagiária docente e as monitoras --- estará disponível ao
@@ -21,7 +23,9 @@ Usamos *apenas* os sistemas oficiais da UnB para nos comunicarmos:
 Aprender 3, Microsoft Teams e e-mail institucional. Verifiquem se
 o seu acesso às plataformas e ao e-mail `@aluno.unb.br` está em dia!
 
-### Frequência ###
+</section>
+
+## Frequência ##
 
 Apesar de estar sendo conduzida de modo remoto, esta disciplina ainda é,
 formalmente, *presencial*. A frequência exigida por lei é de 75 % da
