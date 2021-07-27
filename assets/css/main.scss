@@ -28,27 +28,26 @@ $caption-font-family: $garamond;
 $sans-serif: $garamond;
 $sans-serif-narrow: $garamond;
 
+/* type scale */
+$type-size-6: 1.1rem;
+
 /*
    Colors
    ========================================================================== */
 
 $background-color: #fffff8;
 $lighter-gray: #b4d5fe;
-$dark-gray: #111115;
+$dark-gray: #111;
 
 $border-color: $background-color;
 
 $footer-background-color: $background-color;
 
-/* links */
 /*
- *$link-color: $text-color;
- *$link-color-hover: $text-color;
- *$link-color-visited: $text-color;
- *$masthead-link-color: $text-color;
- *$masthead-link-color-hover: $text-color;
- *$navicon-link-color-hover: $text-color;
- */
+   Other
+   ========================================================================== */
+
+//$border-radius: 0;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
@@ -59,6 +58,210 @@ $footer-background-color: $background-color;
   "pandoc",
   "pandoc-solarized",
   "local",
-  "revealjs-support"
+	"revealjs-support"
 ;
+
+$heading-font-weight: 400;
+
+// Undo Tufte limits on body width because Minimal-Mistakes already does this.
+body {
+	width: initial;
+	max-width: initial;
+	margin: initial;
+	padding: initial;
+	font-family: $global-font-family;
+	font-variant: oldstyle-nums proportional-nums;
+	line-height: 1;
+}
+
+.masthead {
+	display: none;
+}
+
+a.site-title,
+ul.visible-links a {
+	background: none !important;
+}
+
+a.site-title {
+	font-size: $h-size-1;
+	font-variant: all-small-caps;
+	font-weight: $heading-font-weight;
+	.site-subtitle {
+		font-size: $h-size-6;
+		font-variant: normal oldstyle-nums;
+	}
+}
+
+ul.visible-links {
+	font-size: $h-size-4;
+}
+
+.fas,
+.fab,
+.fa {
+	font-family: "Font Awesome 5 Free" !important;
+}
+
+ul li, // Resets minimal-mistakes/_base.scss
+ol li {
+	margin-bottom: 0;
+}
+
+.wide .sticky {
+	background: $background-color;
+	margin-left: 7.5%;
+	padding: 2em 5%;
+	top: 0;
+	width: 55%;
+	opacity: 1;
+	z-index: 999;
+}
+
+.page,
+.page__hero--overlay {
+	font-size: $type-size-4;
+	padding: 5rem 0;
+}
+
+.page__hero--overlay {
+	&,
+	& .page__title,
+	& .page__meta,
+	& a {
+		color: $background-color;
+		text-shadow: 0.03em 0 4px rgba($text-color, 0.2), -0.03em 0 4px rgba($text-color, 0.2), 0 0.03em 4px rgba($text-color, 0.2), 0 -0.03em 4px rgba($text-color, 0.2), 0.06em 0 6px rgba($text-color, 0.2), -0.06em 0 6px rgba($text-color, 0.2), 0.09em 0 4px rgba($text-color, 0.2), -0.09em 0 4px rgba($text-color, 0.2), 0.12em 0 9px rgba($text-color, 0.2), -0.12em 0 9px rgba($text-color, 0.2), 0.15em 0 12px rgba($text-color, 0.2), -0.15em 0 12px rgba($text-color, 0.2);
+	}
+
+	h1 {
+    font-weight: 400;
+    margin-top: 4rem;
+    margin-bottom: 1.5rem;
+    font-size: 3.2rem;
+    line-height: 1;
+		font-weight: $heading-font-weight;
+	}
+
+	span.subtitle {
+		font-style: italic;
+		margin-top: 1rem;
+		margin-bottom: 1rem;
+		font-size: 1.8rem;
+		display: block;
+		line-height: 1;
+		em { font-style: normal; }
+	}
+
+	blockquote {
+		font-style: italic;
+		padding: 0;
+	}
+
+	.page__hero-caption {
+		font-size: $type-size-6;
+		font-weight: 500;
+	}
+
+	a.btn,
+	blockquote,
+	blockquote a,
+	.page__hero-caption a {
+		text-shadow: 0.03em 0 1px rgba($text-color, 0.5), -0.03em 0 1px rgba($text-color, 0.5), 0 0.03em 1px rgba($text-color, 0.5), 0 -0.03em 1px rgba($text-color, 0.5), 0.06em 0 2px rgba($text-color, 0.3), -0.06em 0 2px rgba($text-color, 0.3), 0.09em 0 3px rgba($text-color, 0.3), -0.09em 0 3px rgba($text-color, 0.3), 0.12em 0 4px rgba($text-color, 0.3), -0.12em 0 4px rgba($text-color, 0.3), 0.15em 0 5px rgba($text-color, 0.3), -0.15em 0 5px rgba($text-color, 0.3);
+	}
+
+	blockquote a,
+	.page__hero-caption a {
+		background: -webkit-linear-gradient($text-color, $text-color), -webkit-linear-gradient($text-color, $text-color), -webkit-linear-gradient(lighten($background-color, 10%), lighten($background-color, 10%));
+		background: linear-gradient($text-color, $text-color), linear-gradient($text-color, $text-color), linear-gradient(lighten($background-color, 10%), lighten($background-color, 10%));
+		-webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+		-moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+		background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
+		background-repeat: no-repeat, no-repeat, repeat-x;
+		background-position: 0% 93%, 100% 93%, 0% 93%; 
+	}
+
+	a.btn {
+		background: none;
+		color: $background-color;
+		font-size: $type-size-5;
+		font-variant: all-small-caps;
+		font-weight: 500;
+	}
+}
+
+.page {
+	width: 87.5%;
+}
+
+// Figures in Minimal-mistakes are flex.
+// One should either reset them to display:block (easy fix)
+// or use margin-left: auto in its child elements.
+figure {
+    display: block;
+}
+
+blockquote {
+	border: none;
+	font-style: normal;
+}
+
+figure {
+	img,
+	iframe,
+	video {
+		border-radius: 0;
+	}
+}
+
+.wide .sidebar__right,
+.wide .pagination {
+	@extend section;
+	width: 55%;
+}
+
+.toc {
+	border: none;
+	box-shadow: none;
+	color: $text-color;
+	header {
+		display: none;
+	}
+}
+
+a:hover {
+	text-decoration: none !important;
+}
+
+.page__date strong {
+	font-weight: 500;
+}
+
+a.pagination--pager {
+	@extend .tufte-underline;
+	border: none;
+	font-weight: 500;
+	text-shadow: none;
+	&:hover {
+		@extend .hover-tufte-underline;
+		color: $text-color;
+		background: $background-color;
+	}
+}
+
+.page__footer-follow {
+	display: none;
+}
+
+.page__footer-copyright {
+	font-size: $type-size-5;
+}
+
+@media (max-width: $medium) {
+	.page,
+	.wide .sticky,
+	.wide .sidebar__right,
+	.wide .pagination {
+		width: 100%;
+	}
+}
 // vim: set shiftwidth=2 tabstop=2 :

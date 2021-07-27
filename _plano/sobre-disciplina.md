@@ -3,6 +3,8 @@ title: "Sobre a disciplina"
 date: 2021-07-20
 ---
 
+<section>
+
 [TAU 0005]{.smallcaps} é a segunda disciplina na cadeia de Teoria e
 História do curso de graduação em Arquitetura e Urbanismo na
 Universidade de Brasília, e a primeira a se dedicar inteiramente ao
@@ -87,3 +89,4 @@ Eles têm sido, também, cada vez mais aplicados na solução de problemas
 contemporâneos, desde a habitação de interesse social até a
 sustentabilidade ambiental.
 
+</section>

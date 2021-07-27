@@ -3,6 +3,8 @@ title: "Avaliação"
 date: 2021-07-20
 ---
 
+<section>
+
 Nesta disciplina, você vai trabalhar em ritmo semanal. Cada semana
 corresponde a um tópico do conteúdo e pede a realização de uma tarefa
 assíncrona (ou seja, sem hora marcada), que conta como presença. Essas
@@ -22,6 +24,8 @@ atender a *todos* os requisitos seguintes:
 ~ Obter 50 pontos no total das atividades avaliativas do semestre, que
   correspondem à menção [MM]{.smallcaps}.
 
+</section>
+
 # A sua frequência #
 
 Cada semana tem uma tarefa correspondente, indicada no Moodle. Essa
@@ -32,12 +36,14 @@ você precisa entregar o resultado dessa tarefa no Moodle dentro do prazo
 previsto na [@tbl:freq]. A sua frequência total no semestre será a soma
 numérica de todas as frequências semanais.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
 : Frequência por entrega de tarefas {#tbl:freq}
 
-|                                         |                                 |
-|-----------------------------------------|---------------------------------|
-| Entrega até as 23h^59^ da segunda-feira | 1,0 presença integral da semana |
-| Entrega até as 23h^59^ da sexta-feira   | 0,5 presença da semana (metade) |
+|                                         |                                          |
+|-----------------------------------------|------------------------------------------|
+| Entrega até as 23h^59^ da segunda-feira | 4,0 horas (presença integral da semana)  |
+| Entrega até as 23h^59^ da sexta-feira   | 2,0 horas (metade da presença da semana) |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 <i class="fas fa-check-circle"></i> 
 ~ Nas semanas de entrega de atividade avaliativa, você vai obter a

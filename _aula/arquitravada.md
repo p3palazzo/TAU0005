@@ -11,9 +11,13 @@ toc:
   - Da madeira à pedra
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg
+  caption: "Thomas Cole, *The Course of Empire: Consummation*, 1836"
+  actions:
+  - label: "Slides"
+    url: "/slides/arquitravada"
 ---
-
-![Thomas Cole, The Course of Empire: Consummation, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg){#fig:cole-consummation .fullwidth}
 
 # Da forquilha ao pórtico #
 
@@ -26,8 +30,7 @@ usam o que chamamos de um sistema arquitravado: vigas que trabalham à
 flexão, simplesmente apoiadas sobre pilares em compressão. Vamos ver
 como algumas dessas tradições codificam um cânone da construção
 arquitravada em madeira; na sequência, vamos ver como esse cânone pode
-ser usado como ponto de partida para construções em pedra
-(@fig:cole-consummation).
+ser usado como ponto de partida para construções em pedra.
 
 ## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 

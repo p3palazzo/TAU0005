@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "TAU 0005"
+title                    : "TAU 0005 História da Arquitetura e da Arte I"
 title_separator          : "-"
-subtitle                 : "História da Arquitetura e da Arte I"
+subtitle                 : "1.º/2021"
 name                     : "Pedro P. Palazzo"
 description: >-
   História do urbanismo, da arquitetura e da arte no contexto de seus
@@ -236,6 +236,7 @@ permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: America/Sao_Paulo
+date_format: "%d/%m/%Y"
 
 
 # Plugins (previously gems:)
@@ -304,6 +305,22 @@ defaults:
       path: ""
     values:
       layout: single
+      classes: wide
+      toc: false
+      toc_label: false
+      toc_sticky: false
+      author_profile: false
+      read_time: true
+      comments: false
+      share: false
+      related: false
+  # _aula
+  - scope:
+      path: ""
+      type: aula
+    values:
+      layout: single
+      toc: true
   # _posts
   - scope:
       path: ""
@@ -315,42 +332,6 @@ defaults:
       comments: # true
       share: true
       related: true
-  # _aula
-  - scope:
-      path: ""
-      type: aula
-    values:
-      classes: wide
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: false
-      related: false
-  # _plano
-  - scope:
-      path: ""
-      type: plano
-    values:
-      classes: wide
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: false
-      related: false
-  # _trabalho
-  - scope:
-      path: ""
-      type: trabalho
-    values:
-      classes: wide
-      layout: single
-      author_profile: false
-      read_time: true
-      comments: false
-      share: false
-      related: false
 
 # Collections
 collections:
