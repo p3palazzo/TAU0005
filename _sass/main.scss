@@ -5,7 +5,6 @@
 @charset "utf-8";
 
 @import url("https://use.typekit.net/hny1sfi.css");
-@import url("https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css");
 
 /* ==========================================================================
    Variables
@@ -25,8 +24,6 @@ $garamond: "eb-garamond", "et-book", Palatino, "Palatino Linotype", "Palatino LT
 $global-font-family: $garamond;
 $header-font-family: $garamond;
 $caption-font-family: $garamond;
-$sans-serif: $garamond;
-$sans-serif-narrow: $garamond;
 
 /*
    Colors
@@ -34,21 +31,14 @@ $sans-serif-narrow: $garamond;
 
 $background-color: #fffff8;
 $lighter-gray: #b4d5fe;
-$dark-gray: #111115;
-
-$border-color: $background-color;
-
-$footer-background-color: $background-color;
 
 /* links */
-/*
- *$link-color: $text-color;
- *$link-color-hover: $text-color;
- *$link-color-visited: $text-color;
- *$masthead-link-color: $text-color;
- *$masthead-link-color-hover: $text-color;
- *$navicon-link-color-hover: $text-color;
- */
+$link-color: $text-color;
+$link-color-hover: $text-color;
+$link-color-visited: $text-color;
+$masthead-link-color: $text-color;
+$masthead-link-color-hover: $text-color;
+$navicon-link-color-hover: $text-color;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials

@@ -1,8 +1,7 @@
-@import "settings";
+@charset "utf-8";
 
 * {
   font-variant: proportional-nums oldstyle-nums;
-  font-family: $mainFont;
 }
 
 p.subtitle, h1, h2, h3 { font-variant: lining-nums; }
@@ -19,6 +18,7 @@ sup,
 }
 
 dd {
+  font-size: $type-size-5;
   margin-left: 0;
 }
 
@@ -26,14 +26,10 @@ dt,
 h5,
 h6,
 blockquote > footer,
-sup {
-  font-weight: 500;
-}
-
+sup,
 .sidenote-number,
 .sidenote-number::after,
 .sidenote::before {
-  font-family: $mainFont !important;
   font-variant: oldstyle-nums;
   font-weight: 500;
 }
@@ -41,7 +37,7 @@ sup {
 iframe,
 img,
 video {
-  border: 0.5px solid $mainColor;
+  border: 0.5px solid $text-color;
   &.line,
   &.nobg {
     border: 0;
@@ -55,6 +51,15 @@ ul {
     &::before {
       content: "— ";
     }
+  }
+}
+li.masthead__menu-item {
+  background: none;
+  border: 0;
+  font-size: $type-size-6;
+  text-indent: 0;
+  &::before {
+    content: "";
   }
 }
 
@@ -80,7 +85,6 @@ hr {
   }
 }
 
-p.signoff,
 #main-nav,
 #lang-select {
   a:link {
@@ -101,10 +105,25 @@ p.signoff,
 }
 
 .en:lang(en), .fr:lang(fr), .pt:lang(pt){
-    color: transparentize($mainColor, 0.5);
+    color: transparentize($text-color, 0.5);
   }
 
-@media (max-width: 760px) {
+// Minimal-Mistakes
+.site-title {
+  a,
+  a > .site-subtitle {
+    background: none;
+  }
+  font-variant: lining-nums;
+  font-weight: 400;
+}
+
+.site-subtitle {
+  font-size: $h-size-4;
+  font-style: italic;
+}
+
+@media (max-width: $medium) {
   dt,
   h5,
   h6 {
@@ -114,41 +133,11 @@ p.signoff,
 
 @media (prefers-color-scheme: dark) {
   body {
-    color: $backgroundColor;
-    background-color: lighten($mainColor, 10%);
-    a:link {
-      text-decoration: none;
-      background: -webkit-linear-gradient(lighten($mainColor, 10%), lighten($mainColor, 10%)), -webkit-linear-gradient(lighten($mainColor, 10%), lighten($mainColor, 10%)), -webkit-linear-gradient(lighten($backgroundColor, 15%), lighten($backgroundColor, 15%));
-      background: linear-gradient(lighten($mainColor, 10%), lighten($mainColor, 10%)), linear-gradient(lighten($mainColor, 10%), lighten($mainColor, 10%)), linear-gradient(lighten($backgroundColor, 15%), lighten($backgroundColor, 15%));
-      -webkit-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      -moz-background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      background-size: 0.05em 1px, 0.05em 1px, 1px 1px;
-      background-repeat: no-repeat, no-repeat, repeat-x;
-      text-shadow: 0.03em 0 lighten($mainColor, 10%), -0.03em 0 lighten($mainColor, 10%), 0 0.03em lighten($mainColor, 10%), 0 -0.03em lighten($mainColor, 10%), 0.06em 0 lighten($mainColor, 10%), -0.06em 0 lighten($mainColor, 10%), 0.09em 0 lighten($mainColor, 10%), -0.09em 0 lighten($mainColor, 10%), 0.12em 0 lighten($mainColor, 10%), -0.12em 0 lighten($mainColor, 10%), 0.15em 0 lighten($mainColor, 10%), -0.15em 0 lighten($mainColor, 10%);
-      background-position: 0% 93%, 100% 93%, 0% 93%;
-    }
-    img, .line, .nobg {
-      background: none;
-    }
-    table {
-      border-top: 2px solid $backgroundColor;
-      border-bottom: 2px solid $backgroundColor;
-      td {
-        border-top: 1px solid $backgroundColor;
-      }
-      th {
-        border-bottom: 1px solid $backgroundColor;
-      }
-    }
     .line,
     .nobg {
       border: 0;
       filter: none;
       -webkit-filter: none;
-    }
-    .marginnote,
-    .sidenote {
-      background: transparentize(lighten($mainColor, 10%), 0.3);
     }
   }
   #main-nav a:link,
@@ -157,7 +146,7 @@ p.signoff,
       text-shadow: none;
   }
   .en:lang(en), .fr:lang(fr), .pt:lang(pt){
-    color: transparentize($backgroundColor, 0.5);
+    color: transparentize($background-color, 0.5);
   }
 }
 // vim: set shiftwidth=2 foldmethod=indent

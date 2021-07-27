@@ -17,7 +17,7 @@ JEKYLL := palazzo/jekyll-tufte:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
 ASSETS  = $(wildcard assets/*)
 AULA    = $(wildcard _aula/*.md)
 SLIDES  = $(patsubst _aula/%.md,slides/%/index.html,$(AULA))
-SASS    = revealjs.scss _settings.scss \
+SASS    = revealjs.scss _revealjs-settings.scss \
 					mixins.scss settings.scss theme.scss
 
 # {{{1 Recipes
@@ -34,10 +34,10 @@ slides/%/index.html : _aula/%.md revealjs.yaml \
 	@echo $(@D)
 
 .PHONY : serve
-serve : _site
+serve : $(SLIDES)
 	@docker run --rm -v "`pwd`:/srv/jekyll" \
 		-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
-		$(JEKYLL) jekyll serve --future --skip-initial-build
+		$(JEKYLL) jekyll serve --future
 
 .PHONY : clean
 clean :

@@ -1,0 +1,61 @@
+// From https://ethanschoonover.com/solarized/
+$base03:    #002b36;
+$base02:    #073642;
+$base01:    #586e75;
+$base00:    #657b83;
+$base0:     #839496;
+$base1:     #93a1a1;
+$base2:     #eee8d5;
+$base3:     #fdf6e3;
+$yellow:    #b58900;
+$orange:    #cb4b16;
+$red:       #dc322f;
+$magenta:   #d33682;
+$violet:    #6c71c4;
+$blue:      #268bd2;
+$cyan:      #2aa198;
+$green:     #859900;
+
+@mixin rebase($rebase03,$rebase02,$rebase01,$rebase00,$rebase0,$rebase1,$rebase2,$rebase3) 
+{
+  div.sourceCode, pre:not(.sourceCode) { background: $rebase03; }
+  pre code { color: $rebase0; }
+  code span.kw { color: $green; font-weight: normal; font-style: normal; } /* Keyword */
+  code span.dt { color: $yellow; font-weight: normal; font-style: normal; } /* DataType */
+  code span.dv { color: $cyan; font-weight: normal; font-style: normal; } /* DecVal */
+  code span.bn { color: $cyan; font-weight: normal; font-style: normal; } /* BaseN */
+  code span.fl { color: $cyan; font-weight: normal; font-style: normal; } /* Float */
+  code span.ch { color: $cyan; font-weight: normal; font-style: normal; } /* Char */
+  code span.st { color: $cyan; font-weight: normal; font-style: normal; } /* String */
+  code span.co { color: $rebase01; font-weight: normal; font-style: italic; } /* Comment */
+  code span.ot { color: $blue; font-weight: normal; font-style: normal; } /* Other */
+  code span.al { color: $red; font-weight: normal; font-style: normal; } /* Alert */
+  code span.fu { color: $blue; font-weight: normal; font-style: normal; } /* Function */
+  code span.er { color: $red; font-weight: normal; font-style: normal; } /* Error */
+  code span.wa { color: $orange; font-weight: normal; font-style: italic; } /* Warning */
+  code span.cn { color: $cyan; font-weight: normal; font-style: normal; } /* Constant */
+  code span.sc { color: $red; font-weight: normal; font-style: normal; } /* SpecialChar */
+  code span.vs { color: $rebase0; font-weight: normal; font-style: normal; } /* VerbatimString */
+  code span.ss { color: $red; font-weight: normal; font-style: normal; } /* SpecialString */
+  code span.im { color: $rebase0; font-weight: normal; font-style: normal; } /* Import */
+  code span.va { color: $blue; font-weight: normal; font-style: normal; } /* Variable */
+  code span.cf { color: $green; font-weight: normal; font-style: normal; } /* ControlFlow */
+  code span.op { color: $green; font-weight: normal; font-style: normal; } /* Operator */
+  code span.bu { color: $rebase0; font-weight: normal; font-style: normal; } /* BuiltIn */
+  code span.ex { color: $rebase0; font-weight: normal; font-style: normal; } /* Extension */
+  code span.pp { color: $orange; font-weight: normal; font-style: normal; } /* Preprocessor */
+  code span.at { color: $rebase0; font-weight: normal; font-style: normal; } /* Attribute */
+  code span.do { color: $rebase01; font-weight: normal; font-style: italic; } /* Documentation */
+  code span.an { color: $rebase01; font-weight: normal; font-style: italic; } /* Annotation */
+  code span.cv { color: $rebase01; font-weight: normal; font-style: italic; } /* CommentVar */
+  code span.in { color: $rebase01; font-weight: normal; font-style: italic; } /* Information */
+  a.sourceLine::before { text-decoration: none; }
+}
+
+@media (prefers-color-scheme: no-preference),
+       (prefers-color-scheme: light) {
+         @include rebase($base3,$base2,$base1,$base0,$base00,$base01,$base02,$base03)
+       }
+@media (prefers-color-scheme: dark)  {
+  @include rebase($base03,$base02,$base01,$base00,$base0,$base1,$base2,$base3)
+}

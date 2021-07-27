@@ -2,11 +2,11 @@
 title: "História da Arquitetura e da Arte I"
 subtitle: "TAU 0005 turma C primeiro semestre letivo de 2021"
 author: "Professores: Pedro P. Palazzo e Irina Oliveira <br /> Monitores: Nathália Alves Bonfim, Roberta Inglês Vieira e Victor Silva do Amaral"
-layout: index
 abstract: >
   História do urbanismo, da arquitetura e da arte no contexto de seus
   condicionantes sociais, econômicos e políticos, desde os primórdios da
   civilização até o gótico.
+classes: wide
 ---
 
 # Antes de começar #
