@@ -1,8 +1,8 @@
 {
 	"version": 3,
-	"file": "revealjs.css",
+	"file": "revealjs-main.css",
 	"sources": [
-		"revealjs.scss",
+		"revealjs-main.scss",
 		"slides/reveal.js/css/theme/template/mixins.scss",
 		"slides/reveal.js/css/theme/template/settings.scss",
 		"_sass/_revealjs-settings.scss",
