@@ -320,6 +320,7 @@ defaults:
       type: aula
     values:
       layout: single
+      show_date: true
       toc: true
   # _posts
   - scope:
