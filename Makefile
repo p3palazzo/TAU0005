@@ -4,7 +4,7 @@
 VPATH = . assets
 vpath %.bib _bibliography
 vpath %.html . _includes _layouts _site
-vpath %.scss _sass assets/css assets/css-slides \
+vpath %.scss _sass assets/css \
 	slides/reveal.js/css/theme/template
 vpath %.yaml . _spec
 
@@ -17,7 +17,7 @@ JEKYLL := palazzo/jekyll-tufte:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
 ASSETS  = $(wildcard assets/*)
 AULA    = $(wildcard _aula/*.md)
 SLIDES  = $(patsubst _aula/%.md,slides/%/index.html,$(AULA))
-SASS    = revealjs.scss _revealjs-settings.scss \
+SASS    = revealjs-main.scss _revealjs-settings.scss \
 					mixins.scss settings.scss theme.scss
 
 # {{{1 Recipes
