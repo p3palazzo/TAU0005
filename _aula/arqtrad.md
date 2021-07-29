@@ -51,6 +51,8 @@ alçada; isso inclui ser capaz de manejar um repertório de iconografia
 tradicional.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Thomas Cole, Architect's Dream, 1840. Fonte e maiores informações: [Google Arts and Culture](https://artsandculture.google.com/story/thomas-cole-the-architect-s-dream/ggKi4X2yPzzOKw)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg/1280px-Thomas_Cole\_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg){#fig:cole-dream}
+
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6c/Thomas_Cole_-_Architect’s_Dream_-_Google_Art_Project.jpg" data-background-opacity="0.7" data-transition="zoom-in fade-out" data-background-trasition="fade"}
 
 ![Thomas Cole, Architect's Dream, detalhe](https://upload.wikimedia.org/wikipedia/commons/b/b2/Thomas_Cole_-_The_Architect's_Dream_(detail)_-_WGA05142.jpg){#fig:cole-detail .marginnote .stretch}
@@ -1459,15 +1461,17 @@ from Nowhere* do arquiteto Arts and Crafts inglês William Morris
 ## {.unlisted}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
+::: {.column width=46%}
 ![Capa de reedição recente do livro de E. B. Tylor, *Primitive Culture*, 1871](https://i.pinimg.com/564x/83/56/8a/83568acdf269a0217d77645162145cdf.jpg){#fig:tylor}
 :::
-::: {.column width=50%}
+::: {.column width=54%}
 ![Capa do livro *The Eternal Present*, baseado na série de palestras de 1957 de Sigfried Giedion ](https://i.pinimg.com/564x/c4/d7/e4/c4d7e4880285ffb4dc2aa275e3c56077.jpg){#fig:eternal}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+
 [A utopia tradicionalista do Iluminismo]{.newthought} tem como contrapartida uma visão
 colonialista e, no fim das contas, racista de sociedades não ocidentais
 como sendo "primitivas" (@fig:tylor). As culturas que foram chamadas de
