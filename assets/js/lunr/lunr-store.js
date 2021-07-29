@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "História e arquitetura tradicional",
-        "excerpt":"História ou arquitetura Em 1839, o arquiteto americano Ithiel Town encomendou ao seu amigo Thomas Cole uma pequena pintura de paisagem com algumas construções clássicas. Em vez disso, Cole pintou uma imensa alegoria da Arquitetura, intitulada Sonho do arquiteto (fig. ¿fig:cole-dream?). A tela representava os principais estilos arquitetônicos do Ocidente, desde...","categories": [],
+        "excerpt":"História ou arquitetura Em 1839, o arquiteto americano Ithiel Town encomendou ao seu amigo Thomas Cole uma pequena pintura de paisagem com algumas construções clássicas. Em vez disso, Cole pintou uma imensa alegoria da Arquitetura, intitulada Sonho do arquiteto (fig. 1). A tela representava os principais estilos arquitetônicos do Ocidente, desde...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/arqtrad/",
         "teaser": null
@@ -173,15 +173,15 @@ var store = [{
         "url": "/tau0005/trabalho/cabana/",
         "teaser": null
       },{
-        "title": "Composição com volumes",
-        "excerpt":"Ementa O volume singular da edícula é o elemento de base da arquitetura. A articulação entre volumes é a linguagem da composição arquitetônica. Numa composição arquitetônica tradicional, cada volume é claramente delimitado, tem uma forma geométrica clara, e é articulado de modo autônomo. Ao mesmo tempo, todos os volumes de...","categories": [],
-        "tags": [],
-        "url": "/tau0005/trabalho/volumes/",
-        "teaser": null
-      },{
         "title": "Analítico com ordens clássicas",
         "excerpt":"Projetar é compor, mas para compor é preciso ter objetos a serem compostos: para os arquitetos, estes são os “elementos da arquitetura”. Harbeson, The study of architectural design, 1926, p. 27. Ementa O estudo analítico tem sido a porta de entrada no estudo do classicismo desde a organização do ensino na...","categories": [],
         "tags": [],
         "url": "/tau0005/trabalho/classico/",
+        "teaser": null
+      },{
+        "title": "Composição com volumes",
+        "excerpt":"Ementa O volume singular da edícula é o elemento de base da arquitetura. A articulação entre volumes é a linguagem da composição arquitetônica. Numa composição arquitetônica tradicional, cada volume é claramente delimitado, tem uma forma geométrica clara, e é articulado de modo autônomo. Ao mesmo tempo, todos os volumes de...","categories": [],
+        "tags": [],
+        "url": "/tau0005/trabalho/volumes/",
         "teaser": null
       }]
