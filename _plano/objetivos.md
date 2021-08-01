@@ -3,6 +3,8 @@ title: "O que você vai aprender"
 date: 2021-07-20
 ---
 
+<section>
+
 O objetivo da disciplina é conferir um domínio operativo da arquitetura
 tradicional em geral, e da linguagem clássica em particular, enquanto
 ferramentas de análise e produção sustentável e resiliente do
@@ -14,7 +16,7 @@ Introdução à disciplina
 ~ *Dominar algumas convenções fundamentais da arquitetura tradicional e
   da sua representação gráfica.*
 
-[Atividade](../_trabalho/analitico.md) <!--_,-->
+[Atividade](../_trabalho/cabana.md) <!--_,-->
 ~ Cabana primitiva
 
 I.  Elementos da construção
@@ -32,7 +34,7 @@ II. Elementos de composição
       elementos da construção tradicional e a tipologia edilícia para
       dar forma e caráter a esses espaços.
 
-[Atividade](../_trabalho/quincunx.md) <!--_,-->
+[Atividade](../_trabalho/volumes.md) <!--_,-->
 ~ Composição com volumes
 
 III. Fazer arquitetura
@@ -45,3 +47,4 @@ III. Fazer arquitetura
 [Atividade](../_trabalho/classico.md) <!--_,-->
 ~ Analítico com ordens clássicas
 
+</section>

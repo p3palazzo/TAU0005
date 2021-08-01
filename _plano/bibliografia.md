@@ -3,6 +3,8 @@ title: "Leitura e estudo"
 date: 2021-07-20
 ---
 
+<section>
+
 Como estamos trabalhando a distância, a leitura e o estudo individual
 são componentes centrais da nossa disciplina. Não espere que a
 videoconferência vá suprir todo o conteúdo do qual você precisa para
@@ -10,6 +12,8 @@ adquirir as competências e realizar as atividades! Antes, a
 videoconferência é uma ocasião para esclarecer dúvidas sobre pontos do
 conteúdo e sobre a aplicação desse conhecimento nas tarefas. Por isso,
 trate sempre de fazer as leituras com antecedência.
+
+</section>
 
 # Notas de aula #
 

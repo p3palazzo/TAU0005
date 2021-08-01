@@ -1,0 +1,190 @@
+---
+---
+
+/*
+ * This SASS file customizes the appearance of a Reveal.js slideshow generated
+ * from Pandoc and hosted via Jekyll. It requires a _settings.scss file
+ * declaring custom variables and font-faces. It assumes
+ * reveal.js is loaded as a submodule at the root of the repo. The triple
+ * dashes at the top are there for compatibility with Jekyll.
+ */
+
+// First, load default mixins and settings -----
+// Then override theme settings ----------------
+@import "slides/reveal.js/css/theme/template/mixins",
+        "slides/reveal.js/css/theme/template/settings",
+        "revealjs-settings",
+        "slides/reveal.js/css/theme/template/theme";
+
+// Start with settings that apply everywhere ---
+html {
+  font-size: $mainFontSize;
+  font-variant: oldstyle-nums proportional-nums;
+}
+.smallcaps { // Declare before @extends that depend on it.
+  font-variant: all-small-caps;
+}
+
+.reveal {
+  // Elements ------------------------------------
+  // Provide a soft background knockout that disappears
+  // in front of the default background color.
+  blockquote,
+  div.fragment,
+  div.subfigures > p,
+  dl,
+  figcaption,
+  h1, h2, h3, h4, h5,
+  ol, ul,
+  .box {
+    background: transparentize($backgroundColor, 0.3);
+    backdrop-filter: blur(5px);
+  }
+  dt, h3, h4, h5 {
+    @extend .smallcaps;
+    font-size: $heading2Size;
+    font-weight: 500;
+  }
+  dd {
+    display: none;
+  }
+  blockquote,
+  ol, ul {
+    font-size: $heading3Size;
+    font-style: normal;
+    margin-left: 15%;
+    margin-right: 15%;
+    padding: 1.4rem;
+    footer {
+      text-align: right;
+      font-style: italic;
+      cite {
+        font-style: italic;
+      }
+    }
+    li {
+      margin-left: 2rem;
+    }
+  }
+  li::before,
+  td {
+    font-variant: tabular-nums;
+  }
+  // Subfigures are a nice feature of Pandoc-crossref. We use them
+  // inside column layouts.
+  figcaption,
+  div.subfigures > p:last-of-type {
+    padding: 8px 2.5%; // 2.5% + 45% + 2.5% = 50% column width.
+    position: fixed;
+    bottom: 2.5%;
+    max-width: 60%;
+    text-align: left;
+  }
+
+  // Section and heading modifiers ---------------
+  box-shadow: inset 0 0 5em 1em darken($backgroundColor, 0.3);
+  h1, h2 {
+    font-variant: lining-nums proportional-nums titling-caps;
+    text-shadow: $headingTextShadow;
+  }
+  section {
+    &.green {    // For when we want transparent slides, use green screen.
+      background-color: #00ff00;
+    }
+    &.has-dark-background,
+    &#title-slide {
+      height: 100vh;
+      color: $backgroundColor;
+      * {
+        background: none;
+        border: none;
+        color: $backgroundColor;
+        font-family: $headingFont;
+        font-variant: lining-nums proportional-nums titling-caps;
+        font-weight: $headingFontWeight;
+        letter-spacing: $headingLetterSpacing;
+        text-shadow: $heading1TextShadow;
+        text-transform: $headingTextTransform;
+      }
+      h1 {
+        position: fixed;
+        left: 0;
+        right: 0;
+        bottom: 50%;
+      }
+      p.author,
+      p.subtitle {
+        position: fixed;
+        left: 0;
+        right: 0;
+        text-align: center;
+      }
+      p.subtitle {
+        top: 10%;
+      }
+      p.author {
+        bottom: 10%;
+      }
+      p.date {
+        display: none;
+      }
+    }
+    // Hide images and text we can't put into presenter notes.
+    // Prefer images as backgrounds so they fill the entire slide.
+    dd,
+    & > div.iframe-wrapper,
+    & > div.fullwidth > figure,
+    & > figure {
+      & > iframe,
+      & > img,
+      & > video {
+        display: none;
+        visibility: hidden;
+      }
+    }
+  }
+
+  // Classes -------------------------------------
+  // Try to fit columns as best as we can.
+  // Images and captions not doing too well so far.
+  .columns {
+    margin-top: -20px;
+  }
+  .column figure {
+    object-fit: contain;
+    margin: 0;
+    padding: 0;
+    img {
+      margin: 0;
+      height: auto;
+      width: auto;
+      max-height: 100%;
+      max-width: 100%;
+    }
+    figcaption {
+      // Workaround assuming we'll only ever have 2 columns per slide.
+      width: inherit;
+      max-width: 45%;
+    }
+  }
+  .epigraph > blockquote > p {
+    font-style: italic;
+  }
+  // Remove background from fragment elements, otherwise we'd have
+  // superimposed semi-transparent backgrounds.
+  .fragment {
+    * {
+      background: transparent;
+    }
+  }
+  // Make bibliography readable. Combine with .allowframebreaks to
+  // split across pages.
+  .references {
+    text-align: left;
+    margin: 0 20%;
+    .csl-entry {
+      padding: 8px 0;
+    }
+  }
+}
+// vim: set foldmethod=indent :

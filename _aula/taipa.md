@@ -11,11 +11,15 @@ toc:
   - Fundações
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg
+  caption: "Thomas Cole, The Course of Empire: The Arcadian or Pastoral State, 1836"
+  actions:
+  - label: "Slides"
+    url: "/slides/taipa/"
 ---
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg"}
-
-![Thomas Cole, The Course of Empire: The Arcadian or Pastoral State, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian .fullwidth}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O contato com a Natureza justifica a racionalidade da técnica em
@@ -28,6 +32,8 @@ uso eficiente dos materiais de construção, e a convenção *social* da
 religião organizada, que permite reunir o esforço coletivo necessário à
 execução da obra.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Thomas Cole, The Course of Empire: The Arcadian or Pastoral State, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian .fullwidth}
 
 # Materiais da construção tradicional {#materiais}
 
@@ -461,7 +467,7 @@ rituais: desde sacrifícios religiosos até sepultamentos humanos.
 <!--_,-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Cortes do túmulo de Maeshowe. [Fantoman400, 2006](https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif){#fig:maeshowe-sec .marginnote}
+![Cortes do túmulo de Maeshowe. [Fantoman400, 2006](https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif){#fig:maeshowe-sec .marginnote .line}
 
 Nas ilhas Órcades, o túmulo neolítico de Maeshowe, de c. 2800 a.C., tem
 uma câmara central quadrada, com 4 metros de lado, debaixo de um
@@ -514,7 +520,7 @@ aprimoramentos, até o século [XVI]{.smallcaps} d.C.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png" data-background-size="contain"}
 
-![Detalhe da estrutura de uma casa semienterrada, período Jōmon tardio](https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png){#fig:jomon-detail}
+![Detalhe da estrutura de uma casa semienterrada, período Jōmon tardio](https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png){#fig:jomon-detail .line}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/fc/Tomba_dei_Rilievi_(Banditaccia).jpg"}
 
@@ -958,7 +964,7 @@ tende a apodrecer com facilidade (@fig:abscC).
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Corte esquemático de uma parede da antiga Mesopotâmia construída em adobe com fundação em pedra, segundo Anastasio, *Building Between the Two Rivers*, 59](https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png){#fig:anastasio59 .nobg .marginnote}
+![Corte esquemático de uma parede da antiga Mesopotâmia construída em adobe com fundação em pedra, segundo Anastasio, *Building Between the Two Rivers*, 59](https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png){#fig:anastasio59 .marginnote}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A deterioração de fundações em madeira, muito frequente no Brasil,
@@ -986,7 +992,7 @@ reduzir o acúmulo de umidade (@fig:valpa).
 ## {.unlisted data-background-iframe="https://player.vimeo.com/video/62772222?autoplay=1"}
 
 ::::::::::::::::::::::::::::::::::::::::::::: {#fig:bitresh .iframe-wrapper .fullwidth}
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/62772222?autoplay=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<iframe src="https://player.vimeo.com/video/62772222?autoplay=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Bit Resh, o templo de Anu e Antum em Uruk. Iniciado no século
 [XV]{.smallcaps} a.C. Reconstituição do estado no período selêucida,
