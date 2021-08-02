@@ -322,6 +322,8 @@ defaults:
       layout: single
       show_date: true
       toc: true
+      header:
+        overlay_filter: 0.3
   # _posts
   - scope:
       path: ""
