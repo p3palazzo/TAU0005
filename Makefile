@@ -34,6 +34,7 @@ slides/%/index.html : _aula/%.md revealjs.yaml \
 	@$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
 	@echo $(@D)
 
+.PRECIOUS : assets/css/revealjs-main.scss assets/css/main.scss
 assets/css/%.scss : _sass/%.scss
 	@-mkdir -p assets/css
 	@cp $< $@
