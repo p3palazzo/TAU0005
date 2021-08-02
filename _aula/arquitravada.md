@@ -5,7 +5,7 @@ item    : "II"
 author  : "Pedro P. Palazzo"
 date    : 2021-08-10
 toc:
-  - Da forquilha ao pórtico
+  - Tendas e cabanas
   - Colunas e vigas
   - Assoalhos e terraços
   - Da madeira à pedra
@@ -19,7 +19,7 @@ header:
     url: "/slides/arquitravada/"
 ---
 
-# Da forquilha ao pórtico {data-background-color="#0f0"}
+# Tendas e cabanas {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#0f0"}
 
@@ -83,32 +83,41 @@ de caça ou de expedições militares (@fig:marines).
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/34/28/d6/3428d678b34b3e3448a6d7dd0f51045e.jpg"}
 
-![*Mudhif* (morada dos Ma'dan), sul do Iraque](https://i.pinimg.com/originals/34/28/d6/3428d678b34b3e3448a6d7dd0f51045e.jpg){#fig:mudhif-ext}
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[Na sua essência,]{.newthought} a concepção estrutural da tenda é um
+sistema de pórticos radiais ou alinhados.
 A simplicidade extrema das tendas é uma vantagem em se tratando de
-abrigos temporários. Algumas raras tradições arquitetônicas usam tipos
-derivados da tenda como habitações permanentes; além das iurtas do norte
-da Ásia, o exemplo mais notável é o das comunidades Ma'dan no sul da
-Mesopotânia, mais conhecidas como os "árabes do pântano"
-(@fig:mudhif-ext).
+abrigos temporários. Por outro lado, algumas tradições arquitetônicas
+usam tipos derivados da tenda como habitações permanentes; além das
+iurtas do norte da Ásia, o exemplo mais notável é o das comunidades
+Ma'dan no sul da Mesopotânia, mais conhecidas como os "árabes do
+pântano" (@fig:mudhif-ext).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/5b/1e/86/5b1e86330939e6262c84d74e2e500dda.jpg"}
-
-![Interior de um *mudhif*. Foto: [Ikhlas Abbis](http://www.abbis.photo/portfolio/architecture/)](https://i.pinimg.com/originals/5b/1e/86/5b1e86330939e6262c84d74e2e500dda.jpg){#fig:mudhif-int .marginnote}
-
-Na sua essência, a concepção estrutural da tenda é um sistema de
-pórticos radiais ou alinhados...
+![*Mudhif* (morada dos Ma'dan), sul do Iraque](https://i.pinimg.com/originals/34/28/d6/3428d678b34b3e3448a6d7dd0f51045e.jpg){#fig:mudhif-ext}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/2d/2e/33/2d2e33d53242aa4865f1430d1b6abb47.jpg"}
 
 ![Construção de um *mudhif*. Foto: [Jassim Alasadi](https://www.theguardian.com/cities/2020/jan/15/the-case-for-making-low-tech-dumb-cities-instead-of-smart-ones)](https://i.pinimg.com/originals/2d/2e/33/2d2e33d53242aa4865f1430d1b6abb47.jpg){#fig:mudhif-build}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Os *mudhif*, as moradas dos Ma'dan, são construídas
-com feixes de juncos em forma de arcos, revestidos com mais juncos
-(@fig:mudhif-build). O uso do mesmo material para a estrutura e o
+Os *mudhif*, as moradas dos Ma'dan, são construídas com feixes de juncos
+em forma de arcos, revestidos com mais juncos (@fig:mudhif-build). Os
+pórticos arqueados do *mudhif* são razoavelmente rígidos no seu próprio
+plano; os feixes de juncos do revestimento fazem o contraventamento no
+plano ortogonal ao dos pórticos (@fig:mudhif-croquis).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png" data-background-size="contain"}
+
+![Esquema estrutural de um *mudhif*](https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png){#fig:mudhif-croquis .line}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/5b/1e/86/5b1e86330939e6262c84d74e2e500dda.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+
+![Interior de um *mudhif*. Foto: [Ikhlas Abbis](http://www.abbis.photo/portfolio/architecture/)](https://i.pinimg.com/originals/5b/1e/86/5b1e86330939e6262c84d74e2e500dda.jpg){#fig:mudhif-int .marginnote}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O uso do mesmo material para a estrutura e o
 revestimento lembra uma versão orgânica das construções em alvenaria,
 mas a lógica do esqueleto estrutural, que não se diferencia em apoios
 verticais e elementos de cobertura distintos entre si, remete ao tipo da
@@ -119,7 +128,7 @@ tenda (@fig:mudhif-int).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Em contraste com o tipo da tenda,]{.newthought} o tipo da cabana se
-caracteriza por uma sequência de armações estruturais em duas dimensões.
+caracteriza por uma sequência de armações estruturais em duas dimensões (ver @fig:chambers-huts).
 Essas armações podem ser iguais ou diferentes entre si, mas são sempre
 formadas por dois grupos de componentes claramente distintos: primeiro,
 pilares ou esteios que formam os principais apoios verticais à
@@ -128,22 +137,33 @@ ou seja, em flexão, as cargas recebidas dos assoalhos e coberturas para
 os apoios verticais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/13/51/34/13513400d4dbe8f1bb791c84b35d325b.jpg"}
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg"}
+
+![Thomas Cole, *The Course of Empire: The Savage State*, 1834](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg){#fig:cole-savage}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Portanto, só porque tanto a tenda quanto a cabana são construídas em
 madeira não quer dizer que a cabana é de algum modo uma *evolução* ou
 aprimoramento da tenda. Esses tipos representam, como já disse
 Quatremère de Quincy no final do século [XVIII]{.smallcaps}, modos de
-vida diferentes. A maioria das sociedades que constroem tendas é nômade
-ou seminômade; todas as sociedades que constroem cabanas, ou são
+vida e tradições construtivas diferentes. A maioria das sociedades que
+constroem tendas é nômade ou seminômade, em geral caçadores-coletores
+como os que estão representados na pintura de Thomas Cole intitulada *O
+estado selvagem*, parte da série sobre *O decurso do império*
+(@fig:cole-savage).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/13/51/34/13513400d4dbe8f1bb791c84b35d325b.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Pelo contrário, todas as sociedades que constroem cabanas, ou são
 totalmente sedentárias num único sítio, ou alternam numa escala sazonal
 entre dois sítios fixos. Essa alternância sazonal é chamada de
 transumância, e caracteriza muitas comunidades tradicionais em todos os
 continentes, por exemplo na região do Sael (@fig:transh).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Padrões de transumância no Sael. [OCDE, 2014](http://www.food-security.net/en/map-library/transhumance-and-nomadism/){.smallcaps}](https://i.pinimg.com/originals/13/51/34/13513400d4dbe8f1bb791c84b35d325b.jpg){#fig:transh .fullwidth}
+![Padrões de transumância no Sael. [OCDE, 2014](http://www.food-security.net/en/map-library/transhumance-and-nomadism/){.smallcaps}](https://i.pinimg.com/originals/13/51/34/13513400d4dbe8f1bb791c84b35d325b.jpg){#fig:transh}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png" data-background-size="contain" data-background-position="center"}
 
@@ -157,10 +177,12 @@ adoção desses modos de vida por caçadores-coletores começou entre 25 e
 15 mil anos atrás em três regiões muito distantes e diferentes entre si:
 as planícies do centro-norte da Europa, as florestas temperadas em volta
 dos mares Amarelo e do Japão, no nordeste da Ásia, e as encostas
-subtropicais do Crescente fértil, na Mesopotâmia (@fig:sedentism).
+subtropicais do Crescente fértil, na Mesopotâmia (@fig:sedentism). Algum
+tempo mais tarde, a vida sedentária começa a ser adotada também em
+várias partes do continente americano.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain" data-background-position="center"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain"}
 
 ![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .marginnote .line}
 
@@ -173,8 +195,12 @@ num muro de arrimo semicircular e era provavelmente coberto com um
 sistema de esteios fincados verticalmente no chão, que sustentavam uma
 cobertura de caibros. O esforço de planejamento e execução dessa
 construção indica que esse sítio devia ser ocupado, talvez não de modo
-permanente, mas pelo menos em temporadas estendidas.
+permanente, mas pelo menos em temporadas longas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted data-background-image="https://indo-european.eu/wp-content/uploads/2021/01/4-mesolithic-early.jpg" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Eynan é um sítio do período mesolítico, ou seja, da transição entre as
 sociedades de caçadores-coletores do paleolítico e as sociedades de
 agricultores e pastores do neolítico. Transição, nesse caso, não
@@ -188,10 +214,14 @@ Logo, esse abrigo não tem absolutamente nenhuma relação com a concepção
 estrutural das tendas, onde essa distinção não existe.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-color="#0f0"}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+![Culturas e populações do mesolítico inicial na Eurásia. [Carlos Quiles, 2021](https://indo-european.eu/maps/mesolithic-early/)](https://indo-european.eu/wp-content/uploads/2021/01/4-mesolithic-early.jpg){#fig:mesolithic}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/arquitraves.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A construção arquitravada segundo o tipo tradicional da cabana
+[A construção arquitravada]{.newthought} segundo o tipo tradicional da cabana
 aproveita as características do desempenho estrutural da madeira. Essas
 características são a *alta* resistência da madeira tanto à compressão
 quanto à flexão --- sempre na direção das fibras --- e a sua *baixa*
@@ -203,136 +233,114 @@ apoiar as extremidades das vigas sobre os pilares, assim como para ligar
 a cobertura ao sistema pilares--viga.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-color="#0f0"}
+![Forças na construção arquitravada: (a) compressão axial; (b) flexão; (c) cisalhamento](https://hcommons.org/app/uploads/sites/1002372/2021/08/arquitraves.png){#fig:arqui-for .line}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wutai_Nanchan_Si_2013.08.28_13-45-34.jpg/2560px-Wutai_Nanchan_Si_2013.08.28_13-45-34.jpg"}
+
+![Monte Wutai, Nanchansi, salão maior, 782 d.C. Foto: [Zhang Zhugang, 2013](https://commons.wikimedia.org/wiki/File:Wutai_Nanchan_Si_2013.08.28_13-45-34.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wutai_Nanchan_Si_2013.08.28_13-45-34.jpg/1280px-Wutai_Nanchan_Si_2013.08.28_13-45-34.jpg){#fig:nanchansi}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Dentre as inúmeras variações sobre o tema da construção arquitravada em
 madeira por todo o mundo, três tradições construtivas são especialmente
 interessantes para nós: o sistema altamente refinado e minuciosamente
-codificado da arquitetura chinesa, as moradas com um único pórtico
-central dos povos que vivem nas depressões do sul da bacia Amazônica, e
-as tradições de construção arquitravada no Mediterrâneo oriental. Das
-três, esta última, a tradição do Mediterrâneo oriental, é a única que
-está praticamente extinta na sua forma original em madeira. Mas ela é,
-também, a que deixou o legado mais dominante na arquitetura dos últimos
-2500 anos, um legado que foi codificado e imortalizado em pedra: a
-arquitetura clássica greco-romana.
+codificado da arquitetura chinesa (@fig:nanchansi), as moradas com
+pórtico central dos povos que vivem nas depressões do sul da bacia
+Amazônica (@fig:lagartixa), e as tradições de construção arquitravada no
+Mediterrâneo oriental.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/br-kamayura-lagartixa-190812.jpg"}
 
-![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote}
+![Casa lagartixa em construção, mostrando o pórtico central. [*Manual de arquitetura kamayurá*, 2019]](https://hcommons.org/app/uploads/sites/1002372/2021/08/br-kamayura-lagartixa-190812.jpg){#fig:lagartixa}
+
+[*Manual de arquitetura kamayurá*, 2019]: https://www.archdaily.com.br/br/923178/manual-de-arquitetura-kamayura
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="512px 512px" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
+
+![Distribuição originária da tradição arquitravada dita "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:classical-heartland .nobg .marginnote}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[A arquitetura clássica]{.newthought} é, em última análise, a razão de
-ser dos mitos sobre a cabana primitiva que vimos [mais
-acima](02-primordios.md). Por isso, não é de surpreender que esses mitos
-favoreçam a tradição da Grécia antiga como descendente privilegiada da
-construção arquitravada em madeira, na sua versão primordial imaginária.
-A alegoria iluminista contada por Laugier na metade do século
-[XVIII]{.smallcaps} [@laugier:1753essai] é explícita em associar a
-invenção *racional* da cabana primitiva com a pretensão de superioridade
-da arquitetura clássica e neoclássica (@fig:laugier).
+Das três, esta última, a tradição do Mediterrâneo oriental
+(@fig:classical-heartland), é a única que está praticamente extinta na
+sua forma original em madeira. Mas ela é, também, a que deixou o legado
+mais dominante na arquitetura dos últimos 2500 anos, um legado que foi
+codificado e imortalizado em pedra: a arquitetura clássica greco-romana.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png" data-background-size="contain"}
+# Colunas e vigas {data-background-color="#0f0"}
 
-![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .marginnote .line}
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A precedência da tradição grega nas histórias gerais da arquitetura é
-tão forte e tão pouco questionada que ela acaba sendo vista como um
-tronco totalmente autônomo, por exemplo na famosa "árvore da
-arquitetura" esquematizada por Banister Fletcher da terceira edição do
-seu livro-texto em diante (@fig:treearch). O *milagre grego* da
-arquitetura clássica é quase tão universalmente aceito, e quase tão
-estereotipado, quanto o *milagre* da filosofia grega.
+A tradição arquitravada do Mediterrâneo oriental geralmente
+combina um sistema de colunas em madeira com paredes em alvenaria, que
+servem de divisórias no espaço mas também costumam ter função estrutural
+(ver @fig:chipiez-208). As colunas propriamente ditas são, na sua
+origem, troncos de árvores.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="contain" data-background-position="center"}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/constru/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm" data-background-video-muted="true"}
 
-![Região de origem da construção arquitravada "clássica". Desenho: Pedro P. Palazzo](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:medor .marginnote .nobg}
+![Floresta de cedros em Tannourine, Líbano. Filmagem: [Çağatay Erciyes, 2017]](https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/constru/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm){#fig:cedro}
+
+[Çağatay Erciyes, 2017]: https://youtu.be/lnUGg4IDhxw
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Por causa disso, é fácil esquecer que a arquitetura grega faz parte de
-uma tradição mais ampla de construção em madeira no Mediterrâneo
-oriental e no Crescente fértil. Essa tradição pode ser associada a uma
-faixa de montanhas e planaltos arborizados que vai da Pérsia até a
-Itália, passando pela Anatólia e pela Grécia (@fig:medor). A partir do
-final da Idade do Bronze, por volta do século [XIII]{.smallcaps} a.C.,
-essas regiões começam a desenvolver certos modos de construir com
-colunas e vigas em madeira, geralmente associadas a paredes de vedação
-em alvenaria.
+A possibilidade, ou a necessidade, de usar
+troncos de tamanhos específicos determinava as dimensões, mas também as
+proporções das colunas: mais esbeltas onde se usavam árvores mais finas,
+como pinheiros; mais grossas quando se tinha cedro ou carvalho à
+disposição. O uso descontrolado da madeira de cedro, sobretudo
+proveniente do Líbano (@fig:cedro), e de outras essências, primeiro para
+a construção civil e mais adiante para a construção naval, foi uma das
+principais causas de desmatamento na região do Crescente fértil e na
+Grécia ainda na Antiguidade; esse desmatamento pode até mesmo ter
+alterado o clima na região, com consequências que se prolongam até hoje.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A tradição construtiva arquitravada do Mediterrâneo oriental se baseia
-em colunas feitas de troncos de árvores, que sustentam vigas mestras
-pesadas, também chamadas de arquitraves, daí o nome do sistema. O modelo
-típico desse sistema foi sintetizado pelo francês Charles Chipiez e pelo
-alemão Josef Durm, ambos professores de arquitetura, no final do século
-[XIX]{.smallcaps} [@chipiez:1876histoire; @durm:1910baukunst]. O modelo
-de Chipiez procurava integrar todas as tradições arquitravadas da
-região, desde a Pérsia até a Grécia, passando pela costa do Levante,
-pelo Egito e pela Anatólia (@fig:chipiez-compare).
+Por causa do uso de troncos nas origens dessa tradição, as colunas têm
+uma contratura elegante, onde o diâmetro superior é ligeiramente menor
+do que o diâmetro inferior. Essa contratura é feita com um perfil em
+curva suave, chamado de êntase. Num antigo canteiro de obra grego, foi
+descoberto um diagrama que mostra o método de construção geométrica
+dessa curva, numa escala distorcida verticalmente; esse método já tinha
+sido intuído pelo arquiteto italiano Fra Giocondo no século
+[XVI]{.smallcaps}, muito antes da descoberta desse diagrama
+(@fig:entasis).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-!["Ordens" de colunas egípcias, persas e jônicas gregas, segundo Chipiez, 1876](https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png){#fig:chipiez-compare .fullwidth .line}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg"}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
-
-![Cabana vernácula na Anatólia com colunata dianteira, segundo Chipiez, 1876](https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png){#fig:chipiez-208 .stretch .marginnote .line}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A proposta de Chipiez e Durm postula um sistema que é, na verdade, uma
-regressão conceitual a partir da arquitetura etrusca e grega dos
-períodos arcaico e clássico, nos séculos [VI]{.smallcaps} a
-[IV]{.smallcaps} a.C. Só que essa proposta é uma regressão conceitual a
-partir da construção em pedra, buscando reconstituir um estado
-originário ideal em madeira. Desse ponto de vista, o modelo de Durm não
-é muito diferente do mito da cabana primitiva proposto por Laugier quase
-150 anos antes (ver @fig:laugier), apesar de ser um pouco mais
-fundamentada em estudos de campo.
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+![Esquema da êntase de uma coluna clássica, na edição do tratado de Vitrúvio por Fra Giocondo, século [XVI]{.smallcaps} (redesenhado no século [XX]{.smallcaps})](https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png){#fig:entasis .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png" data-background-size="contain"}
+## {.unlisted data-background-image="https://www.inha.fr/_contents/ametys-internal%253Asites/inha/ametys-internal%253Acontents/le-sanctuaire-d-ise-actualite-2/_metadata/illustration/image/CYCLE_Hist_Archi_Livre-archi_Reumaux_ill_sanctuaire%2520isle%25202_350dpi.jpg?objectId=defaultWebContent://20159712-6c78-420a-a4dc-07ebd9377a83"}
 
-![Cabana vernácula na Anatólia com colunata perimetral, segundo Chipiez, 1876](https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png){#fig:chipiez-209 .stretch .marginnote .line}
+![Pavilhão principal do recinto interior, santuário de Ise, Japão, última reconstrução em 2013. Foto: [Ise Jingū]](https://www.inha.fr/_contents/ametys-internal%253Asites/inha/ametys-internal%253Acontents/le-sanctuaire-d-ise-actualite-2/_metadata/illustration/image/CYCLE_Hist_Archi_Livre-archi_Reumaux_ill_sanctuaire%2520isle%25202_350dpi.jpg?objectId=defaultWebContent://20159712-6c78-420a-a4dc-07ebd9377a83){#fig:naiku}
+
+[Ise Jingū]: https://www.isejingu.or.jp/en/about/index.html
+
+<!--_,-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Chipiez, em particular, reporta as origens da tradição arquitravada do
-Mediterrâneo oriental a certas cabanas que subsistiam ainda, no século
-[XIX]{.smallcaps}, na Anatólia ([@fig:chipiez-208; @fig:chipiez-209]).
-Mesmo que a evidência histórica dessa genealogia seja frágil, para dizer
-o mínimo, ela é relevante do ponto de vista da lógica de montagem da
-construção arquitravada. Por isso, vamos partir desses exemplos citados
-por Chipiez para descrever as características fundamentais dessa
-tradição arquitravada.
+Algumas construções monumentais muito antigas usavam pilares feitos de
+grandes troncos de árvores diretamente fincados no chão. Talvez fosse o
+caso da estrutura de madeira que fazia parte do monumento megalítico de
+Stonehenge. No Japão atual, a arquitetura do santuário de Ise afeta essa
+solução arcaizante (@fig:naiku); o santuário é reconstruído a cada 20
+anos desde o século [VII]{.smallcaps} d.C. seguindo a mesma técnica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Comecemos pelas fundações.]{.newthought} O senso comum entre os
-tratadistas da arquitetura clássica, pelo menos da Roma antiga ao
-Renascimento, é que se deve cavar uma vala até encontrar uma camada de
-solo compacto. O que isso significa exatamente não é muito claro, e
-naturalmente depende da experiência empírica dos construtores. Encontrar
-o solo compacto é relativamente fácil nos sítios rochosos da maioria das
-cidades na Grécia antiga, nem tanto nas planícies que os romanos ocupam.
-
-O arquiteto do Renascimento italiano Andrea Palladio trabalhava na
-região de Veneza, uma área de solo pantanoso, sem nenhuma firmeza; por
-isso, ele indicava pavimentar o fundo da vala com lajes largas de pedra
-ou tábuas e vigas em madeira, para distribuir a carga de modo mais
-uniforme [@palladio:1738four, 7]. Outra prática tradicional em terrenos
-sem resistência é cravar estacas feitas de troncos de árvores no fundo
-da vala. Essa prática deu origem às fundações indiretas modernas, com
-estacas de concreto.
+Os troncos fincados diretamente no chão apodrecem com facilidade. Por
+isso, é mais comum estabelecer uma fundação ligeiramente elevada com
+respeito à cota do terreno. Já vimos antes como fazer fundações cavando
+valas e, se necessário, cravando estacas antes de construir os
+alicerces.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Peru_-_Flickr_-_Jarvis-31.jpg/1280px-Peru_-_Flickr_-_Jarvis-31.jpg"}
@@ -376,71 +384,35 @@ raramente está no nível natural do terreno; na construção arquitravada,
 ela é quase sempre soerguida --- seja num pódio, como é o caso da
 arquitetura persa e na Itália, seja sobre alguns degraus, como na Grécia
 (@fig:krepis). O pódio pertence mais propriamente à construção murária,
-da qual vamos tratar na próxima seção; já o *crepidoma* ou degraus vai
+da qual vamos tratar na próxima seção; já o *krepidoma* ou degraus vai
 merecer um tratamento mais detalhado junto com o sistema formal das
 ordens clássicas greco-romanas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Krepidoma do templo de Zeus, Stratos, Grécia, iniciado 321 a.C. Foto: [Rjdeadly, 2016](https://commons.wikimedia.org/wiki/File:Stratos_DSC04042.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stratos_DSC04042.jpg/1280px-Stratos_DSC04042.jpg){#fig:krepis}
 
-## {.unlisted data-background-color="#0f0"}
+## {.unlisted data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Estabelecidos os princípios conceituais e a base física para a
-construção arquitravada, vamos ver na próxima seção quais são os
-requisitos técnicos para a superestrutura em madeira ou pedra.
+Por mais que o estilóbata esteja elevado acima do terreno à sua volta,
+as colunas ainda têm quase sempre uma base em pedra. Essa base, um pouco
+mais larga do que o próprio fuste da coluna, evita que a madeira
+entre em contato com qualquer poça d'água que tivesse acumulado no
+estilóbata, e também ajudava a regularizar o assentamento da coluna
+sobre o piso.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-# Colunas e vigas {data-background-color="#0f0"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Resolvidas as fundações, podemos tratar da superestrutura
-do edifício. A tradição arquitravada do Mediterrâneo oriental geralmente
-combina um sistema de colunas em madeira com paredes em alvenaria, que
-servem de divisórias no espaço mas também costumam ter função estrutural
-(ver @fig:chipiez-208). As colunas propriamente ditas são, na sua
-origem, troncos de árvores.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-position="center" data-background-repeat="no-repeat" data-background-size="containj}
-
-A possibilidade, ou a necessidade, de usar
-troncos de tamanhos específicos determinava as dimensões, mas também as
-proporções das colunas: mais esbeltas onde se usavam árvores mais finas,
-como pinheiros; mais grossas quando se tinha cedro ou carvalho à
-disposição. O uso descontrolado da madeira de cedro e de outras
-essências, primeiro para a construção civil e mais adiante para a
-construção naval, foi uma das principais causas de desmatamento na
-região do Crescente fértil e na Grécia ainda na Antiguidade; esse
-desmatamento pode até mesmo ter alterado o clima na região, com
-consequências que se prolongam até hoje.
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png"}
-
-Por causa do uso de troncos nas origens dessa tradição, as colunas têm
-uma contratura elegante, onde o diâmetro superior é ligeiramente menor
-do que o diâmetro inferior. Essa contratura é feita com um perfil em
-curva suave, chamado de êntase. Num antigo canteiro de obra grego, foi
-descoberto um diagrama que mostra o método de construção geométrica
-dessa curva, numa escala distorcida verticalmente; esse método já tinha
-sido intuído pelo arquiteto italiano Fra Giocondo no século
-[XVI]{.smallcaps}, muito antes da descoberta desse diagrama
-(@fig:entasis).
-
-![Esquema da êntase de uma coluna clássica, na edição do tratado de Vitrúvio por Fra Giocondo, século [XVI]{.smallcaps} (redesenhado no século [XX]{.smallcaps})](https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png){#fig:entasis .fullwidth}
 
 ## {.unlisted data-background-image=""}
 
-Por mais que o estilóbata esteja elevado acima do terreno à sua volta,
-as colunas ainda têm quase sempre uma base em pedra. Essa base, um pouco
-mais larga do que o próprio fuste da coluna, evitava que a madeira
-entrasse em contato com qualquer poça d'água que tivesse acumulado no
-estilóbata, e também ajudava a regularizar o assentamento da coluna
-sobre o piso.
+![Fustes invertidos das colunas no palácio de Cnossos. Choisy](){#fig:knossos-choisy .line}
+
+Fustes invertidos são meio-termo entre pilares fincados no chão e
+colunas comuns.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png"}
 
-Do mesmo modo, o topo da coluna não encostaria diretamente na viga, mas
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Do mesmo modo, o topo da coluna não encosta diretamente na viga, mas
 é coroado com um capitel. Diferentes formas de capitéis correspondem a
 diferentes necessidades estruturais: mãos lineares para um lado ou para
 o outro ajudam a conter o cisalhamento nas extremidades das vigas
@@ -448,11 +420,13 @@ o outro ajudam a conter o cisalhamento nas extremidades das vigas
 regularizar o contato entre a coluna e a arquitrave; e capitéis em forma
 de U evitam o deslizamento das vigas para os lados, além de facilitar a
 sobreposição de vigas perpendiculares entre si.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Arquétipo em madeira da ordem toscana, segundo Chipiez, 1876](https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png){#fig:chipiez-159 .line}
 
 ## {.unlisted data-background-image=""}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Uma característica importante]{.newthought} do sistema arquitravado do
 Mediterrâneo oriental é que ele não tem nenhuma forma de
 contraventamento intrínseca à sua concepção estrutural. Todos os
@@ -465,11 +439,14 @@ carga horizontal, como nos terremotos que são bastante frequentes na
 região, derruba o edifício como se fosse uma torre de Jenga. Mesmo algum
 assentamento diferencial nas fundações poderia pôr em risco a
 estabilidade da construção.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image=""}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Duas soluções conjuntas resolvem o problema do contraventamento na
 construção arquitravada do Mediterrâneo oriental:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ### Redundância estrutural ###
 
@@ -686,7 +663,110 @@ portantes.
 
 # Da madeira à pedra #
 
-![Distribuição originária da tradição arquitravada dita "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:classical-heartland .nobg .marginnote}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-8.8.png"}
+
+![Fu Xinian, dois sistemas de composições arquitravadas: *diantang* das dinastias Tang e Song e salão oficial da dinastia Ming](https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-8.8.png){#fig:tang-song-ming .line}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-9.3.png"}
+
+![Fu Xinian, sistema de pórticos longitudinais no *tingtang* da dinastia Song](https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-9.3.png){#fig:tingtang .line}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[A arquitetura clássica]{.newthought} é, em última análise, a razão de
+ser dos mitos sobre a cabana primitiva que vimos [antes](processos.md).
+Por isso, não é de surpreender que esses mitos
+favoreçam a tradição da Grécia antiga como descendente privilegiada da
+construção arquitravada em madeira, na sua versão primordial imaginária.
+A alegoria iluminista contada por Laugier na metade do século
+[XVIII]{.smallcaps} [@laugier:1753essai] é explícita em associar a
+invenção *racional* da cabana primitiva com a pretensão de superioridade
+da arquitetura clássica e neoclássica (@fig:laugier).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png" data-background-size="contain"}
+
+![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .marginnote .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A precedência da tradição grega nas histórias gerais da arquitetura é
+tão forte e tão pouco questionada que ela acaba sendo vista como um
+tronco totalmente autônomo, por exemplo na famosa "árvore da
+arquitetura" esquematizada por Banister Fletcher da terceira edição do
+seu livro-texto em diante (@fig:treearch). O *milagre grego* da
+arquitetura clássica é quase tão universalmente aceito, e quase tão
+estereotipado, quanto o *milagre* da filosofia grega.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="contain" data-background-position="center"}
+
+![Região de origem da construção arquitravada "clássica". Desenho: Pedro P. Palazzo](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:medor .marginnote .nobg}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por causa disso, é fácil esquecer que a arquitetura grega faz parte de
+uma tradição mais ampla de construção em madeira no Mediterrâneo
+oriental e no Crescente fértil. Essa tradição pode ser associada a uma
+faixa de montanhas e planaltos arborizados que vai da Pérsia até a
+Itália, passando pela Anatólia e pela Grécia (@fig:medor). A partir do
+final da Idade do Bronze, por volta do século [XIII]{.smallcaps} a.C.,
+essas regiões começam a desenvolver certos modos de construir com
+colunas e vigas em madeira, geralmente associadas a paredes de vedação
+em alvenaria.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A tradição construtiva arquitravada do Mediterrâneo oriental se baseia
+em colunas feitas de troncos de árvores, que sustentam vigas mestras
+pesadas, também chamadas de arquitraves, daí o nome do sistema. O modelo
+típico desse sistema foi sintetizado pelo francês Charles Chipiez e pelo
+alemão Josef Durm, ambos professores de arquitetura, no final do século
+[XIX]{.smallcaps} [@chipiez:1876histoire; @durm:1910baukunst]. O modelo
+de Chipiez procurava integrar todas as tradições arquitravadas da
+região, desde a Pérsia até a Grécia, passando pela costa do Levante,
+pelo Egito e pela Anatólia (@fig:chipiez-compare).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+!["Ordens" de colunas egípcias, persas e jônicas gregas, segundo Chipiez, 1876](https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png){#fig:chipiez-compare .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg"}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
+
+![Cabana vernácula na Anatólia com colunata dianteira, segundo Chipiez, 1876](https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png){#fig:chipiez-208 .stretch .marginnote .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A proposta de Chipiez e Durm postula um sistema que é, na verdade, uma
+regressão conceitual a partir da arquitetura etrusca e grega dos
+períodos arcaico e clássico, nos séculos [VI]{.smallcaps} a
+[IV]{.smallcaps} a.C. Só que essa proposta é uma regressão conceitual a
+partir da construção em pedra, buscando reconstituir um estado
+originário ideal em madeira. Desse ponto de vista, o modelo de Durm não
+é muito diferente do mito da cabana primitiva proposto por Laugier quase
+150 anos antes (ver @fig:laugier), apesar de ser um pouco mais
+fundamentada em estudos de campo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png" data-background-size="contain"}
+
+![Cabana vernácula na Anatólia com colunata perimetral, segundo Chipiez, 1876](https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png){#fig:chipiez-209 .stretch .marginnote .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Chipiez, em particular, reporta as origens da tradição arquitravada do
+Mediterrâneo oriental a certas cabanas que subsistiam ainda, no século
+[XIX]{.smallcaps}, na Anatólia ([@fig:chipiez-208; @fig:chipiez-209]).
+Mesmo que a evidência histórica dessa genealogia seja frágil, para dizer
+o mínimo, ela é relevante do ponto de vista da lógica de montagem da
+construção arquitravada. Por isso, vamos partir desses exemplos citados
+por Chipiez para descrever as características fundamentais dessa
+tradição arquitravada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Bibliografia {.allowframebreaks}
 
