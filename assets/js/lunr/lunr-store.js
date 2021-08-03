@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Taipas e fundações",
-        "excerpt":"O contato com a Natureza justifica a racionalidade da técnica em particular e a autenticidade das práticas sociais em geral, como na cena pastoral da nossa já conhecida série de pinturas de Thomas Cole (fig. 1) que trata do Decurso do império. O monumento megalítico no promontório reúne duas credenciais que...","categories": [],
+        "excerpt":"Materiais da construção tradicional Os mitos de origem exercem uma atração especial sobre as teorias da arquitetura. A visão de mundo na qual os primórdios de algum modo explicam, e por que não justificam, o desenvolvimento histórico da cultura é recorrente não só em sociedades tradicionais, mas inclusive em movimentos...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/taipa/",
         "teaser": null
