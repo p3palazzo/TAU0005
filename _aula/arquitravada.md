@@ -166,9 +166,9 @@ continentes, por exemplo na região do Sael (@fig:transh).
 
 ![Padrões de transumância no Sael. [OCDE, 2014](http://www.food-security.net/en/map-library/transhumance-and-nomadism/){.smallcaps}](https://i.pinimg.com/originals/13/51/34/13513400d4dbe8f1bb791c84b35d325b.jpg){#fig:transh}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png" data-background-size="contain" data-background-position="center"}
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
 
-![Regiões de origem da vida sedentária: centro-norte da Europa, nordeste da Ásia e Crescente fértil. Desenho: [Pedro P. Palazzo](https://commons.wikimedia.org/wiki/File:Origins_of_sedentism.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png){#fig:sedentism .marginnote .nobg}
+![Regiões de origem da vida sedentária: centro-norte da Europa, nordeste da Ásia e Crescente fértil](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png){#fig:sedentism .marginnote .nobg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A vida transumante ou sedentária permite às comunidades investirem mais
@@ -256,7 +256,7 @@ Mediterrâneo oriental.
 
 [*Manual de arquitetura kamayurá*, 2019]: https://www.archdaily.com.br/br/923178/manual-de-arquitetura-kamayura
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="512px 512px" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
 
 ![Distribuição originária da tradição arquitravada dita "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:classical-heartland .nobg .marginnote}
 
@@ -303,9 +303,7 @@ Grécia ainda na Antiguidade; esse desmatamento pode até mesmo ter
 alterado o clima na região, com consequências que se prolongam até hoje.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://www.inha.fr/_contents/ametys-internal%253Asites/inha/ametys-internal%253Acontents/le-sanctuaire-d-ise-actualite-2/_metadata/illustration/image/CYCLE_Hist_Archi_Livre-archi_Reumaux_ill_sanctuaire%2520isle%25202_350dpi.jpg?objectId=defaultWebContent://20159712-6c78-420a-a4dc-07ebd9377a83"}
-
-<!--_,-->
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/sanctuaire-ise.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Algumas construções monumentais muito antigas usavam pilares feitos de
@@ -438,7 +436,7 @@ parecidas com as formas mais primitivas de cabanas em madeira no
 Mediterrâneo oriental como um todo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="512px 512px" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
 
 ![Região de origem da construção arquitravada "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:medor .marginnote .nobg}
 
@@ -463,7 +461,7 @@ da arquitetura clássica: elas demonstram a existência de uma tradição
 difundida e resiliente ao longo de pelo menos três milênios.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As cabanas de Chipiez também demonstram as proporções limite para
@@ -518,17 +516,12 @@ as construções em pedra não podem ter praticamente nenhum balanço
 estrutural (@fig:choisy-1.14a).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Pilares e lajes em pedra no Egito antigo. [Auguste Choisy, 1899]](https://upload.wikimedia.org/wikipedia/commons/d/d5/Choisy-bnf-bpt6k6417116t_0040.png){#fig:choisy-1.14a .line}
+![Pilares e lajes em pedra no Egito antigo. [Choisy, 1899]](https://upload.wikimedia.org/wikipedia/commons/d/d5/Choisy-bnf-bpt6k6417116t_0040.png){#fig:choisy-1.14a .line}
 
-[Auguste Choisy, 1899]: https://commons.wikimedia.org/wiki/Category:Histoire_de_l'architecture,_by_Auguste_Choisy_(1899)
+[Choisy, 1899]: https://commons.wikimedia.org/wiki/Category:Histoire_de_l'architecture,_by_Auguste_Choisy_(1899)
 
 <!--_,-->
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/3c/Gebälke-Durm_Baukunst_der_Griechen_abb.139.png" data-background-size="contain"}
-
-![Arquitraves de templos da Grécia arcaica e clássica. [Josef Durm, 1892]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gebälke-Durm_Baukunst_der_Griechen_abb.139.png/1280px-Gebälke-Durm_Baukunst_der_Griechen_abb.139.png){#fig:durm-139 .line}
-
-[Josef Durm, 1892]: https://commons.wikimedia.org/wiki/Category:Handbuch_der_Architektur_(1892)
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gebalk_des_Zeustempel_in_Athen-Durm_Baukunst_der_Griechen_abb.140.png" data-background-size="contain"}
 
@@ -542,7 +535,9 @@ arquitetura alemão Josef Durm (@fig:durm-140).
 
 ![Arquitrave do templo de Zeus Olímpico, Atenas, século [II]{.smallcaps} d.C. [Josef Durm, 1892]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gebalk_des_Zeustempel_in_Athen-Durm_Baukunst_der_Griechen_abb.140.png/1075px-Gebalk_des_Zeustempel_in_Athen-Durm_Baukunst_der_Griechen_abb.140.png){#fig:durm-140 .line}
 
-## {.unlisted data-background-image=""}
+[Josef Durm, 1892]: https://commons.wikimedia.org/wiki/Category:Handbuch_der_Architektur_(1892)
+
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os livros de Durm são manuais de construção tradicional exaustivos,
@@ -551,19 +546,168 @@ usando como base as tradições da Grécia clássica e dos etruscos
 em ambos e aprenderá muito sobre como montar uma estrutura arquitravada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Assoalhos e terraços #
+# Assoalhos e terraços {data-background-color="#0f0"}
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Num sistema arquitravado puro, por assim dizer, como nas tradições
+clássica e chinesa, as colunas são simplesmente apoiadas sobre as suas
+bases, e as arquitraves são apoiadas sobre as colunas. Já vimos que
+esses sistemas são bastante resistentes a cargas verticais (ver
+@fig:arqui-for), e agora vamos ver como torná-los resistentes também a
+esforços horizontais como o vento, terremotos (@fig:toji), ou mesmo a
+simples irregularidade de distribuição das cargas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/constru/arquitravada/Secret_of_the_Pagodas_Earthquake_Resistant_Design-uG37gQSvrf4-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
+
+::::::::::::::::::::::::::::::::: {.iframe-wrapper .fullwidth #fig:toji}
+<iframe src="https://www.youtube-nocookie.com/embed/uG37gQSvrf4?start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Comportamento estrutural de um pagode japonês num terremoto. Vídeo: [Science Channel, 2016]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Science Channel, 2016]: https://youtu.be/uG37gQSvrf4?t=88
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png" data-background-position="top"}
+
+![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük, c. 6500 a.C.](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A forma mais simples de contraventamento estrutural possível é construir
+um terraço rígido cobrindo a edificação. Na aldeia neolítica de Çatal
+Höyük, no sul da Anatólia, esse sistema é formado por uma sobreposição
+de vigas mestras (arquitraves), barrotes, uma manta de vime e um
+terrapleno espesso em terra batida, revestido com cal
+(@fig:catalhoyuk-build). Além disso, os esteios em madeira também são
+contraventados diretamente pelas paredes em blocos de adobe.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[Uma característica importante]{.newthought} do sistema arquitravado do
+Mediterrâneo oriental é que ele não tem nenhuma forma de
+contraventamento intrínseca à sua concepção estrutural. Todos os
+elementos construtivos, das bases das colunas aos barrotes, são
+simplesmente apoiados uns sobre os outros sem nenhum travamento
+substancial. Nenhum elemento diagonal vem dar rigidez à montagem de
+peças verticais e horizontais. Um esqueleto relativamente leve em
+madeira sem contraventamento é uma construção muito frágil; qualquer
+carga horizontal, como nos terremotos que são bastante frequentes na
+região, derruba o edifício como se fosse uma torre de Jenga. Mesmo algum
+assentamento diferencial nas fundações poderia pôr em risco a
+estabilidade da construção.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Duas soluções conjuntas resolvem o problema do contraventamento na
+construção arquitravada do Mediterrâneo oriental:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+1. Redundância estrutural
+
+2. Núcleo rígido
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A primeira solução é uma certa redundância no dimensionamento da
+estrutura. Essa redundância não é só uma margem de segurança no perfil
+de cada elemento tomado individualmente --- o diâmetro das colunas ou a
+seção das arquitraves e dos barrotes. Ainda assim, essa margem de
+segurança existe e não é pequena. A gama de proporções canônicas das
+ordens clássicas gregas, ou mesmo a das colunas persas, é um tanto
+conservadora (compare [@fig:chipiez-208; @fig:chipiez-compare]); uma
+parte disso tem a ver com a transposição de materiais da madeira para a
+pedra.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png"}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/3c/Gebälke-Durm_Baukunst_der_Griechen_abb.139.png" data-background-size="contain"}
+
+![Arquitraves de templos da Grécia arcaica e clássica. [Josef Durm, 1892]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gebälke-Durm_Baukunst_der_Griechen_abb.139.png/1280px-Gebälke-Durm_Baukunst_der_Griechen_abb.139.png){#fig:durm-139 .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A redundância vai além das dimensões das colunas: na arquitetura grega,
+as arquitraves costumam ser duplicadas ou mesmo triplicadas em
+profundidade, agregando mais um nível de redundância (@fig:durm-139).
+Outra forma de redundância estrutural está nos vãos: os intercolúnios (a
+distância entre os eixos das colunas) são bastante estreitos, e as
+proporções das colunatas egípcias, persas e gregas são muito
+verticalizadas (ver @fig:chipiez-compare).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/e9/75/60/e97560b20b57f958ed77019069bb7508.png" data-background-size="contain" data-background-position="center"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Além da redundância no dimensionamento da estrutura arquitravada, as
+tradições do Mediterrâneo oriental também usam elementos de
+contraventamento no sentido mais estrito. Os principais são as paredes
+em alvenaria que geralmente estão associadas à estrutura arquitravada.
+Um dos exemplos mais antigos e literais desse método é o chamado
+*heroön*, ou túmulo do herói, em Lefkandi, construído na Grécia no
+século [X]{.smallcaps} a.C. (@fig:lefkandi-axon).
+
+Nessa construção, temos duas colunatas em madeira com as suas
+arquitraves --- um períptero, ou ala que contorna o exterior da
+edificação, e uma colunata no eixo longitudinal, sustentando a viga de
+cumeeira. Além de as colunas estarem engastadas no solo, ambas as
+colunatas são ligadas por vigas secundárias a uma parede de adobe com
+fundações em pedra lavrada (@fig:lefkandi-section).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Axonométrica do túmulo dito *heroön* (tumba do herói), Lefkandi, Grécia, século [X]{.smallcaps} a.C.](https://i.pinimg.com/originals/e9/75/60/e97560b20b57f958ed77019069bb7508.png){#fig:lefkandi-axon .line}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/db/38/30/db3830c4766e6388653536ee1acac6b8.png" data-background-size="contain" data-background-position="center"}
+
+![Corte transversal do *heroön* de Lefkandi](https://i.pinimg.com/originals/db/38/30/db3830c4766e6388653536ee1acac6b8.png){#fig:lefkandi-section .line}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/gr-aphaia-lawrence.png" data-background-size="contain"}
+
+![Perspectiva analítica do templo de Afaia em Egina, século [V]{.smallcaps} a.C., segundo Lawrence](https://hcommons.org/app/uploads/sites/1002372/2021/08/gr-aphaia-lawrence.png){#fig:aphaia-lawrence .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O tipo construtivo do túmulo de Lefkandi é uma dentre muitas variações
+sobre o tema da combinação de colunatas em madeira com paredes em
+alvenaria que foram exploradas na Grécia do período geométrico, entre os
+séculos [X]{.smallcaps} e [VIII]{.smallcaps} a.C. Essas variações
+acabaram se consolidando em dois tipos predominantes que, a partir do
+final do século [VII]{.smallcaps}, deram origem às duas primeiras
+*ordens clássicas* em pedra: a dórica (@fig:aphaia-lawrence) e a jônica.
+Mais adiante vamos nos debruçar em detalhe sobre essas ordens, e sobre
+as adaptações graduais que o uso da pedra como material de construção
+implica.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0150.png" data-background-size="contain"}
+
+![Proporção modular das colunatas no mausoléu de Dario I, século [V] a.C. [Choisy, 1899]](https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0150.png){#fig:choisy-1.137.5 .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Na arquitetura monumental da Pérsia antiga,]{.newthought} o método de
 contraventamento é diferente. Encontramos grandes salões hipostilos ---
-ou seja, pontuados por uma malha bastante cerrada de colunas --- onde as
-paredes contornam o perímetro do salão. Nesse caso, as paredes
-perimetrais sozinhas não resolvem o problema do contraventamento. Em vez
-disso, todo o espaço do *apadana* (esse é o nome que se dá ao salão dos
-palácios persas) é coberto por um terraço rígido.
+ou seja, pontuados por uma malha bastante cerrada de colunas
+(@fig:choisy-1.137.5) --- onde as paredes contornam o perímetro do
+salão.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0154.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nesse caso, as paredes perimetrais sozinhas não resolvem o problema do
+contraventamento (@fig:choisy-1.141.4). Em vez disso, todo o
+espaço do *apadana* (esse é o nome que se dá ao salão dos palácios
+persas) é coberto por um terraço rígido.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Disposição das colunatas no *apadana* de Artaxerxes em Susa, século [V]{.smallcaps} a.C. [Choisy, 1899]](https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0154.png){#fig:choisy-1.141.4 .line}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/72/2b/40/722b40cf631a30343be5bbe7a5e4a1a7.png" data-background-size="contain" data-background-position="center"}
 
@@ -586,19 +730,45 @@ característica importante que diz respeito à *forma* das construções
 arquitravadas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Reconstituição dos terraços de Persépolis, segundo Charles Chipiez](https://i.pinimg.com/originals/72/2b/40/722b40cf631a30343be5bbe7a5e4a1a7.png){#fig:chipiez-terrasse .line}
+![Reconstituição dos terraços de Persépolis. [Chipiez, 1876]](https://i.pinimg.com/originals/72/2b/40/722b40cf631a30343be5bbe7a5e4a1a7.png){#fig:chipiez-terrasse .line}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-9.3.png" data-background-size="contain"}
+
+![Fu Xinian, sistema de pórticos longitudinais no *tingtang* da dinastia Song](https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-9.3.png){#fig:fu2017-9.3 .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[Na arquitetura chinesa]{.newthought}, a estratégia de contraventamento
+é diferente [@fu:2017traditional]. O sistema estrutural chinês é formado
+por pórticos planos dispostos na menor direção da construção
+(@fig:fu2017-9.3). Esses pórticos são formados por vigas e caibros
+apoiados sobre as colunas, sem contraventamento interno.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/liang1984-038.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Então, a solução adotada na China vai ser contraventar os pórticos
+*entre si*, por meio de traves de madeira engastadas logo abaixo do topo
+dos fustes (@fig:liang-038). Essas arquitraves têm dimensões modulares
+segundo a categoria da edificação, e além de estarem engastadas nas
+colunas, também são fixadas umas nas outras no ponto de encaixe
+[@liang:1984pictorial].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Evolução das "arquitraves" de contraventamento na arquitetura chinesa, segundo Liang e Lin](https://hcommons.org/app/uploads/sites/1002372/2021/08/liang1984-038.png){#fig:liang-038 .line}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-8.8.png" data-background-size="contain"}
+
+![Fu Xinian, dois sistemas de composições arquitravadas: *diantang* das dinastias Tang e Song e salão oficial da dinastia Ming](https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-8.8.png){#fig:fu2017-8.8 .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A partir do século [XIII]{.smallcaps}, também se introduz
+contraventamento na direção dos pórticos, pelo menos nos seus tramos
+exteriores. O resultado é um esqueleto contraventado em dois planos,
+muito mais estável (@fig:fu2017-8.8).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Da madeira à pedra #
-
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-8.8.png"}
-
-Fu Xinian [@fu:2017traditional].
-
-![Fu Xinian, dois sistemas de composições arquitravadas: *diantang* das dinastias Tang e Song e salão oficial da dinastia Ming](https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-8.8.png){#fig:tang-song-ming .line}
-
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-9.3.png"}
-
-![Fu Xinian, sistema de pórticos longitudinais no *tingtang* da dinastia Song](https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-9.3.png){#fig:tingtang .line}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
 
@@ -645,7 +815,7 @@ arquitetura clássica é quase tão universalmente aceito, e quase tão
 estereotipado, quanto o *milagre* da filosofia grega.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="512px 512px" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por causa disso, é fácil esquecer que a arquitetura grega faz parte de
@@ -702,101 +872,7 @@ sobreposição de vigas perpendiculares entre si.
 
 ![Arquétipo em madeira da ordem toscana, segundo Chipiez, 1876](https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png){#fig:chipiez-159 .line}
 
-## {.unlisted data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Uma característica importante]{.newthought} do sistema arquitravado do
-Mediterrâneo oriental é que ele não tem nenhuma forma de
-contraventamento intrínseca à sua concepção estrutural. Todos os
-elementos construtivos, das bases das colunas aos barrotes, são
-simplesmente apoiados uns sobre os outros sem nenhum travamento
-substancial. Nenhum elemento diagonal vem dar rigidez à montagem de
-peças verticais e horizontais. Um esqueleto relativamente leve em
-madeira sem contraventamento é uma construção muito frágil; qualquer
-carga horizontal, como nos terremotos que são bastante frequentes na
-região, derruba o edifício como se fosse uma torre de Jenga. Mesmo algum
-assentamento diferencial nas fundações poderia pôr em risco a
-estabilidade da construção.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Duas soluções conjuntas resolvem o problema do contraventamento na
-construção arquitravada do Mediterrâneo oriental:
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-### Redundância estrutural ###
-
-e
-
-### Núcleo rígido ###
-
-## {.unlisted data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A primeira solução é uma certa redundância no dimensionamento da
-estrutura. Essa redundância não é só uma margem de segurança no perfil
-de cada elemento tomado individualmente --- o diâmetro das colunas ou a
-seção das arquitraves e dos barrotes. Ainda assim, essa margem de
-segurança existe e não é pequena. A gama de proporções canônicas das
-ordens clássicas gregas, ou mesmo a das colunas persas, é um tanto
-conservadora (ver @fig:chipiez-compare); uma parte disso tem a ver com a
-transposição de materiais da madeira para a pedra.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A redundância vai além das dimensões das colunas: na arquitetura grega,
-as arquitraves costumam ser duplicadas ou mesmo triplicadas em
-profundidade, agregando mais um nível de redundância (@fig:arquitrave).
-Outra forma de redundância estrutural está nos vãos: os intercolúnios
-(a distância entre os eixos das colunas) são bastante estreitos, e as
-proporções das colunatas egípcias, persas e gregas são muito
-verticalizadas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/e9/75/60/e97560b20b57f958ed77019069bb7508.png" data-background-size="contain" data-background-position="center"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Além da redundância no dimensionamento da estrutura arquitravada, as
-tradições do Mediterrâneo oriental também usam elementos de
-contraventamento no sentido mais estrito. Os principais são as paredes
-em alvenaria que geralmente estão associadas à estrutura arquitravada.
-Um dos exemplos mais antigos e literais desse método é o chamado
-*heroön*, ou túmulo do herói, em Lefkandi, construído na Grécia no
-século [X]{.smallcaps} a.C. (@fig:lefkandi-axon).
-
-Nessa construção, temos duas colunatas em madeira com as suas
-arquitraves --- um períptero, ou ala que contorna o exterior da
-edificação, e uma colunata no eixo longitudinal, sustentando a viga de
-cumeeira. Além de as colunas estarem engastadas no solo, ambas as
-colunatas são ligadas por vigas secundárias a uma parede de adobe com
-fundações em pedra lavrada (@fig:lefkandi-section).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Axonométrica do túmulo dito *heroön* (tumba do herói), Lefkandi, Grécia, século [X]{.smallcaps} a.C.](https://i.pinimg.com/originals/e9/75/60/e97560b20b57f958ed77019069bb7508.png){#fig:lefkandi-axon .line}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/db/38/30/db3830c4766e6388653536ee1acac6b8.png" data-background-size="contain" data-background-position="center"}
-
-![Corte transversal do *heroön* de Lefkandi](https://i.pinimg.com/originals/db/38/30/db3830c4766e6388653536ee1acac6b8.png){#fig:lefkandi-section .line}
-
-## {.unlisted data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O tipo construtivo do túmulo de Lefkandi é uma dentre muitas variações
-sobre o tema da combinação de colunatas em madeira com paredes em
-alvenaria que foram exploradas na Grécia do período geométrico, entre os
-séculos [X]{.smallcaps} e [VIII]{.smallcaps} a.C. Essas variações
-acabaram se consolidando em dois tipos predominantes que, a partir do
-final do século [VII]{.smallcaps}, deram origem às duas primeiras
-*ordens clássicas* em pedra: a dórica e a jônica. Mais adiante vamos nos
-debruçar em detalhe sobre essas ordens, e sobre as adaptações graduais
-que o uso da pedra como material de construção implica.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [A construção arquitravada é aditiva]{.newthought} por natureza. Ela se
@@ -808,7 +884,7 @@ da arquitetura --- as colunas e os vãos entre elas, definidos pelas
 arquitraves.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Construir com elementos modulares é uma prática especialmente vantajosa
