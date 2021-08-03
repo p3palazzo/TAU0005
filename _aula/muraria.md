@@ -216,6 +216,41 @@ Ainda assim, a produção de blocos em formas personalizadas, numa olaria
 artesanal, também é simples, o que permite resolver elementos especiais
 como colunas e cimalhas.
 
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Peru_-_Flickr_-_Jarvis-31.jpg/1280px-Peru_-_Flickr_-_Jarvis-31.jpg"}
+
+<!--_,-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[Encontrado o solo compacto]{.newthought} ou feito o estaqueamento, a
+vala é preenchida com um baldrame em pedra lavrada ou aparelhada. Pedras
+lavradas são aquelas que foram simplesmente extraídas da rocha matriz ou
+mesmo encontradas soltas; elas são encaixadas umas nas outras geralmente
+usando-se bastante argamassa. Já os blocos de pedra aparelhada recebem
+um acabamento liso nas superfícies de assentamento, onde eles se
+encaixam diretamente em outros blocos ou assentam sobre uma camada fina
+de argamassa; só que esse acabamento não forma fiadas horizontais, e as
+faces externas dos blocos não costumam ter um acabamento muito refinado
+(@fig:saqsaywaman).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Saqsaywamán, fortificação em pedra aparelhada perto de Cusco, império inca, 1438. Foto: [Dennis Jarvis, 2009](https://commons.wikimedia.org/wiki/File:Peru_-_Flickr_-_Jarvis-31.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Peru_-_Flickr_-_Jarvis-31.jpg/1280px-Peru_-_Flickr_-_Jarvis-31.jpg){#fig:saqsaywaman}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/84/a0/84/84a0844920befe8a43748bc9cb4534de.png"}
+
+![Corte do templo de Hefesto, Atenas, século [V]{.smallcaps} a.C. Desenho: William B. Dinsmoor, Jr., 1984](https://i.pinimg.com/originals/84/a0/84/84a0844920befe8a43748bc9cb4534de.png){#fig:dinsmoor-back .marginnote .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Palladio indica dar à base das fundações o dobro da largura da parede, e
+que ele tenha uma seção em forma de trapézio, onde o topo deve ser só um
+pouco mais largo do que a parede. No entanto, essa prática não é
+universal: muitas vezes, as fundações são paredes verticais um pouco
+mais largas do que a superestrutura acima delas. No topo das fundações,
+vamos encontrar uma última camada de base que cobre toda a superfície da
+edificação; ela pode ser em terra batida ou revestida com lajes de
+pedra, formando uma espécie de radier. Na Grécia clássica, essa
+superfície é o estilóbata (@fig:dinsmoor-back).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png" data-background-size="contain"}
 
 [O assentamento dos blocos com argamassa]{.newthought} é a regra em

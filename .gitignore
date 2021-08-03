@@ -7,5 +7,6 @@ _downloads/
 .jekyll-metadata
 .sass-cache/
 .vendor/
+assets/css/
 slides/*
 !slides/reveal.js
