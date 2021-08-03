@@ -19,23 +19,7 @@ header:
     url: "/slides/taipa/"
 ---
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O contato com a Natureza justifica a racionalidade da técnica em
-particular e a autenticidade das práticas sociais em geral, como na cena
-pastoral da nossa já conhecida série de pinturas de Thomas Cole
-(@fig:cole-arcadian) que trata do *Decurso do império*. O monumento
-megalítico no promontório reúne duas credenciais que descrevem a
-essência da cultura humana: o uso *individual* da razão, que concebe o
-uso eficiente dos materiais de construção, e a convenção *social* da
-religião organizada, que permite reunir o esforço coletivo necessário à
-execução da obra.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Thomas Cole, The Course of Empire: The Arcadian or Pastoral State, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian .fullwidth}
-
-# Materiais da construção tradicional {#materiais}
+# Materiais da construção tradicional {data-background-color="#0f0"}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg"}
 
@@ -56,6 +40,22 @@ origem da civilização.
 [*O decurso do império*]: https://pt.wikipedia.org/wiki/O_Curso_do_Império
 
 ![Thomas Cole, The Course of Empire: The Savage State, 1834](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg){#fig:cole-savage .fullwidth}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O contato com a Natureza justifica a racionalidade da técnica em
+particular e a autenticidade das práticas sociais em geral, como na cena
+pastoral da nossa já conhecida série de pinturas de Thomas Cole
+(@fig:cole-arcadian) que trata do *Decurso do império*. O monumento
+megalítico no promontório reúne duas credenciais que descrevem a
+essência da cultura humana: o uso *individual* da razão, que concebe o
+uso eficiente dos materiais de construção, e a convenção *social* da
+religião organizada, que permite reunir o esforço coletivo necessário à
+execução da obra.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Thomas Cole, The Course of Empire: The Arcadian or Pastoral State, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian .fullwidth}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg" data-background-position="top"}
 
@@ -321,7 +321,7 @@ Nosso percurso segue, portanto, para o tipo da *cabana*.
 
 ![Yurta contemporânea. Foto: [Anton Starikov, 2011](https://www.pond5.com/pt/stock-images/photos/item/32541060-yurt)](https://i.pinimg.com/originals/e6/3d/c4/e63dc40df530a89928a8b9c2b4c2c572.jpg){#fig:yurt}
 
-# Construções semienterradas {#semienterrado}
+# Construções semienterradas {data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As mais antigas habitações permanentes eram contenções em pedra seca
@@ -537,9 +537,9 @@ irradiam as células para os sarcófagos.
 ![Interior da tumba dos relevos, necrópole etrusca de Banditaccia, Cisra (atual Cerveteri), Itália, c. 400 a.C. Foto: [Roberto Ferrari, 2009](https://commons.wikimedia.org/wiki/File:Tomba_dei_Rilievi_(Banditaccia).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tomba_dei_Rilievi_(Banditaccia).jpg/1280px-Tomba_dei_Rilievi_(Banditaccia).jpg){#fig:cerveteri}
 
 
-# Plataformas e terraplenos {#terrapleno}
+# Plataformas e terraplenos {data-background-color="#0f0"}
 
-## {.unlisted}
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O abrigo aconchegante num espaço escavado na terra ou adossado a um
@@ -622,6 +622,7 @@ organizado com uma área central cercada por plataformas.
 
 ## {.unlisted data-background-image=""}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Além da alvenaria de blocos]{.newthought}, há outro modo tradicional de
 construir paredes: as taipas. Esse termo designa uma grande variedade de
 métodos de construção com terra. Alguns, como a taipa de mão,
@@ -630,16 +631,20 @@ vegetais, sobre a qual se coloca uma camada de terra; nesses casos, a
 parede tem uma resistência estrutural baixa. Por isso, esses tipos de
 taipa são usados sobretudo para paredes de vedação, ou em construções
 muito pequenas e simples.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image=""}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Quando se fala em taipa como sistema estrutural, é a taipa de pilão que
 vem à mente: uma série de camadas de terra compactada, geralmente
 assentadas dentro de uma forma temporária (o taipal) ou como um
 terrapleno entre paredes de alvenaria.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse procedimento, na sua forma tradicional, foi descrito e ilustrado
 pelo engenheiro francês Jean-Baptiste Rondelet no início do século
 [XIX]{.smallcaps} [@rondelet:1812traite1]. O sistema da taipa deve, em
@@ -651,6 +656,7 @@ em madeira, para regularizar o assentamento da cobertura sobre a parede.
 Ao contrário da melhor prática na concretagem, na taipa cada camada
 comprimida (@fig:ram) precisa secar antes de se lançar a camada
 seguinte.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Esquema do processo de construção com taipa de pilão. [Jean-Baptiste Rondelet, 1802](https://gallica.bnf.fr/ark:/12148/bpt6k6555321j/f20.item)](https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg){#fig:taipal .fullwidth}
 
@@ -664,6 +670,7 @@ seguinte.
 
 <!--_,-->
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O taipal geralmente é uma forma móvel em madeira, apoiada en tirantes
 que deixam buracos regulares na taipa (@fig:taipal). Esses buracos podem
 ser simplesmente tapados, ou podem servir de apoios para uma camada de
@@ -672,18 +679,22 @@ da parede para dar mais estabilidade e facilitar o acesso para
 manutenção. Esse costume é tradicional na região do Sael, ao sul do
 deserto do Saara, por exemplo nas cidades históricas do delta do rio
 Níger, como Djenné (@fig:djenne).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image=""}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na teoria, a taipa de pilão poderia se prestar a formas totalmente
 orgânicas, já que ela não depende do módulo mínimo de um bloco. Na
 prática, ela é usada sobretudo em grandes paredes retilíneas, para
 permitir a reutilização do taipal com mais facilidade. A grande
 espessura das paredes em taipa de pilão faz com que elas, em geral, não
 precisem de contraventamento.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+## {.unlisted data-background-color="#0f0"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [O conceito de terrapleno se realiza]{.newthought} de fato com uma
 construção um pouco mais complexa. Ela consiste nalguma espécie de
 terrapleno entre contenções em alvenaria. Ao contrário da taipa de
@@ -691,11 +702,13 @@ pilão, que usa formas removíveis, o terrapleno fica permanentemente
 constituído por esse sistema de enchimento e contenções. São sistemas
 usados sobretudo para edifícios grandes, com coberturas pesadas e onde
 se busca um aspecto monumental a partir da aparência da massa edificada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ziggarut_of_Ur_-_M.Lubinski.jpg/1280px-Ziggarut_of_Ur_-_M.Lubinski.jpg"}
 
 <!--_,-->
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A antiga Mesopotâmia tem alguns dos mais antigos exemplos de parede
 espessa. Os templos dos antigos sumérios, nos [IV]{.smallcaps} e
 [III]{.smallcaps} milênios a.C., usam paredes espessas e mesmo
@@ -705,6 +718,7 @@ ter sido restaurado com uma mão bem pesada no final do século
 [XX]{.smallcaps} (@fig:ziggurat). O que resta do monumento hoje em dia é
 um imenso terraço em degraus, com muros de arrimo em adobe que enquadram
 um terrapleno com 30 metros de altura.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Zigurate, antigo reino de Ur, atual Iraque, c. 2050--1980 a.C. Foto: [Michael Lubinski, 2006](https://commons.wikimedia.org/wiki/File:Ziggarut_of_Ur_-_M.Lubinski.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ziggarut_of_Ur_-_M.Lubinski.jpg/1280px-Ziggarut_of_Ur_-_M.Lubinski.jpg){#fig:ziggurat}
 
@@ -712,25 +726,30 @@ um terrapleno com 30 metros de altura.
 
 ![Reconstituição do Zigurate de Eanna, Uruk, século [XXI]{.smallcaps} a.C. Modelo: [Artefacts](http://www.artefacts-berlin.de/portfolio-item/the-ur-iii-period/)](https://i.pinimg.com/originals/a9/25/45/a925451f15346eca6d7d517c08836520.png){#fig:eanna}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os zigurates na verdade eram mais do que o simples terraço com um
 edifício em cima; eles eram sistemas de espaços abertos e fechados
 sucessivos [@anastasio:2020building], com portais controlando o acesso
 às areas mais internas (@fig:eanna). As paredes eram peças chave nesse
 sistema, portanto, e elas apresentam variações sobre o tema da estrutura
 em adobe, de acordo com a espessura de cada uma.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png"}
 
 ![Corte de uma parede em adobe típica da antiga Mesopotâmia. (a) parede, (b) baldrame ou soco, (c) fundação em sapata corrida, (bondstone) bloco juntouro ou perpianho. Anastasio, 2020](https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png){#fig:adobe-foundations .marginnote}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Estruturas simples poderiam ter apenas uma alvenaria em adobe apoiada
 sobre uma sapata corrida em pedra lavrada (@fig:adobe-foundations).
 Nesse caso, alguns blocos seriam grandes o suficiente para travar a
 espessura da parede de um lado a outro: são o que chamamos de blocos
 juntouros ou perpianhos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/fb/Eridu_mound4c.8.png" data-background-size="contain"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No entanto, edifícios maiores em geral precisam de paredes mais grossas
 e estáveis. Nesse caso, era comum encapar o miolo da parede em adobe com
 uma face de tijolos cozidos em cada lado [@anastasio:2020building, 62].
@@ -743,9 +762,11 @@ Enki" em Eridu (e que talvez fosse um palácio), construído por volta de
 públicos monumentais, a camada é tripla: tijolo cozido, adobe, e o
 terrapleno propriamente dito preenchido com qualquer tipo de material
 compactado --- terra, entulho de construção e outros resíduos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-iframe="https://www.youtube.com/watch?v=0h_YGXsMBUo&t=26"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Com o tempo, essas faces em tijolos cozidos seriam vistas como uma
 superfície ideal para ornamentar a construção. Na Babilônia, os tijolos
 na superfície externa de algumas muralhas eram decorados com relevos
@@ -757,14 +778,13 @@ sucessão de pátios cada vez mais restritos, até chegar na porta
 propriamente dita. Esse enclausuramento dos volumes é a função
 primordial dessas estruturas monumentais, seja por motivos militares ou
 simbólicos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Templo de Enki em Eridu, nível VII, c. 4000--3800 a.C. Modelo: [Cush 2016](https://commons.wikimedia.org/wiki/File:Eridu_temple_7.png)](https://upload.wikimedia.org/wikipedia/commons/6/68/Eridu_temple_7.png){#fig:eridu .marginnote}
 
 ![Porta de Ishtar, Babilônia, 575 a.C., atualmente no museu Pergamon, Berlim](https://i.pinimg.com/originals/d5/83/2c/d5832cea9db6c2723d2ff99226e4b400.jpg){#fig:ishtar}
 
-# Fundações tradicionais {#fundacoes}
-
-## {.unlisted}
+# Fundações tradicionais {data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Todas as construções que não são simplesmente escavadas no chão ou
@@ -809,7 +829,7 @@ material muito viscoso, que vai resistir à carga transmitida pelas
 fundações (@fig:cargas-funda).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nesse caso, duas precauções são muito
@@ -817,11 +837,8 @@ importantes: primeiro, a carga do edifício precisa ser equilibrada entre
 todas as fundações, para evitar o assentamento diferencial, que é quando
 uma parte do edifício afunda mais no solo do que outra; segundo, as
 fundações precisam estar comprimidas em todas as direções --- a carga
-não pode ser distribuída onde houver esforços de tração ou corte
-(@fig:diferencial).
+não pode ser distribuída onde houver esforços de tração ou corte.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Assentamento diferencial e esforços de tração e cortante](){#fig:diferencial .line}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/33/52/f5/3352f5c1459c5625fe8ff68ca3c36abc.png" data-background-position="top"}
 
@@ -848,10 +865,10 @@ importante com a homogeneidade do assentamento no solo.
 
 ![Fundações escavadas no sítio arqueológico de Mehrgarh, vale do rio Indo, c. 5500--3500 a.C. Foto: Catherine Jarrigue, Mission Archéologique de l'Indus](https://i.pinimg.com/originals/52/bb/7c/52bb7c1e9efe132df5fc5e661d8ccd35.jpg){#fig:mehrgarh}
 
-## {.unlisted data-background-iframe="https://www.youtube-nocookie.com/embed/eNN7T4fBQo4?start=240"}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/constru/taipa/Rubble_trench_foundation_for_a_Cob_Building.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
 :::::::::::::::::::::::::::::::::::::::::: {#fig:rubble .iframe-wrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/eNN7T4fBQo4?start=240" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/eNN7T4fBQo4?start=240" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Construção de uma fundação em pedra lavrada para uma casa de pau a
 pique. [House Alive, 2016](https://youtu.be/eNN7T4fBQo4?t=240)
@@ -866,7 +883,7 @@ conhecem profundamente as características dos solos e dos materiais de
 construção na sua região (@fig:rubble).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/funda-solos-1.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ainda assim, e em caráter muito geral e preliminar, podemos seguir as
@@ -915,7 +932,7 @@ sobra precisa ser aterrada e compactada para garantir a boa distribuição
 das cargas, especialmente onde o solo for profundo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-iframe="https://www.youtube-nocookie.com/embed/9kZaq5SwBxo?start=371"}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/constru/taipa/Construccion_con_Adobe_Sismo_Resistente-MEDES_y_ASF-9kZaq5SwBxo.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As fundações tradicionais em geral não são "armadas", ou seja,
@@ -925,8 +942,8 @@ submetidas a esforços de tração ou cortantes. Apesar disso, há algumas
 exceções em regiões sujeitas a terremotos (@fig:adobe-funda).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::: {#fig:adobe-funda .iframe-wrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9kZaq5SwBxo?start=371" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+::::::::::::::::::::::::::::::::::::: {#fig:adobe-funda .iframe-wrapper}
+<iframe src="https://www.youtube-nocookie.com/embed/9kZaq5SwBxo?start=371" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Construção de fundações mistas para paredes em adobe. [Arquitectura sin Fronteras Galicia, 2014](https://youtu.be/9kZaq5SwBxo?t=371)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -989,7 +1006,7 @@ reduzir o acúmulo de umidade (@fig:valpa).
 
 ![Esquema de fundações tradicionais em Valparaíso, Chile, segundo Barros e Sarabia, *Sistemas constructivos básicos*](https://i.pinimg.com/originals/ed/15/c5/ed15c515c38988f1997f70bf7df8b1c5.jpg){#fig:valpa}
 
-## {.unlisted data-background-iframe="https://player.vimeo.com/video/62772222?autoplay=1"}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/constru/taipa/Seleucid_Bit_Resh-Anu-Antum_Temple-Detail_and_Reconstruction-62772222-720p-30fps.mp4" data-background-video-muted="true" data-background-video-loop="true"}
 
 ::::::::::::::::::::::::::::::::::::::::::::: {#fig:bitresh .iframe-wrapper .fullwidth}
 <iframe src="https://player.vimeo.com/video/62772222?autoplay=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
@@ -1049,7 +1066,7 @@ que eles fazem em contato com os sistemas construtivos tradicionais é
 impedir a umidade que *já entrou* de *sair* da construção.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-iframe="https://www.youtube-nocookie.com/embed/d23S8P-H0lM?t=16"}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/constru/taipa/Ishtar_Gate_Babylon_Iraq.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse tipo de problema ocorreu no sítio arqueológico da antiga Babilônia
@@ -1064,7 +1081,7 @@ circulação da água.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::: {#fig:ishtar-model .iframe-wrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/d23S8P-H0lM?t=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube-nocookie.com/embed/d23S8P-H0lM?t=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Modelo fotogramétrico da porta de Ishtar, Babilônia, século
 [VI]{.smallcaps} a.C. [Programa de Pós-graduação em Patrimônio da
