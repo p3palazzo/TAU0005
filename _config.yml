@@ -305,7 +305,6 @@ defaults:
       path: ""
     values:
       layout: single
-      classes: wide
       toc: false
       toc_label: false
       toc_sticky: false
