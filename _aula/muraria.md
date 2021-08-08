@@ -19,29 +19,48 @@ header:
     url: "/slides/muraria/"
 ---
 
-# Materiais naturais {data-background-color="#0f0"}
+# Princípios gerais e Materiais naturais {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A construção murária, ou seja, baseada em paredes, é a delimitação por
-excelência do espaço. Na seção anterior, vimos como a construção
-arquitravada vem do uso da madeira, e resulta em malhas estruturais com
-composição aditiva. A construção murária, por sua vez, tem o seu
-paradigma material nas alvenarias, e corresponde a uma concepção
-subtrativa: como se o espaço pudesse ser escavado dentro de uma massa
-estrutural sólida.
+A taipa e a alvenaria são os principais sistemas de construção
+tradicional de paredes portantes. Eles consistem num uso mais ou menos
+processado de recursos minerais, na forma de massas contínuas, blocos
+crus ou cozidos, e argamassas. As principais condicionantes para o uso
+de sistemas murários são a extração da matéria-prima e a capacidade
+técnica e econômica de processamento.
+
+A construção murária resulta em estruturas que geralmente têm uma
+aparência de grandes massas sólidas, e que delimitam com muita clareza
+os espaços arquitetônicos. As manipulações espaciais na construção
+murária são o objeto da próxima seção.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
+![Cabanas primitivas segundo William Chambers](https://hcommons.org/app/uploads/sites/1002372/2021/08/chambers1759-gri_33125011135288_0017.jpg){#fig:chambers-huts}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/chambers1759-gri_33125011135288_0017a.png" data-background-size="contain"}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A tenda (ver @fig:chambers-huts) é o tipo originário das construções
-temporárias. No domínio da arquitetura durável, o mito da cabana
-primitiva foi o nosso ponto de partida para explicar a construção
-arquitravada em madeira. A construção murária, portanto, remete ao
-terceiro e último tipo originário: a caverna. Ao contrário dos dois
-primeiros tipos, a alegoria de uma caverna não é uma analogia muito
+Na tipologia desenvolvida por William Chambers [@chambers:1759treatise]
+na segunda metade do século [XVIII]{.smallcaps}, a *tenda* é o tipo
+originário das construções temporárias (@fig:chambers-huts). No domínio
+da arquitetura durável, o mito da *cabana* primitiva foi o nosso ponto
+de partida para explicar a construção arquitravada em madeira.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/chambers1759-gri_33125011135288_0017b.png" data-background-size="contain"}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/chambers1759-gri_33125011135288_0017c.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A construção murária, portanto, remete ao
+terceiro e último tipo originário: a *caverna*. Ao contrário dos dois
+primeiros tipos, a alegoria de uma caverna não faz uma analogia muito
 clara com processos propriamente construtivos; em vez disso, ela
 representa uma certa ideia de espacialidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -50,16 +69,21 @@ representa uma certa ideia de espacialidade.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O teórico francês Quatremère de Quincy, no final do século
-[XVIII]{.smallcaps}, desenvolveu o caráter da "caverna"
+[XVIII]{.smallcaps}, elaborou o caráter da "caverna"
 [@quatremere:1788caractere] com base num dos três tipos de abrigos
-primitivos propostos em 1759 por Chambers (@fig:chambers-second).
-Segundo Quatremère, a caverna seria o abrigo primitivo das sociedades
-pastorais: um abrigo caracterizado pelas suas necessidades de espaço, ao
-contrário da cabana, que era determinada pelo desenvolvimento de uma certa
-lógica construtiva.
+primitivos propostos em 1759 por Chambers.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cabana primitiva em forma de "caverna", segundo Chambers, 1759](https://i.pinimg.com/originals/13/1e/7d/131e7d63fbf350e28f24f1d15e557b8a.png){#fig:chambers-second .line}
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Segundo Quatremère, a caverna seria o abrigo primitivo das sociedades
+pastorais (@fig:cole-arcadian): um abrigo caracterizado pelas suas
+necessidades de espaço, ao contrário da cabana, que era determinada pelo
+desenvolvimento de uma certa lógica construtiva.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Thomas Cole, *Decurso do império: o estado arcádio ou pastoral*, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian}
 
 ## {.unlisted data-background-color="#0f0"}
 
@@ -72,7 +96,9 @@ culturas construtivas que se baseiam em massas de alvenaria portante.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png" data-background-size="contain" data-background-position="center"}
 
-![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .marginnote .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
+![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A origem da parede portante tem sido tratada como algo
@@ -88,14 +114,18 @@ dos índios karib (@fig:karib).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Semper escreveu isso numa época em que estava se tornando comum
-construir com esqueletos estruturais em ferro, deixando as paredes com
-um papel de simples vedação, sem função estrutural. Por isso, essa
+construir com esqueletos estruturais em ferro (@fig:bsg), deixando as paredes
+com um papel de simples vedação, sem função estrutural. Por isso, essa
 separação entre esqueleto portante e parede divisória parecia natural
 para ele, talvez até primordial. Mas essa distinção é mais uma regressão
 conceitual do que algo efetivamente atestado na história da arquitetura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png" data-background-size="contain" data-background-position="center"}
+![Henri Labrouste, arquiteto, biblioteca Sainte-Geneviève, sala de leitura, Paris, 1842. Foto: [Marie-Lan Nguyen, 2011](https://commons.wikimedia.org/wiki/File:Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg){#fig:bsg}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain"}
+
+![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .marginnote .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Como quer que seja,
@@ -105,11 +135,11 @@ como contraventamento. A alvenaria nasce, com perdão da licença poética,
 do gesto primário de quem empilha uns seixos na beira do caminho para
 marcar a sua passagem. Ela está presente como arrimo em algumas das mais
 antigas cabanas de caçadores-coletores, por exemplo no sítio
-arqueológico de Eynan, em Israel, datado de 15 a 12 mil anos atrás (ver
-@fig:eynan).
+arqueológico de Eynan, em Israel, datado de 15 a 12 mil anos atrás
+(@fig:eynan).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"}
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/66000251-2CO.jpg/2560px-66000251-2CO.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 É nas regiões pouco arborizadas que a construção murária assume, pela
@@ -117,20 +147,21 @@ primeira vez, o papel estrutural dominante. Muitas dessas regiões, de
 clima semiárido, ficam na zona tropical e subtropical do hemisfério
 Norte. Alguns dos exemplares mais antigos dessa arquitetura se localizam
 na América do Norte e no Oriente Médio. Esses exemplares justificam o
-nome de "caverna" que usamos para caracterizar o tipo básico da
-construção murária: as paredes em pedra seca aparentemente começam a ser
-usadas como arrimo ou acabamento para espaços semienterrados.
+termo de "caverna" que usamos para caracterizar o tipo básico da
+construção murária: as paredes em pedra seca e as encostas rochosas
+aparentemente começam a ser usadas como arrimo ou acabamento para
+espaços semienterrados (@fig:mesa-verde).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Vestígios arqueológicos da povoação dita Cliff palace, c. 1100--1300 d.C. Parque nacional Mesa Verde, Colorado, Estados Unidos. Foto: [M.P. Sharwood, 2011]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/66000251-2CO.jpg/1280px-66000251-2CO.jpg){#fig:mesa-verde}
+
+[M.P. Sharwood, 2011]: https://commons.wikimedia.org/wiki/File:66000251-2CO.jpg
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
 ![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png"}
-
-![Göbekli Tepe, vista aérea das escavações. Foto: [E. Kücuk, Instituto Arqueológico Alemão (DAI), 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png){#fig:gt-plan .marginnote}
-
-<!--_,-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Depois da cabana de Eynan, o sítio mais antigo que se conhece com
@@ -142,7 +173,11 @@ quatro espaços semienterrados de planta mais ou menos circular
 talvez sustentassem alguma cobertura, são grandes lajes de pedra.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png"}
+
+![Göbekli Tepe, vista aérea das escavações. Foto: [E. Kücuk, Instituto Arqueológico Alemão ([DAI]{.smallcaps}), 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png){#fig:gt-plan .marginnote}
+
+<!--_,-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ao contrário do abrigo em Eynan e de quase todas as outras construções
@@ -160,16 +195,40 @@ utilitárias, como edifícios religiosos ou simbólicos do poder político.
 [O ciclo de produção dos materiais]{.newthought} da construção murária é geralmente
 mais curto que o da madeira. O aspecto crítico é a extração da
 matéria-prima, e isso vale tanto para a pedra quanto para os blocos
-feitos de barro seco ou cozido. O impacto ambiental da extração dessa
-matéria-prima mineral é um aspecto cada vez mais importante à medida que
-o volume de construção aumenta em todo o mundo. Nas sociedades não
-industrializadas, esse impacto é moderado pelo esforço econômico
-necessário para a extração de rochas e argila: por isso, a regra era a
-reutilização de elementos de construções antigas, quando não a
-reutilização e preservação das edificações como um todo.
+feitos de barro seco ou cozido.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-truck-driving-down-into-a-quarry-20988-medium.mp4" data-background-video-muted="true"}
+
+![Caminhão e maquinário numa pedreira. [Mixkit](https://mixkit.co/free-stock-video/truck-driving-down-into-a-quarry-20988/)](https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-truck-driving-down-into-a-quarry-20988-medium.mp4){#fig:quarry}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O impacto ambiental da extração dessa
+matéria-prima mineral é um aspecto cada vez mais importante à medida que
+o volume de construção aumenta em todo o mundo. Nos processos
+industriais, a extração de matérias-primas deixa para trás uma pegada
+ambiental caracterizada pelo desperdício de recursos e pela destruição e
+contaminação de espaços muito vastos (@fig:quarry).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Trieste_Cattedrale_di_San_Giusto_spolia1.jpg/2560px-Trieste_Cattedrale_di_San_Giusto_spolia1.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ao contrário, nos processo artesanais,
+esse impacto é moderado pelo esforço econômico
+necessário para a extração de rochas e argila: por isso, a
+regra era a reutilização de elementos de construções antigas, quando não
+a reutilização e preservação das edificações como um todo
+(@fig:trieste).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Campanário da catedral de Trieste, 1302--1320, incorporando fragmentos do friso dos propileus da cidade romana, século [I]{.smallcaps} d.C. Foto: [Matthias Kabel, 2009]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Trieste_Cattedrale_di_San_Giusto_spolia1.jpg/1280px-Trieste_Cattedrale_di_San_Giusto_spolia1.jpg){#fig:trieste}
+
+[Matthias Kabel, 2009]: https://commons.wikimedia.org/wiki/File:Trieste_Cattedrale_di_San_Giusto_spolia1.jpg
+
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/eb/Ħaġar_Qim,_megalit_templom_bejárata.jpg"}
+
+<!--_,-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na maior parte do mundo, as rochas
@@ -188,9 +247,13 @@ leitos ou veios sucessivos, e por isso tem um *grão* linear que precisa
 ser levado em conta no uso estrutural dos blocos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Monumento megalítico de Ħaġar Qim, Malta, 3200 a 2500 a.C., construído em calcário. Foto: [Kiss Tamás, 1999](https://commons.wikimedia.org/wiki/File:Ħaġar_Qim,_megalit_templom_bejárata.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ħaġar_Qim,_megalit_templom_bejárata.jpg/1280px-Ħaġar_Qim,_megalit_templom_bejárata.jpg){#fig:hagar}
+![Monumento megalítico de Ħaġar Qim, Malta, 3200 a 2500 a.C., construído em calcário. Foto: [Kiss Tamás, 1999]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ħaġar_Qim,_megalit_templom_bejárata.jpg/1280px-Ħaġar_Qim,_megalit_templom_bejárata.jpg){#fig:hagar}
 
-## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm" data-background-video-loop="true" data-background-video-muted="true"}
+[Kiss Tamás, 1999]: https://commons.wikimedia.org/wiki/File:Ħaġar_Qim,_megalit_templom_bejárata.jpg
+
+<!--_,-->
+
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A matéria-prima mais difundida na construção murária do mundo todo é a
@@ -216,7 +279,11 @@ rios ou do mar.
 
 ![Extração de argila para olaria em Mlala, Dwangwa, Malaui. Foto: [Bibiloucapetown, 2017](https://commons.wikimedia.org/wiki/File:Extracting_clay_to_produce_bricks.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extracting_clay_to_produce_bricks.jpg/1280px-Extracting_clay_to_produce_bricks.jpg){#fig:claypit}
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm" data-background-video-loop="true" data-background-video-muted="true"}
+
+![Produção de tijolos numa olaria em Qom, Irã. [Oxlaey, 2015]](https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm){#fig:qom}
+
+[Oxlaey, 2015]: https://commons.wikimedia.org/wiki/File:BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em todos os casos, a obtenção e a correção da matéria-prima, seguida da
@@ -229,10 +296,10 @@ dimensões, fazem com que esses componentes possam ser altamente
 padronizados e estocados em grandes quantidades para pronta entrega.
 Ainda assim, a produção de blocos em formas personalizadas, numa olaria
 artesanal, também é simples, o que permite resolver elementos especiais
-como colunas e cimalhas.
+como colunas e cimalhas (@fig:qom).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Materiais cozidos {data-background-color="#0f0"}
+# Componentes cozidos {data-background-color="#0f0"}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png" data-background-size="contain"}
 
@@ -299,95 +366,21 @@ vizinhanças, tanto em paredes quanto em pisos. Ele dá um acabamento
 muito liso e com alguma resistência à umidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Uma preocupação nas paredes]{.newthought} de blocos é a flambagem da
-estrutura. Isso quer dizer que uma parede esbelta pode ser deformada
-para os lados mesmo por uma carga vertical. Isso é especialmente
-importante quando a parede é construída com blocos pequenos --- em
-geral, adobe ou tijolo cozido. A
-eficiência dita que essas paredes sejam as mais esbeltas possíveis, para
-não consumir material sem necessidade. O dimensionamento recomendado por
-Palladio, que nos dá as indicações mais práticas e claras a esse
-respeito, é o seguinte:
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-1. A parede do pavimento superior terá *uma vez* de alvenaria (a
-   espessura da parede é determinada pelo comprimento de um tijolo);
-
-2. Cada pavimento sucessivo para baixo deve aumentar essa espessura em
-   meia vez.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif/lossy-page1-4233px-Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif.jpg"}
-
-![Colunas embutidas formando contrafores no interior da cela do templo de Baco, Baalbek, século [II]{.smallcaps} d.C. Foto: [Félix Bonfils](https://commons.wikimedia.org/wiki/File:Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif/lossy-page1-1242px-Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif.jpg){#fig:contraforte}
-
-<!--_,-->
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Mas, mesmo uma parede de uma vez (25 a 40 centímetros de espessura,
-dependendo do revestimento e do módulo do tijolo) está sujeita à
-flambagem se for muito longa ou alta. Por isso, a parede precisa ser
-contraventada. Vários expedientes são usados para isso na construção
-murária. Uma parede de tijolos pode simplesmente ser encaixada entre
-cunhais de pedra ou vice-versa (@fig:cunhal). Paredes em pedra ou mesmo
-taipa podem ser reforçadas com contrafortes, que eventualmente assumem a
-forma de pilastras ou colunas "decorativas" na fachada
-(@fig:contraforte).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
-
-![Muro serpenteante, Shaw nature reserve. Foto: [Steve Bougeno, 2015](https://500px.com/photo/128955465/wall-by-Steve--Bougeno/)](https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg){#fig:serpentine .marginnote}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A solução mais sofisticada para o contraventamento na construção murária
-é deslocar o alinhamento da parede em planta, uma prática bastante comum
-em muretas serpenteantes no campo (@fig:serpentine). Esse deslocamento
-aumenta o momento de inércia da parede como um todo, o que evita a
-flambagem e resiste também a cargas horizontais, como a do vento.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f2/Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG"}
-
-<!--_,-->
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Numa edificação, fazer uma parede serpenteante não é muito prático. Em
-vez disso, o mais comum é usar ressaltos ortogonais. Esses ressaltos
-podem ser maciços, e nesse caso podem se tornar volumes em forma de
-torres (@fig:saqqara). Eles podem, também, ser vazados para dentro, e
-nesse caso oferecem vãos nas paredes para encaixar mobiliário. Por fim,
-a largura dos ressaltos permite enquadrar portas e janelas com mais
-firmeza visual, além de oferecer espaço para assentos junto às janelas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
-![Recinto murado do complexo mortuário do faraó Djoser em Saqqara, Egito, c. 2670--2650 a.C., em alvenaria de pedra com ressaltos. Foto: [Maveric149, 2008](https://commons.wikimedia.org/wiki/File:Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG)](https://upload.wikimedia.org/wikipedia/commons/f/f2/Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG){#fig:saqqara}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-color="#0f0"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A taipa e a alvenaria são os principais sistemas de construção
-tradicional de paredes portantes. Eles consistem num uso mais ou menos
-processado de recursos minerais, na forma de massas contínuas, blocos
-crus ou cozidos, e argamassas. As principais condicionantes para o uso
-de sistemas murários são a extração da matéria-prima e a capacidade
-técnica e econômica de processamento.
-
-A construção murária resulta em estruturas que geralmente têm uma
-aparência de grandes massas sólidas, e que delimitam com muita clareza
-os espaços arquitetônicos. As manipulações espaciais na construção
-murária são o objeto da próxima seção.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 # Arquitetura subtrativa {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A construção murária, ou seja, baseada em paredes, é a delimitação por
+excelência do espaço. Na seção anterior, vimos como a construção
+arquitravada vem do uso da madeira, e resulta em malhas estruturais com
+composição aditiva. A construção murária, por sua vez, tem o seu
+paradigma material nas alvenarias, e corresponde a uma concepção
+subtrativa: como se o espaço pudesse ser escavado dentro de uma massa
+estrutural sólida.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na taxonomia da arquitetura tradicional, associamos a construção murária
@@ -634,6 +627,76 @@ Quando ela é uma montagem de elementos que se complementam e reforçam
 uns aos outros. A forma mais tradicional de se atingir essa
 complementaridade é com a chamada *parede espessa*, formada por um miolo
 entre duas estruturas de revestimento.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[Uma preocupação nas paredes]{.newthought} de blocos é a flambagem da
+estrutura. Isso quer dizer que uma parede esbelta pode ser deformada
+para os lados mesmo por uma carga vertical. Isso é especialmente
+importante quando a parede é construída com blocos pequenos --- em
+geral, adobe ou tijolo cozido. A
+eficiência dita que essas paredes sejam as mais esbeltas possíveis, para
+não consumir material sem necessidade. O dimensionamento recomendado por
+Palladio, que nos dá as indicações mais práticas e claras a esse
+respeito, é o seguinte:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+1. A parede do pavimento superior terá *uma vez* de alvenaria (a
+   espessura da parede é determinada pelo comprimento de um tijolo);
+
+2. Cada pavimento sucessivo para baixo deve aumentar essa espessura em
+   meia vez.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif/lossy-page1-4233px-Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif.jpg"}
+
+![Colunas embutidas formando contrafores no interior da cela do templo de Baco, Baalbek, século [II]{.smallcaps} d.C. Foto: [Félix Bonfils](https://commons.wikimedia.org/wiki/File:Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif/lossy-page1-1242px-Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif.jpg){#fig:contraforte}
+
+<!--_,-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mas, mesmo uma parede de uma vez (25 a 40 centímetros de espessura,
+dependendo do revestimento e do módulo do tijolo) está sujeita à
+flambagem se for muito longa ou alta. Por isso, a parede precisa ser
+contraventada. Vários expedientes são usados para isso na construção
+murária. Uma parede de tijolos pode simplesmente ser encaixada entre
+cunhais de pedra ou vice-versa (@fig:cunhal). Paredes em pedra ou mesmo
+taipa podem ser reforçadas com contrafortes, que eventualmente assumem a
+forma de pilastras ou colunas "decorativas" na fachada
+(@fig:contraforte).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+
+![Muro serpenteante, Shaw nature reserve. Foto: [Steve Bougeno, 2015](https://500px.com/photo/128955465/wall-by-Steve--Bougeno/)](https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg){#fig:serpentine .marginnote}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A solução mais sofisticada para o contraventamento na construção murária
+é deslocar o alinhamento da parede em planta, uma prática bastante comum
+em muretas serpenteantes no campo (@fig:serpentine). Esse deslocamento
+aumenta o momento de inércia da parede como um todo, o que evita a
+flambagem e resiste também a cargas horizontais, como a do vento.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f2/Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG"}
+
+<!--_,-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Numa edificação, fazer uma parede serpenteante não é muito prático. Em
+vez disso, o mais comum é usar ressaltos ortogonais. Esses ressaltos
+podem ser maciços, e nesse caso podem se tornar volumes em forma de
+torres (@fig:saqqara). Eles podem, também, ser vazados para dentro, e
+nesse caso oferecem vãos nas paredes para encaixar mobiliário. Por fim,
+a largura dos ressaltos permite enquadrar portas e janelas com mais
+firmeza visual, além de oferecer espaço para assentos junto às janelas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+![Recinto murado do complexo mortuário do faraó Djoser em Saqqara, Egito, c. 2670--2650 a.C., em alvenaria de pedra com ressaltos. Foto: [Maveric149, 2008](https://commons.wikimedia.org/wiki/File:Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG)](https://upload.wikimedia.org/wikipedia/commons/f/f2/Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG){#fig:saqqara}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Peru_-_Flickr_-_Jarvis-31.jpg/1280px-Peru_-_Flickr_-_Jarvis-31.jpg"}
