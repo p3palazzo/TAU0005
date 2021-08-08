@@ -66,7 +66,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Completar",
-        "excerpt":"Quando termina a Antiguidade? Figura 1: Thomas Cole, The Course of Empire: Desolation, 1836 Figura 2: Palácio do imperador Diocleciano em Spalato, atual Split, Croácia, c. 306 d.C. Desenho: Ernest Hébrard, 1912 a b Figura 3: Espalato, plantas reconstituídas por Ernest Hébrard, 1912. a – Palácio de Diocleciano, b – Split, cidade construída sobre os...","categories": [],
+        "excerpt":"Quando termina a Antiguidade? Figura 1: Thomas Cole, The Course of Empire: Desolation, 1836 Figura 2: Palácio do imperador Diocleciano em Spalato, atual Split, Croácia, c. 306 d.C. Desenho: Ernest Hébrard, 1912 a b Figura 3: Espalato, plantas reconstituídas por Ernest Hébrard, 1912. a–Palácio de Diocleciano, b–Split, cidade construída sobre os...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/completar/",
         "teaser": null
