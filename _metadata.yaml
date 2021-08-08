@@ -1,3 +1,4 @@
 lang: pt-BR
 crossrefYaml: "_crossref.yaml"
+linkReferences: true
 suppress-bibliography: false
