@@ -1,5 +1,8 @@
-ccsLabelSep: "&nbsp;&ndash;&nbsp;"
+ccsLabelSep: " &ndash; "
 figureTitle: Figura
 tableTitle: Tabela
-tblPrefix: tabela
+tblPrefix:
+  - "tab."
+  - "tabs."
+figPrefixTemplate: '<span class="figref">$$p$$&nbsp;$$i$$</span>'
 subfigureRefIndexTemplate: $$i$$$$suf$$ $$s$$
