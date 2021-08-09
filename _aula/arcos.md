@@ -13,6 +13,16 @@ title-slide-attributes:
   data-background-image:
 ---
 
+# Processos construtivos {.unlisted data-background-color="#0f0"}
+
+## Ofícios ##
+
+## Vocabulário da construção ##
+
+## Planejamento e preparação ##
+
+## Execução e obras temporárias ##
+
 # Tecnologia e profissão #
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/bd/76/31/bd76316cc9088b7958df6ef124b26f99.jpg"}

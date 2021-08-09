@@ -340,6 +340,23 @@ collections:
   aula:
     output: true
     permalink: /:collection/:name/
+    order:
+      - processos.md
+      - arqtrad.md
+      - taipa.md
+      - arquitravada.md
+      - muraria.md
+      - arcos.md
+      - coberturas.md
+      - clima.md
+      - tipos.md
+      - volumes.md
+      - urbanismo.md
+      - completar.md
+      - ordenar.md
+      - articular.md
+      - caracterizar.md
+      - proporcionar.md
   plano:
     output: true
     permalink: /:collection/:name/
@@ -355,7 +372,10 @@ collections:
     output: true
     permalink: /:collection/:name/
     order:
-      - processo.md
+      - cabana.md
       - vernacular.md
-      - quincunx.md
-      - analitico.md
+      - volumes.md
+      - classico.md
+      - materiais.md
+      - desenho.md
+      - digitalizar.md
