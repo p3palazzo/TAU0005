@@ -23,16 +23,16 @@ var store = [{
         "url": "/tau0005/aula/arquitravada/",
         "teaser": null
       },{
-        "title": "Construção arqueada",
-        "excerpt":"Tecnologia e profissão Figura 1: Distribuição de empuxos no corte de uma igreja gótica. Desenho por Jean-Claude Golvin Figura 2: Esquemas de arcos e abóbadas Figura 3: Dimensionamento dos contrafortes para diferentes tipos de arcos, segundo François Blondel, 1675 Figura 4: Cimbramento para uma abóbada de berço segundo Viollet-le-Duc, 1856...","categories": [],
-        "tags": [],
-        "url": "/tau0005/aula/arcos/",
-        "teaser": null
-      },{
         "title": "Construção murária",
-        "excerpt":"Figura 1: Giovanni Paolo Pannini, Galeria de vistas da Roma antiga, 1757 Energia e arquitetura Construir com blocos A construção murária, ou seja, baseada em paredes, é a delimitação por excelência do espaço. Na seção anterior, vimos como a construção arquitravada vem do uso da madeira, e resulta em malhas...","categories": [],
+        "excerpt":"Princípios da construção murária A construção murária resulta em estruturas que geralmente têm uma aparência de grandes massas sólidas, e que delimitam com muita clareza os espaços arquitetônicos. A taipa e a alvenaria são os principais sistemas de construção tradicional de paredes portantes. Eles consistem num uso mais ou menos...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/muraria/",
+        "teaser": null
+      },{
+        "title": "Construção arqueada",
+        "excerpt":"Processos construtivos Ofícios Vocabulário da construção Planejamento e preparação Execução e obras temporárias Tecnologia e profissão Figura 1: Distribuição de empuxos no corte de uma igreja gótica. Desenho por Jean-Claude Golvin Figura 2: Esquemas de arcos e abóbadas Figura 3: Dimensionamento dos contrafortes para diferentes tipos de arcos, segundo François...","categories": [],
+        "tags": [],
+        "url": "/tau0005/aula/arcos/",
         "teaser": null
       },{
         "title": "Coberturas e superfícies",
@@ -50,7 +50,7 @@ var store = [{
         "title": "Propósitos",
         "excerpt":"Figura 1: Edwin Lord Weeks, A Court in the Alhambra in the Time of the Moors Cultura doméstica no Mediterrâneo Figura 2: Mediterrâneo ocidental na época romana Figura 3: Sítio arqueológico de Lattara, feitoria etrusca no sul da Gália, séculos VII a.C.—III d.C. Desenho: Gailledrat e Vacheret, 2020 Figura 4:...","categories": [],
         "tags": [],
-        "url": "/tau0005/aula/propositos/",
+        "url": "/tau0005/aula/tipos/",
         "teaser": null
       },{
         "title": "Volumes",
@@ -62,7 +62,7 @@ var store = [{
         "title": "Teoria da forma urbana",
         "excerpt":"Princípios da forma urbana Lugar tem precedência sobre o tempo Parataxis Res publica e res economica Transect Clássico e vernáculo Figura 1: Léon Krier, Civitas, 1983 Figura 2: Transecto urbano, por Duany, Plater-Zyberk &amp; Co. Figura 3: Transecto natural, por DPZ Figura 4: Transecto urbano, baseado em DPZ Arquitetura urbana...","categories": [],
         "tags": [],
-        "url": "/tau0005/aula/comunidade/",
+        "url": "/tau0005/aula/urbanismo/",
         "teaser": null
       },{
         "title": "Completar",
@@ -137,16 +137,34 @@ var store = [{
         "url": "/tau0005/plano/bibliografia/",
         "teaser": null
       },{
-        "title": "Composição de espaços",
-        "excerpt":"Ementa O espaço singular da edícula é o elemento de base da composição. A articulação entre espaços é a linguagem da composição arquitetônica. A relação entre várias composições é a “conversa” que forma as cidades. Para termos um diálogo produtivo no espaço urbano, é preciso que todos falem a mesma...","categories": [],
+        "title": "Estudo analítico: a cabana primitiva",
+        "excerpt":"[O] propósito [do estudo analítico] é garantir ao estudante, antes de ingressar no estudo da arquitetura propriamente dita, o comando de certo conhecimento das coisas necessárias para representar adequadamente uma edificação proposta. Lloyd Warren, Prefácio in John Harbeson, The Study of Architectural Design, 1927, p. 6. Objetivo Dominar algumas convenções fundamentais...","categories": [],
         "tags": [],
-        "url": "/tau0005/trabalho/processo/",
+        "url": "/tau0005/trabalho/cabana/",
         "teaser": null
       },{
         "title": "Edículas vernáculas",
         "excerpt":"Ementa Os sistemas construtivos tradicionais de todos os povos do mundo usam materiais predominantemente locais, pouco processados, e saberes empíricos lentamente refinados, privilegiando estruturas portantes à compressão. Esse processo resulta em arquiteturas com marcada identidade local. Dentro de uma ampla gama de variações regionais e culturais, a construção tradicional converge...","categories": [],
         "tags": [],
         "url": "/tau0005/trabalho/vernacular/",
+        "teaser": null
+      },{
+        "title": "Composição com volumes",
+        "excerpt":"Ementa O volume singular da edícula é o elemento de base da arquitetura. A articulação entre volumes é a linguagem da composição arquitetônica. Numa composição arquitetônica tradicional, cada volume é claramente delimitado, tem uma forma geométrica clara, e é articulado de modo autônomo. Ao mesmo tempo, todos os volumes de...","categories": [],
+        "tags": [],
+        "url": "/tau0005/trabalho/volumes/",
+        "teaser": null
+      },{
+        "title": "Analítico com ordens clássicas",
+        "excerpt":"Projetar é compor, mas para compor é preciso ter objetos a serem compostos: para os arquitetos, estes são os “elementos da arquitetura”. Harbeson, The study of architectural design, 1926, p. 27. Ementa O estudo analítico tem sido a porta de entrada no estudo do classicismo desde a organização do ensino na...","categories": [],
+        "tags": [],
+        "url": "/tau0005/trabalho/classico/",
+        "teaser": null
+      },{
+        "title": "Instrumentos e materiais de desenho",
+        "excerpt":"Para fazer as atividades da disciplina, você vai precisar de um conjunto básico de instrumentos de desenho arquitetônico e de papel. Uma superfície lisa e macia para desenhar: prancheta portátil ou de pé, mesa de jantar ou tábua em MDF com bordas retas (para poder apoiar a régua “T” nas...","categories": [],
+        "tags": [],
+        "url": "/tau0005/trabalho/materiais/",
         "teaser": null
       },{
         "title": "Convenções para desenho de arquitetura tradicional",
@@ -161,27 +179,9 @@ var store = [{
         "url": "/tau0005/trabalho/digitalizar/",
         "teaser": null
       },{
-        "title": "Instrumentos e materiais de desenho",
-        "excerpt":"Para fazer as atividades da disciplina, você vai precisar de um conjunto básico de instrumentos de desenho arquitetônico e de papel. Uma superfície lisa e macia para desenhar: prancheta portátil ou de pé, mesa de jantar ou tábua em MDF com bordas retas (para poder apoiar a régua “T” nas...","categories": [],
+        "title": "Composição de espaços",
+        "excerpt":"Ementa O espaço singular da edícula é o elemento de base da composição. A articulação entre espaços é a linguagem da composição arquitetônica. A relação entre várias composições é a “conversa” que forma as cidades. Para termos um diálogo produtivo no espaço urbano, é preciso que todos falem a mesma...","categories": [],
         "tags": [],
-        "url": "/tau0005/trabalho/materiais/",
-        "teaser": null
-      },{
-        "title": "Estudo analítico: a cabana primitiva",
-        "excerpt":"[O] propósito [do estudo analítico] é garantir ao estudante, antes de ingressar no estudo da arquitetura propriamente dita, o comando de certo conhecimento das coisas necessárias para representar adequadamente uma edificação proposta. Lloyd Warren, Prefácio in John Harbeson, The Study of Architectural Design, 1927, p. 6. Objetivo Dominar algumas convenções fundamentais...","categories": [],
-        "tags": [],
-        "url": "/tau0005/trabalho/cabana/",
-        "teaser": null
-      },{
-        "title": "Analítico com ordens clássicas",
-        "excerpt":"Projetar é compor, mas para compor é preciso ter objetos a serem compostos: para os arquitetos, estes são os “elementos da arquitetura”. Harbeson, The study of architectural design, 1926, p. 27. Ementa O estudo analítico tem sido a porta de entrada no estudo do classicismo desde a organização do ensino na...","categories": [],
-        "tags": [],
-        "url": "/tau0005/trabalho/classico/",
-        "teaser": null
-      },{
-        "title": "Composição com volumes",
-        "excerpt":"Ementa O volume singular da edícula é o elemento de base da arquitetura. A articulação entre volumes é a linguagem da composição arquitetônica. Numa composição arquitetônica tradicional, cada volume é claramente delimitado, tem uma forma geométrica clara, e é articulado de modo autônomo. Ao mesmo tempo, todos os volumes de...","categories": [],
-        "tags": [],
-        "url": "/tau0005/trabalho/volumes/",
+        "url": "/tau0005/trabalho/processo/",
         "teaser": null
       }]
