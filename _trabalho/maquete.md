@@ -1,6 +1,7 @@
 ---
 title: Construção de maquetes
 date: 2021-08-10
+read_time: false
 ---
 
 Em algumas atividades, você deverá apresentar uma maquete. Assim como o
