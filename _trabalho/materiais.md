@@ -79,3 +79,8 @@ Entrega digital
 ~ [Veja aqui](digitalizar.md) algumas dicas para entregar o seu
   desenho no Moodle com a melhor qualidade possível.
 
+Maquetes
+
+~ Indicações de ferramentas, materiais e técnicas para execução das
+  maquetes podem ser encontradas [nesta página](maquete.md).
+
