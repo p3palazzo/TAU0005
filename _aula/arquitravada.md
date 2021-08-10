@@ -284,9 +284,9 @@ construção com perfis pesados de madeira e colunas feitas de troncos
 inteiros.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/constru/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm" data-background-video-muted="true"}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm" data-background-video-muted="true"}
 
-![Floresta de cedros em Tannourine, Líbano. Filmagem: [Çağatay Erciyes, 2017]](https://cdn.palazzo.arq.br/constru/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm){#fig:cedro}
+![Floresta de cedros em Tannourine, Líbano. Filmagem: [Çağatay Erciyes, 2017]](https://cdn.palazzo.arq.br/firmitas/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm){#fig:cedro}
 
 [Çağatay Erciyes, 2017]: https://youtu.be/lnUGg4IDhxw
 
@@ -560,7 +560,7 @@ esforços horizontais como o vento, terremotos (@fig:toji), ou mesmo a
 simples irregularidade de distribuição das cargas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/constru/arquitravada/Secret_of_the_Pagodas_Earthquake_Resistant_Design-uG37gQSvrf4-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/firmitas/arquitravada/Secret_of_the_Pagodas_Earthquake_Resistant_Design-uG37gQSvrf4-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
 ::::::::::::::::::::::::::::::::: {.iframe-wrapper .fullwidth #fig:toji}
 <iframe src="https://www.youtube-nocookie.com/embed/uG37gQSvrf4?start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -768,7 +768,7 @@ exteriores. O resultado é um esqueleto contraventado em dois planos,
 muito mais estável (@fig:fu2017-8.8).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Da madeira à pedra #
+# Da madeira à pedra {.unlisted data-background-color="#0f0"}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
 
