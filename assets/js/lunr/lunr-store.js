@@ -179,6 +179,12 @@ var store = [{
         "url": "/tau0005/trabalho/digitalizar/",
         "teaser": null
       },{
+        "title": "Construção de maquetes",
+        "excerpt":"Em algumas atividades, você deverá apresentar uma maquete. Assim como o desenho arquitetônico, a confecção de maquetes para o estudo da história da arquitetura tem suas particularidades com respeito a outras finalidades, como o estudo do projeto ou a divulgação imobiliária. Ferramentas e consumíveis Estilete As ferramentas mais importantes para...","categories": [],
+        "tags": [],
+        "url": "/tau0005/trabalho/maquete/",
+        "teaser": null
+      },{
         "title": "Composição de espaços",
         "excerpt":"Ementa O espaço singular da edícula é o elemento de base da composição. A articulação entre espaços é a linguagem da composição arquitetônica. A relação entre várias composições é a “conversa” que forma as cidades. Para termos um diálogo produtivo no espaço urbano, é preciso que todos falem a mesma...","categories": [],
         "tags": [],
