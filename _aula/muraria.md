@@ -622,10 +622,8 @@ grandes edifícios públicos como a basílica de Maxêncio, do século
 
 # Materiais naturais e cozidos # {.unlisted data-background-color="#0f0"}
 
-## {.unlisted data-background-color="#0f0"}
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[O ciclo de produção dos materiais]{.newthought} da construção murária é geralmente
+O ciclo de produção dos materiais da construção murária é geralmente
 mais curto que o da madeira. O aspecto crítico é a extração da
 matéria-prima, e isso vale tanto para a pedra quanto para os blocos
 feitos de barro seco ou cozido.
@@ -634,7 +632,7 @@ feitos de barro seco ou cozido.
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-truck-driving-down-into-a-quarry-20988-medium.mp4" data-background-video-muted="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O impacto ambiental da extração dessa
+Mesmo assim, o impacto ambiental da extração dessa
 matéria-prima mineral é um aspecto cada vez mais importante à medida que
 o volume de construção aumenta em todo o mundo. Nos processos
 industriais, a extração de matérias-primas deixa para trás uma pegada
@@ -723,30 +721,58 @@ Em todos os casos, a obtenção e a correção da matéria-prima, seguida da
 moldagem e secagem dos blocos, pode levar algumas semanas. Em regiões de
 clima úmido, onde se usam sobretudo tijolos cozidos, é preciso deixar
 secar os blocos moldados durante muito mais tempo, talvez até alguns
-meses, antes de os queimar. Em qualquer caso, a relativa facilidade de
-se produzir os blocos de adobe ou os tijolos, e as suas pequenas
+meses, antes de os queimar. A queima propriamente dita dura cerca de
+sete dias, a baixa temperatura (@fig:qom).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em qualquer caso, a relativa facilidade
+de se produzir os blocos de adobe ou os tijolos, e as suas pequenas
 dimensões, fazem com que esses componentes possam ser altamente
 padronizados e estocados em grandes quantidades para pronta entrega.
 Ainda assim, a produção de blocos em formas personalizadas, numa olaria
 artesanal, também é simples, o que permite resolver elementos especiais
-como colunas e cimalhas (@fig:qom).
+como colunas e cimalhas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png" data-background-size="contain"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0247.png" data-background-size="contain"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
+![Amarrações de tijolos, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0247.png){#fig:guadet1.247 .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os tijolos têm a vantagem de serem muito regulares e padronizados, o que
+faz com que as medidas da construção sejam tiradas com facilidade. O
+tijolo tem uma boa relação entre o seu peso próprio e a capacidade
+portante, e pode ser usado para formar paredes muito espessas com
+facilidade. O segredo, como sempre, está em desencontrar as juntas
+verticais (@fig:guadet1.247).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [O assentamento dos blocos com argamassa]{.newthought} é a regra em
 quase todas as tradições da construção murária. Em muitos casos, o
 material de que é feita a argamassa é o mesmo material dos blocos:
 barro, para assentar blocos em adobe, ou cal e areia, para assentar
-blocos de pedra. Em sociedades que fazem uso generalizado de tijolos
+blocos de pedra.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em sociedades que fazem uso generalizado de tijolos
 cozidos, a argamassa de cal também costuma ser usada na argamassa, já
 que o procedimento de produção dos dois elementos envolve tecnologias
 semelhantes: a queima com redução de oxigênio, como neste forno de cal
 do século [XVIII]{.smallcaps} [@quintanafrias:2005cal5] (@fig:montesa).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Forno de cal de Montesa, Valência, Espanha, século [XVIII]{.smallcaps}. Modelagem: [Pablo Aparicio Reso, 2013](http://hornodemontesa.blogspot.com/2013/05/26-como-era-un-horno-de-cal-tradicional.html)](https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png){#fig:montesa}
+![Forno de cal de Montesa, Valência, Espanha, século [XVIII]{.smallcaps}. Modelagem: [Pablo Aparicio Reso, 2013](http://hornodemontesa.blogspot.com/2013/05/26-como-era-un-horno-de-cal-tradicional.html)](https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png){#fig:montesa .nobg}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/91/Tufo_Necropoli_della_Banditaccia.JPG" data-background-size="contain"}
 
@@ -762,37 +788,54 @@ argamassa, isto é, esses materiais reagem quimicamente com a água da
 mistura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://assets.mixkit.co/videos/preview/mixkit-working-with-concrete-14729-large.mp4"}
+## {.unlisted data-background-image="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/17dbb929034927.55dec1733efd3.jpg" data-background-position="bottom"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As argamassas resultantes dessas reações têm propriedades interessantes
 para a construção: além de aumentarem a resistência do sistema, a
 argamassa de cal preserva alguma flexibilidade que ajuda a acomodar o
 assentamento da estrutura; a reação de pozolana com cal dá ainda mais
-resistência, coesão quando os blocos também são feitos de tufo, e
-durabilidade para a parede, e mesmo alguma impermeabilização. Por isso,
+resistência, coesão quando os blocos também são feitos de tufo ou
+basalto, durabilidade para a parede, e mesmo alguma impermeabilização.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-video="https://assets.mixkit.co/videos/preview/mixkit-working-with-concrete-14729-large.mp4"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por isso,
 a pozolana é bastante usada mesmo na construção moderna, como aditivo ao
 cimento.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-image="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/17dbb929034927.55dec1733efd3.jpg" data-background-position="bottom"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O sistema construtivo mais difundido na Roma antiga, que muito chamam de
 "concreto romano", na verdade é uma alvenaria de pequenos blocos de
 rocha vulcânica assentados com um volume grande de argamassa pozolânica.
-Vamos nos deter nesse sistema mais adiante.
+Os vestígios de alvenaria no parque da via Appia Antica, em Roma,
+mostram a resistência e durabilidade da argamassa pozolânica dos antigos
+romanos, que forma uma parede quase monolítica e consegue se sustentar
+até em balanço (@fig:7bassi).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/3f/Tadelakt-ouarzazate-morocco-1.jpg"}
+![Vestígios de alvenaria romana na villa dei Sette Bassi, sudeste de Roma, 134--160 d.C. Foto do projeto de [Ana Cristina Azevedo, Eduardo Sinegaglia, Gianluca Vassalo Paleologo, Ivy Stefanie Ramos Baclig, Juliana Lisboa, Marina Amaral e Riccardo Vassalo Paleologo, Università degli studi di Roma Tre, 2014--2015](https://www.behance.net/gallery/29034927/Villa-dei-Sette-Bassi-RESTAURO)](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/17dbb929034927.55dec1733efd3.jpg){#fig:7bassi}
 
-![Aplicação de *tadelakt* tingido. For: [Eigenheym, 2014](https://commons.wikimedia.org/wiki/File:Tadelakt.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Tadelakt.jpg/800px-Tadelakt.jpg){#fig:tadelakt .marginnote}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/tadelakt-el-arte-de-las-caricias.webm" data-background-video-muted="true"}
+
+::::::::::::::::::::::::::::::::::::::::: {.iframe-wrapper #fig:tadelakt}
+<iframe src="https://www.youtube-nocookie.com/embed/s6zFL6N2byg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Aplicação de *tadelakt* na Espanha. Filmagem: [Frecuencia Tierra, 2020]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Frecuencia Tierra, 2020]: https://youtu.be/s6zFL6N2byg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O mesmo material usado para o assentamento dos blocos também pode ser
 usado no revestimento de paredes e mesmo de pisos. O *tadelakt*
-(@fig:tadelakt), uma mistura de barro com gesso (obtido a partir da
-cal), é um revestimento muito usado na bacia do Mediterrâneo e
+(@fig:tadelakt), uma mistura polida de barro com gesso (obtido a partir
+da cal), é um revestimento muito usado na bacia do Mediterrâneo e
 vizinhanças, tanto em paredes quanto em pisos. Ele dá um acabamento
 muito liso e com alguma resistência à umidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -800,35 +843,102 @@ muito liso e com alguma resistência à umidade.
 # Aparelhos de alvenaria {data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Quando uma parede não é só um par de linhas paralelas numa planta?
-Quando ela é uma montagem de elementos que se complementam e reforçam
-uns aos outros. A forma mais tradicional de se atingir essa
-complementaridade é com a chamada *parede espessa*, formada por um miolo
-entre duas estruturas de revestimento.
+Com exceção das taipas e tabiques, todas as paredes tradicionais são
+construídas com blocos. A forma e o modo de apoiar esses blocos é o que
+chamamos de *aparelho*.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0222.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O objetivo de todo aparelho de alvenaria é dar a maior resistência
+possível para o conjunto, tendo em vista os materiais e técnicas
+disponíveis para formar os blocos. Por isso, a primeira regra em todo
+aparelho é fazer juntas verticais desencontradas (@fig:guadet1.222).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Aparelhos com [(A)]{.smallcaps} juntas verticais alinhadas (errado) e [(B)]{.smallcaps} desencontradas (correto), segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0222.png){#fig:guadet1.222 .line}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg/2560px-Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg" data-background-position="bottom"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A forma mais simples de aparelho é a pedra seca. Nesse aparelho, as
+pedras são recolhidas na superfície do solo e, em geral, usadas no
+estado em que foram encontradas. A pedra seca é usada sobretudo para
+construir muretas para cercar pastos (@fig:reculfoz).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Restauro de um muro em pedra seca, [Reculfoz, França, 2014]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg/1280px-Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg){#fig:reculfoz}
+
+[Reculfoz, França, 2014]: https://commons.wikimedia.org/wiki/File:Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/2d/e6/da/2de6da73ff2048ad09b5c34d870b750d.jpg" data-bakcground-size="contain"}
+
+![Muro em pedra seca com perpianhos, c. 1780--1820. [Christian Lassure e Catherine Ropert, 1984]](https://i.pinimg.com/originals/2d/e6/da/2de6da73ff2048ad09b5c34d870b750d.jpg){#fig:lassure}
+
+[Christian Lassure e Catherine Ropert, 1984]: https://www.pierreseche.com/pierres_saillantes.htm
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Para dar maior estabilidade a essas simples pilhas de pedra, a melhor
+prática é assentar algumas pedras mais longas atravessando toda a
+espessura do muro (@fig:lassure). Essas pedras longas são chamadas de
+*perpianhos*.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-metal-gate-against-a-stone-wall-15373-medium.mp4" data-background-video-muted="true"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Com um pouco mais de esforço se faz uma parede em pedra lavrada. Aqui,
+as pedras são parcialmente regularizadas para se encaixarem. Elas
+costumam ser assentadas com uma argamassa simples, que pode ser
+simplesmente barro, uma mistura de barro com cal, ou ainda uma argamassa
+de cal e areia (@fig:lavrada-mixkit).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Muro em pedra lavrada](https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-metal-gate-against-a-stone-wall-15373-medium.mp4){#fig:lavrada-mixkit}
+
+## {.unlisted data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As pedras
+lavradas são aquelas que foram simplesmente extraídas da rocha matriz ou
+mesmo encontradas soltas; elas são encaixadas umas nas outras geralmente
+usando-se bastante argamassa. Já os blocos de pedra aparelhada recebem
+um acabamento liso nas superfícies de assentamento, onde eles se
+encaixam diretamente em outros blocos ou assentam sobre uma camada fina
+de argamassa.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-iframe="https://www.youtube.com/watch?v=2NjcBBcesgc&t=99"}
+
+![Parede incaica em aparelho poligonal, Cusco. Foto: [McKay Savage, 2012](https://commons.wikimedia.org/wiki/File:Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg/1280px-Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg){#fig:ciclop-cusco .marginnote}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A forma mais monumental da pedra aparelhada é o aparelho poligonal. Ele
+tem esse nome porque as pedras são regularizadas em formas de polígonos
+predominantemente convexos, que não formam fiadas regulares
+(@fig:ciclop-cusco).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Peru_-_Flickr_-_Jarvis-31.jpg/1280px-Peru_-_Flickr_-_Jarvis-31.jpg"}
 
 <!--_,-->
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Encontrado o solo compacto]{.newthought} ou feito o estaqueamento, a
-vala é preenchida com um baldrame em pedra lavrada ou aparelhada. Pedras
-lavradas são aquelas que foram simplesmente extraídas da rocha matriz ou
-mesmo encontradas soltas; elas são encaixadas umas nas outras geralmente
-usando-se bastante argamassa. Já os blocos de pedra aparelhada recebem
-um acabamento liso nas superfícies de assentamento, onde eles se
-encaixam diretamente em outros blocos ou assentam sobre uma camada fina
-de argamassa; só que esse acabamento não forma fiadas horizontais, e as
-faces externas dos blocos não costumam ter um acabamento muito refinado
-(@fig:saqsaywaman).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Saqsaywamán, fortificação em aparelho poligonal perto de Cusco, império inca, 1438. Foto: [Dennis Jarvis, 2009](https://commons.wikimedia.org/wiki/File:Peru_-_Flickr_-_Jarvis-31.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Peru_-_Flickr_-_Jarvis-31.jpg/1280px-Peru_-_Flickr_-_Jarvis-31.jpg){#fig:saqsaywaman}
 
-![Saqsaywamán, fortificação em pedra aparelhada perto de Cusco, império inca, 1438. Foto: [Dennis Jarvis, 2009](https://commons.wikimedia.org/wiki/File:Peru_-_Flickr_-_Jarvis-31.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Peru_-_Flickr_-_Jarvis-31.jpg/1280px-Peru_-_Flickr_-_Jarvis-31.jpg){#fig:saqsaywaman}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O aparelho poligonal é especialmente adequado para o trabalho com
+ferramentas em pedra polida ou bronze, porque os blocos só precisam ser
+um pouco desbastados para encontrar o encaixe perfeito entre eles. As
+muralhas incaicas dos séculos [XIV]{.smallcaps} e [XV]{.smallcaps} são
+terraplenos com arrimos em aparelho poligonal (@fig:saqsaywaman).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Do aparelho poligonal, podemos passar para os sistemas que formam fiadas
+mais ou menos horizontais.
 O arquétipo da construção murária é a estrutura em blocos de adobe sobre
 um baldrame em pedra lavrada; o conjunto pode ser reforçado e
 contraventado com esteios, frechais e baldrames em madeira, como nas
@@ -851,29 +961,77 @@ articulando os cantos, rodapés e coroamentos.
 
 ![Porta dos Leões, cidade heládica de Micenas, Grécia, c. 1350 a.C. Foto: [Andy Hay, 2016](https://commons.wikimedia.org/wiki/File:Path_upto_the_Lion_Gate,_Mycenae_(28693130016).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Path_upto_the_Lion_Gate,_Mycenae_(28693130016).jpg/1280px-Path_upto_the_Lion_Gate,_Mycenae_(28693130016).jpg){#fig:ciclop-lions}
 
-## {.unlisted data-background-iframe="https://www.youtube.com/watch?v=2NjcBBcesgc&t=99"}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Várias tradições construtivas monumentais usam pedras aparelhadas
+formando fiadas mais ou menos horizontais. Um dos exemplos mais
+conhecidos é o da Grécia na Idade do Bronze, onde foram construídas
+grandes muralhas em pedra aparelhada sem argamassa. Essas muralhas
+gregas são chamadas de *ciclópicas*, porque o tamanho das pedras é digno
+desses gigantes mitológicos, os cíclopes (@fig:ciclop-lions).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Parede incaica em pedras ciclópicas, Cusco. Foto: [McKay Savage, 2012](https://commons.wikimedia.org/wiki/File:Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg/1280px-Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg){#fig:ciclop-cusco .marginnote}
+## {.unlisted data-background-image="https://live.staticflickr.com/65535/49523007636_92cab09df1_k_d.jpg"}
 
-## {.unlisted data-background-iframe="https://www.youtube.com/watch?v=Xk9TCkIHaFo&t=29"}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Outra tradição arquitetônica monumental é a dos maias, na Mesoamérica.
+Em cidades como Palenque, os muros em pedra
+aparelhada foram usados tanto como arrimos de terraplenos formando as
+famosas pirâmides, quanto para construir palácios e templos.
+Nesses casos, as pedras maiores e mais regulares eram usadas para dar a
+amarração das quinas dos pilares e das paredes, e os miolos foram
+preenchidos com pedras menores (@fig:ciclop-palenque).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Palácio maia no sítio de Palenque, atual México, século [VII]{.smallcaps} d.C. Foto: [Bernard Dupont, 2020](https://commons.wikimedia.org/wiki/File:A-shaped_Corbel_Archs_-_Palenque_Maya_Site,_Feb_2020.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/A-shaped_Corbel_Archs_-_Palenque_Maya_Site,_Feb_2020.jpg/1280px-A-shaped_Corbel_Archs_-_Palenque_Maya_Site,_Feb_2020.jpg){#fig:ciclop-palenque}
 
 <!--_,-->
 
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-ancient-mayan-ruins-in-mexico-4467.mp4" data-background-video-muted="true"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+![Palácios maias](https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-ancient-mayan-ruins-in-mexico-4467.mp4){#fig:mayan-mixkit}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Algumas estruturas em alvenaria de pedra não se combinam com outros
-sistemas. É o caso das muralhas chamadas de ciclópicas, que usam pouca
-ou nenhuma argamassa e sem revestimento ou cunhais; elas têm esse nome
-por que, para os gregos do período clássico, elas eram tão maciças que
-só podiam ter sido construídas pelos cíclopes, os gigantes de um olho só
-da mitologia homérica. Muralhas ciclópicas foram construídas na Grécia
-da Idade do Bronze, como em Micenas, nas cidades maias dos séculos
-[III]{.smallcaps} a.C. a [IX]{.smallcaps} d.C. e no império Inca dos
-séculos [XIV]{.smallcaps} a [XVI]{.smallcaps} ([@fig:ciclop-lions;
-@fig:ciclop-palenque; @fig:ciclop-cusco]). Mesmo nesses casos, no
-entanto, os muros em pedra geralmente estão associados ao arrimo de
-algum terrapleno.
+Em qualquer caso, as paredes maias recebiam acabamento em cantaria de
+pedra: blocos com acabamento retangular e liso em todas as faces
+(@fig:mayan-mixkit).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0228.png"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
+![Amarração de parede em cantaria, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0228.png){#fig:guadet1.228 .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A cantaria de pedra foi muito usada na Grécia dos períodos arcaico e
+clássico porque há mármore em abundância na bacia do mar Egeu, além de
+calcáreo de boa qualidade no sul da Itália, as principais regiões de
+povoação grega. Uma amarração comum de cantaria é alternar fiadas de
+perpianhos com fiadas de blocos ao comprido (@fig:guadet1.228).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://live.staticflickr.com/65535/50972614793_c11bf0abac_k_d.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essas pedras permitem esculpir detalhes arquitetônicos
+precisos, o que era uma característica da arquitetura erudita entre os
+gregos. Essa identidade entre cantaria de pedra e arquitetura clássica
+grega é tão forte que Vitrúvio chama as paredes em cantaria
+de "aparelho grego" (@fig:erechtheion).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Mnésicles, arquiteto, Erecteu, Atenas, 421--406 a.C. Parede estrutural em cantaria de pedra simples. Foto: [Pedro P. Palazzo, 2011](https://www.flickr.com/photos/arqpalazzo/50972614793/in/dateposted-public/)](https://live.staticflickr.com/65535/50972614793_c11bf0abac_k_d.jpg){#fig:erechtheion}
+
+## {.unlisted data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[Quando uma parede]{.newthought} não é só um par de linhas paralelas numa planta?
+Quando ela é uma montagem de elementos que se complementam e reforçam
+uns aos outros. A forma mais tradicional de se atingir essa
+complementaridade é com a chamada *parede mista* ou *espessa*, formada por um miolo
+entre duas estruturas de revestimento [@mascarenhas:2019tecnicas].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-iframe="https://www.youtube.com/watch?v=I17dBcMW1wQ&t=25"}
@@ -904,23 +1062,9 @@ ou cerâmica formando mosaicos, ou ainda ladrilhos vidrados.
 [O chamado "concreto romano"]{.newthought} é o caso mais emblemático de
 parede espessa no mundo Antigo. Esse sistema tem, na verdade, muito
 pouco a ver com o concreto armado moderno, e muito mais com a parede
-espessa da Mesopotâmia. A alvenaria romana é na verdade uma variedade de
+mista da Mesopotâmia. A alvenaria romana é na verdade uma variedade de
 sistemas construtivos que envolvem alguma combinação de pedregulhos mais
 ou menos regularizados e tijolos cozidos (@fig:testaceus).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-image="https://live.staticflickr.com/65535/50972614793_c11bf0abac_k_d.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Os antigos romanos também conheciam a parede em cantaria --- blocos de
-pedra com acabamento preciso e pouquíssima argamassa de assentamento,
-sem um miolo de parede a ser preenchido. Mas essa técnica era incomum no
-Mediterrâneo ocidental, e exótica a ponto de o próprio Vitrúvio a chamar
-de "aparelho grego" (@fig:erechtheion).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
-![Mnésicles, arquiteto, Erecteu, Atenas, 421--406 a.C. Parede estrutural em cantaria de pedra simples. Foto: [Pedro P. Palazzo, 2011](https://www.flickr.com/photos/arqpalazzo/50972614793/in/dateposted-public/)](https://live.staticflickr.com/65535/50972614793_c11bf0abac_k_d.jpg){#fig:erechtheion}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/97/ef/74/97ef74a2550ee01847152232c33eb10b.png" data-background-opacity="0.25"}
@@ -1017,9 +1161,47 @@ sujeita a que os dois tramos se movimentem separadamente um do outro
 
 ![Junção entre paredes não solidarizadas, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0235.png){#fig:guadet1.235 .line}
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0268.png" data-background-size="contain"}
 
-![Construção de cunhais em cantaria de pedra, segundo Julien Guadet, *Éléments et théorie de l'architecture*](){#fig:cunhal .line}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por causa dessa fragilidade, é importante prever cunhais sobretudo em
+grandes construções em cantaria (@fig:guadet1.268). Os cunhais são
+blocos talhados em forma de aspa, T ou cruz que solidarizam as paredes
+no seu ponto de encontro (@fig:guadet1.236).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
+![Esquema de cunhais, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0268.png){#fig:guadet1.268 .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0236.png" data-background-size="contain"}
+
+![Cunhais em cantaria, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0236.png){#fig:guadet1.236 .line}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0243.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os cunhais também podem ser usados ao longo de uma parede muito alta ou
+alongada, para dar maior estabilidade estrutural e visual, especialmente
+na arquitetura monumental (@fig:guadet1.243).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Cunhais no meio de uma parede, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0243.png){#fig:guadet1.243 .line}
+
+## {.unlisted}
+
+::::::::::::::::::::::::::::::::::::::::::: {#fig:porteafaux .fullwidth}
+![correto: a estrutura de cima não ultrapassa o alinhamento de baixo](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0252.png){#fig:guadet1.252 .line width="18%"}
+![](){#fig:nil width="0%"}
+![errado: a base da estrutura de cima está em balanço sobre o alinhamento de baixo](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0256.png){#fig:guadet1.256 .line width="77%"}
+
+Alinhamentos estruturais em alvenaria, segundo Julien Guadet
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Para concluir, é sempre importante lembrar que uma parede de alvenaria
+só funciona à compressão pura. Isso quer dizer que o seu alinhamento
+estrutural precisa sempre ser mais largo em baixo e mais estreito em
+cima, nunca o contrário (@fig:porteafaux).
 
 # Bibliografia {.allowframebreaks}
 
