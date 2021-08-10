@@ -164,6 +164,7 @@ exclude:
   - vendor
   - .asset-cache
   - .bundle
+  - .gitignore
   - .jekyll-assets-cache
   - .sass-cache
   - assets/js/plugins
@@ -177,6 +178,7 @@ exclude:
   - gulpfile.js
   - LICENSE
   - log
+  - Makefile
   - node_modules
   - package.json
   - package-lock.json
