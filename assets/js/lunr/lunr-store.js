@@ -30,7 +30,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Construção arqueada",
-        "excerpt":"Processos construtivos Ofícios Vocabulário da construção Planejamento e preparação Execução e obras temporárias Tecnologia e profissão Figura 1: Distribuição de empuxos no corte de uma igreja gótica. Desenho por Jean-Claude Golvin Figura 2: Esquemas de arcos e abóbadas Figura 3: Dimensionamento dos contrafortes para diferentes tipos de arcos, segundo François...","categories": [],
+        "excerpt":"Geometria e forças As estruturas tradicionais em alvenaria estrutural sustentam a construção ao mesmo tempo que elas delimitam espaços interiores. No entanto, essas paredes só são úteis se pudermos praticar aberturas nelas para permitir a passagem, iluminação e ventilação. Assim como a concepção estrutural do conjunto, essas aberturas podem ser...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/arcos/",
         "teaser": null
