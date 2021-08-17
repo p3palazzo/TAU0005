@@ -287,8 +287,9 @@ Construir
 
 ~ Ângulos convexos devem ser construídos de modo a não deixar a
   espessura das peças visível no exterior. Corte materiais grossos em
-  bisel e faça um vinco leve com o estilete na face externa do ângulo
-  para dar um acabamento preciso e assertivo.
+  bisel e faça um vinco *leve* com o estilete na face externa do ângulo
+  para dar um acabamento preciso e assertivo. Cuidado ao fazer o vinco
+  para não destacar os dois lados da superfície!
 
 ~ Em ângulos convexos nos quais uma superfície é muito mais importante
   ou visível do que a outra, é possível simplesmente cortar duas peças

@@ -845,7 +845,7 @@ Tuan (@fig:tuan) [@tuan:1980topofilia].
 
 ![Yi-Fu Tuan](https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg){#fig:tuan .marginnote}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain" data-background-position="right"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain" data-background-position="right" data-background-color="#0f0"}
 
 ![Léon Krier, Edifícios (da Universidade de Yale) --- idade e primeira campanha significativa de reformas, 1990](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png){#fig:krier-1990 .line}
 

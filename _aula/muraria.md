@@ -3,7 +3,7 @@ title   : "Construção murária"
 subtitle: "Elementos da construção"
 item    : "III"
 author  : "Pedro P. Palazzo"
-date    : 2021-08-17
+date    : 2021-08-10
 toc:
   - Princípios da construção murária
   - Arquitetura subtrativa
