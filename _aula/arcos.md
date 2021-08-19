@@ -31,21 +31,45 @@ tipos: arquitravadas, isso é, formadas por vigas, ou arqueadas, isso é,
 formadas por arcos na própria alvenaria.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/0f/29/c0/0f29c0da49217bb84763ddd903af7bc8.jpg" data-background-size="contain"}
+<!--
+   -## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-verga-comp.png" data-background-size="contain"}
+   -
+   -![Esquemas de arcos e abóbadas](https://i.pinimg.com/originals/bd/76/31/bd76316cc9088b7958df6ef124b26f99.jpg){#fig:vaults}
+   -->
 
-![Esquemas de arcos e abóbadas](https://i.pinimg.com/originals/bd/76/31/bd76316cc9088b7958df6ef124b26f99.jpg){#fig:vaults}
+## {.unlisted}
+
+::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:arcomp .r-stack}
+![vão arquitravado](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-verga-vert-comp-blank.png){#fig:arcompA .line .fragment .current-visible data-fragment-index="0" width="45%"}
+![cargas](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-verga-vert-cargas.png){#fig:arcompB .line .fragment .current-visible data-fragment-index="0" width="45%"}
+
+![vão arqueado](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-vert-comp-blank.png){#fig:arcompC .line .fragment .current-visible data-fragment-index="1" width="45%"}
+![cargas](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-comp-vert-cargas.png){#fig:arcompD .line .fragment .current-visible data-fragment-index="1" width="45%"}
+
+Abertura arquitravada (verga) e arqueada (arco)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O arco é uma estrutura em alvenaria que serve para transformar esforços
 de tração em esforços de compressão. Isto é, em vez de fazermos uma
 abertura arquitravada onde uma verga trabalha à flexão para resistir ao
-carregamento da parede acima dela, o arco vai receber essa carga e
-distribuí-la para os lados, comprimindo os blocos sucessivos que fazem
-parte dele (@fig:vaults). Os blocos de alvenaria que constituem o arco
-são chamados de *aduelas*; a aduela central de um arco é a *chave* e os
-blocos assentados horizontalmente que sustentam as aduelas mais externas
-são as *impostas*. Os arcos tradicionais em geral precisam de contenções
-laterais que chamamos de *contrafortes*.
+carregamento da parede acima dela, o arco vai receber essa
+carga e distribuí-la para os lados, comprimindo os blocos sucessivos que
+fazem parte dele (@fig:arcomp).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted}
+
+::::::::::::::::::::::::::::::::::::::::::::::::: {.marginnote .r-stack}
+![Componentes do arco. a–aduelas, b–imposta, c–chave, d–pilar ou maciço, e–contraforte](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-defs.png){#fig:arco-defs .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os blocos de alvenaria que constituem o
+arco são chamados de *aduelas*; a aduela central de um arco é a *chave*
+e os blocos assentados horizontalmente que sustentam as aduelas mais
+externas são as *impostas*. Os arcos tradicionais em geral precisam de
+contenções laterais que chamamos de *contrafortes* (@fig:arco-defs).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-color="#0f0"}
@@ -55,22 +79,33 @@ Assim como as vigas, os arcos precisam ser dimensionados segundo a carga
 que eles recebem e a abertura do vão. Apesar disso, numa construção
 arqueada a forma da estrutura vai ser muito mais importante do que o
 tamanho das peças consideradas individualmente.
+Para aumentar as dimensões de uma estrutura arquitravada, temos que usar
+materiais de dimensões maiores: encontrar troncos de árvores maiores ou
+cortar pedras maiores.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm" data-background-video-muted="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Isso faz com que os arcos sejam uma solução estrutural especialmente
-útil para construções muito grandes, já que o tamanho das toras de
-madeira, dos blocos de pedra ou dos tijolos não pode aumentar
-indefinidamente.
+Já no caso de arcos, abóbadas e cúpulas, o
+tamanho do vão e da estrutura não dependem diretamente do tamanho dos
+blocos que vão ser usados. Podemos construir estruturas arqueadas muito
+grandes, como a cúpula do Panteão em Roma com 43 metros de vão livre,
+usando só blocos de pedra que podem ser assentados à mão usando
+argamassa (@fig:pantheon-wtv).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
 ![Apolodoro de Damasco, arquiteto, Panteão, Roma, 113--125 d.C. Vista do interior filmada por [Wanderlust Travel Videos, 2021]](https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm){#fig:pantheon-wtv}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Wanderlust Travel Videos, 2021]: https://youtu.be/bn6wLKU1XsM
 
 ## {.unlisted data-background-image="https://image.jimcdn.com/app/cms/image/transf/dimension=612x10000:format=jpg/path/s65df48357f12391f/image/i16866f73a4472065/version/1547398756/image.jpg" data-background-size="contain"}
+
+![Elevação e corte do *tholos* no santuário de Esculápio em Epidauro, c. 360--320 a.C. Reconstituição por [Massimiliano Pezzolini, 2003]](https://image.jimcdn.com/app/cms/image/transf/dimension=612x10000:format=jpg/path/s65df48357f12391f/image/i16866f73a4472065/version/1547398756/image.jpg){#fig:asklepios}
+
+[Massimiliano Pezzolini, 2003]: https://www.massimilianopezzolini.com/artworks/european-architectures/epidauro-ricostruzione-di-abaton-tempio-e-tholos/
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Quando falamos de fundações, já vimos que a distribuição homogênea das
@@ -80,19 +115,15 @@ entre dimensões, e em última análise favorece as composições com
 simetria bilateral ou mesmo central (@fig:asklepios).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Elevação e corte do *tholos* no santuário de Esculápio em Epidauro, c. 360--320 a.C. Reconstituição por [Massimiliano Pezzolini, 2003]](https://image.jimcdn.com/app/cms/image/transf/dimension=612x10000:format=jpg/path/s65df48357f12391f/image/i16866f73a4472065/version/1547398756/image.jpg){#fig:asklepios}
-
-[Massimiliano Pezzolini, 2003]: https://www.massimilianopezzolini.com/artworks/european-architectures/epidauro-ricostruzione-di-abaton-tempio-e-tholos/
-
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8a/Forces_on_trabeated_structure.png" data-background-position="top"}
-
-![Forças numa estrutura arquitravada: [(A)]{.smallcaps} carga axial concentrada; [(B)]{.smallcaps} carga uniformemente distribuída causando esforços de flexão (deformação nas linhas tracejadas) e cisalhamento [(C)]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Forces_on_trabeated_structure.png/1024px-Forces_on_trabeated_structure.png){#fig:arquitravada .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por isso, sempre que dimensionamos uma estrutura tradicional, esse
 dimensionamento supõe cargas uniformemente distribuídas sobre cada
 elemento portante ([@fig:arquitravada] [B]{.smallcaps}).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Forças numa estrutura arquitravada: [(A)]{.smallcaps} carga axial concentrada; [(B)]{.smallcaps} carga uniformemente distribuída causando esforços de flexão (deformação nas linhas tracejadas) e cisalhamento [(C)]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Forces_on_trabeated_structure.png/1024px-Forces_on_trabeated_structure.png){#fig:arquitravada .line}
 
 ## {.unlisted data-background-color="#0f0"}
 
@@ -111,7 +142,7 @@ prática. Fazemos isso por três motivos.
   tradicional.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain" data-background-position="right" data-background-color="#0f0"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
 ![Léon Krier, Edifícios da Universidade de Yale: idade e primeira campanha significativa de reformas, 1990](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png){#fig:krier-1990 .line}
@@ -147,10 +178,10 @@ desenvolvimento da matemática moderna nos dá uma compreensão importante
 sobre como funcionam os arcos tradicionais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/604px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg" data-background-size="contain" data-background-position="right" data-background-color="#0f0"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/b3/f1/9d/b3f19d2977e920c7a6d9eb91febcdbe8.png" data-background-size="contain" data-background-position="right" data-background-color="#0f0"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Galileu Galilei (1564--1642), retratado por [Justus Sustermans, c. 1640]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg/604px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei%2C_1636.jpg){#fig:galileo}
+![Galileu Galilei (1564--1642), retratado por [Justus Sustermans, c. 1640]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg/604px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg){#fig:galileo}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Justus Sustermans, c. 1640]: https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg
@@ -206,7 +237,7 @@ como ele anotou nos seus cadernos (@fig:galileo-c72f116).
 
 [códice 72, fl. 116 v.º]: http://www.imss.fi.it/ms72/HTML/F116_V/M116_V.HTM
 
-## {.unlisted data-background-image="http://www.imss.fi.it/ms72/IMAGE1/C117_R.jpg" data-background-position="top"}
+## {.unlisted data-background-image="http://www.imss.fi.it/ms72/IMAGE1/C117_R.jpg"}
 
 ![Galileu Galilei, manuscrito no [códice 72, fl. 117 r.º]](http://www.imss.fi.it/ms72/IMAGE2_L/D117_R.jpg){#fig:galileo-c72f117}
 
@@ -232,6 +263,19 @@ suspensa pelo seu próprio peso, como a que está representada nas mãos do
 próprio Hooke nessa pintura comemorativa por Rita Greer
 (@fig:greer-hooke).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/eb/Parabola_graphed_against_a_catenary_upside_down_view.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A catenária é a função do cosseno de uma hipérbola, enquanto a parábola
+é o resultado de uma função do segundo grau ou função quadrática (aquela
+onde a gente usa Bhaskara) (@fig:para-cat).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Catenária e parábola comparadas. Gráfico: [Dino,
+2016]](https://upload.wikimedia.org/wikipedia/commons/e/eb/Parabola_graphed_against_a_catenary_upside_down_view.png){#fig:para-cat}
+
+[Dino, 2016]: https://commons.wikimedia.org/wiki/File:Parabola_graphed_against_a_catenary_upside_down_view.png
 
 ## {.unlisted data-background-image="https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_2/d85e5284_0a8d_44ad_8a15_a3bb0029345f/mid_00290173_001.jpg"}
 
@@ -305,16 +349,6 @@ com muita facilidade usando um diagrama funicular
 [@rondeaux:2018fully12].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O diagrama funicular mais simples possível para um arco uniformemente
-carregado vai considerar que todas as cargas são verticais. Vamos
-representar os vetores dessas cargas numa linha vertical.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Esquema de forças e polígono funicular de um arco uniformemente carregado](){#fig:funicular .line}
-
 # Estruturas lineares # {data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -325,14 +359,71 @@ ideal e a realidade construída, uma série de considerações práticas vai
 impor alguns compromissos na eficiência da estrutura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Catenária ##
+## Catenárias e parábolas ##
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/93/Catenaria_in_terra_cruda_a_più_corsi_di_conci.jpeg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O estudo matemático das cargas à compressão pura mostrou que a catenária
 é a forma ideal de um arco que só sustenta o seu próprio peso. Esse é o
-caso de muitos arcos que geram o traçado de coberturas de edifícios. Por
-isso, alguns dos mais antigos traçados de arcos têm formas que se
-aproximam muito de uma catenária matematicamente perfeita.
+caso de muitos arcos que geram o traçado de coberturas de edifícios, já
+que a catenária permite fazer uma estrutura mais leve, economizando
+material (@fig:cat-adobe). Por isso, alguns dos mais antigos traçados de
+arcos têm formas que se aproximam muito de uma catenária matematicamente
+perfeita. Além disso, as curvas artesanais são sempre aproximadas, e a
+conversão de uma catenária em parábola é simples.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Arco em forma de catenária construído em adobe. Foto: [Max Corradi, 2012]](https://upload.wikimedia.org/wikipedia/commons/9/93/Catenaria_in_terra_cruda_a_più_corsi_di_conci.jpeg){#fig:cat-adobe}
+
+[Max Corradi, 2012]: https://commons.wikimedia.org/wiki/File:Catenaria_in_terra_cruda_a_più_corsi_di_conci.jpeg
+
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Nubian%20vault-2hXroNBgrXU-720p-25fps.webm"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O princípio estrutural do arco verdadeiro é conhecido no Egito, na Núbia
+e na Mesopotâmia pelo menos desde meados do [II]{.smallcaps} milênio
+a.C. Os mais antigos arcos foram construídos em adobe, e talvez
+provenham da África subsaariana. Construções em forma de catenária são
+comuns até hoje na região que vai da Núbia (ao sul do Egito, no atual
+Sudão) aos lagos da África central (atuais Camarões e Chade).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::: {#fig:nubienne .iframe-wrapper}
+<iframe src="https://www.youtube-nocookie.com/embed/2hXroNBgrXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Association la Voûte Nubienne, construção de abóbadas núbias, Sudão. Produção: [Autodesk e Dezeen, 2016](https://youtu.be/2hXroNBgrXU)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted}
+
+::::::::::::::::::::::::::::::::::::::::: {#fig:choisy-nubie .fullwidth}
+![procedimento de execução dos arcos sucessivos](https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0033.png){#fig:choisy1.033 .line width="45%"}
+![variações: arcos inclinados e sobrepostos](https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0034.png){#fig:choisy1.034 .line width="45%"}
+
+Construção de abóbadas núbias, segundo Choisy, *Histoire de l'architecture*
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Persia-Taq_Kasra_Wonder_of_Architecture.webm"}
+
+::::::::::::::::::::::::::::::::::::::::::: {#fig:kasra .iframe-wrapper}
+<iframe src="https://www.youtube-nocookie.com/embed/Si1N2t0Dm7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Ruínas do *eyvan-i Medayin* (arco de Ctesifonte), Pérsia sassânida (atual Taq Kasrā, Iraque), 241 d.C. Direção: [Pejman Akbarzadeh, 2018](https://youtu.be/Si1N2t0Dm7k)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://silk-cities.org/wp-content/uploads/2021/04/Taq-Kasra-Architecture-Now.jpg" data-background-transition="slide-in fade-out"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+![*Eyvan* com arco em catenária, Ctesifonte. Desenho do estado atual em [Silk Cities, 2020]](https://silk-cities.org/wp-content/uploads/2021/04/Taq-Kasra-Architecture-Now.jpg){#fig:kasra-elv-now}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Silk Cities, 2020]: https://silk-cities.org/interactive-then-now
+
+## {.unlisted data-background-image="https://silk-cities.org/wp-content/uploads/2021/04/Taq-Kasra-Architecture-Then.jpg" data-background-transition="fade-in slide-out"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+![*Eyvan* com arco em catenária, Ctesifonte. Reconstituição em [Silk Cities, 2020]](https://silk-cities.org/wp-content/uploads/2021/04/Taq-Kasra-Architecture-Then.jpg)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Arco pleno ##
