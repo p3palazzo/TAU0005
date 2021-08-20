@@ -163,20 +163,28 @@ pedra seca, ou seja, pedras empilhadas sem argamassa (@fig:orangia).
 compressão pura. As paredes tradicionais em alvenaria de blocos ou em
 taipa só exercem a força do próprio peso O atrito entre os componentes
 da alvenaria ou taipa oferece um pouco de resistência contra o
-cisalhamento, mas nenhuma resistência à tração nem, portanto, à flexão.
+cisalhamento e um mínimo de resistência a pequenos esforços de tração
+lateral, como a força do vento.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/muraria-flambagem.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Por isso, a principal preocupação nas paredes de blocos é a flambagem da
+Como a resistência da alvenaria sempre se dá à compressão, a sua
+estabilidade aumenta à medida que vamos "descendo" do topo da parede até
+o solo. Isso acontece porque quanto mais massa de parede temos acima de
+um ponto qualquer, mais o vetor de força vertical --- o peso próprio da
+estrutura --- predomina sobre qualquer esforço lateral. Por outro lado,
+a principal preocupação nas paredes de blocos é a flambagem da
 estrutura (@fig:flambagem). Isso quer dizer que uma parede esbelta pode
 ser deformada para os lados mesmo por uma carga vertical. Esse problema
 é especialmente importante quando a parede é construída com blocos
 pequenos --- em geral, adobe ou tijolo cozido.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Resistência e flambagem de paredes em alvenaria](){#fig:flambagem .line}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+![Resistência de paredes em alvenaria: [(A)]{.smallcaps} compressão axial por cargas permanentes e acidentais; [(B)]{.smallcaps} carga lateral acidental; [(C)]{.smallcaps} resistência lateral por atrito; [(A′)]{.smallcaps} vetor de carga excêntrica causando flambagem](https://hcommons.org/app/uploads/sites/1002372/2021/08/muraria-flambagem.png){#fig:flambagem .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0221.png" data-background-size="contain"}
 
