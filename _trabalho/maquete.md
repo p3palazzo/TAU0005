@@ -207,6 +207,13 @@ Acetato transparente ou papel vegetal
   Além disso, é muito difícil colar acetato ou vegetal sem deixar
   sujeira visível.
 
+Papel pluma (foam)
+
+~ É difícil fazer cortes precisos nesse material e, assim como o isopor,
+  ele é feito de um material à base de petróleo, não reciclável nem
+  biodegradável. Mesmo assim, pode ser interessante para fazer bases ou
+  outras superfícies espessas e simples, por ser leve e resistente.
+
 Materiais "realistas"
 
 ~ As lojas de artes costumam ter um amplo estoque de materiais para
