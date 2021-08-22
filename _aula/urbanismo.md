@@ -105,14 +105,14 @@ exclusividade da cultura imperial romana, e sequer foi inventado pelos
 romanos. Ele aparece muito antes, na Grécia do século [V]{.smallcaps}
 a.C., nos planos chamados *hipodâmicos*. Esse nome é uma referência ao
 arquiteto Hipódamo de Mileto, que divulgou e popularizou o uso da planta
-em retícula que já tinha sido usada na sua cidade (@fig:mileto).
+em retícula que já tinha sido usada na sua cidade. [@fig:mileto]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/2c/70/52/2c7052c309972c4f4b27aaa39efd9280.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O uso da malha viária em retícula se generaliza na Grécia do período
-Helenístico. Em Priene (@fig:priene), a rigidez do plano desconsidera
+Helenístico. Em Priene, [@fig:priene] a rigidez do plano desconsidera
 até a forte inclinação do terreno. Essa escolha cria condições
 particulares de inclinação dos lotes e tem impacto no custo das
 construções.
@@ -302,7 +302,7 @@ ela ocorre quando há alguma barreira natural impedindo a continuidade do
 tecido, como um barranco ou um curso d'água, ou ainda quando há uma
 exigência militar pela manutenção de uma área desimpedida para defesa.
 As três condições ocorrem juntas na cidade de Carcassonne, no sudoeste
-da França (@fig:carcassonne).
+da França. [@fig:carcassonne]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Carcassonne, cidade velha fortificada e *bastide* (cidade planejada) do século [XIV]{.smallcaps}. Reconstituição por [Jean-Claude Golvin](https://jeanclaudegolvin.com/project/france/)](https://i.pinimg.com/originals/3e/c1/a4/3ec1a49e1d0edaacce2e83fefb4a3ec2.jpg){#fig:carcassonne}
@@ -314,10 +314,10 @@ da França (@fig:carcassonne).
 ![Como, Itália, II fase da ocupação romana. Levantamento por Gianfranco Caniggia, 1965](https://i.pinimg.com/originals/85/9c/ca/859ccaa45f361cac1c2c3414659dbaaa.png){#fig:como-2fase}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Fechamento de via com lote na Europa medieval (@fig:como-2fase). Também
+Fechamento de via com lote na Europa medieval. [@fig:como-2fase] Também
 pode ocorrer, inversamente, a abertura de uma via onde antes ficava um
-espaço cívico cercado, como um fórum, ou mesmo coberto, como um mercado
-(@fig:campomarzio).
+espaço cívico cercado, como um fórum, ou mesmo coberto, como um mercado.
+[@fig:campomarzio]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/66/85/fc/6685fce724deb4f52fa3e91b5cdc1864.jpg"}
@@ -357,7 +357,7 @@ chinesas ([@fig:tangshi; @fig:changandongshi]) e europeias.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Conversão de um *temenos* (recinto especializado) em tecido urbano mediante
-sedimentação e sobreposição de novas ruas (@fig:firenze).
+sedimentação e sobreposição de novas ruas. [@fig:firenze]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Anfiteatro romano de Florença e tecido urbano resultante](https://i.pinimg.com/originals/05/09/4e/05094e4e8c134f990f5c13ae79dca19e.png){#fig:firenze}

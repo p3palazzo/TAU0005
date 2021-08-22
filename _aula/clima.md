@@ -9,18 +9,22 @@ toc:
   - Unidade na diversidade
   - "Três idades do homem: arquitetura para todos"
   - "Captar e armazenar: civilizações hidráulicas no Ceilão e no Sudeste asiático"
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1280px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
+  caption: "Edwin Lord Weeks. *Vista do espelho d'água para o Templo Dourado em Amritsar*, 1883"
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1280px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
 ---
 
 # {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1280px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg" data-background-position="top"}
 
-![Edwin Lord Weeks. Across the Pool to the Golden Temple of Amritsar, 1883](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1024px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg){#fig:weeks .fullwidth}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+![Edwin Lord Weeks. Across the Pool to the Golden Temple of Amritsar, 1883](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1024px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg){#fig:weeks}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Unidade na diversidade #
+# Unidade na diversidade # {data-background-color="#0f0"}
 
-
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A cultura tradicional da Índia é *exótica* aos olhos do Ocidente num
 nível que outras culturas da Ásia não atingem. A China é centralizada,
 burocrática e materialista --- todos valores que os europeus conhecem
@@ -34,14 +38,19 @@ exuberante e livre de regras acadêmicas, uma estratificação social e de
 gênero opressiva e, claro, uma história tão antiga que os historiadores
 europeus do século [XIX]{.smallcaps} não podiam admitir que ela fosse
 verdadeira.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg"}
 
 ![Percy Brown (1872--1955) com o artista caxemirí D.N. Walli](https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg){#fig:brown-walli .marginnote}
 
-Essa era a opinião do historiador da arte inglês Percy Brown
-(@fig:brown-walli), um dos pioneiros no estudo das origens da
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essa era a opinião do historiador da arte inglês Percy Brown,
+[@fig:brown-walli] um dos pioneiros no estudo das origens da
 arquitetura monumental na Índia. Para Brown:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+. . .
 
 > Em cada um dos principais processos históricos da arquitetura há um
 > princípio básico fundamentando a sua concepção, e que lhe dá a sua
@@ -57,10 +66,11 @@ arquitetura monumental na Índia. Para Brown:
 
 ![Ananda K. Coomaraswamy (1877--1947). Foto: [Alvin Langdon Coburn, 1916](https://commons.wikimedia.org/wiki/File:Coomaraswamy.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Coomaraswamy.jpg/588px-Coomaraswamy.jpg){#fig:coomaraswamy .marginnote}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os pesquisadores indianos tratam do tema da espiritualidade na
 arquitetura de modos variados, mas sempre diferentes do exotismo
 ocidental. O historiador da arte cingalês [Ananda
-Coomaraswamy](https://pt.wikipedia.org/wiki/Ananda_Coomaraswamy) (@fig:coomaraswamy) foi um
+Coomaraswamy](https://pt.wikipedia.org/wiki/Ananda_Coomaraswamy) [@fig:coomaraswamy] foi um
 dos pioneiros da revisão da arquitetura indiana segundo um viés que não
 se fazia subserviente aos esquemas interpretativos europeus. Na verdade,
 Coomaraswamy defendia que os conceitos tradicionais de arte na Índia e
@@ -80,6 +90,7 @@ nada a ver com o conceito nazista de "ariano": os arianos de verdade
 foram um povo pré-histórico que viveu logo depois da separação do tronco
 linguístico indo-europeu; eles deram origem às sociedades e aos dialetos
 do norte da Índia e da Pérsia antiga).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png" data-background-size="contain"}
 
@@ -102,9 +113,10 @@ do norte da Índia e da Pérsia antiga).
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A interpretação da arquitetura na Índia antiga segundo Coomaraswamy
-postula a continuidade entre a civilização urbana do vale do rio Indo
-(@fig:indus-mature), na Idade do Bronze, e a cultura védica de tradição
+postula a continuidade entre a civilização urbana do vale do rio Indo,
+[@fig:indus-mature] na Idade do Bronze, e a cultura védica de tradição
 oral que introduziu a Idade do Ferro no subcontinente
 ([@fig:early-vedic; @fig:late-vedic]). Essa pretensa continuidade tem
 sido um ponto de discórdia na historiografia da Índia: por um lado, os
@@ -112,21 +124,24 @@ críticos dessa teoria argumentam que ela é um pretexto pseudo-científico
 para o supremacismo hindu; por outro, a evidência arqueológica cada vez
 mais tende a corroborar uma transição contínua entre as culturas das
 Idades do Bronze e do Ferro no subcontinente Indiano.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2f/Shiva_Pashupati.jpg" data-background-size="contain"}
 
 ![Selo Paśupati (senhor dos animais), talvez representando uma figura de "Shiva" ou iogue. [Mohenjo-Dāro, 2600--1900 a.C.](https://commons.wikimedia.org/wiki/File:Shiva_Pashupati.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Shiva_Pashupati.jpg){#fig:pasupati .marginnote}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma das evidências mais antigas nesse sentido é um carimbo para objetos
 em argila representando uma personagem com três rostos em posição de
 iogue. Coomaraswamy chegou a identificar essa figura com o deus
 hinduísta Shiva, mas essa identidade não é amplamente reconhecida. Um
 argumento mais convincente é a continuidade da cultura urbana no norte
 da Índia entre o declínio das cidades do vale do rio Indo, por volta de
-1300 a.C. (ver @fig:indus-mature), e a ascensão das cidades na planície
-ocidental dos rios Ganges e Yamuna (@fig:pgw), que correspondem ao
+1300 a.C. [fig:indus-mature], e a ascensão das cidades na planície
+ocidental dos rios Ganges e Yamuna, [@fig:pgw] que correspondem ao
 período e à região das sociedades védicas antigas
 [@kenoyer:1995interaction].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/6b/db/ff/6bdbff8a2fabdfe15917a6deac28b449.png" data-background-size="contain"}
 
@@ -143,26 +158,30 @@ período e à região das sociedades védicas antigas
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Duas estátuas muito pequenas, escavadas em Mohenjo-Dāro, acabaram se
 tornando o fulcro do debate sobre a unidade da cultura indiana. Uma
-delas (@fig:dravidian-dancer) é em bronze não polido, portanto negra, e
+delas [@fig:dravidian-dancer] é em bronze não polido, portanto negra, e
 representa uma mulher com lábios grossos, cabelo encaracolado e nariz
 achatado --- traços físicos dominantes hoje em dia entre os povos do sul
 da Índia. Por causa disso, ela foi apelidada de "dançarina dravídica". A
-outra (@fig:aryan-priest) é em pedra-sabão branca e representa um homem
+outra [@fig:aryan-priest] é em pedra-sabão branca e representa um homem
 bom barba lisa e nariz aquilino --- feições mais características do
 noroeste do subcontinente Indiano. Esta recebeu a alcunha de "sacerdote
 ariano".
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/6b/1d/1e/6b1d1e4f03a4e191993052ff3f3e19d6.jpg"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essas e outras evidências descobertas desde a primeira metade do século
 [XX]{.smallcaps} apontam para uma miscigenação étnica e continuidade
 cultural entre a cultura da Idade do Bronze no vale do rio Indo [^1]e a
 cultura da Idade do Ferro na planície do rio Ganges, dominada pelos
 indo-arianos. Essa miscigenação é muito mais antiga do que se acreditava
 antigamente, e pode ter começado com as primeiras migrações indo-arianas
-por volta de 1800 a.C. (@fig:migrations).
+por volta de 1800 a.C.. [@fig:migrations]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Migrações na Eurásia da Idade do Bronze Média, c. 1750--1250 a.C. No centro, migração de povos indo-arianos ("Rigvédicos") da Ásia central para o noroeste da Índia. Mapa: [Carlos Quiles, 2021](https://indo-european.eu/maps/middle-bronze-age/)](https://i.pinimg.com/originals/6b/1d/1e/6b1d1e4f03a4e191993052ff3f3e19d6.jpg){#fig:migrations .fullwidth}
 
@@ -170,7 +189,7 @@ por volta de 1800 a.C. (@fig:migrations).
     era dravídica e sim austro-asiática, parte de um substrato que se
     estende até o sudeste Asiático.
 
-Nāgara vs Drāviḍa
+## Nāgara vs Drāviḍa ## {data-visibility="hidden"}
 
 Prevenções ocidentais: ênfase no templo como monumento vs diversidade
 das formas de devoção
@@ -263,7 +282,7 @@ asiático]{.newthought} entre os séculos [IX]{.smallcaps} e
 [XIV]{.smallcaps} se deve em parte a um período de aquecimento global.
 Esse período de aquecimento deslocou as redes comerciais da Ásia da rota
 terrestre da Seda, que passava pelos desertos da Ásia central, para os
-percursos marítimos do oceano Índico (@fig:austro-trade). Além disso,
+percursos marítimos do oceano Índico. [@fig:austro-trade] Além disso,
 esse período está associado à queda da dinastia Tang na China, que
 dependia do comércio na rota da Seda e do abastecimento em
 matérias-primas da Ásia central.
@@ -277,7 +296,7 @@ matérias-primas da Ásia central.
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/06/Map_of_the_Tea-Horse_road.png" data-background-size="contain"}
 
 Esse processo permitiu a ascensão da dinastia Chola no sul da Índia como
-a primeira potência marítima e mercante da região (@fig:asia-12).
+a primeira potência marítima e mercante da região. [@fig:asia-12]
 Enquanto isso, na China, a dinastia Song se abria para o sul, para
 controlar o abastecimento em dois insumos que estavam se tornando
 essenciais para a subsistência e o modo de vida dos chineses: o chá e o
@@ -293,8 +312,8 @@ reino de Dali.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg" data-background-size="contain"}
 
-A antiga rota do chá era um sistema de caminhos de montanha
-(@fig:yu-my), praticáveis só para carregadores pedestres, cavalos e
+A antiga rota do chá era um sistema de caminhos de montanha,
+[@fig:yu-my] praticáveis só para carregadores pedestres, cavalos e
 mulas ([@fig:chenyao; @fig:porters]). Ela permitia o escambo de chá
 chinês por cavalos tibetanos e o comércio de tecidos de seda chinesa e
 algodão bengalês --- dois produtos manufaturados que eram exportados
@@ -314,7 +333,7 @@ Com o aumento do comércio, a partir do século [IX]{.smallcaps}, a
 população do sul da China foi se urbanizando. Isso gerava demanda por
 abastecimento em grande escala. As regiões de monções se especializaram
 então no plantio em arrozais irrigados, uma das técnicas agrícolas de
-maior produtividade em todo o mundo (@fig:wuli).
+maior produtividade em todo o mundo. [@fig:wuli]
 
 Os três fatores --- deslocamento das rotas comerciais para o sul,
 demanda por redes de abastecimento para as cidades grandes e aquecimento
@@ -326,7 +345,7 @@ ausência de moeda, o arroz é trocado sobretudo por artigos de luxo.
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Khmer_Empire_Expansion.png/1280px-Khmer_Empire_Expansion.png"}
 
 [O império Khmer]{.newthought} é um estado que se estabeleceu e se
-expandiu na onda da economia agroexportadora (@fig:khmer-exp). Ele foi
+expandiu na onda da economia agroexportadora. [@fig:khmer-exp] Ele foi
 um estado altamente especializado: os seus objetivos eram produzir arroz
 para o mercado externo e controlar os percursos de escoamento da
 produção ao longo do rio Mekong, sobretudo para o norte na rota do chá e
@@ -346,9 +365,9 @@ ao conceito de direito divino da monarquia que se articulava no diálogo
 entre essa religião "importada" e as formas de religiosidade locais. O
 status divino dos reis estava, portanto, vinculado, por um lado, à
 obtenção de artigos de luxo por meio do comércio --- sobretudo seda,
-ouro e pedras preciosas (@fig:khmer-king) ---, e por outro lado à
+ouro e pedras preciosas [@fig:khmer-king] ---, e por outro lado à
 construção e manutenção de complexos monumentais de templos associados a
-palácios (@fig:angkor-vid).
+palácios. [@fig:angkor-vid]
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/09/8f/20/098f208939f3a7df8c16d0efa7ca79ad.jpg" data-background-size="contain"}
 
@@ -367,11 +386,11 @@ palácios (@fig:angkor-vid).
 [A capital khmer em Angkor]{.smallcaps} cumpria ao mesmo tempo todas as
 funções de legitimação e manutenção do poder político centralizado.
 Antes de mais nada, a cidade foi escolhida para ser o centro de uma área
-extensa de arrozais irrigados, aberta no meio da floresta
-(@fig:angkor-canals). A implantação da cidade perto da margem do Grande
+extensa de arrozais irrigados, aberta no meio da floresta.
+[@fig:angkor-canals] A implantação da cidade perto da margem do Grande
 Lago era estratégica: as chuvas de monção fazem o volume do rio Mekong
 aumentar tanto que o sentido do curso do próprio lago se inverte,
-alagando a planície em volta dele (@fig:tonle-sap).
+alagando a planície em volta dele. [@fig:tonle-sap]
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/96/72/ce/9672ce84c9bb2d7265c8c135b642ae20.png"}
 
@@ -384,7 +403,7 @@ alagando a planície em volta dele (@fig:tonle-sap).
 A razão de ser da cidade era capturar os benefícios desse alagamento.
 Ele permitia fazer três colheitas de arroz por ano: uma colheita do
 arroz que crescia na região alagada, outra colheita em campos que podiam
-ser alagados artificialmente por tanques (@fig:angkor-pond), e uma
+ser alagados artificialmente por tanques, [@fig:angkor-pond] e uma
 terceira colheita de arroz cultivado em terreno seco. Os canais e
 reservatórios, chamados *baray* em khmer, eram minuciosamente
 dimensionados e tinham um sistema de comportas. Durante a estação das
@@ -396,7 +415,7 @@ para irrigar os campos.
 
 ![Vrah Vishnulok, o centro administrativo e religioso de Angkor, formado por Angkor Wat e Angkor Thom](https://i.pinimg.com/originals/99/10/48/9910484c36aca42b76f47bcc136241e2.jpg){#fig:vrah-vishnulok}
 
-A cidade de Vrah Vishnulok (@fig:vrah-vishnulok) ficava no centro desse
+A cidade de Vrah Vishnulok [@fig:vrah-vishnulok] ficava no centro desse
 sistema. O complexo palaciano, conhecido hoje como Angkor Thom, ficava
 diretamente entre os dois maiores *baray*. Ao sul está Angkor Wat, o
 templo mais importante do conjunto. Os fossos que circundam Angkor Wat e
@@ -422,7 +441,7 @@ agrupavam em volta desses reservatórios menores. O complexo de Angkor
 era todo ele uma imensa urbanização de baixa densidade, uma espécie de
 cidade-jardim, onde as atividades agrícolas, artesanais, comerciais,
 administrativas e religiosas aconteciam de modo distribuído por todo o
-território (@fig:angkor-general).
+território. [@fig:angkor-general]
 
 ![Levantamento por LiDAR da área em torno de Angkor Wat. [Evans e Fletcher, 2015](https://www.cambridge.org/core/journals/antiquity/article/landscape-of-angkor-wat-redefined/F3F0731A514E338A76DA8A906458A890#)](https://i.pinimg.com/originals/f9/26/8d/f9268d83cdb74c50fd1cc0bfac847d66.jpg){#fig:angkor-wat-ponds}
 

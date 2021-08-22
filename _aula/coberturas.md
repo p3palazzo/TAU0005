@@ -18,7 +18,7 @@ toc:
 ![Área de influência cultural chinesa no século [VII]{.smallcaps} d.C. Desenho: [Brian Gotts, 2007](https://commons.wikimedia.org/wiki/File:Tang_dynasty1.PNG)](https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG){#fig:tang-influence .marginnote}
 
 O mundo influenciado pela cultura chinesa se estendia, no seu auge
-durante o século [VII]{.smallcaps} d.C. (@fig:tang-influence), do
+durante o século [VII]{.smallcaps} d.C., [@fig:tang-influence] do
 Turquestão ao Japão e da
 Manchúria à Indochina [@liang:1984pictorial, 21]. O centro irradiador da
 cultura chinesa ficava no cruzamento entre duas grandes zonas climáticas
@@ -52,8 +52,8 @@ credibilidade se forem contemporâneas dos eventos descritos.
 ## {.unlisted}
 
 A historiografia chinesa tradicional se baseava no modelo estabelecido
-pelo [*Registros do historiador*][] (@fig:shiji), um livro compilado no
-começo do século [I]{.smallcaps} a.C. por Sima Qian (@fig:sima-qian).
+pelo [*Registros do historiador*][], [@fig:shiji] um livro compilado no
+começo do século [I]{.smallcaps} a.C. por Sima Qian. [@fig:sima-qian]
 Esse modelo organizava a cronologia segundo *dinastias* reais e
 imperiais. Como os registros chineses foram recompilados e reescritos
 várias vezes ao longo dos milênios, os historiadores do século
@@ -75,8 +75,8 @@ primitivo da sociedade naquela época.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png" data-background-size="contain"}
 
 Os historiadores céticos substituíram a cronologia tradicional, segundo
-*dinastias* (@fig:xia-map), pelo padrão ocidental moderno de designar
-*culturas* arqueológicas (@fig:erlitou-map). Essas novas interpretações
+*dinastias*, [@fig:xia-map] pelo padrão ocidental moderno de designar
+*culturas* arqueológicas. [@fig:erlitou-map] Essas novas interpretações
 estabeleciam a credibilidade dos pesquisadores chineses num mundo
 acadêmico dominado por europeus e americanos. Mas, ao mesmo tempo, elas
 também validavam uma pretensão de superioridade cultural da Europa sobre
@@ -94,7 +94,7 @@ um mundo tribal e supostamente primitivo.
 ![*Jue* (tripé para servir vinho), dinastia Xià, século [XVIII]{.smallcaps} a.C., bronze, pés reconstituídos. Museu de Shanghai. Foto: [H. Sondaz, 2013](https://commons.wikimedia.org/wiki/File:Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg/768px-Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg){#fig:xia-jue .marginnote}
 
 Mesmo assim, no final das contas, as descobertas arqueológicas feitas
-nesse espírito (@fig:xia-jue) têm confirmado a existência de
+nesse espírito [@fig:xia-jue] têm confirmado a existência de
 acontecimentos, lugares e, talvez, das próprias dinastias mencionadas na
 historiografia chinesa tradicional. Até mesmo a primeira dinastia
 chinesa, os Xià, parece ter sido confirmada pela escavação de um palácio
@@ -130,7 +130,7 @@ pensar estranho à tradição da arquitetura chinesa acabou gerando
 oportunidades para pesquisar mais a fundo essa tradição. Esse processo
 foi impulsionado por uma geração de arquitetos chineses que estudaram
 nos Estados Unidos na primeira metade do século [XX]{.smallcaps} --- um
-deles foi Ieoh Ming Pei, famoso pela pirâmide do Louvre (@fig:louvre).
+deles foi Ieoh Ming Pei, famoso pela pirâmide do Louvre. [@fig:louvre]
 
 ## {data-background-image="https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg"}
 
@@ -138,7 +138,7 @@ deles foi Ieoh Ming Pei, famoso pela pirâmide do Louvre (@fig:louvre).
 
 A aplicação de interpretações ocidentais ao estudo da arquitetura
 chinesa foi levada ao seu auge pelo casal formado pela escritora Lin
-Huiyin e pelo arquiteto Liang Sicheng (@fig:liang-lin). Eles foram
+Huiyin e pelo arquiteto Liang Sicheng. [@fig:liang-lin] Eles foram
 pioneiros no estudo arqueológico da arquitetura tradicional na China. Os
 dois tinham estudado na Universidade da Pensilvânia na década de 1920.
 
@@ -150,8 +150,8 @@ O que estamos chamando aqui de teoria da "evolução orgânica do estilo"
 já deve ser familiar a esta altura. É o cerne da história da arte e da
 arquitetura desenvolvida na Europa desde a segunda metade do século
 [XIX]{.smallcaps}; ela está sintetizada na "árvore da arquitetura"
-apresentada no livro-texto de Bannister Fletcher a partir de 1899
-(@fig:treearch). Nessa visão, cada estilo arquitetônico percorre como
+apresentada no livro-texto de Bannister Fletcher a partir de 1899.
+[@fig:treearch] Nessa visão, cada estilo arquitetônico percorre como
 que o ciclo de um ser vivo: ele parte de um estágio primitivo, se
 desenvolve até a maturidade, então pára de crescer e termina numa fase
 de declínio, quando não tem capacidade de se renovar ou "renascer".
@@ -210,10 +210,10 @@ estudo e a pesquisa da arquitetura no Ocidente.
 
 Nessa época, vários jovens chineses estavam se formando em universidades
 dos Estados Unidos. Entre eles estava o casal formado pela escritora Lin
-Huiyin e pelo arquiteto Liang Sicheng (ver @fig:liang-lin).
+Huiyin e pelo arquiteto Liang Sicheng. [@fig:liang-lin]
 O aprendizado Beaux-Arts de Liang forneceu o método realizar o primeiro
-levantamento sistemático da arquitetura tradicional na China
-(@fig:liang-01).
+levantamento sistemático da arquitetura tradicional na China.
+[@fig:liang-01]
 
 ## {data-background-image="https://i.pinimg.com/originals/85/52/82/855282f257cac6a604f9d3e76eedf562.png" data-background-size="contain"}
 
@@ -253,13 +253,13 @@ Harbeson.
 No caso da China, as *gramáticas normativas* são dois tratados
 compilados para ajudar os administradores do estado a medir e controlar
 obras públicas. O primeiro é o *Yingzao fashi*, que foi compilado por Li
-Jie entre 1090 e 1103 (@fig:liang-07). Ele representa as práticas da
-arquitetura erudita durante a dinastia Song (@fig:song), que era
+Jie entre 1090 e 1103. [@fig:liang-07] Ele representa as práticas da
+arquitetura erudita durante a dinastia Song, [@fig:song] que era
 considerada pelos próprios chineses
 como o apogeu e a síntese do desenvolvimento histórico das artes na
 China. O segundo é o *Gongcheng zofa*, uma revisão e atualização do
 tratado anterior levando em conta algumas mudanças estruturais e
-suntuárias (@fig:liang-08). Ele fazia parte da última grande
+suntuárias. [@fig:liang-08] Ele fazia parte da última grande
 recompilação oficial do
 pensamento político, filosófico e histórico da China, feita durante a
 última dinastia imperial; por isso, ele foi considerado um exemplo do
@@ -281,8 +281,8 @@ Pranchas desenhadas por Liang em 1943 e publicadas em 1984
 
 !["Ordem" chinesa. Liang Sicheng e Li Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png){#fig:liang-order .nobg .line}
 
-Foi assim que Liang e Lin chegaram ao esquema de uma "ordem chinesa"
-(@fig:liang-order). Essa expressão operava duas mudanças conceituais
+Foi assim que Liang e Lin chegaram ao esquema de uma "ordem chinesa".
+[@fig:liang-order] Essa expressão operava duas mudanças conceituais
 importantes: uma no olhar chinês para o seu próprio patrimônio
 arqueológico, e outra no olhar ocidental para a arquitetura chinesa. Do
 ponto de vista chinês, Liang e Ling pertenceram a uma geração de
@@ -292,7 +292,7 @@ contraste com a tradição acadêmica chinesa de se concentrar na
 interpretação dos textos clássicos produzidos ou coletados na corte. Lin
 e Liang documentaram muitos sítios que tinham sido esquecidos ou
 desprezados até então, como o mosteiro budista Fóguāngsǐ, que contém a
-construção em madeira mais antiga conservada na China (@fig:liang-24a).
+construção em madeira mais antiga conservada na China. [@fig:liang-24a]
 
 ## {data-background-image="https://i.pinimg.com/originals/af/2f/3a/af2f3afb73a19be7ddc0eb75e5f6c9c0.jpg"}
 
@@ -304,8 +304,8 @@ construção em madeira mais antiga conservada na China (@fig:liang-24a).
 
 Esse estudo minucioso permitiu ir além da interpretação dos tratados e
 confrontar as edificações construídas na sua diversidade. Com isso,
-Liang e Lin estabeleceram um esquema de "evolução" da ordem chinesa
-(@fig:liang-32). Isso colocava a tradição arquitetônica da China no
+Liang e Lin estabeleceram um esquema de "evolução" da ordem chinesa.
+[@fig:liang-32] Isso colocava a tradição arquitetônica da China no
 mesmo patamar de historicidade da arquitetura europeia esquematizada na
 "árvore" de Fletcher.
 
