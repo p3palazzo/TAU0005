@@ -439,7 +439,7 @@ Ruínas do *eyvan-i Medayin* (arco de Ctesifonte), Pérsia sassânida (atual Taq
 
 ## {.unlisted}
 
-::::::::::::::::::::::::::::::::::: {#fig:kasra-elv .fullwidth .r-stack}
+::::::::::::::::::::::::::::::::::: {#fig:kasra-elv .full .r-stack}
 ![estado atual](https://silk-cities.org/wp-content/uploads/2021/04/Taq-Kasra-Architecture-Now.jpg){#fig:kasra-elv-now .fragment}
 
 ![reconstituição](https://silk-cities.org/wp-content/uploads/2021/04/Taq-Kasra-Architecture-Then.jpg){#fig:kasra-elv-then .fragment}
@@ -466,9 +466,43 @@ pleno ou de meia-volta é a forma mais conveniente tendo em vista o
 processo construtivo como um todo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Dimensionamento sem cálculo ## {data-visibility="hidden"}
+
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::: {#fig:leo .r-stack .full}
+![intradorso do arco](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-leo-0.png){#fig:leoA .line .fragment .current-visible .align-left data-fragment-index="0"}
+
+![retas tangentes ao ponto médio entre a base e o ápice](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-leo-1.png){#fig:leoB .line .fragment .current-visible .align-left data-fragment-index="1"}
+
+![extradorso do arco cruza as retas na base e no eixo](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-leo-2.png){#fig:leoC .line .fragment .current-visible .align-left data-fragment-index="2"}
+
+Dimensionamento da espessura de um arco segundo Leonardo da Vinci
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted}
+
+::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:derand .r-stack}
+![arco sem contrafortes](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-derand-0.png){#fig:derandA .line .fragment .current-visible .align-left}
+
+![trapézio isóceles inscrito no intradorso](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-derand-1.png){#fig:derandB .line .fragment .current-visible .align-left}
+
+![extensão das arestas](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-derand-2.png){#fig:derandC .line .fragment .current-visible .align-left}
+
+![comprimento dos segmentos determina a espessura dos contrafortes](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-derand-3.png){#fig:derandD .line .fragment .current-visible .align-left}
+
+Dimensionamento de contrafortes segundo o método do P^e^ François Derand
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/56/44/de/5644decb9307bd1e73e49e90c2656631.png" data-background-size="contain"}
 
-![Dimensionamento dos contrafortes para diferentes tipos de arcos pelo método do P^e^ François Derand. Desenho: François Blondel, 1675](https://i.pinimg.com/originals/56/44/de/5644decb9307bd1e73e49e90c2656631.png){#fig:blondel .fullwidth .line}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Dimensionamento dos contrafortes para diferentes tipos de arcos pelo método do P.^e^ François Derand. Desenho: François Blondel, 1675](https://i.pinimg.com/originals/56/44/de/5644decb9307bd1e73e49e90c2656631.png){#fig:blondel .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Ogivas ## {data-visibility="hidden"}
 
