@@ -104,13 +104,10 @@ do norte da Índia e da Pérsia antiga).
 
 ## {.unlisted}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Migrações arianas no período védico inicial. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Early_Vedic_Culture_(1700-1100_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/57/Early_Vedic_Culture_(1700-1100_BCE).png){#fig:early-vedic}
-:::
-::: {.column width=50%}
-![Reinos nāgara do período védico tardio. Os territórios ao sul da área sombreada correspondem em linhas gerais à cultura dravídica. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Late_Vedic_Culture_(1100-500_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_(1100-500_BCE).png){#fig:late-vedic}
-:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+![Migrações arianas no período védico inicial. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Early_Vedic_Culture_(1700-1100_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/57/Early_Vedic_Culture_(1700-1100_BCE).png){#fig:early-vedic width="50%"}
+
+![Reinos nāgara do período védico tardio. Os territórios ao sul da área sombreada correspondem em linhas gerais à cultura dravídica. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Late_Vedic_Culture_(1100-500_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_(1100-500_BCE).png){#fig:late-vedic width="50%"}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
