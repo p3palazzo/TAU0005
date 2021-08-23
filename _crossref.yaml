@@ -4,5 +4,5 @@ tableTitle: Tabela
 tblPrefix:
   - "tab."
   - "tabs."
-figPrefixTemplate: '<span class="figref">[$$i$$]</span>'
+figPrefixTemplate: '<span class="figref">$$i$$</span>'
 subfigureRefIndexTemplate: $$i$$$$suf$$ $$s$$
