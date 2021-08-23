@@ -227,13 +227,13 @@ Galileu, porém, descobriu que a trajetória era curva do começo ao fim,
 como ele anotou nos seus cadernos. [@fig:galileo-c72f116]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Galileu Galilei, manuscrito no [códice 72, fl. 116 v.º]](http://www.imss.fi.it/ms72/IMAGE2/D116_V.jpg){#fig:galileo-c72f116}
+![Galileu Galilei, manuscrito no [códice 72, fl. 116 v.º]](https://i.pinimg.com/originals/36/88/f3/3688f3d44daaa18437249d79b6a81388.png){#fig:galileo-c72f116}
 
 [códice 72, fl. 116 v.º]: http://www.imss.fi.it/ms72/HTML/F116_V/M116_V.HTM
 
 ## {.unlisted data-background-image="http://www.imss.fi.it/ms72/IMAGE1/C117_R.jpg"}
 
-![Galileu Galilei, manuscrito no [códice 72, fl. 117 r.º]](http://www.imss.fi.it/ms72/IMAGE2_L/D117_R.jpg){#fig:galileo-c72f117}
+![Galileu Galilei, manuscrito no [códice 72, fl. 117 r.º]](https://i.pinimg.com/originals/4a/20/34/4a20340227f72615641221bfb84ebd56.png){#fig:galileo-c72f117}
 
 [códice 72, fl. 117 r.º]: http://www.imss.fi.it/ms72/HTML/F117_R/C117_R.HTM
 
@@ -393,15 +393,21 @@ O estudo matemático das cargas à compressão pura mostrou que a catenária
 é a forma ideal de um arco que só sustenta o seu próprio peso. Esse é o
 caso de muitos arcos que geram o traçado de coberturas de edifícios, já
 que a catenária permite fazer uma estrutura mais leve, economizando
-material. [@fig:cat-adobe] Por isso, alguns dos mais antigos traçados de
-arcos têm formas que se aproximam muito de uma catenária matematicamente
-perfeita. Além disso, as curvas artesanais são sempre aproximadas, e a
-conversão de uma catenária em parábola é simples.
+material. [@fig:cat-adobe]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Arco em forma de catenária construído em adobe. Foto: [Max Corradi, 2012]](https://upload.wikimedia.org/wikipedia/commons/9/93/Catenaria_in_terra_cruda_a_più_corsi_di_conci.jpeg){#fig:cat-adobe}
 
 [Max Corradi, 2012]: https://commons.wikimedia.org/wiki/File:Catenaria_in_terra_cruda_a_più_corsi_di_conci.jpeg
+
+## {.unlisted data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por isso, alguns dos mais antigos traçados de
+arcos têm formas que se aproximam muito de uma catenária matematicamente
+perfeita. Além disso, as curvas artesanais são sempre aproximadas, e a
+conversão de uma catenária em parábola é simples.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Nubian%20vault-2hXroNBgrXU-720p-25fps.webm"}
 
@@ -412,6 +418,7 @@ a.C. Os mais antigos arcos foram construídos em adobe, e talvez
 provenham da África subsaariana. Construções em forma de catenária são
 comuns até hoje na região que vai da Núbia (ao sul do Egito, no atual
 Sudão) aos lagos da África central (atuais Camarões e Chade).
+[@fig:nubienne]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::: {#fig:nubienne .iframe-wrapper}
@@ -435,6 +442,12 @@ Construção de abóbadas núbias, segundo Choisy, *Histoire de l'architecture*
 <iframe src="https://www.youtube-nocookie.com/embed/Si1N2t0Dm7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Ruínas do *eyvan-i Medayin* (arco de Ctesifonte), Pérsia sassânida (atual Taq Kasrā, Iraque), 241 d.C. Direção: [Pejman Akbarzadeh, 2018](https://youtu.be/Si1N2t0Dm7k)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O arco catenário ou parabólico quase nunca é usado como uma abertura
+simples na parede. Ele é ideal como gerador de uma abóbada linear para
+cobrir um ambiente ou uma construção inteira. [@fig:kasra]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted}
@@ -464,6 +477,76 @@ estruturas onde os arcos precisam sustentar cargas pesadas, a pedra ou
 grandes massas de tijolo são as melhores soluções. Nesses casos, o arco
 pleno ou de meia-volta é a forma mais conveniente tendo em vista o
 processo construtivo como um todo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Perugia_Porta_Urbica_etrusca_o_Arco_di_Augusto.jpg/1608px-Perugia_Porta_Urbica_etrusca_o_Arco_di_Augusto.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O arco pleno é usado desde a Antiguidade como abertura em paredes ou
+muralhas, onde a parábola seria uma complicação desnecessária. A
+alvenaria é capaz de absorver os empuxos laterais gerados pelo arco
+semicircular, portanto a simplicidade da sua forma e execução representa
+uma vantagem. [@fig:perugia]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Porta etrusca, Perugia, segunda metade do século [III]{.smallcaps} a.C. [Gustavo Stafforello, *La patria, geografia dell'Italia*, 1895]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Perugia_Porta_Urbica_etrusca_o_Arco_di_Augusto.jpg/1608px-Perugia_Porta_Urbica_etrusca_o_Arco_di_Augusto.jpg){#fig:perugia}
+
+[Gustavo Stafforello, *La patria, geografia dell'Italia*, 1895]: https://commons.wikimedia.org/wiki/File:Perugia_Porta_Urbica_etrusca_o_Arco_di_Augusto.jpg
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Arch_of_Constantine_(Rome)_photo-4.JPG/2560px-Arch_of_Constantine_(Rome)_photo-4.JPG"}
+
+![Arco de Constantino, Roma, após 313 d.C. com espólios dos séculos [I--III]{.smallcaps} d.C. Foto: [AlfvanBeem, 2011]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Arch_of_Constantine_(Rome)_photo-4.JPG/1024px-Arch_of_Constantine_(Rome)_photo-4.JPG){#fig:constantine}
+
+[AlfvanBeem, 2011]: https://commons.wikimedia.org/wiki/File:Arch_of_Constantine_(Rome)_photo-4.JPG
+
+<!--_,-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A epítome do portal com arcos plenos é o arco do triunfo romano. Essas
+estruturas foram construídas para celebrar triunfos militares com uma
+entrada simbólica do exército romano na cidade debaixo de um arco. O
+arco provisório construído para o triunfo era, às vezes, reconstruído
+numa estrutura permanente para imortalizar o evento. [@fig:constantine]
+Essa tradição romana fez com que as estruturas arqueadas passassem a ser
+associadas, na bacia do Mediterrâneo, com as ideias de monumentalidade e
+grandeza.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A conotação monumental e a proteção contra o fogo que um teto em
+alvenaria oferece fazem com que as abóbadas geradas por arcos plenos
+sejam uma solução consagrada para cobrir espaços importantes. A extrusão
+de um arco pleno é conhecida como *abóbada de berço*.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/05/Temple_of_Fortuna_-_Palladio_-_Elevation.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Santuário de Fortuna primigenia, Praeneste (atual Palestrina, a sudeste de Roma), iniciado c. 120 a.C. Reconstituição segundo [Andrea Palladio, segunda metade do século [XVI]{.smallcaps}]](https://upload.wikimedia.org/wikipedia/commons/0/05/Temple_of_Fortuna_-_Palladio_-_Elevation.jpg){#fig:praeneste-palladio}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Andrea Palladio, segunda metade do século [XVI]{.smallcaps}]: https://commons.wikimedia.org/wiki/File:Temple_of_Fortuna_-_Palladio_-_Elevation.jpg
+
+<!--_,-->
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Santuario_emiciclo_colonne_1.JPG/2560px-Santuario_emiciclo_colonne_1.JPG"}
+
+![Hemiciclo das colunas, santuário de Fortuna primigenia, Praeneste. Foto: [Zanner, 2007]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Santuario_emiciclo_colonne_1.JPG/1024px-Santuario_emiciclo_colonne_1.JPG){#fig:hemiciclo}
+
+[Zanner, 2007]: https://commons.wikimedia.org/wiki/File:Santuario_emiciclo_colonne_1.JPG
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/MK54102_Temple_de_Diane_(Nîmes).jpg/2560px-MK54102_Temple_de_Diane_(Nîmes).jpg"}
+
+![Basílica conhecida como templo de Diana (provavelmente uma biblioteca), Nîmes, sul da França, século [I]{.smallcaps} d.C. Foto: [Martin Kraft, 2016]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/MK54102_Temple_de_Diane_(Nîmes).jpg/1024px-MK54102_Temple_de_Diane_(Nîmes).jpg){#fig:diane}
+
+[Martin Kraft, 2016]: https://commons.wikimedia.org/wiki/File:MK54102_Temple_de_Diane_(Nîmes).jpg
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0538-11.png"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Abobadilhas romano-bizantinas. Auguste Choisy, *Histoire de l'architecture*](https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0538-11.png){#fig:choisy1.538 .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Dimensionamento sem cálculo ## {data-visibility="hidden"}
@@ -625,6 +708,10 @@ ogival. [@fig:kusinagar-gate]
 [@henriet:1978recherches136]
 
 # Estruturas espaciais # {data-background-color="#0f0"}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0530.png" data-background-size="contain"}
+
+![Construção de abóbadas romanas com arcos ressaltados. Auguste Choisy, *Histoire de l'architecture*](https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0530.png){#fig:choisy1.530 .line}
 
 ## Cúpulas ##
 
