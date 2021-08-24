@@ -18,7 +18,7 @@ header:
     url: "/slides/coberturas/"
 ---
 
-# Estilo, construção e cultura #
+# Estilo, construção e cultura # {data-background-color="#0f0"}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG" data-background-size="535px 472px"}
 
@@ -214,8 +214,9 @@ intenção dizendo com todas as letras:
 > sinais de velhice, fraqueza e rigidez, a partir do início da dinastia
 > Ming (século [XV]{.smallcaps}). [@liang:1984pictorial, 17]
 
-# Sistema estrutural enquanto "ordem" #
+# Sistema estrutural enquanto "ordem" # {data-background-color="#0f0"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura tradicional da China atingiu desde o século
 [XI]{.smallcaps} uma padronização quase completa dos seus elementos
 construtivos em madeira. Essa padronização decorre de processos de
@@ -225,24 +226,29 @@ sistema racionalizado, com detalhes fixos mas que permitem uma grande
 flexibilidade de combinações. Esse sistema já chegou a ser chamado no
 Ocidente de "ordem chinesa", por analogia às ordens da arquitetura
 clássica.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c6/Foguang_Temple_9.JPG"}
 
-[A padronização da arquitetura chinesa]{.newthought} é, portanto, muito
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A padronização da arquitetura chinesa é, portanto, muito
 mais antiga do que a codificação das ordens clássicas no Renascimento
 europeu, e até mais completa. Muito tempo depois, no começo do século
 [XX]{.smallcaps}, o sistema Beaux-Arts, inspirado no método de ensino da
 escola de Belas-Artes de Paris, passou a ser o método hegemônico para o
 estudo e a pesquisa da arquitetura no Ocidente.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nessa época, vários jovens chineses estavam se formando em universidades
 dos Estados Unidos. Entre eles estava o casal formado pela escritora Lin
 Huiyin e pelo arquiteto Liang Sicheng. [@fig:liang-lin]
 O aprendizado Beaux-Arts de Liang forneceu o método realizar o primeiro
 levantamento sistemático da arquitetura tradicional na China.
 [@fig:liang-01]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/85/52/82/855282f257cac6a604f9d3e76eedf562.png" data-background-size="contain"}
 
@@ -250,16 +256,21 @@ levantamento sistemático da arquitetura tradicional na China.
 
 ## {.unlisted}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Com base nessa formação ocidental e também para explicar a arquitetura
 chinesa ao público americano, Liang estabeleceu um esquema
 interpretativo baseado no sistema Beaux-Arts. Uma das principais
 características desse sistema é que ele ensinava arquitetura como se
 fosse uma forma de *linguagem* [@summerson:1997linguagem]. Por isso,
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted}
 
 > Estudar a história da arquitetura chinesa sem conhecimento dessas
 > regras é como estudar a história da literatura de língua inglesa sem
 > antes aprender a gramática do inglês. [@liang:1984pictorial, 27]
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nesse esquema, a linguagem tem uma gramática e um vocabulário; o
 vocabulário é o conjunto de elementos da arquitetura chinesa, enquanto a
 gramática é o modo de compor edificações usando esses elementos. A
@@ -270,6 +281,7 @@ próprio método Beaux-Arts nos séculos [XIX]{.smallcaps} e
 [XX]{.smallcaps} --- principalmente os autores franceses de Durand a
 Gromort passando por Guadet e Varon, mas também os americanos Curtis e
 Harbeson.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/China_-_Song_Dynasty-es.svg/1043px-China_-_Song_Dynasty-es.svg.png" data-background-size="contain"}
 
@@ -279,6 +291,7 @@ Harbeson.
 
 ## {.unlisted}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No caso da China, as *gramáticas normativas* são dois tratados
 compilados para ajudar os administradores do estado a medir e controlar
 obras públicas. O primeiro é o *Yingzao fashi*, que foi compilado por Li
@@ -295,6 +308,7 @@ pensamento político, filosófico e histórico da China, feita durante a
 engessamento conservador da tradição chinesa, e da estagnação
 tecnológica do país --- mas essa foi uma interpretação baseada numa
 certa agenda política republicana.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:liang-07-08}
 ::: {.column width=50%}
@@ -310,6 +324,7 @@ Pranchas desenhadas por Liang em 1943 e publicadas em 1984
 
 !["Ordem" chinesa. Liang Sicheng e Li Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png){#fig:liang-order .nobg .line}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Foi assim que Liang e Lin chegaram ao esquema de uma "ordem chinesa".
 [@fig:liang-order] Essa expressão operava duas mudanças conceituais
 importantes: uma no olhar chinês para o seu próprio patrimônio
@@ -322,6 +337,7 @@ interpretação dos textos clássicos produzidos ou coletados na corte. Lin
 e Liang documentaram muitos sítios que tinham sido esquecidos ou
 desprezados até então, como o mosteiro budista Fóguāngsǐ, que contém a
 construção em madeira mais antiga conservada na China. [@fig:liang-24a]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/af/2f/3a/af2f3afb73a19be7ddc0eb75e5f6c9c0.jpg"}
 
@@ -331,12 +347,14 @@ construção em madeira mais antiga conservada na China. [@fig:liang-24a]
 
 ![Evolução da "ordem chinesa". Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/63/39/db/6339db291242961bee44bb90b1d8bc17.png){#fig:liang-32 .nobg .line}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse estudo minucioso permitiu ir além da interpretação dos tratados e
 confrontar as edificações construídas na sua diversidade. Com isso,
 Liang e Lin estabeleceram um esquema de "evolução" da ordem chinesa.
 [@fig:liang-32] Isso colocava a tradição arquitetônica da China no
 mesmo patamar de historicidade da arquitetura europeia esquematizada na
 "árvore" de Fletcher.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Plataformas ## {data-visibility="hidden"}
 
@@ -357,18 +375,64 @@ mesmo patamar de historicidade da arquitetura europeia esquematizada na
 ## {data-background-iframe="https://www.youtube.com/watch?v=JnB3fQTE1XU"}
 
 <figure class="iframe-wrapper">
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/JnB3fQTE1XU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  <iframe src="https://www.youtube.com/embed/JnB3fQTE1XU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
 ## Caifen ## {data-visibility="hidden"}
 
 ## Continuidade e tradição ## {data-visibility="hidden"}
 
+# Modenatura e dignidade # {data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Até agora, tentamos enfatizar que os sistemas construtivos determinam a
+forma arquitetônica, desde a sua configuração geral até os detalhes
+ornamentais. Porém, a arquitetura raramente se limita a uma expressão
+estrita de uma necessidade técnica --- até porque julgar se uma solução
+construtiva foi ou não reduzida às suas necessidades mínimas é uma
+tarefa com infinitas variáveis e, no fim das contas, meio arbitrária.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/2560px-Oldest_Healing_Dance.jpg"}
+
+![Comunidade San em volta do lar central de uma aldeia. Foto: [Kgara Kevin Rack, 2017]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/1280px-Oldest_Healing_Dance.jpg){#fig:san}
+
+[Kgara Kevin Rack, 2017]: https://commons.wikimedia.org/wiki/File:Oldest_Healing_Dance.jpg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Como também vimos desde o início, a expressão simbólica de uma ordem
+social também é uma das atribuições fundamentais da arquitetura.
+[@fig:san]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Assim que certas formas acabam sendo consagradas numa determinada
+tradição construtiva, essas formas adquirem um significado cultural que
+vai além da sua utilidade prática. Essas formas passam a sinalizar a
+identidade cultural e, por extensão, política ou religiosa, da sociedade
+que as produz. Graças a esse valor simbólico, a forma arquitetônica se
+torna um *estilo* que vai ser replicado como reivindicação de uma certa
+identidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Muitos críticos do século [XIX]{.smallcaps} até os dias de hoje se
+arvoraram o direito de julgar se essas identidades culturais eram
+autênticas ou contrafeitas, para poder decidir se os estilos associados
+a elas seriam eles próprios autênticos ou contrafeitos. Essa é a raiz do
+conceito de *pastiche*, que desde o século [XVII]{.smallcaps} tem sido
+usado para desqualificar qualquer coisa que não seja o estilo "da moda".
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7d/Jianzhen_memorial_hall.jpg"}
 
-![Liang Sicheng, arquiteto, Memorial para o monge Jianzhen (Ganjin), Yangzhou, China, 1963. Foto: [Gisling, 2007](https://commons.wikimedia.org/wiki/File:Jianzhen_memorial_hall.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Jianzhen_memorial_hall.jpg/1280px-Jianzhen_memorial_hall.jpg){#fig:liang-ganjin}
+![Liang Sicheng, arquiteto, Memorial para o monge Jianzhen (Ganjin), Yangzhou, China, 1963. Foto: [Gisling, 2007]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Jianzhen_memorial_hall.jpg/1280px-Jianzhen_memorial_hall.jpg){#fig:liang-ganjin}
 
-# Modenatura e dignidade #
+[Gisling, 2007]: https://commons.wikimedia.org/wiki/File:Jianzhen_memorial_hall.jpg
 
 ## Classes de construções ## {data-visibility="hidden"}
 
@@ -377,7 +441,7 @@ mesmo patamar de historicidade da arquitetura europeia esquematizada na
 Aproximação às arquiteturas do sagrado: capitais móveis na China e no
 Japão, estruturas de culto temporárias ou periodicamente renovadas.
 
-# Revestimentos #
+# Revestimentos # {data-background-color="#0f0"}
 
 # Referências {.allowframebreaks}
 

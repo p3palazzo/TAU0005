@@ -19,7 +19,7 @@ header:
     url: "/slides/processos/"
 ---
 
-# Ordem e lugar #
+# Ordem e lugar # {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#00ff00"}
 
@@ -315,7 +315,7 @@ assentamentos, construções e detalhes, mais o uso de traçados
 reguladores e proporções ganha importância.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Proporção e escala #
+# Proporção e escala # {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#00ff00"}
 
@@ -610,7 +610,7 @@ como as proporções são usadas de fato no processo produtivo do ambiente
 construído.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Preferência temporal e preferência local #
+# Preferência temporal # {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#00ff00"}
 
@@ -938,7 +938,7 @@ temporal? Uma arquitetura produzida lentamente, mas que volte a durar
 séculos?
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Alegoria da cabana primitiva #
+# Alegoria da cabana primitiva # {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#00ff00"}
 
