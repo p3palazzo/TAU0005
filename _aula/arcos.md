@@ -611,7 +611,7 @@ no começo do século [XX]{.smallcaps} [@brown:1959indiana].
 
 ![Reconstituição de um povoado védico segundo [Percy Brown, 1900]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1024px-Brown-18060_0021-1.jpg){#fig:brown1959-0021-1}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c4/Maurya_Empire,_c.250_BCE.png" data-background-size="contain"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/34/d9/ef/34d9eff477411c9c7d1e757d78198ed6.png" data-background-size="contain"}
 
 ![Império Maurya no seu auge. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Maurya_Empire,_c.250_BCE.png)](https://upload.wikimedia.org/wikipedia/commons/c/c4/Maurya_Empire,_c.250_BCE.png){#fig:maurya}
 
@@ -642,7 +642,7 @@ Reconstituição de estruturas arqueadas em madeira a partir de exemplares talha
 
 <!--_,-->
 
-## {.unlisted data-background-image="https://commons.wikimedia.org/wiki/File:Mudhif-sketch.png" data-background-size="contain"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
 ![Esquema estrutural de um *mudhif*](https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png){#fig:mudhif-croquis .line}
