@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "História e arquitetura tradicional",
-        "excerpt":"História ou arquitetura Em 1839, o arquiteto americano Ithiel Town encomendou ao seu amigo Thomas Cole uma pequena pintura de paisagem com algumas construções clássicas. Em vez disso, Cole pintou uma imensa alegoria da Arquitetura, intitulada Sonho do arquiteto. [1] A tela representava os principais estilos arquitetônicos do Ocidente, desde...","categories": [],
+        "excerpt":"História ou arquitetura Em 1839, o arquiteto americano Ithiel Town encomendou ao seu amigo Thomas Cole uma pequena pintura de paisagem com algumas construções clássicas. Em vez disso, Cole pintou uma imensa alegoria da Arquitetura, intitulada Sonho do arquiteto. 1 A tela representava os principais estilos arquitetônicos do Ocidente, desde...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/arqtrad/",
         "teaser": null
@@ -36,7 +36,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Coberturas e superfícies",
-        "excerpt":"Estilo, construção e cultura Figura 1: Área de influência cultural chinesa no século VII d.C. Desenho: Brian Gotts, 2007 O mundo influenciado pela cultura chinesa se estendia, no seu auge durante o século VII d.C., [1] do Turquestão ao Japão e da Manchúria à Indochina.Liang, A Pictorial History of Chinese...","categories": [],
+        "excerpt":"Estilo, construção e cultura Figura 1: Área de influência cultural chinesa no século VII d.C. Desenho: Brian Gotts, 2007 O mundo influenciado pela cultura chinesa se estendia, no seu auge durante o século VII d.C., 1 do Turquestão ao Japão e da Manchúria à Indochina.Liang, A Pictorial History of Chinese...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/coberturas/",
         "teaser": null
