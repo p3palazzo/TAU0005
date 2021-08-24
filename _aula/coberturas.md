@@ -6,36 +6,46 @@ author  : "Pedro P. Palazzo"
 date    : 2021-08-31
 toc:
   - Estilo, construção e cultura
-  - Coberturas complexas
-  - Molduras, vedações e aberturas
-  - Revestimentos
+  - Sistema estrutural enquanto "ordem"
+  - Modenatura e variações
+title-slide-attributes:
+  data-background-image: https://hcommons.org/app/uploads/sites/1002372/2021/08/kawase_hasui_evening_moon_over_temple034333-1080p.jpg
+header:
+  overlay_image: https://hcommons.org/app/uploads/sites/1002372/2021/08/kawase_hasui_evening_moon_over_temple034333-1080p.jpg
+  caption: "Kawase Hasui, [*Lua cheia sobre um templo*](https://www.christies.com/lot/lot-kawase-hasui-evening-moon-over-temple-6277357/), aquarela sobre papel, segundo quartel do século [XX]{.smallcaps}" 
+  actions:
+  - label: "Slides"
+    url: "/slides/coberturas/"
 ---
 
 # Estilo, construção e cultura #
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG" data-background-size="535px 472px"}
 
-![Área de influência cultural chinesa no século [VII]{.smallcaps} d.C. Desenho: [Brian Gotts, 2007](https://commons.wikimedia.org/wiki/File:Tang_dynasty1.PNG)](https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG){#fig:tang-influence .marginnote}
-
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O mundo influenciado pela cultura chinesa se estendia, no seu auge
 durante o século [VII]{.smallcaps} d.C., [@fig:tang-influence] do
 Turquestão ao Japão e da
-Manchúria à Indochina [@liang:1984pictorial, 21]. O centro irradiador da
+Manchúria à Indochina. [@liang:1984pictorial, 21] O centro irradiador da
 cultura chinesa ficava no cruzamento entre duas grandes zonas climáticas
-e dois reinos biogeográficos ([@fig:wallace; @fig:cn-koeppen]). Essa
+e dois reinos biogeográficos. [@fig:wallace; @fig:cn-koeppen] Essa
 mistura de condições resultou numa tradição que se adaptava com
 facilidade a diferentes regiões e modos de vida.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg" data-background-position="right"}
-
-![Regiões biogeográficas segundo Alfred Rusell Wallace, 1876. A China atravessa a divisa entre as regiões Paleártica e Oriental](https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg){#fig:wallace .fullwidth}
+![Área de influência cultural chinesa no século [VII]{.smallcaps} d.C. Desenho: [Brian Gotts, 2007](https://commons.wikimedia.org/wiki/File:Tang_dynasty1.PNG)](https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG){#fig:tang-influence .align-right}
 
 ## {data-background-image="https://commons.wikimedia.org/wiki/File:China_Köppen.svg"}
 
 ![Biomas de vegetação natural da China. [Adam Peterson, 2016](https://commons.wikimedia.org/wiki/File:China_Köppen.svg). O centro cultural da China, onde foi situada a maior parte das suas capitais históricas, está no limiar entre a região de florestas temperadas, onde se cultiva arroz, e a de estepes semiáridas, onde se cultivam cereais](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/China_Köppen.svg/1152px-China_Köppen.svg.png){#fig:cn-koeppen}
 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg" data-background-position="right"}
+
+![Regiões biogeográficas segundo Alfred Rusell Wallace, 1876. A China atravessa a divisa entre as regiões Paleártica e Oriental](https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg){#fig:wallace .full}
+
 ## {.unlisted}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [No final da última dinastia]{.newthought} imperial chinesa e durante o
 período republicano, pensadores como [Gu Jiegang][] e [Liang Qichao][]
 adotaram uma perspectiva intelectualmente reformista e
@@ -44,6 +54,7 @@ respeito à cronologia histórica tradicional. Esse ceticismo estava
 alinhado com a visão da história desenvolvida na Europa do século
 [XIX]{.smallcaps}. Segundo essa visão, as fontes primárias só têm
 credibilidade se forem contemporâneas dos eventos descritos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Gu Jiegang]: https://en.wikipedia.org/wiki/Gu_Jiegang
 
@@ -51,6 +62,7 @@ credibilidade se forem contemporâneas dos eventos descritos.
 
 ## {.unlisted}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A historiografia chinesa tradicional se baseava no modelo estabelecido
 pelo [*Registros do historiador*][], [@fig:shiji] um livro compilado no
 começo do século [I]{.smallcaps} a.C. por Sima Qian. [@fig:sima-qian]
@@ -60,6 +72,7 @@ várias vezes ao longo dos milênios, os historiadores do século
 [XX]{.smallcaps} consideravam os períodos mais antigos da história
 chinesa como um enfeite lendário que não corresponderia ao estado
 primitivo da sociedade naquela época.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [*Registros do historiador*]: https://pt.wikipedia.org/wiki/Registros_do_Historiador
 
@@ -74,6 +87,7 @@ primitivo da sociedade naquela época.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png" data-background-size="contain"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os historiadores céticos substituíram a cronologia tradicional, segundo
 *dinastias*, [@fig:xia-map] pelo padrão ocidental moderno de designar
 *culturas* arqueológicas. [@fig:erlitou-map] Essas novas interpretações
@@ -82,6 +96,7 @@ acadêmico dominado por europeus e americanos. Mas, ao mesmo tempo, elas
 também validavam uma pretensão de superioridade cultural da Europa sobre
 a Ásia, já que a história mais antiga da China acabava sendo reduzida a
 um mundo tribal e supostamente primitivo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Extensão territorial da [dinastia Xià (c. 2070--1600 a.C.)](https://en.wikipedia.org/wiki/Xia–Shang–Zhou_Chronology_Project). Mapa: [Lamassu Design, 2009](https://commons.wikimedia.org/wiki/File:Xia_dynasty.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png){#fig:xia-map}
 
@@ -93,6 +108,7 @@ um mundo tribal e supostamente primitivo.
 
 ![*Jue* (tripé para servir vinho), dinastia Xià, século [XVIII]{.smallcaps} a.C., bronze, pés reconstituídos. Museu de Shanghai. Foto: [H. Sondaz, 2013](https://commons.wikimedia.org/wiki/File:Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg/768px-Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg){#fig:xia-jue .marginnote}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mesmo assim, no final das contas, as descobertas arqueológicas feitas
 nesse espírito [@fig:xia-jue] têm confirmado a existência de
 acontecimentos, lugares e, talvez, das próprias dinastias mencionadas na
@@ -100,6 +116,7 @@ historiografia chinesa tradicional. Até mesmo a primeira dinastia
 chinesa, os Xià, parece ter sido confirmada pela escavação de um palácio
 do início da Idade do Bronze em Erlitou ([@fig:erlitou-gongtian;
 @fig:erlitou-diorama]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/26/二里头一号宫殿平面图_zh_hant.png" data-background-size="646px 548px"}
 
@@ -113,39 +130,48 @@ do início da Idade do Bronze em Erlitou ([@fig:erlitou-gongtian;
 
 ![Reconstituição parcial do palácio da dinastia Shang em Yin, c. 1300 a.C. Foto: [Tak.Wing, 2010](https://www.flickr.com/photos/takwing/5066590459/in/album-72157625131585002/)](https://live.staticflickr.com/4085/5066590459_c2b71733c4_k_d.jpg){#fig:yin}
 
+## Evolução orgânica do estilo ## {data-visibility="hidden"}
+
 ## {.unlisted}
 
-![Ieoh Ming Pei, arquiteto, pirâmide do Louvre, Paris, 1984--1989. Foto: [Benh Lieu Song, 2010](https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1280px-Louvre_Museum_Wikimedia_Commons.jpg){#fig:louvre .fullwidth}
+![Ieoh Ming Pei, arquiteto, pirâmide do Louvre, Paris, 1984--1989. Foto: [Benh Lieu Song, 2010](https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1280px-Louvre_Museum_Wikimedia_Commons.jpg){#fig:louvre .full}
 
-[A teoria ocidental da História]{.newthought} fez mais do que exigir
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A teoria ocidental da História fez mais do que exigir
 evidências arqueológicas para corroborar os registros historiográficos
 tradicionais da China. Ela também interpretou a arquitetura chinesa pelo
 viés de uma teoria muito popular na Europa dos séculos [XIX]{.smallcaps}
 e [XX]{.smallcaps}: a teoria da evolução orgânica dos estilos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/66/Louvre_Museum_Wikimedia_Commons.jpg"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Assim como no caso do ceticismo arqueológico, a introdução de um modo de
 pensar estranho à tradição da arquitetura chinesa acabou gerando
 oportunidades para pesquisar mais a fundo essa tradição. Esse processo
 foi impulsionado por uma geração de arquitetos chineses que estudaram
 nos Estados Unidos na primeira metade do século [XX]{.smallcaps} --- um
 deles foi Ieoh Ming Pei, famoso pela pirâmide do Louvre. [@fig:louvre]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg"}
 
 ![Lin Huiyin e Liang Sicheng numa viagem pela província chinesa de Shanxi, 1934. Foto: [acervo da família Fairbank](https://www.smithsonianmag.com/history/lovers-shanxi-saved-chinas-ancient-architectural-treasures-before-lost-forever-180961424/)](https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg){#fig:liang-lin}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A aplicação de interpretações ocidentais ao estudo da arquitetura
 chinesa foi levada ao seu auge pelo casal formado pela escritora Lin
 Huiyin e pelo arquiteto Liang Sicheng. [@fig:liang-lin] Eles foram
 pioneiros no estudo arqueológico da arquitetura tradicional na China. Os
 dois tinham estudado na Universidade da Pensilvânia na década de 1920.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png" data-background-size="contain"}
 
-![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .marginnote}
+![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .align-right .line}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O que estamos chamando aqui de teoria da "evolução orgânica do estilo"
 já deve ser familiar a esta altura. É o cerne da história da arte e da
 arquitetura desenvolvida na Europa desde a segunda metade do século
@@ -165,15 +191,18 @@ pensava que nenhuma tradição de fora da bacia do Mediterrâneo e da
 Europa ocidental se ocupava de uma evolução verdadeiramente construtiva
 ou espacial da arquitetura, e só tinham explorações superficiais da
 decoração.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Pesquisadores como Liang e Lin internalizaram essa teoria do estilo, mas
 obviamente queriam afirmar a historicidade da arquitetura chinesa e,
 assim, refutar Fletcher (alguns historiadores americanos já tinham
 escrito histórias da pintura e da escultura no leste da Ásia mostrando a
 sua evolução orgânica, entre eles Ernest Fenollosa). Liang resumiu essa
 intenção dizendo com todas as letras:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 > A construção chinesa é uma estrutura altamente "orgânica". É um [ser
 > de] crescimento nativo que foi concebido e nasceu no passado remoto da
@@ -185,7 +214,7 @@ intenção dizendo com todas as letras:
 > sinais de velhice, fraqueza e rigidez, a partir do início da dinastia
 > Ming (século [XV]{.smallcaps}). [@liang:1984pictorial, 17]
 
-# Sistema estrutural chinês enquanto "ordem" #
+# Sistema estrutural enquanto "ordem" #
 
 A arquitetura tradicional da China atingiu desde o século
 [XI]{.smallcaps} uma padronização quase completa dos seus elementos
@@ -309,21 +338,21 @@ Liang e Lin estabeleceram um esquema de "evolução" da ordem chinesa.
 mesmo patamar de historicidade da arquitetura europeia esquematizada na
 "árvore" de Fletcher.
 
-## Plataformas ##
+## Plataformas ## {data-visibility="hidden"}
 
 ## {data-background-image="https://i.pinimg.com/originals/a8/52/6f/a8526febba8123bdba4e3c8079cc4c1f.png"}
 
 <!--Tai e taixie [@steinhardt:2019chinese, 34].-->
 
-![Reconstituição do corte longitudinal de um palácio da dinastia Han com fundações do tipo *taixie*, por Steinhardt (2019)](https://i.pinimg.com/originals/a8/52/6f/a8526febba8123bdba4e3c8079cc4c1f.png){#fig:han-taixie .fullwidth}
+![Reconstituição do corte longitudinal de um palácio da dinastia Han com fundações do tipo *taixie*, por Steinhardt (2019)](https://i.pinimg.com/originals/a8/52/6f/a8526febba8123bdba4e3c8079cc4c1f.png){#fig:han-taixie .full}
 
-## Pórticos longitudinais ##
+## Pórticos longitudinais ## {data-visibility="hidden"}
 
 ## {data-background-image="https://i.pinimg.com/originals/2f/bd/fd/2fbdfd63849f527472ef4dadec10df67.jpg"}
 
 ![Esquema construtivo do salão principal do Fóguāngsǐ, desenho por Fu Xinian](https://i.pinimg.com/originals/2f/bd/fd/2fbdfd63849f527472ef4dadec10df67.jpg){#fig:fu-foguang}
 
-## Dougong e encaixes ##
+## Dougong e encaixes ## {data-visibility="hidden"}
 
 ## {data-background-iframe="https://www.youtube.com/watch?v=JnB3fQTE1XU"}
 
@@ -331,120 +360,24 @@ mesmo patamar de historicidade da arquitetura europeia esquematizada na
   <iframe width="560" height="315" src="https://www.youtube.com/embed/JnB3fQTE1XU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
-## Caifen ##
+## Caifen ## {data-visibility="hidden"}
 
-# Regras suntuárias e rituais #
-
-## Continuidade e tradição ##
+## Continuidade e tradição ## {data-visibility="hidden"}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7d/Jianzhen_memorial_hall.jpg"}
 
 ![Liang Sicheng, arquiteto, Memorial para o monge Jianzhen (Ganjin), Yangzhou, China, 1963. Foto: [Gisling, 2007](https://commons.wikimedia.org/wiki/File:Jianzhen_memorial_hall.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Jianzhen_memorial_hall.jpg/1280px-Jianzhen_memorial_hall.jpg){#fig:liang-ganjin}
 
-## Classes de construções ##
+# Modenatura e dignidade #
 
-## Pureza e poluição ##
+## Classes de construções ## {data-visibility="hidden"}
+
+## Pureza e poluição ## {data-visibility="hidden"}
 
 Aproximação às arquiteturas do sagrado: capitais móveis na China e no
 Japão, estruturas de culto temporárias ou periodicamente renovadas.
 
-# Construção tradicional e meio ambiente #
-
-## {data-background-image="https://i.pinimg.com/originals/74/55/e1/7455e16ceb095d4c3abc4cd5c04457de.jpg" data-background-size="contain"}
-
-## {data-background-image="https://i.pinimg.com/originals/99/2e/4a/992e4a6fca299d47854e2a83e8641a62.jpg" data-background-size="contain"}
-
-## {data-background-image=""}
-
-No registro das tradições arquitetônicas ao longo do tempo, a geologia e
-o clima nas diferentes partes do mundo determinam a maior parte dos
-materiais de construção que podem ser usados num certo lugar. Já numa
-perspectiva contemporânea, onde as cadeias produtivas podem ser globais,
-podemos acrescentar uma restrição intencional: considerar o impacto
-ambiental que decorre do transporte de longa distância e o impacto
-socioeconômico de abrir mão do domínio local sobre as tecnologias da
-construção. No cenário econômico e ecológico da atualidade, escolher os
-processos produtivos da arquitetura tradicional acaba sendo um ato de
-responsabilidade ambiental e social.
-
-## {data-background-image=""}
-
-O acesso a recursos naturais disponíveis na região é o ponto de partida
-da cadeia produtiva tradicional, mas a gestão e o processamento desses
-recursos é que definem a forma que esses recursos assumem enquanto
-componentes construtivos nas diferentes tradições. O modo de talhar
-pedras, o uso da argila em taipas ou em blocos, os encaixes entre peças
-de madeira são todas particularidades culturais que influenciam o
-processo construtivo e resultam naquilo que chamamos mais
-superficialmente de o *estilo* característico de cada tradição.
-
-## {data-background-image=""}
-
-Para além de se servir dos materiais extraídos da natureza, uma tradição
-arquitetônica sustentável precisa garantir o manejo desses recursos no
-longo prazo. Na Mesopotâmia antiga, algumas mudanças importantes não só
-nos sistemas construtivos mas também na agricultura e na pecuária talvez
-tenham a ver com o desmatamento das encostas montanhosas que formam o
-perímetro exterior do Crescente fértil. Reflorestar, mas também extrair
-e processar minérios com prudência, têm que ser preocupações centrais no
-processo produtivo.
-
-Em quase todas as cadeias da construção, existe um certo distanciamento
-entre, de um lado, a extração e o processamento dos materiais e, do
-outro lado, a especificação e o uso desses materiais na obra. O que é
-importante é que essa distância não represente, para o construtor ou o
-arquiteto, falta de conhecimento ou de preocupação com as etapas
-anteriores.
-
-## {data-background-image=""}
-
-Já no século [XV]{.smallcaps}, Leon Battista Alberti, o arquiteto e
-tratadista italiano, podia comprar quase todos os componentes
-construtivos de que ele precisasse, prontos para uso [@alberti:2011arte,
-II, xiii]. No entanto, isso não o impediu de descrever, em linhas
-gerais, as características da matéria-prima ou o seu preparo. Esse
-gênero de informação, como se fosse um controle de qualidade ou de
-procedência, aparece desde o tratado de Vitrúvio e em textos do
-Renascimento inspirados por ele, como nos *Quatro livros da arquitetura*
-de Palladio [@palladio:1570quattro, I].
-
-## {data-background-image=""}
-
-O discurso sobre a origem dos materiais tende a desaparecer dos textos
-arquitetônicos a partir do século [XVII]{.smallcaps}. O fim da
-preocupação com a profundidade inteira da cadeia produtiva da construção
-acompanha uma tripla separação de competências no ofício: num vértice
-temos os arquitetos, que se especializam na solução espacial e estética
-das edificações; num segundo vértice, estão os engenheiros calculistas
-que concebem o equilíbrio estático dessas edificações a partir de
-materiais com propriedades já conhecidas; e, no terceiro vértice, temos
-os construtores que se ocupam de comprar e instalar os componentes
-padronizados. Nenhuma dessas três categorias profissionais tem mais o
-domínio da cadeia produtiva como um todo, nem sequer a necessidade ou as
-atribuições para se ocupar de trechos dessa cadeia que estejam fora da
-sua alçada.
-
-## Bioclimatismo ##
-
-- Bioclimatismo
-- Isolamento térmico e ventilação
-- Casas-pátio na Mesopotâmia e no Egito
-- Moradas na Europa megalítica
-
-## Telhado chinês ##
-
-- Telhado curvo como adaptação do salão+corredor com coberturas
-  independentes
-
-e/ou
-
-- Longos beirais para proteger da chuva, curvos para deixar entrar luz
-  do dia.
-
-## Próximo tópico: espaço ##
-
-
-# Modenatura e variações #
+# Revestimentos #
 
 # Referências {.allowframebreaks}
 
