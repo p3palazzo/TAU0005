@@ -5,9 +5,10 @@ item    : "V"
 author  : "Pedro P. Palazzo"
 date    : 2021-08-31
 toc:
-  - Estilo, construção e cultura
-  - Sistema estrutural enquanto "ordem"
+  - As partes mais importantes da construção
+  - Sistema estrutural enquanto ordem
   - Modenatura e variações
+  - Revestimentos
 title-slide-attributes:
   data-background-image: https://hcommons.org/app/uploads/sites/1002372/2021/08/kawase_hasui_evening_moon_over_temple034333-1080p.jpg
 header:
@@ -18,203 +19,169 @@ header:
     url: "/slides/coberturas/"
 ---
 
-# Estilo, construção e cultura # {data-background-color="#0f0"}
+# As partes mais importantes da construção # {data-background-color="#0f0"}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG" data-background-size="535px 472px"}
+## De volta à madeira ## {data-visibility="hidden"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O mundo influenciado pela cultura chinesa se estendia, no seu auge
-durante o século [VII]{.smallcaps} d.C., [@fig:tang-influence] do
-Turquestão ao Japão e da
-Manchúria à Indochina. [@liang:1984pictorial, 21] O centro irradiador da
-cultura chinesa ficava no cruzamento entre duas grandes zonas climáticas
-e dois reinos biogeográficos. [@fig:wallace; @fig:cn-koeppen] Essa
-mistura de condições resultou numa tradição que se adaptava com
-facilidade a diferentes regiões e modos de vida.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## {.unlisted data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Área de influência cultural chinesa no século [VII]{.smallcaps} d.C. Desenho: [Brian Gotts, 2007](https://commons.wikimedia.org/wiki/File:Tang_dynasty1.PNG)](https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG){#fig:tang-influence .align-right}
-
-## {data-background-image="https://commons.wikimedia.org/wiki/File:China_Köppen.svg"}
-
-![Biomas de vegetação natural da China. [Adam Peterson, 2016](https://commons.wikimedia.org/wiki/File:China_Köppen.svg). O centro cultural da China, onde foi situada a maior parte das suas capitais históricas, está no limiar entre a região de florestas temperadas, onde se cultiva arroz, e a de estepes semiáridas, onde se cultivam cereais](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/China_Köppen.svg/1152px-China_Köppen.svg.png){#fig:cn-koeppen}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg" data-background-position="right"}
-
-![Regiões biogeográficas segundo Alfred Rusell Wallace, 1876. A China atravessa a divisa entre as regiões Paleártica e Oriental](https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg){#fig:wallace .full}
-
-## {.unlisted}
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[No final da última dinastia]{.newthought} imperial chinesa e durante o
-período republicano, pensadores como [Gu Jiegang][] e [Liang Qichao][]
-adotaram uma perspectiva intelectualmente reformista e
-[cética](https://en.wikipedia.org/wiki/Doubting_Antiquity_School) com
-respeito à cronologia histórica tradicional. Esse ceticismo estava
-alinhado com a visão da história desenvolvida na Europa do século
-[XIX]{.smallcaps}. Segundo essa visão, as fontes primárias só têm
-credibilidade se forem contemporâneas dos eventos descritos.
+Voltemos às teorias da cabana primitiva. Vitrúvio, Laugier e Semper
+tratavam a cobertura como um dos elementos centrais da construção. Para
+Laugier na metade do século [XVIII]{.smallcaps}, [@fig:laugier] a
+resolução técnica da cobertura era a própria razão de ser da cabana
+primitiva e da sua importância na literatura arquitetônica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[Gu Jiegang]: https://en.wikipedia.org/wiki/Gu_Jiegang
-
-[Liang Qichao]: https://en.wikipedia.org/wiki/Liang_Qichao
-
-## {.unlisted}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A historiografia chinesa tradicional se baseava no modelo estabelecido
-pelo [*Registros do historiador*][], [@fig:shiji] um livro compilado no
-começo do século [I]{.smallcaps} a.C. por Sima Qian. [@fig:sima-qian]
-Esse modelo organizava a cronologia segundo *dinastias* reais e
-imperiais. Como os registros chineses foram recompilados e reescritos
-várias vezes ao longo dos milênios, os historiadores do século
-[XX]{.smallcaps} consideravam os períodos mais antigos da história
-chinesa como um enfeite lendário que não corresponderia ao estado
-primitivo da sociedade naquela época.
+Um século mais tarde, Semper elaborou uma teoria da arquitetura onde a
+construção era secundária ao aspecto de organização social do espaço.
+Mesmo assim, a cobertura continuava a ser o primeiro e principal
+elemento tangível dessa arquitetura, à frente da delimitação física do
+espaço. A epítome dessa essência pretensamente "primitiva" era uma
+habitação contemporânea do povo karib, exibida na exposição universal de
+Londres em 1851. [@fig:karib]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[*Registros do historiador*]: https://pt.wikipedia.org/wiki/Registros_do_Historiador
+![Cabana do povo karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line .align-right}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Registros do historiador, edição japonesa do século [XIV]{.smallcaps} com pontuação e glosas de leitura (*kambun*). Acervo [Biblioteca Nacional Central de Taiwan](https://catalog.digitalarchives.tw/item/00/07/e9/9d.html)](https://image.digitalarchives.tw/ImageCache/00/07/8d/4a.jpg){#fig:shiji .stretch}
-:::
-::: {.column width=50%}
-![Sima Qian](https://i.pinimg.com/originals/e2/62/b4/e262b449e066156897137f6414e1f0ed.png){#fig:sima-qian .stretch}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg" data-background-position="top"}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png" data-background-size="contain"}
+<!--_,-->
+
+![Piero di Cosimo, Vulcano e Éolo, c. 1490, têmpera e óleo sobre tela. [National Gallery of Canada ](https://commons.wikimedia.org/wiki/File:Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg) ](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg/1072px-Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg){#fig:cosimo-vulcan}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Os historiadores céticos substituíram a cronologia tradicional, segundo
-*dinastias*, [@fig:xia-map] pelo padrão ocidental moderno de designar
-*culturas* arqueológicas. [@fig:erlitou-map] Essas novas interpretações
-estabeleciam a credibilidade dos pesquisadores chineses num mundo
-acadêmico dominado por europeus e americanos. Mas, ao mesmo tempo, elas
-também validavam uma pretensão de superioridade cultural da Europa sobre
-a Ásia, já que a história mais antiga da China acabava sendo reduzida a
-um mundo tribal e supostamente primitivo.
+A teoria de Semper se baseava em grande parte na alegoria das origens da
+arquitetura proposta por Vitrúvio no final do século [I]{.smallcaps} a.C.
+Vitrúvio considerava, sem nenhuma evidência arqueológica mas com uma
+intuição que hoje sabemos ter sido correta, que os mais antigos abrigos
+teriam sido construídos em madeira. As estruturas de toras que ele
+descreveu no seu tratado se prestavam sobretudo à construção de terraços
+e coberturas inclinadas apoiadas em esteios, como ilustrado pelos
+intérpretes do Renascimento. [@fig:cosimo-vulcan]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Extensão territorial da [dinastia Xià (c. 2070--1600 a.C.)](https://en.wikipedia.org/wiki/Xia–Shang–Zhou_Chronology_Project). Mapa: [Lamassu Design, 2009](https://commons.wikimedia.org/wiki/File:Xia_dynasty.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png){#fig:xia-map}
+## Soluções atemporais ## {data-visibility="hidden"}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erlitou_map.svg/920px-Erlitou_map.svg.png" data-background-size="contain"}
-
-![Extensão geográfica da [cultura Erlitou](https://en.wikipedia.org/wiki/Erlitou_culture), primeira metade do [II]{.smallcaps} milênio a.C.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erlitou_map.svg/920px-Erlitou_map.svg.png){#fig:erlitou-map}
-
-## {data-background-image="https://live.staticflickr.com/2895/14068360418_dad7f989ab_k_d.jpg"}
-
-![*Jue* (tripé para servir vinho), dinastia Xià, século [XVIII]{.smallcaps} a.C., bronze, pés reconstituídos. Museu de Shanghai. Foto: [H. Sondaz, 2013](https://commons.wikimedia.org/wiki/File:Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg/768px-Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg){#fig:xia-jue .marginnote}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-wooden-frame-of-a-house-20941-medium.mp4" data-background-video-muted="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Mesmo assim, no final das contas, as descobertas arqueológicas feitas
-nesse espírito [@fig:xia-jue] têm confirmado a existência de
-acontecimentos, lugares e, talvez, das próprias dinastias mencionadas na
-historiografia chinesa tradicional. Até mesmo a primeira dinastia
-chinesa, os Xià, parece ter sido confirmada pela escavação de um palácio
-do início da Idade do Bronze em Erlitou ([@fig:erlitou-gongtian;
-@fig:erlitou-diorama]).
+As coberturas inclinadas são alguns dos sistemas construtivos
+tradicionais que se mantiveram com menos alterações na construção
+moderna. [@fig:frame] O princípio de uma superfície inclinada para
+drenar a água da chuva e a sua execução com vigas, tesouras e caibros é
+de uma eficiência e simplicidade insuperável para a maioria das
+construções.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/26/二里头一号宫殿平面图_zh_hant.png" data-background-size="646px 548px"}
+![Estrutura em madeira numa casa norte-americana moderna](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-wooden-frame-of-a-house-20941-medium.mp4){#fig:frame}
 
-![Planta do palácio I em Erlitou, associado à dinastia Xià, c. 1600 a.C. Desenho: [Shibo77, 2011](https://commons.wikimedia.org/wiki/File:二里头一号宫殿平面图_zh_hant.png)](https://upload.wikimedia.org/wikipedia/commons/2/26/二里头一号宫殿平面图_zh_hant.png){#fig:erlitou-gongtian .nobg}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-storm-water-running-down-a-roof-21212-medium.mp4"}
 
-## {data-background-image="https://i.pinimg.com/originals/f1/ee/d9/f1eed9ee99d3fe09099b116de0234eee.jpg"}
-
-![Reconstituição do palácio I em Erlitou, Museu de Erlitou](https://i.pinimg.com/originals/f1/ee/d9/f1eed9ee99d3fe09099b116de0234eee.jpg){#fig:erlitou-diorama}
-
-## {data-background-image="https://live.staticflickr.com/4085/5066590459_c2b71733c4_k_d.jpg"}
-
-![Reconstituição parcial do palácio da dinastia Shang em Yin, c. 1300 a.C. Foto: [Tak.Wing, 2010](https://www.flickr.com/photos/takwing/5066590459/in/album-72157625131585002/)](https://live.staticflickr.com/4085/5066590459_c2b71733c4_k_d.jpg){#fig:yin}
-
-## Evolução orgânica do estilo ## {data-visibility="hidden"}
-
-## {.unlisted}
-
-![Ieoh Ming Pei, arquiteto, pirâmide do Louvre, Paris, 1984--1989. Foto: [Benh Lieu Song, 2010](https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1280px-Louvre_Museum_Wikimedia_Commons.jpg){#fig:louvre .full}
+![Água da chuva correndo na superfície de um telhado](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-storm-water-running-down-a-roof-21212-medium.mp4){#fig:chuva}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A teoria ocidental da História fez mais do que exigir
-evidências arqueológicas para corroborar os registros historiográficos
-tradicionais da China. Ela também interpretou a arquitetura chinesa pelo
-viés de uma teoria muito popular na Europa dos séculos [XIX]{.smallcaps}
-e [XX]{.smallcaps}: a teoria da evolução orgânica dos estilos.
+A função de uma cobertura é, à primeira vista, simples: ela precisa
+proteger o espaço debaixo dele contra o sol, a chuva e outras
+intempéries. [@fig:chuva] Para isso, uma das características mais
+importantes da cobertura é poder levar a água da chuva para longe das
+paredes e das fundações do edifício. [@fig:beiral]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/66/Louvre_Museum_Wikimedia_Commons.jpg"}
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-cabin-on-rainy-day-2738.mp4"}
+
+![Beiral de uma casa moderna](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-cabin-on-rainy-day-2738.mp4){#fig:beiral}
+
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Assim como no caso do ceticismo arqueológico, a introdução de um modo de
-pensar estranho à tradição da arquitetura chinesa acabou gerando
-oportunidades para pesquisar mais a fundo essa tradição. Esse processo
-foi impulsionado por uma geração de arquitetos chineses que estudaram
-nos Estados Unidos na primeira metade do século [XX]{.smallcaps} --- um
-deles foi Ieoh Ming Pei, famoso pela pirâmide do Louvre. [@fig:louvre]
+A forma precisa da cobertura e outras medidas para o seu desempenho vão
+depender do clima e da cultura específica a uma determinada região e
+sociedade. Não só a inclinação da cobertura varia, mas também o sistema
+construtivo dos seus suportes e os materiais usados no revestimento. Mas
+antes de falar em particularidades, vamos ver alguns requisitos gerais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg"}
+## Coberturas simples ## {data-visibility="hidden"}
 
-![Lin Huiyin e Liang Sicheng numa viagem pela província chinesa de Shanxi, 1934. Foto: [acervo da família Fairbank](https://www.smithsonianmag.com/history/lovers-shanxi-saved-chinas-ancient-architectural-treasures-before-lost-forever-180961424/)](https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg){#fig:liang-lin}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A aplicação de interpretações ocidentais ao estudo da arquitetura
-chinesa foi levada ao seu auge pelo casal formado pela escritora Lin
-Huiyin e pelo arquiteto Liang Sicheng. [@fig:liang-lin] Eles foram
-pioneiros no estudo arqueológico da arquitetura tradicional na China. Os
-dois tinham estudado na Universidade da Pensilvânia na década de 1920.
+Na sua forma mais simples, uma cobertura é a versão mais ou menos
+inclinada de um terraço plano. O terraço é feito de uma sequência de
+barrotes relativamente próximos uns dos outros, apoiados sobre os
+frechais das paredes e, eventualmente, também sobre vigas
+intermediárias. [@fig:catalhoyuk-build]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png" data-background-size="contain"}
+![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
 
-![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .align-right .line}
+## {.unlisted data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O que estamos chamando aqui de teoria da "evolução orgânica do estilo"
-já deve ser familiar a esta altura. É o cerne da história da arte e da
-arquitetura desenvolvida na Europa desde a segunda metade do século
-[XIX]{.smallcaps}; ela está sintetizada na "árvore da arquitetura"
-apresentada no livro-texto de Bannister Fletcher a partir de 1899.
-[@fig:treearch] Nessa visão, cada estilo arquitetônico percorre como
-que o ciclo de um ser vivo: ele parte de um estágio primitivo, se
-desenvolve até a maturidade, então pára de crescer e termina numa fase
-de declínio, quando não tem capacidade de se renovar ou "renascer".
-
-Segundo Fletcher, a tradição da arquitetura chinesa não tinha uma
-história digna desse nome. Ele argumentava que a evolução do estilo só
-podia ser orgânica, e portanto legitimamente histórica, quando ela fosse
-atrelada à resolução de problemas construtivos e espaciais. Fletcher,
-como muitos europeus e americanos na virada do século [XIX]{.smallcaps},
-pensava que nenhuma tradição de fora da bacia do Mediterrâneo e da
-Europa ocidental se ocupava de uma evolução verdadeiramente construtiva
-ou espacial da arquitetura, e só tinham explorações superficiais da
-decoração.
+A forma mais simples de cobertura inclinada sobre uma planta retangular
+consiste em fazer um frechal mais elevado de um lado, e rebaixado do
+lado oposto. Os barrotes ficam, então, inclinados, e nessa forma passam
+a ser chamados de *caibros*. Normalmente, é preciso fixar os caibros nos
+frechais com um nó, um encaixe ou por meio de conectores --- pinos,
+pregos ou parafusos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+## {.unlisted data-background-image="https://media.gettyimages.com/illustrations/cross-section-illustration-of-early-wooden-circular-house-with-roof-illustration-id125176581?s=2048x2048" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Pesquisadores como Liang e Lin internalizaram essa teoria do estilo, mas
-obviamente queriam afirmar a historicidade da arquitetura chinesa e,
-assim, refutar Fletcher (alguns historiadores americanos já tinham
-escrito histórias da pintura e da escultura no leste da Ásia mostrando a
-sua evolução orgânica, entre eles Ernest Fenollosa). Liang resumiu essa
-intenção dizendo com todas as letras:
+As cabanas de planta circular, comuns a muitas tradições construtivas
+antigas, pedem uma cobertura em forma de cone. Essa cobertura geralmente
+pede uma série de caibros amarrados entre si no topo e fixados aos
+frechais na outra extremidade. Essa era a configuração provável das
+cabanas do sítio neolítico de Banpö, na China, por volta de 5 mil anos
+atrás. [@fig:banpo-cut]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-> A construção chinesa é uma estrutura altamente "orgânica". É um [ser
-> de] crescimento nativo que foi concebido e nasceu no passado remoto da
-> pré-história, chegou à "adolescência" na dinastia Han (por volta o
-> início da era Cristã), amadureceu na plenitude da glória e do vigor na
-> dinastia Tang (séculos [VII]{.smallcaps} e [VIII]{.smallcaps}),
-> envelheceu com graça e elegância na dinastia Song (séculos
-> [XI]{.smallcaps} e [XII]{.smallcaps}), para então começar a mostrar
-> sinais de velhice, fraqueza e rigidez, a partir do início da dinastia
-> Ming (século [XV]{.smallcaps}). [@liang:1984pictorial, 17]
+::::::::::::::::::::::::::::::::::::::: {#fig:banpo-cut .iframe-wrapper}
+<iframe src="//embed.gettyimages.com/embed/125176581?et=xATBWGLCSo9h2yL5ULImrw&tld=pt&sig=hCxsx9wsrb_BW8d5zZ8klq6o4qE3Ecbr1ZOxxxhgBdU=&caption=true&ver=1" scrolling="no" frameborder="0"></iframe>
 
-# Sistema estrutural enquanto "ordem" # {data-background-color="#0f0"}
+Diagrama de uma casa neolítica com planta circular e cobertura cônica, Banpö, noroeste da China. © [Dorling Kindersley](http://www.gettyimages.pt/detail/125176581)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/1d/f8/08/1df808d1d44491ae22b8e0a652bb0337.png" data-background-position="top"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Cada parte da cobertura que drena para um lado diferente é chamada de
+*água*. A maioria das coberturas simples em construções retangulares
+isoladas tem duas ou quatro águas. [@fig:sienicki]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Onde o vão a ser vencido for muito grande, geralmente não convém fazer a
+cobertura drenar toda para um lado só, seja porque a diferença de altura
+entre as paredes acabaria por ser muito grande, seja porque a água
+escorrendo por uma distância muito longa tem mais chance de se infiltrar
+por algum defeito na construção.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Construção arruinada na Europa central com cobertura de duas águas. Foto: [Tomasz Sienicki, 2009]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wooden_roof_structure,_132,_ubt.JPG/1024px-Wooden_roof_structure,_132,_ubt.JPG){#fig:sienicki}
+
+[Tomasz Sienicki, 2009]: https://commons.wikimedia.org/wiki/File:Wooden_roof_structure,_132,_ubt.JPG
+
+<!--_,-->
+
+## A bom partido, bom telhado ## {data-visibility="hidden"}
+
+## Tesouras ## {data-visibility="hidden"}
+
+# Sistema estrutural enquanto ordem # {data-background-color="#0f0"}
+
+## Padronização e modularidade na China ## {data-visibility="hidden"}
+
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura tradicional da China atingiu desde o século
@@ -249,6 +216,8 @@ O aprendizado Beaux-Arts de Liang forneceu o método realizar o primeiro
 levantamento sistemático da arquitetura tradicional na China.
 [@fig:liang-01]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Lin Huiyin e Liang Sicheng numa viagem pela província chinesa de Shanxi, 1934. Foto: [acervo da família Fairbank](https://www.smithsonianmag.com/history/lovers-shanxi-saved-chinas-ancient-architectural-treasures-before-lost-forever-180961424/)](https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg){#fig:liang-lin}
 
 ## {data-background-image="https://i.pinimg.com/originals/85/52/82/855282f257cac6a604f9d3e76eedf562.png" data-background-size="contain"}
 
@@ -302,15 +271,15 @@ como o apogeu e a síntese do desenvolvimento histórico das artes na
 China. O segundo é o *Gongcheng zofa*, uma revisão e atualização do
 tratado anterior levando em conta algumas mudanças estruturais e
 suntuárias. [@fig:liang-08] Ele fazia parte da última grande
-recompilação oficial do
-pensamento político, filosófico e histórico da China, feita durante a
-última dinastia imperial; por isso, ele foi considerado um exemplo do
+recompilação oficial do pensamento político, filosófico e histórico da
+China, feita na segunda metade do século [XVIII]{.smallcaps}. Por isso,
+ele foi considerado um exemplo do
 engessamento conservador da tradição chinesa, e da estagnação
 tecnológica do país --- mas essa foi uma interpretação baseada numa
 certa agenda política republicana.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:liang-07-08}
+:::::::::::::::::::::::::::::::::::::: {.columns #fig:liang-07-08 .full}
 ::: {.column width=50%}
 ![Regras de carpintaria estrutural da dinastia Song segundo o *Yingzao fashi*, 1103](https://i.pinimg.com/originals/f4/c9/9b/f4c99b94f2c261080a66a10b39a6cc24.png){#fig:liang-07 .stretch}
 :::
@@ -369,6 +338,18 @@ mesmo patamar de historicidade da arquitetura europeia esquematizada na
 ## {data-background-image="https://i.pinimg.com/originals/2f/bd/fd/2fbdfd63849f527472ef4dadec10df67.jpg"}
 
 ![Esquema construtivo do salão principal do Fóguāngsǐ, desenho por Fu Xinian](https://i.pinimg.com/originals/2f/bd/fd/2fbdfd63849f527472ef4dadec10df67.jpg){#fig:fu-foguang}
+
+## Mãos sobrepostas ## {data-visibility="hidden"}
+
+Telhado chinês
+
+- Telhado curvo como adaptação do salão+corredor com coberturas
+  independentes
+
+e/ou
+
+- Longos beirais para proteger da chuva, curvos para deixar entrar luz
+  do dia.
 
 ## Dougong e encaixes ## {data-visibility="hidden"}
 
@@ -442,6 +423,16 @@ Aproximação às arquiteturas do sagrado: capitais móveis na China e no
 Japão, estruturas de culto temporárias ou periodicamente renovadas.
 
 # Revestimentos # {data-background-color="#0f0"}
+
+## Revestimento e clima ## {data-visibility="hidden"}
+
+## Rebocos e pinturas ## {data-visibility="hidden"}
+
+## Mosaicos e azulejos ## {data-visibility="hidden"}
+
+## Revestimentos de coberturas ## {data-visibility="hidden"}
+
+![Oratório Niofo, Costa do Marfim, século [XXI]{.smallcaps}](){#fig:niofo}
 
 # Referências {.allowframebreaks}
 

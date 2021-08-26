@@ -30,6 +30,7 @@ title-slide-attributes:
 
 ## {data-background-image=""}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No registro das tradições arquitetônicas ao longo do tempo, a geologia e
 o clima nas diferentes partes do mundo determinam a maior parte dos
 materiais de construção que podem ser usados num certo lugar. Já numa
@@ -40,9 +41,11 @@ socioeconômico de abrir mão do domínio local sobre as tecnologias da
 construção. No cenário econômico e ecológico da atualidade, escolher os
 processos produtivos da arquitetura tradicional acaba sendo um ato de
 responsabilidade ambiental e social.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O acesso a recursos naturais disponíveis na região é o ponto de partida
 da cadeia produtiva tradicional, mas a gestão e o processamento desses
 recursos é que definem a forma que esses recursos assumem enquanto
@@ -51,9 +54,11 @@ pedras, o uso da argila em taipas ou em blocos, os encaixes entre peças
 de madeira são todas particularidades culturais que influenciam o
 processo construtivo e resultam naquilo que chamamos mais
 superficialmente de o *estilo* característico de cada tradição.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para além de se servir dos materiais extraídos da natureza, uma tradição
 arquitetônica sustentável precisa garantir o manejo desses recursos no
 longo prazo. Na Mesopotâmia antiga, algumas mudanças importantes não só
@@ -69,9 +74,11 @@ outro lado, a especificação e o uso desses materiais na obra. O que é
 importante é que essa distância não represente, para o construtor ou o
 arquiteto, falta de conhecimento ou de preocupação com as etapas
 anteriores.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Já no século [XV]{.smallcaps}, Leon Battista Alberti, o arquiteto e
 tratadista italiano, podia comprar quase todos os componentes
 construtivos de que ele precisasse, prontos para uso [@alberti:2011arte,
@@ -81,9 +88,11 @@ gênero de informação, como se fosse um controle de qualidade ou de
 procedência, aparece desde o tratado de Vitrúvio e em textos do
 Renascimento inspirados por ele, como nos *Quatro livros da arquitetura*
 de Palladio [@palladio:1570quattro, I].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O discurso sobre a origem dos materiais tende a desaparecer dos textos
 arquitetônicos a partir do século [XVII]{.smallcaps}. O fim da
 preocupação com a profundidade inteira da cadeia produtiva da construção
@@ -97,6 +106,7 @@ padronizados. Nenhuma dessas três categorias profissionais tem mais o
 domínio da cadeia produtiva como um todo, nem sequer a necessidade ou as
 atribuições para se ocupar de trechos dessa cadeia que estejam fora da
 sua alçada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Bioclimatismo ##
 
@@ -105,20 +115,32 @@ sua alçada.
 - Casas-pátio na Mesopotâmia e no Egito
 - Moradas na Europa megalítica
 
-## Telhado chinês ##
+## China ## {data-visibility="hidden"}
 
-- Telhado curvo como adaptação do salão+corredor com coberturas
-  independentes
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG" data-background-size="535px 472px"}
 
-e/ou
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O mundo influenciado pela cultura chinesa se estendia, no seu auge
+durante o século [VII]{.smallcaps} d.C., [@fig:tang-influence] do
+Turquestão ao Japão e da
+Manchúria à Indochina. [@liang:1984pictorial, 21] O centro irradiador da
+cultura chinesa ficava no cruzamento entre duas grandes zonas climáticas
+e dois reinos biogeográficos. [@fig:wallace; @fig:cn-koeppen] Essa
+mistura de condições resultou numa tradição que se adaptava com
+facilidade a diferentes regiões e modos de vida.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-- Longos beirais para proteger da chuva, curvos para deixar entrar luz
-  do dia.
+![Área de influência cultural chinesa no século [VII]{.smallcaps} d.C. Desenho: [Brian Gotts, 2007](https://commons.wikimedia.org/wiki/File:Tang_dynasty1.PNG)](https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG){#fig:tang-influence .align-right}
 
-## Próximo tópico: espaço ##
+## {data-background-image="https://commons.wikimedia.org/wiki/File:China_Köppen.svg"}
 
+![Biomas de vegetação natural da China. [Adam Peterson, 2016](https://commons.wikimedia.org/wiki/File:China_Köppen.svg). O centro cultural da China, onde foi situada a maior parte das suas capitais históricas, está no limiar entre a região de florestas temperadas, onde se cultiva arroz, e a de estepes semiáridas, onde se cultivam cereais](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/China_Köppen.svg/1152px-China_Köppen.svg.png){#fig:cn-koeppen}
 
-# Unidade na diversidade # {data-background-color="#0f0"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg" data-background-position="right"}
+
+![Regiões biogeográficas segundo Alfred Rusell Wallace, 1876. A China atravessa a divisa entre as regiões Paleártica e Oriental](https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg){#fig:wallace .full}
+
+# Índia: unidade na diversidade # {data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A cultura tradicional da Índia é *exótica* aos olhos do Ocidente num
