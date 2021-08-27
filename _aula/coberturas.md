@@ -21,6 +21,16 @@ header:
 
 # As partes mais importantes da construção # {data-background-color="#0f0"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nem tudo o que a arquitetura produz é espaço coberto, mas cobrir
+ambientes é uma das tarefas mais diretamente associadas com a
+arquitetura e a construção. As coberturas não só protegem quem está
+dentro de uma edificação, mas sobretudo protegem a própria edificação
+contra a infiltração de água da chuva. Por isso, não é de surpreender
+que a cobertura tenha um papel dominante no caráter das construções e na
+teoria da arquitetura.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## De volta à madeira ## {data-visibility="hidden"}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
@@ -111,6 +121,8 @@ antes de falar em particularidades, vamos ver alguns requisitos gerais.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png" data-background-position="top"}
 
+![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na sua forma mais simples, uma cobertura é a versão mais ou menos
 inclinada de um terraço plano. O terraço é feito de uma sequência de
@@ -118,8 +130,6 @@ barrotes relativamente próximos uns dos outros, apoiados sobre os
 frechais das paredes e, eventualmente, também sobre vigas
 intermediárias. [@fig:catalhoyuk-build]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
 
 ## {.unlisted data-background-image=""}
 
@@ -134,6 +144,12 @@ pregos ou parafusos.
 
 ## {.unlisted data-background-image="https://media.gettyimages.com/illustrations/cross-section-illustration-of-early-wooden-circular-house-with-roof-illustration-id125176581?s=2048x2048" data-background-position="top"}
 
+::::::::::::::::::::::::::::::::::::::: {#fig:banpo-cut .iframe-wrapper}
+<iframe src="//embed.gettyimages.com/embed/125176581?et=xATBWGLCSo9h2yL5ULImrw&tld=pt&sig=hCxsx9wsrb_BW8d5zZ8klq6o4qE3Ecbr1ZOxxxhgBdU=&caption=true&ver=1" scrolling="no" frameborder="0"></iframe>
+
+Diagrama de uma casa neolítica com planta circular e cobertura cônica, Banpö, noroeste da China. © [Dorling Kindersley](http://www.gettyimages.pt/detail/125176581)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As cabanas de planta circular, comuns a muitas tradições construtivas
 antigas, pedem uma cobertura em forma de cone. Essa cobertura geralmente
@@ -141,20 +157,6 @@ pede uma série de caibros amarrados entre si no topo e fixados aos
 frechais na outra extremidade. Essa era a configuração provável das
 cabanas do sítio neolítico de Banpö, na China, por volta de 5 mil anos
 atrás. [@fig:banpo-cut]
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::::: {#fig:banpo-cut .iframe-wrapper}
-<iframe src="//embed.gettyimages.com/embed/125176581?et=xATBWGLCSo9h2yL5ULImrw&tld=pt&sig=hCxsx9wsrb_BW8d5zZ8klq6o4qE3Ecbr1ZOxxxhgBdU=&caption=true&ver=1" scrolling="no" frameborder="0"></iframe>
-
-Diagrama de uma casa neolítica com planta circular e cobertura cônica, Banpö, noroeste da China. © [Dorling Kindersley](http://www.gettyimages.pt/detail/125176581)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/1d/f8/08/1df808d1d44491ae22b8e0a652bb0337.png" data-background-position="top"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Cada parte da cobertura que drena para um lado diferente é chamada de
-*água*. A maioria das coberturas simples em construções retangulares
-isoladas tem duas ou quatro águas. [@fig:sienicki]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-color="#0f0"}
@@ -167,13 +169,53 @@ escorrendo por uma distância muito longa tem mais chance de se infiltrar
 por algum defeito na construção.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted data-background-image="https://i.pinimg.com/originals/1d/f8/08/1df808d1d44491ae22b8e0a652bb0337.png" data-background-position="top"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Cada parte da cobertura que drena para um lado diferente é chamada de
+*água*. A maioria das coberturas simples em construções retangulares
+isoladas tem duas ou quatro águas. [@fig:sienicki]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ![Construção arruinada na Europa central com cobertura de duas águas. Foto: [Tomasz Sienicki, 2009]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wooden_roof_structure,_132,_ubt.JPG/1024px-Wooden_roof_structure,_132,_ubt.JPG){#fig:sienicki}
 
 [Tomasz Sienicki, 2009]: https://commons.wikimedia.org/wiki/File:Wooden_roof_structure,_132,_ubt.JPG
 
 <!--_,-->
 
-## A bom partido, bom telhado ## {data-visibility="hidden"}
+## Implantação e cobertura ## {data-visibility="hidden"}
+
+## {.unlisted data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A simplicidade é um conceito recorrente na teoria da arquitetura. Em
+muitos casos, ela é tratada como um valor abstrato e transcendental que,
+por isso, permite interpretações ao gosto do freguês sobre o que é uma
+arquitetura feita com simplicidade. Em se tratando de coberturas, por
+outro lado, a correlação é mais tangível e diz respeito a formas
+geométricas simples.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Onde a projeção de uma construção for uma forma geométrica
+predominantemente convexa, com poucos recortes e reentrâncias, a
+cobertura também vai adotar essa simplicidade geométrica. E quanto mais
+uma cobertura tem uma geometria simples, menos ela está exposta a
+defeitos ou deteriorações que vão comprometer a sua durabilidade e o seu
+desempenho no longo prazo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esse princípio de certo modo justifica o famigerado "caixotinho" como
+uma solução arquitetônica resiliente. Não existe desonra em fazer uma
+construção simples --- o problema é confundir simplicidade com deixar de
+resolver questões importantes de detalhamento construtivo em nome de um
+fetiche pelo minimalismo formal.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Tesouras ## {data-visibility="hidden"}
 
