@@ -12,7 +12,7 @@ toc:
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg"}
 
-![Thomas Cole. The Past, 1838](https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg){#fig:cole-past .fullwidth}
+![Thomas Cole. The Past, 1838](https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg){#fig:cole-past .full}
 
 # Estilo, construção e cultura # {data-background-color="#0f0"}
 
@@ -79,7 +79,7 @@ um mundo tribal e supostamente primitivo.
 
 ## {data-background-image="https://live.staticflickr.com/2895/14068360418_dad7f989ab_k_d.jpg"}
 
-![*Jue* (tripé para servir vinho), dinastia Xià, século [XVIII]{.smallcaps} a.C., bronze, pés reconstituídos. Museu de Shanghai. Foto: [H. Sondaz, 2013](https://commons.wikimedia.org/wiki/File:Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg/768px-Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg){#fig:xia-jue .marginnote}
+![*Jue* (tripé para servir vinho), dinastia Xià, século [XVIII]{.smallcaps} a.C., bronze, pés reconstituídos. Museu de Shanghai. Foto: [H. Sondaz, 2013](https://commons.wikimedia.org/wiki/File:Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg/768px-Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg){#fig:xia-jue .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mesmo assim, no final das contas, as descobertas arqueológicas feitas
@@ -195,7 +195,7 @@ intenção dizendo com todas as letras:
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png" data-background-size="contain"}
 
-![Tipos de base e duplicações na edilícia de base do Mediterrâneo medieval, segundo Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:raddoppi .marginnote .line}
+![Tipos de base e duplicações na edilícia de base do Mediterrâneo medieval, segundo Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:raddoppi .align-right .line}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/25/a1/80/25a180516a2a01f5faf8fcdee19c23f9.jpg" data-background-size="contain"}
 
@@ -213,7 +213,7 @@ intenção dizendo com todas as letras:
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/1800px-Map_France_Gothic_1180.svg.png" data-background-position="top"}
 
-![Algumas das primeiras igrejas góticas na França, século [XII]{.smallcaps}. Amarelo escuro: extensão territorial do reino da França c. 1180; amarelo claro: domínio real](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/900px-Map_France_Gothic_1180.svg.png){#fig:gothic-1180 .marginnote}
+![Algumas das primeiras igrejas góticas na França, século [XII]{.smallcaps}. Amarelo escuro: extensão territorial do reino da França c. 1180; amarelo claro: domínio real](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/900px-Map_France_Gothic_1180.svg.png){#fig:gothic-1180 .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg"}
 

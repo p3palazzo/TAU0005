@@ -28,15 +28,15 @@ toc:
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/1b/fc/e4/1bfce44161d5cc5664e755285eece3a2.jpg" data-background-size="contain"}
 
-![Transecto urbano, por Duany, Plater-Zyberk & Co.](https://i.pinimg.com/originals/1b/fc/e4/1bfce44161d5cc5664e755285eece3a2.jpg){#fig:transect-dpz .fullwidth}
+![Transecto urbano, por Duany, Plater-Zyberk & Co.](https://i.pinimg.com/originals/1b/fc/e4/1bfce44161d5cc5664e755285eece3a2.jpg){#fig:transect-dpz .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/f8/79/72/f8797296c13dc5f771e743e054115039.jpg" data-background-size="contain"}
 
-![Transecto natural, por [DPZ]{.smallcaps}](https://i.pinimg.com/originals/f8/79/72/f8797296c13dc5f771e743e054115039.jpg){#fig:transect-natural .fullwidth}
+![Transecto natural, por [DPZ]{.smallcaps}](https://i.pinimg.com/originals/f8/79/72/f8797296c13dc5f771e743e054115039.jpg){#fig:transect-natural .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/95/f0/ee/95f0ee5aa71518677561cb2d5f8307a4.jpg" data-background-size="contain"}
 
-![Transecto urbano, baseado em [DPZ]{.smallcaps}](https://i.pinimg.com/originals/95/f0/ee/95f0ee5aa71518677561cb2d5f8307a4.jpg){#fig:transect-3d .fullwidth}
+![Transecto urbano, baseado em [DPZ]{.smallcaps}](https://i.pinimg.com/originals/95/f0/ee/95f0ee5aa71518677561cb2d5f8307a4.jpg){#fig:transect-3d .full}
 
 ## Arquitetura urbana ##
 
@@ -68,7 +68,7 @@ Tipos de urbanização
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/60/Tiryns_Tafel_I.jpg"}
 
-![Planta da cidadela de Tirinto, Grécia heládica, baseada nas escavações de Heinrich Schliemann em 1884. Desenho: [Wilhelm Dörpfeld](https://commons.wikimedia.org/wiki/File:Tiryns_Tafel_I.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/60/Tiryns_Tafel_I.jpg){#fug:tyrins .fullwidth}
+![Planta da cidadela de Tirinto, Grécia heládica, baseada nas escavações de Heinrich Schliemann em 1884. Desenho: [Wilhelm Dörpfeld](https://commons.wikimedia.org/wiki/File:Tiryns_Tafel_I.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/60/Tiryns_Tafel_I.jpg){#fug:tyrins .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg" data-background-size="contain"}
 
@@ -90,13 +90,13 @@ Tipos de urbanização
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/a3/9b/1c/a39b1c784a74b19486a731bafb578ed4.jpg" data-background-position=top}
 
-![Daniel-Charles Trudaine, coordenador, Atlas das estradas da França dito Atlas Trudaine, 1745--1780. Volume da circunscrição de Ruão, fl. 17, Le Vaudreuil. Arquivo Nacional da França [cota CP/F/14/8502](http://www2.culture.gouv.fr/public/mistral/caran_fr?ACTION=CHERCHER&FIELD_98=REF&VALUE_98=ZZ001273)](https://i.pinimg.com/originals/a3/9b/1c/a39b1c784a74b19486a731bafb578ed4.jpg){#fig:trudaine .fullwidth}
+![Daniel-Charles Trudaine, coordenador, Atlas das estradas da França dito Atlas Trudaine, 1745--1780. Volume da circunscrição de Ruão, fl. 17, Le Vaudreuil. Arquivo Nacional da França [cota CP/F/14/8502](http://www2.culture.gouv.fr/public/mistral/caran_fr?ACTION=CHERCHER&FIELD_98=REF&VALUE_98=ZZ001273)](https://i.pinimg.com/originals/a3/9b/1c/a39b1c784a74b19486a731bafb578ed4.jpg){#fig:trudaine .full}
 
 ## Plano castrense ##
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/37/6a/12/376a1285766305c402f6bcb210ab06ef.jpg" data-background-size="contain"}
 
-![Planta da cidade de Mileto, Ásia menor grega, replanejada no século [V]{.smallcaps} a.C.](https://i.pinimg.com/originals/37/6a/12/376a1285766305c402f6bcb210ab06ef.jpg){#fig:mileto .marginnote}
+![Planta da cidade de Mileto, Ásia menor grega, replanejada no século [V]{.smallcaps} a.C.](https://i.pinimg.com/originals/37/6a/12/376a1285766305c402f6bcb210ab06ef.jpg){#fig:mileto .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O nome "plano castrense" remete ao *castrum*, o acampamento militar
@@ -118,11 +118,11 @@ particulares de inclinação dos lotes e tem impacto no custo das
 construções.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Priene, cidade grega na Ásia menor. Reconstituição por [Rocío Espín Piñar](https://rocioespin.artstation.com/projects/1nGxEo)](https://i.pinimg.com/originals/2c/70/52/2c7052c309972c4f4b27aaa39efd9280.jpg){#fig:priene .fullwidth}
+![Priene, cidade grega na Ásia menor. Reconstituição por [Rocío Espín Piñar](https://rocioespin.artstation.com/projects/1nGxEo)](https://i.pinimg.com/originals/2c/70/52/2c7052c309972c4f4b27aaa39efd9280.jpg){#fig:priene .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/1c/f1/0e/1cf10eff6b7810a8f4d9b13d11ff6c2b.jpg" data-background-size="contain"}
 
-![Planta reconstituída do *castrum* (forte romano) permanente de Iciniacum, próximo a Theilenhofen, atual Alemanha. Desenho: [Mediatus](https://commons.wikimedia.org/wiki/File:Kastell_Theilenhofen_Iciniacum_(English).png)](https:upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kastell_Theilenhofen_Iciniacum_(English).png/747px-Kastell_Theilenhofen_Iciniacum_(English).png){#fig:theilenhofen .marginnote}
+![Planta reconstituída do *castrum* (forte romano) permanente de Iciniacum, próximo a Theilenhofen, atual Alemanha. Desenho: [Mediatus](https://commons.wikimedia.org/wiki/File:Kastell_Theilenhofen_Iciniacum_(English).png)](https:upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kastell_Theilenhofen_Iciniacum_(English).png/747px-Kastell_Theilenhofen_Iciniacum_(English).png){#fig:theilenhofen .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/da/90/13/da90133689af7874b61ec709e0007226.gif" data-background-size="contain"}
 
@@ -130,7 +130,7 @@ construções.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/90/06/75/9006756158f52110185ba284fccaefee.jpg"}
 
-![Argentorate, forte romano permanente, atual Estrasburgo, França. Reconstituição: [Jean-Claude Golvin](https://jeanclaudegolvin.com/argentorate-strasbourg/)](https://i.pinimg.com/originals/90/06/75/9006756158f52110185ba284fccaefee.jpg){#fig:argentorate .fullwidth}
+![Argentorate, forte romano permanente, atual Estrasburgo, França. Reconstituição: [Jean-Claude Golvin](https://jeanclaudegolvin.com/argentorate-strasbourg/)](https://i.pinimg.com/originals/90/06/75/9006756158f52110185ba284fccaefee.jpg){#fig:argentorate .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png"}
 
@@ -138,15 +138,15 @@ construções.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png"}
 
-![Reconstituição de Ammaia](https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png){#fig:ammaia-aerea .fullwidth}
+![Reconstituição de Ammaia](https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png){#fig:ammaia-aerea .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg" data-background-size="contain"}
 
-![Esquema da centuriação romana](https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg){#fig:centuriatio .marginnote}
+![Esquema da centuriação romana](https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg){#fig:centuriatio .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/69/ad/a1/69ada128dab3549fee10d65cfe1e76a8.jpg" data-background-size="contain"}
 
-![*Ager centuriatus* romano](https://i.pinimg.com/originals/69/ad/a1/69ada128dab3549fee10d65cfe1e76a8.jpg){#fig:ager .marginnote}
+![*Ager centuriatus* romano](https://i.pinimg.com/originals/69/ad/a1/69ada128dab3549fee10d65cfe1e76a8.jpg){#fig:ager .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/46/76/b1/4676b1ac3e68270c1559a4851b742782.jpg"}
 
@@ -161,7 +161,7 @@ construções.
    -
    -## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Srivijaya_Empire-pt.svg/1007px-Srivijaya_Empire-pt.svg.png" data-background-size="contain"}
    -
-   -![Império de Srivijaya, séculos [VIII]{.smallcaps} e [IX]{.smallcaps}. Mapa: [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Srivijaya_Empire-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Srivijaya_Empire-pt.svg/1007px-Srivijaya_Empire-pt.svg.png){#fig:srivijaya .marginnote}
+   -![Império de Srivijaya, séculos [VIII]{.smallcaps} e [IX]{.smallcaps}. Mapa: [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Srivijaya_Empire-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Srivijaya_Empire-pt.svg/1007px-Srivijaya_Empire-pt.svg.png){#fig:srivijaya .align-right}
    -->
 
 # Rua e praça #
@@ -217,11 +217,11 @@ traçado estruturante de aldeias--rua.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Goad-Insurance-Cairo-1905-10-11-12-13.jpg/1280px-Goad-Insurance-Cairo-1905-10-11-12-13.jpg"}
 
-![Mousky, Cairo, baseado na planta de [Goad, 1905](https://commons.wikimedia.org/wiki/File:Goad-Insurance-Cairo-1905-10-11-12-13.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Goad-Insurance-Cairo-1905-10-11-12-13.jpg/1280px-Goad-Insurance-Cairo-1905-10-11-12-13.jpg){#fig:goad .fullwidth}
+![Mousky, Cairo, baseado na planta de [Goad, 1905](https://commons.wikimedia.org/wiki/File:Goad-Insurance-Cairo-1905-10-11-12-13.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Goad-Insurance-Cairo-1905-10-11-12-13.jpg/1280px-Goad-Insurance-Cairo-1905-10-11-12-13.jpg){#fig:goad .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/1b/f5/3c/1bf53c56aca9810281bcc60691f1eb01.png" data-background-position="left"}
 
-![Comunidade cristã no arrabalde norte de Alepo, Síria, sob o império Otomano, c. 1900. David, 2008](https://i.pinimg.com/originals/1b/f5/3c/1bf53c56aca9810281bcc60691f1eb01.png){#fig:alep-xr .line .fullwidth}
+![Comunidade cristã no arrabalde norte de Alepo, Síria, sob o império Otomano, c. 1900. David, 2008](https://i.pinimg.com/originals/1b/f5/3c/1bf53c56aca9810281bcc60691f1eb01.png){#fig:alep-xr .line .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O arrabalde costuma ter um traçado viário radioconcêntrico. A separação
@@ -234,7 +234,7 @@ de comunidades é menos marcada do que na medina.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/56/c2/b2/56c2b2e7e55d315e8a60f0c1aa607236.jpg" data-background-position="left"}
 
-![Impérios do ouro e sal e rotas comerciais na Idade Média. [Smithsonian Institution National Museum of African Art, 2020](https://africa.si.edu/exhibitions/current-exhibitions/caravans-of-gold-fragments-in-time-art-culture-and-exchange-across-medieval-saharan-africa/video/)](https://i.pinimg.com/originals/56/c2/b2/56c2b2e7e55d315e8a60f0c1aa607236.jpg){#fig:si .fullwidth}
+![Impérios do ouro e sal e rotas comerciais na Idade Média. [Smithsonian Institution National Museum of African Art, 2020](https://africa.si.edu/exhibitions/current-exhibitions/caravans-of-gold-fragments-in-time-art-culture-and-exchange-across-medieval-saharan-africa/video/)](https://i.pinimg.com/originals/56/c2/b2/56c2b2e7e55d315e8a60f0c1aa607236.jpg){#fig:si .full}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mali.A2001291.1045.250m.jpg/1280px-Mali.A2001291.1045.250m.jpg"}
 
@@ -322,7 +322,7 @@ espaço cívico cercado, como um fórum, ou mesmo coberto, como um mercado.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/66/85/fc/6685fce724deb4f52fa3e91b5cdc1864.jpg"}
 
-![Área do campo de Marte em Roma; vermelho: traçado atual; preto: traçado antigo reconstituído](https://i.pinimg.com/originals/66/85/fc/6685fce724deb4f52fa3e91b5cdc1864.jpg){#fig:campomarzio .fullwidth}
+![Área do campo de Marte em Roma; vermelho: traçado atual; preto: traçado antigo reconstituído](https://i.pinimg.com/originals/66/85/fc/6685fce724deb4f52fa3e91b5cdc1864.jpg){#fig:campomarzio .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/f5/cc/38/f5cc389bddef42276982c120dbdb0b63.jpg" data-background-size="contain"}
 
@@ -331,7 +331,7 @@ Sedimentação por desvio das testadas para dentro da caixa da via na China
 medieval ([@fig:imperial-way; @fig:song-market]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Esquema da via imperial numa capital chinesa](https://i.pinimg.com/originals/f5/cc/38/f5cc389bddef42276982c120dbdb0b63.jpg){#fig:imperial-way .fullwidth}
+![Esquema da via imperial numa capital chinesa](https://i.pinimg.com/originals/f5/cc/38/f5cc389bddef42276982c120dbdb0b63.jpg){#fig:imperial-way .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/b7/ab/d7/b7abd7a66b1187c4c40fe27a447dc22c.jpg" data-background-size="contain"}
 

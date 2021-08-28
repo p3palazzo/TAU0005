@@ -18,7 +18,7 @@ toc:
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png" data-background-size="contain"}
 
-![Esquemas conceituais de aldeias indo-arianas. Desenho em [E.B. Havell, 1918](https://commons.wikimedia.org/wiki/File:Indo-Aryan_village_plans.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png){#fig:havell .marginnote .line .nobg}
+![Esquemas conceituais de aldeias indo-arianas. Desenho em [E.B. Havell, 1918](https://commons.wikimedia.org/wiki/File:Indo-Aryan_village_plans.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png){#fig:havell .align-right .line .nobg}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1280px-Brown-18060_0021-1.jpg" data-background-size="contain"}
 
@@ -103,7 +103,7 @@ com abside e alcovas laterais da tradição islâmica mais tardia.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/fe/3b/5d/fe3b5d37ca5d673d3d09e3e7e6ee95ea.png" data-background-size="contain"}
 
-![Medina Azahara, Córdoba, 953--957. Planta do palácio superior, por Felix Arnold, 2017](https://i.pinimg.com/originals/fe/3b/5d/fe3b5d37ca5d673d3d09e3e7e6ee95ea.png){#fig:arnold2017-2.25 .marginnote .line}
+![Medina Azahara, Córdoba, 953--957. Planta do palácio superior, por Felix Arnold, 2017](https://i.pinimg.com/originals/fe/3b/5d/fe3b5d37ca5d673d3d09e3e7e6ee95ea.png){#fig:arnold2017-2.25 .align-right .line}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/73/6d/3e/736d3ee19ab6ee338f869085cc1b034d.png" data-background-size="contain"}
 

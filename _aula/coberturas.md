@@ -5,7 +5,7 @@ item    : "V"
 author  : "Pedro P. Palazzo"
 date    : 2021-08-31
 toc:
-  - As partes mais importantes da construção
+  - Função e estrutura das coberturas
   - Sistema estrutural enquanto ordem
   - Modenatura e variações
   - Revestimentos
@@ -19,7 +19,7 @@ header:
     url: "/slides/coberturas/"
 ---
 
-# As partes mais importantes da construção # {data-background-color="#0f0"}
+# Função e estrutura das coberturas # {data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nem tudo o que a arquitetura produz é espaço coberto, mas cobrir
@@ -121,8 +121,6 @@ antes de falar em particularidades, vamos ver alguns requisitos gerais.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png" data-background-position="top"}
 
-![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na sua forma mais simples, uma cobertura é a versão mais ou menos
 inclinada de um terraço plano. O terraço é feito de uma sequência de
@@ -131,15 +129,39 @@ frechais das paredes e, eventualmente, também sobre vigas
 intermediárias. [@fig:catalhoyuk-build]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/e1/b2/2e/e1b22ee08a42bbb67b121838be2b8e87.jpg" data-background-size="contain"}
+
+![Esquema de uma cobertura inclinada moderna. Modelo: Castorama.fr](https://i.pinimg.com/originals/e1/b2/2e/e1b22ee08a42bbb67b121838be2b8e87.jpg){#fig:shed}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma mais simples de cobertura inclinada sobre uma planta retangular
 consiste em fazer um frechal mais elevado de um lado, e rebaixado do
 lado oposto. Os barrotes ficam, então, inclinados, e nessa forma passam
-a ser chamados de *caibros*. Normalmente, é preciso fixar os caibros nos
+a ser chamados de *caibros*. [@fig:shed]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/43/f9/9a/43f99ae9ce5679b28c914c4446a7e78a.png" data-background-position="top"}
+
+![Conexão de caibros com vigas, segundo Ednie, *Carpentry and Joinery*, 1925](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rafter_and_tie-beam_joints_(Carpentry_and_Joinery,_1925).jpg/517px-Rafter_and_tie-beam_joints_(Carpentry_and_Joinery,_1925).jpg){#fig:rafter-join .align-right}
+
+<!--_,-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Normalmente, é preciso fixar os caibros nos
 frechais com um nó, um encaixe ou por meio de conectores --- pinos,
-pregos ou parafusos.
+pregos ou parafusos. [@fig:rafter-join]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Onde o vão a ser vencido for muito grande, geralmente não convém fazer a
+cobertura drenar toda para um lado só, seja porque a diferença de altura
+entre as paredes acabaria por ser muito grande, seja porque a água
+escorrendo por uma distância muito longa tem mais chance de se infiltrar
+por algum defeito na construção.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://media.gettyimages.com/illustrations/cross-section-illustration-of-early-wooden-circular-house-with-roof-illustration-id125176581?s=2048x2048" data-background-position="top"}
@@ -157,16 +179,6 @@ pede uma série de caibros amarrados entre si no topo e fixados aos
 frechais na outra extremidade. Essa era a configuração provável das
 cabanas do sítio neolítico de Banpö, na China, por volta de 5 mil anos
 atrás. [@fig:banpo-cut]
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-color="#0f0"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Onde o vão a ser vencido for muito grande, geralmente não convém fazer a
-cobertura drenar toda para um lado só, seja porque a diferença de altura
-entre as paredes acabaria por ser muito grande, seja porque a água
-escorrendo por uma distância muito longa tem mais chance de se infiltrar
-por algum defeito na construção.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/1d/f8/08/1df808d1d44491ae22b8e0a652bb0337.png" data-background-position="top"}
@@ -296,7 +308,7 @@ Harbeson.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/China_-_Song_Dynasty-es.svg/1043px-China_-_Song_Dynasty-es.svg.png" data-background-size="contain"}
 
-![Dinastia Song no seu auge. Mapa: [Mozzan, 2013, traduzido por Rowan Wind Whistler, 2015](https://commons.wikimedia.org/wiki/File:China_-_Song_Dynasty-es.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/China_-_Song_Dynasty-es.svg/1043px-China_-_Song_Dynasty-es.svg.png){#fig:song .marginnote}
+![Dinastia Song no seu auge. Mapa: [Mozzan, 2013, traduzido por Rowan Wind Whistler, 2015](https://commons.wikimedia.org/wiki/File:China_-_Song_Dynasty-es.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/China_-_Song_Dynasty-es.svg/1043px-China_-_Song_Dynasty-es.svg.png){#fig:song .align-right}
 
 <!--_,-->
 

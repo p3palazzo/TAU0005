@@ -31,11 +31,11 @@ Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png"}
 
-![Palácios representados em relevos em Sāñchī, Amaravātī e Mathurā, reproduzidos por Coomaraswamy](https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png){#fig:palaces-coo .fullwidth .line .nobg}
+![Palácios representados em relevos em Sāñchī, Amaravātī e Mathurā, reproduzidos por Coomaraswamy](https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png){#fig:palaces-coo .full .line .nobg}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg" data-background-size="contain"}
 
-![Procissão de Prasenajit de Kosala deixando Saravasti para se encontrar com o Buda, relevo na *toraṇa* norte da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg){#fig:prasenajit-sanci .marginnote}
+![Procissão de Prasenajit de Kosala deixando Saravasti para se encontrar com o Buda, relevo na *toraṇa* norte da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg){#fig:prasenajit-sanci .align-right}
 
 ## {.unlisted}
 
@@ -53,7 +53,7 @@ Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
 
 ## {.unlisted data-background-image="https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg"}
 
-![Cidade de Kuśināgarā, cena da guerra das relíquias, relevo na *toraṇa* (portada) sul da estupa 1 em Sāñcī, Madhya Pradesh, reinado de Sātakaṇi II, 50--25 a.C. Foto: [Anandajoti Bhikku, 2017](https://www.flickr.com/photos/anandajoti/33813012975/in/photostream/)](https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg){#fig:kusinagara-sanci .fullwidth}
+![Cidade de Kuśināgarā, cena da guerra das relíquias, relevo na *toraṇa* (portada) sul da estupa 1 em Sāñcī, Madhya Pradesh, reinado de Sātakaṇi II, 50--25 a.C. Foto: [Anandajoti Bhikku, 2017](https://www.flickr.com/photos/anandajoti/33813012975/in/photostream/)](https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg){#fig:kusinagara-sanci .full}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png" data-background-size="contain"}
 
@@ -61,7 +61,7 @@ Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg" data-background-size="contain"}
 
-![Rei Bimbisara partindo de Rajāgṛha para visitar o Buda, relevo na *toraṇa* sul da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg){#fig:rajagriha-sanci .marginnote}
+![Rei Bimbisara partindo de Rajāgṛha para visitar o Buda, relevo na *toraṇa* sul da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg){#fig:rajagriha-sanci .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/83/56/94/8356949968a0413e38ca504f22a3a184.png"}
 
@@ -73,7 +73,7 @@ Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG/1280px-Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG"}
 
-![Relevo na passarela elevada da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Photo Dharma, 2017](https://commons.wikimedia.org/wiki/File:Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg){#fig:promenade .marginnote}
+![Relevo na passarela elevada da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Photo Dharma, 2017](https://commons.wikimedia.org/wiki/File:Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg){#fig:promenade .align-right}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg" data-background-size="contain"}
 
@@ -106,7 +106,7 @@ Arquitetura simbólica, clássica e romântica.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ceiling_of_Temple_of_Hathor.JPG/1280px-Ceiling_of_Temple_of_Hathor.JPG"}
 
-![Teto esculpido e pintado no templo de Hathor, Dendera. Foto:[Fig Wright, 2011](https://commons.wikimedia.org/wiki/File:Ceiling_of_Temple_of_Hathor.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ceiling_of_Temple_of_Hathor.JPG/1280px-Ceiling_of_Temple_of_Hathor.JPG){#fig:dendera-teto .fullwidth}
+![Teto esculpido e pintado no templo de Hathor, Dendera. Foto:[Fig Wright, 2011](https://commons.wikimedia.org/wiki/File:Ceiling_of_Temple_of_Hathor.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ceiling_of_Temple_of_Hathor.JPG/1280px-Ceiling_of_Temple_of_Hathor.JPG){#fig:dendera-teto .full}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG/1280px-Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG" data-background-position="bottom"}
 
@@ -114,7 +114,7 @@ Arquitetura simbólica, clássica e romântica.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg"}
 
-![Leo von Klenze, Reconstituição da Acrópole de Atenas, 1846. Óleo sobre tela](https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg){#fig:klenze-akro .fullwidth}
+![Leo von Klenze, Reconstituição da Acrópole de Atenas, 1846. Óleo sobre tela](https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg){#fig:klenze-akro .full}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg"}
 
@@ -134,7 +134,7 @@ Espaço tradicional em oposição ao anti-espaço modernista [@peterson:2020spac
 
 ## {data-background-image="https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png" data-background-size="contain"}
 
-![Oscar Niemeyer e Departamento de Arquitetura da Novacap, segundo anteprojeto para o andar nobre do Congresso Nacional, Brasília, 1957. Documentado por [Elcio Gomes da Silva e José Manoel Morales Sánchez, 2009](https://mdc.arq.br/2009/03/09/congresso-nacional-da-documentacao-tecnica-a-obra-construida/)](https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png){#fig:on-cn .fullwidth .line .nobg}
+![Oscar Niemeyer e Departamento de Arquitetura da Novacap, segundo anteprojeto para o andar nobre do Congresso Nacional, Brasília, 1957. Documentado por [Elcio Gomes da Silva e José Manoel Morales Sánchez, 2009](https://mdc.arq.br/2009/03/09/congresso-nacional-da-documentacao-tecnica-a-obra-construida/)](https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png){#fig:on-cn .full .line .nobg}
 
 ## {data-background-image="https://i.pinimg.com/originals/f0/e2/fd/f0e2fda773ec7a55f7cb009abc8868d9.jpg"}
 
@@ -150,11 +150,11 @@ Espaço tradicional em oposição ao anti-espaço modernista [@peterson:2020spac
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg"}
 
-![Miguel Ângelo Buonarroti, arquiteto, Santa Maria degli Angeli e Martiri, Roma, 1562, implantada no tepidário das termas de Diocleciano. Foto: [Pedro P. Palazzo, 2015](https://commons.wikimedia.org/wiki/File:IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg){#fig:angeli .fullwidth}
+![Miguel Ângelo Buonarroti, arquiteto, Santa Maria degli Angeli e Martiri, Roma, 1562, implantada no tepidário das termas de Diocleciano. Foto: [Pedro P. Palazzo, 2015](https://commons.wikimedia.org/wiki/File:IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg){#fig:angeli .full}
 
 ## {data-background-image="https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg" data-background-size="contain"}
 
-![Sant'Ivo alla Sapienza, corte transversal por [Dominique Barrière, c. 1695](https://commons.wikimedia.org/wiki/File:SantIvo_Drawing_04.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SantIvo_Drawing_04.jpg/664px-SantIvo_Drawing_04.jpg){#fig:sapienza-sec .marginnote}
+![Sant'Ivo alla Sapienza, corte transversal por [Dominique Barrière, c. 1695](https://commons.wikimedia.org/wiki/File:SantIvo_Drawing_04.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SantIvo_Drawing_04.jpg/664px-SantIvo_Drawing_04.jpg){#fig:sapienza-sec .align-right}
 
 ![Francesso Borromini, Sant'Ivo alla Sapienza, 1642--1660. Planta por [Dominique Barrière, 1720](https://archive.org/details/gri_33125012765174/page/n11/mode/2up)](https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg){#fig:sapienza-plan}
 
@@ -164,7 +164,7 @@ Espaço tradicional em oposição ao anti-espaço modernista [@peterson:2020spac
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg" data-background-position="bottom"}
 
-![Pátio em frente a Sant'Ivo della Sapienza. Foto: [Vlad Lesnov, 2010](https://commons.wikimedia.org/wiki/File:Archivio_di_stato_di_Roma_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg){#fig:sapienza-cortile .fullwidth}
+![Pátio em frente a Sant'Ivo della Sapienza. Foto: [Vlad Lesnov, 2010](https://commons.wikimedia.org/wiki/File:Archivio_di_stato_di_Roma_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg){#fig:sapienza-cortile .full}
 
 # Articulação arquitetônica do espaço #
 

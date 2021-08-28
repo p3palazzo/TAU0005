@@ -18,7 +18,7 @@ title-slide-attributes:
 
 # {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1280px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg" data-background-position="top"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Edwin Lord Weeks. Across the Pool to the Golden Temple of Amritsar, 1883](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1024px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg){#fig:weeks}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -160,7 +160,7 @@ verdadeira.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg"}
 
-![Percy Brown (1872--1955) com o artista caxemirí D.N. Walli](https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg){#fig:brown-walli .marginnote}
+![Percy Brown (1872--1955) com o artista caxemirí D.N. Walli](https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg){#fig:brown-walli .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa era a opinião do historiador da arte inglês Percy Brown,
@@ -182,7 +182,7 @@ arquitetura monumental na Índia. Para Brown:
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/27/43/40/274340c0fd8060640d0f6019cfeb6d9c.jpg"}
 
-![Ananda K. Coomaraswamy (1877--1947). Foto: [Alvin Langdon Coburn, 1916](https://commons.wikimedia.org/wiki/File:Coomaraswamy.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Coomaraswamy.jpg/588px-Coomaraswamy.jpg){#fig:coomaraswamy .marginnote}
+![Ananda K. Coomaraswamy (1877--1947). Foto: [Alvin Langdon Coburn, 1916](https://commons.wikimedia.org/wiki/File:Coomaraswamy.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Coomaraswamy.jpg/588px-Coomaraswamy.jpg){#fig:coomaraswamy .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os pesquisadores indianos tratam do tema da espiritualidade na
@@ -222,7 +222,7 @@ do norte da Índia e da Pérsia antiga).
 
 ## {.unlisted}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Migrações arianas no período védico inicial. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Early_Vedic_Culture_(1700-1100_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/57/Early_Vedic_Culture_(1700-1100_BCE).png){#fig:early-vedic width="50%"}
 
 ![Reinos nāgara do período védico tardio. Os territórios ao sul da área sombreada correspondem em linhas gerais à cultura dravídica. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Late_Vedic_Culture_(1100-500_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_(1100-500_BCE).png){#fig:late-vedic width="50%"}
@@ -243,7 +243,7 @@ Idades do Bronze e do Ferro no subcontinente Indiano.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2f/Shiva_Pashupati.jpg" data-background-size="contain"}
 
-![Selo Paśupati (senhor dos animais), talvez representando uma figura de "Shiva" ou iogue. [Mohenjo-Dāro, 2600--1900 a.C.](https://commons.wikimedia.org/wiki/File:Shiva_Pashupati.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Shiva_Pashupati.jpg){#fig:pasupati .marginnote}
+![Selo Paśupati (senhor dos animais), talvez representando uma figura de "Shiva" ou iogue. [Mohenjo-Dāro, 2600--1900 a.C.](https://commons.wikimedia.org/wiki/File:Shiva_Pashupati.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Shiva_Pashupati.jpg){#fig:pasupati .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma das evidências mais antigas nesse sentido é um carimbo para objetos
@@ -298,7 +298,7 @@ antigamente, e pode ter começado com as primeiras migrações indo-arianas
 por volta de 1800 a.C.. [@fig:migrations]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Migrações na Eurásia da Idade do Bronze Média, c. 1750--1250 a.C. No centro, migração de povos indo-arianos ("Rigvédicos") da Ásia central para o noroeste da Índia. Mapa: [Carlos Quiles, 2021](https://indo-european.eu/maps/middle-bronze-age/)](https://i.pinimg.com/originals/6b/1d/1e/6b1d1e4f03a4e191993052ff3f3e19d6.jpg){#fig:migrations .fullwidth}
+![Migrações na Eurásia da Idade do Bronze Média, c. 1750--1250 a.C. No centro, migração de povos indo-arianos ("Rigvédicos") da Ásia central para o noroeste da Índia. Mapa: [Carlos Quiles, 2021](https://indo-european.eu/maps/middle-bronze-age/)](https://i.pinimg.com/originals/6b/1d/1e/6b1d1e4f03a4e191993052ff3f3e19d6.jpg){#fig:migrations .full}
 
 [^1]: A população pré-histórica do vale do rio Indo provavelmente não
     era dravídica e sim austro-asiática, parte de um substrato que se
@@ -317,7 +317,7 @@ das formas de devoção
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png" data-background-size="contain"}
 
-![Planta dos monumentos na colina de Sāñcī. [Archaeological Survey of India](https://commons.wikimedia.org/wiki/File:Plan_of_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png){#fig:sanci-site-plan .fullwidth .line .nobg}
+![Planta dos monumentos na colina de Sāñcī. [Archaeological Survey of India](https://commons.wikimedia.org/wiki/File:Plan_of_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png){#fig:sanci-site-plan .full .line .nobg}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png/1280px-Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png" data-background-size="contain"}
 
@@ -346,9 +346,9 @@ Diagrama dos ventos de monções no oceano Índico e sul da Ásia
 ## {.unlisted}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:ghats}
-![[maio](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointDrySeason.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MatheranPanoramaPointDrySeason.JPG/1280px-MatheranPanoramaPointDrySeason.JPG){#fig:matheran-dry .fullwidth}
+![[maio](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointDrySeason.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MatheranPanoramaPointDrySeason.JPG/1280px-MatheranPanoramaPointDrySeason.JPG){#fig:matheran-dry .full}
 
-![[agosto](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointMonsoon.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MatheranPanoramaPointMonsoon.JPG/1280px-MatheranPanoramaPointMonsoon.JPG){#fig:matheran-wet .fullwidth}
+![[agosto](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointMonsoon.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MatheranPanoramaPointMonsoon.JPG/1280px-MatheranPanoramaPointMonsoon.JPG){#fig:matheran-wet .full}
 
 Ciclo das monções em Panorama point, Monte Methera, Ghats ocidentais.
 Fotos: Arne Hückelheim, 2010
@@ -360,11 +360,11 @@ Fotos: Arne Hückelheim, 2010
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/66/45/32/664532deb9ae18436624d6ac60f269a8.jpg"}
 
-![Rochedo e palácio de Sigiriya, Sri Lanka, iniciado 477 d.C.](https://i.pinimg.com/originals/66/45/32/664532deb9ae18436624d6ac60f269a8.jpg){#fig:sigiriya-drone .fullwidth}
+![Rochedo e palácio de Sigiriya, Sri Lanka, iniciado 477 d.C.](https://i.pinimg.com/originals/66/45/32/664532deb9ae18436624d6ac60f269a8.jpg){#fig:sigiriya-drone .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/0e/b2/c8/0eb2c8b48df86a86c202539bc84ea3aa.png" data-background-size="contain"}
 
-![Complexo urbano--paisagístico--palaciano de Sigiriya. Planta: [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/0e/b2/c8/0eb2c8b48df86a86c202539bc84ea3aa.png){#fig:sigiriya-plan .fullwidth}
+![Complexo urbano--paisagístico--palaciano de Sigiriya. Planta: [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/0e/b2/c8/0eb2c8b48df86a86c202539bc84ea3aa.png){#fig:sigiriya-plan .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/fe/a5/e6/fea5e65b5ea935966953bde3854766fe.png" data-background-size="contain"}
 
@@ -384,7 +384,7 @@ Fotos: Arne Hückelheim, 2010
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/53/02/f2/5302f21acc76cf1053c0cdec50c9fe21.jpg" data-background-size="contain"}
 
-![Planta dos jardins suspensos do rei Kaśyapa no palácio de Sigiriya, após 477. Desenho: [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/53/02/f2/5302f21acc76cf1053c0cdec50c9fe21.jpg){#fig:kasyapa-plan .marginnote}
+![Planta dos jardins suspensos do rei Kaśyapa no palácio de Sigiriya, após 477. Desenho: [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/53/02/f2/5302f21acc76cf1053c0cdec50c9fe21.jpg){#fig:kasyapa-plan .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/2c/ed/f9/2cedf9ffb64749c980a24015d9a8f12b.png" data-background-size="contain"}
 
@@ -434,7 +434,7 @@ chinês por cavalos tibetanos e o comércio de tecidos de seda chinesa e
 algodão bengalês --- dois produtos manufaturados que eram exportados
 para toda a Ásia, África e Europa.
 
-![Antiga rota do chá em Chenyao, China. Foto: [Nekitarc, 2017](https://commons.wikimedia.org/wiki/File:衬腰岩茶马古道照片.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg){#fig:chenyao .marginnote}
+![Antiga rota do chá em Chenyao, China. Foto: [Nekitarc, 2017](https://commons.wikimedia.org/wiki/File:衬腰岩茶马古道照片.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg){#fig:chenyao .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/f6/31/2e/f6312e27de421012a29fe99d442055c7.jpg"}
 
@@ -442,7 +442,7 @@ para toda a Ásia, África e Europa.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ae/cb/e5/aecbe5513a24ac16161a0d021d7fbec2.jpg"}
 
-![Plantação de arroz em Wuli, Yunnan. Foto: [Xing Fangyu, 2020](https://news.cgtn.com/news/2020-08-22/Explore-the-ancient-Tea-Horse-Road-in-Wuli-Village-Ta6xRDLvJ6/index.html)](https://i.pinimg.com/originals/ae/cb/e5/aecbe5513a24ac16161a0d021d7fbec2.jpg){#fig:wuli .fullwidth}
+![Plantação de arroz em Wuli, Yunnan. Foto: [Xing Fangyu, 2020](https://news.cgtn.com/news/2020-08-22/Explore-the-ancient-Tea-Horse-Road-in-Wuli-Village-Ta6xRDLvJ6/index.html)](https://i.pinimg.com/originals/ae/cb/e5/aecbe5513a24ac16161a0d021d7fbec2.jpg){#fig:wuli .full}
 
 Com o aumento do comércio, a partir do século [IX]{.smallcaps}, a
 população do sul da China foi se urbanizando. Isso gerava demanda por
@@ -490,13 +490,13 @@ palácios. [@fig:angkor-vid]
 
 ## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/0/0e/Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm" data-background-video-muted="true"}
 
-![Vista aérea de Angkor Wat. Produção: [[ZDF]{.smallcaps}, 2020](https://commons.wikimedia.org/wiki/File:Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm)](https://upload.wikimedia.org/wikipedia/commons/0/0e/Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm){#fig:angkor-vid .fullwidth}
+![Vista aérea de Angkor Wat. Produção: [[ZDF]{.smallcaps}, 2020](https://commons.wikimedia.org/wiki/File:Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm)](https://upload.wikimedia.org/wikipedia/commons/0/0e/Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm){#fig:angkor-vid .full}
 
 <!--_,-->
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/22/c1/d5/22c1d558443827a8dc08c5b068ce78ce.jpg" data-background-position="top"}
 
-![Sistema de canais e reservatórios de Angkor no período imperial. National Geographic](https://i.pinimg.com/originals/22/c1/d5/22c1d558443827a8dc08c5b068ce78ce.jpg){#fig:angkor-canals .fullwidth}
+![Sistema de canais e reservatórios de Angkor no período imperial. National Geographic](https://i.pinimg.com/originals/22/c1/d5/22c1d558443827a8dc08c5b068ce78ce.jpg){#fig:angkor-canals .full}
 
 [A capital khmer em Angkor]{.smallcaps} cumpria ao mesmo tempo todas as
 funções de legitimação e manutenção do poder político centralizado.
@@ -513,7 +513,7 @@ alagando a planície em volta dele. [@fig:tonle-sap]
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Angkor_Wat_reflejado_en_un_estanque_01.jpg/1280px-Angkor_Wat_reflejado_en_un_estanque_01.jpg"}
 
-![Tanque de água em Angkor Wat. Foto: [Luis Bartolomé Marcos, 2014](https://commons.wikimedia.org/wiki/File:Angkor_Wat_reflejado_en_un_estanque_01.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Angkor_Wat_reflejado_en_un_estanque_01.jpg/1280px-Angkor_Wat_reflejado_en_un_estanque_01.jpg){#fig:angkor-pond .fullwidth}
+![Tanque de água em Angkor Wat. Foto: [Luis Bartolomé Marcos, 2014](https://commons.wikimedia.org/wiki/File:Angkor_Wat_reflejado_en_un_estanque_01.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Angkor_Wat_reflejado_en_un_estanque_01.jpg/1280px-Angkor_Wat_reflejado_en_un_estanque_01.jpg){#fig:angkor-pond .full}
 
 A razão de ser da cidade era capturar os benefícios desse alagamento.
 Ele permitia fazer três colheitas de arroz por ano: uma colheita do
@@ -562,7 +562,7 @@ território. [@fig:angkor-general]
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/f9/17/05/f91705dd6fb0131b6673e6c0de54a950.jpg"}
 
-![Plano de conjunto de Angkor, levantado por LiDAR. [Evans e Fletcher, 2015](http://dx.doi.org/10.15184/aqy.2015.157)](https://i.pinimg.com/originals/f9/17/05/f91705dd6fb0131b6673e6c0de54a950.jpg){#fig:angkor-general .fullwidth}
+![Plano de conjunto de Angkor, levantado por LiDAR. [Evans e Fletcher, 2015](http://dx.doi.org/10.15184/aqy.2015.157)](https://i.pinimg.com/originals/f9/17/05/f91705dd6fb0131b6673e6c0de54a950.jpg){#fig:angkor-general .full}
 
 ## {.unlisted data-background-image="http://3.bp.blogspot.com/-NFynrCXSBXk/UugVwZb3riI/AAAAAAAABgo/4V1kr9oIMcQ/s1600/winter+is+coming_stark.gif"}
 
