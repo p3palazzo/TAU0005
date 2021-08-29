@@ -154,14 +154,45 @@ frechais com um nó, um encaixe ou por meio de conectores --- pinos,
 pregos ou parafusos. [@fig:rafter-join]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-carpenter-sawing-a-piece-of-wood-close-up-27054-medium.mp4" data-background-video-muted="true" data-background-video-loop="true"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Alguns tipos de encaixes, como a junta sobreposta ou a sambladura, são
+universais. Para além dessas formas difundidas, cada cultura construtiva
+desenvolveu muitos encaixes característicos. Eles são determinados pelas
+ferramentas usadas em cada região, e também pela qualidade da madeira e
+pelas particularidades do sistema construtivo em geral.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A carpintaria japonesa, por exemplo, é famosa por ter desenvolvido
+encaixes rebuscados. [@fig:engel092-095] Esses encaixes respondem à
+necessidade de obter um acabamento preciso mesmo usando essências
+mais macias do que as usadas na Europa ou na Ásia continental
+[@zwerger:2012wood].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: {#fig:engel092-095 .columns .full}
+::: {.column width=46.5%}
+![juntas colineares](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-092.png){#fig:engel2020-092 .line}
+:::
+::: {.column width=53.5%}
+![juntas ortogonais](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-095.png){#fig:engel2020-095 .line}
+:::
+Juntas comuns na carpintaria japonesa, segundo Heino Engel, 1985
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Onde o vão a ser vencido for muito grande, geralmente não convém fazer a
+Na maioria das construções, geralmente não convém fazer a
 cobertura drenar toda para um lado só, seja porque a diferença de altura
 entre as paredes acabaria por ser muito grande, seja porque a água
 escorrendo por uma distância muito longa tem mais chance de se infiltrar
-por algum defeito na construção.
+por algum defeito na construção, seja ainda porque o beiral do lado alto
+não é tão eficaz para proteger a parede.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://media.gettyimages.com/illustrations/cross-section-illustration-of-early-wooden-circular-house-with-roof-illustration-id125176581?s=2048x2048" data-background-position="top"}
@@ -194,6 +225,30 @@ isoladas tem duas ou quatro águas. [@fig:sienicki]
 [Tomasz Sienicki, 2009]: https://commons.wikimedia.org/wiki/File:Wooden_roof_structure,_132,_ubt.JPG
 
 <!--_,-->
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-040.2.png" data-background-size="contain"}
+
+![Esquema de uma cobertura de casa tradicional japonesa, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-040.2.png){#fig:engel2020-040.2 .line .full}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A forma mais direta de sustentação de uma cobertura consiste em apoiar
+os caibros sobre os frechais e a viga de cumeeira, ou sobre *terças* ---
+vigas intermediárias elas próprias apoiadas nas paredes da construção ou
+em *pontaletes*, que são pequenos pilares apoiados em outras vigas. Esse
+esquema estrutural é o ponto de partida para as elaborações mais
+complexas das coberturas no leste da Ásia [@engel:1985measure].
+[@fig:engel2020-040.2]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-088.1.png" data-background-size="contain"}
+
+![Coberturas do Japão arcaico, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-088.1.png){#fig:engel1985-088 .line}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg/2560px-Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg"}
+
+![Celeiros no sítio arqueológico de Yoshinogari, sudoeste do Japão, século [III]{.smallcaps} a.C., em reconstituição de finais do século [XX]{.smallcaps}. Foto: [Soramimi, 2017]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg/1024px-Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg){#fig:yoshinogari}
+
+[Soramimi, 2017]: https://commons.wikimedia.org/wiki/File:Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg
 
 ## Implantação e cobertura ## {data-visibility="hidden"}
 
@@ -229,7 +284,27 @@ resolver questões importantes de detalhamento construtivo em nome de um
 fetiche pelo minimalismo formal.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:price .r-stack}
+![sobre projeção retangular](https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0045.png){#fig:priceA .line .fragment .current-visible .align-left}
+
+![sobre projeção irregular](https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0048.png){#fig:priceB .line .fragment .current-visible .align-left}
+
+Ajuste de uma cobertura de quatro águas. Desenho: Francis Price, 1735
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-103.3.png" data-background-size="contain"}
+
+![Cobertura japonesa sem empena, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-103.3.png){#fig:engel1985-103.3 .line}
+
 ## Tesouras ## {data-visibility="hidden"}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/2560px-Roof_parts_simplified.svg.png" data-background-size="contain"}
+
+![Cobertura com tesouras. 1 -- viga de cumeeira, 2 -- terças, 3 -- caibros. Desenho: [George Ponderevo, 2012]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/1500px-Roof_parts_simplified.svg.png){#fig:timber-roof .line}
+
+[George Ponderevo, 2012]: https://commons.wikimedia.org/wiki/File:Roof_parts_simplified.svg
 
 # Sistema estrutural enquanto ordem # {data-background-color="#0f0"}
 
@@ -413,6 +488,12 @@ e/ou
   <iframe src="https://www.youtube.com/embed/JnB3fQTE1XU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </figure>
 
+## {.unlisted data-background-image="https://i.pinimg.com/originals/76/f8/5a/76f85af1f812ad927ea970bb7813ce95.png" data-background-position="top"}
+
+![Telhado do Tōindō, Yakushiji, Nara, século [VIII]{.smallcaps}. Maquete parcial executada em 2014, via [Designboom, 2021]](https://i.pinimg.com/originals/76/f8/5a/76f85af1f812ad927ea970bb7813ce95.png){#fig:yakushiji2014}
+
+[Designboom, 2021]: https://www.designboom.com/design/new-york-japan-society-exhibits-traditional-japanese-carpentry-tools-sou-fujimoto-03-19-2021/
+
 ## Caifen ## {data-visibility="hidden"}
 
 ## Continuidade e tradição ## {data-visibility="hidden"}
@@ -487,6 +568,16 @@ Japão, estruturas de culto temporárias ou periodicamente renovadas.
 ## Revestimentos de coberturas ## {data-visibility="hidden"}
 
 ![Oratório Niofo, Costa do Marfim, século [XXI]{.smallcaps}](){#fig:niofo}
+
+![Cobertura em bambu com telhas de madeira, Índia](https://i.pinimg.com/originals/ef/a8/94/efa894fab510409282f9538e06939936.png){#fig:india-shingle}
+
+![Execução de uma cobertura em choça](https://i.pinimg.com/originals/0e/31/ee/0e31eec73c2b44ce9fcbade88f1a8c1a.jpg){#fig:choca}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7c/Torvtak_5.png" data-background-size="contain"}
+
+![Detalhe de uma cobertura escandinava revestida com grama. Desenho: [Roede, 1989]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Torvtak_5.png/712px-Torvtak_5.png){#fig:torvtak .align-right}
+
+[Roede, 1989]: https://commons.wikimedia.org/wiki/File:Torvtak_5.png
 
 # Referências {.allowframebreaks}
 
