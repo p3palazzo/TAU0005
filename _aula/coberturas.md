@@ -117,8 +117,6 @@ construtivo dos seus suportes e os materiais usados no revestimento. Mas
 antes de falar em particularidades, vamos ver alguns requisitos gerais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Coberturas simples ## {data-visibility="hidden"}
-
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/2560px-Roof_parts_simplified.svg.png" data-background-size="contain"}
 
 ![Elementos da cobertura. 1 -- viga de cumeeira, 2 -- terças, 3 -- caibros. Desenho: [George Ponderevo, 2012]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/1500px-Roof_parts_simplified.svg.png){#fig:timber-roof .nobg}
@@ -136,6 +134,8 @@ intermediárias. [@fig:catalhoyuk-build]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
+
+## Coberturas simples ## {data-visibility="hidden"}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/e1/b2/2e/e1b22ee08a42bbb67b121838be2b8e87.jpg" data-background-size="contain"}
 
@@ -256,8 +256,6 @@ complexas das coberturas no leste da Ásia [@engel:1985measure].
 
 [Soramimi, 2017]: https://commons.wikimedia.org/wiki/File:Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg
 
-## Implantação e cobertura ## {data-visibility="hidden"}
-
 ## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -269,18 +267,32 @@ outro lado, a correlação é mais tangível e diz respeito a formas
 geométricas simples.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/34/b3/1c/34b31c5701695e5c5c0354cf8457eb76.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Onde a projeção de uma construção for uma forma geométrica
+Coberturas muito complexas [@fig:complicated] geram mais riscos de
+infiltração, especialmente nos *rincões* --- os ângulos côncavos ou
+reentrantes onde se concentra o escoamento da água da chuva. O elemento
+recíproco ao rincão é o *espigão*, o ângulo convexo que serve como
+divisor de águas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Planta de cobertura excessivamente complexa devido a uma planta baixa muito rebuscada](https://i.pinimg.com/originals/34/b3/1c/34b31c5701695e5c5c0354cf8457eb76.jpg){#fig:complicated}
+
+## {.unlisted data-background-image="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-drone-flying-over-remote-houses-8168-medium.mp4" data-background-video-muted="true"}
+
+![Casas rurais com coberturas simples de duas e quatro águas](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-drone-flying-over-remote-houses-8168-medium.mp4){#fig:ville}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Pelo contrário, onde a projeção de uma construção for uma forma geométrica
 predominantemente convexa, com poucos recortes e reentrâncias, a
-cobertura também vai adotar essa simplicidade geométrica. E quanto mais
-uma cobertura tem uma geometria simples, menos ela está exposta a
+cobertura também vai adotar essa simplicidade geométrica. [@fig:ville] E quanto
+mais uma cobertura tem uma geometria simples, menos ela está exposta a
 defeitos ou deteriorações que vão comprometer a sua durabilidade e o seu
 desempenho no longo prazo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse princípio de certo modo justifica o famigerado "caixotinho" como
@@ -306,7 +318,7 @@ Ajuste de uma cobertura de quatro águas. Desenho: [Francis Price, 1735]
 
 ![Cobertura japonesa sem empena, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-103.3.png){#fig:engel1985-103.3 .line}
 
-## Tesouras ## {data-visibility="hidden"}
+## Tesouras na carpintaria da Europa ## {data-visibility="hidden"}
 
 ## {.unlisted data-background-color="#0f0"}
 
@@ -331,9 +343,29 @@ compressão puras. Isso faz com que a distribuição de cargas seja mais
 eficiente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Tesoura de cobertura com duas linhas. Desenho: [Theodor Böhm, 1911]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kehlbalkendach_nach_Böhm.jpg/1024px-Kehlbalkendach_nach_Böhm.jpg){#fig:boehm}
+![Tesoura simples. Desenho: [Theodor Böhm, 1911]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kehlbalkendach_nach_Böhm.jpg/1024px-Kehlbalkendach_nach_Böhm.jpg){#fig:boehm}
 
 [Theodor Böhm, 1911]: https://commons.wikimedia.org/wiki/File:Kehlbalkendach_nach_Böhm.jpg
+
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::: {#fig:charpente-viollet .r-stack}
+![sem pendural](https://upload.wikimedia.org/wikipedia/commons/7/70/Charpente.ferme.primitive.png){#fig:charpente-violletA .line .fragment .current-visible .align-left}
+
+![com pendural [(CF)]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/a/a7/Charpente.ferme.primitive.2.png){#fig:charpente-violletB .line .fragment .current-visible .align-left}
+
+Tesouras simples segundo [Viollet-le-Duc, *Dictionnaire raisonné de l'architecture française...*]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Viollet-le-Duc, *Dictionnaire raisonné de l'architecture française...*]: https://fr.wikisource.org/wiki/Dictionnaire_raisonné_de_l’architecture_française_du_XIe_au_XVIe_siècle/Charpente
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+
+Para dar mais solidez à tesoura, é possível acrescentar um *pendural*
+tracionado verticalmente entre a cumeeira e o centro da linha.
+[@fig:charpente-viollet]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted}
 
@@ -384,16 +416,68 @@ em três tesouras independentes.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para manter a unidade da tesoura, podemos acrescentar escoras diagonais
-nas duas quinas superiores do retângulo. [@fig:zwerger2012-401] Essa
-solução vai levando às montagens de tesouras cada vez mais elaboradas na
-Alemanha e no norte da França durante a Idade Média.
+nas duas quinas superiores do retângulo. [@fig:zwerger2012-401]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://gcdn.daz3d.com/p/17767/i/render5_1_4.jpg"}
 
-![Celeiro do dízimo, Great Coxwell, Inglaterra, século [XIII]{.smallcaps}. Modelo: [Daz Originals e SoulessEmpathy]](https://gcdn.daz3d.com/p/17767/i/render5_1_4.jpg){#fig:coxwell}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O uso de escoras permite abrir espaços amplos e desimpedidos debaixo das
+tesouras. Por isso, essa solução é uma das mais usadas em galpões e
+grandes salões, como os celeiros da Europa medieval. [@fig:coxwell]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Celeiro do dízimo, Great Coxwell, Inglaterra, século [XIII]{.smallcaps}. Modelo digital: [Daz Originals e SoulessEmpathy]](https://gcdn.daz3d.com/p/17767/i/render5_1_4.jpg){#fig:coxwell}
 
 [Daz Originals e SoulessEmpathy]: https://www.daz3d.com/tithe-barn
+
+## {.unlisted}
+
+::::::::::::::::::::::::::::::::: {#fig:viollet-exemples .columns .full}
+::: {.column width=61%}
+![Notre-Dame de Paris, século [XII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/9/94/Charpente.Notre.Dame.Paris.2.png){#fig:viollet-ndp .line}
+:::
+::: {.column width=39%}
+![Catedral de Remígio, século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/f/f4/Charpente.cathedrale.Reims.png){#fig:viollet-reims .line}
+:::
+
+Carpintaria de catedrais francesas, em [Viollet-le-Duc, *Dictionnaire raisonné de l'architecture française...*]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essa
+solução vai levando às montagens de tesouras cada vez mais elaboradas na
+Alemanha e no norte da França durante a Idade Média.
+[@fig:viollet-exemples]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essas tesouras grandes e complexas eram importantes por vários motivos.
+Além de permitirem um telhado muito inclinado, para não acumular neve, o
+peso da carpintaria ajudava a estabilizar as paredes e sobretudo as
+abóbadas das construções. Além disso, as tesouras serviam de apoio para
+guindastes durante a obra. [@fig:grue]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Reconstituição de um guindaste na carpintaria da catedral de Remígio. Desenho de [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg){#fig:grue}
+
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/Rebatir_Notre-Dame_de_Paris-2020-470926263-1080p-25fps.webm" data-background-video-muted="true"}
+
+![Ensaio de reconstrução das tesouras de Notre-Dame de Paris nas Jornadas Europeias do Patrimônio, 19 e 20 de setembro de 2020. Produção: [Établissement Public [RNDP]{.smallcaps}]](https://cdn.palazzo.arq.br/firmitas/coberturas/Rebatir_Notre-Dame_de_Paris-2020-470926263-1080p-25fps.webm){#fig:rndp}
+
+[Établissement Public [RNDP]{.smallcaps}]: https://vimeo.com/user119711143
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O princípio de rigidez da malha triangular acaba se tornando um traçado
+regulador das proporções no sistema construtivo conhecido como
+*enxaimel*, criado no mundo germânico antigo. [@fig:langhein2012-01-03]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Malha proporcional triangular equilátera, exemplos da arquitetura vernácula alemã: casa rurais das regiões da Vestfália meridional, Francônia superior (Bavária) e casa urbana de Eppingen, Baden, 1471. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg){#fig:langhein2012-01-03 .full}
 
 # Sistema estrutural enquanto ordem # {data-background-color="#0f0"}
 
