@@ -36,13 +36,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Coberturas e superfícies",
-        "excerpt":"Estilo, construção e cultura Figura 1: Área de influência cultural chinesa no século VII d.C. Desenho: Brian Gotts, 2007 O mundo influenciado pela cultura chinesa se estendia, no seu auge durante o século VII d.C., 1 do Turquestão ao Japão e da Manchúria à Indochina.Liang, A Pictorial History of Chinese...","categories": [],
+        "excerpt":"Função e estrutura das coberturas Nem tudo o que a arquitetura produz é espaço coberto, mas cobrir ambientes é uma das tarefas mais diretamente associadas com a arquitetura e a construção. As coberturas não só protegem quem está dentro de uma edificação, mas sobretudo protegem a própria edificação contra a...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/coberturas/",
         "teaser": null
       },{
         "title": "Corpo e natureza",
-        "excerpt":"Figura 1: Edwin Lord Weeks. Across the Pool to the Golden Temple of Amritsar, 1883 Unidade na diversidade A cultura tradicional da Índia é exótica aos olhos do Ocidente num nível que outras culturas da Ásia não atingem. A China é centralizada, burocrática e materialista — todos valores que os...","categories": [],
+        "excerpt":"Figura 1: Edwin Lord Weeks. Across the Pool to the Golden Temple of Amritsar, 1883 Construção tradicional e meio ambiente No registro das tradições arquitetônicas ao longo do tempo, a geologia e o clima nas diferentes partes do mundo determinam a maior parte dos materiais de construção que podem ser...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/clima/",
         "teaser": null
@@ -84,7 +84,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Caracterizar",
-        "excerpt":"Figura 1: Thomas Cole. The Past, 1838 Casas, castelos e outras arquiteturas civis Figura 2: Villa parcialmente fortificada na época romana tardia, séculos IV–VI Figura 3: Tipos de base e duplicações na edilícia de base do Mediterrâneo medieval, segundo Caniggia Figura 4: Casa–salão do norte da Europa: construção em Burford,...","categories": [],
+        "excerpt":"Figura 1: Thomas Cole. The Past, 1838 Estilo, construção e cultura No final da última dinastia imperial chinesa e durante o período republicano, pensadores como Gu Jiegang e Liang Qichao adotaram uma perspectiva intelectualmente reformista e cética com respeito à cronologia histórica tradicional. Esse ceticismo estava alinhado com a visão...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/caracterizar/",
         "teaser": null
