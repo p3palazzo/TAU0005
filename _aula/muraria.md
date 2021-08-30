@@ -33,9 +33,7 @@ crus ou cozidos, e argamassas.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Cabanas primitivas segundo William Chambers](https://hcommons.org/app/uploads/sites/1002372/2021/08/chambers1759-gri_33125011135288_0017.jpg){#fig:chambers-huts}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Cabanas primitivas segundo William Chambers](https://hcommons.org/app/uploads/sites/1002372/2021/08/chambers1759-gri_33125011135288_0017.jpg){#fig:chambers-huts .align-right}
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/chambers1759-gri_33125011135288_0017a.png" data-background-size="contain"}
 
@@ -103,9 +101,7 @@ culturas construtivas que se baseiam em massas de alvenaria portante.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png" data-background-size="contain" data-background-position="center"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A origem da parede portante tem sido tratada como algo
@@ -143,9 +139,7 @@ marcar a sua passagem.
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/jarzombek2013-01.4a.png" data-background-size="contain"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Abrigos contra o vento no sítio arqueológico de Orangia I, África do Sul, Paleolítico médio, c. 130.000 a.p. Desenho: Andrew Ferentinos, baseado em Clavin Garth Sampson, 1968, publicado em Jarzombek, *Architecture of First Societies*](https://hcommons.org/app/uploads/sites/1002372/2021/08/jarzombek2013-01.4a.png){#fig:orangia .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Abrigos contra o vento no sítio arqueológico de Orangia I, África do Sul, Paleolítico médio, c. 130.000 a.p. Desenho: Andrew Ferentinos, baseado em Clavin Garth Sampson, 1968, publicado em Jarzombek, *Architecture of First Societies*](https://hcommons.org/app/uploads/sites/1002372/2021/08/jarzombek2013-01.4a.png){#fig:orangia .line .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A construção com pedra está presente como arrimo em alguns dos mais
@@ -182,7 +176,7 @@ ser deformada para os lados mesmo por uma carga vertical. Esse problema
 pequenos --- em geral, adobe ou tijolo cozido.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Resistência de paredes em alvenaria: [(A)]{.smallcaps} compressão axial por cargas permanentes e acidentais; [(B)]{.smallcaps} carga lateral acidental; [(C)]{.smallcaps} resistência lateral por atrito; [(A′)]{.smallcaps} vetor de carga excêntrica causando flambagem](https://hcommons.org/app/uploads/sites/1002372/2021/08/muraria-flambagem.png){#fig:flambagem .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -207,7 +201,7 @@ evitar a deformação *horizontal* da parede causada pela flambagem.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Chafurdão no vale de Cales, Castelo de Vide, Alentejo, Portugal. [[ADER--AL]{.smallcaps}, 2014]](https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg){#fig:chafurdao}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -222,9 +216,7 @@ contínua em todos os pontos da estrutura.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Muro serpenteante, Shaw nature reserve. Foto: [Steve Bougeno, 2015]](https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg){#fig:serpentine}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Muro serpenteante, Shaw nature reserve. Foto: [Steve Bougeno, 2015]](https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg){#fig:serpentine .align-right}
 
 [Steve Bougeno, 2015]: https://500px.com/photo/128955465/wall-by-Steve--Bougeno/
 
@@ -257,7 +249,7 @@ paredes de casas, como na recém-escavada "cidade dourada" de Luxor.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f2/Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Recinto murado do complexo mortuário do faraó Djoser em Saqqara, Egito, c. 2670--2650 a.C., em alvenaria de pedra com ressaltos. Foto: [Maveric149, 2008]](https://upload.wikimedia.org/wikipedia/commons/f/f2/Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG){#fig:saqqara}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -279,9 +271,7 @@ firmeza visual, além de oferecer espaço para assentos junto às janelas.
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0249.png" data-background-size="contain"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Esquema em planta de parede com contrafortes [(A)]{.smallcaps}, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0249.png){#fig:guadet1.249 .line width="30%"}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Esquema em planta de parede com contrafortes [(A)]{.smallcaps}, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0249.png){#fig:guadet1.249 .line width="30%" .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma alternativa mais ligeira a esses ressaltos grandes é o uso de
@@ -380,7 +370,7 @@ espaços semienterrados. [@fig:mesa-verde]
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -396,9 +386,7 @@ talvez sustentassem alguma cobertura, são grandes lajes de pedra.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Göbekli Tepe, vista aérea das escavações. Foto: [E. Kücuk, Instituto Arqueológico Alemão ([DAI]{.smallcaps}), 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png){#fig:gt-plan}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Göbekli Tepe, vista aérea das escavações. Foto: [E. Kücuk, Instituto Arqueológico Alemão ([DAI]{.smallcaps}), 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png){#fig:gt-plan .align-right}
 
 <!--_,-->
 
@@ -443,9 +431,7 @@ marcante.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Vista aérea dos templos megalíticos de Ħal Tarxien, Malta, 3250--3000 a.C.](https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg){#fig:tarxien-aer}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Vista aérea dos templos megalíticos de Ħal Tarxien, Malta, 3250--3000 a.C.](https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg){#fig:tarxien-aer .align-right}
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/2560px-Entrance_to_apses_of_the_Central_Temple_Tarxien_Temples.jpg"}
 
@@ -507,9 +493,7 @@ mais importante é a célula que fica diante do eixo do corredor,
 inverno.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Cortes do túmulo de Maeshowe. [Fantoman400, 2006](https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif){#fig:maeshowe-sec}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Cortes do túmulo de Maeshowe. [Fantoman400, 2006](https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif){#fig:maeshowe-sec .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg" data-background-size="contain"}
 
@@ -530,9 +514,7 @@ Modelo tridimensional da casa 7 em Skara Brae, 3100--2800 a.C. [Historic Environ
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Reconstituição da aldeia de Skara Brae vista desde o pátio de acesso ao corredor](https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png){#fig:skb-art}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Reconstituição da aldeia de Skara Brae vista desde o pátio de acesso ao corredor](https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png){#fig:skb-art .align-right}
 
 ![Câmara de uma casa em Skara Brae, com lar central e três plataformas contra as paredes, célula satélie ao fundo. Foto: [Archaeology Scotland, 2013](https://commons.wikimedia.org/wiki/File:Skara_Brae_Beds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/1280px-Skara_Brae_Beds.jpg){#fig:skb-int}
 
@@ -609,9 +591,7 @@ irradiam as células para os sarcófagos.
 
 ## {.unlisted data-background-image="https://journals.openedition.org/gallia/docannexe/image/5147/img-5.jpg" data-background-size="contain"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Casa com átrio romana](https://i.pinimg.com/originals/40/2e/13/402e13bd5ac00b1e990deb42b8057136.jpg){#fig:atrium .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Casa com átrio romana](https://i.pinimg.com/originals/40/2e/13/402e13bd5ac00b1e990deb42b8057136.jpg){#fig:atrium .line .align-right}
 
 ![Casas na *insula* V3 de Marzabotto, século [IV]{.smallcaps} a.C. [Gailledrat e Vacheret, 2020](https://doi.org/10.4000/gallia.5147)](https://journals.openedition.org/gallia/docannexe/image/5147/img-5.jpg){#fig:marzabotto}
 
@@ -759,9 +739,7 @@ como colunas e cimalhas.
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0247.png" data-background-size="contain"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Amarrações de tijolos, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0247.png){#fig:guadet1.247 .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Amarrações de tijolos, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0247.png){#fig:guadet1.247 .line .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os tijolos têm a vantagem de serem muito regulares e padronizados, o que
@@ -796,9 +774,7 @@ do século [XVIII]{.smallcaps} [@quintanafrias:2005cal5]. [@fig:montesa]
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/91/Tufo_Necropoli_della_Banditaccia.JPG" data-background-size="contain"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Parede em blocos de tufo na necrópole etrusca de Banditaccia, Itália, c. século [VI]{.smallcaps} a.C. Foto: [Patafisik, 2009](https://commons.wikimedia.org/wiki/File:Tufo_Necropoli_della_Banditaccia.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tufo_Necropoli_della_Banditaccia.JPG/800px-Tufo_Necropoli_della_Banditaccia.JPG){#fig:tufo}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Parede em blocos de tufo na necrópole etrusca de Banditaccia, Itália, c. século [VI]{.smallcaps} a.C. Foto: [Patafisik, 2009](https://commons.wikimedia.org/wiki/File:Tufo_Necropoli_della_Banditaccia.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tufo_Necropoli_della_Banditaccia.JPG/800px-Tufo_Necropoli_della_Banditaccia.JPG){#fig:tufo .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Pelo mesmo motivo, regiões com muitos depósitos de rochas vulcânicas,
@@ -933,9 +909,7 @@ de argamassa.
 
 ## {.unlisted data-background-iframe="https://www.youtube.com/watch?v=2NjcBBcesgc&t=99"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Parede incaica em aparelho poligonal, Cusco. Foto: [McKay Savage, 2012](https://commons.wikimedia.org/wiki/File:Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg/1280px-Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg){#fig:ciclop-cusco}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Parede incaica em aparelho poligonal, Cusco. Foto: [McKay Savage, 2012](https://commons.wikimedia.org/wiki/File:Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg/1280px-Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg){#fig:ciclop-cusco .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma mais monumental da pedra aparelhada é o aparelho poligonal. Ele
@@ -1012,7 +986,7 @@ preenchidos com pedras menores. [@fig:ciclop-palenque]
 
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-ancient-mayan-ruins-in-mexico-4467.mp4" data-background-video-muted="true"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Palácios maias](https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-ancient-mayan-ruins-in-mexico-4467.mp4){#fig:mayan-mixkit}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -1024,9 +998,7 @@ pedra: blocos com acabamento retangular e liso em todas as faces.
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0228.png"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Amarração de parede em cantaria, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0228.png){#fig:guadet1.228 .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Amarração de parede em cantaria, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0228.png){#fig:guadet1.228 .line .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A cantaria de pedra foi muito usada na Grécia dos períodos arcaico e
@@ -1128,9 +1100,7 @@ Testáceo
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/64/93/78/649378cbdcf844fac97ecda58d316b27.jpg" data-background-size="contain"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Aparelhos romanos: em elevação, (a) incerto, (b) reticulado; (c) ambos, em planta](https://i.pinimg.com/originals/64/93/78/649378cbdcf844fac97ecda58d316b27.jpg){#fig:opus}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Aparelhos romanos: em elevação, (a) incerto, (b) reticulado; (c) ambos, em planta](https://i.pinimg.com/originals/64/93/78/649378cbdcf844fac97ecda58d316b27.jpg){#fig:opus .align-right}
 
 ![Obra testácea associada ao aparelho reticulado e a fiadas de regularização em cantaria de pedra](https://i.pinimg.com/originals/13/0d/c6/130dc6d70b9028964895db38f8db5582.jpg){#fig:opus-mix}
 
@@ -1196,9 +1166,7 @@ blocos talhados em forma de aspa, T ou cruz que solidarizam as paredes
 no seu ponto de encontro. [@fig:guadet1.236]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Esquema de cunhais, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0268.png){#fig:guadet1.268 .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Esquema de cunhais, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0268.png){#fig:guadet1.268 .line .align-right}
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0236.png" data-background-size="contain"}
 
@@ -1216,7 +1184,7 @@ na arquitetura monumental. [@fig:guadet1.243]
 
 ## {.unlisted}
 
-::::::::::::::::::::::::::::::::::::::::::: {#fig:porteafaux .fullwidth}
+::::::::::::::::::::::::::::::::::::::::::: {#fig:porteafaux .full}
 ![correto: a estrutura de cima não ultrapassa o alinhamento de baixo](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0252.png){#fig:guadet1.252 .line width="18%"}
 ![](){#fig:nil width="0%"}
 ![errado: a base da estrutura de cima está em balanço sobre o alinhamento de baixo](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0256.png){#fig:guadet1.256 .line width="77%"}

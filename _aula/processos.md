@@ -19,7 +19,7 @@ header:
     url: "/slides/processos/"
 ---
 
-# Ordem e lugar #
+# Ordem e lugar # {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#00ff00"}
 
@@ -92,13 +92,13 @@ posição de reconhecimento da paisagem e de controle sobre o território.
 [@fig:olduvai]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Vista panorâmica da garganta do Olduvai, vale do Rift, norte da Tanzânia. Foto: [Noel Feans, 2009](https://commons.wikimedia.org/wiki/File:Olduvai_Gorge_or_Oldupai_Gorge.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Olduvai_Gorge_or_Oldupai_Gorge.jpg/1280px-Olduvai_Gorge_or_Oldupai_Gorge.jpg){#fig:rift}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/processos/olduvai-landscape.webm" data-background-video-muted="true"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Garganta do Olduvai. Filme: [David Gutiérrez e Ignacio Zapico, 2016](https://youtu.be/8To3-9ZecnU)](https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/processos/olduvai-landscape.webm){#fig:olduvai}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -139,7 +139,7 @@ cuidadosa do sítio onde a povoação vai se estabelecer.
 
 ## {.unlisted data-background-video="https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4" data-background-video-muted="true"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Kostyonki, Rússia. Fonte: Google Earth](https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4){#fig:kostyonki-google}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -167,7 +167,7 @@ vale. [@fig:kostyonki-model]
 
 ## {.unlisted data-background-transition="fade-out" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png"}
 
-![Localização no contexto das sociedades pré-históricas com habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-locator.png){#fig:kostyonki-loc .nobg .marginnote}
+![Localização no contexto das sociedades pré-históricas com habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-locator.png){#fig:kostyonki-loc .nobg .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Cada acampamento era formado por algumas cabanas
@@ -178,13 +178,13 @@ acampamentos não eram longe da água e dos campos de caça e coleta no
 fundo do vale. [@fig:kostyonki-site]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia, ocupação c. 14.000 a.p. Desenho com base em Jarzombek (2013) e Grigor'ev (1967), curvas de nível a cada 5 metros. Linha tracejada grossa: percurso estruturante de cumeada; linha tracejada fina: percursos de cumeada secundários; linha pontilhada: percurso de contra-cumeada](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png){#fig:kostyonki-site}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-transition="fade-in" data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Kostyonki na atualidade. Mapa de base: OpenStreetMap](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg){#fig:kostyonki-osm}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -211,7 +211,7 @@ I d.C. Hoje em dia, é uma trilha de caminhada bastante popular.
 
 ## {.unlisted data-background-image="http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg" data-background-size="contain"}
 
-![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg){#fig:bronzo .marginnote}
+![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg){#fig:bronzo .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Já em regiões muito montanhosas, como a Itália, os percursos de cumeada
@@ -252,7 +252,7 @@ florestal intensivo ou agricultura.
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png" data-background-size="contain"}
 
-![Área Kuikuro do alto Xingu indicando sítios arqueológicos c. 1250--1450, segundo Heckenberger (2003). Círculos com estrela: povoações fortificadas e com terreiro; círculos pontuados: povoações com terreiro; pontos: aldeias](https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png){#fig:kuikuro .marginnote .line}
+![Área Kuikuro do alto Xingu indicando sítios arqueológicos c. 1250--1450, segundo Heckenberger (2003). Círculos com estrela: povoações fortificadas e com terreiro; círculos pontuados: povoações com terreiro; pontos: aldeias](https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png){#fig:kuikuro .align-right .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse é o caso do território kuikuro no alto rio Xingu desde o século
@@ -274,7 +274,7 @@ floresta manejada no seu entorno imediato [@araujo:2016logica10;
 @soares:1997guarani].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Diagrama do teko'á guarani, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-souza-2016-tekoha.png){#fig:tekoa .marginnote}
+![Diagrama do teko'á guarani, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-souza-2016-tekoha.png){#fig:tekoa .align-right}
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png" data-background-size="auto"}
 
@@ -315,7 +315,7 @@ assentamentos, construções e detalhes, mais o uso de traçados
 reguladores e proporções ganha importância.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Proporção e escala #
+# Proporção e escala # {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#00ff00"}
 
@@ -343,7 +343,7 @@ um projeto arquitetônico na atualidade.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault .marginnote}
+![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O uso moderno e contemporâneo das proporções acabou seguindo essa mesma
@@ -356,7 +356,7 @@ entre si e com o edifício como um todo.
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Detalhe da ordem dórica segundo Vinhola, edição de 1787](https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png){#fig:vignola .marginnote .line}
+![Detalhe da ordem dórica segundo Vinhola, edição de 1787](https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png){#fig:vignola .align-right .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os tratados das ordens, como o do Vinhola no final do século
@@ -440,7 +440,7 @@ arquitetura e sim um *modo de fazer* construções.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain"}
 
-![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .marginnote .line}
+![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .align-right .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Tudo começa com um círculo. Alguns dos mais antigos abrigos permanentes
@@ -463,13 +463,13 @@ em pequenos depósitos rurais, como este chafurdão no Alentejo.
 * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Chafurdão no vale de Cales, Castelo de Vide, Alentejo, Portugal. [[ADER--AL]{.smallcaps}, 2014](http://www.outralentejo.org/galeria/castelo-de-vide_chafurdao-do-vale-de-cales/)](https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg){#fig:chafurdao}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm" data-background-video-muted="true"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Stonehenge, Inglaterra, c. 2600 a.C., vista aérea. Filmagem: [Chris Ridley, 2015](https://commons.wikimedia.org/wiki/File:Stonehenge_at_Sunrise_-_by_Drone..webm)](https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm){#fig:stonehenge-drone}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -544,7 +544,7 @@ interpretação transcendental das proporções como espelho da natureza
 [@doczi:2008poder].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Proporções derivadas do quadrado. Acima: um quadrado e meio ou "quinta"; dois quadrados ou "oitava"; abaixo: retângulo gerado pela diagonal do quadrado e seção áurea; centro: proporções da casa kamayurá e traçado gerado pela meia diagonal do quadrado](https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png){#fig:proporcoes .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -560,13 +560,13 @@ quadrado, que determina a largura do vão central [@kamayura:2019manual].
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg" data-background-size="contain"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Planta de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg){#fig:ok-planta}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg" data-background-size="contain"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Corte de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg){#fig:ok-corte}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -580,7 +580,7 @@ quadrado, que determina a largura do vão central [@kamayura:2019manual].
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg" data-background-size="contain"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional na Suíça: haus zum Ritter, Schaffhausen, 1487--1580; paço municipal da Basileia, 1504--1513; paço municipal de Lausanne, 1673--1675. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg){#fig:langhein2012-04-06}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -590,7 +590,7 @@ quadrado, que determina a largura do vão central [@kamayura:2019manual].
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-distance-detail.jpg" data-background-size="640px 666px" data-background-position="2.5% 5%" data-background-color="#00ff00"}
 
-![Distância e detalhe, por Léon Krier](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-distance-detail.png){#fig:krier-detail .line .marginnote}
+![Distância e detalhe, por Léon Krier](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-distance-detail.png){#fig:krier-detail .line .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma última consideração importante diz respeito à escala dos elementos
@@ -610,7 +610,7 @@ como as proporções são usadas de fato no processo produtivo do ambiente
 construído.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Preferência temporal e preferência local #
+# Preferência temporal # {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#00ff00"}
 
@@ -627,7 +627,7 @@ sociedades.
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg" data-background-size="458px 458px" data-background-position="2.5% 5%" data-background-color="#00ff00"}
 
-![Arquitetura do pico do petróleo. Léon Krier, 2008](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg){#fig:krier-oil .marginnote}
+![Arquitetura do pico do petróleo. Léon Krier, 2008](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg){#fig:krier-oil .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura tradicional consome muito trabalho manual e um pouco do
@@ -647,7 +647,7 @@ local*.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/e7/83/e6/e783e61df6c6534e45f61ac400ad53f2.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Barnabas Calder. Foto: [Helen @ Gingerbread Design](https://www.unitedagents.co.uk/barnabas-calder)](https://i.pinimg.com/originals/01/bd/e9/01bde9f28c2eccdaa1eb4e35bfe80a1e.jpg){#fig:calder-trombine .marginnote}
+![Barnabas Calder. Foto: [Helen @ Gingerbread Design](https://www.unitedagents.co.uk/barnabas-calder)](https://i.pinimg.com/originals/01/bd/e9/01bde9f28c2eccdaa1eb4e35bfe80a1e.jpg){#fig:calder-trombine .align-right}
 
 ![© Pelican Books, 2021](https://i.pinimg.com/originals/e7/83/e6/e783e61df6c6534e45f61ac400ad53f2.jpg){#fig:calder-book}
 
@@ -824,7 +824,7 @@ investir não só no conforto imediato, mas sobretudo na qualidade de vida
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gaston_Bachelard_1965.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Gaston Bachelard. Acervo do [Arquivo Nacional dos Países Baixos](https://commons.wikimedia.org/wiki/File:Gaston_Bachelard_1965.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gaston_Bachelard_1965.jpg/763px-Gaston_Bachelard_1965.jpg){#fig:bachelard .marginnote}
+![Gaston Bachelard. Acervo do [Arquivo Nacional dos Países Baixos](https://commons.wikimedia.org/wiki/File:Gaston_Bachelard_1965.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gaston_Bachelard_1965.jpg/763px-Gaston_Bachelard_1965.jpg){#fig:bachelard .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Outra consequência da arquitetura com preferência temporal de longo
@@ -843,7 +843,7 @@ Tuan [@fig:tuan] [@tuan:1980topofilia].
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg" data-background-size="contain" data-background-position="right" data-background-color="#00ff00"}
 
-![Yi-Fu Tuan](https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg){#fig:tuan .marginnote}
+![Yi-Fu Tuan](https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg){#fig:tuan .align-right}
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain" data-background-position="right" data-background-color="#0f0"}
 
@@ -876,7 +876,7 @@ importa tanto, a questão é a tendência.
 
 ## {.unlisted data-background-image="https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980" data-background-size="contain"}
 
-![Léon Krier, custo de construção e custo de manutenção comparados](https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980){#fig:krier-maintenance .marginnote}
+![Léon Krier, custo de construção e custo de manutenção comparados](https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980){#fig:krier-maintenance .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ora, mas se a construção está cada vez mais industrializada, por que ela
@@ -893,7 +893,7 @@ organização da cadeia produtiva.
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Emissões de CO~2~ da cadeia produtiva da construção civil. Pesquisa e gráfico: [Victoria Luise Schulz-Daubas, 2021](https://osf.io/ea5hf)](https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png){#fig:schulz .marginnote}
+![Emissões de CO~2~ da cadeia produtiva da construção civil. Pesquisa e gráfico: [Victoria Luise Schulz-Daubas, 2021](https://osf.io/ea5hf)](https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png){#fig:schulz .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 E onde entra o discurso da sustentabilidade nessa lógica de preferência
@@ -938,7 +938,7 @@ temporal? Uma arquitetura produzida lentamente, mas que volte a durar
 séculos?
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Alegoria da cabana primitiva #
+# Alegoria da cabana primitiva # {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#00ff00"}
 
@@ -968,7 +968,7 @@ milhões atrás, ao último ancestral comum dos hominídeos
 [@fruth:2017great].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Orangotango construindo ninho em Bornéu. Foto: [John Fuller, 2013 ](http://johnfuller3048.blogspot.com/2013/06/borneo-3.html) ](https://i.pinimg.com/originals/7e/ac/0f/7eac0fad2c7dc3ff0a7471354e2bbdea.jpg){#fig:orang .marginnote}
+![Orangotango construindo ninho em Bornéu. Foto: [John Fuller, 2013 ](http://johnfuller3048.blogspot.com/2013/06/borneo-3.html) ](https://i.pinimg.com/originals/7e/ac/0f/7eac0fad2c7dc3ff0a7471354e2bbdea.jpg){#fig:orang .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/e8/5f/c8/e85fc8c962e1545901b556978c636218.jpg"}
 
@@ -976,7 +976,7 @@ milhões atrás, ao último ancestral comum dos hominídeos
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Cabane_de_Terra_Amata_2.jpg"}
 
-![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata .marginnote}
+![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata .align-right}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c1/Dwelling_made_with_mammoth_bones.jpg"}
 
@@ -1003,7 +1003,7 @@ agrárias, é bastante comum as pessoas trabalharem e mesmo descansarem ao
 relento. [@fig:gauchos]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Jean-Baptiste Henri Durand-Brager, Gaúchos preparando mate (acampamento do exército de Juan Manuel de Rosas). [*L'Illustration* [VII]{.smallcaps} (177), 1846](https://commons.wikimedia.org/wiki/File:Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg/1280px-Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg){#fig:gauchos}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -1058,7 +1058,7 @@ em toras e troncos roliços de carvalho; todas as construções eram
 orientadas aproximadamente na direção leste--oeste.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: {#fig:sannai-site .fullwidth}
+::: {#fig:sannai-site .full}
 ::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=30%}
 ![Situação no território das sociedades pré-históricas que construíram habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-and-pit-dwellings.png){#fig:sannai-globe .nobg}
@@ -1067,7 +1067,7 @@ orientadas aproximadamente na direção leste--oeste.
 ![Locação junto à baía de Mutsu, atual município de Aomori, Japão](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-loc.png){#fig:sannai-mutsu}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-![Corte do sítio reconstituído](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-540.png){#fig:sannai-sec .fullwidth}
+![Corte do sítio reconstituído](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-540.png){#fig:sannai-sec .full}
 
 Esquema do sítio arqueológico de Sannai Maruyama, cultura Jōmon, 3900--2300 a.C.
 :::
@@ -1114,7 +1114,7 @@ coletivo e que, portanto, só poderia existir em volta do lar --- da
 fogueira familiar ou comunitária.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Piero di Cosimo, Cena de caçada, c. 1494--1500, têmpera e óleo sobre madeira. [Metropolitan Museum of Art ](https://commons.wikimedia.org/wiki/File:A_Hunting_Scene_MET_DT6.jpg) ](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/A_Hunting_Scene_MET_DT6.jpg/1280px-A_Hunting_Scene_MET_DT6.jpg){#fig:cosimo-hunt .fullwidth}
+![Piero di Cosimo, Cena de caçada, c. 1494--1500, têmpera e óleo sobre madeira. [Metropolitan Museum of Art ](https://commons.wikimedia.org/wiki/File:A_Hunting_Scene_MET_DT6.jpg) ](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/A_Hunting_Scene_MET_DT6.jpg/1280px-A_Hunting_Scene_MET_DT6.jpg){#fig:cosimo-hunt .full}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg" data-background-position="top"}
 
@@ -1124,7 +1124,7 @@ fogueira familiar ou comunitária.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote}
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A origem social da construção foi sendo esquecida aos
@@ -1158,7 +1158,7 @@ estritamente individual.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg"}
 
-![Leo von Klenze, Templo da Concórdia em Agrigento, 1857 ](https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg){#fig:klenze-concordia .fullwidth}
+![Leo von Klenze, Templo da Concórdia em Agrigento, 1857 ](https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg){#fig:klenze-concordia .full}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salon_de_la_princesse_hotel_de_soubise.jpg/1280px-Salon_de_la_princesse_hotel_de_soubise.jpg"}
 
@@ -1186,7 +1186,7 @@ arquitetura.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"}
 
-![Caspar David Friedrich, Andarilho sobre o mar de névoa, 1817](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg){#fig:friedrich .marginnote}
+![Caspar David Friedrich, Andarilho sobre o mar de névoa, 1817](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg){#fig:friedrich .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As implicações políticas do individualismo iluminista são bem
@@ -1219,7 +1219,7 @@ desdobra ao longo do tempo vai ser revisitado, e deformado, na segunda
 metade do século [XIX]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vincenzo Camuccini, A morte de César, 1804--1805](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/1280px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg){#fig:caesar .fullwidth}
+![Vincenzo Camuccini, A morte de César, 1804--1805](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/1280px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg){#fig:caesar .full}
 
 ## {.unlisted}
 
@@ -1246,7 +1246,7 @@ nas origens da humanidade.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg"}
 
-![Henri Labrouste, arquiteto, biblioteca Sainte-Geneviève, sala de leitura, Paris, 1842. Foto: [Marie-Lan Nguyen, 2011](https://commons.wikimedia.org/wiki/File:Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg){#fig:bsg .fullwidth}
+![Henri Labrouste, arquiteto, biblioteca Sainte-Geneviève, sala de leitura, Paris, 1842. Foto: [Marie-Lan Nguyen, 2011](https://commons.wikimedia.org/wiki/File:Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg){#fig:bsg .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No século [XIX]{.smallcaps}, esse pressuposto colonialista era
@@ -1369,7 +1369,7 @@ especialmente para partilhar uma refeição com a deusa do Sol Amaterasu
 (representada por três objetos sagrados e um pilar também em madeira).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cabanas rituais diversas no xintoísmo contemporâneo, Japão, registradas por Nold Egenter, 1980](https://i.pinimg.com/originals/b2/65/ea/b265ea66acf8b08695a2b71ce1ef1912.png){#fig:egenter .fullwidth .line}
+![Cabanas rituais diversas no xintoísmo contemporâneo, Japão, registradas por Nold Egenter, 1980](https://i.pinimg.com/originals/b2/65/ea/b265ea66acf8b08695a2b71ce1ef1912.png){#fig:egenter .full .line}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/35/d6/a0/35d6a066bf7ec19c629dfec1c2381891.jpg"}
 
