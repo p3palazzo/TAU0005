@@ -119,6 +119,12 @@ antes de falar em particularidades, vamos ver alguns requisitos gerais.
 
 ## Coberturas simples ## {data-visibility="hidden"}
 
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/2560px-Roof_parts_simplified.svg.png" data-background-size="contain"}
+
+![Elementos da cobertura. 1 -- viga de cumeeira, 2 -- terças, 3 -- caibros. Desenho: [George Ponderevo, 2012]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/1500px-Roof_parts_simplified.svg.png){#fig:timber-roof .nobg}
+
+[George Ponderevo, 2012]: https://commons.wikimedia.org/wiki/File:Roof_parts_simplified.svg
+
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -291,8 +297,10 @@ fetiche pelo minimalismo formal.
 
 ![sobre projeção irregular](https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0048.png){#fig:priceB .line .fragment .current-visible .align-left}
 
-Ajuste de uma cobertura de quatro águas. Desenho: Francis Price, 1735
+Ajuste de uma cobertura de quatro águas. Desenho: [Francis Price, 1735]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Francis Price, 1735]: http://archive.org/details/britishcarpenter00pric
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-103.3.png" data-background-size="contain"}
 
@@ -300,11 +308,92 @@ Ajuste de uma cobertura de quatro águas. Desenho: Francis Price, 1735
 
 ## Tesouras ## {data-visibility="hidden"}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/2560px-Roof_parts_simplified.svg.png" data-background-size="contain"}
+## {.unlisted data-background-color="#0f0"}
 
-![Cobertura com tesouras. 1 -- viga de cumeeira, 2 -- terças, 3 -- caibros. Desenho: [George Ponderevo, 2012]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/1500px-Roof_parts_simplified.svg.png){#fig:timber-roof .line}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A carpintaria tradicional do leste da Ásia, e principalmente a do Japão,
+usa essências pouco densas de árvores coníferas. Isso exige, por um
+lado, conexões bastante complexas, e por outro lado limita a variedade
+de soluções estruturais possíveis. Na Índia e na Europa, onde se usam
+madeiras duras de árvores como o carvalho. Essas madeiras mais duras
+permitem realizar um dos mais eficientes sistemas estruturais que se
+conhece até hoje: a treliça ou tesoura.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[George Ponderevo, 2012]: https://commons.wikimedia.org/wiki/File:Roof_parts_simplified.svg
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/25/Kehlbalkendach_nach_Böhm.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A forma mais simples de tesoura é formada por duas *pernas* diagonais
+atirantadas por uma *linha* horizontal. [@fig:boehm] Esse esquema forma
+um triângulo, que é uma forma geométrica intrinsecamente rígida. Cada
+peça do sistema trabalha, em condições ideais, somente à tração ou à
+compressão puras. Isso faz com que a distribuição de cargas seja mais
+eficiente.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Tesoura de cobertura com duas linhas. Desenho: [Theodor Böhm, 1911]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kehlbalkendach_nach_Böhm.jpg/1024px-Kehlbalkendach_nach_Böhm.jpg){#fig:boehm}
+
+[Theodor Böhm, 1911]: https://commons.wikimedia.org/wiki/File:Kehlbalkendach_nach_Böhm.jpg
+
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A carpintaria estrutural no norte da Europa se desenvolve a partir do
+uso de tesouras cada vez maiores e mais complexas. [@fig:price-trusses]
+Apesar dessa complexidade, o conhecimento técnico necessário para
+resolver e executar essas estruturas é um saber vernáculo e amplamente
+difundido. A partir do século [XVIII]{.smallcaps}, essa difusão vai se
+dar inclusive por meio de manuais impressos [@price:1735british].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::: {#fig:price-trusses .columns .full}
+::: {.column width=50%}
+![formas isostáticas](https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0054.png){#fig:price-trussesA .line}
+:::
+::: {.column width=50%}
+![formas hiperestáticas](https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0060.png){#fig:price-trussesB .line}
+:::
+Esquemas de tesouras segundo [Francis Price, 1735]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0054.png" data-background-position="top"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O tipo de tesoura mais difundido desde a Roma antiga
+[@fig:price-trussesA] tem, além das pernas e da linha, um *pendural*
+tracionado verticalmente que permite estabilizar linhas muito longas. O
+pendural suspende a linha por meio de um estribo metálico. Duas *asnas*
+diagonais ajudam a absorver o esforço de flexão que pode ser imposto às
+pernas, e o transmitem ao pendural. Essa distribuição de forças é
+extremamente estável.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0060.png" data-background-position="top"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Outra solução possível para a tesoura envolve usar duas linhas com um
+esqueleto retangular entre elas. [@fig:price-trussesB] Esse sistema tem
+dois pontaletes que trabalham à compressão. [@fig:price-trussesB (b)] A
+linha inferior pode ser cortada entre os pontaletes, o que vai resultar
+em três tesouras independentes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-401.png" data-background-size="contain"}
+
+![Escoras mestras numa tesoura alemã. Desenho: Schnell, 1915, reproduzido em Zwerger, *Wood and Wood Joints*](https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-401.png){#fig:zwerger2012-401 .line .align-right}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Para manter a unidade da tesoura, podemos acrescentar escoras diagonais
+nas duas quinas superiores do retângulo. [@fig:zwerger2012-401] Essa
+solução vai levando às montagens de tesouras cada vez mais elaboradas na
+Alemanha e no norte da França durante a Idade Média.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://gcdn.daz3d.com/p/17767/i/render5_1_4.jpg"}
+
+![Celeiro do dízimo, Great Coxwell, Inglaterra, século [XIII]{.smallcaps}. Modelo: [Daz Originals e SoulessEmpathy]](https://gcdn.daz3d.com/p/17767/i/render5_1_4.jpg){#fig:coxwell}
+
+[Daz Originals e SoulessEmpathy]: https://www.daz3d.com/tithe-barn
 
 # Sistema estrutural enquanto ordem # {data-background-color="#0f0"}
 
