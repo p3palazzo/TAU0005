@@ -42,7 +42,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Corpo e natureza",
-        "excerpt":"Figura 1: Edwin Lord Weeks. Across the Pool to the Golden Temple of Amritsar, 1883 Construção tradicional e meio ambiente No registro das tradições arquitetônicas ao longo do tempo, a geologia e o clima nas diferentes partes do mundo determinam a maior parte dos materiais de construção que podem ser...","categories": [],
+        "excerpt":"Construção tradicional e meio ambiente No registro das tradições arquitetônicas ao longo do tempo, a geologia e o clima nas diferentes partes do mundo determinam a maior parte dos materiais de construção que podem ser usados num certo lugar. Já numa perspectiva contemporânea, onde as cadeias produtivas podem ser globais,...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/clima/",
         "teaser": null
@@ -78,7 +78,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Articular",
-        "excerpt":" ","categories": [],
+        "excerpt":"Ordens clássicas e outras ordens Padronização e modularidade na China A arquitetura tradicional da China atingiu desde o século XI uma padronização quase completa dos seus elementos construtivos em madeira. Essa padronização decorre de processos de centralização política e de unificação econômica que duraram milênios, com “renascimentos” periódicos ao longo...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/articular/",
         "teaser": null
