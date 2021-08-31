@@ -681,7 +681,7 @@ deserto do Saara, por exemplo nas cidades históricas do delta do rio
 Níger, como Djenné. [@fig:djenne]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na teoria, a taipa de pilão poderia se prestar a formas totalmente
