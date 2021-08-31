@@ -38,7 +38,7 @@ ser usado como ponto de partida para construções em pedra.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
-![Cabanas primitivas segundo William Chambers, *A Treatise on Civil Architecture*, 1759](https://i.pinimg.com/originals/cf/1a/f5/cf1af57c2e6422122e18196f92629e29.jpg){#fig:chambers-huts .marginnote}
+![Cabanas primitivas segundo William Chambers, *A Treatise on Civil Architecture*, 1759](https://i.pinimg.com/originals/cf/1a/f5/cf1af57c2e6422122e18196f92629e29.jpg){#fig:chambers-huts .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A madeira tem um papel central em dois dos três tipos primordiais de
@@ -52,7 +52,7 @@ pelo francês Quatremère de Quincy [@chambers:1759treatise;
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Cabane_de_Terra_Amata_2.jpg"}
 
-![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata .marginnote}
+![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As tendas são abrigos temporários que têm como única estrutura portante
@@ -64,7 +64,7 @@ conhecido desse tipo.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/df/Tipi01.jpg"}
 
-![Tipi dos oglala, etnia Lakota, América do Norte. Foto: [John C.H. Grabill, 1891](https://commons.wikimedia.org/wiki/File:Oglala_girl_in_front_of_a_tipi2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oglala_girl_in_front_of_a_tipi2.jpg/579px-Oglala_girl_in_front_of_a_tipi2.jpg){#fig:tipi .marginnote}
+![Tipi dos oglala, etnia Lakota, América do Norte. Foto: [John C.H. Grabill, 1891](https://commons.wikimedia.org/wiki/File:Oglala_girl_in_front_of_a_tipi2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oglala_girl_in_front_of_a_tipi2.jpg/579px-Oglala_girl_in_front_of_a_tipi2.jpg){#fig:tipi .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Várias comunidades em diferentes regiões do mundo
@@ -115,7 +115,7 @@ plano ortogonal ao dos pórticos. [@fig:mudhif-croquis]
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/5b/1e/86/5b1e86330939e6262c84d74e2e500dda.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
 
-![Interior de um *mudhif*. Foto: [Ikhlas Abbis](http://www.abbis.photo/portfolio/architecture/)](https://i.pinimg.com/originals/5b/1e/86/5b1e86330939e6262c84d74e2e500dda.jpg){#fig:mudhif-int .marginnote}
+![Interior de um *mudhif*. Foto: [Ikhlas Abbis](http://www.abbis.photo/portfolio/architecture/)](https://i.pinimg.com/originals/5b/1e/86/5b1e86330939e6262c84d74e2e500dda.jpg){#fig:mudhif-int .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O uso do mesmo material para a estrutura e o
@@ -168,7 +168,7 @@ continentes, por exemplo na região do Sael. [@fig:transh]
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
 
-![Regiões de origem da vida sedentária: centro-norte da Europa, nordeste da Ásia e Crescente fértil](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png){#fig:sedentism .marginnote .nobg}
+![Regiões de origem da vida sedentária: centro-norte da Europa, nordeste da Ásia e Crescente fértil](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png){#fig:sedentism .align-right .nobg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A vida transumante ou sedentária permite às comunidades investirem mais
@@ -185,7 +185,7 @@ várias partes do continente americano.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain"}
 
-![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .marginnote .line}
+![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .align-right .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Desde os mais antigos vestígios de cabanas, como no sítio arqueológico
@@ -215,7 +215,7 @@ Logo, esse abrigo não tem absolutamente nenhuma relação com a concepção
 estrutural das tendas, onde essa distinção não existe.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Culturas e populações do mesolítico inicial na Eurásia. [Carlos Quiles, 2021](https://indo-european.eu/maps/mesolithic-early/)](https://indo-european.eu/wp-content/uploads/2021/01/4-mesolithic-early.jpg){#fig:mesolithic}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -258,7 +258,7 @@ Mediterrâneo oriental.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
 
-![Distribuição originária da tradição arquitravada dita "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:classical-heartland .nobg .marginnote}
+![Distribuição originária da tradição arquitravada dita "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:classical-heartland .nobg .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Das três, esta última, a tradição do Mediterrâneo oriental,
@@ -389,7 +389,7 @@ sobre o piso.
 
 ## {.unlisted data-background-image="https://conservation.academie-architecture.fr/icono/535/hd_535_013.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
 
-![Charlez Chipiez (1835--1901), [Retrato oficial da Academia de Arquitetura da França]](https://conservation.academie-architecture.fr/icono/535/hd_535_013.jpg){#fig:chipiez-acad .marginnote}
+![Charlez Chipiez (1835--1901), [Retrato oficial da Academia de Arquitetura da França]](https://conservation.academie-architecture.fr/icono/535/hd_535_013.jpg){#fig:chipiez-acad .align-right}
 
 [Retrato oficial da Academia de Arquitetura da França]: https://conservation.academie-architecture.fr/objet/535
 
@@ -416,7 +416,7 @@ Oriente Médio, [@fig:chipiez-compare] Chipiez documentou algumas cabanas
 rústicas contemporâneas no interior da Anatólia, na Turquia.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 !["Ordens" de colunas egípcias, persas e jônicas gregas. [Chipiez, 1876]. Sem escala](https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png){#fig:chipiez-compare .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -438,7 +438,7 @@ Mediterrâneo oriental como um todo.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
 
-![Região de origem da construção arquitravada "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:medor .marginnote .nobg}
+![Região de origem da construção arquitravada "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:medor .align-right .nobg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mesmo que a evidência histórica dessa genealogia seja frágil, para dizer
@@ -492,7 +492,7 @@ como Cnossos. [@fig:knossos-westbastion]
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eugène_Pirou.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
 
-![Auguste Choisy (1841--1909) fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eugène_Pirou.jpg){#fig:choisy .marginnote}
+![Auguste Choisy (1841--1909) fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eugène_Pirou.jpg){#fig:choisy .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A construção arquitravada em pedra não deve ser vista como um progresso
@@ -562,7 +562,7 @@ simples irregularidade de distribuição das cargas.
 
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/firmitas/arquitravada/Secret_of_the_Pagodas_Earthquake_Resistant_Design-uG37gQSvrf4-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
-::::::::::::::::::::::::::::::::: {.iframe-wrapper .fullwidth #fig:toji}
+::::::::::::::::::::::::::::::::: {.iframe-wrapper .full #fig:toji}
 <iframe src="https://www.youtube-nocookie.com/embed/uG37gQSvrf4?start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Comportamento estrutural de um pagode japonês num terremoto. Vídeo: [Science Channel, 2016]
@@ -772,7 +772,7 @@ muito mais estável. [@fig:fu2017-8.8]
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
 
-![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote}
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [A arquitetura clássica]{.newthought} é, em última análise, a razão de
@@ -803,7 +803,7 @@ fundamentada em estudos de campo.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png" data-background-size="contain"}
 
-![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .marginnote .line}
+![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .align-right .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A precedência da tradição grega nas histórias gerais da arquitetura é
@@ -853,7 +853,7 @@ sido intuído pelo arquiteto italiano Fra Giocondo no século
 [@fig:entasis]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Esquema da êntase de uma coluna clássica, na edição do tratado de Vitrúvio por Fra Giocondo, século [XVI]{.smallcaps} (redesenhado no século [XX]{.smallcaps})](https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png){#fig:entasis .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

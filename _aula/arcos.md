@@ -58,8 +58,8 @@ fazem parte dele. [@fig:arcomp]
 
 ## {.unlisted}
 
-::::::::::::::::::::::::::::::::::::::::::::::::: {.marginnote .r-stack}
-![Componentes do arco. a–aduelas, b–imposta, c–chave, d–pilar ou maciço, e–contraforte](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-defs.png){#fig:arco-defs .line}
+::::::::::::::::::::::::::::::::::::::::::::::::: r-stack
+![Componentes do arco. a–aduelas, b–imposta, c–chave, d–pilar ou maciço, e–contraforte](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-defs.png){#fig:arco-defs .line .align-right}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -93,7 +93,7 @@ usando só blocos de pedra que podem ser assentados à mão usando
 argamassa. [@fig:pantheon-wtv]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Apolodoro de Damasco, arquiteto, Panteão, Roma, 113--125 d.C. Vista do interior filmada por [Wanderlust Travel Videos, 2021]](https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm){#fig:pantheon-wtv}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -142,9 +142,7 @@ prática. Fazemos isso por três motivos.
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Léon Krier, Edifícios da Universidade de Yale: idade e primeira campanha significativa de reformas, 1990](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png){#fig:krier-1990 .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Léon Krier, Edifícios da Universidade de Yale: idade e primeira campanha significativa de reformas, 1990](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png){#fig:krier-1990 .line .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Em terceiro lugar porque a estabilidade das estruturas no longuíssimo
@@ -178,9 +176,7 @@ sobre como funcionam os arcos tradicionais.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/b3/f1/9d/b3f19d2977e920c7a6d9eb91febcdbe8.png" data-background-size="contain" data-background-position="right" data-background-color="#0f0"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Galileu Galilei (1564--1642), retratado por [Justus Sustermans, c. 1640]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg/604px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg){#fig:galileo}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Galileu Galilei (1564--1642), retratado por [Justus Sustermans, c. 1640]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg/604px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg){#fig:galileo .align-right}
 
 [Justus Sustermans, c. 1640]: https://commons.wikimedia.org/wiki/File:Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg
 
@@ -248,9 +244,7 @@ descreveu essa curva pelas suas tangentes. [@fig:galileo-c72f117]
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/48/17_Robert_Hooke_Engineer.JPG" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Rita Greer, [*Robert Hooke (1635--1703): cientista, arquiteto, engenheiro*]. Óleo sobre madeira, 2009](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/17_Robert_Hooke_Engineer.JPG/614px-17_Robert_Hooke_Engineer.JPG){#fig:greer-hooke}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Rita Greer, [*Robert Hooke (1635--1703): cientista, arquiteto, engenheiro*]. Óleo sobre madeira, 2009](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/17_Robert_Hooke_Engineer.JPG/614px-17_Robert_Hooke_Engineer.JPG){#fig:greer-hooke .align-right}
 
 [*Robert Hooke (1635--1703): cientista, arquiteto, engenheiro*]: https://commons.wikimedia.org/wiki/File:17_Robert_Hooke_Engineer.JPG
 
@@ -349,11 +343,9 @@ arcos.
 
 ## {.unlisted data-background-image="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/uarc20/2018/uarc20.v012.i03/15583058.2017.1323252/20181016/images/large/uarc_a_1323252_f0010_b.jpeg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Análise gráfica do estado limite de um arco em alvenaria com quatro aduelas estabilizado por um contraforte. [Rondeaux e Zastavni, "A Fully Graphical Approach..."]](https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/uarc20/2018/uarc20.v012.i03/15583058.2017.1323252/20181016/images/large/uarc_a_1323252_f0010_b.jpeg){#fig:rondeaux2017-10}
+![Análise gráfica do estado limite de um arco em alvenaria com quatro aduelas estabilizado por um contraforte. [Rondeaux e Zastavni, "A Fully Graphical Approach..."]](https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/uarc20/2018/uarc20.v012.i03/15583058.2017.1323252/20181016/images/large/uarc_a_1323252_f0010_b.jpeg){#fig:rondeaux2017-10 .align-right}
 
 [Rondeaux e Zastavni, "A Fully Graphical Approach..."]: https://doi.org/10.1080/15583058.2017.1323252
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Dito isso, arcos tradicionais dificilmente podem ser descritos usando a
@@ -381,9 +373,7 @@ impor alguns compromissos na eficiência da estrutura.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Origins_of_nubian_and_indian_vaults.svg/768px-Origins_of_nubian_and_indian_vaults.svg.png" data-background-position="20px 20px" data-background-size="500px 500px" data-background-color="#0f0"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Origens da construção arqueada; amarelo: extensão do uso de arcos até o século [XIV]{.smallcaps}, vermelho: prováveis regiões de origem --- Sudão e Núbia, na África, e noroeste da Índia. [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Origins_of_nubian_and_indian_vaults.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Origins_of_nubian_and_indian_vaults.svg/768px-Origins_of_nubian_and_indian_vaults.svg.png){#fig:vault-origin .nobg}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Origens da construção arqueada; amarelo: extensão do uso de arcos até o século [XIV]{.smallcaps}, vermelho: prováveis regiões de origem --- Sudão e Núbia, na África, e noroeste da Índia. [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Origins_of_nubian_and_indian_vaults.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Origins_of_nubian_and_indian_vaults.svg/768px-Origins_of_nubian_and_indian_vaults.svg.png){#fig:vault-origin .nobg .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Estruturas parabólicas em madeira na Índia
@@ -455,7 +445,7 @@ Association la Voûte Nubienne, construção de abóbadas núbias, Sudão. Produ
 
 ## {.unlisted}
 
-::::::::::::::::::::::::::::::::::::::::: {#fig:choisy-nubie .fullwidth}
+::::::::::::::::::::::::::::::::::::::::: {#fig:choisy-nubie .full}
 ![procedimento de execução dos arcos sucessivos](https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0033.png){#fig:choisy1.033 .line width="45%"}
 ![variações: arcos inclinados e sobrepostos](https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0034.png){#fig:choisy1.034 .line width="45%"}
 
@@ -581,7 +571,7 @@ Dimensionamento da espessura de um arco segundo Leonardo da Vinci
 
 ## {.unlisted}
 
-:::::::::::::::::::::::::::::::::::::::::::::::: {#fig:vedic .fullwidth}
+:::::::::::::::::::::::::::::::::::::::::::::::: {#fig:vedic .full}
 ![[migrações arianas no período védico inicial](https://commons.wikimedia.org/wiki/File:Early_Vedic_Culture_(1700-1100_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/57/Early_Vedic_Culture_(1700-1100_BCE).png){#fig:early-vedic width="48%"}
 ![[reinos nāgara do período védico tardio](https://commons.wikimedia.org/wiki/File:Late_Vedic_Culture_(1100-500_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_(1100-500_BCE).png){#fig:late-vedic width="48%"}
 
@@ -611,7 +601,7 @@ no começo do século [XX]{.smallcaps} [@brown:1959indiana].
 
 ![Reconstituição de um povoado védico segundo [Percy Brown, 1900]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1024px-Brown-18060_0021-1.jpg){#fig:brown1959-0021-1}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c4/Maurya_Empire,_c.250_BCE.png" data-background-size="contain"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/34/d9/ef/34d9eff477411c9c7d1e757d78198ed6.png" data-background-size="contain"}
 
 ![Império Maurya no seu auge. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Maurya_Empire,_c.250_BCE.png)](https://upload.wikimedia.org/wikipedia/commons/c/c4/Maurya_Empire,_c.250_BCE.png){#fig:maurya}
 
@@ -631,7 +621,7 @@ espaços parece remeter a uma tectônica (expressão estrutural) da
 construção em madeira. [@fig:brown-reconstruct]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::: {#fig:brown-reconstruct .fullwidth}
+:::::::::::::::::::::::::::::::::::: {#fig:brown-reconstruct .full}
 ![membros estruturais](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Brown-18060_0026.jpg/1332px-Brown-18060_0026.jpg){#fig:brown1959-0026 width="49%"}
 ![interiores](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Brown-18060_0032.jpg/1229px-Brown-18060_0032.jpg){#fig:brown1959-0032 width="45%"}
 
@@ -642,11 +632,9 @@ Reconstituição de estruturas arqueadas em madeira a partir de exemplares talha
 
 <!--_,-->
 
-## {.unlisted data-background-image="https://commons.wikimedia.org/wiki/File:Mudhif-sketch.png" data-background-size="contain"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png" data-background-size="contain"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Esquema estrutural de um *mudhif*](https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png){#fig:mudhif-croquis .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Esquema estrutural de um *mudhif*](https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png){#fig:mudhif-croquis .line .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [@fig:mudhif-croquis]
@@ -916,7 +904,7 @@ A calota é uma cúpula seccionada por quatro (ou mais) arcos.
 
 ## {.unlisted}
 
-::::::::::::::::::::::::::::::::::::::::::::: {#fig:cruzaria .fullwidth}
+::::::::::::::::::::::::::::::::::::::::::::: {#fig:cruzaria .full}
 ![nervuras](https://i.pinimg.com/originals/65/c8/ee/65c8eedb3cb238eeee5301aa0804adc8.jpg){#fig:cruzaria-nervura width="47.8%"}
 ![abóbada revestida com a sua calota](https://i.pinimg.com/originals/4e/78/cd/4e78cdf44bf2b6f3734953f1b5280c10.jpg){#fig:cruzaria-casca width="45.3%"}
 
@@ -925,9 +913,7 @@ Abóbada nervurada em cruzaria. Desenho de [Jean-Claude Golvin](https://jeanclau
 
 ## {.unlisted data-background-image="https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-architecture-le-jeu-des-forces-jc-golvin.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Distribuição de empuxos no corte de uma igreja gótica. Desenho por [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-architecture-le-jeu-des-forces-jc-golvin.jpg){#fig:forces-golvin}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Distribuição de empuxos no corte de uma igreja gótica. Desenho por [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-architecture-le-jeu-des-forces-jc-golvin.jpg){#fig:forces-golvin .align-right}
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/ciblac2014-10.37.png" data-background-size="contain"}
 
