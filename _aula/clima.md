@@ -18,10 +18,6 @@ title-slide-attributes:
 
 # {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1280px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg" data-background-position="top"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Edwin Lord Weeks. Across the Pool to the Golden Temple of Amritsar, 1883](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1024px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg){#fig:weeks}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 # Construção tradicional e meio ambiente #
 
 ## {data-background-image="https://i.pinimg.com/originals/74/55/e1/7455e16ceb095d4c3abc4cd5c04457de.jpg" data-background-size="contain"}
