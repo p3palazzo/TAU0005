@@ -7,36 +7,67 @@ date    : 2021-09-07
 toc:
   - Arquitetura e as estações
   - "Índia: unidade na diversidade"
-  - "Três idades do homem: arquitetura para todos"
   - "Civilizações hidráulicas"
+  - "Três idades do homem"
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1280px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
-  caption: "Edwin Lord Weeks. *Vista do espelho d'água para o Templo Dourado em Amritsar*, 1883"
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
+  caption: "Edwin Lord Weeks. [*Vista do espelho d'água para o templo Dourado em Amritsar*](https://commons.wikimedia.org/wiki/File:Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg), 1883"
 title-slide-attributes:
-  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1280px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
+  data-background-position: "bottom"
 ---
-
-# {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1280px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg" data-background-position="top"}
 
 # Arquitetura e as estações # {.unlisted data-background-color="#0f0"}
 
-## {data-background-image="https://i.pinimg.com/originals/74/55/e1/7455e16ceb095d4c3abc4cd5c04457de.jpg" data-background-size="contain"}
-
-## {data-background-image="https://i.pinimg.com/originals/99/2e/4a/992e4a6fca299d47854e2a83e8641a62.jpg" data-background-size="contain"}
-
-## {data-background-image=""}
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No registro das tradições arquitetônicas ao longo do tempo, a geologia e
 o clima nas diferentes partes do mundo determinam a maior parte dos
 materiais de construção que podem ser usados num certo lugar. Já numa
 perspectiva contemporânea, onde as cadeias produtivas podem ser globais,
-podemos acrescentar uma restrição intencional: considerar o impacto
-ambiental que decorre do transporte de longa distância e o impacto
-socioeconômico de abrir mão do domínio local sobre as tecnologias da
-construção. No cenário econômico e ecológico da atualidade, escolher os
-processos produtivos da arquitetura tradicional acaba sendo um ato de
-responsabilidade ambiental e social.
+temos que levar em conta duas categorias de impactos que essas cadeias
+têm sobre a arquitetura:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.redd.it/8phjjylpo7a11.png"}
+
+![Rede de comércio marítimo global. Mapa: [Nicolas Rapp, 2012]](https://i.redd.it/8phjjylpo7a11.png){#fig:trade .full}
+
+[Nicolas Rapp, 2012]: https://nicolasrapp.com/studio/portfolio/the-shipping-news/
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Primeiro, o impacto ambiental que decorre do transporte de longa
+  distância; [@fig:trade]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/utilitas/clima/mixkit-skyscapers-roads-and-the-suburbs-in-dubai-28603-medium.mp4" data-background-video-muted="true" data-background-video-loop="true"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Segundo, o impacto socioeconômico de abrir mão do domínio local sobre
+  as tecnologias da construção em favor de uma cadeia produtiva
+  dependente de flutuações financeiras. [@fig:dubai]
+
+No cenário econômico e ecológico da
+atualidade, escolher os processos produtivos da arquitetura tradicional
+acaba sendo um ato de responsabilidade ambiental e social.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Arranha-céus em construção num subúrbio de Dubai](https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/utilitas/clima/mixkit-skyscapers-roads-and-the-suburbs-in-dubai-28603-medium.mp4){#fig:dubai}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/med-trade-scaled.jpeg"}
+
+![Redes comerciais na África, Ásia e Europa nos séculos [XI--XII]{.smallcaps}. Mapa: [Martin Månsson, 2018], v.4](https://hcommons.org/app/uploads/sites/1002372/2021/08/med-trade-scaled.jpeg){#fig:med-trade .full}
+
+[Martin Månsson, 2018]: https://imgur.com/MsXaOdV
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Redes comerciais de longa distância existem desde a idade da pedra,
+sobretudo para obter matérias-primas de importância estratégica como
+metais ou ainda para trocar produtos manufaturados de luxo, como diz o
+próprio nome da famosa Rota da Seda. [@fig:med-trade] Ainda assim, no
+que diz respeito aos insumos da vida cotiana, o abastecimento das
+sociedades tradicionais é predominantemente local.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
@@ -104,7 +135,7 @@ atribuições para se ocupar de trechos dessa cadeia que estejam fora da
 sua alçada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Bioclimatismo ##
+## Bioclimatismo ## {data-visibility="hidden"}
 
 - Bioclimatismo
 - Isolamento térmico e ventilação
@@ -112,6 +143,14 @@ sua alçada.
 - Moradas na Europa megalítica
 
 ## China ## {data-visibility="hidden"}
+
+## {data-background-image="https://i.pinimg.com/originals/74/55/e1/7455e16ceb095d4c3abc4cd5c04457de.jpg" data-background-size="contain"}
+
+<!--Vista 3D de uma casa-pátio chinesa-->
+
+## {data-background-image="https://i.pinimg.com/originals/99/2e/4a/992e4a6fca299d47854e2a83e8641a62.jpg" data-background-size="contain"}
+
+<!--Vista analítica de uma casa chinesa-->
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG" data-background-size="535px 472px"}
 
@@ -604,6 +643,8 @@ império Khmer foi conquistado pelo reino de Sião --- a atual Tailândia
 ---, uma sociedade guerreira que não dependia de grandes redes
 comerciais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Três idades do homem # {.unlisted data-background-color="#0f0"}
 
 # Bibliografia {.allowframebreaks} #
 
