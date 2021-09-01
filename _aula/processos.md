@@ -19,7 +19,7 @@ header:
     url: "/slides/processos/"
 ---
 
-# Ordem e lugar #
+# Ordem e lugar # {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#00ff00"}
 
@@ -45,7 +45,7 @@ fundamentais razões de ser das comunidades humanas. Por natureza, a
 nossa espécie tende a ocupar todos os espaços disponíveis na Terra;
 desde as origens da humanidade, mais de 200 mil anos atrás no leste da
 África, as nossas tribos têm migrado e se adaptado a todas as
-regiões e climas do mundo (@fig:ooa).
+regiões e climas do mundo. [@fig:ooa]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/processos/olduvai-archaeo.webm" data-background-video-muted="true"}
@@ -76,7 +76,7 @@ A maneira humana de compreender o ambiente à sua volta e de organizar um
 lugar nesse ambiente é a chave para a nossa adaptação às condições mais
 variadas. Essa capacidade vem dos desafios ambientais na paisagem
 variada e instável nas savanas do leste da África [@buras:2019art], a
-região de origem do gênero humano (@fig:serengeti).
+região de origem do gênero humano. [@fig:serengeti]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/LengaiNatron.jpg/1280px-LengaiNatron.jpg" data-background-position="bottom"}
@@ -87,18 +87,18 @@ também nos deu a capacidade de reconhecer padrões no espaço e de guardar
 esses padrões na memória, para além do nosso campo de visão imediato.
 Ela nos condicionou a procurar lugares altos e protegidos, como a linha
 de cumeada do vale do Rift, que é chamado com razão de "berço da
-humanidade" (@fig:rift). A ocupação da linha de cumeada oferece uma
-posição de reconhecimento da paisagem e de controle sobre o território
-(@fig:olduvai).
+humanidade". [@fig:rift] A ocupação da linha de cumeada oferece uma
+posição de reconhecimento da paisagem e de controle sobre o território.
+[@fig:olduvai]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Vista panorâmica da garganta do Olduvai, vale do Rift, norte da Tanzânia. Foto: [Noel Feans, 2009](https://commons.wikimedia.org/wiki/File:Olduvai_Gorge_or_Oldupai_Gorge.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Olduvai_Gorge_or_Oldupai_Gorge.jpg/1280px-Olduvai_Gorge_or_Oldupai_Gorge.jpg){#fig:rift}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/processos/olduvai-landscape.webm" data-background-video-muted="true"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Garganta do Olduvai. Filme: [David Gutiérrez e Ignacio Zapico, 2016](https://youtu.be/8To3-9ZecnU)](https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/processos/olduvai-landscape.webm){#fig:olduvai}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -119,7 +119,7 @@ Alguns dos vestígios arqueológicos mais antigos de habitações humanas
 ocupam essa posição na cumeada secundária. Essa tendência se
 intensificou a partir do paleolítico superior, o período mais recente do
 que se chama informalmente de "idade da pedra lascada" ou ainda de
-"idade das cavernas" (@fig:bhimbetka).
+"idade das cavernas". [@fig:bhimbetka]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Pinturas rupestres no abrigo de Bhimbetka, 10 mil anos atrás, atual Madhya Pradesh, Índia. Foto: [PranjalG431, 2016](https://commons.wikimedia.org/wiki/File:A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg/1280px-A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg){#fig:bhimbetka}
@@ -139,7 +139,7 @@ cuidadosa do sítio onde a povoação vai se estabelecer.
 
 ## {.unlisted data-background-video="https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4" data-background-video-muted="true"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Kostyonki, Rússia. Fonte: Google Earth](https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4){#fig:kostyonki-google}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -149,8 +149,8 @@ o rio Don corre de norte a sul formando um vale de meandros com mais ou
 menos 2 quilômetros de largura. As encostas em volta do vale são suaves,
 mas sulcadas pela erosão de dezenas de riachos afluentes do rio Don. As
 linhas de cumeada principais seguem paralelas ao rio, que corre do norte
-para o sul, a uma distância de 2 a 3 quilômetros da borda do vale
-(@fig:kostyonki-google).
+para o sul, a uma distância de 2 a 3 quilômetros da borda do vale.
+[@fig:kostyonki-google]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kostenky_model.jpg/1280px-Kostenky_model.jpg"}
@@ -160,14 +160,14 @@ Entre as gargantas dos afluentes, uma série de linhas de cumeada
 secundárias se ramifica partir da linha de cumeada principal. 14 mil
 anos atrás, as comunidades do paleolítico superior estabeleceram os seus
 acampamentos perto do final dessas cumeadas secundárias, logo acima do
-vale (@fig:kostyonki-model).
+vale. [@fig:kostyonki-model]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Maquete do sítio no museu arqueológico de Kostyonki. Foto: [Eva Tutin, 2014](https://commons.wikimedia.org/wiki/File:Kostenky_model.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kostenky_model.jpg/1280px-Kostenky_model.jpg){#fig:kostyonki-model}
 
 ## {.unlisted data-background-transition="fade-out" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png"}
 
-![Localização no contexto das sociedades pré-históricas com habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-locator.png){#fig:kostyonki-loc .nobg .marginnote}
+![Localização no contexto das sociedades pré-históricas com habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-locator.png){#fig:kostyonki-loc .nobg .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Cada acampamento era formado por algumas cabanas
@@ -175,16 +175,16 @@ alongadas [@grigorev:1967new8; @jarzombek:2013architecture, 23]. A
 implantação no final das cumeadas secundárias dava um certo grau de
 proteção e de controle visual sobre todo o vale. Ao mesmo tempo, os
 acampamentos não eram longe da água e dos campos de caça e coleta no
-fundo do vale (@fig:kostyonki-site).
+fundo do vale. [@fig:kostyonki-site]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia, ocupação c. 14.000 a.p. Desenho com base em Jarzombek (2013) e Grigor'ev (1967), curvas de nível a cada 5 metros. Linha tracejada grossa: percurso estruturante de cumeada; linha tracejada fina: percursos de cumeada secundários; linha pontilhada: percurso de contra-cumeada](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png){#fig:kostyonki-site}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-transition="fade-in" data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Kostyonki na atualidade. Mapa de base: OpenStreetMap](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg){#fig:kostyonki-osm}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -195,13 +195,13 @@ paleolítico superior não era simplesmente uma resposta de circunstância
 organização persiste e se consolida ao longo dos milênios. A rodovia que
 passa perto de Kostyonki ainda segue o mesmo percurso pela linha de
 cumeada principal, e a cidade moderna ocupa a mesma área no sopé das
-cumeadas secundárias (@fig:kostyonki-osm).
+cumeadas secundárias. [@fig:kostyonki-osm]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/c2/04/d7/c204d703c49c29d5487c1a3ce88abe10.jpg" data-background-position="bottom"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No sul da Inglaterra, o Ridgeway (@fig:ridgeway) é um percurso de
+No sul da Inglaterra, o Ridgeway [@fig:ridgeway] é um percurso de
 cumeada pré-histórico que continuou a ser o principal eixo de referência
 e circulação pelo menos até a construção das estradas romanas no século
 I d.C. Hoje em dia, é uma trilha de caminhada bastante popular.
@@ -211,12 +211,12 @@ I d.C. Hoje em dia, é uma trilha de caminhada bastante popular.
 
 ## {.unlisted data-background-image="http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg" data-background-size="contain"}
 
-![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg){#fig:bronzo .marginnote}
+![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg){#fig:bronzo .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Já em regiões muito montanhosas, como a Itália, os percursos de cumeada
 secundários tendem a se alongar muito. Um desses percursos secundários
-termina nas colinas que formam o sítio de Roma (@fig:bronzo).
+termina nas colinas que formam o sítio de Roma. [@fig:bronzo]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-1.png" data-background-size="contain"}
@@ -252,14 +252,14 @@ florestal intensivo ou agricultura.
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png" data-background-size="contain"}
 
-![Área Kuikuro do alto Xingu indicando sítios arqueológicos c. 1250--1450, segundo Heckenberger (2003). Círculos com estrela: povoações fortificadas e com terreiro; círculos pontuados: povoações com terreiro; pontos: aldeias](https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png){#fig:kuikuro .marginnote .line}
+![Área Kuikuro do alto Xingu indicando sítios arqueológicos c. 1250--1450, segundo Heckenberger (2003). Círculos com estrela: povoações fortificadas e com terreiro; círculos pontuados: povoações com terreiro; pontos: aldeias](https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png){#fig:kuikuro .align-right .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse é o caso do território kuikuro no alto rio Xingu desde o século
 [XIII]{.smallcaps} [@heckenberger:2003amazonia301]. Nos vestígios
 arqueológicos mais antigos, as povoações dominantes se encontravam
-distribuídas a distâncias regulares, com povoações menores entre elas
-(@fig:kuikuro). O sistema de povoações era estruturado por caminhos
+distribuídas a distâncias regulares, com povoações menores entre elas.
+[@fig:kuikuro] O sistema de povoações era estruturado por caminhos
 largos nas linhas de cumeada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -267,21 +267,21 @@ largos nas linhas de cumeada.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *teko'á* é o território
-imediato controlado por uma aldeia guarani (@fig:tekoa). A aldeia é
+imediato controlado por uma aldeia guarani. [@fig:tekoa] A aldeia é
 estabelecida no final da cumeada secundária, perto da água mas fora do
 alcance das cheias do rio. Ela controla um perímetro de lavoura e de
 floresta manejada no seu entorno imediato [@araujo:2016logica10;
 @soares:1997guarani].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Diagrama do teko'á guarani, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-souza-2016-tekoha.png){#fig:tekoa .marginnote}
+![Diagrama do teko'á guarani, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-souza-2016-tekoha.png){#fig:tekoa .align-right}
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png" data-background-size="auto"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os vários *teko'á* que formam uma aliança política são organizados em
 volta de percursos estruturantes nas cumeadas do terreno, entre os rios
-maiores (@fig:guara). Esse território político é chamado de *guará*.
+maiores. [@fig:guara] Esse território político é chamado de *guará*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Diagrama territorial do Guará, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png){#fig:guara}
@@ -299,7 +299,7 @@ controlado por cada comunidade vai se transformando no desenho de
 fronteiras mais ou menos estáveis entre cidades-estado
 [@kemp:1989ancient]. Isto é, a definição institucionalizada do
 território vem *antes* de uma hierarquização social e política muito
-pronunciada (@fig:kemp). Essa territorialidade é uma característica
+pronunciada. [@fig:kemp] Essa territorialidade é uma característica
 fundamental do processo de urbanização.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -315,7 +315,7 @@ assentamentos, construções e detalhes, mais o uso de traçados
 reguladores e proporções ganha importância.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Proporção e escala #
+# Proporção e escala # {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#00ff00"}
 
@@ -343,26 +343,26 @@ um projeto arquitetônico na atualidade.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault .marginnote}
+![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O uso moderno e contemporâneo das proporções acabou seguindo essa mesma
 lógica, e prova disso são os tratados das ordens clássicas publicados
 nos últimos quinhentos anos. O que chamamos de as "cinco ordens" da
-arquitetura clássica (@fig:perrault) são, de modo muito resumido,
+arquitetura clássica [@fig:perrault] são, de modo muito resumido,
 receitas para ajustar as proporções de colunas, vigas, arcos e pedestais
 entre si e com o edifício como um todo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Detalhe da ordem dórica segundo Vinhola, edição de 1787](https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png){#fig:vignola .marginnote .line}
+![Detalhe da ordem dórica segundo Vinhola, edição de 1787](https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png){#fig:vignola .align-right .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os tratados das ordens, como o do Vinhola no final do século
 [XVI]{.smallcaps}, ensinam essas proporções quase sempre na forma de uma
 série de cotas que medem a dimensão de cada elemento em módulos e partes
-de módulos (@fig:vignola).
+de módulos. [@fig:vignola]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/7c/5e/e1/7c5ee136540dcbb85c2ad97992904e61.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
@@ -371,7 +371,7 @@ de módulos (@fig:vignola).
 Esse modo de representar as ordens é muito conveniente para um arquiteto
 que está na sua prancheta, com escalímetro na mão, precisando fazer um
 desenho de uma ordem clássica como parte de um projeto mais ou menos
-acabado (@fig:esquie). O projeto vai então ser ele próprio cotado e
+acabado. [@fig:esquie] O projeto vai então ser ele próprio cotado e
 entregue a um construtor que vai transferir essas cotas para as medidas
 da obra, usando uma trena. É um modo moderno de trabalhar por excelência
 [@carpo:2003drawing62].
@@ -396,8 +396,8 @@ No final do século [XX]{.smallcaps}, essa preferência numérica entrou na
 era digital com o sistema de proporções decimais nas ordens clássicas de
 Robert Chitham [@chitham:2005classical]. As cotas de Chitham são,
 literalmente, frações decimais para serem usadas com uma calculadora
-digital na mão (era a década de 1980), ou mesmo no [CAD]{.smallcaps}
-(@fig:chitham).
+digital na mão (era a década de 1980), ou mesmo no [CAD]{.smallcaps}.
+[@fig:chitham]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-color="#00ff00"}
@@ -420,7 +420,7 @@ se desenvolveu.
 A seção áurea foi especialmente atraente para os modernistas porque ela
 oferecia um sistema de proporção suficientemente abstrato e flexível
 para se adaptar ou, no fim das contas, justificar retroativamente
-qualquer projeto (@fig:corb).
+qualquer projeto. [@fig:corb]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Le Corbusier, arquiteto, seção áurea nas fachadas norte e sul da villa Stein, Garches, 1927](https://hcommons.org/app/uploads/sites/1001018/2021/06/le-corbusier-villa-stein-golden.png){#fig:corb .line}
@@ -440,7 +440,7 @@ arquitetura e sim um *modo de fazer* construções.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain"}
 
-![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .marginnote .line}
+![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .align-right .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Tudo começa com um círculo. Alguns dos mais antigos abrigos permanentes
@@ -457,19 +457,19 @@ de espantar que essas cabanas pré-históricas sejam circulares.
 A planta circular é uma solução prática e eficiente para encerrar a
 maior quantidade de espaço com o menor consumo de material e uma
 estrutura que estabiliza a si mesma. Por isso, ela continua a ser usada
-em pequenos depósitos rurais, como este chafurdão no Alentejo
-(@fig:chafurdao).
+em pequenos depósitos rurais, como este chafurdão no Alentejo.
+[@fig:chafurdao]
 
 * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Chafurdão no vale de Cales, Castelo de Vide, Alentejo, Portugal. [[ADER--AL]{.smallcaps}, 2014](http://www.outralentejo.org/galeria/castelo-de-vide_chafurdao-do-vale-de-cales/)](https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg){#fig:chafurdao}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm" data-background-video-muted="true"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Stonehenge, Inglaterra, c. 2600 a.C., vista aérea. Filmagem: [Chris Ridley, 2015](https://commons.wikimedia.org/wiki/File:Stonehenge_at_Sunrise_-_by_Drone..webm)](https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm){#fig:stonehenge-drone}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -482,9 +482,9 @@ em pequenos depósitos rurais, como este chafurdão no Alentejo
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A planta circular é quase sinônimo de grandes composições megalíticas em
 algumas das mais antigas sociedades agrárias. O exemplo mais emblemático
-é Stonehenge, no sul da Inglaterra (@fig:stonehenge-drone). Esse
+é Stonehenge, no sul da Inglaterra. [@fig:stonehenge-drone] Esse
 complexo foi construído por uma sociedade neolítica para observar os
-solstícios (@fig:lertola), e com isso, provavelmente, ajustar o
+solstícios, [@fig:lertola] e com isso, provavelmente, ajustar o
 calendário agrícola.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -492,8 +492,8 @@ calendário agrícola.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O traçado geométrico de Stonehenge, que foi reconstituído na primeira
-metade do século [XVIII]{.smallcaps} por William Stukeley e Roger Gale
-(@fig:stonehenge-gale), não está diretamente relacionado com a
+metade do século [XVIII]{.smallcaps} por William Stukeley e Roger Gale,
+[@fig:stonehenge-gale] não está diretamente relacionado com a
 orientação astronômica do monumento. Ele é um expediente para dar a
 regularidade que um observador postado no centro do círculo precisa para
 avaliar corretamente o alinhamento do sol e das estrelas.
@@ -517,7 +517,7 @@ acaba por ser a forma mais prática.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O quadrado pode se desdobrar numa variedade de retângulos com proporções
-convenientes (@fig:proporcoes). Os mais básicos desses retângulos são o
+convenientes. [@fig:proporcoes] Os mais básicos desses retângulos são o
 de um quadrado e meio e dois quadrados; essas proporções são análogas a
 harmonias musicais --- a quinta e a oitava --- e, por isso, foram muito
 apreciadas em culturas que atribuíam um significado transcendental às
@@ -544,7 +544,7 @@ interpretação transcendental das proporções como espelho da natureza
 [@doczi:2008poder].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Proporções derivadas do quadrado. Acima: um quadrado e meio ou "quinta"; dois quadrados ou "oitava"; abaixo: retângulo gerado pela diagonal do quadrado e seção áurea; centro: proporções da casa kamayurá e traçado gerado pela meia diagonal do quadrado](https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png){#fig:proporcoes .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -560,13 +560,13 @@ quadrado, que determina a largura do vão central [@kamayura:2019manual].
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg" data-background-size="contain"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Planta de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg){#fig:ok-planta}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg" data-background-size="contain"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Corte de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg){#fig:ok-corte}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -580,9 +580,7 @@ quadrado, que determina a largura do vão central [@kamayura:2019manual].
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg" data-background-size="contain"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
-![Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional na Suíça: haus zum Ritter, Schaffhausen, 1487--1580; paço municipal da Basileia, 1504--1513; paço municipal de Lausanne, 1673--1675. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg){#fig:langhein2012-04-06}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional na Suíça: haus zum Ritter, Schaffhausen, 1487--1580; paço municipal da Basileia, 1504--1513; paço municipal de Lausanne, 1673--1675. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg){#fig:langhein2012-04-06 .full}
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-07-08.jpg" data-background-size="contain"}
 
@@ -590,13 +588,13 @@ quadrado, que determina a largura do vão central [@kamayura:2019manual].
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-distance-detail.jpg" data-background-size="640px 666px" data-background-position="2.5% 5%" data-background-color="#00ff00"}
 
-![Distância e detalhe, por Léon Krier](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-distance-detail.png){#fig:krier-detail .line .marginnote}
+![Distância e detalhe, por Léon Krier](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-distance-detail.png){#fig:krier-detail .line .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma última consideração importante diz respeito à escala dos elementos
 da arquitetura. Numa composição equilibrada, a diferença de escala entre
 elementos maiores e menores nunca é mais do que uma ordem de grandeza,
-ou seja, dez vezes (@fig:krier-detail).
+ou seja, dez vezes. [@fig:krier-detail]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-color="#00ff00"}
@@ -610,7 +608,7 @@ como as proporções são usadas de fato no processo produtivo do ambiente
 construído.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Preferência temporal e preferência local #
+# Preferência temporal # {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#00ff00"}
 
@@ -627,14 +625,14 @@ sociedades.
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg" data-background-size="458px 458px" data-background-position="2.5% 5%" data-background-color="#00ff00"}
 
-![Arquitetura do pico do petróleo. Léon Krier, 2008](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg){#fig:krier-oil .marginnote}
+![Arquitetura do pico do petróleo. Léon Krier, 2008](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg){#fig:krier-oil .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura tradicional consome muito trabalho manual e um pouco do
 combustível disponível na natureza --- sobretudo água e fogo de lenha.
 Já a arquitetura moderna usa uma cadeia de usinas, máquinas e
 instalações movidas predominantemente a combustíveis fósseis, e em
-contrapartida poupam trabalho manual (@fig:krier-oil). Essa distinção
+contrapartida poupam trabalho manual. [@fig:krier-oil] Essa distinção
 vai resultar em
 atitudes diferentes, por um lado, quanto à vida útil das construções no
 tempo e, por outro lado, quanto à relação dessas mesmas construções com
@@ -647,7 +645,7 @@ local*.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/e7/83/e6/e783e61df6c6534e45f61ac400ad53f2.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Barnabas Calder. Foto: [Helen @ Gingerbread Design](https://www.unitedagents.co.uk/barnabas-calder)](https://i.pinimg.com/originals/01/bd/e9/01bde9f28c2eccdaa1eb4e35bfe80a1e.jpg){#fig:calder-trombine .marginnote}
+![Barnabas Calder. Foto: [Helen @ Gingerbread Design](https://www.unitedagents.co.uk/barnabas-calder)](https://i.pinimg.com/originals/01/bd/e9/01bde9f28c2eccdaa1eb4e35bfe80a1e.jpg){#fig:calder-trombine .align-right}
 
 ![© Pelican Books, 2021](https://i.pinimg.com/originals/e7/83/e6/e783e61df6c6534e45f61ac400ad53f2.jpg){#fig:calder-book}
 
@@ -666,7 +664,7 @@ Assim como todo o nosso modo de vida contemporâneo, a arquitetura
 moderna é uma indústria de altíssimo consumo de energia. Duas revoluções
 energéticas cruciais aconteceram nos últimos trezentos anos: primeiro,
 com a Revolução Industrial, a força de trabalho manual e a energia
-diretamente fornecida pela natureza (@fig:molens) foram substituídas por
+diretamente fornecida pela natureza [@fig:molens] foram substituídas por
 máquinas movidas a combustíveis fósseis; segundo, desde o final do
 século [XIX]{.smallcaps}, a necessidade de construir edifícios adaptados
 ao clima foi substituída pela capacidade de consumir energia para
@@ -685,7 +683,7 @@ faça necessária --- e que seja economicamente viável --- é o que
 caracteriza as sociedades industrializadas modernas. Nessas sociedades,
 a energia pode ser extraída do ambiente em quantidades quase ilimitadas.
 A nossa energia é gerada a partir de fontes fósseis, como o carvão ou o
-petróleo, atômicas (@fig:temelin) ou renováveis, como a eletricidade
+petróleo, atômicas [@fig:temelin] ou renováveis, como a eletricidade
 produzida em turbinas hidráulicas e eólicas ou em painéis fotovoltaicos.
 Essa energia industrial, por assim dizer, é relativamente barata, e em
 proporção a isso, a força de trabalho manual acaba por se tornar
@@ -705,7 +703,7 @@ produção sempre que existir uma demanda correspondente.
 Em contraste com a nossa sociedade industrial, nas sociedades
 tradicionais ou pré-industriais, a energia que pode ser extraída do
 ambiente é bastante limitada [@calder:2021architecture]. O vento e a
-correnteza dos rios podem até mover moinhos (@fig:arbesbach), mas não
+correnteza dos rios podem até mover moinhos, [@fig:arbesbach] mas não
 podem, por exemplo, ser escalados o suficiente para mecanizar a produção
 de mais moinhos. O calor e o vapor que podem ser gerados a partir da
 queima de madeira, por outro lado, são diretamente limitados pela
@@ -772,7 +770,7 @@ econômica de processos na escala da sociedade como um todo
 seminômades que vivem em regiões onde a matéria-prima para a construção
 de abrigos é abundante, não faz sentido investir na complexidade nem na
 durabilidade das suas construções. As aldeias da etnia Bagyeli, na
-África equatorial (@fig:bagyeli), portanto, têm uma estrutura bastante
+África equatorial, [@fig:bagyeli] portanto, têm uma estrutura bastante
 engenhosa mas muito rápida de se erguer. Elas são feitas para durarem
 alguns meses e a aldeia pode ser simplesmente abandonada depois desse
 tempo, permitindo a regeneração da floresta no local
@@ -790,8 +788,8 @@ Pelo contrário, sociedades seminômades que vivem em regiões onde a
 matéria-prima para os seus abrigos é escassa tendem a investir muito
 tempo e trabalho para refinar habitações leves e portáteis. É o caso de
 muitos povos que vivem em estepes, como as diversas etnias da Sibéria e
-da Mongólia, assim como os povos das planícies da América do Norte
-(@fig:wellcome).
+da Mongólia, assim como os povos das planícies da América do Norte.
+[@fig:wellcome]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-color="#00ff00"}
@@ -824,7 +822,7 @@ investir não só no conforto imediato, mas sobretudo na qualidade de vida
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gaston_Bachelard_1965.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Gaston Bachelard. Acervo do [Arquivo Nacional dos Países Baixos](https://commons.wikimedia.org/wiki/File:Gaston_Bachelard_1965.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gaston_Bachelard_1965.jpg/763px-Gaston_Bachelard_1965.jpg){#fig:bachelard .marginnote}
+![Gaston Bachelard. Acervo do [Arquivo Nacional dos Países Baixos](https://commons.wikimedia.org/wiki/File:Gaston_Bachelard_1965.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gaston_Bachelard_1965.jpg/763px-Gaston_Bachelard_1965.jpg){#fig:bachelard .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Outra consequência da arquitetura com preferência temporal de longo
@@ -838,14 +836,14 @@ a ser usada no contexto da arquitetura com o pós-modernismo, na segunda
 metade do século, e sobretudo a partir da publicação dos livros *Poética
 do espaço*, pelo filósofo francês Gaston Bachelard (@fig:bachelard)
 [@bachelard:2008poetica], e *Topofilia*, pelo geógrafo americano Yi-Fu
-Tuan (@fig:tuan) [@tuan:1980topofilia].
+Tuan [@fig:tuan] [@tuan:1980topofilia].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg" data-background-size="contain" data-background-position="right" data-background-color="#00ff00"}
 
-![Yi-Fu Tuan](https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg){#fig:tuan .marginnote}
+![Yi-Fu Tuan](https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg){#fig:tuan .align-right}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain" data-background-position="right"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain" data-background-position="right" data-background-color="#0f0"}
 
 ![Léon Krier, Edifícios (da Universidade de Yale) --- idade e primeira campanha significativa de reformas, 1990](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png){#fig:krier-1990 .line}
 
@@ -854,7 +852,7 @@ Tuan (@fig:tuan) [@tuan:1980topofilia].
 característica de sociedades sedentárias e com sistemas de propriedade
 privada, o que aconteceu com a arquitetura depois da Revolução
 Industrial? Não é nenhum segredo que a vida útil dos edifícios não para
-de cair (@fig:krier-1990), mesmo que a indústria venha desenvolvendo
+de cair, [@fig:krier-1990] mesmo que a indústria venha desenvolvendo
 materiais com desempenhos cada vez melhores (pelo menos no papel).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -867,7 +865,7 @@ energia nas sociedades industriais é incomparavelmente maior do que a
 das sociedades agrárias e artesanais. Na arquitetura, isso quer dizer
 que as construções produzidas pela mão dos artesãos foram substituídas
 por montagens cada vez mais mecanizadas de componentes *até certo ponto*
-industrializados (@fig:tecla) --- o fato de que as construções são
+industrializados [@fig:tecla] --- o fato de que as construções são
 "menos" industrializadas do que carros ou máquinas de raios X não
 importa tanto, a questão é a tendência.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -876,7 +874,7 @@ importa tanto, a questão é a tendência.
 
 ## {.unlisted data-background-image="https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980" data-background-size="contain"}
 
-![Léon Krier, custo de construção e custo de manutenção comparados](https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980){#fig:krier-maintenance .marginnote}
+![Léon Krier, custo de construção e custo de manutenção comparados](https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980){#fig:krier-maintenance .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ora, mas se a construção está cada vez mais industrializada, por que ela
@@ -884,8 +882,8 @@ dura menos? Justamente porque uma indústria capaz de fabricar qualquer
 quantidade de produtos em qualquer tempo tende a assumir uma preferência
 temporal alta. Se a sociedade industrial contemporânea é capaz de
 produzir muito mais metros quadrados de construção em muito menos tempo,
-a preocupação com a manutenção acaba sendo secundária
-(@fig:krier-maintenance). O ciclo de financiamento do mercado
+a preocupação com a manutenção acaba sendo secundária.
+[@fig:krier-maintenance] O ciclo de financiamento do mercado
 imobiliário atual é baseado na rentabilidade de curto prazo. Conservar
 os ativos imobiliários no longo prazo não é um fator determinante na
 organização da cadeia produtiva.
@@ -893,7 +891,7 @@ organização da cadeia produtiva.
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Emissões de CO~2~ da cadeia produtiva da construção civil. Pesquisa e gráfico: [Victoria Luise Schulz-Daubas, 2021](https://osf.io/ea5hf)](https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png){#fig:schulz .marginnote}
+![Emissões de CO~2~ da cadeia produtiva da construção civil. Pesquisa e gráfico: [Victoria Luise Schulz-Daubas, 2021](https://osf.io/ea5hf)](https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png){#fig:schulz .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 E onde entra o discurso da sustentabilidade nessa lógica de preferência
@@ -902,7 +900,7 @@ certificado quando saem da fábrica, mas o tempo pelo qual eles mantêm
 esse desempenho parece ser sempre superestimado. Por causa disso, mesmo
 com todo o discurso da sustentabilidade que vem se impondo desde a
 década de 1970, as emissões de CO~2~ da cadeia produtiva da construção
-civil estão crescendo cada vez mais rápido (@fig:schulz).
+civil estão crescendo cada vez mais rápido. [@fig:schulz]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-color="#00ff00"}
@@ -938,7 +936,7 @@ temporal? Uma arquitetura produzida lentamente, mas que volte a durar
 séculos?
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Alegoria da cabana primitiva #
+# Alegoria da cabana primitiva # {data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#00ff00"}
 
@@ -960,15 +958,15 @@ que vamos analisar junto com o registro arqueológico.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As árvores são o material de construção por excelência. Todas as
-espécies de hominídeos, dos orangotangos (@fig:orang) aos gorilas,
-chimpanzés (@fig:chimp) e humanos, usam as árvores como material e,
+espécies de hominídeos, dos orangotangos [@fig:orang] aos gorilas,
+chimpanzés [@fig:chimp] e humanos, usam as árvores como material e,
 eventualmente, suporte para construir os seus abrigos. Isso indica que a
 prática de construir com galhos de árvores pode remontar a até 10
 milhões atrás, ao último ancestral comum dos hominídeos
 [@fruth:2017great].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Orangotango construindo ninho em Bornéu. Foto: [John Fuller, 2013 ](http://johnfuller3048.blogspot.com/2013/06/borneo-3.html) ](https://i.pinimg.com/originals/7e/ac/0f/7eac0fad2c7dc3ff0a7471354e2bbdea.jpg){#fig:orang .marginnote}
+![Orangotango construindo ninho em Bornéu. Foto: [John Fuller, 2013 ](http://johnfuller3048.blogspot.com/2013/06/borneo-3.html) ](https://i.pinimg.com/originals/7e/ac/0f/7eac0fad2c7dc3ff0a7471354e2bbdea.jpg){#fig:orang .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/e8/5f/c8/e85fc8c962e1545901b556978c636218.jpg"}
 
@@ -976,7 +974,7 @@ milhões atrás, ao último ancestral comum dos hominídeos
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Cabane_de_Terra_Amata_2.jpg"}
 
-![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata .marginnote}
+![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata .align-right}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c1/Dwelling_made_with_mammoth_bones.jpg"}
 
@@ -1000,10 +998,10 @@ algum objetivo social, funcional ou cultural que não a proteção simples
 e imediata do corpo humano. Em vários modos de vida vigentes até hoje,
 tanto de sociedades caçadoras-coletoras quanto de comunidade pastoris e
 agrárias, é bastante comum as pessoas trabalharem e mesmo descansarem ao
-relento (@fig:gauchos).
+relento. [@fig:gauchos]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Jean-Baptiste Henri Durand-Brager, Gaúchos preparando mate (acampamento do exército de Juan Manuel de Rosas). [*L'Illustration* [VII]{.smallcaps} (177), 1846](https://commons.wikimedia.org/wiki/File:Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg/1280px-Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg){#fig:gauchos}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -1020,7 +1018,7 @@ comunidade. Em suma, o abrigo humano tradicional sempre é um *lar* no
 sentido cultural da palavra.
 
 Esse é o caso nas aldeias dos povos San, no sul da África,
-onde cada casa pertence a uma família nuclear (@fig:san). A posição da
+onde cada casa pertence a uma família nuclear. [@fig:san] A posição da
 cabana serve para estabelecer as relações entre famílias dentro da
 aldeia, mas a construção não é usada nem para as atividades cotidianas e
 nem mesmo para dormir [@jarzombek:2013architecture].
@@ -1058,7 +1056,7 @@ em toras e troncos roliços de carvalho; todas as construções eram
 orientadas aproximadamente na direção leste--oeste.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: {#fig:sannai-site .fullwidth}
+::: {#fig:sannai-site .full}
 ::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=30%}
 ![Situação no território das sociedades pré-históricas que construíram habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-and-pit-dwellings.png){#fig:sannai-globe .nobg}
@@ -1067,7 +1065,7 @@ orientadas aproximadamente na direção leste--oeste.
 ![Locação junto à baía de Mutsu, atual município de Aomori, Japão](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-loc.png){#fig:sannai-mutsu}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-![Corte do sítio reconstituído](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-540.png){#fig:sannai-sec .fullwidth}
+![Corte do sítio reconstituído](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-540.png){#fig:sannai-sec .full}
 
 Esquema do sítio arqueológico de Sannai Maruyama, cultura Jōmon, 3900--2300 a.C.
 :::
@@ -1108,13 +1106,13 @@ Vitrúvio [@vitruvio:2007tratado, II, i] especulava que o domínio sobre o
 fogo permitiu aos homens antigos deixarem de viver como "animais
 selvagens" e passarem a se organizar em sociedade. O relato vitruviano é
 o tema de uma série de pinturas de Piero di Cosimo no final do século
-[XV]{.smallcaps} (@fig:cosimo-hunt). A construção de abrigos
+[XV]{.smallcaps}. [@fig:cosimo-hunt] A construção de abrigos
 (@fig:cosimo-vulcan) era, para Vitrúvio, um trabalho necessariamente
 coletivo e que, portanto, só poderia existir em volta do lar --- da
 fogueira familiar ou comunitária.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Piero di Cosimo, Cena de caçada, c. 1494--1500, têmpera e óleo sobre madeira. [Metropolitan Museum of Art ](https://commons.wikimedia.org/wiki/File:A_Hunting_Scene_MET_DT6.jpg) ](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/A_Hunting_Scene_MET_DT6.jpg/1280px-A_Hunting_Scene_MET_DT6.jpg){#fig:cosimo-hunt .fullwidth}
+![Piero di Cosimo, Cena de caçada, c. 1494--1500, têmpera e óleo sobre madeira. [Metropolitan Museum of Art ](https://commons.wikimedia.org/wiki/File:A_Hunting_Scene_MET_DT6.jpg) ](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/A_Hunting_Scene_MET_DT6.jpg/1280px-A_Hunting_Scene_MET_DT6.jpg){#fig:cosimo-hunt .full}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg" data-background-position="top"}
 
@@ -1124,13 +1122,13 @@ fogueira familiar ou comunitária.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote}
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A origem social da construção foi sendo esquecida aos
 poucos pelos tratadistas do Renascimento, até ser completamente
 invertida em 1753 pelo padre jesuíta francês e teórico da arquitetura
-Marc-Antoine Laugier (@fig:laugier). O mito da cabana primitiva, na
+Marc-Antoine Laugier. [@fig:laugier] O mito da cabana primitiva, na
 versão de Laugier, relata o raciocínio individual de um homem que tem a
 intuição de construir observando as árvores [@laugier:1753essai]. Só
 depois da construção solitária é que se forma uma comunidade para
@@ -1148,7 +1146,7 @@ que se manifesta primeiro no Iluminismo filosófico e político, e mais
 adiante no Romantismo artístico. Laugier era um pensador iluminista
 justamente porque ele partilhava o ideal de primazia do indivíduo com
 outros autores da sua época, como Rousseau e Voltaire, que aparece aqui
-sendo celebrado num salão elegante (@fig:salon). Esses autores
+sendo celebrado num salão elegante. [@fig:salon] Esses autores
 consideravam que a razão é uma faculdade inata e imutável da humanidade
 --- desde que ela pudesse ser exercida livremente, isto é, em caráter
 estritamente individual.
@@ -1158,7 +1156,7 @@ estritamente individual.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg"}
 
-![Leo von Klenze, Templo da Concórdia em Agrigento, 1857 ](https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg){#fig:klenze-concordia .fullwidth}
+![Leo von Klenze, Templo da Concórdia em Agrigento, 1857 ](https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg){#fig:klenze-concordia .full}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salon_de_la_princesse_hotel_de_soubise.jpg/1280px-Salon_de_la_princesse_hotel_de_soubise.jpg"}
 
@@ -1167,14 +1165,14 @@ estritamente individual.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A sequência do argumento de Laugier deixa clara a sua semelhança com a
 alegoria do "bom selvagem" de Rousseau: segundo Laugier, a arquitetura
-atinge o seu auge pouco tempo depois da época da cabana primitiva
-(@fig:klenze-concordia), na Grécia antiga (no século [XVIII]{.smallcaps}
+atinge o seu auge pouco tempo depois da época da cabana primitiva,
+[@fig:klenze-concordia] na Grécia antiga (no século [XVIII]{.smallcaps}
 a cronologia da pré-história e mesmo a do Mediterrâneo antigo ainda não
 estavam muito bem estabelecidas). Depois disso, a arquitetura degenera
 pouco a pouco por força de hábitos adquiridos e dos vícios introduzidos
 pelas convenções sociais [@laugier:1753essai]. Para Laugier, o fundo do
-poço da arquitetura era a "licenciosidade" do barroco e do rococó
-(@fig:soubise). Na prática, Laugier disfarçava uma preferência estética
+poço da arquitetura era a "licenciosidade" do barroco e do rococó.
+[@fig:soubise] Na prática, Laugier disfarçava uma preferência estética
 pela clareza visual das colunatas clássicas e neoclássicas como um
 argumento pela superioridade racional de um retorno às origens da
 arquitetura.
@@ -1186,16 +1184,16 @@ arquitetura.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"}
 
-![Caspar David Friedrich, Andarilho sobre o mar de névoa, 1817](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg){#fig:friedrich .marginnote}
+![Caspar David Friedrich, Andarilho sobre o mar de névoa, 1817](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg){#fig:friedrich .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As implicações políticas do individualismo iluminista são bem
 conhecidas, e desembocam na Revolução francesa a partir de 1789, com a
 tentativa de formar um sistema de governo baseado na igualdade de
-direitos (@fig:bastille). Já as consequências artísticas dessa
+direitos. [@fig:bastille] Já as consequências artísticas dessa
 celebração do individualismo são mais complexas. De uma apologia da
 *razão* individual, no neoclassicismo, a arte acabou descambando para
-uma idolatria da *emoção* individual no Romantismo (@fig:friedrich). Nos
+uma idolatria da *emoção* individual no Romantismo. [@fig:friedrich] Nos
 dois casos, o momento de maior pureza de um conceito ou sensação é
 aquele que está na *origem*, tida como mais autêntica ou espontânea.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1209,7 +1207,7 @@ O argumento iluminista e romântico ia no sentido oposto ao de Vitrúvio.
 Para os antigos romanos, a sociabilidade, e especialmente o consenso num
 meio-termo justo, estavam na origem de todo progresso, e esse progresso
 sempre seria atingido por uma sequência gradual de refinamentos
-sucessivos... ou quase sempre (@fig:caesar). Vitrúvio não estava
+sucessivos... ou quase sempre. [@fig:caesar] Vitrúvio não estava
 elogiando a pureza formal ou conceitual da cabana primitiva: esses são
 princípios revolucionários e *modernos*. Em vez disso, Vitrúvio
 sustentava uma tese *tradicional*: a de que o trabalho constante, no
@@ -1219,15 +1217,15 @@ desdobra ao longo do tempo vai ser revisitado, e deformado, na segunda
 metade do século [XIX]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vincenzo Camuccini, A morte de César, 1804--1805](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/1280px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg){#fig:caesar .fullwidth}
+![Vincenzo Camuccini, A morte de César, 1804--1805](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/1280px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg){#fig:caesar .full}
 
 ## {.unlisted}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [A terceira versão do mito]{.newthought} da cabana primitiva foi contada
-pelo arquiteto alemão Gottfried Semper (@fig:semper) num artigo de 1851
+pelo arquiteto alemão Gottfried Semper [@fig:semper] num artigo de 1851
 intitulado "Os quatro elementos da arquitetura" [@semper:1851vier].
-Semper se inspirou numa cabana de índios karib (@fig:karib) que ele
+Semper se inspirou numa cabana de índios karib [@fig:karib] que ele
 tinha visto na exposição universal de Londres, aquela do palácio de
 Cristal [@semper:1860stil]. Como a maioria dos europeus do seu tempo,
 Semper considerava que uma sociedade dita "primitiva" no século
@@ -1246,7 +1244,7 @@ nas origens da humanidade.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg"}
 
-![Henri Labrouste, arquiteto, biblioteca Sainte-Geneviève, sala de leitura, Paris, 1842. Foto: [Marie-Lan Nguyen, 2011](https://commons.wikimedia.org/wiki/File:Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg){#fig:bsg .fullwidth}
+![Henri Labrouste, arquiteto, biblioteca Sainte-Geneviève, sala de leitura, Paris, 1842. Foto: [Marie-Lan Nguyen, 2011](https://commons.wikimedia.org/wiki/File:Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg){#fig:bsg .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No século [XIX]{.smallcaps}, esse pressuposto colonialista era
@@ -1363,13 +1361,13 @@ queimadas ao fim da celebração. Essa prática popular foi documentada
 pelo antropólogo suíço Nold Egenter na segunda metade do século
 [XX]{.smallcaps} [@egenter:1980bauform]. Ela se assemelha a um ritual
 mais formalizado que faz parte da sagração de cada imperador do Japão
-desde o século [VII]{.smallcaps} d.C.: nesse ritual, chamado *daijōsai*
-(@fig:daijogu), o novo imperador entra numa cabana em madeira construída
+desde o século [VII]{.smallcaps} d.C.: nesse ritual, chamado *daijōsai*,
+[@fig:daijogu] o novo imperador entra numa cabana em madeira construída
 especialmente para partilhar uma refeição com a deusa do Sol Amaterasu
 (representada por três objetos sagrados e um pilar também em madeira).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cabanas rituais diversas no xintoísmo contemporâneo, Japão, registradas por Nold Egenter, 1980](https://i.pinimg.com/originals/b2/65/ea/b265ea66acf8b08695a2b71ce1ef1912.png){#fig:egenter .fullwidth .line}
+![Cabanas rituais diversas no xintoísmo contemporâneo, Japão, registradas por Nold Egenter, 1980](https://i.pinimg.com/originals/b2/65/ea/b265ea66acf8b08695a2b71ce1ef1912.png){#fig:egenter .full .line}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/35/d6/a0/35d6a066bf7ec19c629dfec1c2381891.jpg"}
 

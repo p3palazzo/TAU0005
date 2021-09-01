@@ -12,7 +12,7 @@ toc:
 
 # Quando termina a Antiguidade? #
 
-![Thomas Cole, The Course of Empire: Desolation, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/1024px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg){#fig:cole-desolation .fullwidth}
+![Thomas Cole, The Course of Empire: Desolation, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/1024px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg){#fig:cole-desolation .full}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/16/Diocletian's_Palace_(original_appearance).jpg"}
 
@@ -32,7 +32,7 @@ Espalato, plantas reconstituídas por Ernest Hébrard, 1912
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tafel_07_Aufriss_des_östl._Peristylflügels_-_Schnitt_Vestibül_-_Wiederherstellung.jpg/1280px-Tafel_07_Aufriss_des_östl._Peristylflügels_-_Schnitt_Vestibül_-_Wiederherstellung.jpg"}
 
-![Palácio de Diocleciano em Espalato, elevação do peristilo oriental e corte do vestíbulo. Reconstituição por [George Niemann, 1910](https://commons.wikimedia.org/wiki/File:Tafel_07_Aufriss_des_östl._Peristylflügels_-_Schnitt_Vestibül_-_Wiederherstellung.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tafel_07_Aufriss_des_östl._Peristylflügels_-_Schnitt_Vestibül_-_Wiederherstellung.jpg/1280px-Tafel_07_Aufriss_des_östl._Peristylflügels_-_Schnitt_Vestibül_-_Wiederherstellung.jpg){#fig:spalato-peristyl .fullwidth}
+![Palácio de Diocleciano em Espalato, elevação do peristilo oriental e corte do vestíbulo. Reconstituição por [George Niemann, 1910](https://commons.wikimedia.org/wiki/File:Tafel_07_Aufriss_des_östl._Peristylflügels_-_Schnitt_Vestibül_-_Wiederherstellung.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Tafel_07_Aufriss_des_östl._Peristylflügels_-_Schnitt_Vestibül_-_Wiederherstellung.jpg/1280px-Tafel_07_Aufriss_des_östl._Peristylflügels_-_Schnitt_Vestibül_-_Wiederherstellung.jpg){#fig:spalato-peristyl .full}
 
 <!--_,-->
 
@@ -42,7 +42,7 @@ Espalato, plantas reconstituídas por Ernest Hébrard, 1912
 
 ## {data-background-image="https://i.pinimg.com/originals/22/a1/05/22a105640ef926ad869f8337a1e21ad8.jpg"}
 
-![Constantinopla c. 360 d.C. Reconstituição de [Rocío Espín Piñar](https://www.artstation.com/artwork/ZY90N)](https://i.pinimg.com/originals/dd/2d/08/dd2d08678b1a2782764681b1eb16c1e9.jpg){#fig:constantinopoli-360 .fullwidth}
+![Constantinopla c. 360 d.C. Reconstituição de [Rocío Espín Piñar](https://www.artstation.com/artwork/ZY90N)](https://i.pinimg.com/originals/dd/2d/08/dd2d08678b1a2782764681b1eb16c1e9.jpg){#fig:constantinopoli-360 .full}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Mediolanum_romana.png/1206px-Mediolanum_romana.png" data-background-size="contain"}
 
@@ -50,7 +50,7 @@ Espalato, plantas reconstituídas por Ernest Hébrard, 1912
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/1f/Costantino_nord-limes_png.PNG"}
 
-![Fronteiras do império romano durante o governo de Constantino, o Grande, 312--333. Desenho: [Cristiano64, 2010](https://commons.wikimedia.org/wiki/File:Costantino_nord-limes_png.PNG)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Costantino_nord-limes_png.PNG/1280px-Costantino_nord-limes_png.PNG){#fig:romania-constantinus .fullwidth}
+![Fronteiras do império romano durante o governo de Constantino, o Grande, 312--333. Desenho: [Cristiano64, 2010](https://commons.wikimedia.org/wiki/File:Costantino_nord-limes_png.PNG)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Costantino_nord-limes_png.PNG/1280px-Costantino_nord-limes_png.PNG){#fig:romania-constantinus .full}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/476_CE,_Europe.svg/1197px-476_CE,_Europe.svg.png" data-background-position="bottom"}
 

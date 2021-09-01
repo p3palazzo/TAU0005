@@ -18,14 +18,17 @@ toc:
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png" data-background-size="contain"}
 
-![Esquemas conceituais de aldeias indo-arianas. Desenho em [E.B. Havell, 1918](https://commons.wikimedia.org/wiki/File:Indo-Aryan_village_plans.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png){#fig:havell .marginnote .line .nobg}
+![Esquemas conceituais de aldeias indo-arianas. Desenho em [E.B. Havell, 1918](https://commons.wikimedia.org/wiki/File:Indo-Aryan_village_plans.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png){#fig:havell .align-right .line .nobg}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1280px-Brown-18060_0021-1.jpg" data-background-size="contain"}
 
 ![Aldeia védica com cerca e portal. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0021-1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1280px-Brown-18060_0021-1.jpg){#fig:brown-vedic}
 
-## Do texto à construção ##
+## Do texto à construção ## {data-visibility="hidden"}
 
+## {.unlisted data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Vāstu śāstra](https://en.wikipedia.org/wiki/Vastu_shastra) (tratados de
 arquitetura) e [*Śilpa
 śāstra*](https://en.wikipedia.org/wiki/Shilpa_Shastras) (tratados
@@ -36,6 +39,7 @@ Purāṇa*](https://pt.wikipedia.org/wiki/Brahmanda_Purana).
 Iluminação recíproca entre textos e construções: não se pode construir
 sem um sistema; não se pode estabelecer um sistema sem práticas
 construtivas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg/1024px-64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg.png" data-background-size="contain"}
 
@@ -47,15 +51,19 @@ construtivas.
 
 ![Charles Correa, arquiteto, Jawahar Kala Kendra, Jaipur, 1986, planta](https://i.pinimg.com/originals/39/bd/90/39bd90af04072a4d03da58b399da5333.jpg){#fig:jkk-plan}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Vāstu puruṣa mandala. Em uso atualmente como referência cultural,
 princípios de geomancia e "auto-ajuda".
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 *Kuṭikā* (cabana ou célula) como arquétipo rural à semelhança do
 classicismo ([@fig:brown-032; @fig:brown-050]); a palavra se refere à
 curvatura das coberturas feitas de galhos, juncos ou folhagens
 [@coomaraswamy:1992essays, 106].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
 ::: {.column width=50%}
@@ -77,7 +85,9 @@ curvatura das coberturas feitas de galhos, juncos ou folhagens
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Construção originária em teca [@brown:1959indiana, 6].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Ornamento e geometria #
 
@@ -93,7 +103,7 @@ com abside e alcovas laterais da tradição islâmica mais tardia.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/fe/3b/5d/fe3b5d37ca5d673d3d09e3e7e6ee95ea.png" data-background-size="contain"}
 
-![Medina Azahara, Córdoba, 953--957. Planta do palácio superior, por Felix Arnold, 2017](https://i.pinimg.com/originals/fe/3b/5d/fe3b5d37ca5d673d3d09e3e7e6ee95ea.png){#fig:arnold2017-2.25 .marginnote .line}
+![Medina Azahara, Córdoba, 953--957. Planta do palácio superior, por Felix Arnold, 2017](https://i.pinimg.com/originals/fe/3b/5d/fe3b5d37ca5d673d3d09e3e7e6ee95ea.png){#fig:arnold2017-2.25 .align-right .line}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/73/6d/3e/736d3ee19ab6ee338f869085cc1b034d.png" data-background-size="contain"}
 

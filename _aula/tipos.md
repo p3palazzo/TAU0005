@@ -16,7 +16,7 @@ title-slide-attributes:
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f4/Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg"}
 
-![Edwin Lord Weeks, A Court in the Alhambra in the Time of the Moors](https://upload.wikimedia.org/wikipedia/commons/f/f4/Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg){#fig:weeks-moors .fullwidth}
+![Edwin Lord Weeks, A Court in the Alhambra in the Time of the Moors](https://upload.wikimedia.org/wikipedia/commons/f/f4/Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg){#fig:weeks-moors .full}
 
 # Cultura doméstica no Mediterrâneo #
 
@@ -34,14 +34,14 @@ title-slide-attributes:
 
 ## {.unlisted data-background-image="https://journals.openedition.org/gallia/docannexe/image/5147/img-9.jpg" data-background-position="top"}
 
-![Casa absidial no subúrbio de Lattara. Reconstituição: M. Mondou, reproduzida por [Gailledrat e Vacheret, 2020](https://doi.org/10.4000/gallia.5147)](https://journals.openedition.org/gallia/docannexe/image/5147/img-9.jpg){#fig:lattara-absidial .marginnote}
+![Casa absidial no subúrbio de Lattara. Reconstituição: M. Mondou, reproduzida por [Gailledrat e Vacheret, 2020](https://doi.org/10.4000/gallia.5147)](https://journals.openedition.org/gallia/docannexe/image/5147/img-9.jpg){#fig:lattara-absidial .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/96/23/5c/96235cdaade74213f55330def2e9c900.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nas cidades planejadas da Grécia antiga, os lotes eram rasos, quase
 quadrados, e os quarteirões eram pequenos. Em alguns casos, como em
-Olinto (@fig:olynthus-blocks), as casas eram geminadas só pelas divisas
+Olinto, [@fig:olynthus-blocks] as casas eram geminadas só pelas divisas
 laterais. Nos quarteirões de Olinto, os lotes tinham cerca de 60′
 (sessenta pés) de lado, ou pouco mais de 17 metros. Os fundos eram
 separados uns dos outros por uma servidão muito estreita, com só 5′ de
@@ -61,8 +61,8 @@ com *prostas*, ou pórtico na frente de uma sala separada
 [@graham:1966origins20]. No tipo de casa com *pastas*, a sala principal
 no térreo abria diretamente para o pátio, e ela tinha uma ou duas
 células laterais sem abertura direta para fora, além de uma série de
-células funcionais atrás do *pastas*, incluindo a cozinha
-(@fig:olynthus-a-vii-4). Em casas mais ricas, o *pastas* podia dar uma
+células funcionais atrás do *pastas*, incluindo a cozinha.
+[@fig:olynthus-a-vii-4] Em casas mais ricas, o *pastas* podia dar uma
 volta inteira no pátio e formar um peristilo.
 
 Perto da entrada da casa ficava uma sala de jantar social ou masculina,
@@ -80,7 +80,7 @@ na cidade de Priene ([@fig:priene-casas; @fig:priene-cg]) e de outras
 cidades gregas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Casas em Priene, reconstituídas por Whitley, 2001](https://i.pinimg.com/originals/bd/79/93/bd7993471831f9cbb7df636bd15dfb74.jpg){#fig:priene-casas .marginnote}
+![Casas em Priene, reconstituídas por Whitley, 2001](https://i.pinimg.com/originals/bd/79/93/bd7993471831f9cbb7df636bd15dfb74.jpg){#fig:priene-casas .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/16/6d/2a/166d2a4095ab30414873f55c0dd40906.jpg" data-background-position="bottom"}
 
@@ -88,7 +88,7 @@ cidades gregas.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg"}
 
-![Reconstituição de casas em Olinto](https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg){#fig:olynthus-cutaway .fullwidth}
+![Reconstituição de casas em Olinto](https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg){#fig:olynthus-cutaway .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A regularidade das construções escavadas em Olinto e em outras cidades
@@ -96,8 +96,8 @@ planejadas indica que se valorizavam a equidade na distribuição da
 propriedade e uma relativa homogeneidade, ou *isonomia* em grego, no
 modo de vida dos cidadãos. Além disso, as casas seguiam, sempre que
 possível, a mesma orientação solar: a ala principal da casa se abria
-para o sul, sobre o pátio (@fig:olynthus-cutaway). A galeria coberta no
-primeiro andar (@fig:olynthus-brunner) protegia os ambientes do sol a
+para o sul, sobre o pátio. [@fig:olynthus-cutaway] A galeria coberta no
+primeiro andar [@fig:olynthus-brunner] protegia os ambientes do sol a
 pino no verão, mas deixava entrar o sol de inverno, mais baixo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -112,7 +112,7 @@ pino no verão, mas deixava entrar o sol de inverno, mais baixo.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por outro lado, a orientação solar idêntica obrigava a mudar o
 posicionamento da entrada das casas segundo a posição da rua com
-respeito ao lote (@fig:many-colors).
+respeito ao lote. [@fig:many-colors]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/78/e3/94/78e394dbdb86e38fe1640b8f38a8c07d.jpg"}
@@ -136,15 +136,15 @@ receber "clientes" era importante.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A importância dessa axialidade fica mais evidente em casas da elite,
-implantadas em lotes maiores, como a casa de Salústio (@fig:mau134). A
+implantadas em lotes maiores, como a casa de Salústio. [@fig:mau134] A
 composição principal dessa casa ignora as divisas do lote e forma um
 conjunto quase perfeitamente simétrico tanto na fachada quanto na
-planta. Em contraste, os anexos, como as lojas (@fig:mau134, n.º 4--9),
+planta. Em contraste, os anexos, como as lojas, [@fig:mau134, n.º 4--9]
 e os espaços privativos da família, como os jardins com peristilo e o
-átrio secundário (@fig:mau134, n.º 31--35), se acomodam no espaço
+átrio secundário, [@fig:mau134, n.º 31--35] se acomodam no espaço
 residual entre a composição axial e as divisas irregulares do lote. A
 vista é desimpedida desde a entrada principal da casa até o *tablinum*,
-a sala onde o chefe da família recebia os seus clientes (@fig:pansa).
+a sala onde o chefe da família recebia os seus clientes. [@fig:pansa]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/0c/c6/3e/0cc63e51be87b309970ed2ce18799bcf.gif" data-background-size="contain"}
@@ -156,11 +156,11 @@ a sala onde o chefe da família recebia os seus clientes (@fig:pansa).
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O átrio da casa romana é sempre cercado por beirais amplos, geralmente
 sustentados por duas vigas principais que vencem o vão estrutural mais
-curto e sustentam outras duas vigas secundárias (@fig:mau117). Esse
-sistema deixa o pátio totalmente livre de colunas (@fig:mau136).
+curto e sustentam outras duas vigas secundárias. [@fig:mau117] Esse
+sistema deixa o pátio totalmente livre de colunas. [@fig:mau136]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta estrutural de um átrio toscano, segundo [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_250)](https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuscan_atrium_in_Pompeii_Mau_fig117.png){#fig:mau117 .line .marginnote}
+![Planta estrutural de um átrio toscano, segundo [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_250)](https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuscan_atrium_in_Pompeii_Mau_fig117.png){#fig:mau117 .line .align-right}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b8/Pompeii_-_its_life_and_art_(1899)_(14750073956).jpg" data-background-size="contain"}
 
@@ -170,7 +170,7 @@ sistema deixa o pátio totalmente livre de colunas (@fig:mau136).
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/9d/82/29/9d82297091f4dd4ca46997fab22659fc.jpg" data-background-size="contain"}
 
-![Esquema de uma cisterna romana](https://i.pinimg.com/originals/9d/82/29/9d82297091f4dd4ca46997fab22659fc.jpg){#fig:cistern .marginnote}
+![Esquema de uma cisterna romana](https://i.pinimg.com/originals/9d/82/29/9d82297091f4dd4ca46997fab22659fc.jpg){#fig:cistern .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/27/5b/44/275b4456228531bf829a43b056a6c9dc.jpg"}
 
@@ -178,11 +178,11 @@ sistema deixa o pátio totalmente livre de colunas (@fig:mau136).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os beirais do átrio oferecem uma circulação ao abrigo do sol e da chuva.
-Eles também canalizam a água para uma cisterna central, debaixo do piso
-(@fig:cistern). Deixar a água parada na cisterna ajudava a decantar as
+Eles também canalizam a água para uma cisterna central, debaixo do piso.
+[@fig:cistern] Deixar a água parada na cisterna ajudava a decantar as
 impurezas, mesmo quando o abastecimento vinha de um aqueduto e não da
 coleta da água de chuva. Outra canalização desaguava o excesso da
-cisterna sobre a rua (@fig:aregenua).
+cisterna sobre a rua. [@fig:aregenua]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/54/Plan_of_the_house_of_the_Faun_in_Mau_fig137.png" data-background-size="contain"}
@@ -190,7 +190,7 @@ cisterna sobre a rua (@fig:aregenua).
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ao contrário da sociedade grega, a romana admitia grandes desigualdades
 socioeconômicas que se refletiam no tamanho das casas. Uma casa muito
-grande, como a casa do Fauno em Pompeia (@fig:mau137), refletia não só
+grande, como a casa do Fauno em Pompeia, [@fig:mau137] refletia não só
 um proprietário rico, como também uma família estendida vivendo no mesmo
 teto --- característica das classes altas --- e muitos escravos
 domésticos. Por isso, a ampliação de uma casa romana se fazia sempre
@@ -199,11 +199,11 @@ jardim com peristilo. As dimensões desses módulos e dos ambientes que
 faziam parte deles, por outro lado, variavam pouco (exceto a do jardim).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta da casa do Fauno, Pompeia, reformada após 66 d.C. Desenho: [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_288)](https://upload.wikimedia.org/wikipedia/commons/5/54/Plan_of_the_house_of_the_Faun_in_Mau_fig137.png){#fig:mau137 .fullwidth .line}
+![Planta da casa do Fauno, Pompeia, reformada após 66 d.C. Desenho: [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_288)](https://upload.wikimedia.org/wikipedia/commons/5/54/Plan_of_the_house_of_the_Faun_in_Mau_fig137.png){#fig:mau137 .full .line}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png" data-background-size="contain"}
 
-![Reconstituição da casa de Maomé em Medina, c. 622 d.C., segundo Leacroft, 1976](https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png){#fig:leacroft1976-2 .fullwidth .line}
+![Reconstituição da casa de Maomé em Medina, c. 622 d.C., segundo Leacroft, 1976](https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png){#fig:leacroft1976-2 .full .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [A casa árabe urbana na bacia do Mediterrâneo]{.newthought} combina
@@ -214,7 +214,7 @@ onde se podiam arrebanhar os animais da família durante a noite. Um dos
 lados desse cercado tinha um pórtico aberto para o terreiro, sem
 divisórias internas. O modelo paradigmático desse tipo é a descrição que
 foi transmitida através das gerações da casa do profeta Maomé em Medina,
-no início do século [VII]{.smallcaps} d.C. (@fig:leacroft1976-2).
+no início do século [VII]{.smallcaps} d.C.. [@fig:leacroft1976-2]
 
 O modelo da casa de Maomé é especialmente importante enquanto exemplar
 específico porque ele não só representa o tipo árabe de base: ele também
@@ -243,7 +243,7 @@ oficinas ou depósitos. A área social da casa, incluindo o pátio
 (*sahn*), vai ser então erguida para uma espécie de "andar nobre", no
 primeiro andar ou, pelo menos, meio nível acima do térreo. Os ambientes
 privativos da família ocupam mais um ou dois pavimentos acima do andar
-nobre (@fig:gayer). Como nas casas da antiga Mesopotâmia, a cobertura da
+nobre. [@fig:gayer] Como nas casas da antiga Mesopotâmia, a cobertura da
 casa árabe é um terraço habitável.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -254,19 +254,19 @@ No Mediterrâneo medieval, a casa muito raramente é "coletiva" no sentido
 de um prédio de apartamentos. Mesmo assim, construções relativamente
 verticalizadas e com muita área útil existem, para abrigar uma família
 estendida. É o caso dos *tighremt* ou casarões rurais dos berberes, nas
-montanhas da Argélia e do Marrocos (@fig:tighremt).
+montanhas da Argélia e do Marrocos. [@fig:tighremt]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Tipologia dos *tighremt* berberes no vale do Draa, Marrocos, segundo Arena e Raffa, 2018](https://i.pinimg.com/originals/4c/9f/5e/4c9f5ec9db0503e1d19513a3a239153a.png){#fig:tighremt}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/bc/cc/4a/bccc4a4aaec0eea9dfb5dfe4281fed1d.png" data-background-size="contain" data-background-position="top"}
 
-![Processo tipológico de formação do salão largo na edilícia de base da península Ibérica, séculos [VI]{.smallcaps}--[X]{.smallcaps}, segundo Felix Arnold, 2017. Da esquerda para a direita e de cima para baixo: Cartagena, séculos [VI]{.smallcaps}--[VII]{.smallcaps}; Puig Rom (Girona), séculos [VI]{.smallcaps}--[VII]{.smallcaps}; Vilaclara (Barcelona), século [VII]{.smallcaps}; Gózquez de Arriba (Madri), séculos [VIII]{.smallcaps}--[IX]{.smallcaps}; Castillo de Peñaflor (Jaén), séculos [IX]{.smallcaps}--[X]{.smallcaps}; Pechina (Almería), século [X]{.smallcaps}; Medina Azahara (Córdoba), século [X]{.smallcaps}](https://i.pinimg.com/originals/bc/cc/4a/bccc4a4aaec0eea9dfb5dfe4281fed1d.png){#fig:arnold2017-1.8 .fullwidth}
+![Processo tipológico de formação do salão largo na edilícia de base da península Ibérica, séculos [VI]{.smallcaps}--[X]{.smallcaps}, segundo Felix Arnold, 2017. Da esquerda para a direita e de cima para baixo: Cartagena, séculos [VI]{.smallcaps}--[VII]{.smallcaps}; Puig Rom (Girona), séculos [VI]{.smallcaps}--[VII]{.smallcaps}; Vilaclara (Barcelona), século [VII]{.smallcaps}; Gózquez de Arriba (Madri), séculos [VIII]{.smallcaps}--[IX]{.smallcaps}; Castillo de Peñaflor (Jaén), séculos [IX]{.smallcaps}--[X]{.smallcaps}; Pechina (Almería), século [X]{.smallcaps}; Medina Azahara (Córdoba), século [X]{.smallcaps}](https://i.pinimg.com/originals/bc/cc/4a/bccc4a4aaec0eea9dfb5dfe4281fed1d.png){#fig:arnold2017-1.8 .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No início da Idade Média, a casa de tipo romano no Mediterrâneo
-ocidental deu lugar à casa com pátio e salão largo
-(@fig:arnold2017-1.8). Esse salão lembra o *pastas* da casa grega; ele
+ocidental deu lugar à casa com pátio e salão largo.
+[@fig:arnold2017-1.8] Esse salão lembra o *pastas* da casa grega; ele
 era usado para várias funções sociais e familiares, o que dá a entender
 que a casa passou a ser um espaço mais recluso da família, sem muita
 abertura para estranhos. O salão largo estava disposto transversalmente
@@ -279,7 +279,7 @@ que caracterizava a casa romana [@arnold:2017islamic, 30].
 
 ## {data-background-image="https://i.pinimg.com/originals/d3/0b/b0/d30bb0b052ef68928e7102de59b6a235.jpg"}
 
-![Le Corbusier, arquiteto, maquete do plano Voisin com a sua inserção no centro histórico de Paris (1925) ](https://i.pinimg.com/originals/d3/0b/b0/d30bb0b052ef68928e7102de59b6a235.jpg){#fig:voisin .fullwidth}
+![Le Corbusier, arquiteto, maquete do plano Voisin com a sua inserção no centro histórico de Paris (1925) ](https://i.pinimg.com/originals/d3/0b/b0/d30bb0b052ef68928e7102de59b6a235.jpg){#fig:voisin .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/a3/47/6f/a3476f62ba2541c10242596a727afac9.jpg" data-background-position="bottom"}
 
@@ -305,15 +305,15 @@ Saverio Muratori, processo de urbanização do bairro Rialto, Veneza.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/b6/00/66/b60066a2d03348fa0174e53329776036.png"}
 
-![Tipos de células base do Mediterrâneo ocidental. Desenho: Pedro P. Palazzo, 2021](https://i.pinimg.com/originals/b6/00/66/b60066a2d03348fa0174e53329776036.png){#fig:cell .fullwidth}
+![Tipos de células base do Mediterrâneo ocidental. Desenho: Pedro P. Palazzo, 2021](https://i.pinimg.com/originals/b6/00/66/b60066a2d03348fa0174e53329776036.png){#fig:cell .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png" data-background-size="contain"}
 
-![Tipos de base e duplicações, levantados na década de 1940 por Gianfranco Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:lettura-11 .marginnote .line .nobg}
+![Tipos de base e duplicações, levantados na década de 1940 por Gianfranco Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:lettura-11 .align-right .line .nobg}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg" data-background-size="contain"}
 
-![Centuriação romana](https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg){#fig:centuriatio .marginnote}
+![Centuriação romana](https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg){#fig:centuriatio .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/85/9c/ca/859ccaa45f361cac1c2c3414659dbaaa.png"}
 
@@ -352,8 +352,8 @@ doméstico.
 A casa com pátio do Mediterrâneo ocidental se desenvolve a partir de
 duas raízes convergentes: o *oecus* primitivo feito de células espaciais
 pequenas e a combinação desse tipo com a *regia* para formar a *domus*
-romana, a morada grega ou a casa compacta do Crescente fértil
-(@fig:processo).
+romana, a morada grega ou a casa compacta do Crescente fértil.
+[@fig:processo]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Processo tipológico da casa de células até a casa-pátio. Desenho: [Giuseppe Strappa](http://www.giuseppestrappa.it/?p=1517)](https://i.pinimg.com/originals/15/5d/f6/155df6a9f3d932e6dc00fcada0f0e9a9.jpg){#fig:processo}
@@ -362,7 +362,7 @@ romana, a morada grega ou a casa compacta do Crescente fértil
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/2b/04/96/2b04961d289e5b392c2aa55fc0dfeaf4.png"}
 
-![Sete tipos edilícios. Baseado em Westfall, 1991](https://i.pinimg.com/originals/2b/04/96/2b04961d289e5b392c2aa55fc0dfeaf4.png){#fig:7types .fullwidth}
+![Sete tipos edilícios. Baseado em Westfall, 1991](https://i.pinimg.com/originals/2b/04/96/2b04961d289e5b392c2aa55fc0dfeaf4.png){#fig:7types .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/20/2d/b6/202db664aff50fae7bb755bbdc8bfa68.jpg" data-background-size="contain"}
 
@@ -370,7 +370,7 @@ romana, a morada grega ou a casa compacta do Crescente fértil
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/e4/55/64/e45564c769935f31aa6d72d1cf52494f.gif" data-background-size="contain"}
 
-![Tabernas romanas em Ostia](https://i.pinimg.com/originals/e4/55/64/e45564c769935f31aa6d72d1cf52494f.gif){#fig:tabernae-ostia .marginnote}
+![Tabernas romanas em Ostia](https://i.pinimg.com/originals/e4/55/64/e45564c769935f31aa6d72d1cf52494f.gif){#fig:tabernae-ostia .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/71/52/9b/71529b85b0c089b17295cca68e1ce39d.jpg" data-background-size="contain"}
 
@@ -386,7 +386,7 @@ romana, a morada grega ou a casa compacta do Crescente fértil
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/5c/62/72/5c62723678b10a208d7c6116142e9a44.jpg" data-background-size="contain"}
 
-![Tholos: Templo do amor, jardins de Versalhes](https://i.pinimg.com/originals/5c/62/72/5c62723678b10a208d7c6116142e9a44.jpg){#fig:tholos-amour .marginnote}
+![Tholos: Templo do amor, jardins de Versalhes](https://i.pinimg.com/originals/5c/62/72/5c62723678b10a208d7c6116142e9a44.jpg){#fig:tholos-amour .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/6f/9b/30/6f9b30a26bfd549f68007469507b7150.jpg"}
 
@@ -400,10 +400,10 @@ romana, a morada grega ou a casa compacta do Crescente fértil
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png"}
 
-![Ammaia, Lusitânia romana](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia .fullwidth}
+![Ammaia, Lusitânia romana](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png"}
 
-![Reconstituição de Ammaia](https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png){#fig:ammaia-aerea .fullwidth}
+![Reconstituição de Ammaia](https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png){#fig:ammaia-aerea .full}
 
 
