@@ -219,6 +219,48 @@ intenção dizendo com todas as letras:
 
 ![Abadia de S. Dionísio (Saint-Denis), igreja concebida pelo abade Suger e construída 1122--1151. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/saint-denis/)](https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg){#fig:sdenis-golvin}
 
+# Tecnologia e profissão # {data-background-color="#0f0"}
+
+## Ofícios ##
+
+[@fitchen:1981construction]
+
+[@bork:2011geometry]
+
+[@toker:1985gothic67]
+
+## Vocabulário da construção ##
+
+## Planejamento e preparação ##
+
+[@branner:1960villard19]
+
+[@villard:1858album]
+
+[@carreira:1997estudos]
+
+[@branner:1958drawings17]
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/29/21/e0/2921e0a5cddcb9c87574995c48c9402a.jpg" data-background-size="contain"}
+
+![Projeto para a fachada da catedral de Estrasburgo, c. 1260. [Museu da obra da catedral de Estrasburgo](http://blog.metmuseum.org/penandparchment/exhibition-images/cat380r2_49f/)](https://i.pinimg.com/originals/29/21/e0/2921e0a5cddcb9c87574995c48c9402a.jpg){#fig:strasbourg}
+
+## Execução e obras temporárias ##
+
+[@lavan:2008umayyad]
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/32/Construction.voute.romaine.png" data-background-size="contain"}
+
+![Cimbramento para uma abóbada de berço segundo [Viollet-le-Duc, 1856](https://commons.wikimedia.org/wiki/File:Construction.voute.romaine.png)](https://upload.wikimedia.org/wikipedia/commons/3/32/Construction.voute.romaine.png){#fig:viollet-rome}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AbbaziaLaLucerneCentinaVolte.JPG/1280px-AbbaziaLaLucerneCentinaVolte.JPG"}
+
+![Cimbramento para a reconstrução das abóbadas da abadia de Sainte-Trinité-de-la-Lucerne. Foto: [MM, 2010](https://commons.wikimedia.org/wiki/File:AbbaziaLaLucerneCentinaVolte.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AbbaziaLaLucerneCentinaVolte.JPG/1280px-AbbaziaLaLucerneCentinaVolte.JPG){#fig:lucerne}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg" data-background-size="contain"}
+
+![Guindaste na carpintaria de uma igreja gótica. Desenho de [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg){#fig:grue}
+
 # Espacialidade na pintura gótica #
 
 # Bibliografia {.allowframebreaks}

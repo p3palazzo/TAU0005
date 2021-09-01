@@ -1,42 +1,73 @@
 ---
-title   : "Corpo e natureza"
+title   : "Corpo e natureza: bioclimatismo"
 subtitle: "Elementos de composição"
 item    : "I"
 author  : "Pedro P. Palazzo"
 date    : 2021-09-07
 toc:
   - Arquitetura e as estações
-  - Unidade na diversidade
-  - "Três idades do homem: arquitetura para todos"
-  - "Captar e armazenar: civilizações hidráulicas no Ceilão e no Sudeste asiático"
+  - "Índia: unidade na diversidade"
+  - "Civilizações hidráulicas"
+  - "Três idades do homem"
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1280px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
-  caption: "Edwin Lord Weeks. *Vista do espelho d'água para o Templo Dourado em Amritsar*, 1883"
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
+  caption: "Edwin Lord Weeks. [*Vista do espelho d'água para o templo Dourado em Amritsar*](https://commons.wikimedia.org/wiki/File:Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg), 1883"
 title-slide-attributes:
-  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1280px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
+  data-background-position: "bottom"
 ---
 
-# {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg/1280px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg" data-background-position="top"}
+# Arquitetura e as estações # {.unlisted data-background-color="#0f0"}
 
-# Construção tradicional e meio ambiente #
-
-## {data-background-image="https://i.pinimg.com/originals/74/55/e1/7455e16ceb095d4c3abc4cd5c04457de.jpg" data-background-size="contain"}
-
-## {data-background-image="https://i.pinimg.com/originals/99/2e/4a/992e4a6fca299d47854e2a83e8641a62.jpg" data-background-size="contain"}
-
-## {data-background-image=""}
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No registro das tradições arquitetônicas ao longo do tempo, a geologia e
 o clima nas diferentes partes do mundo determinam a maior parte dos
 materiais de construção que podem ser usados num certo lugar. Já numa
 perspectiva contemporânea, onde as cadeias produtivas podem ser globais,
-podemos acrescentar uma restrição intencional: considerar o impacto
-ambiental que decorre do transporte de longa distância e o impacto
-socioeconômico de abrir mão do domínio local sobre as tecnologias da
-construção. No cenário econômico e ecológico da atualidade, escolher os
-processos produtivos da arquitetura tradicional acaba sendo um ato de
-responsabilidade ambiental e social.
+temos que levar em conta duas categorias de impactos que essas cadeias
+têm sobre a arquitetura:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.redd.it/8phjjylpo7a11.png"}
+
+![Rede de comércio marítimo global. Mapa: [Nicolas Rapp, 2012]](https://i.redd.it/8phjjylpo7a11.png){#fig:trade .full}
+
+[Nicolas Rapp, 2012]: https://nicolasrapp.com/studio/portfolio/the-shipping-news/
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Primeiro, o impacto ambiental que decorre do transporte de longa
+  distância; [@fig:trade]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/utilitas/clima/mixkit-skyscapers-roads-and-the-suburbs-in-dubai-28603-medium.mp4" data-background-video-muted="true" data-background-video-loop="true"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Segundo, o impacto socioeconômico de abrir mão do domínio local sobre
+  as tecnologias da construção em favor de uma cadeia produtiva
+  dependente de flutuações financeiras. [@fig:dubai]
+
+No cenário econômico e ecológico da
+atualidade, escolher os processos produtivos da arquitetura tradicional
+acaba sendo um ato de responsabilidade ambiental e social.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Arranha-céus em construção num subúrbio de Dubai](https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/utilitas/clima/mixkit-skyscapers-roads-and-the-suburbs-in-dubai-28603-medium.mp4){#fig:dubai}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/med-trade-scaled.jpeg"}
+
+![Redes comerciais na África, Ásia e Europa nos séculos [XI--XII]{.smallcaps}. Mapa: [Martin Månsson, 2018], v.4](https://hcommons.org/app/uploads/sites/1002372/2021/08/med-trade-scaled.jpeg){#fig:med-trade .full}
+
+[Martin Månsson, 2018]: https://imgur.com/MsXaOdV
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Redes comerciais de longa distância existem desde a idade da pedra,
+sobretudo para obter matérias-primas de importância estratégica como
+metais ou ainda para trocar produtos manufaturados de luxo, como diz o
+próprio nome da famosa Rota da Seda. [@fig:med-trade] Ainda assim, no
+que diz respeito aos insumos da vida cotiana, o abastecimento das
+sociedades tradicionais é predominantemente local.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
@@ -104,7 +135,7 @@ atribuições para se ocupar de trechos dessa cadeia que estejam fora da
 sua alçada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Bioclimatismo ##
+## Bioclimatismo ## {data-visibility="hidden"}
 
 - Bioclimatismo
 - Isolamento térmico e ventilação
@@ -112,6 +143,14 @@ sua alçada.
 - Moradas na Europa megalítica
 
 ## China ## {data-visibility="hidden"}
+
+## {data-background-image="https://i.pinimg.com/originals/74/55/e1/7455e16ceb095d4c3abc4cd5c04457de.jpg" data-background-size="contain"}
+
+<!--Vista 3D de uma casa-pátio chinesa-->
+
+## {data-background-image="https://i.pinimg.com/originals/99/2e/4a/992e4a6fca299d47854e2a83e8641a62.jpg" data-background-size="contain"}
+
+<!--Vista analítica de uma casa chinesa-->
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG" data-background-size="535px 472px"}
 
@@ -321,7 +360,7 @@ das formas de devoção
 
 <!--_,-->
 
-# Civilizações hidráulicas #
+# Civilizações hidráulicas # {.unlisted data-background-color="#0f0"}
 
 ## {.unlisted}
 
@@ -341,10 +380,10 @@ Diagrama dos ventos de monções no oceano Índico e sul da Ásia
 
 ## {.unlisted}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:ghats}
-![[maio](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointDrySeason.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MatheranPanoramaPointDrySeason.JPG/1280px-MatheranPanoramaPointDrySeason.JPG){#fig:matheran-dry .full}
+::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:ghats .r-stack}
+![[maio](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointDrySeason.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MatheranPanoramaPointDrySeason.JPG/1280px-MatheranPanoramaPointDrySeason.JPG){#fig:matheran-dry .full .fragment}
 
-![[agosto](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointMonsoon.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MatheranPanoramaPointMonsoon.JPG/1280px-MatheranPanoramaPointMonsoon.JPG){#fig:matheran-wet .full}
+![[agosto](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointMonsoon.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MatheranPanoramaPointMonsoon.JPG/1280px-MatheranPanoramaPointMonsoon.JPG){#fig:matheran-wet .full .fragment}
 
 Ciclo das monções em Panorama point, Monte Methera, Ghats ocidentais.
 Fotos: Arne Hückelheim, 2010
@@ -353,6 +392,8 @@ Fotos: Arne Hückelheim, 2010
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hinduism_Expansion_in_Asia-pt.svg/1280px-Hinduism_Expansion_in_Asia-pt.svg.png"}
 
 ![Expansão do hinduísmo na Ásia, século [I]{.smallcaps} a [XII]{.smallcaps} d.C. Mapa: [Gunawan Kartapranata, 2015](https://commons.wikimedia.org/wiki/File:Hinduism_Expansion_in_Asia-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hinduism_Expansion_in_Asia-pt.svg/1280px-Hinduism_Expansion_in_Asia-pt.svg.png){#fig:hindu-exp}
+
+## Ceilão ## {data-visibility="hidden"}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/66/45/32/664532deb9ae18436624d6ac60f269a8.jpg"}
 
@@ -386,10 +427,13 @@ Fotos: Arne Hückelheim, 2010
 
 ![Volumetria dos jardins suspensos de Kaśyapa. Modelo: [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/2c/ed/f9/2cedf9ffb64749c980a24015d9a8f12b.png){#fig:kasyapa-model}
 
+## Agricultura e comércio internacional ## {data-visibility="hidden"}
+
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Austronesian_maritime_trade_network_in_the_Indian_Ocean.png/1280px-Austronesian_maritime_trade_network_in_the_Indian_Ocean.png" data-background-size="contain"}
 
-[O desenvolvimento político e econômico do Sudeste
-asiático]{.newthought} entre os séculos [IX]{.smallcaps} e
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O desenvolvimento político e econômico do Sudeste
+asiático entre os séculos [IX]{.smallcaps} e
 [XIV]{.smallcaps} se deve em parte a um período de aquecimento global.
 Esse período de aquecimento deslocou as redes comerciais da Ásia da rota
 terrestre da Seda, que passava pelos desertos da Ásia central, para os
@@ -397,6 +441,7 @@ percursos marítimos do oceano Índico. [@fig:austro-trade] Além disso,
 esse período está associado à queda da dinastia Tang na China, que
 dependia do comércio na rota da Seda e do abastecimento em
 matérias-primas da Ásia central.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Rede comercial marítima dos povos austronésios. Mapa: [Obsidian Soul, 2019](https://commons.wikimedia.org/wiki/File:Austronesian_maritime_trade_network_in_the_Indian_Ocean.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Austronesian_maritime_trade_network_in_the_Indian_Ocean.png/1280px-Austronesian_maritime_trade_network_in_the_Indian_Ocean.png){#fig:austro-trade}
 
@@ -406,14 +451,16 @@ matérias-primas da Ásia central.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/06/Map_of_the_Tea-Horse_road.png" data-background-size="contain"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse processo permitiu a ascensão da dinastia Chola no sul da Índia como
 a primeira potência marítima e mercante da região. [@fig:asia-12]
 Enquanto isso, na China, a dinastia Song se abria para o sul, para
 controlar o abastecimento em dois insumos que estavam se tornando
 essenciais para a subsistência e o modo de vida dos chineses: o chá e o
 arroz. A chamada "antiga rota do chá" ou "rota do chá e dos cavalos"
-(@fig:tea-horse) dava acesso às plantações do sudoeste da China e do
+[@fig:tea-horse] dava acesso às plantações do sudoeste da China e do
 reino de Dali.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Antiga rota do chá entre a China, a Índia e o Sudeste asiático. Mapa: [Redgeographics, 2017](https://commons.wikimedia.org/wiki/File:Map_of_the_Tea-Horse_road.png)](https://upload.wikimedia.org/wikipedia/commons/0/06/Map_of_the_Tea-Horse_road.png){#fig:tea-horse}
 
@@ -423,12 +470,14 @@ reino de Dali.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg" data-background-size="contain"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A antiga rota do chá era um sistema de caminhos de montanha,
 [@fig:yu-my] praticáveis só para carregadores pedestres, cavalos e
 mulas ([@fig:chenyao; @fig:porters]). Ela permitia o escambo de chá
 chinês por cavalos tibetanos e o comércio de tecidos de seda chinesa e
 algodão bengalês --- dois produtos manufaturados que eram exportados
 para toda a Ásia, África e Europa.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Antiga rota do chá em Chenyao, China. Foto: [Nekitarc, 2017](https://commons.wikimedia.org/wiki/File:衬腰岩茶马古道照片.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg){#fig:chenyao .align-right}
 
@@ -440,6 +489,7 @@ para toda a Ásia, África e Europa.
 
 ![Plantação de arroz em Wuli, Yunnan. Foto: [Xing Fangyu, 2020](https://news.cgtn.com/news/2020-08-22/Explore-the-ancient-Tea-Horse-Road-in-Wuli-Village-Ta6xRDLvJ6/index.html)](https://i.pinimg.com/originals/ae/cb/e5/aecbe5513a24ac16161a0d021d7fbec2.jpg){#fig:wuli .full}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Com o aumento do comércio, a partir do século [IX]{.smallcaps}, a
 população do sul da China foi se urbanizando. Isso gerava demanda por
 abastecimento em grande escala. As regiões de monções se especializaram
@@ -452,10 +502,14 @@ global permitindo o aumento da produtividade agrícola --- gera uma
 economia do excedente agrário no Sudeste asiático. O comércio de longa
 distância nesse sistema é predominantemente baseado no escambo. Na
 ausência de moeda, o arroz é trocado sobretudo por artigos de luxo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Império Khmer ## {data-visibility="hidden"}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Khmer_Empire_Expansion.png/1280px-Khmer_Empire_Expansion.png"}
 
-[O império Khmer]{.newthought} é um estado que se estabeleceu e se
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O império Khmer é um estado que se estabeleceu e se
 expandiu na onda da economia agroexportadora. [@fig:khmer-exp] Ele foi
 um estado altamente especializado: os seus objetivos eram produzir arroz
 para o mercado externo e controlar os percursos de escoamento da
@@ -465,11 +519,13 @@ sistema agroexportador vinha da centralização política; essa
 centralização, por sua vez, era mantida tanto pela capacidade de o
 sistema alimentar a própria população local, quanto pela afirmação
 simbólica da legitimidade dos reis khmeres.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Expansão do império Khmer. Mapa: [Thames Mapping, 2021](https://commons.wikimedia.org/wiki/File:Khmer_Empire_Expansion.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Khmer_Empire_Expansion.png/1280px-Khmer_Empire_Expansion.png){#fig:khmer-exp}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hinduism_Expansion_in_Asia-pt.svg/1280px-Hinduism_Expansion_in_Asia-pt.svg.png"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A legitimidade simbólica da realeza khmer estava atrelada à expansão do
 hinduísmo no Sudeste asiático (ver [@fig:hindu-exp](#fig:hindu-exp)) e
 ao conceito de direito divino da monarquia que se articulava no diálogo
@@ -479,6 +535,7 @@ obtenção de artigos de luxo por meio do comércio --- sobretudo seda,
 ouro e pedras preciosas [@fig:khmer-king] ---, e por outro lado à
 construção e manutenção de complexos monumentais de templos associados a
 palácios. [@fig:angkor-vid]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/09/8f/20/098f208939f3a7df8c16d0efa7ca79ad.jpg" data-background-size="contain"}
 
@@ -490,11 +547,14 @@ palácios. [@fig:angkor-vid]
 
 <!--_,-->
 
+## Angkor ## {data-visibility="hidden"}
+
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/22/c1/d5/22c1d558443827a8dc08c5b068ce78ce.jpg" data-background-position="top"}
 
 ![Sistema de canais e reservatórios de Angkor no período imperial. National Geographic](https://i.pinimg.com/originals/22/c1/d5/22c1d558443827a8dc08c5b068ce78ce.jpg){#fig:angkor-canals .full}
 
-[A capital khmer em Angkor]{.smallcaps} cumpria ao mesmo tempo todas as
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A capital khmer em Angkor cumpria ao mesmo tempo todas as
 funções de legitimação e manutenção do poder político centralizado.
 Antes de mais nada, a cidade foi escolhida para ser o centro de uma área
 extensa de arrozais irrigados, aberta no meio da floresta.
@@ -502,6 +562,7 @@ extensa de arrozais irrigados, aberta no meio da floresta.
 Lago era estratégica: as chuvas de monção fazem o volume do rio Mekong
 aumentar tanto que o sentido do curso do próprio lago se inverte,
 alagando a planície em volta dele. [@fig:tonle-sap]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/96/72/ce/9672ce84c9bb2d7265c8c135b642ae20.png"}
 
@@ -511,6 +572,7 @@ alagando a planície em volta dele. [@fig:tonle-sap]
 
 ![Tanque de água em Angkor Wat. Foto: [Luis Bartolomé Marcos, 2014](https://commons.wikimedia.org/wiki/File:Angkor_Wat_reflejado_en_un_estanque_01.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Angkor_Wat_reflejado_en_un_estanque_01.jpg/1280px-Angkor_Wat_reflejado_en_un_estanque_01.jpg){#fig:angkor-pond .full}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A razão de ser da cidade era capturar os benefícios desse alagamento.
 Ele permitia fazer três colheitas de arroz por ano: uma colheita do
 arroz que crescia na região alagada, outra colheita em campos que podiam
@@ -521,11 +583,13 @@ dimensionados e tinham um sistema de comportas. Durante a estação das
 chuvas, a cheia do lago alimentava os tanques; na estação seca, as
 comportas eram abertas e a água armazenada nos reservatórios era usada
 para irrigar os campos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/99/10/48/9910484c36aca42b76f47bcc136241e2.jpg"}
 
 ![Vrah Vishnulok, o centro administrativo e religioso de Angkor, formado por Angkor Wat e Angkor Thom](https://i.pinimg.com/originals/99/10/48/9910484c36aca42b76f47bcc136241e2.jpg){#fig:vrah-vishnulok}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A cidade de Vrah Vishnulok [@fig:vrah-vishnulok] ficava no centro desse
 sistema. O complexo palaciano, conhecido hoje como Angkor Thom, ficava
 diretamente entre os dois maiores *baray*. Ao sul está Angkor Wat, o
@@ -534,9 +598,11 @@ Angkor Thom não são só elementos ornamentais ou de proteção, mas também
 faziam parte do sistema de gestão da água. A inserção da cidade
 administrativa no seu conjunto só passou a ser melhor compreendida
 recentemente.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/f9/26/8d/f9268d83cdb74c50fd1cc0bfac847d66.jpg" data-background-position="bottom"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Até o começo do século [XX]{.smallcaps}, os arqueólogos acreditavam que
 Vrah Vishnulok era um complexo religioso--administrativo isolado no meio
 de uma vasta zona totalmente rural, como mostra a reconstituição da
@@ -553,6 +619,7 @@ era todo ele uma imensa urbanização de baixa densidade, uma espécie de
 cidade-jardim, onde as atividades agrícolas, artesanais, comerciais,
 administrativas e religiosas aconteciam de modo distribuído por todo o
 território. [@fig:angkor-general]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Levantamento por LiDAR da área em torno de Angkor Wat. [Evans e Fletcher, 2015](https://www.cambridge.org/core/journals/antiquity/article/landscape-of-angkor-wat-redefined/F3F0731A514E338A76DA8A906458A890#)](https://i.pinimg.com/originals/f9/26/8d/f9268d83cdb74c50fd1cc0bfac847d66.jpg){#fig:angkor-wat-ponds}
 
@@ -562,7 +629,8 @@ território. [@fig:angkor-general]
 
 ## {.unlisted data-background-image="http://3.bp.blogspot.com/-NFynrCXSBXk/UugVwZb3riI/AAAAAAAABgo/4V1kr9oIMcQ/s1600/winter+is+coming_stark.gif"}
 
-[Assim como o império Khmer ascendeu]{.newthought} no século
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Assim como o império Khmer ascendeu no século
 [IX]{.smallcaps} graças ao aquecimento global e à demanda crescente por
 arroz no sul da China, ele entrou em declínio no século
 [XIV]{.smallcaps} com o início de um período de resfriamento global
@@ -574,6 +642,9 @@ poder econômico e militar dos reis decaiu. No século [XV]{.smallcaps}, o
 império Khmer foi conquistado pelo reino de Sião --- a atual Tailândia
 ---, uma sociedade guerreira que não dependia de grandes redes
 comerciais.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Três idades do homem # {.unlisted data-background-color="#0f0"}
 
 # Bibliografia {.allowframebreaks} #
 
