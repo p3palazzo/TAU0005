@@ -1,7 +1,7 @@
 ---
 title: "História da Arquitetura e da Arte I"
 subtitle: "TAU 0005 turma C primeiro semestre letivo de 2021"
-author: "Professores: Pedro P. Palazzo e Irina Oliveira <br /> Monitores: Nathália Alves Bonfim e Roberta Inglês Vieira"
+author: "Professores: Pedro P. Palazzo e Irina Oliveira <br /> Monitoras: Nathália Alves Bonfim e Roberta Inglês Vieira"
 abstract: >
   História do urbanismo, da arquitetura e da arte no contexto de seus
   condicionantes sociais, econômicos e políticos, desde os primórdios da
@@ -10,7 +10,13 @@ read_time: false
 toc: false
 ---
 
-# Antes de começar #
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
+> História do urbanismo, da arquitetura e da arte no contexto de seus
+> condicionantes sociais, econômicos e políticos, desde os primórdios da
+> civilização até o gótico.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+# Antes de começar # {.unlisted}
 
 1. [Por que estudar história da arquitetura ?](_plano/por-que-historia.md)
 2. [Como estudamos história na FAU–UnB ?](_plano/sobre-disciplina.md)
