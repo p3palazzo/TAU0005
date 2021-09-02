@@ -17,7 +17,7 @@ title-slide-attributes:
   data-background-position: "bottom"
 ---
 
-# Arquitetura e as estações # {.unlisted data-background-color="#0f0"}
+# Arquitetura em climas extremos # {.unlisted data-background-color="#0f0"}
 
 ## {.unlisted data-background-color="#0f0"}
 
@@ -70,7 +70,7 @@ que diz respeito aos insumos da vida cotiana, o abastecimento das
 sociedades tradicionais é predominantemente local.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://cdn.palazzo.arq.br/utilitas/clima/mixkit-craftsman-carving-wood-20438-medium.mp4"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O acesso a recursos naturais disponíveis na região é o ponto de partida
@@ -83,7 +83,11 @@ processo construtivo e resultam naquilo que chamamos mais
 superficialmente de o *estilo* característico de cada tradição.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/0/08/Осінь_в_карпатах.webm" data-background-vide-muted="true" data-background-video-loop="true"}
+
+![Reserva da biosfera dos Cárpatos, Ucrânia. Filmagem: [Sergij Kovaljov, 2019]](https://upload.wikimedia.org/wikipedia/commons/0/08/Осінь_в_карпатах.webm){#fig:karpat}
+
+[Sergij Kovaljov, 2019]: https://commons.wikimedia.org/wiki/File:Осінь_в_карпатах.webm
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para além de se servir dos materiais extraídos da natureza, uma tradição
@@ -93,7 +97,7 @@ nos sistemas construtivos mas também na agricultura e na pecuária talvez
 tenham a ver com o desmatamento das encostas montanhosas que formam o
 perímetro exterior do Crescente fértil. Reflorestar, mas também extrair
 e processar minérios com prudência, têm que ser preocupações centrais no
-processo produtivo.
+processo produtivo. [@fig:karpat]
 
 Em quase todas as cadeias da construção, existe um certo distanciamento
 entre, de um lado, a extração e o processamento dos materiais e, do
@@ -135,14 +139,166 @@ atribuições para se ocupar de trechos dessa cadeia que estejam fora da
 sua alçada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Bioclimatismo ## {data-visibility="hidden"}
+# Três idades do homem # {.unlisted data-background-color="#0f0"}
 
-- Bioclimatismo
-- Isolamento térmico e ventilação
-- Casas-pátio na Mesopotâmia e no Egito
-- Moradas na Europa megalítica
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A casa como abrigo bem-temperado para pessoas de todas as idades.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## China ## {data-visibility="hidden"}
+## Casas semienterradas ## {data-visibility="hidden"}
+
+## {.unlisted data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Já falamos das casa semienterradas do ponto de vista da construção com
+terra e da definição do espaço. Mas escavar uma habitação na terra é
+também o modo mais eficiente de conseguir um bom isolamento térmico.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A aldeia neolítica de Skara Brae, no mar do Norte, é um exemplo de
+adaptação a um clima frio e úmido, com muito vento. O conjunto parece
+uma aldeia de *hobbits*, com casas que parecem ter sido escavadas dentro
+da encosta da ilha. [@fig:skb-scan]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Planta da aldeia neolítica de Skara Brae, ilhas Órcades, Escócia, 3100--2800 a.C. Desenho adaptado de V. Gordon Childe, 1930](https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg){#fig:skb-plan}
+
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/Skara_Brae-Inside_House_7-Rlkjf-i5_Qw-1080p-24fps.webm" data-background-video-muted="true"}
+
+:::::::::::::::::::::::::::::::::::::::: {.iframe-wrapper #fig:skb-scan}
+<iframe src="https://www.youtube-nocookie.com/embed/Rlkjf-i5_Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Modelo tridimensional da casa 7 em Skara Brae, 3100--2800 a.C.
+[Historic Environment Scotland, 2021](https://youtu.be/Rlkjf-i5_Qw)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Cada casa tem uma câmara principal com
+algumas células satélites; todas as casas se articulam em volta de um
+corredor central, e o conjunto é coberto por um terrapleno
+apoiado em vigas de madeira. A única fonte de iluminação direta era uma
+abertura zenital, que também servia de exaustor.
+[@fig:skb-plan;@fig:skb-art]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png"}
+
+![Reconstituição da aldeia de Skara Brae vista desde o pátio de acesso ao corredor](https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png){#fig:skb-art .align-right}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/2560px-Skara_Brae_Beds.jpg"}
+
+![Câmara de uma casa em Skara Brae, com lar central e três plataformas contra as paredes, célula satélie ao fundo. Foto: [Archaeology Scotland, 2013]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/1280px-Skara_Brae_Beds.jpg){#fig:skb-int}
+
+[Archaeology Scotland, 2013]: https://commons.wikimedia.org/wiki/File:Skara_Brae_Beds.jpg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O espaço interno ficava bem isolado do frio, e a umidade era retirada
+pelo fogo sempre aceso na lareira central.
+[@fig:skb-int]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/b2/3d/a4/b23da416cd5201b79654a6fd78a0f280.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O interior das casas era bastante escuro já que não havia janelas, só a
+abertura da chaminé no teto. Essa configuração deixa claro que as
+prioridades da arquitetura de Skara Brae eram o isolamento térmico e a
+proteção contra o vento. [@fig:skb-dark]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Reconstituição da câmara de uma casa em Skara Brae com a sua cobertura. Foto: [Orkneyology]](https://i.pinimg.com/originals/b2/3d/a4/b23da416cd5201b79654a6fd78a0f280.jpg){#fig:skb-dark}
+
+[Orkneyology]: https://www.orkneyology.com/skara-brae.html
+
+## Ásia oriental ## {data-visibility="hidden"}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg" data-background-position="right"}
+
+![Regiões biogeográficas segundo Alfred Rusell Wallace, 1876. A China atravessa a divisa entre as regiões Paleártica e Oriental](https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg){#fig:wallace .full}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O universo geográfico e cultural chinês fica no cruzamento entre dois
+reinos biogeográficos. [@fig:wallace]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://commons.wikimedia.org/wiki/File:China_Köppen.svg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essa mistura de condições resultou numa tradição que se adaptava com
+facilidade a diferentes condições climáticas, de vegetação e outros
+recursos naturais, e consequentemente a modos de vida muito variados.
+[@fig:cn-koeppen]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Biomas de vegetação natural da China. [Adam Peterson, 2016](https://commons.wikimedia.org/wiki/File:China_Köppen.svg). O centro cultural da China, onde foi situada a maior parte das suas capitais históricas, está no limiar entre a região de florestas temperadas, onde se cultiva arroz, e a de estepes semiáridas, onde se cultivam cereais](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/China_Köppen.svg/1152px-China_Köppen.svg.png){#fig:cn-koeppen}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG" data-background-size="contain"}
+
+![Área de influência cultural chinesa no século [VII]{.smallcaps} d.C. Desenho: [Brian Gotts, 2007]](https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG){#fig:tang-influence .align-right}
+
+[Brian Gotts, 2007]: https://commons.wikimedia.org/wiki/File:Tang_dynasty1.PNG
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O mundo influenciado pela cultura chinesa se estendia, no seu auge
+durante o século [VII]{.smallcaps} d.C., [@fig:tang-influence] do
+Turquestão ao Japão e da Manchúria à Indochina.
+[@liang:1984pictorial, 21]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted}
+
+:::::::::::::::::::::::::::::::::::::::::::: {#fig:banpo .columns .full}
+::: {.column width=50%}
+![vista isométrica seccionada](https://hcommons.org/app/uploads/sites/1002372/2021/09/cjp01.8a.png){#fig:banpoA .line}
+:::
+::: {.column width=50%}
+![corte longitudinal](https://hcommons.org/app/uploads/sites/1002372/2021/09/cjp01.8b.png){#fig:banpoB .line}
+:::
+Salão comunal semienterrado em Banpö, oeste da China, c. 4500 a.C. Desenho: Francis D.K. Ching
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/ce/51/bc/ce51bcfc1ca839b7e5f4b5e1f8414288.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No Japão, as casas semienterradas aparecem desde o final do Paleolítico
+[@kawashima:2011burial38], e são cobertas com uma estrutura em madeira
+revestida com casca de árvore. [@fig:jomon-diagram; @fig:jomon-detail]
+Esse tipo continua dominante na habitação rural japonesa, com alguns
+aprimoramentos, até o século [XVI]{.smallcaps} d.C.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Diagrama de uma casa semienterrada, período Jōmon tardio, Japão, últimos séculos a.C. [Kawashima, 2011](https://doi.org/10.4312/dp.38.9)](https://i.pinimg.com/originals/ce/51/bc/ce51bcfc1ca839b7e5f4b5e1f8414288.png){#fig:jomon-diagram .line .align-right}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png" data-background-size="contain"}
+
+![Detalhe da estrutura de uma casa semienterrada, período Jōmon tardio](https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png){#fig:jomon-detail .line}
+
+## Casas-pátio ## {data-visibility="hidden"}
+
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/lk-urban-suburban.png" data-background-size="contain"}
+
+![Léon Krier, ocupação urbana e suburbana de um lote](https://hcommons.org/app/uploads/sites/1002372/2021/09/lk-urban-suburban.png){#fig:lk-suburban .line}
+
+## Mediterrâneo ## {data-visibility="hidden"}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/91/ce/a4/91cea462fcb16e57fc8c9545b8bf649c.jpg" data-background-position="left"}
+
+![Trecho da malha urbana de Ur, antiga Suméria, [III]{.smallcaps} milênio a.C.](https://i.pinimg.com/originals/91/ce/a4/91cea462fcb16e57fc8c9545b8bf649c.jpg){#fig:ur-fabric .full .line}
+
+## Ventilação cruzada ##
+
+Malásia
+
+## China: casas-pátio polivalentes ## {data-visbility="hidden"}
+
+## {.unlisted data-background-image="https://live.staticflickr.com/7525/16154891306_914cf237a7_o_d.jpg"}
+
+![Diorama da cidade de Linxi, dinastia Shang. Foto: [1001 Silk Roads, 2010]](https://live.staticflickr.com/7525/16154891306_914cf237a7_o_d.jpg){#fig:linxi}
+
+[1001 Silk Roads, 2010]: https://www.flickr.com/photos/32922157@N00/16154891306
 
 ## {data-background-image="https://i.pinimg.com/originals/74/55/e1/7455e16ceb095d4c3abc4cd5c04457de.jpg" data-background-size="contain"}
 
@@ -151,29 +307,6 @@ sua alçada.
 ## {data-background-image="https://i.pinimg.com/originals/99/2e/4a/992e4a6fca299d47854e2a83e8641a62.jpg" data-background-size="contain"}
 
 <!--Vista analítica de uma casa chinesa-->
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG" data-background-size="535px 472px"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O mundo influenciado pela cultura chinesa se estendia, no seu auge
-durante o século [VII]{.smallcaps} d.C., [@fig:tang-influence] do
-Turquestão ao Japão e da
-Manchúria à Indochina. [@liang:1984pictorial, 21] O centro irradiador da
-cultura chinesa ficava no cruzamento entre duas grandes zonas climáticas
-e dois reinos biogeográficos. [@fig:wallace; @fig:cn-koeppen] Essa
-mistura de condições resultou numa tradição que se adaptava com
-facilidade a diferentes regiões e modos de vida.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Área de influência cultural chinesa no século [VII]{.smallcaps} d.C. Desenho: [Brian Gotts, 2007](https://commons.wikimedia.org/wiki/File:Tang_dynasty1.PNG)](https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG){#fig:tang-influence .align-right}
-
-## {data-background-image="https://commons.wikimedia.org/wiki/File:China_Köppen.svg"}
-
-![Biomas de vegetação natural da China. [Adam Peterson, 2016](https://commons.wikimedia.org/wiki/File:China_Köppen.svg). O centro cultural da China, onde foi situada a maior parte das suas capitais históricas, está no limiar entre a região de florestas temperadas, onde se cultiva arroz, e a de estepes semiáridas, onde se cultivam cereais](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/China_Köppen.svg/1152px-China_Köppen.svg.png){#fig:cn-koeppen}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg" data-background-position="right"}
-
-![Regiões biogeográficas segundo Alfred Rusell Wallace, 1876. A China atravessa a divisa entre as regiões Paleártica e Oriental](https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg){#fig:wallace .full}
 
 # Índia: unidade na diversidade # {data-background-color="#0f0"}
 
@@ -198,9 +331,9 @@ verdadeira.
 ![Percy Brown (1872--1955) com o artista caxemirí D.N. Walli](https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg){#fig:brown-walli .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Essa era a opinião do historiador da arte inglês Percy Brown,
-[@fig:brown-walli] um dos pioneiros no estudo das origens da
-arquitetura monumental na Índia. Para Brown:
+Essa era a opinião do historiador da arte anglo-indiano Percy Brown,
+[@fig:brown-walli] um dos pioneiros no estudo das origens da arquitetura
+monumental na Índia. Para Brown:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 . . .
@@ -245,22 +378,19 @@ linguístico indo-europeu; eles deram origem às sociedades e aos dialetos
 do norte da Índia e da Pérsia antiga).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png" data-background-size="contain"}
+## {.unlisted data-background-image="https://i.pinimg.com/originals/34/f5/76/34f576ebaf453f793f101148a2d841a0.png" data-background-size="contain"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
 ![Civilização do vale do rio Indo, fase central. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png){#fig:indus-mature}
-:::
-::: {.column width=50%}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Migrações arianas no período védico inicial. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Early_Vedic_Culture_(1700-1100_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/57/Early_Vedic_Culture_(1700-1100_BCE).png){#fig:early-vedic width="50%"}
-
-![Reinos nāgara do período védico tardio. Os territórios ao sul da área sombreada correspondem em linhas gerais à cultura dravídica. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Late_Vedic_Culture_(1100-500_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_(1100-500_BCE).png){#fig:late-vedic width="50%"}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
+::: {.column width=50%}
+![Migrações arianas no período védico inicial. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Early_Vedic_Culture_(1700-1100_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/57/Early_Vedic_Culture_(1700-1100_BCE).png){#fig:early-vedic}
+:::
+::: {.column width=50%}
+![Reinos nāgara do período védico tardio. Os territórios ao sul da área sombreada correspondem em linhas gerais à cultura dravídica. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Late_Vedic_Culture_(1100-500_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_(1100-500_BCE).png){#fig:late-vedic}
+:::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -287,7 +417,7 @@ iogue. Coomaraswamy chegou a identificar essa figura com o deus
 hinduísta Shiva, mas essa identidade não é amplamente reconhecida. Um
 argumento mais convincente é a continuidade da cultura urbana no norte
 da Índia entre o declínio das cidades do vale do rio Indo, por volta de
-1300 a.C. [fig:indus-mature], e a ascensão das cidades na planície
+1300 a.C. [@fig:indus-mature], e a ascensão das cidades na planície
 ocidental dos rios Ganges e Yamuna, [@fig:pgw] que correspondem ao
 período e à região das sociedades védicas antigas
 [@kenoyer:1995interaction].
@@ -299,16 +429,18 @@ período e à região das sociedades védicas antigas
 
 ## {.unlisted}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
+::: {.column width=47%}
 ![Dançarina dita "dravídica", Mohenjo-Dāro, 2300--1750 a.C. Bronze, 10,8 cm de altura. [Museu Nacional, Nova Déli](https://commons.wikimedia.org/wiki/File:Dancing_girl_of_Mohenjo-daro.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dancing_girl_of_Mohenjo-daro.jpg/657px-Dancing_girl_of_Mohenjo-daro.jpg){#fig:dravidian-dancer}
 :::
-::: {.column width=50%}
+::: {.column width=53%}
 ![Estatueta dita do rei--sacerdote ou sacerdote "ariano", Mohenjo-Dāro, 2400--1900 a.C. Pedra-sabão cozida, 17,5 cm de altura. [Museu Nacional do Paquistão, Karachī](https://commons.wikimedia.org/wiki/File:Mohenjo-daro_Priesterkönig.jpeg)](https://i.pinimg.com/originals/1e/9e/b3/1e9eb357b7e3488ff55719d1373f3924.jpg){#fig:aryan-priest}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+
 Duas estátuas muito pequenas, escavadas em Mohenjo-Dāro, acabaram se
 tornando o fulcro do debate sobre a unidade da cultura indiana. Uma
 delas [@fig:dravidian-dancer] é em bronze não polido, portanto negra, e
@@ -364,7 +496,7 @@ das formas de devoção
 
 ## {.unlisted}
 
-:::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:monsoon}
+:::::::::::::::::::::::::::::::::::::::::: {.columns #fig:monsoon .full}
 ::: {.column width=50%}
 ![verão](https://i.pinimg.com/originals/f6/c5/71/f6c571941eb1d9071cf2e8564e80003f.jpg){#fig:monsoon-summer}
 :::
@@ -644,10 +776,5 @@ império Khmer foi conquistado pelo reino de Sião --- a atual Tailândia
 comerciais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Três idades do homem # {.unlisted data-background-color="#0f0"}
-
-# Bibliografia {.allowframebreaks} #
-
-::: {#refs}
-:::
+# Bibliografia # {.allowframebreaks}
 
