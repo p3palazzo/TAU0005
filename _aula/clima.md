@@ -3,7 +3,12 @@ title   : "Corpo e natureza: bioclimatismo"
 subtitle: "Elementos de composição"
 item    : "I"
 author  : "Pedro P. Palazzo"
-date    : 2021-09-09
+date    : 2021-09-07
+toc:
+  - Arquitetura em climas extremos
+  - "Três idades do homem"
+  - "Índia: unidade na diversidade"
+  - "Civilizações hidráulicas"
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
   caption: "Edwin Lord Weeks. [*Vista do espelho d'água para o templo Dourado em Amritsar*](https://commons.wikimedia.org/wiki/File:Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg), 1883"

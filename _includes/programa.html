@@ -1,6 +1,3 @@
-<div class="marginnote-directions">
-  No celular, toque no alvo ⊕ para mostrar as datas.
-</div>
 
 <section id="programa" class="level2">
   <ol type="I">
@@ -17,12 +14,10 @@
           <a href="{{ aula.url | prepend: site.baseurl }}">{{ aula.title }}</a>
         </dt>
         <dd>
+          <div class="align-right">
+            {{ aula.date | date: "%d/%m" }}<br />
+          </div>
           <p>
-            <span class="sidenote-wrapper">
-              <label for="sn-{{ forloop.index0 }}" class="margin-toggle">⊕</label>
-              <input type="checkbox" id="sn-{{ forloop.index0 }}" class="margin-toggle">
-              <span class="marginnote">{{ aula.date | date: "%d/%m" }}<br /><br /></span>
-            </span>
             {%- for topic in aula.toc -%}
               {{ topic }} {% unless forloop.last %} &mdash; {% endunless %}
             {%- endfor -%}
@@ -39,12 +34,10 @@
             <a href="{{ trab.url | prepend: site.baseurl }}">{{ trab.item }}</a>
           </dt>
           <dd>
+            <div class="align-right">
+               Entrega <br /> {{ trab.date | date: "%d/%m" }}<br />
+            </div>
             <p>
-              <span class="sidenote-wrapper">
-                <label for="sn-{{ forloop.index0 }}-trab" class="margin-toggle">⊕</label>
-                <input type="checkbox" id="sn-{{ forloop.index0 }}-trab" class="margin-toggle">
-                <span class="marginnote"> Entrega <br /> {{ trab.date | date: "%d/%m" }}<br /><br /></span>
-              </span>
               {{ trab.title }}
             </p>
           </dd>
