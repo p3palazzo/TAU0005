@@ -1197,5 +1197,5 @@ só funciona à compressão pura. Isso quer dizer que o seu alinhamento
 estrutural precisa sempre ser mais largo em baixo e mais estreito em
 cima, nunca o contrário. [@fig:porteafaux]
 
-# Bibliografia {.allowframebreaks}
+# Bibliografia {.unlisted .allowframebreaks}
 

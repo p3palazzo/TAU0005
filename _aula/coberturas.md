@@ -708,5 +708,5 @@ Construção de um sistema de mísulas chinesas. Carpintaria: [Richard Wiborg, 2
 
 [Roede, 1989]: https://commons.wikimedia.org/wiki/File:Torvtak_5.png
 
-# Referências {.allowframebreaks}
+# Bibliografia {.unlisted .allowframebreaks}
 
