@@ -366,7 +366,7 @@ sedimentação e sobreposição de novas ruas. [@fig:firenze]
 
 ![Esquema de um feudo medieval, em [William R. Shepherd, *Historical Atlas*, 1923](https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plan_mediaeval_manor.jpg/693px-Plan_mediaeval_manor.jpg){#fig:manor}
 
-# Bibliografia {.allowframebreaks}
+# Bibliografia {.unlisted .allowframebreaks}
 
 <!--
 
