@@ -928,5 +928,5 @@ A combinação desses diferentes avanços tecnológicos permite o aumento na
 altura das igrejas góticas ao longo do século [XIII]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Bibliografia {.allowframebreaks}
+# Bibliografia {.unlisted .allowframebreaks}
 

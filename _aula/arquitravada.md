@@ -1008,5 +1008,5 @@ como essa lógica é diferente da construção murária --- feita de paredes
 portantes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Bibliografia {.allowframebreaks}
+# Bibliografia {.unlisted .allowframebreaks}
 

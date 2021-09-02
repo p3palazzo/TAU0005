@@ -1759,5 +1759,5 @@ história.
 
 ![Le Corbusier, paralelos de desenvolvimento do estilo entre os templos gregos e os automóveis do início do século [XX]{.smallcaps}](https://i.pinimg.com/originals/94/9c/0e/949c0ebc1c773100b91ec38aa84dd32a.jpg){#fig:temple-auto}
 
-# Bibliografia {.allowframebreaks}
+# Bibliografia {.unlisted .allowframebreaks}
 

@@ -263,5 +263,5 @@ intenção dizendo com todas as letras:
 
 # Espacialidade na pintura gótica #
 
-# Bibliografia {.allowframebreaks}
+# Bibliografia {.unlisted .allowframebreaks}
 
