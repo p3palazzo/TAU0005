@@ -42,7 +42,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Corpo e natureza: bioclimatismo",
-        "excerpt":"Arquitetura e as estações No registro das tradições arquitetônicas ao longo do tempo, a geologia e o clima nas diferentes partes do mundo determinam a maior parte dos materiais de construção que podem ser usados num certo lugar. Já numa perspectiva contemporânea, onde as cadeias produtivas podem ser globais, temos...","categories": [],
+        "excerpt":"Arquitetura em climas extremos No registro das tradições arquitetônicas ao longo do tempo, a geologia e o clima nas diferentes partes do mundo determinam a maior parte dos materiais de construção que podem ser usados num certo lugar. Já numa perspectiva contemporânea, onde as cadeias produtivas podem ser globais, temos...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/clima/",
         "teaser": null
