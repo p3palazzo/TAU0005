@@ -1,0 +1,11 @@
+$if(toc)$
+<aside class="sidebar sticky">
+  <nav class="toc epigraph">
+    <blockquote><p>
+    $table-of-contents$
+    </p></blockquote>
+  </nav>
+</aside>
+$endif$
+
+$body$

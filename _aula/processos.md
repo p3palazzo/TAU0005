@@ -1388,5 +1388,5 @@ tradicional. É a partir desse arquétipo que vamos analisar, na
 sequência, a construção arquitravada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Bibliografia {.allowframebreaks}
+# Bibliografia {.unlisted .allowframebreaks}
 
