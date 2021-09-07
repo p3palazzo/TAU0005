@@ -1065,7 +1065,7 @@ orientadas aproximadamente na direção leste--oeste.
 ![Locação junto à baía de Mutsu, atual município de Aomori, Japão](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-loc.png){#fig:sannai-mutsu}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-![Corte do sítio reconstituído](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-540.png){#fig:sannai-sec .full}
+![Corte do sítio reconstituído](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-540.png){#fig:sannai-sec}
 
 Esquema do sítio arqueológico de Sannai Maruyama, cultura Jōmon, 3900--2300 a.C.
 :::
