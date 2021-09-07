@@ -42,7 +42,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Corpo e natureza: bioclimatismo",
-        "excerpt":"Arquitetura em climas extremos Três idades do homem Índia: unidade na diversidade Civilizações hidráulicas Arquitetura em climas extremos No registro das tradições arquitetônicas ao longo do tempo, a geologia e o clima nas diferentes partes do mundo determinam a maior parte dos materiais de construção que podem ser usados num...","categories": [],
+        "excerpt":"Arquitetura em climas extremos Estratégias de ventilação Índia: unidade na diversidade Civilizações hidráulicas Arquitetura em climas extremos No registro das tradições arquitetônicas ao longo do tempo, a geologia e o clima nas diferentes partes do mundo determinam a maior parte dos materiais de construção que podem ser usados num certo...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/clima/",
         "teaser": null
