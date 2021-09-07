@@ -1,0 +1,9 @@
+$if(toc)$
+<aside class="sidebar__right">
+  <nav class="toc">
+    $table-of-contents$
+  </nav>
+</aside>
+$endif$
+
+$body$
