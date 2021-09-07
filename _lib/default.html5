@@ -1,9 +1,7 @@
 $if(toc)$
-<aside class="sidebar sticky">
-  <nav class="toc epigraph">
-    <blockquote><p>
+<aside class="sidebar__right">
+  <nav class="toc">
     $table-of-contents$
-    </p></blockquote>
   </nav>
 </aside>
 $endif$
