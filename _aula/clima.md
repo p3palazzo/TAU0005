@@ -319,20 +319,6 @@ aprimoramentos, até o século [XVI]{.smallcaps} d.C.
 
 ## Mediterrâneo ## {data-visibility="hidden"}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/96/23/5c/96235cdaade74213f55330def2e9c900.png" data-background-size="contain"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Nas cidades planejadas da Grécia antiga, os lotes eram rasos, quase
-quadrados, e os quarteirões eram pequenos. Em alguns casos, como em
-Olinto, [@fig:olynthus-blocks] as casas eram geminadas só pelas divisas
-laterais. Nos quarteirões de Olinto, os lotes tinham cerca de 60′
-(sessenta pés) de lado, ou pouco mais de 17 metros. Os fundos eram
-separados uns dos outros por uma servidão muito estreita, com só 5′ de
-largura, ou 1,20 metro [@cahill:2002household].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Quarteirões em Olinto, Grécia, 432--348 a.C. Desenho em Cahill, 2002](https://i.pinimg.com/originals/96/23/5c/96235cdaade74213f55330def2e9c900.png){#fig:olynthus-blocks}
-
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/22/dc/c7/22dcc7e8613bad5e3307ab455a701a01.png" data-background-size="contain"}
 
 ![Planta esquemática da casa A vii 4 em Olinto, segundo Cahill, 2002](https://i.pinimg.com/originals/22/dc/c7/22dcc7e8613bad5e3307ab455a701a01.png){#fig:olynthus-a-vii-4 .line}
@@ -462,7 +448,7 @@ cisterna sobre a rua. [@fig:aregenua]
 ![Reconstituição da casa de Maomé em Medina, c. 622 d.C., segundo Leacroft, 1976](https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png){#fig:leacroft1976-2 .full .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[A casa árabe urbana na bacia do Mediterrâneo]{.newthought} combina
+A casa árabe urbana na bacia do Mediterrâneo combina
 características dos tipos grego e romano com adaptações bioclimáticas e
 construtivas originárias da Mesopotâmia. O tipo originário da casa árabe
 é, na verdade, uma morada rual. Ela parte de um terreiro cercado amplo,
@@ -471,14 +457,6 @@ lados desse cercado tinha um pórtico aberto para o terreiro, sem
 divisórias internas. O modelo paradigmático desse tipo é a descrição que
 foi transmitida através das gerações da casa do profeta Maomé em Medina,
 no início do século [VII]{.smallcaps} d.C.. [@fig:leacroft1976-2]
-
-O modelo da casa de Maomé é especialmente importante enquanto exemplar
-específico porque ele não só representa o tipo árabe de base: ele também
-serviu de modelo para as primeiras mesquitas, e, portanto, deu origem ao
-desenvolvimento tipológico dessas construções mais especializadas. Isso
-mostra que a tipologia não está vinculada à "função" das construções, no
-sentido moderno, mas a um processo de evolução orgânica da cultura
-edilícia.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/alberca-alhambra.png"}
