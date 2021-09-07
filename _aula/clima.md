@@ -345,7 +345,7 @@ Já o tipo com *prostas* tinha um pórtico entre o pátio e a sala
 principal, chamada de *oikos*. Nesse caso também, o pórtico se abria
 sempre que possível para o sul. Essa composição se aproxima do tipo da
 *régia*, com um *mégarōn* atrás de um pátio. Ela se encontra nas casas
-na cidade de Priene ([@fig:priene-casas; @fig:priene-cg]) e de outras
+na cidade de Priene [@fig:priene-casas; @fig:priene-cg] e de outras
 cidades gregas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -613,7 +613,7 @@ A interpretação da arquitetura na Índia antiga segundo Coomaraswamy
 postula a continuidade entre a civilização urbana do vale do rio Indo,
 [@fig:indus-mature] na Idade do Bronze, e a cultura védica de tradição
 oral que introduziu a Idade do Ferro no subcontinente
-([@fig:early-vedic; @fig:late-vedic]). Essa pretensa continuidade tem
+[@fig:early-vedic; @fig:late-vedic]. Essa pretensa continuidade tem
 sido um ponto de discórdia na historiografia da Índia: por um lado, os
 críticos dessa teoria argumentam que ela é um pretexto pseudo-científico
 para o supremacismo hindu; por outro, a evidência arqueológica cada vez
@@ -820,7 +820,7 @@ reino de Dali.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A antiga rota do chá era um sistema de caminhos de montanha,
 [@fig:yu-my] praticáveis só para carregadores pedestres, cavalos e
-mulas ([@fig:chenyao; @fig:porters]). Ela permitia o escambo de chá
+mulas. [@fig:chenyao; @fig:porters] Ela permitia o escambo de chá
 chinês por cavalos tibetanos e o comércio de tecidos de seda chinesa e
 algodão bengalês --- dois produtos manufaturados que eram exportados
 para toda a Ásia, África e Europa.
@@ -874,7 +874,7 @@ simbólica da legitimidade dos reis khmeres.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A legitimidade simbólica da realeza khmer estava atrelada à expansão do
-hinduísmo no Sudeste asiático (ver [@fig:hindu-exp](#fig:hindu-exp)) e
+hinduísmo no Sudeste asiático [@fig:hindu-exp] e
 ao conceito de direito divino da monarquia que se articulava no diálogo
 entre essa religião "importada" e as formas de religiosidade locais. O
 status divino dos reis estava, portanto, vinculado, por um lado, à
