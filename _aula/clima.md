@@ -12,6 +12,9 @@ toc:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
   caption: "Edwin Lord Weeks. [*Vista do espelho d'água para o templo Dourado em Amritsar*](https://commons.wikimedia.org/wiki/File:Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg), 1883"
+  actions:
+  - label: "Slides"
+    url: "/slides/clima/"
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
   data-background-position: "bottom"
@@ -263,6 +266,8 @@ Salão comunal semienterrado em Banpö, oeste da China, c. 4500 a.C. Desenho: Fr
 ## {data-background-image="https://i.pinimg.com/originals/ce/51/bc/ce51bcfc1ca839b7e5f4b5e1f8414288.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+
 No Japão, as casas semienterradas aparecem desde o final do Paleolítico
 [@kawashima:2011burial38], e são cobertas com uma estrutura em madeira
 revestida com casca de árvore. [@fig:jomon-diagram; @fig:jomon-detail]
