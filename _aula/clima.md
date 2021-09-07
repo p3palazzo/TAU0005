@@ -612,8 +612,8 @@ do norte da Índia e da Pérsia antiga).
 A interpretação da arquitetura na Índia antiga segundo Coomaraswamy
 postula a continuidade entre a civilização urbana do vale do rio Indo,
 [@fig:indus-mature] na Idade do Bronze, e a cultura védica de tradição
-oral que introduziu a Idade do Ferro no subcontinente
-[@fig:early-vedic; @fig:late-vedic]. Essa pretensa continuidade tem
+oral que introduziu a Idade do Ferro no subcontinente.
+[@fig:early-vedic; @fig:late-vedic] Essa pretensa continuidade tem
 sido um ponto de discórdia na historiografia da Índia: por um lado, os
 críticos dessa teoria argumentam que ela é um pretexto pseudo-científico
 para o supremacismo hindu; por outro, a evidência arqueológica cada vez
