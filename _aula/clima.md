@@ -287,11 +287,59 @@ aprimoramentos, até o século [XVI]{.smallcaps} d.C.
 
 ![Léon Krier, ocupação urbana e suburbana de um lote](https://hcommons.org/app/uploads/sites/1002372/2021/09/lk-urban-suburban.png){#fig:lk-suburban .line}
 
+## {data-background-image="https://live.staticflickr.com/3047/2803746741_99c32d41ba_k_d.jpg"}
+
+![*Badghir* (torre de ventilação) em Yazd, Irã. Foto: [Andrea Taroni, 2008]](https://live.staticflickr.com/3047/2803746741_99c32d41ba_k_d.jpg){#fig:taroni}
+
+[Andrea Taroni, 2008]: https://flic.kr/p/5gKWe4
+
+## {data-background-image="https://i.pinimg.com/originals/d1/f1/3b/d1f13b66c5582be4beff1170fc450402.jpg" data-background-size="contain"}
+
+![Princípio de funcionamento de uma torre de ventilação](https://i.pinimg.com/originals/d1/f1/3b/d1f13b66c5582be4beff1170fc450402.jpg){#fig:vent-diagr}
+
+## {data-background-image="https://i.pinimg.com/originals/6a/e9/61/6ae9618a20621e81c7d12a0640284578.jpg" data-background-size="contain"}
+
+![Hassan Fathy, arquiteto, corte de uma casa em al-Qurna, Egito, 1946--1952. Desenho reproduzido em [TecnoHaus, 2017]](https://i.pinimg.com/originals/6a/e9/61/6ae9618a20621e81c7d12a0640284578.jpg){#fig:qurna-vent .full}
+
+[TecnoHaus, 2017]: https://tecnohaus.blogspot.com/2017/03/hassan-fathy-el-arquitecto-de-los.html
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Qanat-3_es.svg/2560px-Qanat-3_es.svg.png"}
+
+![Corte esquemático de um *qanat*. [Amada44, 2009]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Qanat-3_es.svg/1280px-Qanat-3_es.svg.png){#fig:qanat .line}
+
+[Amada44, 2009]: https://commons.wikimedia.org/wiki/File:Qanat-3_es.svg
+
+## {data-background-video="https://cdn.palazzo.arq.br/utilitas/clima/Qanat-Madarkoshi-280365614-1080p-25fps.webm" data-background-video-muted="true"}
+
+:::::::::::::::::::::::::::::::: {#fig:madarkoshi .iframe-wrapper}
+<iframe src="https://player.vimeo.com/video/280365614?h=5a6a4cb00f" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://vimeo.com/280365614">Qanat - Madarkoshi</a>. Produção: <a href="https://vimeo.com/user83725201">Nikahang</a>, 2018
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Qanat_wind_tower.svg/1937px-Qanat_wind_tower.svg.png" data-background-size="contain"}
+
+![*Yakchāl*: ambiente de resfriamento com o uso de um *qanat* e uma *badghir*. Desenho: [Samuel Bailey, 2009]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Qanat_wind_tower.svg/969px-Qanat_wind_tower.svg.png){#fig:qanat-cool}
+
+[Samuel Bailey, 2009]: https://commons.wikimedia.org/wiki/File:Qanat_wind_tower.svg
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Qanat_technology_diffusion.svg/2560px-Qanat_technology_diffusion.svg.png"}
+
+![Difusão da tecnologia do *qanat*. Desenho: [Emesik, 2009]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Qanat_technology_diffusion.svg/1280px-Qanat_technology_diffusion.svg.png){#fig:qanat-diff .line}
+
+[Emesik, 2009]: https://commons.wikimedia.org/wiki/File:Qanat_technology_diffusion.svg
+
 ## Mediterrâneo ## {data-visibility="hidden"}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/alberca-alhambra.png"}
+
+![Alhambra, Granada, corte do pátio das murtas olhando para o divã do sultão (elevação norte), anterior ao século [XVI]{.smallcaps}. Levantamento: [Jules Goury, 1842]](https://hcommons.org/app/uploads/sites/1002372/2021/09/alberca-alhambra.png){#fig:alberca .full .line}
+
+[Jules Goury, 1842]: https://library.si.edu/image-gallery/74264
 
 ## {data-background-image="https://i.pinimg.com/originals/91/ce/a4/91cea462fcb16e57fc8c9545b8bf649c.jpg" data-background-position="left"}
 
-![Trecho da malha urbana de Ur, antiga Suméria, [III]{.smallcaps} milênio a.C.](https://i.pinimg.com/originals/91/ce/a4/91cea462fcb16e57fc8c9545b8bf649c.jpg){#fig:ur-fabric .full .line}
+![Trecho da malha urbana de Ur, antiga Suméria, [III]{.smallcaps} milênio a.C.](https://i.pinimg.com/originals/91/ce/a4/91cea462fcb16e57fc8c9545b8bf649c.jpg){#fig:ur-fabric .full}
 
 ## Ventilação cruzada ## {data-visibility="hidden"}
 
