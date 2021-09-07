@@ -1,3 +1,4 @@
+[Notas de aula 2.txt](https://github.com/p3palazzo/tau0005/files/7124276/Notas.de.aula.2.txt)
 ---
 title   : "Construção murária"
 subtitle: "Elementos da construção"
