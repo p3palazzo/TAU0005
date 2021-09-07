@@ -142,7 +142,7 @@ atribuições para se ocupar de trechos dessa cadeia que estejam fora da
 sua alçada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Três idades do homem # {data-background-color="#0f0"}
+## Três idades do homem # {data-background-color="#0f0"} ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A casa como abrigo bem-temperado para pessoas de todas as idades.
@@ -281,11 +281,213 @@ aprimoramentos, até o século [XVI]{.smallcaps} d.C.
 
 ![Detalhe da estrutura de uma casa semienterrada, período Jōmon tardio](https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png){#fig:jomon-detail .line}
 
+# Estratégias de ventilação # {data-background-color="#0f0"}
+
+## China: casas-pátio polivalentes ## {data-visbility="hidden"}
+
+## {data-background-image="https://live.staticflickr.com/7525/16154891306_914cf237a7_o_d.jpg"}
+
+![Diorama da cidade de Linxi, dinastia Shang. Foto: [1001 Silk Roads, 2010]](https://live.staticflickr.com/7525/16154891306_914cf237a7_o_d.jpg){#fig:linxi}
+
+[1001 Silk Roads, 2010]: https://www.flickr.com/photos/32922157@N00/16154891306
+
+## {data-background-image="https://i.pinimg.com/originals/74/55/e1/7455e16ceb095d4c3abc4cd5c04457de.jpg" data-background-size="contain"}
+
+<!--Vista 3D de uma casa-pátio chinesa-->
+
+## {data-background-image="https://i.pinimg.com/originals/99/2e/4a/992e4a6fca299d47854e2a83e8641a62.jpg" data-background-size="contain"}
+
+<!--Vista analítica de uma casa chinesa-->
+
+## {data-background-video="https://cdn.palazzo.arq.br/utilitas/clima/Procedural_Beijing_Courtyard_House-78302430-720p-24fps.mp4" data-background-video-muted="true" data-background-video-loop="true"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:liu-ziye .full}
+<iframe src="https://player.vimeo.com/video/78302430?h=61fd011bfb&color=fffff8" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://vimeo.com/78302430">Modelo paramétrico de casas-pátio em Pequim, China</a>. Modelagem: <a href="https://vimeo.com/ziyeliu">Liu Ziye</a>, 2013
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Casas-pátio ## {data-visibility="hidden"}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/lk-urban-suburban.png" data-background-size="contain"}
 
 ![Léon Krier, ocupação urbana e suburbana de um lote](https://hcommons.org/app/uploads/sites/1002372/2021/09/lk-urban-suburban.png){#fig:lk-suburban .line}
+
+## {data-background-image="https://i.pinimg.com/originals/91/ce/a4/91cea462fcb16e57fc8c9545b8bf649c.jpg" data-background-position="left"}
+
+![Trecho da malha urbana de Ur, antiga Suméria, [III]{.smallcaps} milênio a.C.](https://i.pinimg.com/originals/91/ce/a4/91cea462fcb16e57fc8c9545b8bf649c.jpg){#fig:ur-fabric .full}
+
+## Mediterrâneo ## {data-visibility="hidden"}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/96/23/5c/96235cdaade74213f55330def2e9c900.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nas cidades planejadas da Grécia antiga, os lotes eram rasos, quase
+quadrados, e os quarteirões eram pequenos. Em alguns casos, como em
+Olinto, [@fig:olynthus-blocks] as casas eram geminadas só pelas divisas
+laterais. Nos quarteirões de Olinto, os lotes tinham cerca de 60′
+(sessenta pés) de lado, ou pouco mais de 17 metros. Os fundos eram
+separados uns dos outros por uma servidão muito estreita, com só 5′ de
+largura, ou 1,20 metro [@cahill:2002household].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Quarteirões em Olinto, Grécia, 432--348 a.C. Desenho em Cahill, 2002](https://i.pinimg.com/originals/96/23/5c/96235cdaade74213f55330def2e9c900.png){#fig:olynthus-blocks}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/22/dc/c7/22dcc7e8613bad5e3307ab455a701a01.png" data-background-size="contain"}
+
+![Planta esquemática da casa A vii 4 em Olinto, segundo Cahill, 2002](https://i.pinimg.com/originals/22/dc/c7/22dcc7e8613bad5e3307ab455a701a01.png){#fig:olynthus-a-vii-4 .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A tipologia da casa grega urbana se dividia em dois tipos mais
+difundidos: a casa com *pastas* ou salão em forma de pórtico e a casa
+com *prostas*, ou pórtico na frente de uma sala separada
+[@graham:1966origins20]. No tipo de casa com *pastas*, a sala principal
+no térreo abria diretamente para o pátio, e ela tinha uma ou duas
+células laterais sem abertura direta para fora, além de uma série de
+células funcionais atrás do *pastas*, incluindo a cozinha.
+[@fig:olynthus-a-vii-4] Em casas mais ricas, o *pastas* podia dar uma
+volta inteira no pátio e formar um peristilo.
+
+Perto da entrada da casa ficava uma sala de jantar social ou masculina,
+o *andron*, geralmente acessado por uma antessala.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/bd/79/93/bd7993471831f9cbb7df636bd15dfb74.jpg" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Já o tipo com *prostas* tinha um pórtico entre o pátio e a sala
+principal, chamada de *oikos*. Nesse caso também, o pórtico se abria
+sempre que possível para o sul. Essa composição se aproxima do tipo da
+*régia*, com um *mégarōn* atrás de um pátio. Ela se encontra nas casas
+na cidade de Priene ([@fig:priene-casas; @fig:priene-cg]) e de outras
+cidades gregas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Casas em Priene, reconstituídas por Whitley, 2001](https://i.pinimg.com/originals/bd/79/93/bd7993471831f9cbb7df636bd15dfb74.jpg){#fig:priene-casas .align-right}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/16/6d/2a/166d2a4095ab30414873f55c0dd40906.jpg" data-background-position="bottom"}
+
+![Casas em Priene. Reconstituição por [Gabriel Gourdoglou](http://gabrielgooo.byethost10.com/?ds-gallery=ancient-priene)](https://i.pinimg.com/originals/16/6d/2a/166d2a4095ab30414873f55c0dd40906.jpg){#fig:priene-cg}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg"}
+
+![Reconstituição de casas em Olinto](https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg){#fig:olynthus-cutaway .full}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A regularidade das construções escavadas em Olinto e em outras cidades
+planejadas indica que se valorizavam a equidade na distribuição da
+propriedade e uma relativa homogeneidade, ou *isonomia* em grego, no
+modo de vida dos cidadãos. Além disso, as casas seguiam, sempre que
+possível, a mesma orientação solar: a ala principal da casa se abria
+para o sul, sobre o pátio. [@fig:olynthus-cutaway] A galeria coberta no
+primeiro andar [@fig:olynthus-brunner] protegia os ambientes do sol a
+pino no verão, mas deixava entrar o sol de inverno, mais baixo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/73/2f/9d/732f9da38f7f93574423ce150dab9746.jpg"}
+
+![Reconstituição de um pátio em Olinto, segundo Brunner](https://i.pinimg.com/originals/73/2f/9d/732f9da38f7f93574423ce150dab9746.jpg){#fig:olynthus-brunner}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/0b/83/c4/0b83c43c455bf1085fdf4cd31a5a2043.png" data-background-size="contain"}
+
+![Olinto, casa das cores, reconstituição por Cahill, 2002](https://i.pinimg.com/originals/0b/83/c4/0b83c43c455bf1085fdf4cd31a5a2043.png){#fig:many-colors}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por outro lado, a orientação solar idêntica obrigava a mudar o
+posicionamento da entrada das casas segundo a posição da rua com
+respeito ao lote. [@fig:many-colors]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2a/Schematic_plan_of_a_Pompeian_house_in_Mau_fig115.png" data-background-size="contain"}
+
+![Planta esquemática de uma *domus* na cidade romana de Pompeia, c. século [I]{.smallcaps} a.C.--[I]{.smallcaps} d.C. Desenho: [August Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_245)](https://upload.wikimedia.org/wikipedia/commons/2/2a/Schematic_plan_of_a_Pompeian_house_in_Mau_fig115.png){#fig:mau115 .line}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Plan_of_house_of_the_Surgeon_in_Mau_fig134.png" data-background-size="contain"}
+
+![Planta da casa de Salústio, Pompeia, c. século [II]{.smallcaps} a.C.--[I]{.smallcaps} d.C. Desenho: [August Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_245)](https://upload.wikimedia.org/wikipedia/commons/2/20/Plan_of_house_of_the_Surgeon_in_Mau_fig134.png){#fig:mau134 .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A importância dessa axialidade fica mais evidente em casas da elite,
+implantadas em lotes maiores, como a casa de Salústio. [@fig:mau134] A
+composição principal dessa casa ignora as divisas do lote e forma um
+conjunto quase perfeitamente simétrico tanto na fachada quanto na
+planta. Em contraste, os anexos, como as lojas, [@fig:mau134, n.º 4--9]
+e os espaços privativos da família, como os jardins com peristilo e o
+átrio secundário, [@fig:mau134, n.º 31--35] se acomodam no espaço
+residual entre a composição axial e as divisas irregulares do lote. A
+vista é desimpedida desde a entrada principal da casa até o *tablinum*,
+a sala onde o chefe da família recebia os seus clientes. [@fig:pansa]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/0c/c6/3e/0cc63e51be87b309970ed2ce18799bcf.gif" data-background-size="contain"}
+
+![Casa de Pansa, Pompeia, vista do átrio através do *tablinum* até o peristilo. Reconstituição segundo Mau, 1899](https://i.pinimg.com/originals/0c/c6/3e/0cc63e51be87b309970ed2ce18799bcf.gif){#fig:pansa}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuscan_atrium_in_Pompeii_Mau_fig117.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O átrio da casa romana é sempre cercado por beirais amplos, geralmente
+sustentados por duas vigas principais que vencem o vão estrutural mais
+curto e sustentam outras duas vigas secundárias. [@fig:mau117] Esse
+sistema deixa o pátio totalmente livre de colunas. [@fig:mau136]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Planta estrutural de um átrio toscano, segundo [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_250)](https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuscan_atrium_in_Pompeii_Mau_fig117.png){#fig:mau117 .line .align-right}
+
+## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b8/Pompeii_-_its_life_and_art_(1899)_(14750073956).jpg" data-background-size="contain"}
+
+![Corte longitudinal da casa de Salústio, Pompeia, século [II]{.smallcaps} a.C., compreendendo *fauces*, átrio e *tablinum*. Desenho: [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm)](https://upload.wikimedia.org/wikipedia/commons/b/b8/Pompeii_-_its_life_and_art_(1899)_(14750073956).jpg){#fig:mau136}
+
+<!--_,-->
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/9d/82/29/9d82297091f4dd4ca46997fab22659fc.jpg" data-background-size="contain"}
+
+![Esquema de uma cisterna romana](https://i.pinimg.com/originals/9d/82/29/9d82297091f4dd4ca46997fab22659fc.jpg){#fig:cistern}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/27/5b/44/275b4456228531bf829a43b056a6c9dc.jpg"}
+
+![Cisterna na casa do átrio em U, Aregenua, Gália romana (atual sítio de Vieux-la-Romaine, Normandia)](https://i.pinimg.com/originals/27/5b/44/275b4456228531bf829a43b056a6c9dc.jpg){#fig:aregenua}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os beirais do átrio oferecem uma circulação ao abrigo do sol e da chuva.
+Eles também canalizam a água para uma cisterna central, debaixo do piso.
+[@fig:cistern] Deixar a água parada na cisterna ajudava a decantar as
+impurezas, mesmo quando o abastecimento vinha de um aqueduto e não da
+coleta da água de chuva. Outra canalização desaguava o excesso da
+cisterna sobre a rua. [@fig:aregenua]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png" data-background-size="contain"}
+
+![Reconstituição da casa de Maomé em Medina, c. 622 d.C., segundo Leacroft, 1976](https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png){#fig:leacroft1976-2 .full .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[A casa árabe urbana na bacia do Mediterrâneo]{.newthought} combina
+características dos tipos grego e romano com adaptações bioclimáticas e
+construtivas originárias da Mesopotâmia. O tipo originário da casa árabe
+é, na verdade, uma morada rual. Ela parte de um terreiro cercado amplo,
+onde se podiam arrebanhar os animais da família durante a noite. Um dos
+lados desse cercado tinha um pórtico aberto para o terreiro, sem
+divisórias internas. O modelo paradigmático desse tipo é a descrição que
+foi transmitida através das gerações da casa do profeta Maomé em Medina,
+no início do século [VII]{.smallcaps} d.C.. [@fig:leacroft1976-2]
+
+O modelo da casa de Maomé é especialmente importante enquanto exemplar
+específico porque ele não só representa o tipo árabe de base: ele também
+serviu de modelo para as primeiras mesquitas, e, portanto, deu origem ao
+desenvolvimento tipológico dessas construções mais especializadas. Isso
+mostra que a tipologia não está vinculada à "função" das construções, no
+sentido moderno, mas a um processo de evolução orgânica da cultura
+edilícia.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/alberca-alhambra.png"}
+
+![Alhambra, Granada, corte do pátio das murtas olhando para o divã do sultão (elevação norte), anterior ao século [XVI]{.smallcaps}. Levantamento: [Jules Goury, 1842]](https://hcommons.org/app/uploads/sites/1002372/2021/09/alberca-alhambra.png){#fig:alberca .full .line}
+
+[Jules Goury, 1842]: https://library.si.edu/image-gallery/74264
+
+## Ventilação indireta ##
 
 ## {data-background-image="https://live.staticflickr.com/3047/2803746741_99c32d41ba_k_d.jpg"}
 
@@ -329,37 +531,19 @@ aprimoramentos, até o século [XVI]{.smallcaps} d.C.
 
 [Emesik, 2009]: https://commons.wikimedia.org/wiki/File:Qanat_technology_diffusion.svg
 
-## Mediterrâneo ## {data-visibility="hidden"}
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/alberca-alhambra.png"}
-
-![Alhambra, Granada, corte do pátio das murtas olhando para o divã do sultão (elevação norte), anterior ao século [XVI]{.smallcaps}. Levantamento: [Jules Goury, 1842]](https://hcommons.org/app/uploads/sites/1002372/2021/09/alberca-alhambra.png){#fig:alberca .full .line}
-
-[Jules Goury, 1842]: https://library.si.edu/image-gallery/74264
-
-## {data-background-image="https://i.pinimg.com/originals/91/ce/a4/91cea462fcb16e57fc8c9545b8bf649c.jpg" data-background-position="left"}
-
-![Trecho da malha urbana de Ur, antiga Suméria, [III]{.smallcaps} milênio a.C.](https://i.pinimg.com/originals/91/ce/a4/91cea462fcb16e57fc8c9545b8bf649c.jpg){#fig:ur-fabric .full}
-
 ## Ventilação cruzada ## {data-visibility="hidden"}
 
-Malásia
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png" data-background-size="contain" data-background-transition="fade-out" data-background-position="left"}
 
-## China: casas-pátio polivalentes ## {data-visbility="hidden"}
+![Arquipélago de Nusantara no auge do império Majapahit, século [XIV]{.smallcaps} [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png){#fig:majapahit .full}
 
-## {data-background-image="https://live.staticflickr.com/7525/16154891306_914cf237a7_o_d.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/77/71/be/7771be8ed1ac93da93eac60da140ffbf.jpg"}
 
-![Diorama da cidade de Linxi, dinastia Shang. Foto: [1001 Silk Roads, 2010]](https://live.staticflickr.com/7525/16154891306_914cf237a7_o_d.jpg){#fig:linxi}
+![Sequência tipológica da casa malaia. Lin, 1991, *ap.* Beng *et al.*, 2015](https://i.pinimg.com/originals/77/71/be/7771be8ed1ac93da93eac60da140ffbf.jpg){#fig:lim-malay}
 
-[1001 Silk Roads, 2010]: https://www.flickr.com/photos/32922157@N00/16154891306
+## {data-background-image="https://i.pinimg.com/originals/53/c8/e5/53c8e5ddb750df9eeedb22a27723b629.jpg"}
 
-## {data-background-image="https://i.pinimg.com/originals/74/55/e1/7455e16ceb095d4c3abc4cd5c04457de.jpg" data-background-size="contain"}
-
-<!--Vista 3D de uma casa-pátio chinesa-->
-
-## {data-background-image="https://i.pinimg.com/originals/99/2e/4a/992e4a6fca299d47854e2a83e8641a62.jpg" data-background-size="contain"}
-
-<!--Vista analítica de uma casa chinesa-->
+![Reconstituição do *kota raja* (complexo palaciano) de Malacca no século [XV]{.smallcaps}. Desenho: Mohd Faizal Rahmat, 2016--2018](https://i.pinimg.com/originals/53/c8/e5/53c8e5ddb750df9eeedb22a27723b629.jpg){#fig:malacca-kotarajaC}
 
 # Índia: unidade na diversidade # {data-background-color="#0f0"}
 
