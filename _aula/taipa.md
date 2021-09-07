@@ -39,7 +39,7 @@ origem da civilização.
 
 [*O decurso do império*]: https://pt.wikipedia.org/wiki/O_Curso_do_Império
 
-![Thomas Cole, The Course of Empire: The Savage State, 1834](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg){#fig:cole-savage .fullwidth}
+![Thomas Cole, The Course of Empire: The Savage State, 1834](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg){#fig:cole-savage .full}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg"}
 
@@ -153,7 +153,7 @@ estudo forma a base daquilo que tem sido chamado, desde o século
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/5a/f7/8c/5af78ce175489724eeb76342caff71b3.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Sir Banister Fletcher e Banister F. Fletcher, *A History of Architecture on the Comparative Method*, folha de rosto da 1.ª edição, 1896](https://i.pinimg.com/originals/5a/f7/8c/5af78ce175489724eeb76342caff71b3.jpg){#fig:fletcher-cover .marginnote}
+![Sir Banister Fletcher e Banister F. Fletcher, *A History of Architecture on the Comparative Method*, folha de rosto da 1.ª edição, 1896](https://i.pinimg.com/originals/5a/f7/8c/5af78ce175489724eeb76342caff71b3.jpg){#fig:fletcher-cover .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A abordagem comparativa
@@ -188,7 +188,7 @@ alvenarias e acabamentos.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/65/a2/11/65a21194ab8bcb228f951a30f0768160.jpg"}
 
-![Restauro do telhado no salão principal do mosteiro budista Chion-in, Higashiyama, Quioto, 1234, reconstruído em 1633. Foto: [Jeffrey Friedl, 2014](http://regex.info/blog/2014-03-10/2397)](https://i.pinimg.com/originals/65/a2/11/65a21194ab8bcb228f951a30f0768160.jpg){#fig:chion-in .fullwidth}
+![Restauro do telhado no salão principal do mosteiro budista Chion-in, Higashiyama, Quioto, 1234, reconstruído em 1633. Foto: [Jeffrey Friedl, 2014](http://regex.info/blog/2014-03-10/2397)](https://i.pinimg.com/originals/65/a2/11/65a21194ab8bcb228f951a30f0768160.jpg){#fig:chion-in .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O dimensionamento dos componentes construtivos tradicionais é sempre
@@ -207,7 +207,7 @@ linguagens arquitetônicas tradicionais.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
-![Cabanas primitivas segundo William Chambers, *A Treatise on Civil Architecture*, 1759](https://i.pinimg.com/originals/cf/1a/f5/cf1af57c2e6422122e18196f92629e29.jpg){#fig:huts .marginnote}
+![Cabanas primitivas segundo William Chambers, *A Treatise on Civil Architecture*, 1759](https://i.pinimg.com/originals/cf/1a/f5/cf1af57c2e6422122e18196f92629e29.jpg){#fig:huts .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Reconhecendo essa diversidade de aplicações]{.newthought} dos
@@ -288,7 +288,7 @@ aplicável a todas as tradições arquitetônicas sem as hierarquizar.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Cabane_de_Terra_Amata_2.jpg"}
 
-![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata .marginnote}
+![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 É bem verdade que os mais antigos vestígios de abrigos feitos por seres
@@ -347,7 +347,7 @@ entre as massas de paredes.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain"}
 
-![Reconstituição de abrigo do período Natufiano em ain-Mallaha, Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .marginnote .line}
+![Reconstituição de abrigo do período Natufiano em ain-Mallaha, Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .align-right .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nem sempre essa distinção é tão clara. Um dos mais antigos abrigos
@@ -380,7 +380,7 @@ verticalmente no solo e preenchimento com cascalho
 ## {.unlisted data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
- 
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/30/64/fb/3064fb0fb0487eeabef2f0ea63dd88d1.jpg"}
@@ -401,7 +401,7 @@ pessoas cozinhavam e consumiam a caça [@thomas:2021mustatils95].
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"}
 
-![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano .fullwidth}
+![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [As construções semienterradas]{.newthought} são, de toda a arquitetura,
@@ -429,7 +429,7 @@ caso, a semelhança com cavernas seria ainda mais marcante.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg"}
 
-![Vista aérea dos templos megalíticos de Ħal Tarxien, Malta, 3250--3000 a.C.](https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg){#fig:tarxien-aer .marginnote}
+![Vista aérea dos templos megalíticos de Ħal Tarxien, Malta, 3250--3000 a.C.](https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg){#fig:tarxien-aer .align-right}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg/1280px-Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg"}
 
@@ -467,7 +467,7 @@ rituais: desde sacrifícios religiosos até sepultamentos humanos.
 <!--_,-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Cortes do túmulo de Maeshowe. [Fantoman400, 2006](https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif){#fig:maeshowe-sec .marginnote .line}
+![Cortes do túmulo de Maeshowe. [Fantoman400, 2006](https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif){#fig:maeshowe-sec .align-right .line}
 
 Nas ilhas Órcades, o túmulo neolítico de Maeshowe, de c. 2800 a.C., tem
 uma câmara central quadrada, com 4 metros de lado, debaixo de um
@@ -484,7 +484,7 @@ inverno.
 ## {.unlisted data-background-iframe="https://www.youtube.com/watch?v=Rlkjf-i5_Qw&t=11s"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-![Reconstituição da aldeia de Skara Brae vista desde o pátio de acesso ao corredor](https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png){#fig:skb-art .marginnote}
+![Reconstituição da aldeia de Skara Brae vista desde o pátio de acesso ao corredor](https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png){#fig:skb-art .align-right}
 
 ![Câmara de uma casa em Skara Brae, com lar central e três plataformas contra as paredes, célula satélie ao fundo. Foto: [Archaeology Scotland, 2013](https://commons.wikimedia.org/wiki/File:Skara_Brae_Beds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/1280px-Skara_Brae_Beds.jpg){#fig:skb-int}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -516,7 +516,7 @@ Esse tipo continua dominante na habitação rural japonesa, com alguns
 aprimoramentos, até o século [XVI]{.smallcaps} d.C.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Diagrama de uma casa semienterrada, período Jōmon tardio, Japão, últimos séculos a.C. [Kawashima, 2011](https://doi.org/10.4312/dp.38.9)](https://i.pinimg.com/originals/ce/51/bc/ce51bcfc1ca839b7e5f4b5e1f8414288.png){#fig:jomon-diagram .line .marginnote}
+![Diagrama de uma casa semienterrada, período Jōmon tardio, Japão, últimos séculos a.C. [Kawashima, 2011](https://doi.org/10.4312/dp.38.9)](https://i.pinimg.com/originals/ce/51/bc/ce51bcfc1ca839b7e5f4b5e1f8414288.png){#fig:jomon-diagram .line .align-right}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png" data-background-size="contain"}
 
@@ -576,7 +576,7 @@ nas origens da humanidade.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg"}
 
-![Taipal segundo Jean-Baptiste Rondelet, *Traité de l'art de bâtir*, livro I:ii, 1812](https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg){#fig:rondelet .fullwidth}
+![Taipal segundo Jean-Baptiste Rondelet, *Traité de l'art de bâtir*, livro I:ii, 1812](https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg){#fig:rondelet .full}
 
 ## {.unlisted data-background-video="https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm"}
 
@@ -595,7 +595,7 @@ assentamentos densos formados por células com estrutura em adobe
 * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Reconstituição do tecido construído de Çatal Höyük, Anatólia, 7100--5700 a.C. [[ZDF]{.smallcaps}, 2020](https://commons.wikimedia.org/wiki/File:Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm)](https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm){#fig:catalhoyuk-vid .fullwidth}
+![Reconstituição do tecido construído de Çatal Höyük, Anatólia, 7100--5700 a.C. [[ZDF]{.smallcaps}, 2020](https://commons.wikimedia.org/wiki/File:Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm)](https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm){#fig:catalhoyuk-vid .full}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/b4/7c/91/b47c9135a83f1695150a0214ad5204bf.png"}
 
@@ -658,11 +658,11 @@ comprimida [@fig:ram] precisa secar antes de se lançar a camada
 seguinte.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Esquema do processo de construção com taipa de pilão. [Jean-Baptiste Rondelet, 1802](https://gallica.bnf.fr/ark:/12148/bpt6k6555321j/f20.item)](https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg){#fig:taipal .fullwidth}
+![Esquema do processo de construção com taipa de pilão. [Jean-Baptiste Rondelet, 1802](https://gallica.bnf.fr/ark:/12148/bpt6k6555321j/f20.item)](https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg){#fig:taipal .full}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/92/Ramming_Earth.JPG"}
 
-![Compactando manualmente uma parede em taipa de pilão. Sinai, Egito. Foto: [Moshirah, 2008](https://commons.wikimedia.org/wiki/File:Ramming_Earth.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ramming_Earth.JPG/1280px-Ramming_Earth.JPG){#fig:ram .marginnote}
+![Compactando manualmente uma parede em taipa de pilão. Sinai, Egito. Foto: [Moshirah, 2008](https://commons.wikimedia.org/wiki/File:Ramming_Earth.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ramming_Earth.JPG/1280px-Ramming_Earth.JPG){#fig:ram .align-right}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg"}
 
@@ -681,7 +681,7 @@ deserto do Saara, por exemplo nas cidades históricas do delta do rio
 Níger, como Djenné. [@fig:djenne]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na teoria, a taipa de pilão poderia se prestar a formas totalmente
@@ -737,7 +737,7 @@ em adobe, de acordo com a espessura de cada uma.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png"}
 
-![Corte de uma parede em adobe típica da antiga Mesopotâmia. (a) parede, (b) baldrame ou soco, (c) fundação em sapata corrida, (bondstone) bloco juntouro ou perpianho. Anastasio, 2020](https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png){#fig:adobe-foundations .marginnote}
+![Corte de uma parede em adobe típica da antiga Mesopotâmia. (a) parede, (b) baldrame ou soco, (c) fundação em sapata corrida, (bondstone) bloco juntouro ou perpianho. Anastasio, 2020](https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png){#fig:adobe-foundations .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Estruturas simples poderiam ter apenas uma alvenaria em adobe apoiada
@@ -780,7 +780,7 @@ primordial dessas estruturas monumentais, seja por motivos militares ou
 simbólicos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Templo de Enki em Eridu, nível VII, c. 4000--3800 a.C. Modelo: [Cush 2016](https://commons.wikimedia.org/wiki/File:Eridu_temple_7.png)](https://upload.wikimedia.org/wikipedia/commons/6/68/Eridu_temple_7.png){#fig:eridu .marginnote}
+![Templo de Enki em Eridu, nível VII, c. 4000--3800 a.C. Modelo: [Cush 2016](https://commons.wikimedia.org/wiki/File:Eridu_temple_7.png)](https://upload.wikimedia.org/wikipedia/commons/6/68/Eridu_temple_7.png){#fig:eridu .align-right}
 
 ![Porta de Ishtar, Babilônia, 575 a.C., atualmente no museu Pergamon, Berlim](https://i.pinimg.com/originals/d5/83/2c/d5832cea9db6c2723d2ff99226e4b400.jpg){#fig:ishtar}
 
@@ -981,7 +981,7 @@ tende a apodrecer com facilidade. [@fig:abscC]
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Corte esquemático de uma parede da antiga Mesopotâmia construída em adobe com fundação em pedra, segundo Anastasio, *Building Between the Two Rivers*, 59](https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png){#fig:anastasio59 .marginnote}
+![Corte esquemático de uma parede da antiga Mesopotâmia construída em adobe com fundação em pedra, segundo Anastasio, *Building Between the Two Rivers*, 59](https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png){#fig:anastasio59 .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A deterioração de fundações em madeira, muito frequente no Brasil,
@@ -1008,7 +1008,7 @@ reduzir o acúmulo de umidade. [@fig:valpa]
 
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br/constru/taipa/Seleucid_Bit_Resh-Anu-Antum_Temple-Detail_and_Reconstruction-62772222-720p-30fps.mp4" data-background-video-muted="true" data-background-video-loop="true"}
 
-::::::::::::::::::::::::::::::::::::::::::::: {#fig:bitresh .iframe-wrapper .fullwidth}
+::::::::::::::::::::::::::::::::::::::::::::: {#fig:bitresh .iframe-wrapper .full}
 <iframe src="https://player.vimeo.com/video/62772222?autoplay=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Bit Resh, o templo de Anu e Antum em Uruk. Iniciado no século
@@ -1031,7 +1031,7 @@ alvenaria.
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vorderasiatisches_Museum_Berlin_038.jpg/2560px-Vorderasiatisches_Museum_Berlin_038.jpg"}
 
-![Silharia do templo de Anu e Antum em Uruk, século [XV]{.smallcaps} a.C., fragmento no Vorderasiatisches Museum em Berlim. Foto: [Einsamer Schütze, 2011](https://commons.wikimedia.org/wiki/File:Vorderasiatisches_Museum_Berlin_038.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vorderasiatisches_Museum_Berlin_038.jpg/1280px-Vorderasiatisches_Museum_Berlin_038.jpg){#fig:vorderasiatisches .marginnote}
+![Silharia do templo de Anu e Antum em Uruk, século [XV]{.smallcaps} a.C., fragmento no Vorderasiatisches Museum em Berlim. Foto: [Einsamer Schütze, 2011](https://commons.wikimedia.org/wiki/File:Vorderasiatisches_Museum_Berlin_038.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vorderasiatisches_Museum_Berlin_038.jpg/1280px-Vorderasiatisches_Museum_Berlin_038.jpg){#fig:vorderasiatisches .align-right}
 
 ## {.unlisted data-background-image="https://i0.wp.com/www.artefacts-berlin.de/wp-content/uploads/2018/06/uruk_seleucid_003.png"}
 
@@ -1045,7 +1045,7 @@ rústica na base. [@fig:karaindash]
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/19/69/ea/1969eab3ab4eb5190d700219722b3167.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
 
-![Reconstituição do pódio e *apadana* no palácio imperial de Persépolis, por Charles Chipiez](https://i.pinimg.com/originals/19/69/ea/1969eab3ab4eb5190d700219722b3167.jpg){#fig:persepolis .marginnote}
+![Reconstituição do pódio e *apadana* no palácio imperial de Persépolis, por Charles Chipiez](https://i.pinimg.com/originals/19/69/ea/1969eab3ab4eb5190d700219722b3167.jpg){#fig:persepolis .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma versão ainda mais monumental desse mesmo expediente é o *pódio*
