@@ -47,8 +47,8 @@ var store = [{
         "url": "/tau0005/aula/clima/",
         "teaser": null
       },{
-        "title": "Propósitos",
-        "excerpt":"Cultura doméstica no Mediterrâneo Tipologia processual Processo tipológico Sete tipos edilícios Princípios do projeto tipológico Figura 1: Edwin Lord Weeks, A Court in the Alhambra in the Time of the Moors Cultura doméstica no Mediterrâneo Figura 2: Mediterrâneo ocidental na época romana Figura 3: Sítio arqueológico de Lattara, feitoria etrusca...","categories": [],
+        "title": "Tipos edilícios",
+        "excerpt":"Cultura doméstica no Mediterrâneo Sete tipos edilícios Tipologia processual Princípios do projeto tipológico Cultura doméstica no Mediterrâneo Figura 1: Mediterrâneo ocidental na época romana Figura 2: Sítio arqueológico de Lattara, feitoria etrusca no sul da Gália, séculos VII a.C.—III d.C. Desenho: Gailledrat e Vacheret, 2020 Figura 3: Macroparcela 27 de...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/tipos/",
         "teaser": null
