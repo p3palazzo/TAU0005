@@ -30,7 +30,7 @@ indicado com clareza pela combinação de volumes e passagens:
 > sete tipos edilícios fundamentais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Sete tipos edilícios fundamentais, baseado em Westfall](https://i.pinimg.com/originals/2b/04/96/2b04961d289e5b392c2aa55fc0dfeaf4.png){#fig:tipos .fullwidth .nobg}
+![Sete tipos edilícios fundamentais, baseado em Westfall](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:tipos .full .nobg}
 
 # Objetivo #
 
@@ -43,20 +43,20 @@ caráter a esses espaços.
 ## Conteúdo ##
 
 - O ponto de partida será um dos sete tipos edilícios fundamentais ou,
-  eventualmente, uma combinação entre tipos (@fig:tipos).
-- A composição deve ter caráter refinado, com pelo menos um eixo de
-  simetria.
+  eventualmente, uma combinação entre tipos.
+- A composição deve ter caráter refinado e erudito, com pelo menos um
+  eixo de simetria.
 - A composição deve ter cinco volumes espaciais bem definidos e, no
   mínimo, uma transição espacial (corredor, pórtico, sala de espera,
   escadaria, etc.).
 - A construção será em alvenaria de pedra, de tijolos, ou uma combinação
   de ambos, de acordo com uma tradição construtiva à sua escolha.
 - Os volumes podem ser cobertos ou descobertos, e as transições podem
-  ser vedadas ou permeáveis; em todos será possível inscrever, no
-  mínimo, um círculo com 2,5 metros de diâmetro.
-- Pelo menos um dos cinco volumes deve ser coberto com uma cúpula ou
-  abóbada.
-- Nenhum dos cinco volumes pode estar sobreposto a outro(s).
+  ser vedadas ou permeáveis; em todos será possível inscrever
+  um círculo com, no mínimo, 2,5 metros de diâmetro.
+- Pelo menos um dos cinco volumes deve ser coberto com uma cúpula e
+  outro com uma abóbada.
+- Nenhum dos cinco volumes pode estar diretamente sobreposto a outro(s).
 - O caráter dos volumes individuais, o tipo da composição como um todo,
   o sistema construtivo e os detalhes decorativos devem ser condizentes
   entre si e com uma expressão sofisticada dentro da tradição
@@ -67,10 +67,10 @@ caráter a esses espaços.
 Uma única prancha em desenho técnico, com margem,
 carimbo, escala gráfica e legendas, mostrando:
 
-1. Planta baixa na escala 1:100 ou 1:50;
-2. Corte mais significativo, na escala 1:50;
-3. Elevação principal na escala 1:50;
-4. Detalhes na escala 1:20 ou 1:10, conforme necessário.
+1. Planta baixa com indicação tracejada das abóbadas;
+2. Corte mais significativo;
+3. Elevação principal;
+4. Detalhes conforme necessário.
 
 Planta, corte e elevação devem mostrar, tanto quanto necessário para a
 sua compreensão, o entorno imediato onde a composição está implantada.
@@ -84,6 +84,8 @@ sua compreensão, o entorno imediato onde a composição está implantada.
 | Desenho correto e preciso, mostrando o traçado regulador das proporções           |      5 |
 | Prancha composta de modo elegante e legível, com todas as informações necessárias |      5 |
 | **Total**                                                                         | **30** |
+
+Table: Critérios de avaliação {#tbl:criterios}
 
 Você também deve atender ao seguinte:
 

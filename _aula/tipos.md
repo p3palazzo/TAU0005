@@ -360,9 +360,9 @@ romana, a morada grega ou a casa compacta do Crescente fértil.
 
 # Sete tipos edilícios #
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/2b/04/96/2b04961d289e5b392c2aa55fc0dfeaf4.png"}
+## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png"}
 
-![Sete tipos edilícios. Baseado em Westfall, 1991](https://i.pinimg.com/originals/2b/04/96/2b04961d289e5b392c2aa55fc0dfeaf4.png){#fig:7types .full}
+![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types .full .nobg}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/20/2d/b6/202db664aff50fae7bb755bbdc8bfa68.jpg" data-background-size="contain"}
 
