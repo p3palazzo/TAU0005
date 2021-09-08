@@ -317,6 +317,18 @@ aprimoramentos, até o século [XVI]{.smallcaps} d.C.
 
 ![Trecho da malha urbana de Ur, antiga Suméria, [III]{.smallcaps} milênio a.C.](https://i.pinimg.com/originals/91/ce/a4/91cea462fcb16e57fc8c9545b8bf649c.jpg){#fig:ur-fabric .full}
 
+##
+
+::::::::::::::::::::::::::::::::::::::::: {#fig:ur-court .r-stack .full}
+![coleta de água de chuva](https://hcommons.org/app/uploads/sites/1002372/2021/09/clima-ur-chuva.jpg){#fig:ur-courtA .fragment .current-visible .align-left}
+
+![insolação aquece o piso do pátio...](https://hcommons.org/app/uploads/sites/1002372/2021/09/clima-ur-sol.jpg){#fig:ur-courtB .fragment .current-visible .align-left}
+
+![...o ar quente do pátio sobe, gerando uma zona de baixa pressão que força a ventilação dos ambientes em volta](https://hcommons.org/app/uploads/sites/1002372/2021/09/clima-ur-vento.jpg){#fig:ur-courtC .fragment .current-visible .align-left}
+
+Estratégias bioclimáticas de uma casa em Ur, antiga Suméria, [III--II]{.smallcaps} milênios a.C. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Mediterrâneo ## {data-visibility="hidden"}
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/22/dc/c7/22dcc7e8613bad5e3307ab455a701a01.png" data-background-size="contain"}
@@ -514,6 +526,17 @@ no início do século [VII]{.smallcaps} d.C.. [@fig:leacroft1976-2]
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png" data-background-size="contain" data-background-transition="fade-out" data-background-position="left"}
 
 ![Arquipélago de Nusantara no auge do império Majapahit, século [XIV]{.smallcaps} [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png){#fig:majapahit .full}
+
+##
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
+::: {.column width=38%}
+![Setorização da casa malaia](https://hcommons.org/app/uploads/sites/1002372/2021/09/malay-spaces.png){#fig:malay-spaces .line}
+:::
+::: {.column width=62%}
+![Ventilação cruzada na casa malaia](https://hcommons.org/app/uploads/sites/1002372/2021/09/malay-climate.png){#fig:malay-climate .line}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/77/71/be/7771be8ed1ac93da93eac60da140ffbf.jpg"}
 
