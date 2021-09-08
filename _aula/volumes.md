@@ -5,10 +5,18 @@ item    : "III"
 author  : "Pedro P. Palazzo"
 date    : 2021-09-21
 toc:
+  - Espaço ou lugar
   - Construção e espacialidade
-  - Quatro elementos da arquitetura
   - Caráter e decoro
   - Articulação arquitetônica do espaço
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg
+  caption: "Thomas Cole, [*Decurso do império: destruição*](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg), 1836"
+  actions:
+  - label: "Slides"
+    url: "/slides/volumes/"
+title-slide-attributes:
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Destruction_1836.jpg
 ---
 
 # Espaço ou lugar #
@@ -279,117 +287,5 @@ Rob Krier, *Architectural composition*, 1988
 Siheyuan (pátio entre 4 alas) e gong (salão central, corredor perimetral
 e passarela coberta de ligação): Zhou em diante
 
-# Boma #
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Deixando a costa e avançando para oeste, no interior do continente, mas
-ainda em territórios de etnias banto, o padrão urbanístico dominante se
-transforma. No lugar de cidades com casas alinhadas, encontramos
-complexos agropastoris familiares formando redes mais ou menos densas no
-território.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O arqueólogo americano Thomas Huffman ([@fig:huffman]) definiu, nos anos
-1980, o paradigma espacial agropastoril banto como um sistema organizado
-em torno de um cercado comunitário [@huffman:1990broederstroom49, 7].
-Esse cercado, conhecido em suaíle como *boma*, emerge na Idade do Ferro
-(c. 500 a.C.) e se declina em inúmeras variações desde a costa do golfo
-da Guiné até o sul da África.
-
-O *boma* é, prioritariamente, um curral de gado. Celeiros e espaços para
-atividades comunitárias também podem estar situados no *boma*. Ele é
-controlado por uma liderança política ou chefe de família estendida, que
-tem a sua própria casa perto desse espaço central.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=85%}
-![Esquema teórico de um *boma* no sul da África: Zimbábue. Desenho: [Huffman, 2009](http://www.sciencedirect.com/science/article/pii/S0278416508000585)](https://i.pinimg.com/originals/37/06/db/3706dbf46c6d25e8758b078fe757f513.jpg){#fig:boma .line} 
-:::
-::: {.column width=15%}
-![Thomas Huffman](https://i1.rgstatic.net/ii/profile.image/337996172808194-1457595975447_Q512/Thomas_Huffman2.jpg){#fig:huffman}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Entre os bètemmeribè, na África ocidental, o complexo agropastoril é
-conhecido como *tata somba* --- *tata* significa "casa" e *somba* é a
-designação formal desse grupo étnico (o termo *bètemmeribè* significa
-"bom construtor"). A sua arquitetura foi documentada pela arqueóloga
-americana [Suzanne Blier][] no final da década de 1980.
-
-Ver também:
-[Trailer do documentário *Sur un air de somba*](https://vimeo.com/25226651)
-
-[Suzanne Blier]: https://en.wikipedia.org/wiki/Suzanne_Blier
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::: {#fig:batammaliba .columns}
-::: {.column width=30%}
-![Locação na região fronteiriça entre Togo e Benin. Mapa: [Pedro P. Palazzo, 2020](https://commons.wikimedia.org/wiki/File:Batammaliba_region_on_the_globe_(Africa_centered).svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_(Africa_centered).svg/480px-Batammaliba_region_on_the_globe_(Africa_centered).svg.png){#fig:batammalibaA .nobg}
-
-![Planta. Desenho em Kathleen James-Chakraborty, 2014, baseado em Suzanne Blier, 1994](https://i.pinimg.com/originals/55/47/76/5547769998d329a362f4ca743da07dd1.png){#fig:batammalibaB .line}
-:::
-::: {.column width=70%}
-![Vista exterior. Foto: [Jacques Taberlet, 2008](https://commons.wikimedia.org/wiki/File:Koussoukoingou2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC}
-:::
-Tata somba
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Redes políticas no território: grande Zimbábue ##
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/f1/3c/dc/f13cdc11d527ca7beb3486fbcda7a84b.jpg"}
-
-![Boma de uMgungundlovu, Dingane, reino Zulu, 1829](https://i.pinimg.com/originals/f1/3c/dc/f13cdc11d527ca7beb3486fbcda7a84b.jpg){#fig:dingane}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O sistema espacial do *boma* é a unidade mínima de estratificação
-familiar e social nas regiões banto. A partir dele, podem ser formadas
-redes extensas de relações políticas que controlam territórios mais
-vastos, como era o caso do reino Zulu no século [XIX]{.smallcaps}. A sua
-capital, Dingane, chegou a ter 7000 habitantes com um cercado vasto
-[@fig:dingane]. Esse espaço interior continha uma praça de armas vasta
-(ikhanda) além dos currais de gado.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O grande Zimbábue ([@fig:zimbabwe]) é uma rede territorial que
-floresceu entre os séculos  [XI]{.smallcaps} e  [XV]{.smallcaps}. Essa rede tinha importância
-estratégica no comércio suaíle, porque controlava as minas de ouro no
-sul da África. O conjunto é extenso e era densamente povoado: ocupa uma
-superfície de 730 hectares e pode ter abrigado até dez mil habitantes no
-seu auge.
-
-O grande Zimbábue se configura como um conjunto de *bomas* construídos
-em pedra; as relações espaciais entre os complexos murados parecem
-semelhantes às relações que se estabelecem *dentro* de cada sistema
-*boma*. A cidadela maior, com muralhas de 11 metros de altura, se situa
-na cabeceira da rede, e não no centro --- a mesma situação da casa
-dominante num *boma* individual.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Vista aérea do Zimbábue. Foto: [Janice Bell, 2015](https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe}
-
-## Adensamento do boma e malha viária ##
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O traçado estruturante de um caminho é a base para a formação do tecido
-construído na aldeia--rua da bacia do Mediterrâneo. 
-Já no caso do *boma*, é o adensamento do sistema edificado que
-causa a formação dos caminhos. À medida que as comunidades baseadas no
-*boma* se tornam mais numerosas e ocupam o território com maior
-densidade, os cercados se aproximam de formas retangulares. O espaço
-entre eles começa, então, a tomar a forma de rua--corredor.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Vista aérea de Niamey, Chade. Foto: [Walter Mittelholzer, 1930, arquivo da Escola Politécnica Federal de Zurique](https://commons.wikimedia.org/wiki/File:ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey}
+# Bibliografia # {.unlisted .allowframebreaks}
 
