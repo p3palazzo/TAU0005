@@ -237,15 +237,15 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
-paginate_path: /page:num/
+#paginate: 5 # amount of posts to show
+#paginate_path: /page:num/
 timezone: America/Sao_Paulo
 date_format: "%d/%m/%Y"
 
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll-paginate
+  #- jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
@@ -259,7 +259,7 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll-paginate
+  #- jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
