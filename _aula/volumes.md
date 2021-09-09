@@ -19,9 +19,9 @@ title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
 ---
 
-# Espaço ou lugar #
+# Espaço ou lugar # {data-background-color="#0f0"}
 
-## Do monumento maciço ao espaço escavado ##
+## Do monumento maciço ao espaço escavado ## {data-visibility="hidden"}
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png" data-background-size="contain"}
 
@@ -89,8 +89,9 @@ Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
 
 <!--_,-->
 
-## Arquitetura do lugar e arquitetura de espaços ##
+## Arquitetura do lugar e arquitetura de espaços ## {data-visibility="hidden"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Bacia do Mediterrâneo: arquitetura produz espaços; caráter dado pela
 extensão e forma geométrica dos volumes interiores.
 
@@ -99,10 +100,13 @@ monumento, pouca articulação dos espaços interiores --- diminutos e/ou
 receptáculos ornamentados para um ponto focal material.
 
 Arquitetura edicular [@hardy:2019kashmiri; @bharne:2012rediscovering].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Construção e espacialidade #
+# Construção e espacialidade # {data-visibility="hidden"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mais cedo, dissemos que arquitetura é construção.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Hegel ##
 
