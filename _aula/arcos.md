@@ -31,7 +31,7 @@ tipos: arquitravadas, isso é, formadas por vigas, ou arqueadas, isso é,
 formadas por arcos na própria alvenaria.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+## 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:arcomp .r-stack}
 ![vão arquitravado](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-verga-vert-comp-blank.png){#fig:arcompA .line .fragment .current-visible .align-left}
@@ -56,7 +56,7 @@ carga e distribuí-la para os lados, comprimindo os blocos sucessivos que
 fazem parte dele. [@fig:arcomp]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+## 
 
 ::::::::::::::::::::::::::::::::::::::::::::::::: r-stack
 ![Componentes do arco. a–aduelas, b–imposta, c–chave, d–pilar ou maciço, e–contraforte](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-defs.png){#fig:arco-defs .line .align-right}
