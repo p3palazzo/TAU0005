@@ -6,9 +6,9 @@ author  : "Pedro P. Palazzo"
 date    : 2021-09-21
 toc:
   - Volume ou espaço
+  - Volumetria e cultura
   - Tipos distributivos
   - Elementos de composição
-  - Articulação arquitetônica do espaço
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
   caption: "Thomas Cole, [*Decurso do império: desolação*](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg), 1836"
@@ -21,26 +21,16 @@ title-slide-attributes:
 
 # Espaço ou volume # {data-background-color="#0f0"}
 
-## Espaço vs anti-espaço ou volume vs espaço? ## {data-visibility="hidden"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Segundo Peterson, espaço tradicional em oposição ao anti-espaço
-modernista [@peterson:2020space]. Definição questionável, bibliografia
-consagrada usa definição inversa: conceito de *espaço* emerge na
-modernidade, ao passo que a arquitetura tradicional trabalha com
-*volumes* e massas construídas [@colquhoun:2002modern;
-@argan:1973concepto; @banham:1975teoria].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ## {data-background-image="https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Hoje em dia, o espaço é a sensibilidade por padrão da arquitetura.
 Aprendemos a visualizar espaços como manchas fluidas que se reorganizam
-a cada mudança de posição. Os objetos da arquitetura são, literalmente,
-objetos físicos posicionados nesse espaço: pilares, lajes, divisórias,
-mobília, plantas e obras de arte diversas.
-[@fig:on-cn; @fig:salao-verde]
+a cada mudança de posição. Essa é a espacialidade canônica da
+arquitetura moderna [@banham:1975teoria; @argan:1973concepto] Os objetos
+da arquitetura são, literalmente, objetos físicos posicionados nesse
+espaço: pilares, lajes, divisórias, mobília, plantas e obras de arte
+diversas. [@fig:on-cn; @fig:salao-verde]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Oscar Niemeyer e Departamento de Arquitetura da Novacap, segundo anteprojeto para o andar nobre do Congresso Nacional, Brasília, 1957. Documentado por [Elcio Gomes da Silva e José Manoel Morales Sánchez, 2009](https://mdc.arq.br/2009/03/09/congresso-nacional-da-documentacao-tecnica-a-obra-construida/)](https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png){#fig:on-cn .full .line .nobg}
@@ -49,9 +39,33 @@ mobília, plantas e obras de arte diversas.
 
 ![Oscar Niemeyer e Departamento de Arquitetura da Novacap, salão Verde do Congresso Nacional, Brasília, 1957--1960. Foto: [Brasília na Trilha, 2015](http://www.brasilianatrilha.com.br/2015/12/congresso-nacional.html)](https://i.pinimg.com/originals/f0/e2/fd/f0e2fda773ec7a55f7cb009abc8868d9.jpg){#fig:salao-verde}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif/lossy-page1-1280px-Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/08/28/1a/08281ab3812d510d57ba634bf7b4cd71.jpg" data-background-size="contain"}
 
-![Francisco Marcelino de Souza Aguiar, engenheiro, palácio Monroe, Rio de Janeiro, 1906. [Planta do 1.º pavimento levantada em 1924](https://commons.wikimedia.org/wiki/File:Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif/lossy-page1-1280px-Planta_do_1º_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif.jpg){#fig:monroe-plan}
+![Planta "humanizada" de apartamento brasileiro contemporâneo](https://i.pinimg.com/originals/27/32/c4/2732c422dc92adb5cada8ca302854ac3.jpg){#fig:humanizada .align-right}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A arquitetura moderna corrente também produz volumes claramente
+delimitados, mas essa solução é mais um compromisso da espacialidade
+moderna com expectativas funcionais do que uma possibilidade intrínseca
+à sensibilidade espacial modernista. Ambientes modernistas concebidos
+como volumes tradicionais claramente delimitados em geral deixam a
+desejar do ponto de vista da expressividade arquitetônica e da
+organização formal. [@fig:humanizada]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/2560px-Planta_do_1_pavimento_do_Palacio_Monroe.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em contraste, as diferentes culturas arquitetônicas tradicionais adotam
+perspectivas variadas com respeito à leitura de volumes claramente
+delimitados ou de uma certa fluidez espacial. Na tradição clássica do
+Mediterrâneo, a volumetria de formas definidas predomina claramente.
+[@fig:monroe-plan]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Francisco Marcelino de Souza Aguiar, engenheiro, palácio Monroe, Rio de Janeiro, 1906. [Planta do 1.º pavimento levantada em 1924]](https://hcommons.org/app/uploads/sites/1002372/2021/09/2560px-Planta_do_1_pavimento_do_Palacio_Monroe.jpg){#fig:monroe-plan}
+
+[Planta do 1.º pavimento levantada em 1924]: https://commons.wikimedia.org/wiki/File:Planta_do_1°_pavimento_do_Palácio_Monroe,_Rio_de_Janeiro.tif
 
 <!--_,-->
 
@@ -63,19 +77,85 @@ mobília, plantas e obras de arte diversas.
 
 ![Miguel Ângelo Buonarroti, arquiteto, Santa Maria degli Angeli e Martiri, Roma, 1562, implantada no tepidário das termas de Diocleciano. Foto: [Pedro P. Palazzo, 2015](https://commons.wikimedia.org/wiki/File:IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg){#fig:angeli .full}
 
-## {data-background-image="https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Já falamos sobre isso antes, mas não custa lembrar: a distinção entre
+arquitetura *tradicional* e *moderna* não tem a ver com qualquer
+determinismo cronológico. Existem obras tradicionais contemporâneas, e o
+historiador da arte italiano Giulio Carlo Argan mostrou como a
+espacialidade moderna tem raízes relativamente antigas, desde o barroco
+de Borromini no século [XVII]{.smallcaps} [@argan:1973concepto].
+[@fig:sapienza-sec; @fig:sapienza-plan]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Sant'Ivo alla Sapienza, corte transversal por [Dominique Barrière, c. 1695](https://commons.wikimedia.org/wiki/File:SantIvo_Drawing_04.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SantIvo_Drawing_04.jpg/664px-SantIvo_Drawing_04.jpg){#fig:sapienza-sec .align-right}
 
-![Francesso Borromini, Sant'Ivo alla Sapienza, 1642--1660. Planta por [Dominique Barrière, 1720](https://archive.org/details/gri_33125012765174/page/n11/mode/2up)](https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg){#fig:sapienza-plan}
-
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SantIvo_Drawing_04.jpg/664px-SantIvo_Drawing_04.jpg" data-background-size="contain"}
+
+![Francesso Borromini, Sant'Ivo alla Sapienza, 1642--1660. Planta por [Dominique Barrière, 1720](https://archive.org/details/gri_33125012765174/page/n11/mode/2up)](https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg){#fig:sapienza-plan}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg" data-background-position="bottom"}
 
 ![Pátio em frente a Sant'Ivo della Sapienza. Foto: [Vlad Lesnov, 2010](https://commons.wikimedia.org/wiki/File:Archivio_di_stato_di_Roma_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg){#fig:sapienza-cortile .full}
 
 <!--_,-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Muito menos é um juízo de valor. Tradicional não quer dizer anacrônico e
+nem antiquado. Construções tradicionais podem ser respostas tão ou mais
+válidas do que o modernismo para os problemas da sociedade
+contemporânea. A distinção, como já explicamos, tem a ver com o processo
+de produção das edificações e o tipo de raciocínio formal que esse
+processo favorece.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Hegel ## {data-visibility="hidden"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Arquitetura simbólica, clássica e romântica [@hegel:2001cursos1].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/f5/6b/59/f56b591ac95201074fb40f52727110a2.jpg"}
+
+![Templo de Hathor, Dendera, iniciado em 54 a.C. Desenho: [Auguste Mariette](https://digitalcollections.nypl.org/items/510d47e2-9645-a3d9-e040-e00a18064a99)](https://i.pinimg.com/originals/f5/6b/59/f56b591ac95201074fb40f52727110a2.jpg){#fig:dendera-plan}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ceiling_of_Temple_of_Hathor.JPG/1280px-Ceiling_of_Temple_of_Hathor.JPG"}
+
+![Teto esculpido e pintado no templo de Hathor, Dendera. Foto:[Fig Wright, 2011](https://commons.wikimedia.org/wiki/File:Ceiling_of_Temple_of_Hathor.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ceiling_of_Temple_of_Hathor.JPG/1280px-Ceiling_of_Temple_of_Hathor.JPG){#fig:dendera-teto .full}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG/1280px-Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG" data-background-position="bottom"}
+
+![Templos de Hera em Paestum (Possidônia), séculos [VI]{.smallcaps} e [V]{.smallcaps} a.C. Foto: [V. Alfano, 2012](https://commons.wikimedia.org/wiki/File:Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG/1280px-Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG){#fig:paestum}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg"}
+
+![Leo von Klenze, Reconstituição da Acrópole de Atenas, 1846. Óleo sobre tela](https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg){#fig:klenze-akro .full}
+
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm" data-background-video-muted="true"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Apolodoro de Damasco, arquiteto, Panteão, Roma, 113--125 d.C. Vista do interior filmada por [Wanderlust Travel Videos, 2021]](https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm){#fig:pantheon-wtv}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Wanderlust Travel Videos, 2021]: https://youtu.be/bn6wLKU1XsM
+
+
+## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/The Amazing Hagia Sophia-130359681-720p-25fps.mp4" data-background-video-muted="true"}
+
+:::::::::::::::::::::::::::::::::::: {#fig:sophia-model .iframe-wrapper}
+<iframe src="https://player.vimeo.com/video/130359681?h=74460fff34" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+
+<a href="https://vimeo.com/130359681">Modelo digital de Santa Sofia</a>. Realização: <a href="https://vimeo.com/juanalvarezeu">Juan &Aacute;lvarez</a>
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg"}
+
+![Robert de Luzarches, arquiteto, depois Thomas e Renaud de Cormont, chefes de canteiro. Nave da catedral de Amiens, 1220--1270. Foto: [Zairon, 2018](https://commons.wikimedia.org/wiki/File:Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg){#fig:amiens}
+
+## Quatro elementos da arquitetura ## {data-visibility="hidden"}
+
+# Volumetria e cultura # {data-background-color="#0f0"}
 
 ## Índia antiga: do lugar ao volume ## {data-visibility="hidden"}
 
@@ -194,6 +274,60 @@ do monumento, pouca articulação dos espaços interiores --- diminutos
 e/ou receptáculos ornamentados para um ponto focal material.
 
 Arquitetura edicular [@hardy:2019kashmiri; @bharne:2012rediscovering].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Alberti ## {data-visibility="hidden"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ocupação do solo: regio, area, partitio. Implantação e divisas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Nikolaus Pevsner ## {data-visibility="hidden"}
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+- História da construção = história da técnica
+- História da função = história econômica
+- História do estilo = história da arquitetura
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Multiplicação de programas arquitetônicos específicos desde a revolução
+industrial [@pevsner:1989history]:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+- Monumentos nacionais e ao intelecto
+- Edifícios do poder político tradicional:
+  - Castelos ou palácios
+  - Paços municipais
+- Edifícios do poder político moderno:
+  - Parlamentos
+  - Administração do estado central
+  - Prefeituras e administração local ou regional
+  - Tribunais
+- Teatros
+- Bibliotecas
+- Museus
+- Hospitais
+- Prisões
+- Hotéis
+- Bolsas de valores e bancos
+- Armazéns e edifícios de escritórios
+- Estações ferroviárias
+- Mercados, conservatórios e galerias de exposição
+- Oficinas, comércios e lojas de departamentos
+- Fábricas
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Não é que essas necessidades não existissem antes (com algumas exceções,
+como a ferrovia). O que muda com a revolução industrial é a especifidade
+dos requisitos funcionais e, em vários casos, a escala das áreas no
+programa de necessidades.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Tipos distributivos # {data-background-color="#0f0"}
@@ -546,90 +680,6 @@ atenção a escadarias interiores antes do Renascimento.
 ## Corredores e passagens ## {data-visibility="hidden"}
 
 ## Pátios ## {data-visibility="hidden"}
-
-# Espaço e significado #
-
-## Alberti ## {data-visibility="hidden"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Ocupação do solo: regio, area, partitio. Implantação e divisas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Hegel ## {data-visibility="hidden"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Arquitetura simbólica, clássica e romântica [@hegel:2001cursos1].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/f5/6b/59/f56b591ac95201074fb40f52727110a2.jpg"}
-
-![Templo de Hathor, Dendera, iniciado em 54 a.C. Desenho: [Auguste Mariette](https://digitalcollections.nypl.org/items/510d47e2-9645-a3d9-e040-e00a18064a99)](https://i.pinimg.com/originals/f5/6b/59/f56b591ac95201074fb40f52727110a2.jpg){#fig:dendera-plan}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ceiling_of_Temple_of_Hathor.JPG/1280px-Ceiling_of_Temple_of_Hathor.JPG"}
-
-![Teto esculpido e pintado no templo de Hathor, Dendera. Foto:[Fig Wright, 2011](https://commons.wikimedia.org/wiki/File:Ceiling_of_Temple_of_Hathor.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ceiling_of_Temple_of_Hathor.JPG/1280px-Ceiling_of_Temple_of_Hathor.JPG){#fig:dendera-teto .full}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG/1280px-Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG" data-background-position="bottom"}
-
-![Templos de Hera em Paestum (Possidônia), séculos [VI]{.smallcaps} e [V]{.smallcaps} a.C. Foto: [V. Alfano, 2012](https://commons.wikimedia.org/wiki/File:Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG/1280px-Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG){#fig:paestum}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg"}
-
-![Leo von Klenze, Reconstituição da Acrópole de Atenas, 1846. Óleo sobre tela](https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg){#fig:klenze-akro .full}
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg"}
-
-![Robert de Luzarches, arquiteto, depois Thomas e Renaud de Cormont, chefes de canteiro. Nave da catedral de Amiens, 1220--1270. Foto: [Zairon, 2018](https://commons.wikimedia.org/wiki/File:Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg){#fig:amiens}
-
-## Quatro elementos da arquitetura ## {data-visibility="hidden"}
-
-## Nikolaus Pevsner ## {data-visibility="hidden"}
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-- História da construção = história da técnica
-- História da função = história econômica
-- História do estilo = história da arquitetura
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Multiplicação de programas arquitetônicos específicos desde a revolução
-industrial [@pevsner:1989history]:
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-- Monumentos nacionais e ao intelecto
-- Edifícios do poder político tradicional:
-  - Castelos ou palácios
-  - Paços municipais
-- Edifícios do poder político moderno:
-  - Parlamentos
-  - Administração do estado central
-  - Prefeituras e administração local ou regional
-  - Tribunais
-- Teatros
-- Bibliotecas
-- Museus
-- Hospitais
-- Prisões
-- Hotéis
-- Bolsas de valores e bancos
-- Armazéns e edifícios de escritórios
-- Estações ferroviárias
-- Mercados, conservatórios e galerias de exposição
-- Oficinas, comércios e lojas de departamentos
-- Fábricas
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Não é que essas necessidades não existissem antes (com algumas exceções,
-como a ferrovia). O que muda com a revolução industrial é a especifidade
-dos requisitos funcionais e, em vários casos, a escala das áreas no
-programa de necessidades.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Bibliografia # {.allowframebreaks}
 
