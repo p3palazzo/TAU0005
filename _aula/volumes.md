@@ -5,9 +5,9 @@ item    : "III"
 author  : "Pedro P. Palazzo"
 date    : 2021-09-21
 toc:
-  - Tipos distributivos
   - Volume ou espaço
-  - Arquétipos formais
+  - Formas volumétricas
+  - Elementos de composição
   - Articulação arquitetônica do espaço
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
@@ -18,8 +18,6 @@ header:
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
 ---
-
-# Tipos distributivos # {data-background-color="#0f0"}
 
 # Volume ou espaço # {data-background-color="#0f0"}
 
@@ -148,7 +146,11 @@ Espaço tradicional em oposição ao anti-espaço modernista [@peterson:2020spac
 
 ![Pátio em frente a Sant'Ivo della Sapienza. Foto: [Vlad Lesnov, 2010](https://commons.wikimedia.org/wiki/File:Archivio_di_stato_di_Roma_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg){#fig:sapienza-cortile .full}
 
-# Arquétipos formais # {data-visibility="hidden"}
+<!--_,-->
+
+# Elementos de composição # {data-background-color="#0f0"}
+
+## Formas volumétricas ## {data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mais cedo, dissemos que arquitetura é construção.
@@ -267,6 +269,46 @@ Siheyuan (pátio entre 4 alas) e gong (salão central, corredor perimetral
 e passarela coberta de ligação): Zhou em diante
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Curtis ## {data-visibility="hidden"}
+
+## Vãos e módulos em elevação ## {data-visibility="hidden"}
+
+## Estudo de massas ## {data-visibility="hidden"}
+
+## Proporção e articulação de elevações ## {data-visibility="hidden"}
+
+## Proporcionar espaços ## {data-visibility="hidden"}
+
+## Poché e mosaico ## {data-visibility="hidden"}
+
+## Elementos de composição na tradição mediterrânea ## {data-visibility="hidden"}
+
+> Um dos aspectos mais difíceis na composição é determinar corretamente
+> a proporção relativa de área e importância arquitetônica entre ...
+> áreas dedicadas a um uso específico e áreas necessárias simplesmente
+> para acesso e circulação. [@curtis:1923architectural, 67]
+
+## Vestíbulos exteriores ## {data-visibility="hidden"}
+
+## Vestíbulos incorporados ## {data-visibility="hidden"}
+
+## Circulação vertical ## {data-visibility="hidden"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Escadarias monumentais quase sempre no exterior dos edifícios; pouca
+atenção a escadarias interiores antes do Renascimento.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Configuração das salas ## {data-visibility="hidden"}
+
+> Pode-se dizer que a disposição das salas numa sequência e ordem
+> lógicas é o objeto primordial da composição arquitetônica.
+> [@curtis:1923architectural, 104]
+
+## Corredores e passagens ## {data-visibility="hidden"}
+
+## Pátios ## {data-visibility="hidden"}
+
 # Articulação arquitetônica do espaço #
 
 ## Alberti ## {data-visibility="hidden"}
@@ -275,10 +317,10 @@ e passarela coberta de ligação): Zhou em diante
 Ocupação do solo: regio, area, partitio. Implantação e divisas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Hegel ##
+## Hegel ## {data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Arquitetura simbólica, clássica e romântica.
+Arquitetura simbólica, clássica e romântica [@hegel:2001cursos1].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/f5/6b/59/f56b591ac95201074fb40f52727110a2.jpg"}
@@ -301,12 +343,214 @@ Arquitetura simbólica, clássica e romântica.
 
 ![Robert de Luzarches, arquiteto, depois Thomas e Renaud de Cormont, chefes de canteiro. Nave da catedral de Amiens, 1220--1270. Foto: [Zairon, 2018](https://commons.wikimedia.org/wiki/File:Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg){#fig:amiens}
 
-## Pevsner ##
+## Nikolaus Pevsner ## {data-visibility="hidden"}
+
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
 - História da construção = história da técnica
 - História da função = história econômica
 - História do estilo = história da arquitetura
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Multiplicação de programas arquitetônicos específicos desde a revolução
+industrial [@pevsner:1989history]:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+- Monumentos nacionais e ao intelecto
+- Edifícios do poder político tradicional:
+  - Castelos ou palácios
+  - Paços municipais
+- Edifícios do poder político moderno:
+  - Parlamentos
+  - Administração do estado central
+  - Prefeituras e administração local ou regional
+  - Tribunais
+- Teatros
+- Bibliotecas
+- Museus
+- Hospitais
+- Prisões
+- Hotéis
+- Bolsas de valores e bancos
+- Armazéns e edifícios de escritórios
+- Estações ferroviárias
+- Mercados, conservatórios e galerias de exposição
+- Oficinas, comércios e lojas de departamentos
+- Fábricas
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Não é que essas necessidades não existissem antes (com algumas exceções,
+como a ferrovia). O que muda com a revolução industrial é a especifidade
+dos requisitos funcionais e, em vários casos, a escala das áreas no
+programa de necessidades.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Tipos distributivos ## {data-visibility="hidden"}
+
+## {data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A história da arquitetura contemporânea se desenrola em torno da
+transição de *tipos* edilícios preconcebidos para *composições* com
+elementos individuais predefinidos --- salas, vestíbulos, circulações
+--- e daí para *projetos* a partir de programas funcionais abstratos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A existência de um certo número de tipos --- ideias de edificações dadas
+*a priori* --- é um dos aspectos que definem uma cultura arquitetônica
+como sendo tradicional [@petruccioli:1998exoteric]. Há vários esquemas
+teóricos que tentam explicar como os tipos se formam e se transformam
+[@muratori:1959studiIX; @moudon:1994getting]. Um desses esquemas,
+proposto pelo professor C. William Westfall da Universidade de Notre
+Dame, nos Estados Unidos [@westfall:1991building], propõe reduzir todas
+as formas tangíveis dos tipos edilícios a sete propósitos sociais
+abstratos. [@fig:7types]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types .full .nobg}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/Glossary_Palladio.png" data-background-size="contain"}
+
+![Andrea Palladio, arquiteto, esquemas de composição de diferentes *ville* segundo Hersey e Freedam](https://hcommons.org/app/uploads/sites/1002372/2021/09/Glossary_Palladio.png){#fig:palladio-hersey-freedam .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Como quer que seja, a tipologia edilícia visualiza as construções no seu
+conjunto com uma organização predefinida ainda que flexível. Mas, ao
+longo do Renascimento na Europa, esses tipos gerais começam a ser
+desmembrados em partes que podem ser recombinadas de diferentes modos.
+Nas *ville* ou casas de fazenda projetadas por Andrea Palladio na
+segunda metade do século [XVI]{.smallcaps}, o que define o caráter das
+construções não é a aderência a uma ideia visual predefinida --- que não
+estava consagrada até então --- e sim a exploração de variações num
+esquema de distribuição de salas principais e secundárias
+[@schumacher:1987palladio]. [@fig:palladio-hersey-freedam]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A partir da metade do século [XVIII]{.smallcaps}, tentativa de
+racionalização dos programas arquitetônicos [@etlin:1978dedans;
+@blondel:1737distribution].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://digi.ub.uni-heidelberg.de/diglitData/image/durand1802/1/Planche_54.jpg" data-background-position="top"}
+
+![Comparação de palácios romanos e genoveses dos séculos [XVI--XVIII]{.smallcaps}. Desenhados por [J.N.L. Durand, *Recueil et parallèle des édifices de tout genre...*, pr. 54]](https://digi.ub.uni-heidelberg.de/diglitData/image/durand1802/1/Planche_54.jpg){#fig:durand-rp054 .full}
+
+[J.N.L. Durand, *Recueil et parallèle des édifices de tout genre...*, pr. 54]: https://digi.ub.uni-heidelberg.de/diglit/durand1802/0056
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na escola Politécnica (escola de engenharia), Durand ensina projeto
+arquitetônico reduzindo os programas a princípios gerais com estilos
+intercambiáveis. [@fig:durand-rp054]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/partiegraphiqued00dura_0128-1080p.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No sistema de Durand, a composição não é racionalizada segundo programas
+estritamente funcionais, mas segundo a destinação geral do edifício
+[@durand:1802precis; @durand:1821partie]. [@fig:durand-pg128] É um modo
+de dar um *reset* nos propósitos fundamentais da arquitetura.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![J.N.L. Durand, resolução de composições para edifícios privados com proporção de 3:1 nos vãos. [*Partie graphique des cours d'architecture...*]](https://hcommons.org/app/uploads/sites/1002372/2021/09/partiegraphiqued00dura_0128-1080p.png){#fig:durand-pg128 .line}
+
+[*Partie graphique des cours d'architecture...*]: https://archive.org/details/partiegraphiqued00dura/
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/partiegraphiqued00dura_0060-1080p.png" data-background-size="contain"}
+
+![J.N.L. Durand, edifícios planejados sobre grelha uniforme. [*Partie graphique des cours d'architecture...*]](https://hcommons.org/app/uploads/sites/1002372/2021/09/partiegraphiqued00dura_0060-1080p.png){#fig:durand-pg060 .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em vez de desenvolver as necessidades contemporâneas em cima do legado
+das formas já elaboradas pelo processo tipológico, Durand quer recomeçar
+do zero criando novas formas a partir de um plano cartesiano dividido
+por uma grelha homogênea. Esse procedimento deixa claro que qualquer
+hierarquia formal ou espacial proposta sobre essa grelha é uma decisão
+de certo modo arbitrária. [@fig:durand-pg060]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O Renascimento abriu o caminho para se pensar no edifício não mais como
+uma ideia de conjunto e sim como uma composição de elementos --- salas e
+circulações --- de formas predefinidas. Em cima disso, a grelha uniforme
+proposta como método de composição por Durand abre o caminho para se
+pensar no edifício como uma soma de áreas definidas num programa de
+necessidades. Portanto, na sequência da *tipologia* tradicional e da
+*composição* clássica, vamos chegar ao *projeto* na arquitetura
+contemporâneo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Compor ou projetar ## {data-visibility="hidden"}
+
+## {data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/helio-pinon-modelos-de-ensenanza.webm" data-background-video-muted="true" data-background-video-loop="true"}
+
+![Helio Piñón no [Congresso Internacional [EAUCLM--T]{.smallcaps}, 2011]](https://cdn.palazzo.arq.br/utilitas/volumes/helio-pinon-modelos-de-ensenanza.webm){#fig:pinon .fragment .current-visible}
+
+[Congresso Internacional [EAUCLM--T]{.smallcaps}, 2011]: https://vimeo.com/20146063
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O professor Helio Piñón, da Universidade de Valência, na Espanha,
+articulou uma teoria do que é o projeto arquitetônico moderno. Segundo
+Piñón:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+. . .
+
+> De agora em diante, o papel do projetista não se reduz mais a gerir
+> com maior ou menor competência convenções tipológicas e sistemas de
+> ordenamento sem margem para controvérsias: a partir de agora, a sua
+> atividade implica plenamente a concepção de edifícios segundo
+> *critérios que variam caso a caso*. E tudo isso sem contar com regras
+> predefinidas que garantam a correção do produto: o processo de projeto
+> se dedica, em todo caso, a encontrar as leis formais específicas que
+> darão identidade à obra [...] [@pinon:2006teoria, 102 (grifo nosso)]
+
+## {data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Podemos questionar se é válido projetar como quer Piñón, sem levar em
+consideração nada além dos critérios intrínsecos a cada programa
+considerado "caso a caso" e também se é realmente possível eliminar toda
+a bagagem cultural prévia, seja ela clássica ou "modernista". De
+qualquer modo, essa teoria é útil para confrontarmos o paradigma,
+digamos, *não moderno* de uma arquitetura baseada na composição com
+elementos predefinidos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+
+![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault .align-right}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esses elementos podem ser físicos, como as cinco *ordens* canônicas da
+arquitetura clássica, aqui na forma do sistema de proporções
+desenvolvido pelo erudito francês Claude Perrault no final do século
+[XVII]{.smallcaps}. [@fig:perrault]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esses elementos também podem ser os *vazios* entre a matéria construída.
+Na arquitetura tradicional, esses vazios quase sempre têm uma forma
+geométrica fácil de apreender e nitidamente delimitada pelos elementos
+da construção. Portanto, os elementos da construção servem para
+delimitar [elementos de composição]{.newthought} que são a utilidade da
+arquitetura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Bibliografia # {.unlisted .allowframebreaks}
