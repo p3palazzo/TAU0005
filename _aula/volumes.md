@@ -148,7 +148,7 @@ Espaço tradicional em oposição ao anti-espaço modernista [@peterson:2020spac
 
 <!--_,-->
 
-# Tipos distributivos # {data-visibility="hidden"}
+# Tipos distributivos # {data-background-color="#0f0"}
 
 ## {data-background-color="#0f0"}
 
@@ -158,6 +158,33 @@ transição de *tipos* edilícios preconcebidos para *composições* com
 elementos individuais predefinidos --- salas, vestíbulos, circulações
 --- e daí para *projetos* a partir de programas funcionais abstratos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
+
+### Composição e distribuição ###
+
+. . .
+
+- [Composição]{.newthought}: proporcionar as formas e as dimensões das
+  salas e das circulações segundo a sua importância e propósito
+
+. . .
+
+- [Distribuição]{.newthought}: dispor e interligar as salas e as
+  circulações segundo a conveniência prática e as convenções sociais
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ambas essas ações dizem respeito, é claro, ao que chamamos hoje em dia
+de necessidades funcionais da arquitetura: ou seja, atender às áreas
+estipuladas no programa de necessidades e fazer com que a circulação e o
+serviço no edifício aconteçam do modo mais eficiente possível. Mas a
+composição e a distribuição também dizem respeito a necessidades
+simbólicas e sociais: mostrar de algum modo o caráter do edifício e
+o seu papel na cidade e na sociedade, deixar claro onde estão os
+destinos principais da circulação dentro dele, etc.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Tipologia tradicional, composição clássica e projeto moderno ## {data-visibility="hidden"}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png"}
 
@@ -195,8 +222,9 @@ esquema de distribuição de salas principais e secundárias
 ## {data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A partir da metade do século [XVIII]{.smallcaps}, tentativa de
-racionalização dos programas arquitetônicos [@etlin:1978dedans;
+A partir da metade do século [XVIII]{.smallcaps}, vemos uma tentativa de
+racionalização dos programas arquitetônicos a partir do conceito de
+"distribuição" dos ambientes [@etlin:1978dedans;
 @blondel:1737distribution].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -471,7 +499,7 @@ atenção a escadarias interiores antes do Renascimento.
 
 ## Pátios ## {data-visibility="hidden"}
 
-# Articulação arquitetônica do espaço #
+# Espaço e significado #
 
 ## Alberti ## {data-visibility="hidden"}
 
@@ -504,6 +532,8 @@ Arquitetura simbólica, clássica e romântica [@hegel:2001cursos1].
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg"}
 
 ![Robert de Luzarches, arquiteto, depois Thomas e Renaud de Cormont, chefes de canteiro. Nave da catedral de Amiens, 1220--1270. Foto: [Zairon, 2018](https://commons.wikimedia.org/wiki/File:Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg){#fig:amiens}
+
+## Quatro elementos da arquitetura ## {data-visibility="hidden"}
 
 ## Nikolaus Pevsner ## {data-visibility="hidden"}
 
