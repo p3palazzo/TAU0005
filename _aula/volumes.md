@@ -19,100 +19,29 @@ title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
 ---
 
-# Volume ou espaço # {data-background-color="#0f0"}
+# Espaço ou volume # {data-background-color="#0f0"}
 
-## Do monumento maciço ao espaço escavado ## {data-visibility="hidden"}
-
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png" data-background-size="contain"}
-
-![Reconstituição do Templo 40 em Sāñcī, segundo [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:IA_Temple_40_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png){#fig:temple40 .line .nobg}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/8f/df/7e/8fdf7e39d8f32c9e45f0d5980012bc5d.jpg"}
-
-![Portal da caverna de Lomas Ṛṣi, Bihar, 250--185 a.C. Foto: [Photo Dharma, 2013](https://commons.wikimedia.org/wiki/File:Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg/1024px-Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg){#fig:lomas-portal}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/1e/09/97/1e0997b4a3a7893313b6e6336a45546d.png" data-background-size="contain"}
-
-![Volumetria da caverna de Lomas Ṛṣi. Desenho: [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Lomas_Rishi_cave.jpg)](https://i.pinimg.com/originals/1e/09/97/1e0997b4a3a7893313b6e6336a45546d.png){#fig:lomas-3d .nobg .line}
+## Espaço vs anti-espaço ou volume vs espaço? ## {data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png"}
-
-![Palácios representados em relevos em Sāñchī, Amaravātī e Mathurā, reproduzidos por Coomaraswamy](https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png){#fig:palaces-coo .full .line .nobg}
-
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg" data-background-size="contain"}
-
-![Procissão de Prasenajit de Kosala deixando Saravasti para se encontrar com o Buda, relevo na *toraṇa* norte da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg){#fig:prasenajit-sanci .align-right}
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Características do palácio]{.newthought} indiano
-
-- Elevado sobre uma plataforma baixa, com acesso por uma escadaria com
-  balaustradas e cujo primeiro degrau é semicircular;
-- Alongado na direção transversal;
-- Primeiro nível aberto, habitação nos níveis superiores;
-- *Kūṭagāra*: pavilhão coberto no terraço.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/1f/eb/41/1feb416bd30829c3a24309b276064069.png" data-background-size="contain"}
-
-![Representação de palácios em Amarāvatī e Kāṭhiāwāṛ, reproduzidas por Coomaraswamy](https://i.pinimg.com/originals/1f/eb/41/1feb416bd30829c3a24309b276064069.png){#fig:coo24-26 .line .nobg}
-
-## {.unlisted data-background-image="https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg"}
-
-![Cidade de Kuśināgarā, cena da guerra das relíquias, relevo na *toraṇa* (portada) sul da estupa 1 em Sāñcī, Madhya Pradesh, reinado de Sātakaṇi II, 50--25 a.C. Foto: [Anandajoti Bhikku, 2017](https://www.flickr.com/photos/anandajoti/33813012975/in/photostream/)](https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg){#fig:kusinagara-sanci .full}
-
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png" data-background-size="contain"}
-
-![Reconstituição do portão da cidade de Kuśināgarā segundo [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png)](https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png){#fig:kusinagar-brown .line .nobg}
-
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg" data-background-size="contain"}
-
-![Rei Bimbisara partindo de Rajāgṛha para visitar o Buda, relevo na *toraṇa* sul da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg){#fig:rajagriha-sanci .align-right}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/83/56/94/8356949968a0413e38ca504f22a3a184.png"}
-
-![Reconstituição de um portão de cidade indiana antiga, por Coomaraswamy. Níveis superiores](https://i.pinimg.com/originals/b2/79/8d/b2798dfb10382c238d932ee02daa1700.png){#fig:coo-01-02 .line .nobg}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/b2/79/8d/b2798dfb10382c238d932ee02daa1700.png"}
-
-![Reconstituição de um portão de cidade indiana antiga, por Coomaraswamy. Nível térreo](https://i.pinimg.com/originals/83/56/94/8356949968a0413e38ca504f22a3a184.png){#fig:coo-03 .line .nobg}
-
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG/1280px-Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG"}
-
-![Relevo na passarela elevada da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Photo Dharma, 2017](https://commons.wikimedia.org/wiki/File:Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg){#fig:promenade .align-right}
-
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg" data-background-size="contain"}
-
-![Cena celestial, *toraṇa* leste da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG/1280px-Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG){#fig:heavenly-sanci}
-
-<!--_,-->
-
-## Arquitetura do lugar e arquitetura de espaços ## {data-visibility="hidden"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Bacia do Mediterrâneo: arquitetura produz espaços; caráter dado pela
-extensão e forma geométrica dos volumes interiores.
-
-Mundo indiano: arquitetura demarca lugares; caráter dado pela posição do
-monumento, pouca articulação dos espaços interiores --- diminutos e/ou
-receptáculos ornamentados para um ponto focal material.
-
-Arquitetura edicular [@hardy:2019kashmiri; @bharne:2012rediscovering].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Espaço e anti-espaço ## {data-visibility="hidden"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Espaço tradicional em oposição ao anti-espaço modernista [@peterson:2020space].
+Segundo Peterson, espaço tradicional em oposição ao anti-espaço
+modernista [@peterson:2020space]. Definição questionável, bibliografia
+consagrada usa definição inversa: conceito de *espaço* emerge na
+modernidade, ao passo que a arquitetura tradicional trabalha com
+*volumes* e massas construídas [@colquhoun:2002modern;
+@argan:1973concepto; @banham:1975teoria].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Hoje em dia, o espaço é a sensibilidade por padrão da arquitetura.
+Aprendemos a visualizar espaços como manchas fluidas que se reorganizam
+a cada mudança de posição. Os objetos da arquitetura são, literalmente,
+objetos físicos posicionados nesse espaço: pilares, lajes, divisórias,
+mobília, plantas e obras de arte diversas.
+[@fig:on-cn; @fig:salao-verde]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Oscar Niemeyer e Departamento de Arquitetura da Novacap, segundo anteprojeto para o andar nobre do Congresso Nacional, Brasília, 1957. Documentado por [Elcio Gomes da Silva e José Manoel Morales Sánchez, 2009](https://mdc.arq.br/2009/03/09/congresso-nacional-da-documentacao-tecnica-a-obra-construida/)](https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png){#fig:on-cn .full .line .nobg}
 
@@ -147,6 +76,125 @@ Espaço tradicional em oposição ao anti-espaço modernista [@peterson:2020spac
 ![Pátio em frente a Sant'Ivo della Sapienza. Foto: [Vlad Lesnov, 2010](https://commons.wikimedia.org/wiki/File:Archivio_di_stato_di_Roma_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg){#fig:sapienza-cortile .full}
 
 <!--_,-->
+
+## Índia antiga: do lugar ao volume ## {data-visibility="hidden"}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png" data-background-size="contain"}
+
+![Reconstituição do Templo 40 em Sāñcī, segundo [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:IA_Temple_40_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png){#fig:temple40 .line .nobg}
+
+## {data-background-image="https://i.pinimg.com/originals/8f/df/7e/8fdf7e39d8f32c9e45f0d5980012bc5d.jpg"}
+
+![Portal da caverna de Lomas Ṛṣi, Bihar, 250--185 a.C. Foto: [Photo Dharma, 2013](https://commons.wikimedia.org/wiki/File:Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg/1024px-Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg){#fig:lomas-portal}
+
+## {data-background-image="https://i.pinimg.com/originals/1e/09/97/1e0997b4a3a7893313b6e6336a45546d.png" data-background-size="contain"}
+
+![Volumetria da caverna de Lomas Ṛṣi. Desenho: [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Lomas_Rishi_cave.jpg)](https://i.pinimg.com/originals/1e/09/97/1e0997b4a3a7893313b6e6336a45546d.png){#fig:lomas-3d .nobg .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png"}
+
+![Palácios representados em relevos em Sāñchī, Amaravātī e Mathurā, reproduzidos por Coomaraswamy](https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png){#fig:palaces-coo .full .line .nobg}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg" data-background-size="contain"}
+
+![Procissão de Prasenajit de Kosala deixando Saravasti para se encontrar com o Buda, relevo na *toraṇa* norte da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg){#fig:prasenajit-sanci .align-right}
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[Características do palácio]{.newthought} indiano
+
+- Elevado sobre uma plataforma baixa, com acesso por uma escadaria com
+  balaustradas e cujo primeiro degrau é semicircular;
+- Alongado na direção transversal;
+- Primeiro nível aberto, habitação nos níveis superiores;
+- *Kūṭagāra*: pavilhão coberto no terraço.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/1f/eb/41/1feb416bd30829c3a24309b276064069.png" data-background-size="contain"}
+
+![Representação de palácios em Amarāvatī e Kāṭhiāwāṛ, reproduzidas por Coomaraswamy](https://i.pinimg.com/originals/1f/eb/41/1feb416bd30829c3a24309b276064069.png){#fig:coo24-26 .line .nobg}
+
+## {data-background-image="https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg"}
+
+![Cidade de Kuśināgarā, cena da guerra das relíquias, relevo na *toraṇa* (portada) sul da estupa 1 em Sāñcī, Madhya Pradesh, reinado de Sātakaṇi II, 50--25 a.C. Foto: [Anandajoti Bhikku, 2017](https://www.flickr.com/photos/anandajoti/33813012975/in/photostream/)](https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg){#fig:kusinagara-sanci .full}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png" data-background-size="contain"}
+
+![Reconstituição do portão da cidade de Kuśināgarā segundo [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png)](https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png){#fig:kusinagar-brown .line .nobg}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg" data-background-size="contain"}
+
+![Rei Bimbisara partindo de Rajāgṛha para visitar o Buda, relevo na *toraṇa* sul da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg){#fig:rajagriha-sanci .align-right}
+
+## {data-background-image="https://i.pinimg.com/originals/83/56/94/8356949968a0413e38ca504f22a3a184.png"}
+
+![Reconstituição de um portão de cidade indiana antiga, por Coomaraswamy. Níveis superiores](https://i.pinimg.com/originals/b2/79/8d/b2798dfb10382c238d932ee02daa1700.png){#fig:coo-01-02 .line .nobg}
+
+## {data-background-image="https://i.pinimg.com/originals/b2/79/8d/b2798dfb10382c238d932ee02daa1700.png"}
+
+![Reconstituição de um portão de cidade indiana antiga, por Coomaraswamy. Nível térreo](https://i.pinimg.com/originals/83/56/94/8356949968a0413e38ca504f22a3a184.png){#fig:coo-03 .line .nobg}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG/1280px-Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG"}
+
+![Relevo na passarela elevada da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Photo Dharma, 2017](https://commons.wikimedia.org/wiki/File:Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg){#fig:promenade .align-right}
+
+<!--_,-->
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg" data-background-size="contain"}
+
+![Cena celestial, *toraṇa* leste da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG/1280px-Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG){#fig:heavenly-sanci}
+
+<!--_,-->
+
+## Ásia medieval: do volume ao lugar ## {data-visibility="hidden"}
+
+- Caitya de Kārli
+- Estupa de Thuparama, Anuradhapura
+- Ajanta
+- Grutas de Mogao
+- Grutas de Yungang
+- Rathas
+- Tower temples
+- Byōdōin
+
+## Mediterrâneo: elaboração de volumes ## {data-visibility="hidden"}
+
+- Cristo Pantokrator, Bizâncio
+- Igreja dos Dízimos, Kiev
+- Portão dourado, Vladimir
+- Catedral de Ani
+- Complexo de Sanahin, Lori
+- São Ciríaco, Genrode
+- São Miguel, Hildesheim
+- Dom zu Speyer
+- Sainte-Foy de Conques
+- Durham Cathedral
+- Canterbury
+- Duomo di Cefalù
+- Santa Maria Novella, Monreale
+- Santiago de Compostela
+- Santo Sepulcro
+- Duomo di Modena
+- Duomo di Pisa
+- Batistérios: Pisa, Pavia, Parma, Florença
+
+## {data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Índia antiga e bacia do Mediterrâneo: arquitetura produz espaços;
+caráter dado pela extensão e forma geométrica dos volumes interiores.
+
+Índia medieval: arquitetura demarca lugares; caráter dado pela posição
+do monumento, pouca articulação dos espaços interiores --- diminutos
+e/ou receptáculos ornamentados para um ponto focal material.
+
+Arquitetura edicular [@hardy:2019kashmiri; @bharne:2012rediscovering].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Tipos distributivos # {data-background-color="#0f0"}
 
@@ -583,5 +631,5 @@ dos requisitos funcionais e, em vários casos, a escala das áreas no
 programa de necessidades.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Bibliografia # {.unlisted .allowframebreaks}
+# Bibliografia # {.allowframebreaks}
 
