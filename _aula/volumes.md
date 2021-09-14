@@ -132,6 +132,8 @@ Arquitetura simbólica, clássica e romântica [@hegel:2001cursos1].
 
 ![Leo von Klenze, Reconstituição da Acrópole de Atenas, 1846. Óleo sobre tela](https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg){#fig:klenze-akro .full}
 
+## Arquitetura romântica ## {data-visibility="hidden"}
+
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm" data-background-video-muted="true"}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
@@ -148,6 +150,168 @@ Arquitetura simbólica, clássica e romântica [@hegel:2001cursos1].
 
 <a href="https://vimeo.com/130359681">Modelo digital de Santa Sofia</a>. Realização: <a href="https://vimeo.com/juanalvarezeu">Juan &Aacute;lvarez</a>
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O império Bizantino nada mais é do que a continuação do império Romano
+ao longo da Idade Média. Na arquitetura religiosa, a continuidade entre
+a religião da Grécia clássica e o cristianismo do império Bizantino está
+na ideia de que o local de culto é um *microcosmo*: uma representação
+conceitual da ordem do universo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9f/Daphni-Kuppel.jpg" data-background-position="top"}
+
+![Cúpula da igreja do mosteiro de Dafni, Atenas, 1080. Foto: [Ktiv, 2017]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Daphni-Kuppel.jpg/1024px-Daphni-Kuppel.jpg){#fig:daphni-kuppel}
+
+[Ktiv, 2017]: https://commons.wikimedia.org/wiki/File:Daphni-Kuppel.jpg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nesse esquema, as abóbadas da construção representam a abóbada celeste,
+com a figura do Cristo em majestade dominando a cúpula dourada no centro
+da nave. [@fig:daphni-kuppel]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/Hosios_Loukas-C-YiGCfSyNQ-1080p-30fps.webm" data-background-vide-muted="true" data-background-video-loop="true"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O chão com piso em mármores coloridos e as paredes revestidas com o
+mesmo material representam a terra, onde se movimenta a congregação.
+[@fig:franklin]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Naves das igrejas do mosteiro de São Lucas de Stiris, Grécia, 1011--1012. Filmagem: [René e Sylvie Franklin, 2018]](https://cdn.palazzo.arq.br/utilitas/volumes/Hosios_Loukas-C-YiGCfSyNQ-1080p-30fps.webm){#fig:franklin .full}
+
+[René e Sylvie Franklin, 2018]: https://youtu.be/C-YiGCfSyNQ
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/schultz-luke-nicholas-pl33-gri_33125007838036_0165-1080p.jpg" data-background-size="contain"}
+
+![Detalhe do piso da igreja menor, mosteiro de São Lucas de Stiris, Grécia, c. 960. Desenho em [Robert Schultz e Sidney Barnsley, *The Monastery of Saint Luke of Stiris...*, 1901]](https://hcommons.org/app/uploads/sites/1002372/2021/09/schultz-luke-nicholas-pl33-gri_33125007838036_0165-1080p.jpg){#fig:schultz-pl33}
+
+[Robert Schultz e Sidney Barnsley, *The Monastery of Saint Luke of Stiris...*, 1901]: http://archive.org/details/gri_33125007838036
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+::: align-right
+|   ⬛️　⬜️　⬛️
+|   ⬜️　⬛️　⬜️
+|   ⬛️　⬜️　⬛️
+:::
+
+O microcosmo da igreja bizantina aproxima as figuras celestiais de
+Cristo e dos santos à congregação terrena. Por isso, a unidade do espaço
+arquitetônico vai ser um objetivo importante a ser perseguido. As
+plantas bizantinas mais antigas não são as mais satisfatórias desse
+ponto de vista. Elas adotam o que chamamos de partido em *quincúncia*:
+cinco volumes principais em posições alternadas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![](){#fig:quincunx .nobg .fragment}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/schultz-luke-nicholas-pl01-gri_33125007838036_0094.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esse tipo de planta ainda está presente na igreja primitiva da Mãe de
+Deus no mosteiro de São Lucas de Stiris, na metade do século
+[X]{.smallcaps}, mas vai ser alterada na construção da igreja maior
+(*katholikon*) já no início do século [XI]{.smallcaps}.
+[@fig:loukas-plans]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Igrejas do mosteiro de São Lucas de Stiris, Grécia, c. 960 e 1011--1012. Planta em [Robert Schultz e Sidney Barnsley, *The Monastery of Saint Luke of Stiris...*, 1901]](https://hcommons.org/app/uploads/sites/1002372/2021/09/schultz-luke-nicholas-pl01-gri_33125007838036_0094.png){#fig:loukas-plans .line .full}
+
+## {data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/Daphni_Medieval_Monastery-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
+
+:::::::::::::::::::::::::::::::::::: {#fig:daphni-drone .iframe-wrapper}
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cWRUfjYoTR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Igreja do mosteiro de Dafní, Atenas, reconstruída c. 1050. Filmagem:
+[Yannis Tzitzas, 2019](https://youtu.be/cWRUfjYoTR8)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A definição espacial se volta sobretudo para o interior da edificação. A
+volumetria externa da construção acomoda, então, todos os elementos que
+não podem romper a unidade do interior: contrafortes, projeções e
+reentrâncias da estrutura e dos ambientes, além de deixar a alvenaria
+aparente, sem revestimento. [@fig:daphni-drone]
+Isso não quer dizer que o acabamento exterior fosse descuidado, mas que
+ele não precisava nem representar um edifício prismático simples, como
+os antigos templos gregos, e nem delimitar um espaço exterior com uma
+forma geométrica importante.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No Mediterrâneo ocidental, a busca pela definição dos volumes vai seguir
+outros caminhos entre os séculos [IX]{.smallcaps} e [XII]{.smallcaps}.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Plan_st-riquier_centula.svg/1700px-Plan_st-riquier_centula.svg.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As igrejas dos mosteiros católicos do século [VIII]{.smallcaps} em
+diante são montagens de vários elementos: um adro descoberto cercado por
+galerias, uma basílica em forma de cruz latina com três naves, e entre
+esses dois elementos um *Westwerk* --- literalmente "obra ocidental".
+[@fig:centula-plan; @fig:corvey-plan]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Planta reconstituída da igreja na abadia de São Ricário (Cêntula), França, 790--799. Desenho: [JMaxR, 2009](https://commons.wikimedia.org/wiki/File:Plan_st-riquier_centula.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Plan_st-riquier_centula.svg/1700px-Plan_st-riquier_centula.svg.png){#fig:centula-plan .line .full}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Plan_abbaye_corvey.svg/2442px-Plan_abbaye_corvey.svg.png" data-background-size="contain"}
+
+![Planta reconstituída da igreja na abadia de Corvey, Alemanha, 873--885. Desenho: [JMaxR, 2009](https://commons.wikimedia.org/wiki/File:Plan_abbaye_corvey.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Plan_abbaye_corvey.svg/2442px-Plan_abbaye_corvey.svg.png){#fig:corvey-plan .line .full}
+
+## {data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/Flying_over_Schloss_Corvey-SIwTyzdS97k-1080p-25fps.webm" data-background-video-muted="true"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O *Westwerk* forma a fachada oeste da igreja. Mas ele é uma fachada tão
+incrementada que vira o seu próprio edifício, como o da abadia de
+Corvey, no norte da Alemanha. [@fig:corvey-drone]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Vista aérea do castelo de Corvey. Filmagem: [Obele Skywalker, 2016]](https://cdn.palazzo.arq.br/utilitas/volumes/Flying_over_Schloss_Corvey-SIwTyzdS97k-1080p-25fps.webm){#fig:corvey-drone}
+
+[Obele Skywalker, 2016]: https://youtu.be/SIwTyzdS97k
+
+##
+
+:::::::::::::::::::::::::::::::::::::: {#fig:corvey-west .columns .full}
+::: {.column width=52%}
+![](https://welterbewestwerkcorvey.de/wp-content/uploads/corvey-modell-004.jpg){#fig:corvey-westA}
+:::
+::: {.column width=48%}
+![](https://welterbewestwerkcorvey.de/wp-content/uploads/corvey-modell-003.jpg){#fig:corvey-westB}
+:::
+*Westwerk* da igreja na abadia de Corvey, Alemanha, 873--885. Maquete:
+[Fundação Welterbe-Westwerk-Corvey]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Fundação Welterbe-Westwerk-Corvey]: https://welterbewestwerkcorvey.de/faszinierende-ideenwelt-der-karolinger/
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A chave para resolver as perspectivas contínuas na arquitetura da Europa
+ocidental é o módulo estrutural. As abóbadas de berço lineares podem ser
+substituídas por *cruzarias*, ou abóbadas que se interpenetram. Isso nos
+dá um módulo simples formado por quatro pontos de apoio e, no século
+[XI]{.smallcaps}, uma abóbada de aresta. Esse módulo resolve a maior
+parte dos seus empuxos dentro do seu próprio sistema, e descarrega só
+uma pequena parte desse empuxo nos módulos vizinhos. Isso, por sua vez,
+permite que a edificação seja construída pouco a pouco, ao longo de
+muitos anos. Com isso, uma comunidade pode construir igrejas muito
+grandes ao longo de décadas, sem risco para a estabilidade da obra
+inacabada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+![Catedral Notre-Dame-la-Grande, Poitiers, França, consagrada em 1086. Módulo estrutural segundo [Auguste Choisy, *Histoire de l'architecture*, t. 2]](){#fig:poitiers-choisy .line}
+
+[Auguste Choisy, *Histoire de l'architecture*, t. 2]: 
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg"}
 
@@ -233,14 +397,32 @@ Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
 
 ## Ásia medieval: do volume ao lugar ## {data-visibility="hidden"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O desenvolvimento de volumes com formas geométricas claramente definidas
+não é um progresso linear, nem muito menos inevitável, rumo a um
+objetivo predefinido. O desenvolvimento da arquitetura hinduísta na
+Índia, a partir do século [V]{.smallcaps} d.C., percorre o caminho
+inverso.
+
 - Caitya de Kārli
 - Estupa de Thuparama, Anuradhapura
 - Ajanta
+- Rathas
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No leste da Ásia, a composição de volumes claramente definidos nunca foi
+uma prioridade. Algumas cavernas no noroeste da China apresentam uma
+leitura espacial clara, mas esses exemplares são a exceção numa cultura
+que assume a fluidez espaciais decorrente dos esqueletos em madeira.
+
 - Grutas de Mogao
 - Grutas de Yungang
-- Rathas
 - Tower temples
 - Byōdōin
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Mediterrâneo: elaboração de volumes ## {data-visibility="hidden"}
 
