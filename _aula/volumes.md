@@ -420,11 +420,21 @@ não é um progresso linear, nem muito menos inevitável, rumo a um
 objetivo predefinido. O desenvolvimento da arquitetura hinduísta na
 Índia, a partir do século [V]{.smallcaps} d.C., percorre o caminho
 inverso.
-
-j Estupa de Thuparama, Anuradhapura
-- Ajanta
-- Rathas
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6c/Ajanta_cave_10_section-Fergusson-Handbook_01_0094.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os ritos hinduístas não reúnem uma grande congregação num mesmo lugar
+para uma liturgia demorada; em vez disso, eles têm procissões e
+demonstrações individuais ou familiares de devoção. Por isso, os templos
+não precisam de um amplo espaço interior. A volumetria externa é
+priorizada. [@fig:ajanta-sec]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Gruta n.º 10, Ajanta, Mahārashtra, oeste da Índia, século [I]{.smallcaps} a.C. Corte transversal por [James Fergusson, *Illustrated Handbook of Architecture* v. 1]](https://upload.wikimedia.org/wikipedia/commons/6/6c/Ajanta_cave_10_section-Fergusson-Handbook_01_0094.png){#fig:ajanta-sec .line .align-right}
+
+[James Fergusson, *Illustrated Handbook of Architecture* v. 1]: https://archive.org/details/illustratedhandb01ferguoft/
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f5/Karli_Chaitya_section_in_perspective.png" data-background-size="contain"}
 
@@ -440,7 +450,7 @@ j Estupa de Thuparama, Anuradhapura
 
 [TheMandarin, 2010]: https://commons.wikimedia.org/wiki/File:Elephanta_Map.svg
 
-## {data-background-video="" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/Elephanta_Caves_Mumbai_Unesco_India-DxIS4uYiq7E-2160p-30fps.webm" data-background-video-muted="true"}
 
 ::::::::::::::::::::::::::::::::::::::: {#fig:eleph-vid .iframe-wrapper}
 <iframe width="560" height="315" src="https://www.youtube.com/embed/DxIS4uYiq7E?start=34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -448,9 +458,77 @@ j Estupa de Thuparama, Anuradhapura
 Passeio pela gruta hinduísta de Elephanta. Filmagem: [Wonderliv Travel, 2018](https://youtu.be/DxIS4uYiq7E?t=34)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+<!--
+   -## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/95/Plan_of_the_Kylas_Fergusson_Handbook_01_0168.png" data-background-size="contain"}
+   -
+   -![Kailaśanath em Ellora, segunda metade do século [VIII]{.smallcaps}. Planta por [James Fergusson, *Illustrated Handbook of Architecture* v. 1]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Plan_of_the_Kylas_Fergusson_Handbook_01_0168.png/1024px-Plan_of_the_Kylas_Fergusson_Handbook_01_0168.png){#fig:ellora-kai-plan .line}
+   -
+   -->
 
-![Kailaśa em Ellora, segunda metade do século [VIII]{.smallcaps}](){#fig:ellora-kai-plan .line}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/stierlin-50-ellora_templo_16_kailasa.jpg" data-background-size="contain"}
+
+![Plantas e cortes do Kailaśanath em Ellora. Desenho em Henri Stierlin, *Índia hindu*](https://hcommons.org/app/uploads/sites/1002372/2021/09/stierlin-50-ellora_templo_16_kailasa.jpg){#fig:kailas-stierlin .full}
+
+## {data-background-image="https://i.pinimg.com/originals/73/33/45/733345f3f4f26e076c4e9931771b1020.jpg"}
+
+![Mandapa de Shiva, Kailaśanath, Ellora. Foto: [Sailko, 2019](https://commons.wikimedia.org/wiki/File:Ellora,_tempio_kailasanatha_(grotta_16),_750-775_dc_ca.,_tempio_di_shiva,_piano_superiore,_interno_01.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ellora,_tempio_kailasanatha_(grotta_16),_750-775_dc_ca.,_tempio_di_shiva,_piano_superiore,_interno_01.jpg/1024px-Ellora,_tempio_kailasanatha_(grotta_16),_750-775_dc_ca.,_tempio_di_shiva,_piano_superiore,_interno_01.jpg){#fig:ellora-kai-mandapa}
+
+<!--_,-->
+
+## {data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/Shore_Temple_Mahabalipuram-5vBG-a2e8fo-1080p-30fps.webm" data-background-video-muted="true"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os templos com espaço interno muito pequeno ou mesmo inexistente são
+mais comuns no sul da Índia, na região tâmil.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::: {#fig:shore-vid .iframe-wrapper}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5vBG-a2e8fo?start=68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Templo da orla, Mahaballipuram. Filmagem: [Rajinikanth, My Travelling Chronicles, 2021](https://youtu.be/5vBG-a2e8fo?t=68)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/Shore_temple_floor_plan_Mahabalipuram_Tamil_Nadu-2560px.png" data-background-size="contain"}
+
+![Templo da orla, Mahaballipuram, reino Pallava, primeiro quartel do século [VIII]{.smallcaps}. Planta: [Sarah Welch, 2021]](https://hcommons.org/app/uploads/sites/1002372/2021/09/Shore_temple_floor_plan_Mahabalipuram_Tamil_Nadu-2560px-v.png){#fig:shore-plan .line .align-right}
+
+[Sarah Welch, 2021]: https://commons.wikimedia.org/wiki/File:Shore_temple_floor_plan,_Mahabalipuram,_Tamil_Nadu.jpg
+
+<!--_,-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em vez de ter um grande salão interior, o Templo da orla em
+Mahaballipuram, do início do século [VIII]{.smallcaps}, apresenta um
+volume verticalizado muito marcante. [@fig:shore-vid]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7d/Panja_pandava_ratham.jpg"}
+
+![Pancha ratham (cinco carros), Mahaballipuram, c. 630. Foto: [G. Saravanan, 2007]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Panja_pandava_ratham.jpg/1024px-Panja_pandava_ratham.jpg){#fig:panja-ratham}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[G. Saravanan, 2007]: https://commons.wikimedia.org/wiki/File:Panja_pandava_ratham.jpg
+
+##
+
+::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:meta .r-stack}
+![marco sagrado sob uma árvore](https://hcommons.org/app/uploads/sites/1002372/2021/09/bharne_krusche-rediscovering_the_hindu_temple-2012-023-a.jpg){#fig:metaA .align-left .fragment .current-visible}
+
+![o marco é convertido num pequeno oratório](https://hcommons.org/app/uploads/sites/1002372/2021/09/bharne_krusche-rediscovering_the_hindu_temple-2012-023-b.jpg){#fig:metaB .align-left .fragment .current-visible}
+
+![oratório ampliado com cobertura efêmera; o lugar se torna um ponto focal da comunidade](https://hcommons.org/app/uploads/sites/1002372/2021/09/bharne_krusche-rediscovering_the_hindu_temple-2012-023-c.jpg){#fig:metaC .align-right .fragment .current-visible}
+
+![o oratório é ampliado para se tornar um templo rudimentar](https://hcommons.org/app/uploads/sites/1002372/2021/09/bharne_krusche-rediscovering_the_hindu_temple-2012-023-d.jpg){#fig:metaD .fragment .current-visible}
+
+![o lugar sagrado persiste mesmo após a morte da árvore; o templo é ampliado e o entorno se urbaniza](https://hcommons.org/app/uploads/sites/1002372/2021/09/bharne_krusche-rediscovering_the_hindu_temple-2012-023-e.jpg){#fig:metaE .fragment .current-visible}
+
+Esquema de sucessão num lugar sagrado. Desenhos de Vinayak Bharne e
+Komal Panjwani, em Vinayak Bharne e Krupali Krusche, *Rediscovering the
+Hindu Temple*
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ##
 
@@ -460,10 +538,11 @@ uma prioridade. Algumas cavernas no noroeste da China apresentam uma
 leitura espacial clara, mas esses exemplares são a exceção numa cultura
 que assume a fluidez espaciais decorrente dos esqueletos em madeira.
 
-- Grutas de Mogao
-- Grutas de Yungang
-- Tower temples
-- Byōdōin
+<!--
+   -- Grutas de Mogao
+   -- Grutas de Yungang
+   -- Byōdōin
+   -->
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Mediterrâneo: elaboração de volumes ## {data-visibility="hidden"}
@@ -497,7 +576,7 @@ Ocupação do solo: regio, area, partitio. Implantação e divisas.
 
 ## Nikolaus Pevsner ## {data-visibility="hidden"}
 
-##
+## {data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
 - História da construção = história da técnica
@@ -505,7 +584,12 @@ Ocupação do solo: regio, area, partitio. Implantação e divisas.
 - História do estilo = história da arquitetura
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Visão reacionária de Pevsner sobre pertinência de aspectos materiais no
+domínio da arquitetura. Não subscrevemos à distinção acima.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Multiplicação de programas arquitetônicos específicos desde a revolução
@@ -534,7 +618,7 @@ industrial [@pevsner:1989history]:
 - Oficinas, comércios e lojas de departamentos
 - Fábricas
 
-* * * *
+## {data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Não é que essas necessidades não existissem antes (com algumas exceções,
@@ -554,9 +638,7 @@ elementos individuais predefinidos --- salas, vestíbulos, circulações
 --- e daí para *projetos* a partir de programas funcionais abstratos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
-
-### Composição e distribuição ###
+## Composição e distribuição ##
 
 . . .
 
