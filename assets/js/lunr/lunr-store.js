@@ -54,7 +54,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Volumes",
-        "excerpt":"Espaço ou lugar Do monumento maciço ao espaço escavado Figura 1: Reconstituição do Templo 40 em Sāñcī, segundo Percy Brown, 1959 Figura 2: Portal da caverna de Lomas Ṛṣi, Bihar, 250–185 a.C. Foto: Photo Dharma, 2013 Figura 3: Volumetria da caverna de Lomas Ṛṣi. Desenho: Percy Brown, 1959 Templo (pura)...","categories": [],
+        "excerpt":"Espaço ou volume Hoje em dia, o espaço é a sensibilidade por padrão da arquitetura. Aprendemos a visualizar espaços como manchas fluidas que se reorganizam a cada mudança de posição. Essa é a espacialidade canônica da arquitetura modernaBanham, Teoria e projeto na primeira era da máquina; Argan, El concepto del...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/volumes/",
         "teaser": null
@@ -63,12 +63,6 @@ var store = [{
         "excerpt":"Princípios da forma urbana Lugar tem precedência sobre o tempo Parataxis Res publica e res economica Transect Clássico e vernáculo Figura 1: Léon Krier, Civitas, 1983 Figura 2: Transecto urbano, por Duany, Plater-Zyberk &amp; Co. Figura 3: Transecto natural, por DPZ Figura 4: Transecto urbano, baseado em DPZ Arquitetura urbana...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/urbanismo/",
-        "teaser": null
-      },{
-        "title": "Completar",
-        "excerpt":"Quando termina a Antiguidade? Figura 1: Thomas Cole, The Course of Empire: Desolation, 1836 Figura 2: Palácio do imperador Diocleciano em Spalato, atual Split, Croácia, c. 306 d.C. Desenho: Ernest Hébrard, 1912 a b Figura 3: Espalato, plantas reconstituídas por Ernest Hébrard, 1912. a – Palácio de Diocleciano, b – Split, cidade construída sobre os...","categories": [],
-        "tags": [],
-        "url": "/tau0005/aula/completar/",
         "teaser": null
       },{
         "title": "Ordenar",
