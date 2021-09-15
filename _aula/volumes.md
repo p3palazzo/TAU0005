@@ -321,6 +321,19 @@ inacabada.
 
 # Volumetria e cultura # {data-background-color="#0f0"}
 
+## {data-background-color="#0f0"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Índia antiga e bacia do Mediterrâneo: arquitetura produz espaços;
+caráter dado pela extensão e forma geométrica dos volumes interiores.
+
+Índia medieval: arquitetura demarca lugares; caráter dado pela posição
+do monumento, pouca articulação dos espaços interiores --- diminutos
+e/ou receptáculos ornamentados para um ponto focal material.
+
+Arquitetura edicular [@hardy:2019kashmiri; @bharne:2012rediscovering].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Índia antiga: do lugar ao volume ## {data-visibility="hidden"}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png" data-background-size="contain"}
@@ -369,7 +382,11 @@ Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png" data-background-size="contain"}
 
-![Reconstituição do portão da cidade de Kuśināgarā segundo [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png)](https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png){#fig:kusinagar-brown .line .nobg}
+![Reconstituição do portão da cidade de Kuśināgarā segundo [Percy Brown, 1959]](https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png){#fig:kusinagar-brown .line .nobg}
+
+[Percy Brown, 1959]: https://commons.wikimedia.org/wiki/Category:Percy_Brown,_Indian_Architecture:_Buddhist_and_Hindu_periods
+
+<!--_,-->
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg" data-background-size="contain"}
 
@@ -404,13 +421,38 @@ objetivo predefinido. O desenvolvimento da arquitetura hinduísta na
 Índia, a partir do século [V]{.smallcaps} d.C., percorre o caminho
 inverso.
 
-- Caitya de Kārli
-- Estupa de Thuparama, Anuradhapura
+j Estupa de Thuparama, Anuradhapura
 - Ajanta
 - Rathas
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f5/Karli_Chaitya_section_in_perspective.png" data-background-size="contain"}
+
+![Salão *chaitya* maior nas grutas budistas de Karli, Mahārashtra, oeste da Índia, 50--70 e 120 d.C. Corte perspectivado por [Percy Brown, 1959]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Karli_Chaitya_section_in_perspective.png/1024px-Karli_Chaitya_section_in_perspective.png){#fig:karli .line}
+
+## {data-background-image="https://i.pinimg.com/originals/82/d6/30/82d63016c9696040cdebb7d19d3c039c.jpg"}
+
+![Gruta hinduísta n.º 15, Ellora, Mahārashtra, c. 550--800. Foto: [Sailko, 2019](https://commons.wikimedia.org/wiki/File:Ellora,_grotta_15,_hinduista,_550-800_dc_ca.,_interno_03.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ellora,_grotta_15,_hinduista,_550-800_dc_ca.,_interno_03.jpg/1024px-Ellora,_grotta_15,_hinduista,_550-800_dc_ca.,_interno_03.jpg){#fig:ellora-15}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Elephanta_Map.svg/2560px-Elephanta_Map.svg.png"}
+
+![Gruta maior hinduísta, complexo hindu-budista de Elephanta, Mahārashtra, c. 550. Planta por [TheMandarin, 2010]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Elephanta_Map.svg/1280px-Elephanta_Map.svg.png){#fig:eleph-plan .line}
+
+[TheMandarin, 2010]: https://commons.wikimedia.org/wiki/File:Elephanta_Map.svg
+
+## {data-background-video="" data-background-video-muted="true"}
+
+::::::::::::::::::::::::::::::::::::::: {#fig:eleph-vid .iframe-wrapper}
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DxIS4uYiq7E?start=34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Passeio pela gruta hinduísta de Elephanta. Filmagem: [Wonderliv Travel, 2018](https://youtu.be/DxIS4uYiq7E?t=34)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+![Kailaśa em Ellora, segunda metade do século [VIII]{.smallcaps}](){#fig:ellora-kai-plan .line}
+
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No leste da Ásia, a composição de volumes claramente definidos nunca foi
@@ -426,6 +468,7 @@ que assume a fluidez espaciais decorrente dos esqueletos em madeira.
 
 ## Mediterrâneo: elaboração de volumes ## {data-visibility="hidden"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Cristo Pantokrator, Bizâncio
 - Igreja dos Dízimos, Kiev
 - Portão dourado, Vladimir
@@ -444,18 +487,6 @@ que assume a fluidez espaciais decorrente dos esqueletos em madeira.
 - Duomo di Modena
 - Duomo di Pisa
 - Batistérios: Pisa, Pavia, Parma, Florença
-
-## {data-background-color="#0f0"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Índia antiga e bacia do Mediterrâneo: arquitetura produz espaços;
-caráter dado pela extensão e forma geométrica dos volumes interiores.
-
-Índia medieval: arquitetura demarca lugares; caráter dado pela posição
-do monumento, pouca articulação dos espaços interiores --- diminutos
-e/ou receptáculos ornamentados para um ponto focal material.
-
-Arquitetura edicular [@hardy:2019kashmiri; @bharne:2012rediscovering].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Alberti ## {data-visibility="hidden"}
