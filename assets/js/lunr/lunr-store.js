@@ -59,7 +59,7 @@ var store = [{
         "url": "/tau0005/aula/volumes/",
         "teaser": null
       },{
-        "title": "Teoria da forma urbana",
+        "title": "Urbanização",
         "excerpt":"Princípios da forma urbana Lugar tem precedência sobre o tempo Parataxis Res publica e res economica Transect Clássico e vernáculo Figura 1: Léon Krier, Civitas, 1983 Figura 2: Transecto urbano, por Duany, Plater-Zyberk &amp; Co. Figura 3: Transecto natural, por DPZ Figura 4: Transecto urbano, baseado em DPZ Arquitetura urbana...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/urbanismo/",
