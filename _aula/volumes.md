@@ -291,7 +291,9 @@ Corvey, no norte da Alemanha. [@fig:corvey-drone]
 
 [Fundação Welterbe-Westwerk-Corvey]: https://welterbewestwerkcorvey.de/faszinierende-ideenwelt-der-karolinger/
 
-## {data-background-image=""}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png" data-background-size="contain"}
+
+![Igreja da abadia de Saint-Philibert, Tournus, 928--1120. Vista isométrica dos módulos estruturais das naves, segundo Auguste Choisy, 1899](https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png){#fig:philibert-choisy .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A chave para resolver as perspectivas contínuas na arquitetura da Europa
@@ -300,18 +302,45 @@ substituídas por *cruzarias*, ou abóbadas que se interpenetram. Isso nos
 dá um módulo simples formado por quatro pontos de apoio e, no século
 [XI]{.smallcaps}, uma abóbada de aresta. Esse módulo resolve a maior
 parte dos seus empuxos dentro do seu próprio sistema, e descarrega só
-uma pequena parte desse empuxo nos módulos vizinhos. Isso, por sua vez,
+uma pequena parte desse empuxo nos módulos vizinhos.
+[@fig:philibert-choisy]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/c1/cd/75/c1cd75cfc7ea9e88a6ddae1d4ead5b98.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Isso, por sua vez,
 permite que a edificação seja construída pouco a pouco, ao longo de
 muitos anos. Com isso, uma comunidade pode construir igrejas muito
 grandes ao longo de décadas, sem risco para a estabilidade da obra
-inacabada.
+inacabada. [@fig:philibert-sec]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+![Igreja da abadia de Saint-Philibert, Tournus, 928--1120, segundo [Jean Virey, 1903]](https://i.pinimg.com/originals/c1/cd/75/c1cd75cfc7ea9e88a6ddae1d4ead5b98.png){#fig:philibert-sec}
 
-![Catedral Notre-Dame-la-Grande, Poitiers, França, consagrada em 1086. Módulo estrutural segundo [Auguste Choisy, *Histoire de l'architecture*, t. 2]](){#fig:poitiers-choisy .line}
+[Jean Virey, 1903]: https://www.persee.fr/doc/bulmo_0007-473x_1903_num_67_1_11362
 
-[Auguste Choisy, *Histoire de l'architecture*, t. 2]: 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TournusPlan.png/2560px-TournusPlan.png" data-background-size="contain"}
+
+![Saint-Philibert, Tournus, planta com fases sucessivas da construção. Desenho: [J. Chancerel, 2018]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TournusPlan.png/1024px-TournusPlan.png){#fig:philibert-plan}
+
+[J. Chancerel, 2018]: https://commons.wikimedia.org/wiki/File:TournusPlan.png
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tournus_-_Saint-Philibert_de_Tournus_Abbey_-_04.JPG/2560px-Tournus_-_Saint-Philibert_de_Tournus_Abbey_-_04.JPG"}
+
+![Saint-Philibert, Tournus, vista da nave central. Foto: [Christophe Finot, 2014]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tournus_-_Saint-Philibert_de_Tournus_Abbey_-_04.JPG/1024px-Tournus_-_Saint-Philibert_de_Tournus_Abbey_-_04.JPG){#fig:philibert-nef}
+
+[Christophe Finot, 2014]: https://commons.wikimedia.org/wiki/File:Tournus_-_Saint-Philibert_de_Tournus_Abbey_-_04.JPG
+
+<!--_,-->
+
+<!--
+   -## {data-visibility="hidden"}
+   -
+   -![Catedral Notre-Dame-la-Grande, Poitiers, França, consagrada em 1086. Módulo estrutural segundo [Auguste Choisy, *Histoire de l'architecture*, t. 2]](){#fig:poitiers-choisy .line}
+   -
+   -[Auguste Choisy, *Histoire de l'architecture*, t. 2]: 
+   -->
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg"}
 
@@ -819,13 +848,16 @@ arquitetura.
 
 ## Formas volumétricas ## {data-visibility="hidden"}
 
+## {data-background-color="#0f0"}
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Mais cedo, dissemos que arquitetura é construção.
+Mais cedo, dissemos que arquitetura é construção. Mas para que serve a
+construção? O seu propósito, como nos diz Semper na sua alegoria da
+cabana primitiva [@semper:1851vier], é cobrir e delimitar os lugares
+onde acontece a vida social.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Formas básicas de construções ## {data-visibility="hidden"}
-
-##
 
 ::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-56-57}
 ::: {.column width=50%}
@@ -837,7 +869,7 @@ Mais cedo, dissemos que arquitetura é construção.
 Rob Krier, *Architectural composition*, 1988
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 ::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-58-59}
 ::: {.column width=50%}
@@ -849,7 +881,7 @@ Rob Krier, *Architectural composition*, 1988
 Rob Krier, *Architectural composition*, 1988
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 ::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-60-61}
 ::: {.column width=50%}
@@ -861,11 +893,11 @@ Rob Krier, *Architectural composition*, 1988
 Rob Krier, *Architectural composition*, 1988
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/cf/89/f3/cf89f31152c629f76ac44f824c91a30e.png" data-background-size="contain"}
+* * * *
 
 ![Rob Krier, *Architectural composition*, 1988. Exemplos teóricos de fragmentos geométricos, p. 62](https://i.pinimg.com/originals/cf/89/f3/cf89f31152c629f76ac44f824c91a30e.png){#fig:rkrier-62}
 
-##
+* * * *
 
 ::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-63-65}
 ::: {.column width=50%}
@@ -877,7 +909,7 @@ Rob Krier, *Architectural composition*, 1988
 Rob Krier, *Architectural composition*, 1988
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 ::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-66-67}
 ::: {.column width=50%}
@@ -889,42 +921,83 @@ Rob Krier, *Architectural composition*, 1988
 Rob Krier, *Architectural composition*, 1988
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 * * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Formas básicas de espaços ## {data-visibility="hidden"}
+## Formas básicas de volumes ## {data-visibility="hidden"}
+
+## {data-background-image="https://www.researchgate.net/profile/Michael-Batty/publication/237710153/figure/fig1/AS:669450969813009@1536620957549/Convex-sets-partitions-and-axial-lines-for-the-basic-T-shape_W640.jpg" data-background-size="contain"}
+
+![(a) Espaços convexos na teoria da sintaxe espacial. Desenho por [Michael Batty e Sanjay Rana]](https://www.researchgate.net/profile/Michael-Batty/publication/237710153/figure/fig1/AS:669450969813009@1536620957549/Convex-sets-partitions-and-axial-lines-for-the-basic-T-shape_W640.jpg){#fig:convex .align-right}
+
+[Michael Batty e Sanjay Rana]: https://www.researchgate.net/publication/237710153_Environment_and_Planning_B_Planning_and_Design_2004_volume_31_pages_615640
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A unidade mínima da composição é um volume delimitado, com uma forma
+geométrica inteligível. Essa definição é diferente de outras teorias do
+espaço arquitetônico, como a sintaxe espacial. [@fig:convex] Para a
+sintaxe espacial, a unidade mínima é o *espaço convexo*
+[@hillier:1976space3; @batty:2004automatic31]: uma forma geométrica
+qualquer onde todos os seus pontos podem ser visto a partir de todos os
+outros.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ##
 
-::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-73-75}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A sintaxe espacial é um método de *análise* da arquitetura. Já a teoria
+da composição tradicional é um método de *produção* da arquitetura. Por
+isso, o nosso foco não é tanto na consistência matemática da definição
+de espaço, e sim no significado social de volumes enquanto lugares
+associados a diferentes expectativas culturais. [@fig:rkrier-73-75]
+Essas formas podem ser convexas ou não, mas sempre formam uma unidade
+claramente articulada [@krier:1988architectural].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-73-75 .full}
 ::: {.column width=50%}
-![Espaços interiores quadrados, p. 73](https://i.pinimg.com/originals/12/81/4d/12814d7a9e8a5523156d1f5104c10c07.png){#fig:rkrier-73}
+![quadrados, p. 73](https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-architectural_composition-1988-73.png){#fig:rkrier-73 .line}
 :::
 ::: {.column width=50%}
-![Espaços interiores octogonais, cruciformes e circulares, p. 75](https://i.pinimg.com/originals/ac/02/b9/ac02b94ebf789e688db191d96b797a7d.png){#fig:rkrier-75}
+![octogonais, cruciformes e circulares, p. 75](https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-architectural_composition-1988-75.png){#fig:rkrier-75 .line}
+:::
+Rob Krier, *Architectural composition*, 1988. Volumes interiores
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+##
+
+::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-74-76 .full}
+::: {.column width=50%}
+![geometrias distorcidas, sequências rítmicas e espaços retangulares, p. 74](https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-architectural_composition-1988-74.png){#fig:rkrier-74 .line}
+:::
+::: {.column width=50%}
+![sobreposição de formas básicas, p. 76](https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-architectural_composition-1988-76.png){#fig:rkrier-76 .line}
 :::
 Rob Krier, *Architectural composition*, 1988
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ##
 
-::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-74-76}
-::: {.column width=50%}
-![Geometrias distorcidas, sequências rítmicas e espaços retangulares, p. 74](https://i.pinimg.com/originals/fd/62/7f/fd627fccd6423a7ee75ce99abf7a016c.png){#fig:rkrier-74 .stretch}
-:::
-::: {.column width=50%}
-![Sobreposição de formas básicas, p. 76](https://i.pinimg.com/originals/87/21/e1/8721e1c5b3645744ad8a959566679f85.png){#fig:rkrier-76 .stretch}
-:::
-Rob Krier, *Architectural composition*, 1988
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Formas geométricas com ângulos ou contornos muito incomuns, como ovais,
+triângulos ou polígonos não retangulares são muito pouco usadas em
+qualquer tradição arquitetônica. Essas formas geram muito desperdício de
+área, já que temos cantos ou bordas difíceis de aproveitar. Além disso,
+elas são também pouco práticas para fazer ligações com outras formas.
+Onde elas podem ser bastante úteis, por outro lado, é no preenchimento
+de espaços residuais entre volumes mais importantes. [@fig:rkrier-78-77]
+Essa combinação nos mostra como uma usar a hierarquia entre volumes para
+priorizar a regularidade e simplicidade geométrica das salas mais
+importantes e acomodar as funções secundárias em formas irregulares.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
-
-::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-78-77}
+::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-78-77 .full}
 ::: {.column width=50%}
-![Espaços triangulares e formas especiais, p. 78](https://i.pinimg.com/originals/73/9d/2d/739d2d3721251eff590c7c2039cf4bb3.png){#fig:rkrier-78 .stretch}
+![espaços triangulares e formas especiais, p. 78](https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-architectural_composition-1988-78.png){#fig:rkrier-78 .line}
 :::
 ::: {.column width=50%}
-![Aplicações práticas de espaços aditivos e intersecantes, p. 77](https://i.pinimg.com/originals/b9/a4/82/b9a482abdcdac5799bb4fd70ce9b3c0e.png){#fig:rkrier-77 .stretch}
+![aplicações práticas de espaços aditivos e intersecantes, p. 77](https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-architectural_composition-1988-77.png){#fig:rkrier-77 .line}
 :::
 Rob Krier, *Architectural composition*, 1988
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
