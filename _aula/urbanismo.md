@@ -77,14 +77,6 @@ Tipos de urbanização
 
 ![Planta da cidadela de Tirinto, Grécia heládica, baseada nas escavações de Heinrich Schliemann em 1884. Desenho: [Wilhelm Dörpfeld](https://commons.wikimedia.org/wiki/File:Tiryns_Tafel_I.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/60/Tiryns_Tafel_I.jpg){#fug:tyrins .full}
 
-## {data-background-image="https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg" data-background-size="contain"}
-
-![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C.](https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg){#fig:wangcheng}
-
-## {data-background-image="https://i.pinimg.com/originals/c6/62/b0/c662b07a4d4dd37e9eb414810f74a859.jpg" data-background-size="contain"}
-
-![Módulos urbanísticos da cidade ideal chinesa. [Wang Weijen, 2010](http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i.html)](https://i.pinimg.com/originals/c6/62/b0/c662b07a4d4dd37e9eb414810f74a859.jpg){#fig:zh-modulos}
-
 ## Aldeia--rua ## {data-visibility="hidden"}
 
 ## {data-background-image="https://i.pinimg.com/originals/05/70/63/057063136892db0d028f8992f8756b36.gif"}
@@ -162,6 +154,14 @@ construções.
 ## {data-background-image="https://i.pinimg.com/originals/78/97/a2/7897a2c3cf1a26fe80fc19b55ad8d312.jpg"}
 
 ![Cidade romana de Lambaesis, na atual Argélia. Desenho por [Jean-Claude Golvin]()](https://i.pinimg.com/originals/78/97/a2/7897a2c3cf1a26fe80fc19b55ad8d312.jpg){#fig:lambaesis}
+
+## {data-background-image="https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg" data-background-size="contain"}
+
+![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C.](https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg){#fig:wangcheng}
+
+## {data-background-image="https://i.pinimg.com/originals/c6/62/b0/c662b07a4d4dd37e9eb414810f74a859.jpg" data-background-size="contain"}
+
+![Módulos urbanísticos da cidade ideal chinesa. [Wang Weijen, 2010](http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i.html)](https://i.pinimg.com/originals/c6/62/b0/c662b07a4d4dd37e9eb414810f74a859.jpg){#fig:zh-modulos}
 
 ## Kampong ## {data-visibility="hidden"}
 
@@ -452,7 +452,7 @@ Modos de evolução do tecido urbano, segundo Carlos Dias Coelho (2015)
 * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Adição ##
+## Adição ## {data-visibility="hidden"}
 
 ##
 
@@ -472,7 +472,7 @@ Saverio Muratori, processo de urbanização do bairro Rialto, Veneza.
 * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Justaposição ##
+## Justaposição ## {data-visibility="hidden"}
 
 ## {data-background-image="https://i.pinimg.com/originals/3e/c1/a4/3ec1a49e1d0edaacce2e83fefb4a3ec2.jpg"}
 
@@ -491,7 +491,7 @@ da França. [@fig:carcassonne]
 * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Sedimentação ##
+## Sedimentação ## {data-visibility="hidden"}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/1024px-Evora_-_Roman_town_over_present_urban_fabric.svg.png" data-background-size="contain"}
 
