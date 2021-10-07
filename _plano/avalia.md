@@ -92,7 +92,7 @@ hipótese alguma*, trabalhos por e-mail.
 
 [Edícula vernácula]: ../_trabalho/vernacular.md
 
-[Composição com volumes]: ../_trabalho/quincunx.md
+[Composição com volumes]: ../_trabalho/volumes.md
 
 [Analítico com ordens clássicas]: ../_trabalho/classico.md
 
