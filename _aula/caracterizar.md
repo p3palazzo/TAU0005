@@ -5,6 +5,7 @@ item    : "IV"
 author  : "Pedro P. Palazzo"
 date    : 2021-10-26
 toc:
+  - Estilo, construção e cultura
   - Casas, castelos e outras arquiteturas civis
   - Querela do ornamento
   - Espacialidade na pintura gótica italiana
@@ -264,4 +265,3 @@ intenção dizendo com todas as letras:
 # Espacialidade na pintura gótica #
 
 # Bibliografia {.unlisted .allowframebreaks}
-
