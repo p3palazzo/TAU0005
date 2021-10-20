@@ -928,6 +928,21 @@ A combinação desses diferentes avanços tecnológicos permite o aumento na
 altura das igrejas góticas ao longo do século [XIII]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+# Arquitetura subtrativa #
+
+- Exploração dos espaços internos: com o uso de formas geométricas claras e abóbadas, mesmo em locais que não são escavados.
+- Contrastes trazidos pela abordagem das aulas, em contraposição à bibliografia tradicional sobre as temáticas abordadas.
+
+## Preferência temporal ##
+
+- conceito originário da Economia e vinculado à Arquitetura, através da relação entre processos construtivos (diferentes opções de sistemas construtivos utilizados ao longo do tempo) e seus custos-benefícios (disponibilidade de materiais, mão-de-obra e fator tempo de duração).
+- Essa abordagem da história sob uma perspectiva cultural ou tecnológica (e não apenas cronológica, extrapolando-a) traz uma reflexão sobre a passagem do tempo, de modo a se estudar a “Arquitetura na História” e não a “História da Arquitetura”.
+- O sequenciamento linear da Arquitetura ou da cultura é uma forma muito moderna de se pensar, a partir de uma “chave” para entender o passado, que foi se transformando no tempo até chegar à contemporaneidade. Assim, é torna-se muito conveniente para os arquitetos atuais, que seriam entendidos como os mais evoluídos, por estarem “no fim da história”.
+- O progresso e as possibilidades construtivas atuais, voltados para superar as limitações existentes e alcançar um melhor desempenho, entrariam em conflito com os antigos arquitetos desprovidos dos recursos tecnológicos contemporâneos. Trata-se de uma característica do período pós-Revolução Industrial, marcado pelo crescente aumento da capacidade produtiva e matrizes energéticas quase ilimitadas, mas não sustentáveis em um futuro não tão distante, como deflagrado pela crise do petróleo da década de 1970). Destaca-se o impacto desse cenário na produção e velocidade construtiva dos edifícios, com apresentam grande contraste ao longo da história.
+- Considera-se também os pressupostos colonialistas e eurocêntricos da abordagem cronológica, por hierarquizar as sociedades em mais ou menos evoluídas no tempo e no espaço (ou mais ou menos consumidoras de energia, conforme suas disponibilidades tecnológicas). É uma visão que atravessa vários estilos arquitetônicos impostos pela Europa, excluindo a Ásia e a África por exemplo. Ela também é apropriada pelo Movimento Moderno com Le Corbusier, que opõe racionalismo e historicismo, ainda em um forte contexto de colonialismo na África.
+- Ainda hoje, novos movimentos arquitetônicos, que defendem regionalismos com “marcadores culturais” fortes (defendendo formas arquitetônicas tradicionais), beneficiam grupos locais mais privilegiados, excluindo outros que são marginalizados.
+- Pretende-se questionar essa leitura simplista, linear e colonialista da passagem do tempo na Arquitetura, já que não existem sucessões evolutivas ou sequências cronológicas lineares de acessões e decadências de estilos como visto na bibliografia tradicional. Assim, busca-se uma desconstrução dessa cronologia convencional, propondo diferentes possibilidades de olhar, a partir da tecnologia e da cultura.
+
 # Quando termina a Antiguidade? #
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/16/Diocletian's_Palace_(original_appearance).jpg"}
