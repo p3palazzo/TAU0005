@@ -10,6 +10,8 @@ toc:
   - Espacialidade na pintura gótica italiana
 ---
 
+<!-- Esta é a próxima aula -->
+
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg"}
 
 ![Thomas Cole. The Past, 1838](https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg){#fig:cole-past .full}
