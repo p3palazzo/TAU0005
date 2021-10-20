@@ -72,7 +72,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Articular",
-        "excerpt":"Ordens clássicas e outras ordens Padronização e modularidade na China A arquitetura tradicional da China atingiu desde o século XI uma padronização quase completa dos seus elementos construtivos em madeira. Essa padronização decorre de processos de centralização política e de unificação econômica que duraram milênios, com “renascimentos” periódicos ao longo...","categories": [],
+        "excerpt":"Ordens clássicas Formação das ordens Mito da cabana primitiva e registro arqueológico: origem da arquitetura nas construções arquitravadas. Porém, é equivocado pensar no templo grego como resultado direto de um antecedente “primitivo”. Essa interpretação afirma uma fantasia da excepcionalidade e originalidade grega que, como vimos, não tem fundamento arqueológico. Grécia...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/articular/",
         "teaser": null
