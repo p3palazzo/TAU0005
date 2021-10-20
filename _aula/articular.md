@@ -91,13 +91,15 @@ segundo Vitrúvio III.[v]{.smallcaps}.ii
 
 ## Obra grossa e acabamento ## {data-visibility="hidden"}
 
+## 
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Mediterrâneo antigo: pedras com talha preliminar são assentadas na sua
   posição definitiva, e depois o detalhe é esculpido em todas de modo
-  contínuo para disfarçar as juntas.
+  contínuo para disfarçar as juntas: distinção pedreiro vs entalhador.
 - Mediterrâneo medieval: cada pedra é talhada separadamente na sua forma
   final, às vezes por equipes diferentes, e assentada já na sua forma
-  final.
+  final: pedreiro é entalhador.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Continuidade ## {data-visibility="hidden"}
