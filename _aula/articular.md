@@ -306,10 +306,122 @@ usado para desqualificar qualquer coisa que não seja o estilo "da moda".
 
 ## Classes de construções ## {data-visibility="hidden"}
 
+O *Yingzao fashi* prevê oito classes de construções baseadas na
+hierarquia social e nas dimensões necessárias para diferentes
+propósitos. Essa hierarquia se reflete na altura das arquitraves (vigas
+mestras) que determinam o módulo da edificação como um todo.
+
 ## Pureza e poluição ## {data-visibility="hidden"}
 
 Aproximação às arquiteturas do sagrado: capitais móveis na China e no
 Japão, estruturas de culto temporárias ou periodicamente renovadas.
+
+# Indicação e composição #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mais cedo, estabelecemos os princípios da composição arquitetônica:
+
+- [Os sete tipos fundamentais](tipos.md) que correspondem a propósitos
+  universais da sociedade;
+- [Os elementos volumétricos](volumes.md), ou seja, os vazios que a
+  construção delimita, e
+- [O significado de se ordenar a edificação](ordem.md) alinhando-a com a
+  visão de mundo de uma sociedade.
+
+Esses princípios são realizados numa construção por meio da *indicação*
+e da *composição* [@curtis:1923architectural]. A indicação é como a
+aparência de uma edificação mostra o seu propósito, para que ele possa
+ser facilmente identificado na paisagem urbana e por quem entra nessa
+edificação. Já a composição consiste em proporcionar o tamanho e a forma
+de cada volume dentro da edificação, para que cada pessoa dentro dela
+identifique o seu objetivo e o percurso para chegar até ele, sem
+depender de placas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Indicação: a basílica ## {data-visibility="hidden"}
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Um bom exemplo para se entender a importância da indicação é a basílica.
+Na Itália antiga, mais ou menos do século [VI]{.smallcaps} a.C. até o
+século [III]{.smallcaps} d.C., a basílica é um tipo de edifício cívico
+com várias funções administrativas e econômicas. Mas, a partir do século
+[IV]{.smallcaps} d.C., o tipo da basílica começa a ser usado também para
+construir os edifícios de culto do cristianismo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A basílica antiga é uma forma do tipo da *taberna* [@fig:7types], que
+representa o propósito social de suster a comunidade por meio da
+atividade econômica: ela abriga, por exemplo, mercados, lojas
+permanentes e oficinas, mas também pode ser usada para escritórios
+administrativos que fiscalizam o dia-a-dia da sociedade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types .full .noborder}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gr-athina-stoa_attalos-110530-pp-4350.jpg/2560px-Gr-athina-stoa_attalos-110530-pp-4350.jpg"}
+
+![Pórtico de Átalo na ágora de Atenas. Reconstituição do original da metade do século [II]{.smallcaps} a.C. segundo projeto de John Travlos e supervisão estrutural de Georgios Biris, 1953--1956. Foto: Pedro P. Palazzo, 2011](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gr-athina-stoa_attalos-110530-pp-4350.jpg/2560px-Gr-athina-stoa_attalos-110530-pp-4350.jpg){#fig:attalos-view .full}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/10/ascsa-2008.20.0061.png" data-background-size="contain"}
+
+![Pórtico de Átalo. Planta do térreo: acervo da [American School of Classical Studies at Athens, cota 2008.20.0061][]](https://hcommons.org/app/uploads/sites/1002372/2021/10/ascsa-2008.20.0061.png){#fig:attalos-plans .line .full}
+
+[American School of Classical Studies at Athens, cota 2008.20.0061]: http://agora.ascsa.net/id/Agora/Image/2008.20.0061
+
+## {data-background-image="http://agora.ascsa.net/image?type=full&id=Agora:Image:1997.08.0400"}
+
+![Pórtico de Átalo. Corte perspectivado do projeto de John Travlos por W. H. Thompson & Phelps Barnum Architects, 1953. Acervo da [American School of Classical Studies at Athens, cota 1997.08.0400][]](http://agora.ascsa.net/image?type=full&id=Agora:Image:1997.08.0400){#fig:attalos-secpersp}
+
+[American School of Classical Studies at Athens, cota 1997.08.0400]: http://agora.ascsa.net/id/agora/image/1997.08.0400
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/93/BasilicaSemproniaReconstruction.jpg"}
+
+![Basílica de Semprônio, fórum Romano, 169 a.C. Reconstituição digital: [Susanne Muth, 2014][]](https://upload.wikimedia.org/wikipedia/commons/9/93/BasilicaSemproniaReconstruction.jpg){#fig:sempronia .full}
+
+[Susanne Muth, 2014]: https://commons.wikimedia.org/wiki/File:BasilicaSemproniaReconstruction.jpg
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/62/Basilica_Ulpia_J_Guadet_1867.jpg" data-background-size="contain"}
+
+![Basílica Úlpia no fórum de Trajano, Roma, 105--107 d.C. Desenho: [Julien Guadet, 1867][]](https://upload.wikimedia.org/wikipedia/commons/6/62/Basilica_Ulpia_J_Guadet_1867.jpg){#fig:ulpia-elv}
+
+[Julien Guadet, 1867]: https://commons.wikimedia.org/wiki/File:Basilica_Ulpia_J_Guadet_1867.jpg
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/6e/Foro_de_Trajano-planta.png" data-background-size="contain"}
+
+![Planta do fórum de Trajano em Roma. [3coma14, 2011][]](https://upload.wikimedia.org/wikipedia/commons/6/6e/Foro_de_Trajano-planta.png){#fig:traiano-plan}
+
+[3coma14, 2011]: https://commons.wikimedia.org/wiki/File:Foro_de_Trajano-planta.png
+
+## {data-background-image="https://i.pinimg.com/originals/bc/bc/3b/bcbc3b5685a9633bcd74c2ed003c642d.jpg" data-background-size="contain"}
+
+![Corte perspectivado da basílica Úlpia](https://i.pinimg.com/originals/bc/bc/3b/bcbc3b5685a9633bcd74c2ed003c642d.jpg){#fig:ulpia-sec}
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Trier_Konstantinbasilika_BW_4.JPG/2560px-Trier_Konstantinbasilika_BW_4.JPG"}
+
+![Aula Palatina ou basílica de Constantino, Tréveris (atual Alemanha), 310 d.C. Foto: [Berthold Werner, 2008][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Trier_Konstantinbasilika_BW_4.JPG/1024px-Trier_Konstantinbasilika_BW_4.JPG){#fig:aula-int}
+
+[Berthold Werner, 2008]: https://commons.wikimedia.org/wiki/File:Trier_Konstantinbasilika_BW_4.JPG
+
+## {data-background-image="https://i.pinimg.com/originals/dd/89/05/dd8905ce83f44e7e01ce9b2d6bc18518.jpg"}
+
+![Reconstituição digital da basílica primitiva de S. Pedro, Roma, c. 330](https://i.pinimg.com/originals/dd/89/05/dd8905ce83f44e7e01ce9b2d6bc18518.jpg){#fig:oldspete}
+
+## {data-background-image=""}
+
+## {data-visibility="hidden"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.notes .notice}
+Atenção: o conceito de basílica como tipo edilício não tem qualquer
+relação com o título de Basílica atribuído na Igreja Católica a certas
+igrejas que abrigam relíquias importantes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Composição: a casa ## {data-visibility="hidden"}
 
 # Bibliografia # {.allowframebreaks .unlisted}
 
