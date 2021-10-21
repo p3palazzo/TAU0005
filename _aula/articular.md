@@ -2,20 +2,113 @@
 title   : "Articular"
 subtitle: "Fazer arquitetura"
 item    : "III"
-author  : "Pedro P. Palazzo"
+author  : Pedro P. Palazzo
 date    : 2021-10-19
 toc:
-  - Indicação e composição
-  - Proporções espaciais e plásticas
-  - Ordens clássicas e outras ordens
+  - Ordens clássicas
+  - Outras ordens
   - Modenatura e dignidade
+  - Indicação e composição
+title-slide-attributes:
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg/2560px-1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg/2560px-1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg
+  caption: "Lawrence Alma-Tadema, [*Fídias e o friso do Partenon*](https://commons.wikimedia.org/wiki/File:1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg), 1868"
+  actions:
+  - label: "Slides"
+    url: "/slides/articular/"
 ---
 
-# Ordens clássicas e outras ordens # {.unlisted data-background-color="#0f0"}
+# Ordens clássicas #
+
+## Formação das ordens ## {data-visibility="hidden"}
+
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Mito da cabana primitiva e registro arqueológico: origem da
+  arquitetura nas construções arquitravadas.
+- Porém, é equivocado pensar no templo grego como resultado direto de um
+  antecedente "primitivo". Essa interpretação afirma uma fantasia da
+  excepcionalidade e originalidade grega que, como vimos, não tem
+  fundamento arqueológico.
+- Grécia antiga se desenvolve como parte da esfera cultural do
+  Mediterrâneo oriental e Oriente Médio montanhoso (da Itália à Pérsia).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## 
+
+::::::::::::::::::::::::::::::::::::::::::: {#fig:deriva .r-stack .full}
+![*mégarōn* rural da Idade do Bronze](){#fig:derivaA .fragment .current-visible .align-left .line}
+
+![*mérgarōn* palaciano da Idade do Bronze](){#fig:derivaB .fragment .current-visible .align-left .line}
+
+![templo do período geométrico](){#fig:derivaC .fragment .current-visible .align-left .line}
+
+![templo próstilo do período arcaico](){#fig:derivaD .fragment .current-visible .align-left .line}
+
+![templo períptero do período arcaico](){#fig:derivaE .fragment .current-visible .align-left .line}
+
+Processo tipológico reconstituído do templo grego clássico, baseado em
+Barbara Barletta
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Por que ordens clássicas ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Chamadas de *gêneros* de edifícios por Vitrúvio na Roma antiga, e de
+  *espécies* de colunas pelos arquitetos do Renascimento antes de Serlio
+  (primeira metade do século [XVI]{.smallcaps}), alguns como Perrault
+  continuam a usar esse nome até o século [XVII]{.smallcaps}.
+- Serlio, Vignola e todos nós hoje em dia usamos o termo *ordem* pois os
+  diferentes gêneros de arquitetura clássica *ordenam* o edifício como
+  um todo: ou seja, não são enfeites aplicados ao final do projeto, mas
+  parte do processo de configurar a construção no seu sistema estrutural
+  (mas nem sempre), nas suas proporções (sempre) e até os últimos
+  detalhes (sobretudo da fachada e de espaços importantes).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Desdobramento, não projeto ## {data-visibility="hidden"}
+
+::::::::::::::::::::::::::::::::::::::::::: {#fig:divide .r-stack}
+![determinação da altura e projeção totais](){#fig:divideA .fragment .current-visible .align-left .line}
+
+![plinto](){#fig:divideB .fragment .current-visible .align-left .line}
+
+![toro superior](){#fig:divideC .fragment .current-visible .align-left .line}
+
+![tróquilo e toro inferior](){#fig:divideD .fragment .current-visible .align-left .line}
+
+Desdobramento de uma base ática pelo método das divisões sucessivas,
+segundo Vitrúvio III.[v]{.smallcaps}.ii
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-visibility="hidden"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Obra grossa e acabamento ## {data-visibility="hidden"}
+
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Mediterrâneo antigo: pedras com talha preliminar são assentadas na sua
+  posição definitiva, e depois o detalhe é esculpido em todas de modo
+  contínuo para disfarçar as juntas: distinção pedreiro vs entalhador.
+- Mediterrâneo medieval: cada pedra é talhada separadamente na sua forma
+  final, às vezes por equipes diferentes, e assentada já na sua forma
+  final: pedreiro é entalhador.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Continuidade ## {data-visibility="hidden"}
+
+# Outras ordens #
 
 ## Padronização e modularidade na China ## {data-visibility="hidden"}
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura tradicional da China atingiu desde o século
@@ -57,7 +150,7 @@ levantamento sistemático da arquitetura tradicional na China.
 
 ![Nomenclatura dos componentes principais de uma construção chinesa. Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/85/52/82/855282f257cac6a604f9d3e76eedf562.png){#fig:liang-01 .nobg .line}
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Com base nessa formação ocidental e também para explicar a arquitetura
@@ -67,7 +160,7 @@ características desse sistema é que ele ensinava arquitetura como se
 fosse uma forma de *linguagem* [@summerson:1997linguagem]. Por isso,
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+##
 
 > Estudar a história da arquitetura chinesa sem conhecimento dessas
 > regras é como estudar a história da literatura de língua inglesa sem
@@ -92,7 +185,7 @@ Harbeson.
 
 <!--_,-->
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No caso da China, as *gramáticas normativas* são dois tratados
@@ -159,7 +252,7 @@ mesmo patamar de historicidade da arquitetura europeia esquematizada na
 "árvore" de Fletcher.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Modenatura e dignidade # {data-background-color="#0f0"}
+# Modenatura e dignidade #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Até agora, tentamos enfatizar que os sistemas construtivos determinam a
@@ -170,7 +263,7 @@ construtiva foi ou não reduzida às suas necessidades mínimas é uma
 tarefa com infinitas variáveis e, no fim das contas, meio arbitrária.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/2560px-Oldest_Healing_Dance.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/2560px-Oldest_Healing_Dance.jpg"}
 
 ![Comunidade San em volta do lar central de uma aldeia. Foto: [Kgara Kevin Rack, 2017]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/1280px-Oldest_Healing_Dance.jpg){#fig:san}
 
@@ -182,7 +275,7 @@ social também é uma das atribuições fundamentais da arquitetura.
 [@fig:san]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Assim que certas formas acabam sendo consagradas numa determinada
@@ -194,7 +287,7 @@ torna um *estilo* que vai ser replicado como reivindicação de uma certa
 identidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Muitos críticos do século [XIX]{.smallcaps} até os dias de hoje se
@@ -217,4 +310,6 @@ usado para desqualificar qualquer coisa que não seja o estilo "da moda".
 
 Aproximação às arquiteturas do sagrado: capitais móveis na China e no
 Japão, estruturas de culto temporárias ou periodicamente renovadas.
+
+# Bibliografia # {.allowframebreaks .unlisted}
 
