@@ -360,9 +360,9 @@ construir os edifícios de culto do cristianismo.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A basílica antiga é uma forma do tipo da *taberna* [@fig:7types], que
 representa o propósito social de suster a comunidade por meio da
-atividade econômica: ela abriga, por exemplo, mercados, lojas
-permanentes e oficinas, mas também pode ser usada para escritórios
-administrativos que fiscalizam o dia-a-dia da sociedade.
+atividade econômica [@westfall:1991building]: ela abriga, por exemplo,
+mercados, lojas permanentes e oficinas, mas também pode ser usada para
+escritórios administrativos que fiscalizam o dia-a-dia da sociedade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types .full .noborder}
@@ -370,6 +370,13 @@ administrativos que fiscalizam o dia-a-dia da sociedade.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gr-athina-stoa_attalos-110530-pp-4350.jpg/2560px-Gr-athina-stoa_attalos-110530-pp-4350.jpg"}
 
 ![Pórtico de Átalo na ágora de Atenas. Reconstituição do original da metade do século [II]{.smallcaps} a.C. segundo projeto de John Travlos e supervisão estrutural de Georgios Biris, 1953--1956. Foto: Pedro P. Palazzo, 2011](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gr-athina-stoa_attalos-110530-pp-4350.jpg/2560px-Gr-athina-stoa_attalos-110530-pp-4350.jpg){#fig:attalos-view .full}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Podemos retroceder até os *stoa*, os pórticos das cidades gregas que
+assumem da forma mais simples possível esse propósito. O exemplo
+canônico é o pórtico de Átalo, uma obra do período helenístico.
+[@fig:attalos-view; @fig:attalos-plans; @fig:attalos-secpersp]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/10/ascsa-2008.20.0061.png" data-background-size="contain"}
 
@@ -382,6 +389,10 @@ administrativos que fiscalizam o dia-a-dia da sociedade.
 ![Pórtico de Átalo. Corte perspectivado do projeto de John Travlos por W. H. Thompson & Phelps Barnum Architects, 1953. Acervo da [American School of Classical Studies at Athens, cota 1997.08.0400][]](http://agora.ascsa.net/image?type=full&id=Agora:Image:1997.08.0400){#fig:attalos-secpersp}
 
 [American School of Classical Studies at Athens, cota 1997.08.0400]: http://agora.ascsa.net/id/agora/image/1997.08.0400
+
+## {data-background-image=""}
+
+![Esquema teórico de um tipo de transição entre o pórtico e a basílica])){#fig:stoa-bas}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/93/BasilicaSemproniaReconstruction.jpg"}
 
@@ -415,7 +426,83 @@ administrativos que fiscalizam o dia-a-dia da sociedade.
 
 ![Reconstituição digital da basílica primitiva de S. Pedro, Roma, c. 330](https://i.pinimg.com/originals/dd/89/05/dd8905ce83f44e7e01ce9b2d6bc18518.jpg){#fig:oldspete}
 
+## 
+
+:::::::::::::::::::::::::::::::::::::::::: {#fig:ulpia-stpetes .columns}
+::: {.column width=50%}
+![basílica Úlpia](https://upload.wikimedia.org/wikipedia/commons/2/22/Ulpia-historyofarchite00flet_0212.png){#fig:ulpia-stpetesA .line}
+:::
+::: {.column width=50%}
+![basílica de São Pedro](https://upload.wikimedia.org/wikipedia/commons/a/a6/Old_Saint_Peters-historyofarchite00flet_0261.png){#fig:ulpia-stpetesB .line}
+:::
+Basílica romana clássica e paleocristã, plantas por Banister Fletcher
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A basílica clássica só faz sentido a partir de um tamanhão relativamente
+amplo. Já a basílica cristã pode ser reduzida a dimensões muito modestas
+e, portanto, com uma forma bastante simplificada. Esse vai ser o caso
+das chamadas "igrejas visigóticas". Elas têm esse nome porque foram
+construídas no reino dos visigodos, nos séculos [VI]{.smallcaps} e
+[VII]{.smallcaps}, principalmente no noroeste da península Ibérica.
+[@fig:comba-vista]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Igreja de Santa Comba de Bande (Galiza, Espanha), século [VII]{.smallcaps}](){#fig:comba-vista}
+
+## {data-background-image=""}
+
+![Igreja de Santa Comba de Bande, planta](){#fig:comba-plan .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A igreja visigótica de Santa Comba de Bande é um exemplo dessas pequenas
+basílicas com naves muito estreitas. [@fig:comba-plan]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+![Igreja de San Salvador, Valdediós (Leão, Espanha), 893](){#fig:valde-plan .line}
+
+## {data-background-image=""}
+
+![Igreja de San Salvador](){#fig:valde-vista}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/10/abbaye_saint-michel-de-cuxa_grundriss_erdgeschoss_handskizze.jpg" data-background-position="bottom"}
+
+![Igreja da abadia de Sant Miquel de Cuixà, condado de Barcelona (atual sul da França), 956--974. Planta: [Jochen Jahnke, 2011][]](https://hcommons.org/app/uploads/sites/1002372/2021/10/abbaye_saint-michel-de-cuxa_grundriss_erdgeschoss_handskizze.jpg){#fig:cuxa-plan}
+
+[Jochen Jahnke, 2011]: https://commons.wikimedia.org/wiki/File:Abbaye_Saint-Michel-de.Cuxa,_Grundriss,_Erdgeschoss,_Handskizze.jpg
+
+<!--_,-->
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Abbaye_Saint-Michel_de_Cuxa_02.jpg/2560px-Abbaye_Saint-Michel_de_Cuxa_02.jpg"}
+
+![Igreja da abadia de Sant Miquel de Cuixà. Foto: [H. Zell, 2019][]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Abbaye_Saint-Michel_de_Cuxa_02.jpg/1024px-Abbaye_Saint-Michel_de_Cuxa_02.jpg){#fig:cuxa-ext}
+
+[H. Zell, 2019]: https://commons.wikimedia.org/wiki/File:Abbaye_Saint-Michel_de_Cuxa_02.jpg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Característico perfil das igrejas basilicais com naves laterais mais
+baixas e coberturas em meia-água. [@fig:cuxa-ext]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/0e/Codalet_(66)_Abbaye_Saint-Michel_de_Cuxa_Église_10.JPG"}
+
+![Igreja da abadia de Sant Miquel de Cuixà. Foto: [GO69, 2014][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Codalet_(66)_Abbaye_Saint-Michel_de_Cuxa_Église_10.JPG/1024px-Codalet_(66)_Abbaye_Saint-Michel_de_Cuxa_Église_10.JPG){#fig:cuixa-int}
+
+[GO69, 2014]: https://commons.wikimedia.org/wiki/File:Codalet_(66)_Abbaye_Saint-Michel_de_Cuxa_Église_10.JPG
+
+<!--_,-->
+
+## {data-background-image=""}
+
+![Igreja românica](){}
+
+## {data-background-image=""}
+
+![Igreja gótica](){}
 
 ## {data-visibility="hidden"}
 
