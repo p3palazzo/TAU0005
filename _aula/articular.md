@@ -316,6 +316,10 @@ mestras) que determinam o módulo da edificação como um todo.
 Aproximação às arquiteturas do sagrado: capitais móveis na China e no
 Japão, estruturas de culto temporárias ou periodicamente renovadas.
 
+## Escalas ## {data-visibility="hidden"}
+
+<!-- Inserir aqui as notas da aula de 21/10/2021 -->
+
 # Indicação e composição #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
