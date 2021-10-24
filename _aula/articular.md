@@ -322,6 +322,8 @@ Japão, estruturas de culto temporárias ou periodicamente renovadas.
 
 # Indicação e composição #
 
+## 
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mais cedo, estabelecemos os princípios da composição arquitetônica:
 
@@ -390,9 +392,20 @@ canônico é o pórtico de Átalo, uma obra do período helenístico.
 
 [American School of Classical Studies at Athens, cota 1997.08.0400]: http://agora.ascsa.net/id/agora/image/1997.08.0400
 
-## {data-background-image=""}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/10/roma-lusitania-conimbriga-forum_augustanus-870000-arc-02.png" data-background-size="contain"}
 
-![Esquema teórico de um tipo de transição entre o pórtico e a basílica])){#fig:stoa-bas}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A analogia de propósitos entre os pórticos da Grécia antiga e a basílica
+romana permite deduzir um tipo intermediário, de basílica só com duas
+naves. Esse tipo aparece em algumas colônias romanas na Gália e na
+península Ibérica no século [I]{.smallcaps}
+[@roth-conges:1987lhypothese99], por exemplo em Conimbriga.
+[@fig:conimbriga]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Fórum de Conimbriga com basílica de duas naves, Lusitânia romana (atual Portugal), final do século [I]{.smallcaps} a.C. Registro arqueológico por [Anne Roth Congès, 1987][]](https://hcommons.org/app/uploads/sites/1002372/2021/10/roma-lusitania-conimbriga-forum_augustanus-870000-arc-02.png){#fig:conimbriga .line}
+
+[Anne Roth Congès, 1987]: https://www.persee.fr/doc/mefr_0223-5102_1987_num_99_2_1566
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/93/BasilicaSemproniaReconstruction.jpg"}
 
@@ -438,7 +451,7 @@ canônico é o pórtico de Átalo, uma obra do período helenístico.
 Basílica romana clássica e paleocristã, plantas por Banister Fletcher
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://live.staticflickr.com/3858/14712548645_095ec7b107_k_d.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A basílica clássica só faz sentido a partir de um tamanhão relativamente
@@ -450,24 +463,30 @@ construídas no reino dos visigodos, nos séculos [VI]{.smallcaps} e
 [@fig:comba-vista]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Igreja de Santa Comba de Bande (Galiza, Espanha), século [VII]{.smallcaps}](){#fig:comba-vista}
+![Igreja de Santa Comba de Bande (Galiza, Espanha), século [VI]{.smallcaps} ou [VII]{.smallcaps}. Foto: [Pedro P. Palazzo, 2014](https://commons.wikimedia.org/wiki/File:Santa_Comba,_Bande,_exterior_(14712548645).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Santa_Comba,_Bande,_exterior_(14712548645).jpg/1024px-Santa_Comba,_Bande,_exterior_(14712548645).jpg){#fig:comba-vista}
 
-## {data-background-image=""}
+## {data-background-image="https://i.pinimg.com/originals/1a/25/c9/1a25c98b6c2b0b0c04d73eb945926223.jpg" data-background-size="contain"}
 
-![Igreja de Santa Comba de Bande, planta](){#fig:comba-plan .line}
+![Igreja de Santa Comba de Bande, planta](https://i.pinimg.com/originals/1a/25/c9/1a25c98b6c2b0b0c04d73eb945926223.jpg){#fig:comba-plan}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A igreja visigótica de Santa Comba de Bande é um exemplo dessas pequenas
 basílicas com naves muito estreitas. [@fig:comba-plan]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/bd/Valdediós_(revisitado)_(12566036363).jpg"}
 
-![Igreja de San Salvador, Valdediós (Leão, Espanha), 893](){#fig:valde-plan .line}
+![Igreja de San Salvador, Valdediós (Leão, Espanha), 893. Foto: [Ángel M. Felicísimo, 2008][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Valdediós_(revisitado)_(12566036363).jpg/1024px-Valdediós_(revisitado)_(12566036363).jpg){#fig:valde-vista}
 
-## {data-background-image=""}
+[Ángel M. Felicísimo, 2008]: https://commons.wikimedia.org/wiki/File:Valdediós_(revisitado)_(12566036363).jpg
 
-![Igreja de San Salvador](){#fig:valde-vista}
+<!--_,-->
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/San_Salvador_de_Valdediós_plan.svg/2556px-San_Salvador_de_Valdediós_plan.svg.png" data-background-size="contain"}
+
+![Igreja de San Salvador. Planta: [Ch1902, 2008][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/San_Salvador_de_Valdediós_plan.svg/2556px-San_Salvador_de_Valdediós_plan.svg.png){#fig:valde-plan .line}
+
+[Ch1902, 2008]: https://commons.wikimedia.org/wiki/File:San_Salvador_de_Valdediós_plan.svg
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/10/abbaye_saint-michel-de-cuxa_grundriss_erdgeschoss_handskizze.jpg" data-background-position="bottom"}
 
@@ -498,7 +517,7 @@ baixas e coberturas em meia-água. [@fig:cuxa-ext]
 
 ## {data-background-image=""}
 
-![Igreja românica](){}
+![Catedral de Santiago de Compostela](){}
 
 ## {data-background-image=""}
 
@@ -513,6 +532,32 @@ igrejas que abrigam relíquias importantes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Composição: a casa ## {data-visibility="hidden"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Processo tipológico da casa: do cômodo único à organização típica.
+- A habitação contemporânea de mercado também é tipológica.
+- Principais requisitos para a construção de uma morada vernácula
+  tradicional são tempo e espaço; conjuntos de barracos feitos de
+  materiais precários (chapa, tábua) emergem quando grandes contingentes
+  não tem nem tempo para construir, nem espaço para manejar materiais
+  que não custam nada (adobe, pau-a-pique) [@celentano:2021materials6].
+- Emergência do conceito de doméstico por oposição a público, e
+  consequente afirmação de papéis de gênero na casa.
+- Pandemia forçou retorno ao conceito de uma casa multifuncional.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/e1/43/d1/e143d14acdb8f920ef42f7932c01facc.jpg"}
+
+![*Villa* parcialmente fortificada na época romana tardia, séculos [IV--VI]{.smallcaps}](https://i.pinimg.com/originals/e1/43/d1/e143d14acdb8f920ef42f7932c01facc.jpg){#fig:fort-villa}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png" data-background-size="contain"}
+
+![Tipos de base e duplicações na edilícia de base do Mediterrâneo medieval, segundo Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:raddoppi .align-right .line}
+
+## {.unlisted data-background-image="https://i.pinimg.com/originals/25/a1/80/25a180516a2a01f5faf8fcdee19c23f9.jpg" data-background-size="contain"}
+
+![Casa--salão do norte da Europa: construção em Burford, Inglaterra](https://i.pinimg.com/originals/25/a1/80/25a180516a2a01f5faf8fcdee19c23f9.jpg){#fig:cotswold}
 
 # Bibliografia # {.allowframebreaks .unlisted}
 

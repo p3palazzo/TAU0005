@@ -6,16 +6,20 @@ author  : "Pedro P. Palazzo"
 date    : 2021-10-26
 toc:
   - Estilo, construção e cultura
-  - Casas, castelos e outras arquiteturas civis
   - Querela do ornamento
+  - Tecnologia e profissão
   - Espacialidade na pintura gótica italiana
+title-slide-attributes:
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg
+  caption: "Thomas Cole, [*O passado*](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Past_1838.jpg), 1838"
+  actions:
+  - label: "Slides"
+    url: "/slides/caracterizar/"
 ---
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg"}
-
-![Thomas Cole. The Past, 1838](https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg){#fig:cole-past .full}
-
-# Estilo, construção e cultura # {data-background-color="#0f0"}
+# Estilo, construção e cultura #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No final da última dinastia imperial chinesa e durante o
@@ -188,20 +192,6 @@ intenção dizendo com todas as letras:
 > sinais de velhice, fraqueza e rigidez, a partir do início da dinastia
 > Ming (século [XV]{.smallcaps}). [@liang:1984pictorial, 17]
 
-# Casas, castelos e outras arquiteturas civis #
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/e1/43/d1/e143d14acdb8f920ef42f7932c01facc.jpg"}
-
-![*Villa* parcialmente fortificada na época romana tardia, séculos [IV--VI]{.smallcaps}](https://i.pinimg.com/originals/e1/43/d1/e143d14acdb8f920ef42f7932c01facc.jpg){#fig:fort-villa}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png" data-background-size="contain"}
-
-![Tipos de base e duplicações na edilícia de base do Mediterrâneo medieval, segundo Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:raddoppi .align-right .line}
-
-## {.unlisted data-background-image="https://i.pinimg.com/originals/25/a1/80/25a180516a2a01f5faf8fcdee19c23f9.jpg" data-background-size="contain"}
-
-![Casa--salão do norte da Europa: construção em Burford, Inglaterra](https://i.pinimg.com/originals/25/a1/80/25a180516a2a01f5faf8fcdee19c23f9.jpg){#fig:cotswold}
-
 # Querela do ornamento #
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg"}
@@ -220,7 +210,7 @@ intenção dizendo com todas as letras:
 
 ![Abadia de S. Dionísio (Saint-Denis), igreja concebida pelo abade Suger e construída 1122--1151. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/saint-denis/)](https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg){#fig:sdenis-golvin}
 
-# Tecnologia e profissão # {data-background-color="#0f0"}
+# Tecnologia e profissão #
 
 ## Ofícios ##
 
@@ -230,7 +220,36 @@ intenção dizendo com todas as letras:
 
 [@toker:1985gothic67]
 
-## Vocabulário da construção ##
+## Vocabulário da construção ## {data-visibility="hidden"}
+
+## 
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Palavras e papéis, lista elaborada por Léonore Losserand:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+- Dizer, decidir, dirigir
+- Escrever
+- Calcular, avaliar, pagar
+- Desenhar
+
+## 
+
+- Transportar
+- Cavar
+- Talhar
+- Alçar
+- Montar
+- Consertar
+
+## 
+
+- Atestar, receber, inaugurar
+- Limpar
+- Comunicar, transmitir
+- Visitar, ver, ser visto
+- Formar, passar adiante
+- Experimentar
 
 ## Planejamento e preparação ##
 
@@ -264,4 +283,4 @@ intenção dizendo com todas as letras:
 
 # Espacialidade na pintura gótica #
 
-# Bibliografia {.unlisted .allowframebreaks}
+# Bibliografia {.allowframebreaks}
