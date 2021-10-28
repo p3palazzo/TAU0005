@@ -1,6 +1,5 @@
 # {{{1 Variables
 #      =========
-
 VPATH = . assets
 vpath %.bib _bibliography
 vpath %.html . _includes _layouts _site
@@ -22,7 +21,7 @@ SASS    = _revealjs-settings.scss \
 # {{{1 Recipes
 #      =======
 .PHONY : _site
-_site : $(SLIDES) assets/css/main.scss
+_site : $(SLIDES)
 	@echo "####################"
 	@docker run --rm -v "`pwd`:/srv/jekyll" \
 		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
@@ -41,7 +40,7 @@ assets/css/%.scss : _sass/%.scss
 	@echo "$@ atualizado."
 
 .PHONY : serve
-serve : $(SLIDES) assets/css/main.scss
+serve : $(SLIDES)
 	@echo "####################"
 	@docker run --rm -v "`pwd`:/srv/jekyll" \
 		-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
