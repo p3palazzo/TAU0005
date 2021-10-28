@@ -29,6 +29,12 @@ para permitir a passagem, iluminação e ventilação. Assim como a
 concepção estrutural do conjunto, essas aberturas podem ser de dois
 tipos: arquitravadas, isso é, formadas por vigas, ou arqueadas, isso é,
 formadas por arcos na própria alvenaria.
+
+Juntamente com a temática das coberturas, trata-se de questões mais complexas e importantes para a espacialidade da arquitetura tradicional (em que não há grandes diferenças entre interiores e exteriores).
+
+Destaca-se que abóbadas e cúpulas não são tão eficientes para a arquitetura moderna, sendo abandonadas atualmente. São utilizadas apenas onde for necessário, considerando-se ainda seus efeitos simbólicos e estéticos. 
+
+Elas originam-se em duas regiões: África subsaariana (abóbadas em adobe ou taipa) e na Índia (em madeira sobrada a vapor ou serrada).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## 
@@ -54,6 +60,8 @@ abertura arquitravada onde uma verga trabalha à flexão para resistir ao
 carregamento da parede acima dela, o arco vai receber essa
 carga e distribuí-la para os lados, comprimindo os blocos sucessivos que
 fazem parte dele. [@fig:arcomp]
+
+Arcos falsos: são paredes em alvenaria que se alargam criando pequenos balanços, mas mantendo-se como estruturas arquitravadas que trabalham à flexão, diferente dos arcos reais que funcionam mais à compressão. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## 
@@ -68,6 +76,8 @@ arco são chamados de *aduelas*; a aduela central de um arco é a *chave*
 e os blocos assentados horizontalmente que sustentam as aduelas mais
 externas são as *impostas*. Os arcos tradicionais em geral precisam de
 contenções laterais que chamamos de *contrafortes*. [@fig:arco-defs]
+
+As aduelas são as peças mais importantes nos arcos, por possibilitarem sua divisão em partes menores, tornando-os ideais para grandes vãos. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-color="#0f0"}
@@ -91,6 +101,8 @@ blocos que vão ser usados. Podemos construir estruturas arqueadas muito
 grandes, como a cúpula do Panteão em Roma com 43 metros de vão livre,
 usando só blocos de pedra que podem ser assentados à mão usando
 argamassa. [@fig:pantheon-wtv]
+
+As aduelas são as peças mais importantes nos arcos, por possibilitarem sua divisão em partes menores, tornando-os ideais para grandes vãos. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
@@ -262,6 +274,8 @@ próprio Hooke nessa pintura comemorativa por Rita Greer
 A catenária é a função do cosseno de uma hipérbola, enquanto a parábola
 é o resultado de uma função do segundo grau ou função quadrática (aquela
 onde a gente usa Bhaskara). [@fig:para-cat]
+
+Ela é a forma ideal do arco, gerada a partir de uma curvatura que permite que o arco sustente seu próprio peso. Exemplo: Sagrada Família do Gaudí.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Catenária e parábola comparadas. Gráfico: [Dino,
@@ -464,6 +478,12 @@ Ruínas do *eyvan-i Medayin* (arco de Ctesifonte), Pérsia sassânida (atual Taq
 O arco catenário ou parabólico quase nunca é usado como uma abertura
 simples na parede. Ele é ideal como gerador de uma abóbada linear para
 cobrir um ambiente ou uma construção inteira. [@fig:kasra]
+
+Sustentam cargas além do próprio peso, tendo a vantagem de quase não consumirem madeira, usando apenas adobe. Tornam-se ideais para regiões semiáridas e com pouco madeiramento, resultando em espaços amplos e elegantes.
+
+Essa tecnologia espalha-se pelo Egito e talvez Mesopotâmia, partindo do antigo Sudão.
+
+São feitos de tijolos cozidos relativamente leves, sustentados entre si apenas pelo atrito entre tijolo e argamassa. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted}
@@ -493,6 +513,8 @@ estruturas onde os arcos precisam sustentar cargas pesadas, a pedra ou
 grandes massas de tijolo são as melhores soluções. Nesses casos, o arco
 pleno ou de meia-volta é a forma mais conveniente tendo em vista o
 processo construtivo como um todo.
+
+Ressalta-se que as catenárias e parábolas são complexas de se traçar, em contraposição à economia na obra e aos grandes vãos que geram.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Perugia_Porta_Urbica_etrusca_o_Arco_di_Augusto.jpg/1608px-Perugia_Porta_Urbica_etrusca_o_Arco_di_Augusto.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
@@ -503,6 +525,12 @@ muralhas, onde a parábola seria uma complicação desnecessária. A
 alvenaria é capaz de absorver os empuxos laterais gerados pelo arco
 semicircular, portanto a simplicidade da sua forma e execução representa
 uma vantagem. [@fig:perugia]
+
+Como aberturas em paredes, tende-se a utilizar os arcos semicirculares, que são mais simples e fáceis de executar, além de serem mais adequados esteticamente. Os arcos plenos são a grande marca da construção monumental romana: “arcos do triunfo”.
+
+Os diferentes tipos de arcos caracterizam-se pelas diversas formas de distribuição de carga. Por exemplo, os arcos planos distinguem-se das estruturas arquitravadas pelo fato de que os primeiros são formados por aduelas com juntas diagonais que funcionam como arcos estruturalmente, mesmo não sendo curvos, já que distribuem as cargas à compressão pelas laterais. 
+
+Não existem evidências arqueológicas dos arcos em madeira na Índia védica, apenas representações talhadas na rocha, indicando seguirem o mesmo princípio estrutural das cabanas árabes estudadas anteriormente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Porta etrusca, Perugia, segunda metade do século [III]{.smallcaps} a.C. [Gustavo Stafforello, *La patria, geografia dell'Italia*, 1895]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Perugia_Porta_Urbica_etrusca_o_Arco_di_Augusto.jpg/1608px-Perugia_Porta_Urbica_etrusca_o_Arco_di_Augusto.jpg){#fig:perugia}
@@ -694,6 +722,10 @@ ogival. [@fig:kusinagar-gate]
 ![Abóbadas na Domus aurea, Roma, após 50 d.C. Filmagem: [Günther Etlinger e Ursula Streit, 2014]](https://cdn.palazzo.arq.br/firmitas/arcos/Domus_Aurea-Italy_4K_Travel_Channel-volta.webm){#fig:aurea-volta}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As abóbadas podem constituir-se de arcos “extrudados”, formando telhados ovalados ou arqueados. Destacando-se que os romanos não são os únicos a utilizá-las, apesar de serem marcados pela monumentalidade e pés-direitos altos que possibilitam, mesmo em edifícios pequenos. Com as nervuras, tornam-se mais sólidas e estáveis.
+
+As abóbadas tornam-se o sistema construtivo padrão para a monumentalidade na Europa, destacando-se sua grande resistência ao fogo, entre outras vantagens.
+
 A conotação monumental e a proteção contra o fogo que um teto em
 alvenaria oferece fazem com que as abóbadas geradas por arcos plenos
 sejam uma solução consagrada para cobrir espaços importantes. A extrusão
@@ -745,6 +777,8 @@ construir abóbadas leves feitas de pequenos tijolos quadrados.
 [@fig:choisy1.538]
 Assim como a abóbada núbia, essas *abobadilhas* podem ser erguidas
 usando apenas o atrito da argamassa, sem cimbramento.
+
+Foram inventadas pelos romanos e são formadas por grandes ladrilhos sustentados apenas pelo atrito da argamassa, por isso não suportando grandes cargas. Exemplo: cúpula da Catedral de Santa Sofia assentada sobre uma base quadrada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/af/ef/11/afef110de580ac57b90e74dc4711b2e7.png" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
