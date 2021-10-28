@@ -45,5 +45,5 @@ jobs:
         git config --local user.name  "Automated build"
         git add .
         git commit -m "${{ env.commit_message }}" -a || git status
-        git pull --ff-only
+        git pull --rebase
         git push
