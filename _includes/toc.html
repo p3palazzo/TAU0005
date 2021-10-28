@@ -1,22 +1,10 @@
 {%- if page.abstract %}
-  <div class="epigraph">
-    <blockquote>
-      <p>
-        {{ page.abstract | markdownify }}
-      </p>
-    </blockquote>
-  </div>
+  {{ page.abstract | markdownify }}
 {% endif -%}
 {%- if page.toc %}
-  <div class="epigraph">
-    <blockquote>
-      <p>
-        {% for t in page.toc -%}
-          <a href="#{{ t | downcase | replace: ' ', '-' | remove: ':' | remove: ',' }}">{{ t }}</a>
-          {% unless forloop.last %} &mdash; {% endunless %}
-        {%- endfor %}
-      </p>
-    </blockquote>
-  </div>
+  {% for t in page.toc -%}
+    <a href="#{{ t | downcase | replace: ' ', '-' | remove: ':' | remove: ',' }}">{{ t }}</a>
+    {% unless forloop.last %} &mdash; {% endunless %}
+  {%- endfor %}
 {% endif -%}
 
