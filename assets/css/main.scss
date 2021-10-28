@@ -66,8 +66,13 @@ $header-font-style: italic;
     "revealjs-support";
 
 .masthead,
+.pagination,
 .page__footer-follow {
     display: none;
+}
+
+.page__lead {
+	font-size: $type-size-5;
 }
 
 a.btn {
