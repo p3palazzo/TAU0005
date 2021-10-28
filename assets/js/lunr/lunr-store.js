@@ -6,7 +6,7 @@ var store = [{
         "teaser": null
       },{
         "title": "História e arquitetura tradicional",
-        "excerpt":"História ou arquitetura Em 1839, o arquiteto americano Ithiel Town encomendou ao seu amigo Thomas Cole uma pequena pintura de paisagem com algumas construções clássicas. Em vez disso, Cole pintou uma imensa alegoria da Arquitetura, intitulada Sonho do arquiteto. 1 A tela representava os principais estilos arquitetônicos do Ocidente, desde...","categories": [],
+        "excerpt":"História ou arquitetura Em 1839, o arquiteto americano Ithiel Town encomendou ao seu amigo Thomas Cole uma pequena pintura de paisagem com algumas construções clássicas. Em vez disso, Cole pintou uma imensa alegoria da Arquitetura, intitulada Sonho do arquiteto. fig. 1 A tela representava os principais estilos arquitetônicos do Ocidente, desde...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/arqtrad/",
         "teaser": null
@@ -78,7 +78,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Caracterizar",
-        "excerpt":"Figura 1: Thomas Cole. The Past, 1838 Estilo, construção e cultura No final da última dinastia imperial chinesa e durante o período republicano, pensadores como Gu Jiegang e Liang Qichao adotaram uma perspectiva intelectualmente reformista e cética com respeito à cronologia histórica tradicional. Esse ceticismo estava alinhado com a visão...","categories": [],
+        "excerpt":"Estilo, construção e cultura No final da última dinastia imperial chinesa e durante o período republicano, pensadores como Gu Jiegang e Liang Qichao adotaram uma perspectiva intelectualmente reformista e cética com respeito à cronologia histórica tradicional. Esse ceticismo estava alinhado com a visão da história desenvolvida na Europa do século...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/caracterizar/",
         "teaser": null
