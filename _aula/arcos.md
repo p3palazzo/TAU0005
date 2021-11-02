@@ -54,6 +54,12 @@ abertura arquitravada onde uma verga trabalha à flexão para resistir ao
 carregamento da parede acima dela, o arco vai receber essa
 carga e distribuí-la para os lados, comprimindo os blocos sucessivos que
 fazem parte dele. [@fig:arcomp]
+
+Eles raramente são usadas isoladamente e transformam cargas verticais em diagonais (descarregando-as para os lados). A maneira mais fácil de manejá-los é a utilização de uma sequência deles na forma de uma arcada, de modo que travam a si mesmos. Elas são realizadas pelos romanos com frequência. 
+
+Em geral, os arcos são mais úteis quando extrudados, formando uma abóbada de berço, o que gera espaços generosos e com certa impressão de monumentalidade. Trata-se de uma solução estrutural simples e sem grandes desafios geométricos, mas que demanda uma construção muito precisa a partir de um cimbramento cilíndrico que se desloca, resultando em uma construção eficiente, leve e econômica.
+
+É possível aliviar essas estruturas separando-as em elementos portantes e sustentados, sendo importante compreender como uma estrutura primária ajuda a sustentar uma secundária (que é autoportante, mas dependente da estrutura primária para ser executada).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted}
@@ -68,6 +74,10 @@ arco são chamados de *aduelas*; a aduela central de um arco é a *chave*
 e os blocos assentados horizontalmente que sustentam as aduelas mais
 externas são as *impostas*. Os arcos tradicionais em geral precisam de
 contenções laterais que chamamos de *contrafortes*. [@fig:arco-defs]
+
+Os *contrafortes* recebem a carga diagonal distribuída pelos pilares e transferem-na para o solo externamente. São empiricamente dimensionados pela divisão do arco em três partes, criando uma espécie de trapézio ao qual tem-se duplicado seu comprimento lateral para se estabelecer sua espessura final.
+
+Os *capitéis* têm a função é oferecer um apoio mais largo na base dos arcos e aliviar o esforço cortante que chega quase verticalmente às colunas, além de apoiar o cimbramento.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-color="#0f0"}
@@ -675,6 +685,8 @@ antigos palácios indianos. [@fig:kusinagar]
 As coberturas têm uma aresta na cumeada, para melhor drenar a água da
 chuva. Essa pode ser a origem do que chamamos de arco apontado ou
 ogival. [@fig:kusinagar-gate]
+
+*Arco ogival*: não atinge a eficiência máxima de uma parábola, mas é suficientemente conveniente para ser usado, tendo a vantagem de gerar um empuxo muito pequeno, o que resulta em um contraforte mais estreito do que o oferecido pelos arcos plenos ou rebaixados (estes recebem um maior empuxo). Entretanto, demandam mais material na parte superior para desviar as cargas para a vertical. Exemplos: Panteão e Catedral de Santa Sofia, com suas cúpulas mais rebaixadas e elementos vazados que demandam paredes mais espessas (ainda que permitam a existência de nichos internos). 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Reconstituição de um portão na muralha de Kusināgarā a partir do relevo da guerra pelas relíquias do Buda. [Percy Brown, 1900]](https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png){#fig:kusinagar-gate .line}
@@ -825,7 +837,7 @@ Catedral de S. Crispim, Etchmiadzin, Armêmia, iniciada em 630. Filmagem: [Expoz
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para apoiar uma cúpula sobre uma base quadrada, uma solução simples é a
-trompa: um arco posicionado sobre o ângulo reentrante.
+trompa: um arco posicionado sobre o ângulo reentrante. Trata-se de pequenos arcos em diagonal (tronco de cone) entre dois arcos principais, que permitem a transformação de uma planta quadrada, com um tambor octogonal mais acima, para sustentar uma cúpula. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Expoza Travel, 2018]: https://youtu.be/PWK0DFcPE7k?t=137
@@ -833,7 +845,7 @@ trompa: um arco posicionado sobre o ângulo reentrante.
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Etchmiadzin-Vagharschapat-calotte.webm" data-background-video-muted="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A calota é uma cúpula seccionada por quatro (ou mais) arcos.
+A calota é uma cúpula seccionada por quatro (ou mais) arcos. Trata-se de uma outra solução de transição, semelhante à trompa, que resulta no corte das laterais da cúpula até que se encaixe na base quadrada, levando a uma perda de altura. Ela pode também receber outra cúpula completa apoiada sobre si, chamada de pendente, como visto na catedral de Santa Sofia.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/14/Choisy_Art_de_bâtir_chez_les_Byzantins_pl_XIII-1_Constantinople.png" data-background-size="contain"}
@@ -926,6 +938,8 @@ Abóbada nervurada em cruzaria. Desenho de [Jean-Claude Golvin](https://jeanclau
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A combinação desses diferentes avanços tecnológicos permite o aumento na
 altura das igrejas góticas ao longo do século [XIII]{.smallcaps}.
+
+Arcos, abóbada e cúpulas não constituem um modo de construir industrializado, como a maioria dos demais sistemas construtivos tradicionais passaram a ser, tornando-se praticamente abandonados. Os últimos ganham uma versão mais rígida e eficiente do ponto de vista do desempenho ao serem modernizados, ainda que menos duráveis sob a perspectiva da resiliência. As poucas construções arqueadas modernas tendem a um caráter monumental e não seguem os mesmos princípios de desempenho estrutural que as tradicionais (geralmente são estruturas arquitravadas que lembram visualmente os arcos, como no caso dos palácios de Brasília). As abóbadas e cúpulas seguem a mesma lógica. Por essa razão, o conhecimento executivo dessas tipologias estruturais não foi desenvolvido na modernidade, ainda que esteja sendo recuperado e reconstruído na atualidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Bibliografia {.unlisted .allowframebreaks}
