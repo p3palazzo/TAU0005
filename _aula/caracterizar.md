@@ -36,7 +36,7 @@ credibilidade se forem contemporâneas dos eventos descritos.
 
 [Liang Qichao]: https://en.wikipedia.org/wiki/Liang_Qichao
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A historiografia chinesa tradicional se baseava no modelo estabelecido
@@ -110,7 +110,7 @@ do início da Idade do Bronze em Erlitou. [@fig:erlitou-gongtian;
 
 ## Evolução orgânica do estilo ## {data-visibility="hidden"}
 
-## {.unlisted}
+##
 
 ![Ieoh Ming Pei, arquiteto, pirâmide do Louvre, Paris, 1984--1989. Foto: [Benh Lieu Song, 2010](https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1280px-Louvre_Museum_Wikimedia_Commons.jpg){#fig:louvre .full}
 
@@ -171,7 +171,7 @@ ou espacial da arquitetura, e só tinham explorações superficiais da
 decoração.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Pesquisadores como Liang e Lin internalizaram essa teoria do estilo, mas
@@ -198,6 +198,10 @@ intenção dizendo com todas as letras:
 
 ![Abadia de Cluny, estágio III, século [XII]{.smallcaps}. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/cluny/) baseada em Kenneth J. Conant](https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg){#fig:cluny}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[@rudolph:1988bernard27]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg"}
 
 ![Nave da igreja da abadia de Fontenay, Borgonha, 1130--1147](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg){#fig:fontenay}
@@ -210,15 +214,9 @@ intenção dizendo com todas as letras:
 
 ![Abadia de S. Dionísio (Saint-Denis), igreja concebida pelo abade Suger e construída 1122--1151. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/saint-denis/)](https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg){#fig:sdenis-golvin}
 
+## {data-background-image=""}
+
 # Tecnologia e profissão #
-
-## Ofícios ##
-
-[@fitchen:1981construction]
-
-[@bork:2011geometry]
-
-[@toker:1985gothic67]
 
 ## Vocabulário da construção ## {data-visibility="hidden"}
 
@@ -251,23 +249,43 @@ Palavras e papéis, lista elaborada por Léonore Losserand:
 - Formar, passar adiante
 - Experimentar
 
-## Planejamento e preparação ##
+## Planejamento e preparação ## {data-visibility="hidden"}
 
-[@branner:1960villard19]
+##
 
-[@villard:1858album]
-
-[@carreira:1997estudos]
-
-[@branner:1958drawings17]
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O conceito de "invenção" de uma solução (formal e tecnológica) se firma
+na escrita sobre arquitetura a partir do século [XII]{.smallcaps}: abade
+Suger [@rudolph:2011inventing93; @stanley:2006original65], Villard de
+Honnecourt [@ackerman:1997villard18; @carreira:1997estudos]. Com esse
+conceito, fica claro que a forma não está dada *a priori* mas que ela é
+resultado de uma busca pela melhor solução --- claro que adaptando
+gradualmente o conhecimento estabelecido e não tendo a pretensão de
+inventar algo do zero [@bork:2011geometry].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/29/21/e0/2921e0a5cddcb9c87574995c48c9402a.jpg" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O desenho como instrumento da concepção arquitetônica não é uma novidade
+da Europa medieval. Temos desenhos arquitetônicos remanescentes do Egito
+antigo, da Grécia clássica e do Império romano. Vitrúvio teria incluído
+pelo menos dois desenhos no manuscrito original do seu tratado *Da
+arquitetura*, e ele escreveu sobre a importância de o arquiteto dominar
+a projeção ortográfica e em perspectiva. Apesar disso, o desenho era
+visto sobretudo como um expediente de trabalho. A novidade da Europa
+medieval é que, principalmente do século [XIII]{.smallcaps} em diante, o
+desenho passa a ser tratado como um instrumento contratual. Isso quer
+dizer que o desenho de um projeto pode ser um vínculo legal entre o
+arquiteto e o cliente, ou entre o arquiteto e os pedreiros
+[@branner:1960villard19; @branner:1958drawings17].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Projeto para a fachada da catedral de Estrasburgo, c. 1260. [Museu da obra da catedral de Estrasburgo](http://blog.metmuseum.org/penandparchment/exhibition-images/cat380r2_49f/)](https://i.pinimg.com/originals/29/21/e0/2921e0a5cddcb9c87574995c48c9402a.jpg){#fig:strasbourg}
 
 ## Execução e obras temporárias ##
 
-[@lavan:2008umayyad]
+[@arce:2008umayyad]
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/32/Construction.voute.romaine.png" data-background-size="contain"}
 
@@ -280,6 +298,35 @@ Palavras e papéis, lista elaborada por Léonore Losserand:
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg" data-background-size="contain"}
 
 ![Guindaste na carpintaria de uma igreja gótica. Desenho de [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg){#fig:grue}
+
+## Processo construtivo, ofícios e a arquitetura gótica ## {data-visibility="hidden"}
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Relação entre a organização do trabalho no canteiro de obras da Europa
+medieval e a introdução de inovações técnicas
+[@fitchen:1981construction]. Estas não só tornam a estrutura mais
+econômicas e previsíveis do ponto de vista da distribuição de cargas,
+mas também permitem organizar as equipes de modo mais eficiente.
+Consequentemente, o processo de contratação e fiscalização da obra
+também ganha eficiência e previsibilidade [@toker:1985gothic67].
+
+- Busca pela estabilidade com abóbadas de aresta
+- Dificuldade de execução dos perfis de aresta → invenção das nervuras
+- Excessivo empuxo das nervuras diagonais rebaixadas → sobrealçado das
+  diagonais e uso de ogivas nos arcos transversais
+- Solução permite construir módulos alongados e mesmo irregulares
+  (estruturas radiantes nos deambulatórios curvos)
+- Domínio (intuitivo?) dos vetores de forças permite o esvaziamento de
+  contrafortes maciços e a introdução dos arcos botantes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::: {#fig:cathedral-model .iframe-wrapper .sketchfab-embed-wrapper .r-stack}
+<iframe title="Medieval Cathedral" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f0d3f81512cc4e7092325d9225ccead8/embed"> </iframe>
+
+<a href="https://sketchfab.com/3d-models/medieval-cathedral-f0d3f81512cc4e7092325d9225ccead8" target="_blank">Esquema estrutural de uma catedral gótica</a>. Modelo digital por <a href="https://sketchfab.com/mdzhang" target="_blank"> Myles Zhang </a> no <a href="https://sketchfab.com" target="_blank">Sketchfab</a>, 2017
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Espacialidade na pintura gótica #
 
