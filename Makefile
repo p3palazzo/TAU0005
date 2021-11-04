@@ -6,7 +6,7 @@ vpath %.html . _includes _layouts _site
 vpath %.scss _sass slides/reveal.js/css/theme/template
 vpath %.yaml . _spec
 
-PANDOC_VERSION  := 2.14.1
+PANDOC_VERSION  := 2.15
 JEKYLL_VERSION  := 4.2.0
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC_VERSION)
