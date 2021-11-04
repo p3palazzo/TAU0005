@@ -87,6 +87,8 @@ moderna. [@fig:frame] O princípio de uma superfície inclinada para
 drenar a água da chuva e a sua execução com vigas, tesouras e caibros é
 de uma eficiência e simplicidade insuperável para a maioria das
 construções.
+
+Coberturas planas ou inclinadas são sistemas construtivos tradicionais, que perduram até a atualidade e que são incorporados a outros sistemas mais industrializados, mantendo, entretanto, materiais e desempenhos estruturais muito semelhantes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Estrutura em madeira numa casa norte-americana moderna](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-wooden-frame-of-a-house-20941-medium.mp4){#fig:frame}
@@ -131,6 +133,12 @@ inclinada de um terraço plano. O terraço é feito de uma sequência de
 barrotes relativamente próximos uns dos outros, apoiados sobre os
 frechais das paredes e, eventualmente, também sobre vigas
 intermediárias. [@fig:catalhoyuk-build]
+
+A complexificação está na nomenclatura dos elementos, em que vigas e barrotes tornam-se terças e caibros na atualidade. As inclinações dos telhados mais comuns são feitas para mais de um lado, resultando em estruturas mais simétricas e espaços cobertos maiores. Podem ser em forma de cone (para plantas circulares) ou com duas ou quatro águas/planos (para plantas retangulares).
+
+As especificidades observadas de uma sociedade para outra são, geralmente, os conectores que fixam as peças umas nas outras para evitar deslizamentos resultantes da inclinação. São utilizados pinos e encaixes diversos, sendo incorporados pregos, parafusos, chapas e até cola em construções mais modernas, evitando deslocamentos, mas não sendo capazes de resistir aos difíceis esforços de rotação com grande eficiência. Há tipos universais e relativamente fáceis de executar (com ferramentais manuais), como a sambladura (conexão na forma rabo de peixe) ou a junta sobreposta. 
+
+Exemplos mais complexos e refinados, como os da carpintaria tradicional japonesa, indicam o tipo de ferramentas e madeiras utilizadas (neste caso, oriundas de coníferas, que são muito macias e exigem uma superfície de contato bastante grande e uma boa solidez). Três grandes tradições mundiais de carpintaria são: Ásia oriental (China e Japão), norte da Europa e bacia amazônica, com caraterísticas muito diferentes entre si, sendo as duas últimas marcadas pelo uso de madeiras de boa qualidade (“de lei”, mais resistentes e que não racham ou deformam-se demais, o que não demanda juntas tão complexas e delicadas como as observadas na Ásia). 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
@@ -242,12 +250,14 @@ isoladas tem duas ou quatro águas. [@fig:sienicki]
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma mais direta de sustentação de uma cobertura consiste em apoiar
-os caibros sobre os frechais e a viga de cumeeira, ou sobre *terças* ---
+os caibros (elementos inclinados) sobre os frechais (que dão a volta nas paredes) e a viga de cumeeira, ou sobre *terças* ---
 vigas intermediárias elas próprias apoiadas nas paredes da construção ou
 em *pontaletes*, que são pequenos pilares apoiados em outras vigas. Esse
 esquema estrutural é o ponto de partida para as elaborações mais
-complexas das coberturas no leste da Ásia [@engel:1985measure].
+complexas das coberturas no leste da Ásia [@engel:1985measure]. 
 [@fig:engel2020-040.2]
+
+Pode haver variações nessas combinações, como no caso japonês em que se cruzam os caibros para conferir maior rigidez à estrutura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-088.1.png" data-background-size="contain"}
@@ -263,12 +273,12 @@ complexas das coberturas no leste da Ásia [@engel:1985measure].
 ## {.unlisted data-background-color="#0f0"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A simplicidade é um conceito recorrente na teoria da arquitetura. Em
+A simplicidade é um conceito recorrente na teoria da arquitetura, sendo observada em diversos autores ao longo do tempo de forma muito valorizada. Em
 muitos casos, ela é tratada como um valor abstrato e transcendental que,
 por isso, permite interpretações ao gosto do freguês sobre o que é uma
 arquitetura feita com simplicidade. Em se tratando de coberturas, por
 outro lado, a correlação é mais tangível e diz respeito a formas
-geométricas simples.
+geométricas simples. Não se trata apenas de um valor estético válido e interessante teoricamente, mas também de um melhor desempenho. Quanto mais complexa a cobertura, mais mudanças de planos e necessidade de pontos de isolamento e maior é sua fragilidade. Uma boa cobertura é simples, racional e eficiente, contando com poucas águas, que possam ser ajustadas com certa facilidade, o que demanda um bom partido arquitetônico. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/34/b3/1c/34b31c5701695e5c5c0354cf8457eb76.jpg"}
@@ -304,6 +314,10 @@ uma solução arquitetônica resiliente. Não existe desonra em fazer uma
 construção simples --- o problema é confundir simplicidade com deixar de
 resolver questões importantes de detalhamento construtivo em nome de um
 fetiche pelo minimalismo formal.
+
+Assim, muito da arquitetura monumental contemporânea não entra tanto na discussão de que um bom partido arquitetônico é aquele que permite uma cobertura mais simples, por incluírem outros aspectos e submeterem decisões técnicas e estruturais às estéticas, por exemplo, estando suscetíveis a falhas e complexa manutenção.
+
+Essas coberturas mais simples garantem flexibilidade para resolver irregularidades, podendo-se optar pela utilização de quatro águas pela mesma razão. Muitas construções tradicionais são irregulares, sendo cobertas de forma eficiente com as quatros águas.  
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted}
@@ -330,10 +344,11 @@ Ajuste de uma cobertura de quatro águas. Desenho: [Francis Price, 1735]
 A carpintaria tradicional do leste da Ásia, e principalmente a do Japão,
 usa essências pouco densas de árvores coníferas. Isso exige, por um
 lado, conexões bastante complexas, e por outro lado limita a variedade
-de soluções estruturais possíveis. Na Índia e na Europa, onde se usam
-madeiras duras de árvores como o carvalho. Essas madeiras mais duras
-permitem realizar um dos mais eficientes sistemas estruturais que se
-conhece até hoje: a treliça ou tesoura.
+de soluções estruturais possíveis. Na Índia e na Europa são usadas
+madeiras duras de árvores como o carvalho, oriundas de árvores com folhas mais largas. Isso viabiliza estruturas mais eficientes sob o aspecto do consumo de material, sendo essa concepção estrutural de forças uma das grandes diferenças em relação aos asiáticos, que usam sistemas de pilar e viga com algum contraventamento mais modesto. Esse tipo de madeira permite realizar um dos mais eficientes sistemas estruturais que se
+conhece até hoje: a treliça ou tesoura. Já na bacia amazônica, predomina a utilização da curvatura da madeira para trazer certa estabilidade e volumetria conveniente para os espaços.  
+
+Nessas coberturas japonesas tradicionais, existem os espigões, que são elementos estruturais em madeira na forma convexa, e os rincões, que são na forma côncava, sendo os primeiros melhores que os segundos do ponto de vista da resiliência e da eficiência em geral.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/25/Kehlbalkendach_nach_Böhm.jpg"}
@@ -344,7 +359,17 @@ atirantadas por uma *linha* horizontal. [@fig:boehm] Esse esquema forma
 um triângulo, que é uma forma geométrica intrinsecamente rígida. Cada
 peça do sistema trabalha, em condições ideais, somente à tração ou à
 compressão puras. Isso faz com que a distribuição de cargas seja mais
-eficiente [@viollet-le-duc:1858dictionnaire].
+eficiente [@viollet-le-duc:1858dictionnaire]. Esse é o sistema estrutural de cobertura mais difundido na Europa. 
+
+Há dois tipos de esforços nas treliças: tração no elemento horizontal e compressão nos elementos em diagonal, sendo uma forma muito eficiente de distribuir cargas. As terças são apoiadas sobre essas diagonais e os caibros vêm por cima dessas terças. Apesar de serem muito pesadas, evitam a criação de muita rigidez por toda a cobertura. As organizações dessas peças vão depender do clima, do tipo de ferramentas e do porte das árvores disponíveis para o fornecimento de madeira, por exemplo.
+
+Vários sistemas de tesouras são possíveis, como: mais simples, com duas pernas, uma linha horizontal e um pequeno contraventamento próximo ao topo (para garantir uma maior solidez); outro um pouco mais complexo, no qual o contraventamento torna-se um pendural, que é tracionado e ajuda a segurar a linha e introduzir um diagrama de forças diferente; treliças com asnas diagonais, que são ligações entre o pendural e as pernas e que funcionam à compressão, garantindo maior segurança e vãos muito amplos, além de se obter peças maiores com elementos conectados entre si. São elementos de cálculo, compreensão e aplicação mais simples.
+
+A carpintaria europeia é muito elaborada e sofisticada, trazendo uma série de outras soluções como a abertura de um esqueleto retangular no meio da tesoura, que viabiliza ganho de espaços amplos sob ela, demandando a ligação dos novos triângulos formados por escoras diagonais. É uma solução muito resistente e resiliente. 
+
+Outra vantagem das coberturas muito elaboradas e estruturadas com vários panos de triangulares de treliças, além de serem grandes e altas para a drenagem de neve, por exemplo, vão ser muito pesadas. Essa característica é favorável na Europa (na arquitetura gótica, por exemplo), pois necessitam de maiores cargas verticais nas extremidades das abobadas, para melhor direcionar seu empuxo diagonal para o eixo vertical. Também são locais favoráveis para instalação de guindastes para a auxiliar no processo construtivo. 
+
+A ordem de construção de um edifício tradicional na Europa: primeiro, sobem-se as paredes; sobre elas, é feita a cobertura; e sobre esta, viabiliza-se o preenchimento da abóbada, pois a carga da carpintaria de cobertura fará parte da resistência ao seu empuxo lateral, tornando a construção mais eficiente em termos de material. Exemplo: atual preocupação com a estabilidade das abobadas da catedral Notre-Dame de Paris, após o recente incêndio que destruiu sua cobertura. Por essa razão, é importante selecionar bem o tipo de cobertura substituta, buscando reconstituir as mesmas tesouras da carpintaria original (com semelhantes dimensões e tipo de madeira, o carvalho) e, portanto, restituindo-se a mesma carga anterior. Trata-se de um importante conhecimento técnico a ser preservado, por ajudar a entender como esse edifício foi construído originalmente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Tesoura simples. Desenho: [Theodor Böhm, 1911]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kehlbalkendach_nach_Böhm.jpg/1024px-Kehlbalkendach_nach_Böhm.jpg){#fig:boehm}
@@ -476,9 +501,7 @@ guindastes durante a obra. [@fig:grue]
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O princípio de rigidez da malha triangular acaba se tornando um traçado
-regulador das proporções no sistema construtivo conhecido como
-*enxaimel*, criado no mundo germânico antigo. [@fig:langhein2012-01-03]
+No norte da Europa, geralmente, esses sistemas de carpintaria se tornam o próprio traçado regulador do edifício como um todo, a exemplo das casas feitas em *enxaimel*, nas quais a superfície completa da parede transforma-se em uma grande treliça em madeira toda contraventada com elementos diagonais, criado no mundo germânico antigo. Uma característica marcante desses edifícios europeus é que a fachada costuma corresponder a uma “fatia” dessa carpintaria. [@fig:langhein2012-01-03] 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Malha proporcional triangular equilátera, exemplos da arquitetura vernácula alemã: casa rurais das regiões da Vestfália meridional, Francônia superior (Bavária) e casa urbana de Eppingen, Baden, 1471. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg){#fig:langhein2012-01-03 .full}
@@ -504,6 +527,8 @@ populares no império Português. Artistas treinados em Macau circulavam
 por todo o império fazendo pinturas que representavam pavilhões em
 estilo chinês [@schaeffer:1971chinesicesXXII]. [@fig:sabara;
 @fig:sabara-nave]
+
+Na Carpintaria chinesa, os módulos de fachada são perpendiculares à fachada (e não paralelos, como na Europa), pois os edifícios se desenvolvem na largura sobretudo. Essa característica contradiz tais “chinesices” que representam uma carpintaria mais centralizada. Seu foco volta-se muito menos para a elevação e as curvaturas dos telhados, mas sim em seus cortes e lógicas estruturais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Pintura de chinesice na igreja de Nossa Senhora do Ó, Sabará, segunda metade do século [XVIII]{.smallcaps}](https://4.bp.blogspot.com/-udY_CN9QJ3E/WPjzuUZWQsI/AAAAAAAAR5A/Z6E9nw8h5tIT0KeetSWfoT6FXr0B_OGZgCLcB/s1600/sabara o3.JPG){#fig:sabara}
@@ -568,6 +593,8 @@ de linguagem formal [@summerson:1997linguagem] no século
 [XX]{.smallcaps}  pelo casal formado pelo arquiteto Liang Sicheng e pela
 escritora Lin Huiyin [@fig:liang-lin] --- tia da arquiteta Maya Lin
 [@liang:1984pictorial].
+
+Esses sistema começa a ser estudos no ocidente por esses dois chineses que estudaram nos Estados Unidos, trazendo sua compreensão para esta região. Estudam os sistemas de mãos sobrepostas (mísulas), apresentando uma espécie de “evolução” destes em diferentes épocas. Não são perceptíveis ao olhar-se para as fachadas, por estarem escondidos sob os telhados, que são simples (de quatro águas) e com beirais amplos, para proteção contra a grande quantidade de chuvas da região. Essa razão também justifica a curvatura dos telhados, que buscam jogar a água para mais longe da base do edifício. A estrutura é formada, então, por uma sobreposição de vigas apoiadas sobre mísulas (para diminuir os vãos) e praticamente sem tesouras, devido a sua baixa eficiência em razão das madeiras muito macias. Há um maior consumo de madeiras, que são, entretanto, oriundas de árvores mais jovens e com possibilidade de renovação mais rápida.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png" data-background-size="contain"}
@@ -608,6 +635,7 @@ resultado de se conectar uma sequência de pórticos paralelos.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Analogia vegetal: árvores, galhos e flores [@feng:2012chinese].
 [@fig:feng2012-4.12]
+As mísulas são consideradas metáforas das próprias árvores, como uma maneira de gerenciá-las de modo racional, resultando em uma série de elementos sobrepostos, estando alguns deles em balanço. Exemplos: edifícios japoneses compostos por uma sequência de telhados inteiriços e independes entre sim, para deixar o edifício todo protegido de alto a baixo, sem introduzir fragilidades. Algumas mísulas sustentam os caibros, destacando-se a chamada mísula em forma de nuvem, que é esculpida com motivos naturalistas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Metáfora vegetal do *dougong*, segundo Feng, *Chinese architecture and metaphor*](https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.12-1080p.png){#fig:feng2012-4.12 .line}
@@ -652,6 +680,14 @@ Analogia vegetal: árvores, galhos e flores [@feng:2012chinese].
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F2H9UbIApYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Construções tradicionais chinesas. Modelagem: [Beijing Digital Light Magic Technology Co.](https://youtu.be/F2H9UbIApYs)
+
+*Sequência estrutural da cobertura* (de baixo para cima): mísula em forma de nuvem (esculpida em curvas com formas naturalistas), que apoiam o caibro volante (em balanço), o qual apoia a terça, recebendo os caibros estruturais do telhado que sustentam as ripas e as telhas (são mais leves e próximos uns dos outros por esta ser considerada a solução mais eficiente nesse contexto). Em uma configuração mais simples, a mísula sustenta o espigão diretamente. Internamente, todos os elementos são contraventados por ligações transversais também em madeira. Observa-se, então, uma sobreposição de águas de telhados (e não uma interligação entre águas) para formar conjuntos extremamente complexos. 
+
+A montagem dessas peças, que são apoiadas umas nas outras e não engastadas, ou seja, sem fixações muito rígidas, permite uma maior flexibilidade da estrutura e estabilidade em caso de abalos sísmicos, por exemplo, ao deslisarem entre si, dissipando a maior parte da energia do terremoto. Elas também geram uma carga considerável sobre os pilares, que ajuda a estabilizar a estrutura. 
+
+Em geral, os telhados cerâmicos japoneses tendem a ser um pouco mais rasos que os chineses. Os primeiros fazem coberturas mais íngremes, apenas quando usam cascas de árvores. Essa diferença se justifica pela umidade atmosférica, pois um telhado com telhas é, geralmente, um pouco mais vedado, do que aquele revestido com as cascas de árvore, que não conseguem transpirar com muita facilidade. As telhas tendem a condensar mais a umidade por serem frias, considerando-se que o Japão é uma região extremamente úmida. Assim, com uma cobertura mais rasa, o vão entre as telhas permite um melhor escoamento dessa umidade, evitando que ela se acumule dentro do edifício. 
+
+Existe uma série de teorias para justificar as curvaturas desses telhados, sendo a primeira delas a possibilidade de aceleração das águas pluviais, fazendo com que caiam mais distantes da base do edifício; a outra tem origem mais histórica, motivada pelas diversas sobreposições de telhados, uns mais íngremes que os outros, demandando as curvaturas para um melhor encaixe (as mais externas são mais rasas para permitir uma boa iluminação e ventilação dos interiores, que são muito profundos em geral).  
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/Chinese_Architectural_Brackets-JnB3fQTE1XU-1080p-30fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
