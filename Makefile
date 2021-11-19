@@ -6,7 +6,7 @@ vpath %.html . _includes _layouts _site
 vpath %.scss _sass slides/reveal.js/css/theme/template
 vpath %.yaml . _spec
 
-PANDOC_VERSION  := 2.15
+PANDOC_VERSION  := 2.16.1
 JEKYLL_VERSION  := 4.2.0
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/crossref:$(PANDOC_VERSION)
@@ -50,5 +50,4 @@ serve : $(SLIDES)
 clean :
 	-@rm -rf *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml \
 		tau0005-*.tex
-
 # vim: set foldmethod=marker shiftwidth=2 tabstop=2 :
