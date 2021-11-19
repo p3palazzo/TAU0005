@@ -1,5 +1,6 @@
+bibliography: "_bibliography/references.bib"
+crossrefYaml: "_data/crossref.yaml"
 lang: pt-BR
-crossrefYaml: "_crossref.yaml"
 link-citations: true
 linkReferences: true
 suppress-bibliography: false
