@@ -25,8 +25,9 @@ gravadas. Estude esse conteúdo com atenção, pois ele é essencial para
 compreender o que esperamos de você nas atividades.
 
 <i class="fas fa-check-circle"></i>
-~ As notas escritas e as videoaulas têm *exatamente* o mesmo conteúdo.
+~ As notas escritas e as videoaulas no YouTube têm *exatamente* o mesmo conteúdo.
   Portanto, fique à vontade para escolher o meio que preferir.
+  No entanto, nem todos os tópicos estão cobertos por videoaulas.
 
 # Livro-texto #
 

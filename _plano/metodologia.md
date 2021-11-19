@@ -5,7 +5,7 @@ date: 2021-07-20
 
 # Nossas ferramentas #
 
-#### Moodle ####
+## Moodle ##
 
 Neste semestre, você vai continuar estudando em modo *remoto*. Todo o
 conteúdo e as atividades da disciplina estão no ambiente virtual de
@@ -36,7 +36,7 @@ acessando `Este curso > Notas` na barra superior da janela. Você
 encontrará o link para a área da disciplina no Moodle nos
 [ícones no topo desta página](#).
 
-#### Microsoft Teams ####
+## Microsoft Teams ##
 
 A plataforma [Microsoft Teams][] faz parte do pacote [Office 365][]
 subscrito pela UnB. Você deve fazer login usando o seu endereço de
@@ -57,7 +57,7 @@ professores e colegas da turma, ou enviar mensagens em chat privado para
 qualquer pessoa da UnB. Porém, *não recebemos entregas de trabalhos pelo
 Teams*.
 
-#### Biblioteca ####
+## Biblioteca ##
 
 O [livro-texto da disciplina](bibliografia.md) está disponível em
 formato eletrônico no catálogo da [Biblioteca Central da
@@ -74,7 +74,7 @@ compreender o conteúdo com a profundidade necessária, e fazer a sua
 própria pesquisa bibliográfica de modo autônomo é uma parte importante
 do processo de aprendizagem.
 
-#### SIGAA ####
+## SIGAA ##
 
 O [Sistema Integrado de Gestão Acadêmica][] é o registro centralizado
 das disciplinas na UnB. Você deve acessar usando o seu [CPF]{.smallcaps}
@@ -84,7 +84,7 @@ lançamento oficial e definitivo das menções ao final do semestre.
 Portanto, não espere encontrar informações sobre o andamento do semestre
 --- use o Moodle para isso!
 
-#### Na sua casa ####
+## Na sua casa ##
 
 Todas as atividades de [TAU 0005]{.smallcaps} são aplicadas, e consistem
 em produzir uma ou mais folhas desenhadas. Por isso, você vai precisar
@@ -105,7 +105,7 @@ um fator psicológico positivo para a sua vida em confinamento. Seja qual
 for a sua situação, você vai ter um jeito de acompanhar o semestre sem
 perder a qualidade do conteúdo e das avaliações.
 
-#### O semestre e as unidades ####
+## O semestre e as unidades ##
 
 O [programa](../index.md) do nosso semestre se divide num breve ciclo
 introdutório e três unidades principais de conteúdo. Cada um desses
@@ -130,7 +130,7 @@ Unidade, você vai ter:
   algum dos trabalhos, você receberá automaticamente a menção `SR`,
   *mesmo que tenha pontuação total suficiente*.
 
-#### A semana ####
+## A semana ##
 
 Cada semana corresponde a um tópico de conteúdo específico que contribui
 para o objetivo de aprendizagem da sua Unidade. A semana é o nosso bloco
@@ -148,12 +148,15 @@ aula. Ao final de cada semana, você vai ter:
    prevista.
 
 <i class="fas fa-check-circle"></i>
-~ Nosso semestre tem 16 semanas letivas. Portanto, você precisa somar
-  12 "presenças" para cumprir a carga horária mínima. A presença da
+~ A carga horária desta disciplina é de 60 horas divididas em 15
+  semanas, mais uma semana de "bônus". Portanto, você precisa somar
+  45 "horas" para cumprir a carga horária mínima. Cada resenha vale 4
+  "horas" quando entregue até a segunda-feira da respectiva semana, e 2
+  "horas" quando entregue até a sexta-feira seguinte. A presença da
   primeira semana do semestre vai ser automaticamente atribuída a
   todos, já que não há entrega prevista.
 
-#### O trabalho em casa ####
+## O trabalho em casa ##
 
 As atividades do semestre foram dimensionadas para ocuparem, em média, 8
 horas de trabalho por semana. Dependendo das suas necessidades, você pode
@@ -167,7 +170,7 @@ dedicar, por exemplo, a cada semana:
 <i class="fas fa-exclamation-triangle"></i> 
 ~ Essa previsão é meramente indicativa e pode variar de pessoa para pessoa.
 
-#### O dia de aula ####
+## O dia de aula ##
 
 Às terças e quintas-feiras às 19h (horário de Brasília) você poderá
 encontrar professores e colegas ao vivo numa videoconferência na

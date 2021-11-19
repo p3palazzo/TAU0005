@@ -7,8 +7,8 @@ date: 2021-07-20
 
 O objetivo da disciplina é conferir um domínio operativo da arquitetura
 tradicional em geral, e da linguagem clássica em particular, enquanto
-ferramentas de análise e produção sustentável e resiliente do
-ambiente construído. Este propósito se desdobra em três aspectos que
+ferramentas de análise e produção sustentável e resiliente do ambiente
+construído. Este propósito se desdobra em quatro aspectos que
 correspondem a cada uma das unidades do [Programa](../index.md):
 
 Introdução à disciplina
