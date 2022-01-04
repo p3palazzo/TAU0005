@@ -30,7 +30,7 @@ a cada mudança de posição. Essa é a espacialidade canônica da
 arquitetura moderna [@banham:1975teoria; @argan:1973concepto] Os objetos
 da arquitetura são, literalmente, objetos físicos posicionados nesse
 espaço: pilares, lajes, divisórias, mobília, plantas e obras de arte
-diversas. [@fig:on-cn; @fig:salao-verde]
+diversas ([@fig:on-cn; @fig:salao-verde]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Oscar Niemeyer e Departamento de Arquitetura da Novacap, segundo anteprojeto para o andar nobre do Congresso Nacional, Brasília, 1957. Documentado por [Elcio Gomes da Silva e José Manoel Morales Sánchez, 2009](https://mdc.arq.br/2009/03/09/congresso-nacional-da-documentacao-tecnica-a-obra-construida/)](https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png){#fig:on-cn .full .line .nobg}
@@ -50,7 +50,7 @@ moderna com expectativas funcionais do que uma possibilidade intrínseca
 à sensibilidade espacial modernista. Ambientes modernistas concebidos
 como volumes tradicionais claramente delimitados em geral deixam a
 desejar do ponto de vista da expressividade arquitetônica e da
-organização formal. [@fig:humanizada]
+organização formal ([@fig:humanizada]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/2560px-Planta_do_1_pavimento_do_Palacio_Monroe.jpg"}
@@ -168,7 +168,7 @@ conceitual da ordem do universo.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nesse esquema, as abóbadas da construção representam a abóbada celeste,
 com a figura do Cristo em majestade dominando a cúpula dourada no centro
-da nave. [@fig:daphni-kuppel]
+da nave ([@fig:daphni-kuppel]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/Hosios_Loukas-C-YiGCfSyNQ-1080p-30fps.webm" data-background-vide-muted="true" data-background-video-loop="true"}
@@ -234,7 +234,7 @@ A definição espacial se volta sobretudo para o interior da edificação. A
 volumetria externa da construção acomoda, então, todos os elementos que
 não podem romper a unidade do interior: contrafortes, projeções e
 reentrâncias da estrutura e dos ambientes, além de deixar a alvenaria
-aparente, sem revestimento. [@fig:daphni-drone]
+aparente, sem revestimento ([@fig:daphni-drone]).
 Isso não quer dizer que o acabamento exterior fosse descuidado, mas que
 ele não precisava nem representar um edifício prismático simples, como
 os antigos templos gregos, e nem delimitar um espaço exterior com uma
@@ -269,7 +269,7 @@ esses dois elementos um *Westwerk* --- literalmente "obra ocidental".
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *Westwerk* forma a fachada oeste da igreja. Mas ele é uma fachada tão
 incrementada que vira o seu próprio edifício, como o da abadia de
-Corvey, no norte da Alemanha. [@fig:corvey-drone]
+Corvey, no norte da Alemanha ([@fig:corvey-drone]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Vista aérea do castelo de Corvey. Filmagem: [Obele Skywalker, 2016]](https://cdn.palazzo.arq.br/utilitas/volumes/Flying_over_Schloss_Corvey-SIwTyzdS97k-1080p-25fps.webm){#fig:corvey-drone}
@@ -313,7 +313,7 @@ Isso, por sua vez,
 permite que a edificação seja construída pouco a pouco, ao longo de
 muitos anos. Com isso, uma comunidade pode construir igrejas muito
 grandes ao longo de décadas, sem risco para a estabilidade da obra
-inacabada. [@fig:philibert-sec]
+inacabada ([@fig:philibert-sec]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Igreja da abadia de Saint-Philibert, Tournus, 928--1120, segundo [Jean Virey, 1903]](https://i.pinimg.com/originals/c1/cd/75/c1cd75cfc7ea9e88a6ddae1d4ead5b98.png){#fig:philibert-sec}
@@ -458,7 +458,7 @@ Os ritos hinduístas não reúnem uma grande congregação num mesmo lugar
 para uma liturgia demorada; em vez disso, eles têm procissões e
 demonstrações individuais ou familiares de devoção. Por isso, os templos
 não precisam de um amplo espaço interior. A volumetria externa é
-priorizada. [@fig:ajanta-sec]
+priorizada ([@fig:ajanta-sec]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Gruta n.º 10, Ajanta, Mahārashtra, oeste da Índia, século [I]{.smallcaps} a.C. Corte transversal por [James Fergusson, *Illustrated Handbook of Architecture* v. 1]](https://upload.wikimedia.org/wikipedia/commons/6/6c/Ajanta_cave_10_section-Fergusson-Handbook_01_0094.png){#fig:ajanta-sec .line .align-right}
@@ -528,7 +528,7 @@ Templo da orla, Mahaballipuram. Filmagem: [Rajinikanth, My Travelling Chronicles
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em vez de ter um grande salão interior, o Templo da orla em
 Mahaballipuram, do início do século [VIII]{.smallcaps}, apresenta um
-volume verticalizado muito marcante. [@fig:shore-vid]
+volume verticalizado muito marcante ([@fig:shore-vid]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7d/Panja_pandava_ratham.jpg"}
@@ -703,7 +703,7 @@ teóricos que tentam explicar como os tipos se formam e se transformam
 proposto pelo professor C. William Westfall da Universidade de Notre
 Dame, nos Estados Unidos [@westfall:1991building], propõe reduzir todas
 as formas tangíveis dos tipos edilícios a sete propósitos sociais
-abstratos. [@fig:7types]
+abstratos ([@fig:7types]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types .full .nobg}
@@ -722,7 +722,7 @@ segunda metade do século [XVI]{.smallcaps}, o que define o caráter das
 construções não é a aderência a uma ideia visual predefinida --- que não
 estava consagrada até então --- e sim a exploração de variações num
 esquema de distribuição de salas principais e secundárias
-[@schumacher:1987palladio]. [@fig:palladio-hersey-freedam]
+[@schumacher:1987palladio] ([@fig:palladio-hersey-freedam]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
@@ -743,7 +743,7 @@ racionalização dos programas arquitetônicos a partir do conceito de
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na escola Politécnica (escola de engenharia), Durand ensina projeto
 arquitetônico reduzindo os programas a princípios gerais com estilos
-intercambiáveis. [@fig:durand-rp054]
+intercambiáveis ([@fig:durand-rp054]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/partiegraphiqued00dura_0128-1080p.png" data-background-size="contain"}
@@ -751,7 +751,7 @@ intercambiáveis. [@fig:durand-rp054]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No sistema de Durand, a composição não é racionalizada segundo programas
 estritamente funcionais, mas segundo a destinação geral do edifício
-[@durand:1802precis; @durand:1821partie]. [@fig:durand-pg128] É um modo
+[@durand:1802precis; @durand:1821partie] ([@fig:durand-pg128]). É um modo
 de dar um *reset* nos propósitos fundamentais da arquitetura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -769,7 +769,7 @@ das formas já elaboradas pelo processo tipológico, Durand quer recomeçar
 do zero criando novas formas a partir de um plano cartesiano dividido
 por uma grelha homogênea. Esse procedimento deixa claro que qualquer
 hierarquia formal ou espacial proposta sobre essa grelha é uma decisão
-de certo modo arbitrária. [@fig:durand-pg060]
+de certo modo arbitrária ([@fig:durand-pg060]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-color="#0f0"}
@@ -830,7 +830,7 @@ elementos predefinidos.
 Esses elementos podem ser físicos, como as cinco *ordens* canônicas da
 arquitetura clássica, aqui na forma do sistema de proporções
 desenvolvido pelo erudito francês Claude Perrault no final do século
-[XVII]{.smallcaps}. [@fig:perrault]
+[XVII]{.smallcaps} ([@fig:perrault]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image=""}
@@ -936,7 +936,7 @@ Rob Krier, *Architectural composition*, 1988
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A unidade mínima da composição é um volume delimitado, com uma forma
 geométrica inteligível. Essa definição é diferente de outras teorias do
-espaço arquitetônico, como a sintaxe espacial. [@fig:convex] Para a
+espaço arquitetônico, como a sintaxe espacial ([@fig:convex]). Para a
 sintaxe espacial, a unidade mínima é o *espaço convexo*
 [@hillier:1976space3; @batty:2004automatic31]: uma forma geométrica
 qualquer onde todos os seus pontos podem ser visto a partir de todos os
@@ -950,7 +950,7 @@ A sintaxe espacial é um método de *análise* da arquitetura. Já a teoria
 da composição tradicional é um método de *produção* da arquitetura. Por
 isso, o nosso foco não é tanto na consistência matemática da definição
 de espaço, e sim no significado social de volumes enquanto lugares
-associados a diferentes expectativas culturais. [@fig:rkrier-73-75]
+associados a diferentes expectativas culturais ([@fig:rkrier-73-75]).
 Essas formas podem ser convexas ou não, mas sempre formam uma unidade
 claramente articulada [@krier:1988architectural].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -986,7 +986,7 @@ qualquer tradição arquitetônica. Essas formas geram muito desperdício de
 área, já que temos cantos ou bordas difíceis de aproveitar. Além disso,
 elas são também pouco práticas para fazer ligações com outras formas.
 Onde elas podem ser bastante úteis, por outro lado, é no preenchimento
-de espaços residuais entre volumes mais importantes. [@fig:rkrier-78-77]
+de espaços residuais entre volumes mais importantes ([@fig:rkrier-78-77]).
 Essa combinação nos mostra como uma usar a hierarquia entre volumes para
 priorizar a regularidade e simplicidade geométrica das salas mais
 importantes e acomodar as funções secundárias em formas irregulares.

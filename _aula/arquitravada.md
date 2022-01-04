@@ -44,7 +44,7 @@ ser usado como ponto de partida para construções em pedra.
 A madeira tem um papel central em dois dos três tipos primordiais de
 construção tradicional, a "tenda" e a "cabana", enquanto o terceiro
 tipo, a "caverna", é característico das construções em alvenaria ou
-taipa. [@fig:chambers-huts] Esses tipos foram definidos na segunda
+taipa ([@fig:chambers-huts]). Esses tipos foram definidos na segunda
 metade do século [XVIII]{.smallcaps} pelo britânico William Chambers e
 pelo francês Quatremère de Quincy [@chambers:1759treatise;
 @quatremere:1788caractere].
@@ -58,7 +58,7 @@ pelo francês Quatremère de Quincy [@chambers:1759treatise;
 As tendas são abrigos temporários que têm como única estrutura portante
 um certo número de varas apoiadas entre si. A hipótese de reconstituição
 dos vestígios de Terra Amata, no sudeste da França, datados de até 380
-mil anos atrás, [@fig:terra-amata] talvez seja o exemplo mais antigo
+mil anos atrás ([@fig:terra-amata]), talvez seja o exemplo mais antigo
 conhecido desse tipo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -69,9 +69,9 @@ conhecido desse tipo.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Várias comunidades em diferentes regiões do mundo
 usam tendas pelo menos durante uma parte do ano: por exemplo, o tipi da
-América do Norte [@fig:tipi] ou a iurta do norte da Ásia. [@fig:yurt]
+América do Norte ([@fig:tipi]) ou a iurta do norte da Ásia ([@fig:yurt]).
 Sociedades predominantemente sedentárias constroem tendas como abrigos
-de caça ou de expedições militares. [@fig:marines]
+de caça ou de expedições militares ([@fig:marines]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/ad/Киргизские_кибитки_на_реке_Чу.jpg"}
@@ -92,7 +92,7 @@ abrigos temporários. Por outro lado, algumas tradições arquitetônicas
 usam tipos derivados da tenda como habitações permanentes; além das
 iurtas do norte da Ásia, o exemplo mais notável é o das comunidades
 Ma'dan no sul da Mesopotânia, mais conhecidas como os "árabes do
-pântano". [@fig:mudhif-ext]
+pântano" ([@fig:mudhif-ext]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![*Mudhif* (morada dos Ma'dan), sul do Iraque](https://i.pinimg.com/originals/34/28/d6/3428d678b34b3e3448a6d7dd0f51045e.jpg){#fig:mudhif-ext}
@@ -103,10 +103,10 @@ pântano". [@fig:mudhif-ext]
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os *mudhif*, as moradas dos Ma'dan, são construídas com feixes de juncos
-em forma de arcos, revestidos com mais juncos. [@fig:mudhif-build] Os
+em forma de arcos, revestidos com mais juncos ([@fig:mudhif-build]). Os
 pórticos arqueados do *mudhif* são razoavelmente rígidos no seu próprio
 plano; os feixes de juncos do revestimento fazem o contraventamento no
-plano ortogonal ao dos pórticos. [@fig:mudhif-croquis]
+plano ortogonal ao dos pórticos ([@fig:mudhif-croquis]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png" data-background-size="contain"}
@@ -122,14 +122,14 @@ O uso do mesmo material para a estrutura e o
 revestimento lembra uma versão orgânica das construções em alvenaria,
 mas a lógica do esqueleto estrutural, que não se diferencia em apoios
 verticais e elementos de cobertura distintos entre si, remete ao tipo da
-tenda. [@fig:mudhif-int]
+tenda ([@fig:mudhif-int]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Em contraste com o tipo da tenda,]{.newthought} o tipo da cabana se
-caracteriza por uma sequência de armações estruturais em duas dimensões. [@fig:chambers-huts]
+caracteriza por uma sequência de armações estruturais em duas dimensões ([@fig:chambers-huts]).
 Essas armações podem ser iguais ou diferentes entre si, mas são sempre
 formadas por dois grupos de componentes claramente distintos: primeiro,
 pilares ou esteios que formam os principais apoios verticais à
@@ -161,7 +161,7 @@ Pelo contrário, todas as sociedades que constroem cabanas, ou são
 totalmente sedentárias num único sítio, ou alternam numa escala sazonal
 entre dois sítios fixos. Essa alternância sazonal é chamada de
 transumância, e caracteriza muitas comunidades tradicionais em todos os
-continentes, por exemplo na região do Sael. [@fig:transh]
+continentes, por exemplo na região do Sael ([@fig:transh]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Padrões de transumância no Sael. [OCDE, 2014](http://www.food-security.net/en/map-library/transhumance-and-nomadism/){.smallcaps}](https://i.pinimg.com/originals/13/51/34/13513400d4dbe8f1bb791c84b35d325b.jpg){#fig:transh}
@@ -178,7 +178,7 @@ adoção desses modos de vida por caçadores-coletores começou entre 25 e
 15 mil anos atrás em três regiões muito distantes e diferentes entre si:
 as planícies do centro-norte da Europa, as florestas temperadas em volta
 dos mares Amarelo e do Japão, no nordeste da Ásia, e as encostas
-subtropicais do Crescente fértil, na Mesopotâmia. [@fig:sedentism] Algum
+subtropicais do Crescente fértil, na Mesopotâmia ([@fig:sedentism]). Algum
 tempo mais tarde, a vida sedentária começa a ser adotada também em
 várias partes do continente americano.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -189,7 +189,7 @@ várias partes do continente americano.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Desde os mais antigos vestígios de cabanas, como no sítio arqueológico
-de Eynan, em Israel, datado de 15 a 12 mil anos atrás, [@fig:eynan] a
+de Eynan, em Israel, datado de 15 a 12 mil anos atrás ([@fig:eynan]), a
 concepção dessas construções é estruturada com clareza e é totalmente
 diferente das tendas [@haklay:2015new10]. O abrigo de Eynan se apoiava
 num muro de arrimo semicircular e era provavelmente coberto com um
@@ -244,9 +244,9 @@ a cobertura ao sistema pilares--viga.
 Dentre as inúmeras variações sobre o tema da construção arquitravada em
 madeira por todo o mundo, três tradições construtivas são especialmente
 interessantes para nós: o sistema altamente refinado e minuciosamente
-codificado da arquitetura chinesa, [@fig:nanchansi] as moradas com
+codificado da arquitetura chinesa ([@fig:nanchansi]), as moradas com
 pórtico central dos povos que vivem nas depressões do sul da bacia
-Amazônica, [@fig:lagartixa] e as tradições de construção arquitravada no
+Amazônica ([@fig:lagartixa]), e as tradições de construção arquitravada no
 Mediterrâneo oriental.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -261,8 +261,8 @@ Mediterrâneo oriental.
 ![Distribuição originária da tradição arquitravada dita "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:classical-heartland .nobg .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Das três, esta última, a tradição do Mediterrâneo oriental,
-[@fig:classical-heartland] é a única que está praticamente extinta na
+Das três, esta última, a tradição do Mediterrâneo oriental
+([@fig:classical-heartland]), é a única que está praticamente extinta na
 sua forma original em madeira. Mas ela é, também, a que deixou o legado
 mais dominante na arquitetura dos últimos 2500 anos, um legado que foi
 codificado e imortalizado em pedra: a arquitetura clássica greco-romana.
@@ -296,7 +296,7 @@ troncos de tamanhos específicos determinava as dimensões, mas também as
 proporções das colunas: mais esbeltas onde se usavam árvores mais finas,
 como pinheiros; mais grossas quando se tinha cedro ou carvalho à
 disposição. O uso descontrolado da madeira de cedro, sobretudo
-proveniente do Líbano, [@fig:cedro] e de outras essências, primeiro para
+proveniente do Líbano ([@fig:cedro]), e de outras essências, primeiro para
 a construção civil e mais adiante para a construção naval, foi uma das
 principais causas de desmatamento na região do Crescente fértil e na
 Grécia ainda na Antiguidade; esse desmatamento pode até mesmo ter
@@ -310,7 +310,7 @@ Algumas construções monumentais muito antigas usavam pilares feitos de
 grandes troncos de árvores diretamente fincados no chão. Talvez fosse o
 caso da estrutura de madeira que fazia parte do monumento megalítico de
 Stonehenge. No Japão atual, a arquitetura do santuário de Ise afeta essa
-solução arcaizante; [@fig:naiku] o santuário é reconstruído a cada 20
+solução arcaizante ([@fig:naiku]); o santuário é reconstruído a cada 20
 anos desde o século [VII]{.smallcaps} d.C. seguindo a mesma técnica
 [@watanabe:1974shinto].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -326,7 +326,7 @@ anos desde o século [VII]{.smallcaps} d.C. seguindo a mesma técnica
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A tradição amazônica, atestada pelo menos desde o século
 [XIII]{.smallcaps}, usa uma colunata central que sustenta diretamente a
-viga de cumeeira. Os tipos de *’ok* kamayurá [@fig:ok-ete] são os tipos
+viga de cumeeira. Os tipos de *’ok* kamayurá ([@fig:ok-ete]) são os tipos
 mais consolidados e bem documentados que persistem até hoje
 [@kamayura:2019manual]. Nessas construções, os elementos estruturais são
 muito esbeltos porque são feitos em madeira de lei da Amazônia.
@@ -362,8 +362,8 @@ de construir os alicerces.
 A plataforma sobre a qual vamos levantar as colunatas
 raramente está no nível natural do terreno; na construção arquitravada,
 ela é quase sempre soerguida --- seja num pódio, como é o caso da
-arquitetura persa e na Itália, seja sobre alguns degraus, como na Grécia.
-[@fig:krepis] O pódio pertence mais propriamente à construção murária,
+arquitetura persa e na Itália, seja sobre alguns degraus, como na Grécia
+([@fig:krepis]). O pódio pertence mais propriamente à construção murária,
 da qual vamos tratar na próxima seção; já o *krepidoma* ou degraus vai
 merecer um tratamento mais detalhado junto com o sistema formal das
 ordens clássicas greco-romanas.
@@ -379,7 +379,7 @@ ordens clássicas greco-romanas.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por mais que o estilóbata esteja elevado acima do terreno à sua volta,
-as colunas ainda têm quase sempre uma base em pedra. [@fig:kenninji]
+as colunas ainda têm quase sempre uma base em pedra ([@fig:kenninji]).
 Essa base, um pouco
 mais larga do que o próprio fuste da coluna, evita que a madeira
 entre em contato com qualquer poça d'água que tivesse acumulado no
@@ -398,7 +398,7 @@ sobre o piso.
 origina desse tipo de cabana com esteios em madeira apoiados sobre bases
 em pedra, e vigas em madeira apoiadas sobre os esteios. Nenhuma dessas
 ligações é engastada ou rígida. O arquiteto e professor francês Charles
-Chipiez [@fig:chipiez-acad] viajou na segunda metade do século
+Chipiez ([@fig:chipiez-acad]) viajou na segunda metade do século
 [XIX]{.smallcaps} pela Pérsia, Egito, Mesopotâmia e Anatólia para tentar
 reconstituir a origem dessa tradição. Ele aplicou um método arqueológico
 e etnográfico moderno ao mesmo problema sobre o qual tinham se debruçado
@@ -412,7 +412,7 @@ greco-romana por meio de alguma forma de cabana primitiva.
 Em 1876, Chipiez publicou um livro intitulado *História crítica das
 origens e da formação das ordens gregas* [@chipiez:1876histoire]. Além
 de discutir exemplos canônicos da arquitetura monumental do antigo
-Oriente Médio, [@fig:chipiez-compare] Chipiez documentou algumas cabanas
+Oriente Médio ([@fig:chipiez-compare]), Chipiez documentou algumas cabanas
 rústicas contemporâneas no interior da Anatólia, na Turquia.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -429,8 +429,8 @@ rústicas contemporâneas no interior da Anatólia, na Turquia.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O modelo interpretativo proposto por Chipiez reporta as origens da
 tradição arquitravada do Mediterrâneo oriental a esses tipos de cabanas
-que subsistiam ainda, no século [XIX]{.smallcaps}, na Anatólia.
-[@fig:chipiez-208] Na verdade, a evidência arqueológica não nos permite
+que subsistiam ainda, no século [XIX]{.smallcaps}, na Anatólia
+([@fig:chipiez-208]). Na verdade, a evidência arqueológica não nos permite
 dizer se essas cabanas do século [XIX]{.smallcaps} eram iguais ou mesmo
 parecidas com as formas mais primitivas de cabanas em madeira no
 Mediterrâneo oriental como um todo.
@@ -455,7 +455,7 @@ até a Grécia, passando pela costa do Levante, pelo Egito e pela Anatólia.
 As cabanas documentadas por Chipiez demonstram uma aplicação consistente
 de um sistema de colunas com base, fuste e capitel, acompanhadas de um
 entablamento com vigas mestras ou *arquitraves* (daí o nome desse
-sistema), barrotes e platibandas. [@fig:chipiez-209] Não importa se
+sistema), barrotes e platibandas ([@fig:chipiez-209]). Não importa se
 essas cabanas representam a *origem* ou uma *variação* em torno do tema
 da arquitetura clássica: elas demonstram a existência de uma tradição
 difundida e resiliente ao longo de pelo menos três milênios.
@@ -487,7 +487,7 @@ Entre 1500 e 1300 a.C., os palácios minoicos e heládicos usavam fustes
 invertidos apoiados sobre bases. Essa forma talvez remetesse a um uso
 primitivo de troncos fincados no chão pela ponta mais estreita. Em
 qualquer caso, eles foram um estilo muito característico de palácios
-como Cnossos. [@fig:knossos-westbastion]
+como Cnossos ([@fig:knossos-westbastion]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eugène_Pirou.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
@@ -499,7 +499,7 @@ A construção arquitravada em pedra não deve ser vista como um progresso
 sobre a construção em madeira; edifícios monumentais em pedra podem ser
 tão ou mais antigos quanto outros edifícios monumentais em madeira. A
 diferença, como notou o historiador da arquitetura francês Auguste
-Choisy [@fig:choisy] no final do século [XIX]{.smallcaps},
+Choisy ([@fig:choisy]) no final do século [XIX]{.smallcaps},
 pode ter tanto a ver com a disponibilidade de materiais quanto com um
 desejo de fazer construções mais duráveis [@choisy:1899histoire1]. É o
 caso do Egito antigo, onde a madeira de qualidade para construir era
@@ -513,7 +513,7 @@ importada.
 As principais diferenças entre a construção com madeira e com pedra
 dizem respeito à baixa resistência da pedra à flexão. Isso implica que
 as construções em pedra não podem ter praticamente nenhum balanço
-estrutural. [@fig:choisy-1.14a]
+estrutural ([@fig:choisy-1.14a]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Pilares e lajes em pedra no Egito antigo. [Choisy, 1899]](https://upload.wikimedia.org/wikipedia/commons/d/d5/Choisy-bnf-bpt6k6417116t_0040.png){#fig:choisy-1.14a .line}
@@ -530,7 +530,7 @@ Como os elementos estruturais não podem estar em balanço, as arquitraves
 precisam sempre ter as suas extremidades dentro da projeção vertical das
 colunas que as sustentam. Essa condição foi minuciosamente documentada
 com respeito aos templos da Grécia clássica pelo historiador da
-arquitetura alemão Josef Durm. [@fig:durm-140]
+arquitetura alemão Josef Durm ([@fig:durm-140]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Arquitrave do templo de Zeus Olímpico, Atenas, século [II]{.smallcaps} d.C. [Josef Durm, 1892]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gebalk_des_Zeustempel_in_Athen-Durm_Baukunst_der_Griechen_abb.140.png/1075px-Gebalk_des_Zeustempel_in_Athen-Durm_Baukunst_der_Griechen_abb.140.png){#fig:durm-140 .line}
@@ -556,7 +556,7 @@ clássica e chinesa, as colunas são simplesmente apoiadas sobre as suas
 bases, e as arquitraves são apoiadas sobre as colunas. Já vimos que
 esses sistemas são bastante resistentes a cargas verticais (ver
 @fig:arqui-for), e agora vamos ver como torná-los resistentes também a
-esforços horizontais como o vento, terremotos, [@fig:toji] ou mesmo a
+esforços horizontais como o vento, terremotos ([@fig:toji]), ou mesmo a
 simples irregularidade de distribuição das cargas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -579,8 +579,8 @@ A forma mais simples de contraventamento estrutural possível é construir
 um terraço rígido cobrindo a edificação. Na aldeia neolítica de Çatal
 Höyük, no sul da Anatólia, esse sistema é formado por uma sobreposição
 de vigas mestras (arquitraves), barrotes, uma manta de vime e um
-terrapleno espesso em terra batida, revestido com cal.
-[@fig:catalhoyuk-build] Além disso, os esteios em madeira também são
+terrapleno espesso em terra batida, revestido com cal
+([@fig:catalhoyuk-build]). Além disso, os esteios em madeira também são
 contraventados diretamente pelas paredes em blocos de adobe.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -637,11 +637,11 @@ pedra.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A redundância vai além das dimensões das colunas: na arquitetura grega,
 as arquitraves costumam ser duplicadas ou mesmo triplicadas em
-profundidade, agregando mais um nível de redundância. [@fig:durm-139]
+profundidade, agregando mais um nível de redundância ([@fig:durm-139]).
 Outra forma de redundância estrutural está nos vãos: os intercolúnios (a
 distância entre os eixos das colunas) são bastante estreitos, e as
 proporções das colunatas egípcias, persas e gregas são muito
-verticalizadas. [@fig:chipiez-compare]
+verticalizadas ([@fig:chipiez-compare]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/e9/75/60/e97560b20b57f958ed77019069bb7508.png" data-background-size="contain" data-background-position="center"}
@@ -653,14 +653,14 @@ contraventamento no sentido mais estrito. Os principais são as paredes
 em alvenaria que geralmente estão associadas à estrutura arquitravada.
 Um dos exemplos mais antigos e literais desse método é o chamado
 *heroön*, ou túmulo do herói, em Lefkandi, construído na Grécia no
-século [X]{.smallcaps} a.C.. [@fig:lefkandi-axon]
+século [X]{.smallcaps} a.C. ([@fig:lefkandi-axon]).
 
 Nessa construção, temos duas colunatas em madeira com as suas
 arquitraves --- um períptero, ou ala que contorna o exterior da
 edificação, e uma colunata no eixo longitudinal, sustentando a viga de
 cumeeira. Além de as colunas estarem engastadas no solo, ambas as
 colunatas são ligadas por vigas secundárias a uma parede de adobe com
-fundações em pedra lavrada. [@fig:lefkandi-section]
+fundações em pedra lavrada ([@fig:lefkandi-section]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Axonométrica do túmulo dito *heroön* (tumba do herói), Lefkandi, Grécia, século [X]{.smallcaps} a.C.](https://i.pinimg.com/originals/e9/75/60/e97560b20b57f958ed77019069bb7508.png){#fig:lefkandi-axon .line}
@@ -680,7 +680,7 @@ alvenaria que foram exploradas na Grécia do período geométrico, entre os
 séculos [X]{.smallcaps} e [VIII]{.smallcaps} a.C. Essas variações
 acabaram se consolidando em dois tipos predominantes que, a partir do
 final do século [VII]{.smallcaps}, deram origem às duas primeiras
-*ordens clássicas* em pedra: a dórica [@fig:aphaia-lawrence] e a jônica.
+*ordens clássicas* em pedra: a dórica ([@fig:aphaia-lawrence]) e a jônica.
 Mais adiante vamos nos debruçar em detalhe sobre essas ordens, e sobre
 as adaptações graduais que o uso da pedra como material de construção
 implica.
@@ -702,7 +702,7 @@ salão.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nesse caso, as paredes perimetrais sozinhas não resolvem o problema do
-contraventamento. [@fig:choisy-1.141.4] Em vez disso, todo o
+contraventamento ([@fig:choisy-1.141.4]). Em vez disso, todo o
 espaço do *apadana* (esse é o nome que se dá ao salão dos palácios
 persas) é coberto por um terraço rígido.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -723,7 +723,7 @@ espessura, que oferece estabilidade e isolamento térmico para o sistema
 da cobertura. A cobertura se completa com uma espécie de sótão e mais
 uma sequência de assoalhos e terraplenos; o terraço é finalmente
 revestido com lajes de pedra e tem uma platibanda de acabamento com
-tijolos vidrados. [@fig:chipiez-terrasse]
+tijolos vidrados ([@fig:chipiez-terrasse]).
 
 A montagem rebuscada desse terraço chama a nossa atenção para uma
 característica importante que diz respeito à *forma* das construções
@@ -739,8 +739,8 @@ arquitravadas.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Na arquitetura chinesa]{.newthought}, a estratégia de contraventamento
 é diferente [@fu:2017traditional]. O sistema estrutural chinês é formado
-por pórticos planos dispostos na menor direção da construção.
-[@fig:fu2017-9.3] Esses pórticos são formados por vigas e caibros
+por pórticos planos dispostos na menor direção da construção
+([@fig:fu2017-9.3]). Esses pórticos são formados por vigas e caibros
 apoiados sobre as colunas, sem contraventamento interno.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -749,7 +749,7 @@ apoiados sobre as colunas, sem contraventamento interno.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Então, a solução adotada na China vai ser contraventar os pórticos
 *entre si*, por meio de traves de madeira engastadas logo abaixo do topo
-dos fustes. [@fig:liang-038] Essas arquitraves têm dimensões modulares
+dos fustes ([@fig:liang-038]). Essas arquitraves têm dimensões modulares
 segundo a categoria da edificação, e além de estarem engastadas nas
 colunas, também são fixadas umas nas outras no ponto de encaixe
 [@liang:1984pictorial].
@@ -765,7 +765,7 @@ colunas, também são fixadas umas nas outras no ponto de encaixe
 A partir do século [XIII]{.smallcaps}, também se introduz
 contraventamento na direção dos pórticos, pelo menos nos seus tramos
 exteriores. O resultado é um esqueleto contraventado em dois planos,
-muito mais estável. [@fig:fu2017-8.8]
+muito mais estável ([@fig:fu2017-8.8]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Da madeira à pedra {.unlisted data-background-color="#0f0"}
@@ -783,7 +783,7 @@ construção arquitravada em madeira, na sua versão primordial imaginária.
 A alegoria iluminista contada por Laugier na metade do século
 [XVIII]{.smallcaps} [@laugier:1753essai] é explícita em associar a
 invenção *racional* da cabana primitiva com a pretensão de superioridade
-da arquitetura clássica e neoclássica. [@fig:laugier]
+da arquitetura clássica e neoclássica ([@fig:laugier]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
@@ -810,7 +810,7 @@ A precedência da tradição grega nas histórias gerais da arquitetura é
 tão forte e tão pouco questionada que ela acaba sendo vista como um
 tronco totalmente autônomo, por exemplo na famosa "árvore da
 arquitetura" esquematizada por Banister Fletcher da terceira edição do
-seu livro-texto em diante. [@fig:treearch] O *milagre grego* da
+seu livro-texto em diante ([@fig:treearch]). O *milagre grego* da
 arquitetura clássica é quase tão universalmente aceito, e quase tão
 estereotipado, quanto o *milagre* da filosofia grega.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -822,7 +822,7 @@ Por causa disso, é fácil esquecer que a arquitetura grega faz parte de
 uma tradição mais ampla de construção em madeira no Mediterrâneo
 oriental e no Crescente fértil. Essa tradição pode ser associada a uma
 faixa de montanhas e planaltos arborizados que vai da Pérsia até a
-Itália, passando pela Anatólia e pela Grécia. [@fig:medor] A partir do
+Itália, passando pela Anatólia e pela Grécia ([@fig:medor]). A partir do
 final da Idade do Bronze, por volta do século [XIII]{.smallcaps} a.C.,
 essas regiões começam a desenvolver certos modos de construir com
 colunas e vigas em madeira, geralmente associadas a paredes de vedação
@@ -835,7 +835,7 @@ em alvenaria.
 A tradição arquitravada do Mediterrâneo oriental geralmente
 combina um sistema de colunas em madeira com paredes em alvenaria, que
 servem de divisórias no espaço mas também costumam ter função estrutural
-. [@fig:chipiez-208] As colunas propriamente ditas são, na sua
+ ([@fig:chipiez-208]). As colunas propriamente ditas são, na sua
 origem, troncos de árvores.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -908,8 +908,8 @@ elementos acessórios [@liang:1984pictorial]. Essa regra continuou em
 vigor e foi reeditada várias vezes na China até a segunda metade do
 século [XVIII]{.smallcaps}. Na prancha ilustrada pelo historiador da
 arquitetura Liang Sicheng, no século [XX]{.smallcaps}, as dimensões
-padrão de vigas em cada uma das oito classes ficam bem evidentes.
-[@fig:liang-103] O resultado são edifícios também modulares, com tramos
+padrão de vigas em cada uma das oito classes ficam bem evidentes
+([@fig:liang-103]). O resultado são edifícios também modulares, com tramos
 estruturais que seguem dimensões e proporções padronizadas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

@@ -32,7 +32,7 @@ movimentos intelectuais modernos como o Iluminismo e o Romantismo. É
 essa premissa que está por trás da série de pinturas [*O decurso do
 império*], que Thomas Cole, um artista romântico americano, realizou na
 década de 1830. Essa série começa retratando uma comunidade de
-caçadores-coletores que vivem em tendas; [@fig:cole-savage] a premissa
+caçadores-coletores que vivem em tendas ([@fig:cole-savage]); a premissa
 da sequência é a de que os estágios sucessivos estão predestinados na
 origem da civilização.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -83,9 +83,9 @@ alguma lógica interna, é um assunto espinhoso na nossa disciplina.
 Por um lado, essa é uma premissa de várias narrativas que justificam o
 modernismo como resultado inevitável do *progresso da técnica*; nesse
 discurso, a catedral moderna do Rio de Janeiro, projetada por Edgar da
-Fonseca e Paulo Maier em 1979, [@fig:se1979] pode ser considerada a
+Fonseca e Paulo Maier em 1979 ([@fig:se1979]), pode ser considerada a
 sucessora natural da Sé tradicional (a primeira de várias) construída
-entre 1568 e 1583. [@fig:se1568]
+entre 1568 e 1583 ([@fig:se1568]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Edgar de Oliveira da Fonseca (construção) e Pe. Paulo Lachen Maier (interior), catedral metropolitana de São Sebastião do Rio de Janeiro, 1979. Foto: [Diego Baravelli, 2016](https://commons.wikimedia.org/wiki/File:Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg/1280px-Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg){#fig:se1979}
@@ -104,7 +104,7 @@ antropológico é o de que as diversas culturas tradicionais são
 irredutíveis entre si. Desse ponto de vista, não seria possível ou
 correto supor nenhuma lógica de conjunto, sob pena de impor uma
 interpretação colonialista sobre sociedades diversas. De fato, não
-existe um progresso linear [@fig:progress] que conduza necessariamente
+existe um progresso linear ([@fig:progress]) que conduza necessariamente
 das origens *primitivas* da humanidade às sociedades que antigamente
 eram chamadas de *civilizadas*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -115,8 +115,8 @@ eram chamadas de *civilizadas*.
 Por isso, a regra geral que podemos usar para uma taxonomia da
 arquitetura tradicional não diz respeito a pretensos *estágios* de
 desenvolvimento técnico ou estético das construções, apesar de que essa
-interpretação equivocada persiste na cultura popular.
-[@fig:civ6-classical] Em vez disso, vamos partir da definição que já
+interpretação equivocada persiste na cultura popular
+([@fig:civ6-classical]). Em vez disso, vamos partir da definição que já
 estabelecemos antes sobre o *processo produtivo* da construção. Essa
 definição diz que a arquitetura tradicional se caracteriza pelo uso dos
 materiais disponíveis na sua região, processados segundo técnicas em
@@ -158,8 +158,8 @@ estudo forma a base daquilo que tem sido chamado, desde o século
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A abordagem comparativa
 foi usada, por exemplo, na *História da arquitetura* de Banister
-Fletcher [@fletcher:1905history], desde a sua primeira edição em 1896.
-[@fig:fletcher-cover] A arquitetura comparada ficou com má fama por
+Fletcher [@fletcher:1905history], desde a sua primeira edição em 1896
+([@fig:fletcher-cover]). A arquitetura comparada ficou com má fama por
 causa do viés eurocêntrico da época. No entanto, esse viés não é
 intrínseco ao método; na sequência, vamos partir dos materiais de
 construção como a primeira condicionante que nos permite classificar e
@@ -176,7 +176,7 @@ arquitetônicas deixaram para trás. Nesses registros, alguns aspectos
 A ordem em que os materiais são apresentados nos tratados
 de arquitetura é sistemática. Ela tende a seguir uma sequência lógica
 dos sistemas construtivos usados no processo de construção. A mesma
-ordem é usada tanto no *Yingzao fashi*, [@fig:yzfs1920] um manual
+ordem é usada tanto no *Yingzao fashi* ([@fig:yzfs1920]), um manual
 técnico e administrativo chinês do século [XI]{.smallcaps}
 [@liang:1984pictorial], e na maioria dos tratados do Renascimento
 italiano nos séculos [XV]{.smallcaps} e [XVI]{.smallcaps}: eles começam
@@ -213,7 +213,7 @@ linguagens arquitetônicas tradicionais.
 [Reconhecendo essa diversidade de aplicações]{.newthought} dos
 materiais, podemos agrupar as tradições arquitetônicas em três tipos
 genéricos de acordo com o sistema estrutural dominante que resulta
-desses materiais e das tecnologias usadas: [@fig:huts]
+desses materiais e das tecnologias usadas ([@fig:huts]):
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ----
@@ -238,8 +238,8 @@ desses materiais e das tecnologias usadas: [@fig:huts]
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esses tipos foram idealizados por dois arquitetos do final do século
-[XVIII]{.smallcaps}: o britânico William Chambers [@fig:chambers] e o
-francês Quatremère de Quincy, [@fig:4mere] que também inventou os nomes
+[XVIII]{.smallcaps}: o britânico William Chambers ([@fig:chambers]) e o
+francês Quatremère de Quincy ([@fig:4mere]), que também inventou os nomes
 alegóricos de tenda, cabana e caverna [@chambers:1759treatise;
 @quatremere:1788caractere].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -298,7 +298,7 @@ formar uma camada protetora. O sítio arqueológico de Terra Amata, no
 sudeste da França, tem vestígios presumidos de tendas datadas de até 380
 mil anos atrás, que teriam sido erguidas por Neandertais
 [@lumley:1969paleolithic220]. A hipótese de reconstituição desses
-abrigos [@fig:terra-amata] mostra um sistema muito simples de galhos
+abrigos ([@fig:terra-amata]) mostra um sistema muito simples de galhos
 apoiados nas suas extremidades. Essa interpretação dos vestígios de
 Terra Amata é questionada por alguns arqueólogos [@pettitt:1997high29].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -308,8 +308,8 @@ Terra Amata é questionada por alguns arqueólogos [@pettitt:1997high29].
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Outros restos de tendas, desta vez obra de humanos modernos, feitas de
 ossos e peles de mamutes, datam de cerca de 15 mil anos atrás e foram
-encontrados em Mezhyrich, na atual Ucrânia. [@fig:mezhyrich] Algumas
-tendas, como as yurtas da Ásia central, [@fig:yurt] têm uma construção
+encontrados em Mezhyrich, na atual Ucrânia ([@fig:mezhyrich]). Algumas
+tendas, como as yurtas da Ásia central ([@fig:yurt]), têm uma construção
 semipermanente. Fora esses casos especiais, a tenda é um tipo
 predominantemente temporário, e não vai nos ocupar mais neste curso.
 Nosso percurso segue, portanto, para o tipo da *cabana*.
@@ -337,7 +337,7 @@ térmico e abrigo contra o vento.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na taxonomia da arquitetura tradicional, associamos a construção murária
 com o caráter da *caverna*, enquanto a construção arquitravada tem o
-caráter da *cabana*. [@fig:huts] Essa oposição sinaliza duas
+caráter da *cabana* ([@fig:huts]). Essa oposição sinaliza duas
 relações diferentes entre construção e espaço. A cabana é um paradigma
 *aditivo*: a montagem de peças formando um esqueleto estrutural que
 organiza o espaço indefinido numa malha. Já a caverna é um paradigma
@@ -352,7 +352,7 @@ entre as massas de paredes.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nem sempre essa distinção é tão clara. Um dos mais antigos abrigos
 permanentes que se conhece fica no sítio arqueológico de Eynan,
-atualmente em Israel. [@fig:eynan] Ele foi construído por volta de 15 a
+atualmente em Israel ([@fig:eynan]). Ele foi construído por volta de 15 a
 12 mil anos atrás [@haklay:2015new10] e tem características tanto da
 cabana quanto da caverna. Esse abrigo é formado por um muro de
 contenção em pedra lavrada que dá abrigo para uma cabana de planta
@@ -363,8 +363,8 @@ circular encaixada contra a encosta.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No noroeste da península Arábica, um conjunto curioso de cercados
-retangulares foi construído a partir do [VI]{.smallcaps} milênio a.C.
-([@fig:alula; @fig:mustatil]). Essas estruturas têm uma sistemática
+retangulares foi construído a partir do [VI]{.smallcaps} milênio a.C
+([@fig:alula; @fig:mustatil]).. Essas estruturas têm uma sistemática
 construtiva constante, usando blocos de pedra lavrada fincados
 verticalmente no solo e preenchimento com cascalho
 [@groucutt:2020monumental30].
@@ -393,7 +393,7 @@ verticalmente no solo e preenchimento com cascalho
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As extremidades desses cercados são plataformas que às vezes contêm um
-espaço semienterrado com restos de fogo e de gado. [@fig:musta-chamber]
+espaço semienterrado com restos de fogo e de gado ([@fig:musta-chamber]).
 Isso indica que esses cercados podiam ser armadilhas para caçar gado. As
 câmaras podiam ser abrigos temporários e, quem sabe, cerimoniais onde as
 pessoas cozinhavam e consumiam a caça [@thomas:2021mustatils95].
@@ -418,9 +418,9 @@ empilhados, até grandes lajes megalíticas.
 O conceito de uma arquitetura feita de espaços como que *escavados* na
 matéria sólida não é só uma alegoria: as mais antigas construções
 duráveis que se conhece eram semienterradas ou tinham pelo menos uma
-parte do seu espaço escavado contra o terreno inclinado. [@fig:gt-pano]
+parte do seu espaço escavado contra o terreno inclinado ([@fig:gt-pano]).
 Os monumentos de Göbekli Tepe, no extremo norte do Crescente fértil,
-foram construídos desse modo entre 9600 e 8500 a.C. [@fig:gt-natgeo] Não
+foram construídos desse modo entre 9600 e 8500 a.C ([@fig:gt-natgeo]). Não
 está claro se esses espaços eram originalmente cobertos; se fosse o
 caso, a semelhança com cavernas seria ainda mais marcante.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -441,10 +441,10 @@ caso, a semelhança com cavernas seria ainda mais marcante.
 A partir daí, o tipo da construção semienterrada se espalha pelo
 corredor eurasiático durante o período Neolítico. A arquitetura
 megalítica na Europa se reporta a essa configuração, como no conjunto de
-templos construídos antes de 3000 a.C. em Malta. [@fig:tarxien-aer]
+templos construídos antes de 3000 a.C. em Malta ([@fig:tarxien-aer]).
 Esses templos eram formados por sequências de espaços semicirculares
 cada vez mais restritos, dando um senso de reclusão crescente até que se
-alcançava um altar no fundo da construção. [@fig:tarxien-axis]
+alcançava um altar no fundo da construção ([@fig:tarxien-axis]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anta_orca_de_pendilhe_0486.JPG/1280px-Anta_orca_de_pendilhe_0486.JPG"}
@@ -454,7 +454,7 @@ alcançava um altar no fundo da construção. [@fig:tarxien-axis]
 extremidades úmidas da Eurásia, onde elas são usadas tanto como
 sepulturas quanto como habitações --- às vezes ao mesmo tempo. As
 construções monumentais muitas vezes são delimitadas com imensas lajes
-de pedra em todos os lados: os dolmens ou antas. [@fig:pendilhe] Essas
+de pedra em todos os lados: os dolmens ou antas ([@fig:pendilhe]). Essas
 estruturas teriam sido cobertas com um terrapleno por todos os lados,
 formando um túmulo, e poderiam ser usadas para vários propósitos
 rituais: desde sacrifícios religiosos até sepultamentos humanos.
@@ -473,9 +473,9 @@ Nas ilhas Órcades, o túmulo neolítico de Maeshowe, de c. 2800 a.C., tem
 uma câmara central quadrada, com 4 metros de lado, debaixo de um
 terrapleno artificial. Um corredor com 11 metros de comprimento mas
 menos de um metro de pé-direito dá acesso à câmara, de onde se abrem
-três células secundárias. [@fig:maeshowe-plan] Como em Malta, o espaço
-mais importante é a célula que fica diante do eixo do corredor,
-[@fig:maeshowe-sec] pelo qual a luz do sol entra no dia do solstício de
+três células secundárias ([@fig:maeshowe-plan]). Como em Malta, o espaço
+mais importante é a célula que fica diante do eixo do corredor
+([@fig:maeshowe-sec]), pelo qual a luz do sol entra no dia do solstício de
 inverno.
 
 ![Planta do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 a.C. Desenho: F.W.I. Thomas, após 1861](https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg){#fig:maeshowe-plan}
@@ -495,15 +495,15 @@ inverno.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A configuração desse túmulo se parece bastante com a das habitações em
-Skara Brae, também nas ilhas Órcades e datadas da mesma época.
-[@fig:skb-plan] Aqui também, cada casa tem uma câmara principal com
+Skara Brae, também nas ilhas Órcades e datadas da mesma época
+([@fig:skb-plan]). Aqui também, cada casa tem uma câmara principal com
 algumas células satélites; todas as casas se articulam em volta de um
 corredor central, e o conjunto é coberto por um terrapleno
 (@fig:skb-art) apoiado em vigas de madeira. A única fonte de iluminação
 direta era uma abertura zenital, que também servia de exaustor. Outra
 semelhança com o túmulo de Maeshowe é que alguns corpos foram sepultados
 dentro das próprias casas, debaixo das plataformas que serviam de bancos
-e camas. [@fig:skb-int]
+e camas ([@fig:skb-int]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/ce/51/bc/ce51bcfc1ca839b7e5f4b5e1f8414288.png"}
@@ -529,7 +529,7 @@ A solução espacial da câmara com células acopladas reaparece nas
 necrópoles etruscas, na Itália do século [VI]{.smallcaps} a.C. em
 diante. A chamada tumba dos relevos na necrópole de Banditaccia, na
 antiga cidade etrusca de Cisra, é um dos exemplares mais característicos
-desse tipo. [@fig:cerveteri] Ela é literalmente escavada na rocha, como
+desse tipo ([@fig:cerveteri]). Ela é literalmente escavada na rocha, como
 a maioria das tumbas da nobreza etrusca, e tem um espaço central de onde
 irradiam as células para os sarcófagos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -555,9 +555,9 @@ construção em evidência acima do nível do terreno à sua volta.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O conceito de *plataforma* vem da alegoria da cabana primitiva na forma
-contada pelo arquiteto alemão Gottfried Semper [@fig:semper] num artigo de 1851
+contada pelo arquiteto alemão Gottfried Semper ([@fig:semper]) num artigo de 1851
 intitulado "Os quatro elementos da arquitetura" [@semper:1851vier].
-Semper se inspirou numa cabana de índios karib [@fig:karib] que ele
+Semper se inspirou numa cabana de índios karib ([@fig:karib]) que ele
 tinha visto na exposição universal de Londres, aquela do palácio de
 Cristal [@semper:1860stil]. Como a maioria dos europeus do seu tempo,
 Semper considerava que uma sociedade dita "primitiva" no século
@@ -604,7 +604,7 @@ assentamentos densos formados por células com estrutura em adobe
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O sítio representativo dessa composição de habitações por células
 construídas em adobe é a aldeia neolítica de Çatal Höyük, no sul da
-Anatólia, datada de 7100 a.C. [@fig:catalhoyuk-vid] Çatal Höyük foi
+Anatólia, datada de 7100 a.C ([@fig:catalhoyuk-vid]). Çatal Höyük foi
 ocupada sazonalmente por uma comunidade agropastoril e tinha um tecido
 construído muito compacto, com poucos pátios internos e nenhuma rua.
 [@fig:catalhoyuk-plan]
@@ -614,7 +614,7 @@ construído muito compacto, com poucos pátios internos e nenhuma rua.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As células eram construídas com uma estrutura portante mista de madeira
-e grandes blocos de adobe. [@fig:catalhoyuk-build] O espaço interior era
+e grandes blocos de adobe ([@fig:catalhoyuk-build]). O espaço interior era
 organizado com uma área central cercada por plataformas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -649,12 +649,12 @@ Esse procedimento, na sua forma tradicional, foi descrito e ilustrado
 pelo engenheiro francês Jean-Baptiste Rondelet no início do século
 [XIX]{.smallcaps} [@rondelet:1812traite1]. O sistema da taipa deve, em
 quase todos os casos, assentar sobre uma fundação em pedra aparelhada ou
-cantaria. [@fig:taipal] Essa fundação dá um assentamento mais homogêneo
+cantaria ([@fig:taipal]). Essa fundação dá um assentamento mais homogêneo
 para a parede, e que a umidade ascendente comprometa a solidez da
 parede. Do mesmo modo, a taipa deve ser coroada com um ou mais frechais
 em madeira, para regularizar o assentamento da cobertura sobre a parede.
 Ao contrário da melhor prática na concretagem, na taipa cada camada
-comprimida [@fig:ram] precisa secar antes de se lançar a camada
+comprimida ([@fig:ram]) precisa secar antes de se lançar a camada
 seguinte.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -672,13 +672,13 @@ seguinte.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O taipal geralmente é uma forma móvel em madeira, apoiada en tirantes
-que deixam buracos regulares na taipa. [@fig:taipal] Esses buracos podem
+que deixam buracos regulares na taipa ([@fig:taipal]). Esses buracos podem
 ser simplesmente tapados, ou podem servir de apoios para uma camada de
 revestimento. Em alguns casos, os tirantes podem ser deixados no corpo
 da parede para dar mais estabilidade e facilitar o acesso para
 manutenção. Esse costume é tradicional na região do Sael, ao sul do
 deserto do Saara, por exemplo nas cidades históricas do delta do rio
-Níger, como Djenné. [@fig:djenne]
+Níger, como Djenné ([@fig:djenne]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-color="#0f0"}
@@ -715,7 +715,7 @@ espessa. Os templos dos antigos sumérios, nos [IV]{.smallcaps} e
 terraplenos maciços. O Zigurate de Ur, construído entre 2050 e 1980
 a.C., é talvez o exemplo mais emblemático e bem conservado, apesar de
 ter sido restaurado com uma mão bem pesada no final do século
-[XX]{.smallcaps}. [@fig:ziggurat] O que resta do monumento hoje em dia é
+[XX]{.smallcaps} ([@fig:ziggurat]). O que resta do monumento hoje em dia é
 um imenso terraço em degraus, com muros de arrimo em adobe que enquadram
 um terrapleno com 30 metros de altura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -730,7 +730,7 @@ um terrapleno com 30 metros de altura.
 Os zigurates na verdade eram mais do que o simples terraço com um
 edifício em cima; eles eram sistemas de espaços abertos e fechados
 sucessivos [@anastasio:2020building], com portais controlando o acesso
-às areas mais internas. [@fig:eanna] As paredes eram peças chave nesse
+às areas mais internas ([@fig:eanna]). As paredes eram peças chave nesse
 sistema, portanto, e elas apresentam variações sobre o tema da estrutura
 em adobe, de acordo com a espessura de cada uma.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -741,7 +741,7 @@ em adobe, de acordo com a espessura de cada uma.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Estruturas simples poderiam ter apenas uma alvenaria em adobe apoiada
-sobre uma sapata corrida em pedra lavrada. [@fig:adobe-foundations]
+sobre uma sapata corrida em pedra lavrada ([@fig:adobe-foundations]).
 Nesse caso, alguns blocos seriam grandes o suficiente para travar a
 espessura da parede de um lado a outro: são o que chamamos de blocos
 juntouros ou perpianhos.
@@ -758,7 +758,7 @@ adobe. Elas eram ligadas entre si, em algumas fiadas, com cordas e
 esteiras de palha embutidas na argamassa. Seria esse o sistema
 construtivo adotado em grandes edifícios, como o antiquíssimo "templo de
 Enki" em Eridu (e que talvez fosse um palácio), construído por volta de
-4000 a.C.. [@fig:eridu] E nos grandes terraços que elevam os edifícios
+4000 a.C. ([@fig:eridu]). E nos grandes terraços que elevam os edifícios
 públicos monumentais, a camada é tripla: tijolo cozido, adobe, e o
 terrapleno propriamente dito preenchido com qualquer tipo de material
 compactado --- terra, entulho de construção e outros resíduos.
@@ -772,7 +772,7 @@ superfície ideal para ornamentar a construção. Na Babilônia, os tijolos
 na superfície externa de algumas muralhas eram decorados com relevos
 pintados e tinha um acabamento vidrado. É o caso da famosa porta de
 Ishtar, atualmente reconstituída a partir de vestígios originais no
-museu Pergamon de Berlim. [@fig:ishtar] Além dessa decoração, também
+museu Pergamon de Berlim ([@fig:ishtar]). Além dessa decoração, também
 podemos ver como a massa construída do portal enquadra o espaço numa
 sucessão de pátios cada vez mais restritos, até chegar na porta
 propriamente dita. Esse enclausuramento dos volumes é a função
@@ -805,7 +805,7 @@ mencionam é cavar uma vala até encontrar rocha ou um subsolo firme
 III:iii; @palladio:1570quattro, livro I:vii--viii]. As fundações
 tradicionais são quase sempre baldrames ou sapatas corridas, isto é, uma
 espécie de alicerce contínuo e alargado, sempre alinhado com a parede ou
-a colunata que vem por cima. [@fig:vitruve-pl4] Em geral, elas são
+a colunata que vem por cima ([@fig:vitruve-pl4]). Em geral, elas são
 construídas em pedra lavrada ou aparelhada, ou seja, pedras talhadas
 mais grosseiramente e encaixadas sem um aparelho regular.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -826,7 +826,7 @@ possível. Nos solos rasos, onde a rocha ou uma camada compacta pode ser
 encontrada perto da superfície, as fundações podem se apoiar diretamente
 sobre essa camada. Já nos solos profundos, a terra funciona como um
 material muito viscoso, que vai resistir à carga transmitida pelas
-fundações. [@fig:cargas-funda]
+fundações ([@fig:cargas-funda]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-color="#0f0"}
@@ -858,7 +858,7 @@ Mehrgarh foi construída mais de cinco mil anos atrás numa planície
 aluvial, portanto numa área de solo profundo e pouco resistente. As
 escavações descobriram construções com malhas retangulares e quadradas
 de sapatas em pedra lavrada com argamassa de barro sustentando paredes
-em blocos de adobe. [@fig:mehrgarh] Não se sabe se essas estruturas eram
+em blocos de adobe ([@fig:mehrgarh]). Não se sabe se essas estruturas eram
 casas ou celeiros, mas em qualquer caso elas mostram uma preocupação
 importante com a homogeneidade do assentamento no solo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -880,7 +880,7 @@ dimensionamento das fundações são só indicações preliminares. Mais do
 que em qualquer outra parte da arquitetura tradicional, a solidez das
 fundações depende da experiência dos mestres de obras de cada lugar, que
 conhecem profundamente as características dos solos e dos materiais de
-construção na sua região. [@fig:rubble]
+construção na sua região ([@fig:rubble]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/funda-solos-1.png" data-background-size="contain"}
@@ -892,7 +892,7 @@ de Alberti e Palladio. Segundo Alberti, as sapatas ou os baldrames das
 fundações precisam ter, pelo menos, um oitavo da altura total das
 paredes acima delas (mas, no mínimo, um metro de profundidade). Além
 disso, Palladio indicava que a espessura das fundações devia ser o dobro
-da espessura das paredes assentada sobre elas. [@fig:cargas-funda]
+da espessura das paredes assentada sobre elas ([@fig:cargas-funda]).
 Em terrenos muito instáveis, arenosos ou pantanosos, pode-se usar
 fundações indiretas: as sapatas são assentadas sobre um cravejamento de
 estacas formadas por toras de madeira fincadas no chão. Como esses tipos
@@ -914,7 +914,7 @@ cargas. Uma solução comum para o problema da umidade ascendente é
 assentar as fundações sobre uma camada de areia e pedra britada, como
 nos mostra o manual de Francisco Pereira da Costa
 [@pereira:1955enciclopedia14, 3], um técnico em edificações português de
-meados do século [XX]{.smallcaps}. [@fig:epcc14-05]
+meados do século [XX]{.smallcaps} ([@fig:epcc14-05]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/epcc14-04.png" data-background-size="contain"}
@@ -925,9 +925,9 @@ meados do século [XX]{.smallcaps}. [@fig:epcc14-05]
 [Agora que já sabemos]{.newthought} quais são os principais tipos e as
 dimensões das fundações tradicionais, precisamos saber como assentá-las.
 Isso se faz escavando uma vala, que pode ser um pouco mais larga do que
-a espessura das fundações. [@fig:epcc14-05] Em terreno movediço, é
-preciso escorar a vala, como se fosse um taipal invertido.
-[@fig:epcc14-04] Depois de construída a fundação, a largura de vala que
+a espessura das fundações ([@fig:epcc14-05]). Em terreno movediço, é
+preciso escorar a vala, como se fosse um taipal invertido
+([@fig:epcc14-04]). Depois de construída a fundação, a largura de vala que
 sobra precisa ser aterrada e compactada para garantir a boa distribuição
 das cargas, especialmente onde o solo for profundo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -939,7 +939,7 @@ As fundações tradicionais em geral não são "armadas", ou seja,
 reforçadas com outros materiais que não a alvenaria. Isso é porque, como
 já vimos, as fundações tradicionais não podem, em condições normais, ser
 submetidas a esforços de tração ou cortantes. Apesar disso, há algumas
-exceções em regiões sujeitas a terremotos. [@fig:adobe-funda]
+exceções em regiões sujeitas a terremotos ([@fig:adobe-funda]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::: {#fig:adobe-funda .iframe-wrapper}
@@ -968,15 +968,15 @@ Esquema de montagem das fundações mistas de madeira sobre pedra lavrada na arq
 As estruturas mistas de alvenaria e madeira são muito comuns nessas
 regiões do mundo, e especialmente no leste da Ásia e na península
 Ibérica --- e também, por extensão da cultura ibérica, na América
-Latina. Nesse caso, é comum que as fundações sejam elas próprias mistas.
-[@fig:abscB] É o caso, especialmente, da construção vernácula no
+Latina. Nesse caso, é comum que as fundações sejam elas próprias mistas
+([@fig:abscB]). É o caso, especialmente, da construção vernácula no
 Brasil, que foi estudada nestes croquis do arquiteto Sylvio de
 Vasconcellos na segunda metade do século [XX]{.smallcaps}
 [@vasconcellos:1979arquitetura]. A nossa tradição usa esteios e
-baldrames em madeira [@fig:abscD] engastados num alicerce em pedra
-aparelhada. [@fig:abscA] O *nabo* do esteio também pode ser levemente
+baldrames em madeira ([@fig:abscD]) engastados num alicerce em pedra
+aparelhada ([@fig:abscA]). O *nabo* do esteio também pode ser levemente
 queimado e fincado diretamente no solo, mas esse tipo de construção
-tende a apodrecer com facilidade. [@fig:abscC]
+tende a apodrecer com facilidade ([@fig:abscC]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
@@ -990,7 +990,7 @@ fundações. Por isso, é costume soerguer os alicerces um pouco acima do
 nível do solo, e portanto também o nível do piso térreo fica
 ligeiramente elevado. Assim, há menos risco de infiltração de umidade na
 junta entre a sapata de fundação e a parede. Essa era a prática padrão
-nas muralhas e nos edifícios da antiga Mesopotâmia, [@fig:anastasio59]
+nas muralhas e nos edifícios da antiga Mesopotâmia ([@fig:anastasio59]),
 onde a superestrutura costumava ser construída em adobe e, portanto, era
 especialmente sensível ao risco de umidade ascendente
 [@anastasio:2020building, 59].
@@ -1001,7 +1001,7 @@ especialmente sensível ao risco de umidade ascendente
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Quando se usam pisos em madeira, esse sistema também garante uma boa
 ventilação entre o chão e o assoalho do térreo, o que também ajuda a
-reduzir o acúmulo de umidade. [@fig:valpa]
+reduzir o acúmulo de umidade ([@fig:valpa]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Esquema de fundações tradicionais em Valparaíso, Chile, segundo Barros e Sarabia, *Sistemas constructivos básicos*](https://i.pinimg.com/originals/ed/15/c5/ed15c515c38988f1997f70bf7df8b1c5.jpg){#fig:valpa}
@@ -1038,9 +1038,9 @@ alvenaria.
 ![Templo de Kara-in-dash dedicado a Anu e Antum em Uruk, iniciado no século [XV]{.smallcaps} a.C. Reconstituição do estado no período selêucida, século [III]{.smallcaps} a.C.: [Artefacts, 2010](http://www.artefacts-berlin.de/portfolio-item/uruk-visualisation-project-the-seleucid-period/)](https://i0.wp.com/www.artefacts-berlin.de/wp-content/uploads/2018/06/uruk_seleucid_003.png){#fig:karaindash}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Apesar de ser bastante detalhado, [@fig:vorderasiatisches] esse silhar
+Apesar de ser bastante detalhado ([@fig:vorderasiatisches]), esse silhar
 articula a elevação do templo com uma impressão de solidez e textura
-rústica na base. [@fig:karaindash]
+rústica na base ([@fig:karaindash]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/19/69/ea/1969eab3ab4eb5190d700219722b3167.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
@@ -1050,7 +1050,7 @@ rústica na base. [@fig:karaindash]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma versão ainda mais monumental desse mesmo expediente é o *pódio*
 usado em muitos edifícios da Antiguidade. Em geral, como aqui no palácio
-de Persépolis, do século [V]{.smallcaps} a.C., [@fig:persepolis] o pódio
+de Persépolis, do século [V]{.smallcaps} a.C. ([@fig:persepolis]), o pódio
 é uma combinação do terrapleno com a silharia.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -1069,8 +1069,8 @@ impedir a umidade que *já entrou* de *sair* da construção.
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br/constru/taipa/Ishtar_Gate_Babylon_Iraq.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Esse tipo de problema ocorreu no sítio arqueológico da antiga Babilônia.
-[@fig:ishtar-model] Na década de 1960, foi construído um percurso turístico
+Esse tipo de problema ocorreu no sítio arqueológico da antiga Babilônia
+([@fig:ishtar-model]). Na década de 1960, foi construído um percurso turístico
 com piso em concreto. Isso impediu que a umidade do solo escoasse pela
 superfície, para evitar que os turistas tivessem que caminhar no chão
 lamacento. Só que, com isso, a água ficou retida no subsolo, começou a

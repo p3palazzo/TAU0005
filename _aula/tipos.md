@@ -42,7 +42,7 @@ header:
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nas cidades planejadas da Grécia antiga, os lotes eram rasos, quase
 quadrados, e os quarteirões eram pequenos. Em alguns casos, como em
-Olinto, [@fig:olynthus-blocks] as casas eram geminadas só pelas divisas
+Olinto ([@fig:olynthus-blocks]), as casas eram geminadas só pelas divisas
 laterais. Nos quarteirões de Olinto, os lotes tinham cerca de 60′
 (sessenta pés) de lado, ou pouco mais de 17 metros. Os fundos eram
 separados uns dos outros por uma servidão muito estreita, com só 5′ de
@@ -62,8 +62,8 @@ com *prostas*, ou pórtico na frente de uma sala separada
 [@graham:1966origins20]. No tipo de casa com *pastas*, a sala principal
 no térreo abria diretamente para o pátio, e ela tinha uma ou duas
 células laterais sem abertura direta para fora, além de uma série de
-células funcionais atrás do *pastas*, incluindo a cozinha.
-[@fig:olynthus-a-vii-4] Em casas mais ricas, o *pastas* podia dar uma
+células funcionais atrás do *pastas*, incluindo a cozinha
+([@fig:olynthus-a-vii-4]). Em casas mais ricas, o *pastas* podia dar uma
 volta inteira no pátio e formar um peristilo.
 
 Perto da entrada da casa ficava uma sala de jantar social ou masculina,
@@ -97,8 +97,8 @@ planejadas indica que se valorizavam a equidade na distribuição da
 propriedade e uma relativa homogeneidade, ou *isonomia* em grego, no
 modo de vida dos cidadãos. Além disso, as casas seguiam, sempre que
 possível, a mesma orientação solar: a ala principal da casa se abria
-para o sul, sobre o pátio. [@fig:olynthus-cutaway] A galeria coberta no
-primeiro andar [@fig:olynthus-brunner] protegia os ambientes do sol a
+para o sul, sobre o pátio ([@fig:olynthus-cutaway]). A galeria coberta no
+primeiro andar ([@fig:olynthus-brunner]) protegia os ambientes do sol a
 pino no verão, mas deixava entrar o sol de inverno, mais baixo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -113,7 +113,7 @@ pino no verão, mas deixava entrar o sol de inverno, mais baixo.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por outro lado, a orientação solar idêntica obrigava a mudar o
 posicionamento da entrada das casas segundo a posição da rua com
-respeito ao lote. [@fig:many-colors]
+respeito ao lote ([@fig:many-colors]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/78/e3/94/78e394dbdb86e38fe1640b8f38a8c07d.jpg"}
@@ -137,15 +137,15 @@ receber "clientes" era importante.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A importância dessa axialidade fica mais evidente em casas da elite,
-implantadas em lotes maiores, como a casa de Salústio. [@fig:mau134] A
+implantadas em lotes maiores, como a casa de Salústio ([@fig:mau134]). A
 composição principal dessa casa ignora as divisas do lote e forma um
 conjunto quase perfeitamente simétrico tanto na fachada quanto na
-planta. Em contraste, os anexos, como as lojas, [@fig:mau134, n.º 4--9]
+planta. Em contraste, os anexos, como as lojas ([@fig:mau134, n.º 4--9]),
 e os espaços privativos da família, como os jardins com peristilo e o
-átrio secundário, [@fig:mau134, n.º 31--35] se acomodam no espaço
+átrio secundário ([@fig:mau134, n.º 31--35]), se acomodam no espaço
 residual entre a composição axial e as divisas irregulares do lote. A
 vista é desimpedida desde a entrada principal da casa até o *tablinum*,
-a sala onde o chefe da família recebia os seus clientes. [@fig:pansa]
+a sala onde o chefe da família recebia os seus clientes ([@fig:pansa]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/0c/c6/3e/0cc63e51be87b309970ed2ce18799bcf.gif" data-background-size="contain"}
@@ -157,8 +157,8 @@ a sala onde o chefe da família recebia os seus clientes. [@fig:pansa]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O átrio da casa romana é sempre cercado por beirais amplos, geralmente
 sustentados por duas vigas principais que vencem o vão estrutural mais
-curto e sustentam outras duas vigas secundárias. [@fig:mau117] Esse
-sistema deixa o pátio totalmente livre de colunas. [@fig:mau136]
+curto e sustentam outras duas vigas secundárias ([@fig:mau117]). Esse
+sistema deixa o pátio totalmente livre de colunas ([@fig:mau136]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Planta estrutural de um átrio toscano, segundo [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_250)](https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuscan_atrium_in_Pompeii_Mau_fig117.png){#fig:mau117 .line .align-right}
@@ -179,11 +179,11 @@ sistema deixa o pátio totalmente livre de colunas. [@fig:mau136]
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os beirais do átrio oferecem uma circulação ao abrigo do sol e da chuva.
-Eles também canalizam a água para uma cisterna central, debaixo do piso.
-[@fig:cistern] Deixar a água parada na cisterna ajudava a decantar as
+Eles também canalizam a água para uma cisterna central, debaixo do piso
+([@fig:cistern]). Deixar a água parada na cisterna ajudava a decantar as
 impurezas, mesmo quando o abastecimento vinha de um aqueduto e não da
 coleta da água de chuva. Outra canalização desaguava o excesso da
-cisterna sobre a rua. [@fig:aregenua]
+cisterna sobre a rua ([@fig:aregenua]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/54/Plan_of_the_house_of_the_Faun_in_Mau_fig137.png" data-background-size="contain"}
@@ -191,7 +191,7 @@ cisterna sobre a rua. [@fig:aregenua]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ao contrário da sociedade grega, a romana admitia grandes desigualdades
 socioeconômicas que se refletiam no tamanho das casas. Uma casa muito
-grande, como a casa do Fauno em Pompeia, [@fig:mau137] refletia não só
+grande, como a casa do Fauno em Pompeia ([@fig:mau137]), refletia não só
 um proprietário rico, como também uma família estendida vivendo no mesmo
 teto --- característica das classes altas --- e muitos escravos
 domésticos. Por isso, a ampliação de uma casa romana se fazia sempre
@@ -215,7 +215,7 @@ onde se podiam arrebanhar os animais da família durante a noite. Um dos
 lados desse cercado tinha um pórtico aberto para o terreiro, sem
 divisórias internas. O modelo paradigmático desse tipo é a descrição que
 foi transmitida através das gerações da casa do profeta Maomé em Medina,
-no início do século [VII]{.smallcaps} d.C.. [@fig:leacroft1976-2]
+no início do século [VII]{.smallcaps} d.C. ([@fig:leacroft1976-2]).
 
 O modelo da casa de Maomé é especialmente importante enquanto exemplar
 específico porque ele não só representa o tipo árabe de base: ele também
@@ -244,7 +244,7 @@ oficinas ou depósitos. A área social da casa, incluindo o pátio
 (*sahn*), vai ser então erguida para uma espécie de "andar nobre", no
 primeiro andar ou, pelo menos, meio nível acima do térreo. Os ambientes
 privativos da família ocupam mais um ou dois pavimentos acima do andar
-nobre. [@fig:gayer] Como nas casas da antiga Mesopotâmia, a cobertura da
+nobre ([@fig:gayer]). Como nas casas da antiga Mesopotâmia, a cobertura da
 casa árabe é um terraço habitável.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -255,7 +255,7 @@ No Mediterrâneo medieval, a casa muito raramente é "coletiva" no sentido
 de um prédio de apartamentos. Mesmo assim, construções relativamente
 verticalizadas e com muita área útil existem, para abrigar uma família
 estendida. É o caso dos *tighremt* ou casarões rurais dos berberes, nas
-montanhas da Argélia e do Marrocos. [@fig:tighremt]
+montanhas da Argélia e do Marrocos ([@fig:tighremt]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Tipologia dos *tighremt* berberes no vale do Draa, Marrocos, segundo Arena e Raffa, 2018](https://i.pinimg.com/originals/4c/9f/5e/4c9f5ec9db0503e1d19513a3a239153a.png){#fig:tighremt}
@@ -266,8 +266,8 @@ montanhas da Argélia e do Marrocos. [@fig:tighremt]
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No início da Idade Média, a casa de tipo romano no Mediterrâneo
-ocidental deu lugar à casa com pátio e salão largo.
-[@fig:arnold2017-1.8] Esse salão lembra o *pastas* da casa grega; ele
+ocidental deu lugar à casa com pátio e salão largo
+([@fig:arnold2017-1.8]). Esse salão lembra o *pastas* da casa grega; ele
 era usado para várias funções sociais e familiares, o que dá a entender
 que a casa passou a ser um espaço mais recluso da família, sem muita
 abertura para estranhos. O salão largo estava disposto transversalmente
@@ -283,7 +283,7 @@ que caracterizava a casa romana [@arnold:2017islamic, 30].
 ![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types .full .nobg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Os sete tipos edilícios fundamentais [@fig:7types] correspondem a sete
+Os sete tipos edilícios fundamentais ([@fig:7types]) correspondem a sete
 categorias de propósitos sociais da arquitetura. Esses propósitos se
 encontram em praticamente todas as sociedades que constroem tipos de
 edificações diferenciadas entre si. Os tipo foram concebidos por C.
@@ -415,7 +415,7 @@ A casa com pátio do Mediterrâneo ocidental se desenvolve a partir de
 duas raízes convergentes: o *oecus* primitivo feito de células espaciais
 pequenas e a combinação desse tipo com a *regia* para formar a *domus*
 romana, a morada grega ou a casa compacta do Crescente fértil
-[@strappa:2016morfologia]. [@fig:processo]
+[@strappa:2016morfologia] ([@fig:processo]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Processo tipológico da casa de células até a casa-pátio. Desenho: [Giuseppe Strappa](http://www.giuseppestrappa.it/?p=1517)](https://i.pinimg.com/originals/15/5d/f6/155df6a9f3d932e6dc00fcada0f0e9a9.jpg){#fig:processo}

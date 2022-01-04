@@ -59,7 +59,7 @@ de tração em esforços de compressão. Isto é, em vez de fazermos uma
 abertura arquitravada onde uma verga trabalha à flexão para resistir ao
 carregamento da parede acima dela, o arco vai receber essa
 carga e distribuí-la para os lados, comprimindo os blocos sucessivos que
-fazem parte dele. [@fig:arcomp]
+fazem parte dele ([@fig:arcomp]).
 
 Arcos falsos: são paredes em alvenaria que se alargam criando pequenos
 balanços, mas mantendo-se como estruturas arquitravadas que trabalham à
@@ -95,7 +95,7 @@ Os blocos de alvenaria que constituem o
 arco são chamados de *aduelas*; a aduela central de um arco é a *chave*
 e os blocos assentados horizontalmente que sustentam as aduelas mais
 externas são as *impostas*. Os arcos tradicionais em geral precisam de
-contenções laterais que chamamos de *contrafortes*. [@fig:arco-defs]
+contenções laterais que chamamos de *contrafortes* ([@fig:arco-defs]).
 
 As aduelas são as peças mais importantes nos arcos, por possibilitarem
 sua divisão em partes menores, tornando-os ideais para grandes vãos. 
@@ -131,7 +131,7 @@ tamanho do vão e da estrutura não dependem diretamente do tamanho dos
 blocos que vão ser usados. Podemos construir estruturas arqueadas muito
 grandes, como a cúpula do Panteão em Roma com 43 metros de vão livre,
 usando só blocos de pedra que podem ser assentados à mão usando
-argamassa. [@fig:pantheon-wtv]
+argamassa ([@fig:pantheon-wtv]).
 
 As aduelas são as peças mais importantes nos arcos, por possibilitarem sua divisão em partes menores, tornando-os ideais para grandes vãos. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -153,7 +153,7 @@ Quando falamos de fundações, já vimos que a distribuição homogênea das
 cargas de um edifício é uma das preocupações centrais da construção
 tradicional. Isso nos leva a buscar toda uma série de correspondências
 entre dimensões, e em última análise favorece as composições com
-simetria bilateral ou mesmo central. [@fig:asklepios]
+simetria bilateral ou mesmo central ([@fig:asklepios]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8a/Forces_on_trabeated_structure.png" data-background-position="top"}
@@ -191,7 +191,7 @@ prática. Fazemos isso por três motivos.
 - Em terceiro lugar porque a estabilidade das estruturas no longuíssimo
   prazo da vida útil de construções tradicionais é diferente da
   estabilidade que pode ser calculada para o tempo de serviço
-  relativamente curto das construções modernas. [@fig:krier-1990]
+  relativamente curto das construções modernas ([@fig:krier-1990]).
 
 Apesar do maior consumo de materiais numa construção tradicional, essa é
 mais sustentável no sentido amplo do que uma construção industrializada.
@@ -231,14 +231,14 @@ uma busca pela geometria perfeita, passamos a olhar para as forças que
 agem sobre a estrutura. Esse conhecimento começou a ser desenvolvido na
 primeira metade do século [XVII]{.smallcaps} pelo famoso astrônomo
 italiano Galileu Galilei e, em seguida, pelo físico inglês Robert Hooke
-[@fig:galileo;@fig:greer-hooke] [@benvenuto:1991vaulted].
+([@fig:galileo;@fig:greer-hooke]) [@benvenuto:1991vaulted].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://www.tomshw.it/data/images/0/4/4/0/pisa-caduta-gravi-3370e148a5790ee7875f332f366097f34.jpg" data-background-position="bottom"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Você já deve ter ouvido falar do experimento de Galileu sobre a queda de
-objetos leves e pesados. [@fig:pisa] No começo do século
+objetos leves e pesados ([@fig:pisa]). No começo do século
 [XVII]{.smallcaps}, ainda não existia o conceito de "lei da gravidade".
 Essa "lei" só seria desenvolvida na segunda metade do século por
 Giovanni Borelli, Hooke e Isaac Newton.
@@ -260,14 +260,14 @@ mais preciso para avaliar o alcance da artilharia, ou seja, a trajetória
 das balas de canhão. Até então, acreditava-se que as balas seguiam uma
 trajetória retilínea até esgotar a sua energia cinética, e então caíam
 numa trajetória curva, como ilustrado nesse diagrama de Diego Ufano
-publicado em 1628. [@fig:ufano]
+publicado em 1628 ([@fig:ufano]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="http://www.imss.fi.it/ms72/IMAGE1/C116_V.jpg" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Galileu, porém, descobriu que a trajetória era curva do começo ao fim,
-como ele anotou nos seus cadernos. [@fig:galileo-c72f116]
+como ele anotou nos seus cadernos ([@fig:galileo-c72f116]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Galileu Galilei, manuscrito no [códice 72, fl. 116 v.º]](https://i.pinimg.com/originals/36/88/f3/3688f3d44daaa18437249d79b6a81388.png){#fig:galileo-c72f116}
@@ -282,7 +282,7 @@ como ele anotou nos seus cadernos. [@fig:galileo-c72f116]
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Galileu considerou que a curva balística se aproximava a uma parábola, e
-descreveu essa curva pelas suas tangentes. [@fig:galileo-c72f117]
+descreveu essa curva pelas suas tangentes ([@fig:galileo-c72f117]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/48/17_Robert_Hooke_Engineer.JPG" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
@@ -296,7 +296,7 @@ Mais adiante, Robert Hooke descobriu a curva do tiro de canhão é, na
 verdade, de uma catenária, ou seja, a curva descrita por uma corrente
 suspensa pelo seu próprio peso, como a que está representada nas mãos do
 próprio Hooke nessa pintura comemorativa por Rita Greer
-[@fig:greer-hooke].
+([@fig:greer-hooke]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/eb/Parabola_graphed_against_a_catenary_upside_down_view.png" data-background-size="contain"}
@@ -304,7 +304,7 @@ próprio Hooke nessa pintura comemorativa por Rita Greer
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A catenária é a função do cosseno de uma hipérbola, enquanto a parábola
 é o resultado de uma função do segundo grau ou função quadrática (aquela
-onde a gente usa Bhaskara). [@fig:para-cat]
+onde a gente usa Bhaskara) ([@fig:para-cat]).
 
 Ela é a forma ideal do arco, gerada a partir de uma curvatura que permite que o arco sustente seu próprio peso. Exemplo: Sagrada Família do Gaudí.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -322,7 +322,7 @@ ser invertidas, e a descrição de uma catenária podia ser usada para
 construir um arco simples, que só sustentasse o seu próprio peso
 [@benvenuto:1991vaulted, 328]. O arquiteto e astrônomo Christopher Wren,
 que era amigo de Hooke, usou essa descoberta no processo de projeto da
-cúpula da catedral de São Paulo, em Londres. [@fig:wren]
+cúpula da catedral de São Paulo, em Londres ([@fig:wren]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Croquis de Christopher Wren para a cúpula da catedral de São Paulo, Londres, c. 1705. [Museu Britânico](https://www.britishmuseum.org/collection/object/P_1881-0611-203)](https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_2/d85e5284_0a8d_44ad_8a15_a3bb0029345f/mid_00290173_001.jpg){#fig:wren}
@@ -335,7 +335,7 @@ cúpula da catedral de São Paulo, em Londres. [@fig:wren]
 Apesar dessa descoberta, a parábola de Galileu continua sendo útil,
 porque ela descreve a forma de uma corrente uniformemente carregada ---
 por exemplo, os cabos ou cordas que sustentam o tabuleiro de uma ponte
-suspensa, por exemplo as pontes tradicionais dos Andes. [@fig:qeswachaka]
+suspensa, por exemplo as pontes tradicionais dos Andes ([@fig:qeswachaka]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://images.adsttc.com/media/images/5255/a0e8/e8e4/4e67/bf00/06ee/slideshow/Planta-general-7-Model2.jpg?1381343447" data-background-size="contain"}
@@ -367,7 +367,7 @@ vai nos servir para analisar a forma teórica da maioria dos arcos. Além
 disso, mesmo as teorias mais avançadas do final do século
 [XVII]{.smallcaps} vão desconsiderar o atrito entre os blocos, e
 portanto resultar em equações isostáticas, como as do matemático francês
-Philippe de la Hire [@fig:hire] [@benvenuto:1991vaulted, 326].
+Philippe de la Hire ([@fig:hire]) [@benvenuto:1991vaulted, 326].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Philippe de La Hire, modelo de forças num arco, 1695](https://hcommons.org/app/uploads/sites/1002372/2021/08/hire-bub_gb_SroIwthzM8MC_0474.png){#fig:hire .line}
@@ -454,7 +454,7 @@ O estudo matemático das cargas à compressão pura mostrou que a catenária
 é a forma ideal de um arco que só sustenta o seu próprio peso. Esse é o
 caso de muitos arcos que geram o traçado de coberturas de edifícios, já
 que a catenária permite fazer uma estrutura mais leve, economizando
-material. [@fig:cat-adobe]
+material ([@fig:cat-adobe]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Arco em forma de catenária construído em adobe. Foto: [Max Corradi, 2012]](https://upload.wikimedia.org/wikipedia/commons/9/93/Catenaria_in_terra_cruda_a_più_corsi_di_conci.jpeg){#fig:cat-adobe}
@@ -508,7 +508,7 @@ Ruínas do *eyvan-i Medayin* (arco de Ctesifonte), Pérsia sassânida (atual Taq
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O arco catenário ou parabólico quase nunca é usado como uma abertura
 simples na parede. Ele é ideal como gerador de uma abóbada linear para
-cobrir um ambiente ou uma construção inteira. [@fig:kasra]
+cobrir um ambiente ou uma construção inteira ([@fig:kasra]).
 
 Sustentam cargas além do próprio peso, tendo a vantagem de quase não consumirem madeira, usando apenas adobe. Tornam-se ideais para regiões semiáridas e com pouco madeiramento, resultando em espaços amplos e elegantes.
 
@@ -555,7 +555,7 @@ O arco pleno é usado desde a Antiguidade como abertura em paredes ou
 muralhas, onde a parábola seria uma complicação desnecessária. A
 alvenaria é capaz de absorver os empuxos laterais gerados pelo arco
 semicircular, portanto a simplicidade da sua forma e execução representa
-uma vantagem. [@fig:perugia]
+uma vantagem ([@fig:perugia]).
 
 Como aberturas em paredes, tende-se a utilizar os arcos semicirculares, que são mais simples e fáceis de executar, além de serem mais adequados esteticamente. Os arcos plenos são a grande marca da construção monumental romana: “arcos do triunfo”.
 
@@ -581,7 +581,7 @@ A epítome do portal com arcos plenos é o arco do triunfo romano. Essas
 estruturas foram construídas para celebrar triunfos militares com uma
 entrada simbólica do exército romano na cidade debaixo de um arco. O
 arco provisório construído para o triunfo era, às vezes, reconstruído
-numa estrutura permanente para imortalizar o evento. [@fig:constantine]
+numa estrutura permanente para imortalizar o evento ([@fig:constantine]).
 Essa tradição romana fez com que as estruturas arqueadas passassem a ser
 associadas, na bacia do Mediterrâneo, com as ideias de monumentalidade e
 grandeza.
@@ -641,7 +641,7 @@ Período védico na Índia. Mapas: Avantiputra7, 2014
 Outra hipótese para a origem da construção arqueada está na arquitetura
 tradicional em madeira do noroeste da Índia durante os
 [II--I]{.smallcaps} milênios a.C. Nesse período, os arianos, um povo
-seminômade indo-europeu que dominava a metalurgia em ferro, [@fig:vedic]
+seminômade indo-europeu que dominava a metalurgia em ferro ([@fig:vedic]),
 migrou para a região e adotou um sistema construtivo feito de madeira
 serrada, diferente das construções em tijolo da cultura do vale do Rio
 Indo.
@@ -669,7 +669,7 @@ no começo do século [XX]{.smallcaps} [@brown:1959indiana].
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa tradição só é atestada pela mediação de salões de mosteiros
 budistas escavados na rocha no período Maurya, a partir do século
-[III]{.smallcaps} a.C. [@fig:maurya]
+[III]{.smallcaps} a.C ([@fig:maurya]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted}
@@ -677,7 +677,7 @@ budistas escavados na rocha no período Maurya, a partir do século
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nos mosteiros de Lomas Ṛṣi, Kārli e Bhājā, a articulação decorativa dos
 espaços parece remeter a uma tectônica (expressão estrutural) da
-construção em madeira. [@fig:brown-reconstruct]
+construção em madeira ([@fig:brown-reconstruct]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::: {#fig:brown-reconstruct .full}
@@ -708,7 +708,7 @@ A *kuṭikā* serve como módulo básico para construções maiores, como
 casas, templos e palácios. A própria palavra se refere à curvatura das
 coberturas feitas de madeira. Essa curvatura é uma das características
 mais evidentes nas representações em pedra, como a da caverna de Lomas
-Ṛṣi, no norte da Índia. [@fig:lomas-facade]
+Ṛṣi, no norte da Índia ([@fig:lomas-facade]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Portal da caverna ājīvika de Lomas Ṛṣi, Barabar, Bihar, século [III]{.smallcaps} a.C. Foto: [Anandajoti Bhikku, 2013]](https://live.staticflickr.com/3690/9227394172_10a21c24d9_k_d.jpg){#fig:lomas-facade}
@@ -725,7 +725,7 @@ mais evidentes nas representações em pedra, como a da caverna de Lomas
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A empena curva é o traçado gerador de grandes salões abobadados nos
-antigos palácios indianos. [@fig:kusinagar]
+antigos palácios indianos ([@fig:kusinagar]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png"}
@@ -733,7 +733,7 @@ antigos palácios indianos. [@fig:kusinagar]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As coberturas têm uma aresta na cumeada, para melhor drenar a água da
 chuva. Essa pode ser a origem do que chamamos de arco apontado ou
-ogival. [@fig:kusinagar-gate]
+ogival ([@fig:kusinagar-gate]).
 
 *Arco ogival*: não atinge a eficiência máxima de uma parábola, mas é suficientemente conveniente para ser usado, tendo a vantagem de gerar um empuxo muito pequeno, o que resulta em um contraforte mais estreito do que o oferecido pelos arcos plenos ou rebaixados (estes recebem um maior empuxo). Entretanto, demandam mais material na parte superior para desviar as cargas para a vertical. Exemplos: Panteão e Catedral de Santa Sofia, com suas cúpulas mais rebaixadas e elementos vazados que demandam paredes mais espessas (ainda que permitam a existência de nichos internos). 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -818,7 +818,7 @@ Foram inventadas pelos romanos e são formadas por grandes ladrilhos sustentados
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Arcos construídos lado a lado estabilizam uns aos outros, resistindo aos
-empuxos laterais. [@fig:marcello-pira] No entanto, isso não é o caso
+empuxos laterais ([@fig:marcello-pira]). No entanto, isso não é o caso
 para as abóbadas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

@@ -40,7 +40,7 @@ teoria da arquitetura.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Voltemos às teorias da cabana primitiva. Vitrúvio, Laugier e Semper
 tratavam a cobertura como um dos elementos centrais da construção. Para
-Laugier na metade do século [XVIII]{.smallcaps}, [@fig:laugier] a
+Laugier na metade do século [XVIII]{.smallcaps} ([@fig:laugier]), a
 resolução técnica da cobertura era a própria razão de ser da cabana
 primitiva e da sua importância na literatura arquitetônica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -54,7 +54,7 @@ Mesmo assim, a cobertura continuava a ser o primeiro e principal
 elemento tangível dessa arquitetura, à frente da delimitação física do
 espaço. A epítome dessa essência pretensamente "primitiva" era uma
 habitação contemporânea do povo karib, exibida na exposição universal de
-Londres em 1851. [@fig:karib]
+Londres em 1851 ([@fig:karib]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Cabana do povo karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line .align-right}
@@ -73,7 +73,7 @@ intuição que hoje sabemos ter sido correta, que os mais antigos abrigos
 teriam sido construídos em madeira. As estruturas de toras que ele
 descreveu no seu tratado se prestavam sobretudo à construção de terraços
 e coberturas inclinadas apoiadas em esteios, como ilustrado pelos
-intérpretes do Renascimento. [@fig:cosimo-vulcan]
+intérpretes do Renascimento ([@fig:cosimo-vulcan]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Soluções atemporais ## {data-visibility="hidden"}
@@ -83,7 +83,7 @@ intérpretes do Renascimento. [@fig:cosimo-vulcan]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As coberturas inclinadas são alguns dos sistemas construtivos
 tradicionais que se mantiveram com menos alterações na construção
-moderna. [@fig:frame] O princípio de uma superfície inclinada para
+moderna ([@fig:frame]). O princípio de uma superfície inclinada para
 drenar a água da chuva e a sua execução com vigas, tesouras e caibros é
 de uma eficiência e simplicidade insuperável para a maioria das
 construções.
@@ -100,9 +100,9 @@ Coberturas planas ou inclinadas são sistemas construtivos tradicionais, que per
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A função de uma cobertura é, à primeira vista, simples: ela precisa
 proteger o espaço debaixo dele contra o sol, a chuva e outras
-intempéries. [@fig:chuva] Para isso, uma das características mais
+intempéries ([@fig:chuva]). Para isso, uma das características mais
 importantes da cobertura é poder levar a água da chuva para longe das
-paredes e das fundações do edifício. [@fig:beiral]
+paredes e das fundações do edifício ([@fig:beiral]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-cabin-on-rainy-day-2738.mp4"}
@@ -132,7 +132,7 @@ Na sua forma mais simples, uma cobertura é a versão mais ou menos
 inclinada de um terraço plano. O terraço é feito de uma sequência de
 barrotes relativamente próximos uns dos outros, apoiados sobre os
 frechais das paredes e, eventualmente, também sobre vigas
-intermediárias. [@fig:catalhoyuk-build]
+intermediárias ([@fig:catalhoyuk-build]).
 
 A complexificação está na nomenclatura dos elementos, em que vigas e barrotes tornam-se terças e caibros na atualidade. As inclinações dos telhados mais comuns são feitas para mais de um lado, resultando em estruturas mais simétricas e espaços cobertos maiores. Podem ser em forma de cone (para plantas circulares) ou com duas ou quatro águas/planos (para plantas retangulares).
 
@@ -153,7 +153,7 @@ Exemplos mais complexos e refinados, como os da carpintaria tradicional japonesa
 A forma mais simples de cobertura inclinada sobre uma planta retangular
 consiste em fazer um frechal mais elevado de um lado, e rebaixado do
 lado oposto. Os barrotes ficam, então, inclinados, e nessa forma passam
-a ser chamados de *caibros*. [@fig:shed]
+a ser chamados de *caibros* ([@fig:shed]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/43/f9/9a/43f99ae9ce5679b28c914c4446a7e78a.png" data-background-position="top"}
@@ -165,7 +165,7 @@ a ser chamados de *caibros*. [@fig:shed]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Normalmente, é preciso fixar os caibros nos
 frechais com um nó, um encaixe ou por meio de conectores --- pinos,
-pregos ou parafusos. [@fig:rafter-join]
+pregos ou parafusos ([@fig:rafter-join]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-carpenter-sawing-a-piece-of-wood-close-up-27054-medium.mp4" data-background-video-muted="true" data-background-video-loop="true"}
@@ -182,7 +182,7 @@ pelas particularidades do sistema construtivo em geral.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A carpintaria japonesa, por exemplo, é famosa por ter desenvolvido
-encaixes rebuscados. [@fig:engel092-095] Esses encaixes respondem à
+encaixes rebuscados ([@fig:engel092-095]). Esses encaixes respondem à
 necessidade de obter um acabamento preciso mesmo usando essências
 mais macias do que as usadas na Europa ou na Ásia continental
 [@zwerger:2012wood].
@@ -223,7 +223,7 @@ antigas, pedem uma cobertura em forma de cone. Essa cobertura geralmente
 pede uma série de caibros amarrados entre si no topo e fixados aos
 frechais na outra extremidade. Essa era a configuração provável das
 cabanas do sítio neolítico de Banpö, na China, por volta de 5 mil anos
-atrás. [@fig:banpo-cut]
+atrás ([@fig:banpo-cut]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/1d/f8/08/1df808d1d44491ae22b8e0a652bb0337.png" data-background-position="top"}
@@ -231,7 +231,7 @@ atrás. [@fig:banpo-cut]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Cada parte da cobertura que drena para um lado diferente é chamada de
 *água*. A maioria das coberturas simples em construções retangulares
-isoladas tem duas ou quatro águas. [@fig:sienicki]
+isoladas tem duas ou quatro águas ([@fig:sienicki]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Construção arruinada na Europa central com cobertura de duas águas. Foto: [Tomasz Sienicki, 2009]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wooden_roof_structure,_132,_ubt.JPG/1024px-Wooden_roof_structure,_132,_ubt.JPG){#fig:sienicki}
@@ -284,7 +284,7 @@ geométricas simples. Não se trata apenas de um valor estético válido e inter
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/34/b3/1c/34b31c5701695e5c5c0354cf8457eb76.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Coberturas muito complexas [@fig:complicated] geram mais riscos de
+Coberturas muito complexas ([@fig:complicated]) geram mais riscos de
 infiltração, especialmente nos *rincões* --- os ângulos côncavos ou
 reentrantes onde se concentra o escoamento da água da chuva. O elemento
 recíproco ao rincão é o *espigão*, o ângulo convexo que serve como
@@ -300,7 +300,7 @@ divisor de águas.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Pelo contrário, onde a projeção de uma construção for uma forma geométrica
 predominantemente convexa, com poucos recortes e reentrâncias, a
-cobertura também vai adotar essa simplicidade geométrica. [@fig:ville] E quanto
+cobertura também vai adotar essa simplicidade geométrica ([@fig:ville]). E quanto
 mais uma cobertura tem uma geometria simples, menos ela está exposta a
 defeitos ou deteriorações que vão comprometer a sua durabilidade e o seu
 desempenho no longo prazo.
@@ -355,7 +355,7 @@ Nessas coberturas japonesas tradicionais, existem os espigões, que são element
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma mais simples de tesoura é formada por duas *pernas* diagonais
-atirantadas por uma *linha* horizontal. [@fig:boehm] Esse esquema forma
+atirantadas por uma *linha* horizontal ([@fig:boehm]). Esse esquema forma
 um triângulo, que é uma forma geométrica intrinsecamente rígida. Cada
 peça do sistema trabalha, em condições ideais, somente à tração ou à
 compressão puras. Isso faz com que a distribuição de cargas seja mais
@@ -400,7 +400,7 @@ tracionado verticalmente entre a cumeeira e o centro da linha.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A carpintaria estrutural no norte da Europa se desenvolve a partir do
-uso de tesouras cada vez maiores e mais complexas. [@fig:price-trusses]
+uso de tesouras cada vez maiores e mais complexas ([@fig:price-trusses]).
 Apesar dessa complexidade, o conhecimento técnico necessário para
 resolver e executar essas estruturas é um saber vernáculo e amplamente
 difundido. A partir do século [XVIII]{.smallcaps}, essa difusão vai se
@@ -421,7 +421,7 @@ Esquemas de tesouras segundo [Francis Price, 1735]
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O tipo de tesoura mais difundido desde a Roma antiga
-[@fig:price-trussesA] tem, além das pernas e da linha, um *pendural*
+([@fig:price-trussesA]) tem, além das pernas e da linha, um *pendural*
 tracionado verticalmente que permite estabilizar linhas muito longas. O
 pendural suspende a linha por meio de um estribo metálico. Duas *asnas*
 diagonais ajudam a absorver o esforço de flexão que pode ser imposto às
@@ -433,8 +433,8 @@ extremamente estável.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Outra solução possível para a tesoura envolve usar duas linhas com um
-esqueleto retangular entre elas. [@fig:price-trussesB] Esse sistema tem
-dois pontaletes que trabalham à compressão. [@fig:price-trussesB (b)] A
+esqueleto retangular entre elas ([@fig:price-trussesB]). Esse sistema tem
+dois pontaletes que trabalham à compressão ([@fig:price-trussesB (b).]) A
 linha inferior pode ser cortada entre os pontaletes, o que vai resultar
 em três tesouras independentes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -445,7 +445,7 @@ em três tesouras independentes.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para manter a unidade da tesoura, podemos acrescentar escoras diagonais
-nas duas quinas superiores do retângulo. [@fig:zwerger2012-401]
+nas duas quinas superiores do retângulo ([@fig:zwerger2012-401]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://gcdn.daz3d.com/p/17767/i/render5_1_4.jpg"}
@@ -453,7 +453,7 @@ nas duas quinas superiores do retângulo. [@fig:zwerger2012-401]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O uso de escoras permite abrir espaços amplos e desimpedidos debaixo das
 tesouras. Por isso, essa solução é uma das mais usadas em galpões e
-grandes salões, como os celeiros da Europa medieval. [@fig:coxwell]
+grandes salões, como os celeiros da Europa medieval ([@fig:coxwell]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Celeiro do dízimo, Great Coxwell, Inglaterra, século [XIII]{.smallcaps}. Modelo digital: [Daz Originals e SoulessEmpathy]](https://gcdn.daz3d.com/p/17767/i/render5_1_4.jpg){#fig:coxwell}
@@ -487,7 +487,7 @@ Essas tesouras grandes e complexas eram importantes por vários motivos.
 Além de permitirem um telhado muito inclinado, para não acumular neve, o
 peso da carpintaria ajudava a estabilizar as paredes e sobretudo as
 abóbadas das construções. Além disso, as tesouras serviam de apoio para
-guindastes durante a obra. [@fig:grue]
+guindastes durante a obra ([@fig:grue]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Reconstituição de um guindaste na carpintaria da catedral de Remígio. Desenho de [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg){#fig:grue}
@@ -501,7 +501,7 @@ guindastes durante a obra. [@fig:grue]
 ## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No norte da Europa, geralmente, esses sistemas de carpintaria se tornam o próprio traçado regulador do edifício como um todo, a exemplo das casas feitas em *enxaimel*, nas quais a superfície completa da parede transforma-se em uma grande treliça em madeira toda contraventada com elementos diagonais, criado no mundo germânico antigo. Uma característica marcante desses edifícios europeus é que a fachada costuma corresponder a uma “fatia” dessa carpintaria. [@fig:langhein2012-01-03] 
+No norte da Europa, geralmente, esses sistemas de carpintaria se tornam o próprio traçado regulador do edifício como um todo, a exemplo das casas feitas em *enxaimel*, nas quais a superfície completa da parede transforma-se em uma grande treliça em madeira toda contraventada com elementos diagonais, criado no mundo germânico antigo. Uma característica marcante desses edifícios europeus é que a fachada costuma corresponder a uma “fatia” dessa carpintaria ([@fig:langhein2012-01-03]). 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Malha proporcional triangular equilátera, exemplos da arquitetura vernácula alemã: casa rurais das regiões da Vestfália meridional, Francônia superior (Bavária) e casa urbana de Eppingen, Baden, 1471. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg){#fig:langhein2012-01-03 .full}
@@ -515,7 +515,7 @@ No norte da Europa, geralmente, esses sistemas de carpintaria se tornam o própr
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O estereótipo da arquitetura chinesa elaborado na Europa desde o século
 [XVIII]{.smallcaps} se concentra na aparência inconfundível da cobertura
-curva. [@fig:mixkit-asian]
+curva ([@fig:mixkit-asian]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://4.bp.blogspot.com/-udY_CN9QJ3E/WPjzuUZWQsI/AAAAAAAAR5A/Z6E9nw8h5tIT0KeetSWfoT6FXr0B_OGZgCLcB/s1600/sabara o3.JPG" data-background-size="contain"}
@@ -591,7 +591,7 @@ Li Jie, *Yingzao fashi*, originalmente publicado em 1093
 O sistema arquitetônico chinês foi descrito segundo o conceito europeu
 de linguagem formal [@summerson:1997linguagem] no século
 [XX]{.smallcaps}  pelo casal formado pelo arquiteto Liang Sicheng e pela
-escritora Lin Huiyin [@fig:liang-lin] --- tia da arquiteta Maya Lin
+escritora Lin Huiyin ([@fig:liang-lin]) --- tia da arquiteta Maya Lin
 [@liang:1984pictorial].
 
 Esses sistema começa a ser estudos no ocidente por esses dois chineses que estudaram nos Estados Unidos, trazendo sua compreensão para esta região. Estudam os sistemas de mãos sobrepostas (mísulas), apresentando uma espécie de “evolução” destes em diferentes épocas. Não são perceptíveis ao olhar-se para as fachadas, por estarem escondidos sob os telhados, que são simples (de quatro águas) e com beirais amplos, para proteção contra a grande quantidade de chuvas da região. Essa razão também justifica a curvatura dos telhados, que buscam jogar a água para mais longe da base do edifício. A estrutura é formada, então, por uma sobreposição de vigas apoiadas sobre mísulas (para diminuir os vãos) e praticamente sem tesouras, devido a sua baixa eficiência em razão das madeiras muito macias. Há um maior consumo de madeiras, que são, entretanto, oriundas de árvores mais jovens e com possibilidade de renovação mais rápida.
@@ -614,7 +614,7 @@ Esses sistema começa a ser estudos no ocidente por esses dois chineses que estu
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A linguagem descrita por Lin e Liang [@liang:1984pictorial] é baseada no
 método Beaux-Arts ocidental do início do século [XX]{.smallcaps} e dá
-muita ênfase à elevação (fachada) do edifício. [@fig:shanhua]
+muita ênfase à elevação (fachada) do edifício ([@fig:shanhua]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/2f/bd/fd/2fbdfd63849f527472ef4dadec10df67.jpg"}
