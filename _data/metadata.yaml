@@ -1,4 +1,3 @@
-bibliography: "_bibliography/references.bib"
 crossrefYaml: "_data/crossref.yaml"
 lang: pt-BR
 link-citations: true

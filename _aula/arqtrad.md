@@ -257,7 +257,7 @@ geral.
 indecisão. O professor da [FAU--UFRJ]{.smallcaps} Gustavo Rocha Peixoto
 (@fig:gustavo) defende que os cursos de "cultura geral" se guiem pelo
 que ele chama de "ensino meta-histórico" [@rochapeixoto:2013estrategia;
-ver também -@rochapeixoto:2015estrategia]. Resumindo (e provavelmente
+ver também -@rocha:2015estrategia]. Resumindo (e provavelmente
 mutilando terrivelmente) a tese do professor (por sinal, assistam ao
 vídeo da palestra dele que está no link), Rocha Peixoto defende um
 ensino de História que desenvolva ao mesmo tempo o espírito da *crítica*
@@ -1534,7 +1534,7 @@ diferença estar no rigor geométrico e decorativo das construções.
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/9e/28/15/9e28156e5be6433b42aa14c5e2fe3d32.jpg" data-background-transition="slide-in fade-out"}
 
-![Lucio Costa no seu escritório na antiga sede do Iphan, palácio Capanema](https://i.pinimg.com/originals/9e/28/15/9e28156e5be6433b42aa14c5e2fe3d32.jpg){.marginnote #fig:lucio}
+![Lucio Costa no seu escritório na antiga sede do Iphan, palácio Capanema](https://i.pinimg.com/originals/9e/28/15/9e28156e5be6433b42aa14c5e2fe3d32.jpg){.align-right #fig:lucio}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em muitos casos, a definição de arquitetura tem duas partes:
@@ -1552,7 +1552,7 @@ construção", como dizia Lucio Costa: [@fig:lucio]
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/60/e5/ed/60e5ed79dce981fb36997ebab15d55d2.jpg" data-background-transition="slide-in fade-out"}
 
-![Le Corbusier com uma maquete da Unidade de Habitação, década de 1950](https://i.pinimg.com/originals/60/e5/ed/60e5ed79dce981fb36997ebab15d55d2.jpg){.marginnote #fig:corb}
+![Le Corbusier com uma maquete da Unidade de Habitação, década de 1950](https://i.pinimg.com/originals/60/e5/ed/60e5ed79dce981fb36997ebab15d55d2.jpg){.align-right #fig:corb}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A definição de Lucio Costa é calcada num texto de um dos maiores
@@ -1612,7 +1612,7 @@ outros, esse critério de distinção.
 
 <!--_,-->
 
-![Johann Heinrich Wilhelm Tischbein, [Goethe na campanha romana, 1787](https://commons.wikimedia.org/wiki/File:Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg/1280px-Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg){.marginnote #fig:goethe}
+![Johann Heinrich Wilhelm Tischbein, [Goethe na campanha romana, 1787](https://commons.wikimedia.org/wiki/File:Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg/1280px-Johann_Heinrich_Wilhelm_Tischbein_-_Goethe_in_the_Roman_Campagna_-_Google_Art_Project.jpg){.align-right #fig:goethe}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Uma alternativa]{.newthought} a esse juízo de gosto mal disfarçado é

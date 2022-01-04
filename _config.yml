@@ -215,6 +215,7 @@ kramdown:
 pandoc:
   extensions:
     - defaults: "_spec/html.yaml"
+    - bibliography: "_data/biblio.yaml"
     - csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-note-bibliography-with-ibid.csl"
     - section-divs
     #- toc
