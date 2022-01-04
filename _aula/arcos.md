@@ -3,7 +3,7 @@ title: "Construção arqueada"
 subtitle: "Elementos da construção"
 item: "IV"
 author: "Pedro P. Palazzo"
-date: 2021-08-17
+date: 2022-02-22
 toc:
   - Geometria e forças
   - Estruturas lineares

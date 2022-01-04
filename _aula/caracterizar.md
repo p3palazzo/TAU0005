@@ -3,7 +3,7 @@ title   : "Caracterizar"
 subtitle: "Fazer arquitetura"
 item    : "IV"
 author  : "Pedro P. Palazzo"
-date    : 2021-10-26
+date    : 2022-04-26
 toc:
   - Estilo, construção e cultura
   - Querela do ornamento
@@ -331,3 +331,4 @@ também ganha eficiência e previsibilidade [@toker:1985gothic67].
 # Espacialidade na pintura gótica #
 
 # Bibliografia {.allowframebreaks}
+

@@ -3,7 +3,7 @@ title   : "Taipas e fundações"
 subtitle: "Elementos da construção"
 item    : "I"
 author  : "Pedro P. Palazzo"
-date    : 2021-08-03
+date    : 2022-02-01
 toc:
   - Materiais da construção tradicional
   - Construções semienterradas
