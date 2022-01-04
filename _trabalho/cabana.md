@@ -2,7 +2,7 @@
 title: "Estudo analítico: a cabana primitiva"
 subtitle: "Arquitetura tradicional"
 item: "Atvidade de nivelamento"
-date: 2021-08-05
+date: 2022-02-03
 nocite: >
   @ching:2017representacao,
   @harbeson:1927study,

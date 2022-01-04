@@ -3,7 +3,7 @@ title: "Processos da arquitetura"
 subtitle: "Arquitetura tradicional"
 item: "I"
 author: "Pedro P. Palazzo"
-date: 2021-07-20
+date: 2022-01-28
 toc:
   - Ordem e lugar
   - Proporção e escala

@@ -3,7 +3,7 @@ title   : "Tipos edilícios"
 subtitle: "Elementos de composição"
 item    : "II"
 author  : "Pedro P. Palazzo"
-date    : 2021-09-14
+date    : 2022-03-15
 toc:
   - "Cultura doméstica no Mediterâneo"
   - "Sete tipos edilícios"

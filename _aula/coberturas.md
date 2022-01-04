@@ -3,7 +3,7 @@ title   : "Coberturas e superfícies"
 subtitle: "Elementos da construção"
 item    : "V"
 author  : "Pedro P. Palazzo"
-date    : 2021-08-31
+date    : 2022-02-24
 toc:
   - Função e estrutura das coberturas
   - Formas básicas de carpintaria

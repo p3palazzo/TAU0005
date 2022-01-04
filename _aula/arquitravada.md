@@ -3,7 +3,7 @@ title   : "Construção arquitravada"
 subtitle: "Elementos da construção"
 item    : "II"
 author  : "Pedro P. Palazzo"
-date    : 2021-08-10
+date    : 2022-02-15
 toc:
   - Tendas e cabanas
   - Colunas e vigas

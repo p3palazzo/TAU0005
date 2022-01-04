@@ -2,7 +2,7 @@
 title   : "Analítico com ordens clássicas"
 subtitle: "Fazer arquitetura"
 item: "Atividade III"
-date: 2021-11-02
+date: 2022-04-28
 ---
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph

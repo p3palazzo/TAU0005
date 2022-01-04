@@ -3,7 +3,7 @@ title   : "Articular"
 subtitle: "Fazer arquitetura"
 item    : "III"
 author  : Pedro P. Palazzo
-date    : 2021-10-19
+date    : 2022-04-12
 toc:
   - Ordens clássicas
   - Outras ordens

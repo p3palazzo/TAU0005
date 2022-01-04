@@ -3,7 +3,7 @@ title: "Edículas vernáculas"
 subtitle: "Elementos da construção"
 item: "Atividade I"
 author: "Pedro P. Palazzo"
-date: 2021-09-07
+date: 2022-03-03
 nocite: |
   @camp:1984ancient,
   @choisy:1873art2,
