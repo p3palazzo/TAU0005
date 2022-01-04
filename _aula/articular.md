@@ -138,7 +138,7 @@ estudo e a pesquisa da arquitetura no Ocidente.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nessa época, vários jovens chineses estavam se formando em universidades
 dos Estados Unidos. Entre eles estava o casal formado pela escritora Lin
-Huiyin e pelo arquiteto Liang Sicheng. [@fig:liang-lin]
+Huiyin e pelo arquiteto Liang Sicheng ([@fig:liang-lin]).
 O aprendizado Beaux-Arts de Liang forneceu o método realizar o primeiro
 levantamento sistemático da arquitetura tradicional na China.
 [@fig:liang-01]
@@ -191,13 +191,13 @@ Harbeson.
 No caso da China, as *gramáticas normativas* são dois tratados
 compilados para ajudar os administradores do estado a medir e controlar
 obras públicas. O primeiro é o *Yingzao fashi*, que foi compilado por Li
-Jie entre 1090 e 1103. [@fig:liang-07] Ele representa as práticas da
-arquitetura erudita durante a dinastia Song, [@fig:song] que era
+Jie entre 1090 e 1103 ([@fig:liang-07]). Ele representa as práticas da
+arquitetura erudita durante a dinastia Song ([@fig:song]), que era
 considerada pelos próprios chineses
 como o apogeu e a síntese do desenvolvimento histórico das artes na
 China. O segundo é o *Gongcheng zofa*, uma revisão e atualização do
 tratado anterior levando em conta algumas mudanças estruturais e
-suntuárias. [@fig:liang-08] Ele fazia parte da última grande
+suntuárias ([@fig:liang-08]). Ele fazia parte da última grande
 recompilação oficial do pensamento político, filosófico e histórico da
 China, feita na segunda metade do século [XVIII]{.smallcaps}. Por isso,
 ele foi considerado um exemplo do
@@ -221,8 +221,8 @@ Pranchas desenhadas por Liang em 1943 e publicadas em 1984
 !["Ordem" chinesa. Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png){#fig:liang-order .nobg .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Foi assim que Liang e Lin chegaram ao esquema de uma "ordem chinesa".
-[@fig:liang-order] Essa expressão operava duas mudanças conceituais
+Foi assim que Liang e Lin chegaram ao esquema de uma "ordem chinesa"
+([@fig:liang-order]). Essa expressão operava duas mudanças conceituais
 importantes: uma no olhar chinês para o seu próprio patrimônio
 arqueológico, e outra no olhar ocidental para a arquitetura chinesa. Do
 ponto de vista chinês, Liang e Ling pertenceram a uma geração de
@@ -232,7 +232,7 @@ contraste com a tradição acadêmica chinesa de se concentrar na
 interpretação dos textos clássicos produzidos ou coletados na corte. Lin
 e Liang documentaram muitos sítios que tinham sido esquecidos ou
 desprezados até então, como o mosteiro budista Fóguāngsǐ, que contém a
-construção em madeira mais antiga conservada na China. [@fig:liang-24a]
+construção em madeira mais antiga conservada na China ([@fig:liang-24a]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/af/2f/3a/af2f3afb73a19be7ddc0eb75e5f6c9c0.jpg"}
@@ -246,8 +246,8 @@ construção em madeira mais antiga conservada na China. [@fig:liang-24a]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse estudo minucioso permitiu ir além da interpretação dos tratados e
 confrontar as edificações construídas na sua diversidade. Com isso,
-Liang e Lin estabeleceram um esquema de "evolução" da ordem chinesa.
-[@fig:liang-32] Isso colocava a tradição arquitetônica da China no
+Liang e Lin estabeleceram um esquema de "evolução" da ordem chinesa
+([@fig:liang-32]). Isso colocava a tradição arquitetônica da China no
 mesmo patamar de historicidade da arquitetura europeia esquematizada na
 "árvore" de Fletcher.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -360,7 +360,7 @@ construir os edifícios de culto do cristianismo.
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A basílica antiga é uma forma do tipo da *taberna* [@fig:7types], que
+A basílica antiga é uma forma do tipo da *taberna* ([@fig:7types]), que
 representa o propósito social de suster a comunidade por meio da
 atividade econômica [@westfall:1991building]: ela abriga, por exemplo,
 mercados, lojas permanentes e oficinas, mas também pode ser usada para
@@ -471,7 +471,7 @@ construídas no reino dos visigodos, nos séculos [VI]{.smallcaps} e
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A igreja visigótica de Santa Comba de Bande é um exemplo dessas pequenas
-basílicas com naves muito estreitas. [@fig:comba-plan]
+basílicas com naves muito estreitas ([@fig:comba-plan]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/bd/Valdediós_(revisitado)_(12566036363).jpg"}
@@ -504,7 +504,7 @@ basílicas com naves muito estreitas. [@fig:comba-plan]
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Característico perfil das igrejas basilicais com naves laterais mais
-baixas e coberturas em meia-água. [@fig:cuxa-ext]
+baixas e coberturas em meia-água ([@fig:cuxa-ext]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/0e/Codalet_(66)_Abbaye_Saint-Michel_de_Cuxa_Église_10.JPG"}

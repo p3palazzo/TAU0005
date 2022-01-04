@@ -199,7 +199,7 @@ familiar e social nas regiões banto. A partir dele, podem ser formadas
 redes extensas de relações políticas que controlam territórios mais
 vastos, como era o caso do reino Zulu no século [XIX]{.smallcaps}. A sua
 capital, Dingane, chegou a ter 7000 habitantes com um cercado vasto
-[@fig:dingane]. Esse espaço interior continha uma praça de armas vasta
+([@fig:dingane]). Esse espaço interior continha uma praça de armas vasta
 (ikhanda) além dos currais de gado.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 

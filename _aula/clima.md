@@ -41,7 +41,7 @@ têm sobre a arquitetura:
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Primeiro, o impacto ambiental que decorre do transporte de longa
-  distância; [@fig:trade]
+  distância ([@fig:trade]);
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-video="https://cdn.palazzo.arq.br/utilitas/clima/mixkit-skyscapers-roads-and-the-suburbs-in-dubai-28603-medium.mp4" data-background-video-muted="true" data-background-video-loop="true"}
@@ -49,7 +49,7 @@ têm sobre a arquitetura:
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Segundo, o impacto socioeconômico de abrir mão do domínio local sobre
   as tecnologias da construção em favor de uma cadeia produtiva
-  dependente de flutuações financeiras. [@fig:dubai]
+  dependente de flutuações financeiras ([@fig:dubai]).
 
 No cenário econômico e ecológico da
 atualidade, escolher os processos produtivos da arquitetura tradicional
@@ -68,7 +68,7 @@ acaba sendo um ato de responsabilidade ambiental e social.
 Redes comerciais de longa distância existem desde a idade da pedra,
 sobretudo para obter matérias-primas de importância estratégica como
 metais ou ainda para trocar produtos manufaturados de luxo, como diz o
-próprio nome da famosa Rota da Seda. [@fig:med-trade] Ainda assim, no
+próprio nome da famosa Rota da Seda ([@fig:med-trade]). Ainda assim, no
 que diz respeito aos insumos da vida cotiana, o abastecimento das
 sociedades tradicionais é predominantemente local.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -104,7 +104,7 @@ nos sistemas construtivos mas também na agricultura e na pecuária talvez
 tenham a ver com o desmatamento das encostas montanhosas que formam o
 perímetro exterior do Crescente fértil. Reflorestar, mas também extrair
 e processar minérios com prudência, têm que ser preocupações centrais no
-processo produtivo. [@fig:karpat]
+processo produtivo ([@fig:karpat]).
 
 Em quase todas as cadeias da construção, existe um certo distanciamento
 entre, de um lado, a extração e o processamento dos materiais e, do
@@ -168,7 +168,7 @@ também o modo mais eficiente de conseguir um bom isolamento térmico.
 A aldeia neolítica de Skara Brae, no mar do Norte, é um exemplo de
 adaptação a um clima frio e úmido, com muito vento. O conjunto parece
 uma aldeia de *hobbits*, com casas que parecem ter sido escavadas dentro
-da encosta da ilha. [@fig:skb-scan]
+da encosta da ilha ([@fig:skb-scan]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Planta da aldeia neolítica de Skara Brae, ilhas Órcades, Escócia, 3100--2800 a.C. Desenho adaptado de V. Gordon Childe, 1930](https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg){#fig:skb-plan}
@@ -213,7 +213,7 @@ pelo fogo sempre aceso na lareira central.
 O interior das casas era bastante escuro já que não havia janelas, só a
 abertura da chaminé no teto. Essa configuração deixa claro que as
 prioridades da arquitetura de Skara Brae eram o isolamento térmico e a
-proteção contra o vento. [@fig:skb-dark]
+proteção contra o vento ([@fig:skb-dark]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Reconstituição da câmara de uma casa em Skara Brae com a sua cobertura. Foto: [Orkneyology]](https://i.pinimg.com/originals/b2/3d/a4/b23da416cd5201b79654a6fd78a0f280.jpg){#fig:skb-dark}
@@ -228,7 +228,7 @@ proteção contra o vento. [@fig:skb-dark]
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O universo geográfico e cultural chinês fica no cruzamento entre dois
-reinos biogeográficos. [@fig:wallace]
+reinos biogeográficos ([@fig:wallace]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://commons.wikimedia.org/wiki/File:China_Köppen.svg"}
@@ -250,7 +250,7 @@ recursos naturais, e consequentemente a modos de vida muito variados.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O mundo influenciado pela cultura chinesa se estendia, no seu auge
-durante o século [VII]{.smallcaps} d.C., [@fig:tang-influence] do
+durante o século [VII]{.smallcaps} d.C. ([@fig:tang-influence]), do
 Turquestão ao Japão e da Manchúria à Indochina.
 [@liang:1984pictorial, 21]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -274,7 +274,7 @@ Salão comunal semienterrado em Banpö, oeste da China, c. 4500 a.C. Desenho: Fr
 
 No Japão, as casas semienterradas aparecem desde o final do Paleolítico
 [@kawashima:2011burial38], e são cobertas com uma estrutura em madeira
-revestida com casca de árvore. [@fig:jomon-diagram; @fig:jomon-detail]
+revestida com casca de árvore ([@fig:jomon-diagram; @fig:jomon-detail]).
 Esse tipo continua dominante na habitação rural japonesa, com alguns
 aprimoramentos, até o século [XVI]{.smallcaps} d.C.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -362,8 +362,8 @@ com *prostas*, ou pórtico na frente de uma sala separada
 [@graham:1966origins20]. No tipo de casa com *pastas*, a sala principal
 no térreo abria diretamente para o pátio, e ela tinha uma ou duas
 células laterais sem abertura direta para fora, além de uma série de
-células funcionais atrás do *pastas*, incluindo a cozinha.
-[@fig:olynthus-a-vii-4] Em casas mais ricas, o *pastas* podia dar uma
+células funcionais atrás do *pastas*, incluindo a cozinha
+([@fig:olynthus-a-vii-4]). Em casas mais ricas, o *pastas* podia dar uma
 volta inteira no pátio e formar um peristilo.
 
 Perto da entrada da casa ficava uma sala de jantar social ou masculina,
@@ -377,7 +377,7 @@ Já o tipo com *prostas* tinha um pórtico entre o pátio e a sala
 principal, chamada de *oikos*. Nesse caso também, o pórtico se abria
 sempre que possível para o sul. Essa composição se aproxima do tipo da
 *régia*, com um *mégarōn* atrás de um pátio. Ela se encontra nas casas
-na cidade de Priene [@fig:priene-casas; @fig:priene-cg] e de outras
+na cidade de Priene ([@fig:priene-casas; @fig:priene-cg]) e de outras
 cidades gregas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -397,8 +397,8 @@ planejadas indica que se valorizavam a equidade na distribuição da
 propriedade e uma relativa homogeneidade, ou *isonomia* em grego, no
 modo de vida dos cidadãos. Além disso, as casas seguiam, sempre que
 possível, a mesma orientação solar: a ala principal da casa se abria
-para o sul, sobre o pátio. [@fig:olynthus-cutaway] A galeria coberta no
-primeiro andar [@fig:olynthus-brunner] protegia os ambientes do sol a
+para o sul, sobre o pátio ([@fig:olynthus-cutaway]). A galeria coberta no
+primeiro andar ([@fig:olynthus-brunner]) protegia os ambientes do sol a
 pino no verão, mas deixava entrar o sol de inverno, mais baixo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -413,7 +413,7 @@ pino no verão, mas deixava entrar o sol de inverno, mais baixo.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por outro lado, a orientação solar idêntica obrigava a mudar o
 posicionamento da entrada das casas segundo a posição da rua com
-respeito ao lote. [@fig:many-colors]
+respeito ao lote ([@fig:many-colors]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2a/Schematic_plan_of_a_Pompeian_house_in_Mau_fig115.png" data-background-size="contain"}
@@ -426,15 +426,15 @@ respeito ao lote. [@fig:many-colors]
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A importância dessa axialidade fica mais evidente em casas da elite,
-implantadas em lotes maiores, como a casa de Salústio. [@fig:mau134] A
+implantadas em lotes maiores, como a casa de Salústio ([@fig:mau134]). A
 composição principal dessa casa ignora as divisas do lote e forma um
 conjunto quase perfeitamente simétrico tanto na fachada quanto na
-planta. Em contraste, os anexos, como as lojas, [@fig:mau134, n.º 4--9]
+planta. Em contraste, os anexos, como as lojas ([@fig:mau134, n.º 4--9]),
 e os espaços privativos da família, como os jardins com peristilo e o
-átrio secundário, [@fig:mau134, n.º 31--35] se acomodam no espaço
+átrio secundário ([@fig:mau134, n.º 31--35]), se acomodam no espaço
 residual entre a composição axial e as divisas irregulares do lote. A
 vista é desimpedida desde a entrada principal da casa até o *tablinum*,
-a sala onde o chefe da família recebia os seus clientes. [@fig:pansa]
+a sala onde o chefe da família recebia os seus clientes ([@fig:pansa]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {.unlisted data-background-image="https://i.pinimg.com/originals/0c/c6/3e/0cc63e51be87b309970ed2ce18799bcf.gif" data-background-size="contain"}
@@ -446,8 +446,8 @@ a sala onde o chefe da família recebia os seus clientes. [@fig:pansa]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O átrio da casa romana é sempre cercado por beirais amplos, geralmente
 sustentados por duas vigas principais que vencem o vão estrutural mais
-curto e sustentam outras duas vigas secundárias. [@fig:mau117] Esse
-sistema deixa o pátio totalmente livre de colunas. [@fig:mau136]
+curto e sustentam outras duas vigas secundárias ([@fig:mau117]). Esse
+sistema deixa o pátio totalmente livre de colunas ([@fig:mau136]).
 
 Com um clima mais estável e menos seco que na Grécia, não há tanta preocupação com a orientação do edifício, que, quase sempre, tem um pátio ou átrio central e apresenta o acesso axial direto para a rua. Nas versões mais ricas e luxuosas, pois os romanos são mais tolerantes com disparidades sociais, existem jardins com colunatas (chamados de peristilos). Suas ampliações ocorrem por meio da duplicação dos elementos padrão de um mesmo esquema de forma muito pragmática e diferente das construções monumentais e dos tipos edilícios de base, contando apenas com mais ambientes que não são necessariamente maiores. Com isso, nota-se a segregação social e relações com fortes hierarquias sociais, por exemplo, no caso das salas de jantar separadas para os visitantes mais ricos e próximos. Apresentam vãos livres entre 5 e 10 m, que variam conforme poderio aquisitivo das famílias. Já o paisagismo romano é funcional e ornamental simultaneamente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -470,11 +470,11 @@ Com um clima mais estável e menos seco que na Grécia, não há tanta preocupa�
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os beirais do átrio oferecem uma circulação ao abrigo do sol e da chuva.
-Eles também canalizam a água para uma cisterna central, debaixo do piso.
-[@fig:cistern] Deixar a água parada na cisterna ajudava a decantar as
+Eles também canalizam a água para uma cisterna central, debaixo do piso
+([@fig:cistern]). Deixar a água parada na cisterna ajudava a decantar as
 impurezas, mesmo quando o abastecimento vinha de um aqueduto e não da
 coleta da água de chuva. Outra canalização desaguava o excesso da
-cisterna sobre a rua. [@fig:aregenua]
+cisterna sobre a rua ([@fig:aregenua]).
 
 Cisterna romana: a água é recolhida em um espelho d’água, que a refresca no verão, decantando as impurezas e caindo em um poço na qual é armazenada, sendo recolhida para uso posterior por baldes de forma manual. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -492,7 +492,7 @@ onde se podiam arrebanhar os animais da família durante a noite. Um dos
 lados desse cercado tinha um pórtico aberto para o terreiro, sem
 divisórias internas. O modelo paradigmático desse tipo é a descrição que
 foi transmitida através das gerações da casa do profeta Maomé em Medina,
-no início do século [VII]{.smallcaps} d.C.. [@fig:leacroft1976-2]
+no início do século [VII]{.smallcaps} d.C. ([@fig:leacroft1976-2]).
 
 Não apresenta um tipo único de casa-pátio, mas variações conforme as diversas zonas climáticas abrangidas. 
 
@@ -605,8 +605,8 @@ verdadeira.
 ![Percy Brown (1872--1955) com o artista caxemirí D.N. Walli](https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg){#fig:brown-walli .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Essa era a opinião do historiador da arte anglo-indiano Percy Brown,
-[@fig:brown-walli] um dos pioneiros no estudo das origens da arquitetura
+Essa era a opinião do historiador da arte anglo-indiano Percy Brown
+([@fig:brown-walli]), um dos pioneiros no estudo das origens da arquitetura
 monumental na Índia. Para Brown:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -630,7 +630,7 @@ monumental na Índia. Para Brown:
 Os pesquisadores indianos tratam do tema da espiritualidade na
 arquitetura de modos variados, mas sempre diferentes do exotismo
 ocidental. O historiador da arte cingalês [Ananda
-Coomaraswamy](https://pt.wikipedia.org/wiki/Ananda_Coomaraswamy) [@fig:coomaraswamy] foi um
+Coomaraswamy](https://pt.wikipedia.org/wiki/Ananda_Coomaraswamy) ([@fig:coomaraswamy]) foi um
 dos pioneiros da revisão da arquitetura indiana segundo um viés que não
 se fazia subserviente aos esquemas interpretativos europeus. Na verdade,
 Coomaraswamy defendia que os conceitos tradicionais de arte na Índia e
@@ -669,10 +669,10 @@ do norte da Índia e da Pérsia antiga).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A interpretação da arquitetura na Índia antiga segundo Coomaraswamy
-postula a continuidade entre a civilização urbana do vale do rio Indo,
-[@fig:indus-mature] na Idade do Bronze, e a cultura védica de tradição
-oral que introduziu a Idade do Ferro no subcontinente.
-[@fig:early-vedic; @fig:late-vedic] Essa pretensa continuidade tem
+postula a continuidade entre a civilização urbana do vale do rio Indo
+([@fig:indus-mature]), na Idade do Bronze, e a cultura védica de tradição
+oral que introduziu a Idade do Ferro no subcontinente
+([@fig:early-vedic; @fig:late-vedic]). Essa pretensa continuidade tem
 sido um ponto de discórdia na historiografia da Índia: por um lado, os
 críticos dessa teoria argumentam que ela é um pretexto pseudo-científico
 para o supremacismo hindu; por outro, a evidência arqueológica cada vez
@@ -691,8 +691,8 @@ iogue. Coomaraswamy chegou a identificar essa figura com o deus
 hinduísta Shiva, mas essa identidade não é amplamente reconhecida. Um
 argumento mais convincente é a continuidade da cultura urbana no norte
 da Índia entre o declínio das cidades do vale do rio Indo, por volta de
-1300 a.C. [@fig:indus-mature], e a ascensão das cidades na planície
-ocidental dos rios Ganges e Yamuna, [@fig:pgw] que correspondem ao
+1300 a.C ([@fig:indus-mature])., e a ascensão das cidades na planície
+ocidental dos rios Ganges e Yamuna ([@fig:pgw]), que correspondem ao
 período e à região das sociedades védicas antigas
 [@kenoyer:1995interaction].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -717,11 +717,11 @@ período e à região das sociedades védicas antigas
 
 Duas estátuas muito pequenas, escavadas em Mohenjo-Dāro, acabaram se
 tornando o fulcro do debate sobre a unidade da cultura indiana. Uma
-delas [@fig:dravidian-dancer] é em bronze não polido, portanto negra, e
+delas ([@fig:dravidian-dancer]) é em bronze não polido, portanto negra, e
 representa uma mulher com lábios grossos, cabelo encaracolado e nariz
 achatado --- traços físicos dominantes hoje em dia entre os povos do sul
 da Índia. Por causa disso, ela foi apelidada de "dançarina dravídica". A
-outra [@fig:aryan-priest] é em pedra-sabão branca e representa um homem
+outra ([@fig:aryan-priest]) é em pedra-sabão branca e representa um homem
 bom barba lisa e nariz aquilino --- feições mais características do
 noroeste do subcontinente Indiano. Esta recebeu a alcunha de "sacerdote
 ariano".
@@ -736,7 +736,7 @@ cultural entre a cultura da Idade do Bronze no vale do rio Indo [^1]e a
 cultura da Idade do Ferro na planície do rio Ganges, dominada pelos
 indo-arianos. Essa miscigenação é muito mais antiga do que se acreditava
 antigamente, e pode ter começado com as primeiras migrações indo-arianas
-por volta de 1800 a.C.. [@fig:migrations]
+por volta de 1800 a.C. ([@fig:migrations]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Migrações na Eurásia da Idade do Bronze Média, c. 1750--1250 a.C. No centro, migração de povos indo-arianos ("Rigvédicos") da Ásia central para o noroeste da Índia. Mapa: [Carlos Quiles, 2021](https://indo-european.eu/maps/middle-bronze-age/)](https://i.pinimg.com/originals/6b/1d/1e/6b1d1e4f03a4e191993052ff3f3e19d6.jpg){#fig:migrations .full}
@@ -843,7 +843,7 @@ asiático entre os séculos [IX]{.smallcaps} e
 [XIV]{.smallcaps} se deve em parte a um período de aquecimento global.
 Esse período de aquecimento deslocou as redes comerciais da Ásia da rota
 terrestre da Seda, que passava pelos desertos da Ásia central, para os
-percursos marítimos do oceano Índico. [@fig:austro-trade] Além disso,
+percursos marítimos do oceano Índico ([@fig:austro-trade]). Além disso,
 esse período está associado à queda da dinastia Tang na China, que
 dependia do comércio na rota da Seda e do abastecimento em
 matérias-primas da Ásia central.
@@ -859,12 +859,12 @@ matérias-primas da Ásia central.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse processo permitiu a ascensão da dinastia Chola no sul da Índia como
-a primeira potência marítima e mercante da região. [@fig:asia-12]
+a primeira potência marítima e mercante da região ([@fig:asia-12]).
 Enquanto isso, na China, a dinastia Song se abria para o sul, para
 controlar o abastecimento em dois insumos que estavam se tornando
 essenciais para a subsistência e o modo de vida dos chineses: o chá e o
-arroz. A chamada "antiga rota do chá" ou "rota do chá e dos cavalos"
-[@fig:tea-horse] dava acesso às plantações do sudoeste da China e do
+arroz. A chamada "antiga rota do chá" ou "rota do chá e dos cavalos
+([@fig:tea-horse])" dava acesso às plantações do sudoeste da China e do
 reino de Dali.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -877,9 +877,9 @@ reino de Dali.
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A antiga rota do chá era um sistema de caminhos de montanha,
-[@fig:yu-my] praticáveis só para carregadores pedestres, cavalos e
-mulas. [@fig:chenyao; @fig:porters] Ela permitia o escambo de chá
+A antiga rota do chá era um sistema de caminhos de montanha
+([@fig:yu-my]), praticáveis só para carregadores pedestres, cavalos e
+mulas ([@fig:chenyao; @fig:porters]). Ela permitia o escambo de chá
 chinês por cavalos tibetanos e o comércio de tecidos de seda chinesa e
 algodão bengalês --- dois produtos manufaturados que eram exportados
 para toda a Ásia, África e Europa.
@@ -900,7 +900,7 @@ Com o aumento do comércio, a partir do século [IX]{.smallcaps}, a
 população do sul da China foi se urbanizando. Isso gerava demanda por
 abastecimento em grande escala. As regiões de monções se especializaram
 então no plantio em arrozais irrigados, uma das técnicas agrícolas de
-maior produtividade em todo o mundo. [@fig:wuli]
+maior produtividade em todo o mundo ([@fig:wuli]).
 
 Os três fatores --- deslocamento das rotas comerciais para o sul,
 demanda por redes de abastecimento para as cidades grandes e aquecimento
@@ -916,7 +916,7 @@ ausência de moeda, o arroz é trocado sobretudo por artigos de luxo.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O império Khmer é um estado que se estabeleceu e se
-expandiu na onda da economia agroexportadora. [@fig:khmer-exp] Ele foi
+expandiu na onda da economia agroexportadora ([@fig:khmer-exp]). Ele foi
 um estado altamente especializado: os seus objetivos eram produzir arroz
 para o mercado externo e controlar os percursos de escoamento da
 produção ao longo do rio Mekong, sobretudo para o norte na rota do chá e
@@ -933,14 +933,14 @@ simbólica da legitimidade dos reis khmeres.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A legitimidade simbólica da realeza khmer estava atrelada à expansão do
-hinduísmo no Sudeste asiático [@fig:hindu-exp] e
+hinduísmo no Sudeste asiático ([@fig:hindu-exp]) e
 ao conceito de direito divino da monarquia que se articulava no diálogo
 entre essa religião "importada" e as formas de religiosidade locais. O
 status divino dos reis estava, portanto, vinculado, por um lado, à
 obtenção de artigos de luxo por meio do comércio --- sobretudo seda,
-ouro e pedras preciosas [@fig:khmer-king] ---, e por outro lado à
+ouro e pedras preciosas ([@fig:khmer-king]) ---, e por outro lado à
 construção e manutenção de complexos monumentais de templos associados a
-palácios. [@fig:angkor-vid]
+palácios ([@fig:angkor-vid]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/09/8f/20/098f208939f3a7df8c16d0efa7ca79ad.jpg" data-background-size="contain"}
@@ -963,11 +963,11 @@ palácios. [@fig:angkor-vid]
 A capital khmer em Angkor cumpria ao mesmo tempo todas as
 funções de legitimação e manutenção do poder político centralizado.
 Antes de mais nada, a cidade foi escolhida para ser o centro de uma área
-extensa de arrozais irrigados, aberta no meio da floresta.
-[@fig:angkor-canals] A implantação da cidade perto da margem do Grande
+extensa de arrozais irrigados, aberta no meio da floresta
+([@fig:angkor-canals]). A implantação da cidade perto da margem do Grande
 Lago era estratégica: as chuvas de monção fazem o volume do rio Mekong
 aumentar tanto que o sentido do curso do próprio lago se inverte,
-alagando a planície em volta dele. [@fig:tonle-sap]
+alagando a planície em volta dele ([@fig:tonle-sap]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/96/72/ce/9672ce84c9bb2d7265c8c135b642ae20.png"}
@@ -982,7 +982,7 @@ alagando a planície em volta dele. [@fig:tonle-sap]
 A razão de ser da cidade era capturar os benefícios desse alagamento.
 Ele permitia fazer três colheitas de arroz por ano: uma colheita do
 arroz que crescia na região alagada, outra colheita em campos que podiam
-ser alagados artificialmente por tanques, [@fig:angkor-pond] e uma
+ser alagados artificialmente por tanques ([@fig:angkor-pond]), e uma
 terceira colheita de arroz cultivado em terreno seco. Os canais e
 reservatórios, chamados *baray* em khmer, eram minuciosamente
 dimensionados e tinham um sistema de comportas. Durante a estação das
@@ -996,7 +996,7 @@ para irrigar os campos.
 ![Vrah Vishnulok, o centro administrativo e religioso de Angkor, formado por Angkor Wat e Angkor Thom](https://i.pinimg.com/originals/99/10/48/9910484c36aca42b76f47bcc136241e2.jpg){#fig:vrah-vishnulok}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A cidade de Vrah Vishnulok [@fig:vrah-vishnulok] ficava no centro desse
+A cidade de Vrah Vishnulok ([@fig:vrah-vishnulok]) ficava no centro desse
 sistema. O complexo palaciano, conhecido hoje como Angkor Thom, ficava
 diretamente entre os dois maiores *baray*. Ao sul está Angkor Wat, o
 templo mais importante do conjunto. Os fossos que circundam Angkor Wat e
@@ -1024,7 +1024,7 @@ agrupavam em volta desses reservatórios menores. O complexo de Angkor
 era todo ele uma imensa urbanização de baixa densidade, uma espécie de
 cidade-jardim, onde as atividades agrícolas, artesanais, comerciais,
 administrativas e religiosas aconteciam de modo distribuído por todo o
-território. [@fig:angkor-general]
+território ([@fig:angkor-general]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Levantamento por LiDAR da área em torno de Angkor Wat. [Evans e Fletcher, 2015](https://www.cambridge.org/core/journals/antiquity/article/landscape-of-angkor-wat-redefined/F3F0731A514E338A76DA8A906458A890#)](https://i.pinimg.com/originals/f9/26/8d/f9268d83cdb74c50fd1cc0bfac847d66.jpg){#fig:angkor-wat-ponds}

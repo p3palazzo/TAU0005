@@ -40,8 +40,8 @@ credibilidade se forem contemporâneas dos eventos descritos.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A historiografia chinesa tradicional se baseava no modelo estabelecido
-pelo [*Registros do historiador*][], [@fig:shiji] um livro compilado no
-começo do século [I]{.smallcaps} a.C. por Sima Qian. [@fig:sima-qian]
+pelo [*Registros do historiador*][] ([@fig:shiji]), um livro compilado no
+começo do século [I]{.smallcaps} a.C. por Sima Qian ([@fig:sima-qian]).
 Esse modelo organizava a cronologia segundo *dinastias* reais e
 imperiais. Como os registros chineses foram recompilados e reescritos
 várias vezes ao longo dos milênios, os historiadores do século
@@ -67,8 +67,8 @@ primitivo da sociedade naquela época.
 * * * *
 
 Os historiadores céticos substituíram a cronologia tradicional, segundo
-*dinastias*, [@fig:xia-map] pelo padrão ocidental moderno de designar
-*culturas* arqueológicas. [@fig:erlitou-map] Essas novas interpretações
+*dinastias* ([@fig:xia-map]), pelo padrão ocidental moderno de designar
+*culturas* arqueológicas ([@fig:erlitou-map]). Essas novas interpretações
 estabeleciam a credibilidade dos pesquisadores chineses num mundo
 acadêmico dominado por europeus e americanos. Mas, ao mesmo tempo, elas
 também validavam uma pretensão de superioridade cultural da Europa sobre
@@ -88,7 +88,7 @@ um mundo tribal e supostamente primitivo.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mesmo assim, no final das contas, as descobertas arqueológicas feitas
-nesse espírito [@fig:xia-jue] têm confirmado a existência de
+nesse espírito ([@fig:xia-jue]) têm confirmado a existência de
 acontecimentos, lugares e, talvez, das próprias dinastias mencionadas na
 historiografia chinesa tradicional. Até mesmo a primeira dinastia
 chinesa, os Xià, parece ter sido confirmada pela escavação de um palácio
@@ -130,7 +130,7 @@ pensar estranho à tradição da arquitetura chinesa acabou gerando
 oportunidades para pesquisar mais a fundo essa tradição. Esse processo
 foi impulsionado por uma geração de arquitetos chineses que estudaram
 nos Estados Unidos na primeira metade do século [XX]{.smallcaps} --- um
-deles foi Ieoh Ming Pei, famoso pela pirâmide do Louvre. [@fig:louvre]
+deles foi Ieoh Ming Pei, famoso pela pirâmide do Louvre ([@fig:louvre]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg"}
@@ -140,7 +140,7 @@ deles foi Ieoh Ming Pei, famoso pela pirâmide do Louvre. [@fig:louvre]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A aplicação de interpretações ocidentais ao estudo da arquitetura
 chinesa foi levada ao seu auge pelo casal formado pela escritora Lin
-Huiyin e pelo arquiteto Liang Sicheng. [@fig:liang-lin] Eles foram
+Huiyin e pelo arquiteto Liang Sicheng ([@fig:liang-lin]). Eles foram
 pioneiros no estudo arqueológico da arquitetura tradicional na China. Os
 dois tinham estudado na Universidade da Pensilvânia na década de 1920.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -154,8 +154,8 @@ O que estamos chamando aqui de teoria da "evolução orgânica do estilo"
 já deve ser familiar a esta altura. É o cerne da história da arte e da
 arquitetura desenvolvida na Europa desde a segunda metade do século
 [XIX]{.smallcaps}; ela está sintetizada na "árvore da arquitetura"
-apresentada no livro-texto de Bannister Fletcher a partir de 1899.
-[@fig:treearch] Nessa visão, cada estilo arquitetônico percorre como
+apresentada no livro-texto de Bannister Fletcher a partir de 1899
+([@fig:treearch]). Nessa visão, cada estilo arquitetônico percorre como
 que o ciclo de um ser vivo: ele parte de um estágio primitivo, se
 desenvolve até a maturidade, então pára de crescer e termina numa fase
 de declínio, quando não tem capacidade de se renovar ou "renascer".

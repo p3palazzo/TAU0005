@@ -104,14 +104,14 @@ exclusividade da cultura imperial romana, e sequer foi inventado pelos
 romanos. Ele aparece muito antes, na Grécia do século [V]{.smallcaps}
 a.C., nos planos chamados *hipodâmicos*. Esse nome é uma referência ao
 arquiteto Hipódamo de Mileto, que divulgou e popularizou o uso da planta
-em retícula que já tinha sido usada na sua cidade. [@fig:mileto]
+em retícula que já tinha sido usada na sua cidade ([@fig:mileto]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/2c/70/52/2c7052c309972c4f4b27aaa39efd9280.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O uso da malha viária em retícula se generaliza na Grécia do período
-Helenístico. Em Priene, [@fig:priene] a rigidez do plano desconsidera
+Helenístico. Em Priene ([@fig:priene]), a rigidez do plano desconsidera
 até a forte inclinação do terreno. Essa escolha cria condições
 particulares de inclinação dos lotes e tem impacto no custo das
 construções.
@@ -178,7 +178,7 @@ No Sudeste asiático, a matriz geradora do urbanismo é o *kampung*: uma
 gleba agrícola e residencial associada a uma família estendida ou a uma
 pequena comunidade política. As principais cidades mercantes se formam
 pelo adensamento gradual de vários *kampung* ao longo de caminhos
-estruturantes e à volta de templos e palácios fortificados. [@fig:bali]
+estruturantes e à volta de templos e palácios fortificados ([@fig:bali]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Srivijaya_Empire-pt.svg/1007px-Srivijaya_Empire-pt.svg.png" data-background-size="contain" data-background-position="left" data-background-transition="slide-in fade-out"}
@@ -186,7 +186,7 @@ estruturantes e à volta de templos e palácios fortificados. [@fig:bali]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os reinos do Sudeste asiático se destacam pela sua diversidade étnica e
 religiosa. Os impérios hindu-budistas de Srivijaya e Majapahit
-[@fig:srivijaya; @fig:majapahit] controlam o comércio marítimo de
+([@fig:srivijaya; @fig:majapahit]) controlam o comércio marítimo de
 especiarias e as exportações chinesas para o Ocidente. Assim, Trowulan
 se torna um centro de poder econômico e político muito próspero. Mas,
 acima de tudo, as cidades malaias demonstram modos de organizar o espaço
@@ -220,7 +220,7 @@ já aparecia desde o século [XV]{.smallcaps}, com o assentamento dos primeiros
 comerciantes chineses no Sudeste asiático, e mais ainda entre os séculos
 [XVII]{.smallcaps} e [XIX]{.smallcaps}, quando os colonizadores europeus
 segregaram as cidades malaias em bairros ocidentais, chineses e
-"nativos". [@fig:singapore1839]
+"nativos" ([@fig:singapore1839]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Mapa da cidade de Cingapura [G.D. Coleman, 1839](https://commons.wikimedia.org/wiki/File:Singapore_Environs_1839.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839 .stretch}
@@ -233,7 +233,7 @@ segregaram as cidades malaias em bairros ocidentais, chineses e
 Com base nas diferenças urbanísticas, os chineses e sobretudo os
 britânicos consideravam o *kampung* malaio como primitivo ou inferior.
 Foi só no final da década de 1970 que o urbanista alemão Hans-Dieter
-Evers [@fig:evers] apresentou, na bibliografia ocidental, o urbanismo
+Evers ([@fig:evers]) apresentou, na bibliografia ocidental, o urbanismo
 malaio como um paradigma alternativo ao do urbanismo chinês, e
 igualmente legítimo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -245,7 +245,7 @@ igualmente legítimo.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [*Kampung* significa "povoado"]{.newthought} em malaio e em indonésio. A
 configuração típica do *kampung* vem desde as origens da agricultura no
-Sudeste asiático. [@fig:arrozal] O conjunto se organiza em torno de um
+Sudeste asiático ([@fig:arrozal]). O conjunto se organiza em torno de um
 caminho estruturante ou de um ponto focal importante, como um templo,
 uma mesquita ou um complexo palaciano.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -269,9 +269,9 @@ Além disso, Evers  mostrou que as divisas geométricas entre glebas do
 dos recursos tangíveis [@evers:1977culture6]. O critério mais relevante
 de organização do espaço é as redes de parentesco, que determinam a
 localização de casas principais e secundárias e o acesso a hortas e
-plantações. [@fig:kampung-sahabuddin-1] À medida que a população da
+plantações ([@fig:kampung-sahabuddin-1]). À medida que a população da
 comunidade cresce, cada casa pode ser ampliada segundo um sistema de
-ambientes modulares [@fig:lim-malay] [@lim:1991malay; *ap.*
+ambientes modulares ([@fig:lim-malay]) [@lim:1991malay; *ap.*
 @beng:2015unleashing16].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -288,7 +288,7 @@ Do mesmo modo, o *kampung* como um todo também se adensa até virar um
 distrito urbano compacto. Esse processo continua na urbanização
 contemporânea e tem sido um fator de manutenção da identidade regional,
 como num projeto da década de 1990 para um *kampung* nas Filipinas pela
-firma americana Duany, Plater-Zyberk & co. [@fig:dpz1997]
+firma americana Duany, Plater-Zyberk & co ([@fig:dpz1997]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![*Kampung* contemporâneo nas Filipinas, por Duany, Plater-Zyberk & co., 1997](https://i.pinimg.com/originals/2c/89/9c/2c899c391c5d122d4240ee60b1ac3c40.png){#fig:dpz1997}
@@ -300,7 +300,7 @@ firma americana Duany, Plater-Zyberk & co. [@fig:dpz1997]
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Partindo do *kampung* como unidade social e urbanística *de base*, os
 estados malaios organizam o território em redes de poder político e
-autoridade religiosa. [@fig:hall-java] No século [XIV]{.smallcaps}, o
+autoridade religiosa ([@fig:hall-java]). No século [XIV]{.smallcaps}, o
 poder político e religioso no império Majapahit é sinalizado pela
 construção de um *pura* ou templo hinduísta.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -315,7 +315,7 @@ No entanto, o *pura* é mais do que um simples local de culto
 fortificação, e dentro dela fica, além do templo, o palácio real. Do
 lado de fora da entrada principal, ao norte, está a praça do mercado.
 Outras moradias da corte e um mosteiro budista se aglomeram em volta do
-*pura*. [@fig:hall-trowulan]
+*pura* ([@fig:hall-trowulan]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Rua e praça ## {data-visibility="hidden"}
@@ -482,7 +482,7 @@ ela ocorre quando há alguma barreira natural impedindo a continuidade do
 tecido, como um barranco ou um curso d'água, ou ainda quando há uma
 exigência militar pela manutenção de uma área desimpedida para defesa.
 As três condições ocorrem juntas na cidade de Carcassonne, no sudoeste
-da França. [@fig:carcassonne]
+da França ([@fig:carcassonne]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Carcassonne, cidade velha fortificada e *bastide* (cidade planejada) do século [XIV]{.smallcaps}. Reconstituição por [Jean-Claude Golvin](https://jeanclaudegolvin.com/project/france/)](https://i.pinimg.com/originals/3e/c1/a4/3ec1a49e1d0edaacce2e83fefb4a3ec2.jpg){#fig:carcassonne}
@@ -504,7 +504,7 @@ da França. [@fig:carcassonne]
 ![Como, Itália, II fase da ocupação romana. Levantamento por Gianfranco Caniggia, 1965](https://i.pinimg.com/originals/85/9c/ca/859ccaa45f361cac1c2c3414659dbaaa.png){#fig:como-2fase}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Fechamento de via com lote na Europa medieval. [@fig:como-2fase] Também
+Fechamento de via com lote na Europa medieval ([@fig:como-2fase]). Também
 pode ocorrer, inversamente, a abertura de uma via onde antes ficava um
 espaço cívico cercado, como um fórum, ou mesmo coberto, como um mercado.
 [@fig:campomarzio]
@@ -531,7 +531,7 @@ medieval ([@fig:imperial-way; @fig:song-market]).
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Conversão de estruturas temporárias em permanentes: mercados nas cidades
-chinesas [@fig:tangshi; @fig:changandongshi] e europeias.
+chinesas ([@fig:tangshi; @fig:changandongshi]) e europeias.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
@@ -549,7 +549,7 @@ chinesas [@fig:tangshi; @fig:changandongshi] e europeias.
 * * * *
 
 Conversão de um *temenos* (recinto especializado) em tecido urbano mediante
-sedimentação e sobreposição de novas ruas. [@fig:firenze]
+sedimentação e sobreposição de novas ruas ([@fig:firenze]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Anfiteatro romano de Florença e tecido urbano resultante](https://i.pinimg.com/originals/05/09/4e/05094e4e8c134f990f5c13ae79dca19e.png){#fig:firenze}
