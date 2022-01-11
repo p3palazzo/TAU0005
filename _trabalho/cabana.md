@@ -28,6 +28,8 @@ da sua representação gráfica.
 
 # Contexto #
 
+## Cabana primitiva ##
+
 ![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .align-right}
 
 Arquitetura é construção. O propósito da arquitetura é, antes de mais
@@ -38,8 +40,6 @@ isso, temos que visualizar corretamente como os diferentes elementos da
 construção vão ser acoplados entre si, qual efeito espacial e visual
 resulta dessa montagem, e como ela precisa ser representada nas
 convenções do desenho arquitetônico.
-
-## Cabana primitiva ##
 
 A alegoria da cabana primitiva é um expediente para enfatizar o quanto
 a arquitetura tradicional é uma expressão direta da construção. Ela
@@ -54,15 +54,28 @@ montagem simples e racional de elementos em madeira. Por isso, o estudo
 de uma cabana primitiva qualquer é uma boa porta de entrada para a
 prática da arquitetura tradicional.
 
-O *grau zero* da arquitetura representado pela cabana primitiva
-comparece em várias formas de habitação antiga em madeira. Uma dessas
-formas é o pavilhão quadrado da aldeia neolítica de Banpö, no atual
-centro da China ([@fig:banpo-ching]). Essa construção era feita de toras
-roliças, taipa e casca de árvore [@ching:2016historia, 9]. O dado mais
-certo que temos sobre a estrutura é a posição dos pilares e das paredes,
-organizados num módulo de aproximadamente 4 metros em todas as direções.
+![Localização do sítio arqueológico de Bànpō na área da cultura Yangshao, atual China. Mapa: [Kanguole, 2015][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Yangshao_map.svg/702px-Yangshao_map.svg.png){#fig:yangshao .align-right}
 
-![Vista isométrica cortada do salão principal em Banpö, atual centro da China, c. 3500 a.C. Desenho: Francis D.K. Ching, 2007](https://hcommons.org/app/uploads/sites/1002372/2022/01/banpo-ching.png){#fig:banpo-ching .line}
+[Kanguole, 2015]: https://commons.wikimedia.org/wiki/File:Yangshao_map.svg
+
+O *grau zero* da arquitetura representado pela cabana primitiva
+comparece em várias formas de habitação antiga em madeira
+[@jarzombek:2013architecture]. Uma dessas formas é a dos pavilhões
+quadrados da aldeia neolítica de Bànpō, ocupada entre 4800 e 3600 a.C.
+no atual oeste da China ([@fig:yangshao]). Essas construções eram feitas
+de toras roliças, taipa e casca de árvore [@ching:2016historia, 9]. O
+seu piso interior era escavado cerca de um metro abaixo do nível natural
+do terreno ([@fig:banpo-site]). O dado mais certo que temos sobre a
+superestrutura do pavilhão quadrado maior é a posição dos pilares e das
+paredes, organizados num módulo de aproximadamente 4 metros em todas as
+direções (eixos horizontais e vertical), conforme reconstituído por
+Francis D.K. Ching ([@fig:banpo-ching]).
+
+![Sítio arqueológico de Bànpō: os vestígios de um pavilhão quadrado podem ser vistos ao fundo, à esquerda. Foto: [Krister Blomberg, 2014][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Banpo_utgrävning.jpg/1024px-Banpo_utgrävning.jpg){#fig:banpo-site}
+
+[Krister Blomberg, 2014]: https://commons.wikimedia.org/wiki/File:Banpo_utgrävning.jpg
+
+![Vista isométrica cortada do salão principal em Bànpō. Desenho: Francis D.K. Ching, 2007](https://hcommons.org/app/uploads/sites/1002372/2022/01/banpo-ching.png){#fig:banpo-ching .line}
 
 ## Estudo analítico ##
 
@@ -72,15 +85,16 @@ em Paris, no século  [XVIII]{.smallcaps}, difundindo-se para o sistema
 as Escolas de Belas-Artes em dezenas de países, inclusive no Brasil, nos
 séculos [XIX]{.smallcaps} e [XX]{.smallcaps} (@fig:exemplos). Na Escola de Belas-Artes
 de Paris, no final do século [XIX]{.smallcaps}, o analítico era uma das
-provas de seleção para o ingresso no curso de Arquitetura. Na do Rio de
-Janeiro, no começo do século [XX]{.smallcaps}, era um dos primeiros
-exercícios desenvolvidos pelos alunos ingressantes. Os principais
-mestres da geração modernista dos anos 1920 --- Le Corbusier, Walter
-Gropius, Lucio Costa e muitos outros --- estudaram sob alguma influência
-do método Belas-Artes. Embora eles tenham instituído teorias e sistemas
-de ensino opostos ao método Belas-Artes, a obra desses arquitetos
-demonstra a disciplina, o rigor gráfico e a atenção para proporções e
-detalhes, derivadas dos seus estudos classicistas.
+provas de seleção para o ingresso no curso de Arquitetura
+[@harbeson:1927study; @guadet:1901elements]. Na do Rio de Janeiro, no
+começo do século [XX]{.smallcaps}, era um dos primeiros exercícios
+desenvolvidos pelos alunos ingressantes. Os principais mestres da
+geração modernista dos anos 1920 --- Le Corbusier, Walter Gropius, Lucio
+Costa e muitos outros --- estudaram sob alguma influência do método
+Belas-Artes. Embora eles tenham instituído teorias e sistemas de ensino
+opostos ao método Belas-Artes, a obra desses arquitetos demonstra a
+disciplina, o rigor gráfico e a atenção para proporções e detalhes,
+derivadas dos seus estudos classicistas [@chitham:2005classical].
 
 ::::::::::::::::::::::::::::::::::::::::: {.columns #fig:exemplos .full}
 ::: {.column width=52.3%}
@@ -95,7 +109,7 @@ Exemplos de desenhos analíticos de ordens clássicas, [D.W. Bates](http://www.d
 # Ementa #
 
 Observe as fotos do pavilhão quadrado no sítio arqueológico de
-Banpö. Observe, também, as convenções de
+Bànpō. Observe, também, as convenções de
 representação exemplificadas na Figura [-@fig:exemplos]. Então,
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
@@ -136,6 +150,10 @@ são ortográficas, ou seja, *sem* perspectiva.
   [instrumentos e materiais](materiais.md) indicados e siga as
   [convenções de desenho](desenho.md) desta disciplina; observe as
   [dicas para digitalizar](digitalizar.md) a sua entrega.
+- Para maiores esclarecimentos sobre a montagem de estruturas em
+  madeira, consulte a *Enciclopédia prática da construção civil* de
+  Francisco Pereira da Costa, especialmente os volumes 7 e 8
+  [@pereira:1955enciclopedia]. Eles estão disponíveis no Moodle.
 
 # Cronograma e critérios de avaliação #
 
@@ -158,10 +176,27 @@ são ortográficas, ou seja, *sem* perspectiva.
 
 # Referências #
 
+## Bibliografia de pesquisa ##
+
 As referências indicadas abaixo devem ser usadas como ponto de partida
 para uma pesquisa mais aprofundada. 
 
-```{=html}
-{% bibliography --query @*[keywords ~= tau0005-analitico] %}
-```
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#refs}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+## Exemplos de trabalhos anteriores ##
+
+:::::::::::::::::::::::::::::::::::: {.columns .full #fig:cabana-2021-1}
+::: {.column width=49%}
+![Ana Caroline Gonçalves Leite](https://hcommons.org/app/uploads/sites/1002372/2022/01/cabana_primitiva-ana_caroline_goncalves_leite.jpg){#fig:cabana-2021-1-acgl}
+:::
+::: {.column width=51%}
+![Vitória Gemeinder Monteiro](https://hcommons.org/app/uploads/sites/1002372/2022/01/cabana_primitiva-vitoria_gemeinder_monteiro.jpg){#fig:cabana-2021-1-vgm}
+:::
+
+"Cabanas primitivas" do sítio arqueológico de Sannai Maruyama, Japão.
+História da Arquitetura e da Arte I, 1.º/2021
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
