@@ -26,7 +26,7 @@ references:
   issue: '35'
   issued:
     - year: 1997
-  language: English
+  language: en
   page: 41-49
   publisher: IRSA s.c.
   source: JSTOR
@@ -50,7 +50,7 @@ references:
   ISBN: 978-88-304-0855-5
   issued:
     - year: 1990
-  language: Italian
+  language: it
   number-of-pages: '367'
   publisher: Longanesi
   publisher-place: Milano
@@ -86,7 +86,7 @@ references:
   issue: '1'
   issued:
     - year: 1998
-  language: English
+  language: en-US
   page: 49-60
   source: JSTOR
   title: >-
@@ -8410,6 +8410,31 @@ references:
       given: Lívia
       dropping-particle: de
   type: book
+
+- id: tzonis:1972non-oppressive
+  abstract: >-
+    124 p. ; 21 cm; On spine: Non-oppressive environment; Includes
+    bibliographical references
+  accessed:
+    - year: 2022
+      month: 1
+      day: 10
+  author:
+    - family: Tzonis
+      given: Alexander
+  citation-key: tzonis:1972non-oppressive
+  event-place: Boston
+  issued:
+    - year: 1972
+  language: en-US
+  number-of-pages: '138'
+  publisher: Braziller
+  publisher-place: Boston
+  source: Internet Archive
+  title: Towards a non-oppressive environment
+  title-short: Towards a non-oppressive environment
+  type: book
+  URL: http://archive.org/details/towardsnonoppres0000tzon
 
 - id: tzonis:1986classical
   author:
