@@ -31,21 +31,48 @@ compreender o que esperamos de você nas atividades.
 
 # Livro-texto #
 
+> {% reference fazio:2011historia %}
+
+O livro-texto oferece um panorama de diferentes culturas arquitetônicas
+do mundo antigo e medieval, cada uma no seu respectivo capítulo. Assim,
+a cada tópico da disciplina, teremos ênfase na arquitetura tradicional
+de alguma região e época histórica que seja mais relevante para os
+problemas que estaremos abordando.
+
+## Leitura recomendada ##
+
 > {% reference ching:2016historia %}
 
-O livro-texto oferece um sobrevoo introdutório dos temas históricos
+Além do livro-texto, indicamos também este sobrevoo introdutório dos temas históricos
 tratados ao longo do semestre. As páginas relevantes para cada tópico
 estão indicadas nas notas de aula, e vão ser discutidas nas
 videoconferências de cada semana.
 
-<i class="fas fa-check-circle"></i>
-~ Acesse o site da [Biblioteca Central](https://bce.unb.br). Pesquise
-  pelo livro usando a `Busca integrada` (função de busca padrão da
-  [BCE]{.smallcaps}). Na visualização do resultado, clique no link
-  <i class="fas fa-search" title="ícone de uma lupa"></i>
-  `View record at Minha Biblioteca`. Faça login no serviço de leitura online
-  usando as suas credenciais da [BCE]{.smallcaps} ([CPF]{.smallcaps} e
-  senha usada no balcão de empréstimo).
+[]{.fas .fa-info-circle}
+: Como acessar os e-books da nossa bibliografia?
+
+<!-- -->
+
+a. Acesse o site da [Biblioteca Central](https://bce.unb.br). Localize o
+   link para as `Bases de dados de e-books > Minha Biblioteca` conforme a
+   captura de tela abaixo.
+b. Faça login no serviço de leitura online
+   usando as suas credenciais da [BCE]{.smallcaps} ([CPF]{.smallcaps} e
+   senha usada no balcão de empréstimo), e escolha a base `Minha Biblioteca`.
+c. No canto superior direito, digite os termos de busca e localize o
+   livro nos resultados.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:bce .full}
+![Página principal da [BCE]{.smallcaps}](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-a.jpg){#fig:bce-a}
+
+* * * *
+
+![Tela de login](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-b.jpg){#fig:bce-b .align-left}
+
+![Pesquisa](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-c.jpg){#fig:bce-c .align-left style="max-width: 720px"}
+
+Acesso à base de e-books Minha Biblioteca
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Tratados de arquitetura tradicional e clássica #
 
