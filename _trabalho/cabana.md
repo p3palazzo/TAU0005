@@ -39,7 +39,9 @@ construção vão ser acoplados entre si, qual efeito espacial e visual
 resulta dessa montagem, e como ela precisa ser representada nas
 convenções do desenho arquitetônico.
 
-[A alegoria da cabana primitiva]{.newthought} é um expediente para enfatizar o quanto
+## Cabana primitiva ##
+
+A alegoria da cabana primitiva é um expediente para enfatizar o quanto
 a arquitetura tradicional é uma expressão direta da construção. Ela
 aparece desde o tratado de Vitrúvio [@vitruvio:2007tratado, livro II
 cap. 1]. Depois dele, a versão mais famosa da cabana primitiva foi feita
@@ -53,47 +55,17 @@ de uma cabana primitiva qualquer é uma boa porta de entrada para a
 prática da arquitetura tradicional.
 
 O *grau zero* da arquitetura representado pela cabana primitiva
-comparece num tipo peculiar de construção da cultura Jōmon. Essa
-construção é chamada simplesmente de estrutura com seis pilares, e
-comparece no sítio arqueológico de Sannai Maruyama, no extremo norte da
-ilha de Honxu (@fig:sannai-site) [@jarzombek:2013architecture, 152-158].
-Não é possível determinar, hoje em dia, a função e a configuração
-precisa dessas estruturas. A reconstituição executada no final do século
-[XX]{.smallcaps} ([@fig:sannai; @fig:6pillar]) é uma conjetura baseada
-na posição das fundações e nos vestígios de madeira preservados graças
-ao terreno pantanoso do local. A estrutura dessas construções é
-inteiramente feita em toras e troncos roliços de carvalho; todas as
-construções eram orientadas aproximadamente na direção leste--oeste.
+comparece em várias formas de habitação antiga em madeira. Uma dessas
+formas é o pavilhão quadrado da aldeia neolítica de Banpö, no atual
+centro da China ([@fig:banpo-axon]). Essa construção era feita de toras
+roliças, taipa e casca de árvore [@ching:2016historia, 9]. O dado mais
+certo que temos sobre a estrutura é a posição dos pilares e das paredes,
+organizados num módulo de aproximadamente 4 metros em todas as direções.
 
-::: {#fig:sannai-site .fullwidth}
-::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=30%}
-![Situação no território das sociedades pré-históricas que construíram habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-and-pit-dwellings.png){#fig:sannai-globe .nobg}
-:::
-::: {.column width=30%}
-![Locação junto à baía de Mutsu, atual município de Aomori, Japão](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-loc.png){#fig:sannai-mutsu}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-![Corte do sítio reconstituído](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-540.png){#fig:sannai-sec .fullwidth}
 
-Esquema do sítio arqueológico de Sannai Maruyama, cultura Jōmon, 3900--2300 a.C.
-:::
+## Estudo analítico ##
 
-![Vista parcial do sítio arqueológico de Sannai Maruyama, reconstituição 1997--2002. Foto: [663highland, 2014](https://commons.wikimedia.org/wiki/File:140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg/1280px-140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg){#fig:sannai}
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:6pillar}
-::: {.column width=50%}
-![[[Koike]{.smallcaps} Takashi, 2008](https://commons.wikimedia.org/wiki/File:三内丸山遺跡大型掘立柱建物.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/三内丸山遺跡大型掘立柱建物.JPG/682px-三内丸山遺跡大型掘立柱建物.JPG){#fig:6pillarA}
-:::
-::: {.column width=50%}
-![[[Iwanami]{.smallcaps} Riku, 2015](https://commons.wikimedia.org/wiki/File:山内丸山遺跡_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/山内丸山遺跡_-_panoramio.jpg/685px-山内丸山遺跡_-_panoramio.jpg){#fig:6pillarB}
-:::
-Reconstituição de uma estrutura com seis pilares, sítio arqueológico de Sannai Maruyama, cultura Jōmon, c. 2600 a.C. Fotos:
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * *
-
-[O estudo analítico]{.newthought}, por sua vez, tem sido a porta de entrada no estudo
+O estudo analítico, por sua vez, tem sido a porta de entrada no estudo
 do classicismo desde a organização do ensino na Academia de Arquitetura
 em Paris, no século  [XVIII]{.smallcaps}, difundindo-se para o sistema
 as Escolas de Belas-Artes em dezenas de países, inclusive no Brasil, nos
@@ -122,7 +94,7 @@ Exemplos de desenhos analíticos de ordens clássicas, [D.W. Bates](http://www.d
 # Ementa #
 
 Observe as fotos da estrutura com seis pilares no sítio arqueológico de
-Sannai Maruyama (ver [@fig:6pillar]). Observe, também, as convenções de
+Banpö. Observe, também, as convenções de
 representação exemplificadas na Figura [-@fig:exemplos]. Então,
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
@@ -134,32 +106,30 @@ representação exemplificadas na Figura [-@fig:exemplos]. Então,
 # Produto #
 
 Numa prancha [A3]{.smallcaps}, na orientação vertical, represente a
-cabana primitiva da estrutura com seis pilares de Sannai Maruyama, em
+cabana primitiva do exemplo acima em
 elevação, corte e planta de teto projetado [Veja o que é e como desenhar
 uma planta de teto projetado em @ching:2017representacao, p.62; cortes e
 elevações em @ching:2017representacao, p. 69--88]. Todas estas vistas
 são ortográficas, ou seja, *sem* perspectiva.
 
-- Tanto no corte quanto na elevação, mostre as juntas entre as peças em
-  madeira.
-- O traçado regulador, a ser representado nos desenhos com o peso de
-  linha mais leve, é uma malha de 4,2 metros em todas as direções,
-  medida no eixo dos pilares e na superfície dos pisos.
+- Comece estabelecendo o traçado regulador da construção na prancha, com
+  o peso de linha mais leve: ele é uma malha de 4 metros em todas as
+  direções, medida no eixo dos pilares, vigas e paredes; use essa malha
+  para posicionar os elementos da construção e também para organizar os
+  desenhos na prancha.
 - Aproveite a simetria do conjunto da estrutura para otimizar o
   aproveitamento da folha de desenho.
-- Considere que os pilares são troncos roliços com seção (diâmetro) de 1
-  metro na base e 80 centímetros no topo; a contratura dos troncos deve
-  ser uma curva suave, não uma linha reta.
-- Os pilares são fincados em valas de planta circular, com 2 metros de
-  diâmetro e 1 metro de profundidade, preenchidas com terra batida
-  misturada com cascalho. Represente um detalhe dessa fundação em corte,
-  separadamente do corte da construção como um todo.
+- Considere que os pilares são troncos roliços com seção (diâmetro) de
+  40 centímetros na base e 30 centímetros no topo; a contratura dos
+  troncos deve ser uma curva suave, não uma linha reta.
 - Considere que as vigas e os contraventamentos são troncos roliços com
-  50 centímetros de seção, e os barrotes são toras roliças com 35
-  centímetros de seção; o piso de cada nível acima do solo é formado por
-  troncos roliços com 20 centímetros de seção, colocados lado a lado sem
-  espaços vazios. Represente a sobreposição de vigas, barrotes e piso
+  30 centímetros de seção, e os caibros são toras roliças com 10
+  centímetros de seção; o colmo é formado por uma mistura de barro e
+  casca de árvore com espessura variável.
+- Represente a sobreposição de vigas, caibros e colmo
   tanto na planta de teto projetado quanto num detalhe ampliado.
+- Tanto no corte quanto na elevação, mostre as amarrações entre as peças
+  em madeira.
 - Inclua uma escala gráfica e norte; desenhe usando os
   [instrumentos e materiais](materiais.md) indicados e siga as
   [convenções de desenho](desenho.md) desta disciplina; observe as
@@ -169,9 +139,9 @@ são ortográficas, ou seja, *sem* perspectiva.
 
 |  Data | Tarefa                             |
 |:-----:|:-----------------------------------|
-| 20/07 | Lançamento da atividade            |
-| 27/07 | Revisão dos trabalhos em andamento |
-| 05/08 | Entrega da atividade               |
+| 20/01 | Lançamento da atividade            |
+| 27/01 | Revisão dos trabalhos em andamento |
+| 05/02 | Entrega da atividade               |
 
 : Cronograma {#tbl:cronograma}
 
