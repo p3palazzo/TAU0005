@@ -28,7 +28,7 @@ da sua representação gráfica.
 
 # Contexto #
 
-![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .marginnote}
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .align-right}
 
 Arquitetura é construção. O propósito da arquitetura é, antes de mais
 nada, o de oferecer abrigo e contexto para as atividades humanas.
@@ -57,11 +57,12 @@ prática da arquitetura tradicional.
 O *grau zero* da arquitetura representado pela cabana primitiva
 comparece em várias formas de habitação antiga em madeira. Uma dessas
 formas é o pavilhão quadrado da aldeia neolítica de Banpö, no atual
-centro da China ([@fig:banpo-axon]). Essa construção era feita de toras
+centro da China ([@fig:banpo-ching]). Essa construção era feita de toras
 roliças, taipa e casca de árvore [@ching:2016historia, 9]. O dado mais
 certo que temos sobre a estrutura é a posição dos pilares e das paredes,
 organizados num módulo de aproximadamente 4 metros em todas as direções.
 
+![Vista isométrica cortada do salão principal em Banpö, atual centro da China, c. 3500 a.C. Desenho: Francis D.K. Ching, 2007](https://hcommons.org/app/uploads/sites/1002372/2022/01/banpo-ching.png){#fig:banpo-ching .line}
 
 ## Estudo analítico ##
 
@@ -81,11 +82,11 @@ de ensino opostos ao método Belas-Artes, a obra desses arquitetos
 demonstra a disciplina, o rigor gráfico e a atenção para proporções e
 detalhes, derivadas dos seus estudos classicistas.
 
-::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:exemplos}
-::: {.column width=52.6%}
+::::::::::::::::::::::::::::::::::::::::: {.columns #fig:exemplos .full}
+::: {.column width=52.3%}
 ![](https://i.pinimg.com/originals/e7/42/19/e74219be5068aa18914b27d4fcc6fdfe.jpg){#fig:exemplosA} 
 :::
-::: {.column width=47.4%}
+::: {.column width=47.7%}
 ![observe a representação das juntas entre os blocos de pedra](https://i.pinimg.com/originals/ee/f8/c1/eef8c161b0968701b3eb91494cc0bcde.jpg){#fig:exemplosB}
 :::
 Exemplos de desenhos analíticos de ordens clássicas, [D.W. Bates](http://www.dwbates.com/fine-art)
@@ -93,7 +94,7 @@ Exemplos de desenhos analíticos de ordens clássicas, [D.W. Bates](http://www.d
 
 # Ementa #
 
-Observe as fotos da estrutura com seis pilares no sítio arqueológico de
+Observe as fotos do pavilhão quadrado no sítio arqueológico de
 Banpö. Observe, também, as convenções de
 representação exemplificadas na Figura [-@fig:exemplos]. Então,
 
@@ -119,7 +120,8 @@ são ortográficas, ou seja, *sem* perspectiva.
   desenhos na prancha.
 - Aproveite a simetria do conjunto da estrutura para otimizar o
   aproveitamento da folha de desenho.
-- Considere que os pilares são troncos roliços com seção (diâmetro) de
+- Considere que os pilares são troncos roliços apoiados sobre bases
+  em pedra, com seção (diâmetro) de
   40 centímetros na base e 30 centímetros no topo; a contratura dos
   troncos deve ser uma curva suave, não uma linha reta.
 - Considere que as vigas e os contraventamentos são troncos roliços com
@@ -130,7 +132,7 @@ são ortográficas, ou seja, *sem* perspectiva.
   tanto na planta de teto projetado quanto num detalhe ampliado.
 - Tanto no corte quanto na elevação, mostre as amarrações entre as peças
   em madeira.
-- Inclua uma escala gráfica e norte; desenhe usando os
+- Inclua uma escala gráfica; desenhe usando os
   [instrumentos e materiais](materiais.md) indicados e siga as
   [convenções de desenho](desenho.md) desta disciplina; observe as
   [dicas para digitalizar](digitalizar.md) a sua entrega.
