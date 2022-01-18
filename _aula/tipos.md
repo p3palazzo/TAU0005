@@ -397,7 +397,7 @@ seus alunos, como Gianfranco Caniggia [@caniggia:2008lettura;
 Mutações diacrônicas na edilícia de base. Gianfranco Caniggia, 1977
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Processo tipológico ## {data-background-color="#0f0"}
+## Processo tipológico ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Vamos seguir o percurso do processo tipológico da escala da casa à da
@@ -430,5 +430,5 @@ romana, a morada grega ou a casa compacta do Crescente fértil
 
 ![Reconstituição de Ammaia](https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png){#fig:ammaia-aerea .full}
 
-# Bibliografia # {.unlisted .allowframebreaks}
+# Bibliografia # {- .unlisted .allowframebreaks}
 

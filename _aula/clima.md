@@ -20,9 +20,9 @@ title-slide-attributes:
   data-background-position: "bottom"
 ---
 
-# Arquitetura em climas extremos # {data-background-color="#0f0"}
+# Arquitetura em climas extremos #
 
-## {data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No registro das tradições arquitetônicas ao longo do tempo, a geologia e
@@ -146,7 +146,7 @@ atribuições para se ocupar de trechos dessa cadeia que estejam fora da
 sua alçada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Três idades do homem # {data-background-color="#0f0"} ##
+## Três idades do homem # ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A casa como abrigo bem-temperado para pessoas de todas as idades.
@@ -154,7 +154,7 @@ A casa como abrigo bem-temperado para pessoas de todas as idades.
 
 ## Casas semienterradas ## {data-visibility="hidden"}
 
-## {data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Já falamos das casa semienterradas do ponto de vista da construção com
@@ -285,7 +285,7 @@ aprimoramentos, até o século [XVI]{.smallcaps} d.C.
 
 ![Detalhe da estrutura de uma casa semienterrada, período Jōmon tardio](https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png){#fig:jomon-detail .line}
 
-# Estratégias de ventilação # {data-background-color="#0f0"}
+# Estratégias de ventilação #
 
 ## China: casas-pátio polivalentes ## {data-visbility="hidden"}
 
@@ -347,7 +347,7 @@ Estratégias bioclimáticas de uma casa em Ur, antiga Suméria, [III--II]{.small
 
 ## Mediterrâneo ## {data-visibility="hidden"}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/22/dc/c7/22dcc7e8613bad5e3307ab455a701a01.png" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/22/dc/c7/22dcc7e8613bad5e3307ab455a701a01.png" data-background-size="contain"}
 
 ![Planta esquemática da casa A vii 4 em Olinto, segundo Cahill, 2002](https://i.pinimg.com/originals/22/dc/c7/22dcc7e8613bad5e3307ab455a701a01.png){#fig:olynthus-a-vii-4 .line}
 
@@ -370,7 +370,7 @@ Perto da entrada da casa ficava uma sala de jantar social ou masculina,
 o *andron*, geralmente acessado por uma antessala.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/bd/79/93/bd7993471831f9cbb7df636bd15dfb74.jpg" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/bd/79/93/bd7993471831f9cbb7df636bd15dfb74.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Já o tipo com *prostas* tinha um pórtico entre o pátio e a sala
@@ -383,11 +383,11 @@ cidades gregas.
 
 ![Casas em Priene, reconstituídas por Whitley, 2001](https://i.pinimg.com/originals/bd/79/93/bd7993471831f9cbb7df636bd15dfb74.jpg){#fig:priene-casas .align-right}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/16/6d/2a/166d2a4095ab30414873f55c0dd40906.jpg" data-background-position="bottom"}
+## {data-background-image="https://i.pinimg.com/originals/16/6d/2a/166d2a4095ab30414873f55c0dd40906.jpg" data-background-position="bottom"}
 
 ![Casas em Priene. Reconstituição por [Gabriel Gourdoglou](http://gabrielgooo.byethost10.com/?ds-gallery=ancient-priene)](https://i.pinimg.com/originals/16/6d/2a/166d2a4095ab30414873f55c0dd40906.jpg){#fig:priene-cg}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg"}
 
 ![Reconstituição de casas em Olinto](https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg){#fig:olynthus-cutaway .full}
 
@@ -402,11 +402,11 @@ primeiro andar ([@fig:olynthus-brunner]) protegia os ambientes do sol a
 pino no verão, mas deixava entrar o sol de inverno, mais baixo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/73/2f/9d/732f9da38f7f93574423ce150dab9746.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/73/2f/9d/732f9da38f7f93574423ce150dab9746.jpg"}
 
 ![Reconstituição de um pátio em Olinto, segundo Brunner](https://i.pinimg.com/originals/73/2f/9d/732f9da38f7f93574423ce150dab9746.jpg){#fig:olynthus-brunner}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/0b/83/c4/0b83c43c455bf1085fdf4cd31a5a2043.png" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/0b/83/c4/0b83c43c455bf1085fdf4cd31a5a2043.png" data-background-size="contain"}
 
 ![Olinto, casa das cores, reconstituição por Cahill, 2002](https://i.pinimg.com/originals/0b/83/c4/0b83c43c455bf1085fdf4cd31a5a2043.png){#fig:many-colors}
 
@@ -416,11 +416,11 @@ posicionamento da entrada das casas segundo a posição da rua com
 respeito ao lote ([@fig:many-colors]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2a/Schematic_plan_of_a_Pompeian_house_in_Mau_fig115.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2a/Schematic_plan_of_a_Pompeian_house_in_Mau_fig115.png" data-background-size="contain"}
 
 ![Planta esquemática de uma *domus* na cidade romana de Pompeia, c. século [I]{.smallcaps} a.C.--[I]{.smallcaps} d.C. Desenho: [August Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_245)](https://upload.wikimedia.org/wikipedia/commons/2/2a/Schematic_plan_of_a_Pompeian_house_in_Mau_fig115.png){#fig:mau115 .line}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Plan_of_house_of_the_Surgeon_in_Mau_fig134.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Plan_of_house_of_the_Surgeon_in_Mau_fig134.png" data-background-size="contain"}
 
 ![Planta da casa de Salústio, Pompeia, c. século [II]{.smallcaps} a.C.--[I]{.smallcaps} d.C. Desenho: [August Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_245)](https://upload.wikimedia.org/wikipedia/commons/2/20/Plan_of_house_of_the_Surgeon_in_Mau_fig134.png){#fig:mau134 .line}
 
@@ -437,11 +437,11 @@ vista é desimpedida desde a entrada principal da casa até o *tablinum*,
 a sala onde o chefe da família recebia os seus clientes ([@fig:pansa]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/0c/c6/3e/0cc63e51be87b309970ed2ce18799bcf.gif" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/0c/c6/3e/0cc63e51be87b309970ed2ce18799bcf.gif" data-background-size="contain"}
 
 ![Casa de Pansa, Pompeia, vista do átrio através do *tablinum* até o peristilo. Reconstituição segundo Mau, 1899](https://i.pinimg.com/originals/0c/c6/3e/0cc63e51be87b309970ed2ce18799bcf.gif){#fig:pansa}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuscan_atrium_in_Pompeii_Mau_fig117.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuscan_atrium_in_Pompeii_Mau_fig117.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O átrio da casa romana é sempre cercado por beirais amplos, geralmente
@@ -454,17 +454,17 @@ Com um clima mais estável e menos seco que na Grécia, não há tanta preocupa�
 
 ![Planta estrutural de um átrio toscano, segundo [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_250)](https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuscan_atrium_in_Pompeii_Mau_fig117.png){#fig:mau117 .line .align-right}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b8/Pompeii_-_its_life_and_art_(1899)_(14750073956).jpg" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b8/Pompeii_-_its_life_and_art_(1899)_(14750073956).jpg" data-background-size="contain"}
 
 ![Corte longitudinal da casa de Salústio, Pompeia, século [II]{.smallcaps} a.C., compreendendo *fauces*, átrio e *tablinum*. Desenho: [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm)](https://upload.wikimedia.org/wikipedia/commons/b/b8/Pompeii_-_its_life_and_art_(1899)_(14750073956).jpg){#fig:mau136}
 
 <!--_,-->
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/9d/82/29/9d82297091f4dd4ca46997fab22659fc.jpg" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/9d/82/29/9d82297091f4dd4ca46997fab22659fc.jpg" data-background-size="contain"}
 
 ![Esquema de uma cisterna romana](https://i.pinimg.com/originals/9d/82/29/9d82297091f4dd4ca46997fab22659fc.jpg){#fig:cistern}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/27/5b/44/275b4456228531bf829a43b056a6c9dc.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/27/5b/44/275b4456228531bf829a43b056a6c9dc.jpg"}
 
 ![Cisterna na casa do átrio em U, Aregenua, Gália romana (atual sítio de Vieux-la-Romaine, Normandia)](https://i.pinimg.com/originals/27/5b/44/275b4456228531bf829a43b056a6c9dc.jpg){#fig:aregenua}
 
@@ -479,7 +479,7 @@ cisterna sobre a rua ([@fig:aregenua]).
 Cisterna romana: a água é recolhida em um espelho d’água, que a refresca no verão, decantando as impurezas e caindo em um poço na qual é armazenada, sendo recolhida para uso posterior por baldes de forma manual. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png" data-background-size="contain"}
 
 ![Reconstituição da casa de Maomé em Medina, c. 622 d.C., segundo Leacroft, 1976](https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png){#fig:leacroft1976-2 .full .line}
 
@@ -582,7 +582,7 @@ Irã: uso das torres de ventilação associadas aos “Qanat”, que são aquedu
 
 ![Reconstituição do *kota raja* (complexo palaciano) de Malacca no século [XV]{.smallcaps}. Desenho: Mohd Faizal Rahmat, 2016--2018](https://i.pinimg.com/originals/53/c8/e5/53c8e5ddb750df9eeedb22a27723b629.jpg){#fig:malacca-kotarajaC}
 
-# Índia: unidade na diversidade # {data-background-color="#0f0"}
+# Índia: unidade na diversidade #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A cultura tradicional da Índia é *exótica* aos olhos do Ocidente num
@@ -766,7 +766,7 @@ das formas de devoção
 
 <!--_,-->
 
-# Civilizações hidráulicas # {data-background-color="#0f0"}
+# Civilizações hidráulicas #
 
 ##
 
@@ -1050,5 +1050,5 @@ império Khmer foi conquistado pelo reino de Sião --- a atual Tailândia
 comerciais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Bibliografia # {.unlisted .allowframebreaks}
+# Bibliografia # {- .unlisted .allowframebreaks}
 

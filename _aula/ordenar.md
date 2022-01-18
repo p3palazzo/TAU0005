@@ -239,5 +239,5 @@ entre eles começa, então, a tomar a forma de rua--corredor.
 
 ![Vista aérea de Niamey, Chade. Foto: [Walter Mittelholzer, 1930, arquivo da Escola Politécnica Federal de Zurique](https://commons.wikimedia.org/wiki/File:ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey}
 
-# Bibliografia # {.unlisted .allowframebreaks}
+# Bibliografia # {- .unlisted .allowframebreaks}
 

@@ -194,7 +194,7 @@ intenção dizendo com todas as letras:
 
 # Querela do ornamento #
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg"}
 
 ![Abadia de Cluny, estágio III, século [XII]{.smallcaps}. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/cluny/) baseada em Kenneth J. Conant](https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg){#fig:cluny}
 
@@ -202,15 +202,15 @@ intenção dizendo com todas as letras:
 [@rudolph:1988bernard27]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg"}
 
 ![Nave da igreja da abadia de Fontenay, Borgonha, 1130--1147](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg){#fig:fontenay}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/1800px-Map_France_Gothic_1180.svg.png" data-background-position="top"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/1800px-Map_France_Gothic_1180.svg.png" data-background-position="top"}
 
 ![Algumas das primeiras igrejas góticas na França, século [XII]{.smallcaps}. Amarelo escuro: extensão territorial do reino da França c. 1180; amarelo claro: domínio real](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/900px-Map_France_Gothic_1180.svg.png){#fig:gothic-1180 .align-right}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg"}
 
 ![Abadia de S. Dionísio (Saint-Denis), igreja concebida pelo abade Suger e construída 1122--1151. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/saint-denis/)](https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg){#fig:sdenis-golvin}
 
@@ -264,7 +264,7 @@ gradualmente o conhecimento estabelecido e não tendo a pretensão de
 inventar algo do zero [@bork:2011geometry].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/29/21/e0/2921e0a5cddcb9c87574995c48c9402a.jpg" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/29/21/e0/2921e0a5cddcb9c87574995c48c9402a.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O desenho como instrumento da concepção arquitetônica não é uma novidade
@@ -287,15 +287,15 @@ arquiteto e o cliente, ou entre o arquiteto e os pedreiros
 
 [@arce:2008umayyad]
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/32/Construction.voute.romaine.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/32/Construction.voute.romaine.png" data-background-size="contain"}
 
 ![Cimbramento para uma abóbada de berço segundo [Viollet-le-Duc, 1856](https://commons.wikimedia.org/wiki/File:Construction.voute.romaine.png)](https://upload.wikimedia.org/wikipedia/commons/3/32/Construction.voute.romaine.png){#fig:viollet-rome}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AbbaziaLaLucerneCentinaVolte.JPG/1280px-AbbaziaLaLucerneCentinaVolte.JPG"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AbbaziaLaLucerneCentinaVolte.JPG/1280px-AbbaziaLaLucerneCentinaVolte.JPG"}
 
 ![Cimbramento para a reconstrução das abóbadas da abadia de Sainte-Trinité-de-la-Lucerne. Foto: [MM, 2010](https://commons.wikimedia.org/wiki/File:AbbaziaLaLucerneCentinaVolte.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AbbaziaLaLucerneCentinaVolte.JPG/1280px-AbbaziaLaLucerneCentinaVolte.JPG){#fig:lucerne}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg" data-background-size="contain"}
 
 ![Guindaste na carpintaria de uma igreja gótica. Desenho de [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg){#fig:grue}
 
@@ -330,5 +330,5 @@ também ganha eficiência e previsibilidade [@toker:1985gothic67].
 
 # Espacialidade na pintura gótica #
 
-# Bibliografia {.allowframebreaks}
+# Bibliografia {- .unlisted .allowframebreaks}
 
