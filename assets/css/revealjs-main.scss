@@ -34,11 +34,14 @@ html {
   div.subfigures > p,
   dl,
   figcaption,
+  h1, h2,
   h3, h4, h5,
   ol, ul,
+  .r-frame,
   .box {
     background: transparentize($backgroundColor, 0.3);
     backdrop-filter: blur(5px);
+    border: none;
   }
   dt, h3, h4, h5 {
     @extend .smallcaps;
@@ -116,35 +119,31 @@ html {
         display: none;
       }
     }
-    h1:not(.allowframebreaks),
-    h2 {
-      background: $backgroundColor;
-      position: fixed;
-      bottom: 5%;
-      margin-left: auto;
-      margin-right: auto;
-      padding-top: 0.3rem;
-      width: 100%;
-    }
-    h2:empty {
-      padding: 0;
-    }
     // Make sure images don't overflow from their containers
     img {
       object-fit: contain;
     }
-    // Hide images and text we can't put into presenter notes.
-    // Prefer images as backgrounds so they fill the entire slide.
-    dd,
-    & > div.iframe-wrapper,
-    & > div:not(.columns):not(.r-stack) > figure,
+    // Hide single images so we can use data-background-image
     & > figure {
-      & > iframe,
-      & > img:not(.fragment),
-      & > video {
-        display: none;
-        visibility: hidden;
+      & > img {
+	max-height: 80vh;
       }
+      & > img:not(.r-stretch):not(.r-stack):not(.overlay-slide),
+      & > video:not(.r-stretch):not(.r-stack):not(.overlay-slide) {
+	visibility: hidden;
+      }
+      & > img.overlay-slide,
+      & > img.overlay-slide + figcaption {
+	float: right;
+	clear: right;
+	max-width: 25%;
+      }
+    }
+    & > figure + figcaption,
+    & > div.subfigures > p:last-of-type {
+      position: fixed;
+      bottom: 2.5%;
+      left: 2.5%;
     }
   }
 
@@ -166,8 +165,6 @@ html {
   figcaption,
   div.subfigures > p:last-of-type {
     padding: 8px 2.5%; // 2.5% + 45% + 2.5% = 50% column width.
-    position: fixed;
-    bottom: 2.5%;
     height: auto;
     max-width: 60%;
     text-align: left;
@@ -193,4 +190,4 @@ html {
     }
   }
 }
-// vim: set foldmethod=indent :
+// vim: set foldmethod=indent  shiftwidth=2:
