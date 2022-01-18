@@ -19,7 +19,7 @@ header:
     url: "/slides/arcos/"
 ---
 
-# Geometria e forças # {data-background-color="#0f0"}
+# Geometria e forças #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As estruturas tradicionais em alvenaria estrutural sustentam a
@@ -111,7 +111,7 @@ arcos e aliviar o esforço cortante que chega quase verticalmente às
 colunas, além de apoiar o cimbramento.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Assim como as vigas, os arcos precisam ser dimensionados segundo a carga
@@ -123,7 +123,7 @@ materiais de dimensões maiores: encontrar troncos de árvores maiores ou
 cortar pedras maiores.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm" data-background-video-muted="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Já no caso de arcos, abóbadas e cúpulas, o
@@ -136,13 +136,11 @@ argamassa ([@fig:pantheon-wtv]).
 As aduelas são as peças mais importantes nos arcos, por possibilitarem sua divisão em partes menores, tornando-os ideais para grandes vãos. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Apolodoro de Damasco, arquiteto, Panteão, Roma, 113--125 d.C. Vista do interior filmada por [Wanderlust Travel Videos, 2021]](https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm){#fig:pantheon-wtv}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Apolodoro de Damasco, arquiteto, Panteão, Roma, 113--125 d.C. Vista do interior filmada por [Wanderlust Travel Videos, 2021]](https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm){#fig:pantheon-wtv .full}
 
 [Wanderlust Travel Videos, 2021]: https://youtu.be/bn6wLKU1XsM
 
-## {.unlisted data-background-image="https://image.jimcdn.com/app/cms/image/transf/dimension=612x10000:format=jpg/path/s65df48357f12391f/image/i16866f73a4472065/version/1547398756/image.jpg" data-background-size="contain"}
+## {data-background-image="https://image.jimcdn.com/app/cms/image/transf/dimension=612x10000:format=jpg/path/s65df48357f12391f/image/i16866f73a4472065/version/1547398756/image.jpg" data-background-size="contain"}
 
 ![Elevação e corte do *tholos* no santuário de Esculápio em Epidauro, c. 360--320 a.C. Reconstituição por [Massimiliano Pezzolini, 2003]](https://image.jimcdn.com/app/cms/image/transf/dimension=612x10000:format=jpg/path/s65df48357f12391f/image/i16866f73a4472065/version/1547398756/image.jpg){#fig:asklepios}
 
@@ -156,7 +154,7 @@ entre dimensões, e em última análise favorece as composições com
 simetria bilateral ou mesmo central ([@fig:asklepios]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8a/Forces_on_trabeated_structure.png" data-background-position="top"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/8a/Forces_on_trabeated_structure.png" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por isso, sempre que dimensionamos uma estrutura tradicional, esse
@@ -166,7 +164,7 @@ elemento portante ([@fig:arquitravada] [B]{.smallcaps}).
 
 ![Forças numa estrutura arquitravada: [(A)]{.smallcaps} carga axial concentrada; [(B)]{.smallcaps} carga uniformemente distribuída causando esforços de flexão (deformação nas linhas tracejadas) e cisalhamento [(C)]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Forces_on_trabeated_structure.png/1024px-Forces_on_trabeated_structure.png){#fig:arquitravada .line}
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nos procedimentos tradicionais de construção, é claro que não vamos
@@ -183,7 +181,7 @@ prática. Fazemos isso por três motivos.
   tradicional.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain" data-background-position="left"}
 
 ![Léon Krier, Edifícios da Universidade de Yale: idade e primeira campanha significativa de reformas, 1990](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png){#fig:krier-1990 .line .align-right}
 
@@ -201,7 +199,7 @@ vida útil muito mais longa para amortizar essa pegada de carbono
 [@ciblac:2014sustainable].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Um dos aspectos chave na durabilidade das construções tradicionais é a
@@ -217,7 +215,7 @@ desenvolvimento da matemática moderna nos dá uma compreensão importante
 sobre como funcionam os arcos tradicionais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/b3/f1/9d/b3f19d2977e920c7a6d9eb91febcdbe8.png" data-background-size="contain" data-background-position="right" data-background-color="#0f0"}
+## {data-background-image="https://i.pinimg.com/originals/b3/f1/9d/b3f19d2977e920c7a6d9eb91febcdbe8.png" data-background-size="contain" data-background-position="right"}
 
 ![Galileu Galilei (1564--1642), retratado por [Justus Sustermans, c. 1640]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg/604px-Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg){#fig:galileo .align-right}
 
@@ -234,7 +232,7 @@ italiano Galileu Galilei e, em seguida, pelo físico inglês Robert Hooke
 ([@fig:galileo;@fig:greer-hooke]) [@benvenuto:1991vaulted].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://www.tomshw.it/data/images/0/4/4/0/pisa-caduta-gravi-3370e148a5790ee7875f332f366097f34.jpg" data-background-position="bottom"}
+## {data-background-image="https://www.tomshw.it/data/images/0/4/4/0/pisa-caduta-gravi-3370e148a5790ee7875f332f366097f34.jpg" data-background-position="bottom"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Você já deve ter ouvido falar do experimento de Galileu sobre a queda de
@@ -248,7 +246,7 @@ Giovanni Borelli, Hooke e Isaac Newton.
 
 [Sergio Cacciatori, 2017]: https://www.tomshw.it/altro/luna-in-caduta-libera-facciamo-i-calcoli/
 
-## {.unlisted data-background-image="https://www.mpiwg-berlin.mpg.de/resrep00_01/images/Jahresbericht_img.large/47.jpg"}
+## {data-background-image="https://www.mpiwg-berlin.mpg.de/resrep00_01/images/Jahresbericht_img.large/47.jpg"}
 
 ![Modo de aplicar o quadrante para estimar a trajetória de tiro, segundo [Diego Ufano, 1628]](https://www.mpiwg-berlin.mpg.de/resrep00_01/images/Jahresbericht_img.large/47.jpg){#fig:ufano}
 
@@ -263,7 +261,7 @@ numa trajetória curva, como ilustrado nesse diagrama de Diego Ufano
 publicado em 1628 ([@fig:ufano]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="http://www.imss.fi.it/ms72/IMAGE1/C116_V.jpg" data-background-position="top"}
+## {data-background-image="http://www.imss.fi.it/ms72/IMAGE1/C116_V.jpg" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Galileu, porém, descobriu que a trajetória era curva do começo ao fim,
@@ -274,7 +272,7 @@ como ele anotou nos seus cadernos ([@fig:galileo-c72f116]).
 
 [códice 72, fl. 116 v.º]: http://www.imss.fi.it/ms72/HTML/F116_V/M116_V.HTM
 
-## {.unlisted data-background-image="http://www.imss.fi.it/ms72/IMAGE1/C117_R.jpg"}
+## {data-background-image="http://www.imss.fi.it/ms72/IMAGE1/C117_R.jpg"}
 
 ![Galileu Galilei, manuscrito no [códice 72, fl. 117 r.º]](https://i.pinimg.com/originals/4a/20/34/4a20340227f72615641221bfb84ebd56.png){#fig:galileo-c72f117}
 
@@ -285,7 +283,7 @@ Galileu considerou que a curva balística se aproximava a uma parábola, e
 descreveu essa curva pelas suas tangentes ([@fig:galileo-c72f117]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/48/17_Robert_Hooke_Engineer.JPG" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/48/17_Robert_Hooke_Engineer.JPG" data-background-size="contain" data-background-position="left"}
 
 ![Rita Greer, [*Robert Hooke (1635--1703): cientista, arquiteto, engenheiro*]. Óleo sobre madeira, 2009](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/17_Robert_Hooke_Engineer.JPG/614px-17_Robert_Hooke_Engineer.JPG){#fig:greer-hooke .align-right}
 
@@ -299,7 +297,7 @@ próprio Hooke nessa pintura comemorativa por Rita Greer
 ([@fig:greer-hooke]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/eb/Parabola_graphed_against_a_catenary_upside_down_view.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/eb/Parabola_graphed_against_a_catenary_upside_down_view.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A catenária é a função do cosseno de uma hipérbola, enquanto a parábola
@@ -314,7 +312,7 @@ Ela é a forma ideal do arco, gerada a partir de uma curvatura que permite que o
 
 [Dino, 2016]: https://commons.wikimedia.org/wiki/File:Parabola_graphed_against_a_catenary_upside_down_view.png
 
-## {.unlisted data-background-image="https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_2/d85e5284_0a8d_44ad_8a15_a3bb0029345f/mid_00290173_001.jpg"}
+## {data-background-image="https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_2/d85e5284_0a8d_44ad_8a15_a3bb0029345f/mid_00290173_001.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A conclusão mais importante de Hooke foi perceber que as forças podiam
@@ -327,7 +325,7 @@ cúpula da catedral de São Paulo, em Londres ([@fig:wren]).
 
 ![Croquis de Christopher Wren para a cúpula da catedral de São Paulo, Londres, c. 1705. [Museu Britânico](https://www.britishmuseum.org/collection/object/P_1881-0611-203)](https://media.britishmuseum.org/media/Repository/Documents/2014_10/5_2/d85e5284_0a8d_44ad_8a15_a3bb0029345f/mid_00290173_001.jpg){#fig:wren}
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/weaving_the_bridge_at_qeswachaka-140923607.webm" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/weaving_the_bridge_at_qeswachaka-140923607.webm" data-background-video-muted="true"}
 
 ![Trecho do filme <em><a href="https://vimeo.com/140923607">Weaving the Bridge at Q&rsquo;eswachaka</a></em>. Produção: <a href="https://vimeo.com/user17621929"><span class="smallcaps">NMAI</span> Media Group</a>](https://cdn.palazzo.arq.br/firmitas/arcos/weaving_the_bridge_at_qeswachaka-140923607.webm){#fig:qeswachaka}
 
@@ -338,27 +336,27 @@ por exemplo, os cabos ou cordas que sustentam o tabuleiro de uma ponte
 suspensa, por exemplo as pontes tradicionais dos Andes ([@fig:qeswachaka]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://images.adsttc.com/media/images/5255/a0e8/e8e4/4e67/bf00/06ee/slideshow/Planta-general-7-Model2.jpg?1381343447" data-background-size="contain"}
+## {data-background-image="https://images.adsttc.com/media/images/5255/a0e8/e8e4/4e67/bf00/06ee/slideshow/Planta-general-7-Model2.jpg?1381343447" data-background-size="contain"}
 
 ![Planta da igreja da Sagrada Família. [Acervo da fundação Templo Expiatório da Sagrada Família] via ArchDaily](https://images.adsttc.com/media/images/5255/a0e8/e8e4/4e67/bf00/06ee/slideshow/Planta-general-7-Model2.jpg?1381343447){#fig:gaudi-plan .align-right}
 
 [Acervo da fundação Templo Expiatório da Sagrada Família]: https://www.archdaily.com.br/br/787647/classicos-da-arquitetura-la-sagrada-familia-antoni-gaudi
 
-## {.unlisted data-background-image="https://images.adsttc.com/media/images/5255/a0fd/e8e4/4ecb/1700/0702/slideshow/SECCIO_2011_neta.jpg?1381343451" data-background-size="contain"}
+## {data-background-image="https://images.adsttc.com/media/images/5255/a0fd/e8e4/4ecb/1700/0702/slideshow/SECCIO_2011_neta.jpg?1381343451" data-background-size="contain"}
 
 ![Corte longitudinal da igreja da Sagrada Família, Barcelona](https://images.adsttc.com/media/images/5255/a0fd/e8e4/4ecb/1700/0702/slideshow/SECCIO_2011_neta.jpg?1381343451){#fig:gaudi-sec .align-right}
 
-## {.unlisted data-background-image="https://3.bp.blogspot.com/-oQ3LMOL9U58/UfkDQY3JDdI/AAAAAAAAAX4/IT43XNeoSlE/s1600/SagradaWeightModel.jpg"}
+## {data-background-image="https://3.bp.blogspot.com/-oQ3LMOL9U58/UfkDQY3JDdI/AAAAAAAAAX4/IT43XNeoSlE/s1600/SagradaWeightModel.jpg"}
 
 ![Antoni Gaudí, arquiteto, maquete de cargas nas abóbadas do templo expiatório da Sagrada Família, Barcelona, último quartel do século [XIX]{.smallcaps}. Foto: [David Clay, 2013]](https://3.bp.blogspot.com/-oQ3LMOL9U58/UfkDQY3JDdI/AAAAAAAAAX4/IT43XNeoSlE/s1600/SagradaWeightModel.jpg){#fig:gaudi-model}
 
 [David Clay, 2013]: https://davidclayphotography.blogspot.com/2013/07/gaudis-weight-bearing-model-of-sagrada.html
 
-## {.unlisted data-background-image="https://images.adsttc.com/media/images/5254/43b3/e8e4/4ecb/1700/066a/slideshow/2002.jpg?1381254039" data-background-size="contain"}
+## {data-background-image="https://images.adsttc.com/media/images/5254/43b3/e8e4/4ecb/1700/066a/slideshow/2002.jpg?1381254039" data-background-size="contain"}
 
 ![Vista da igreja da Sagrada Família em construção, 2002](https://images.adsttc.com/media/images/5254/43b3/e8e4/4ecb/1700/066a/slideshow/2002.jpg?1381254039){#fig:familia-2002}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/hire-bub_gb_SroIwthzM8MC_0474.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/hire-bub_gb_SroIwthzM8MC_0474.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na verdade, como já dissemos, a construção tradicional considera que
@@ -372,7 +370,7 @@ Philippe de la Hire ([@fig:hire]) [@benvenuto:1991vaulted, 326].
 
 ![Philippe de La Hire, modelo de forças num arco, 1695](https://hcommons.org/app/uploads/sites/1002372/2021/08/hire-bub_gb_SroIwthzM8MC_0474.png){#fig:hire .line}
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Até a metade do século [XVIII]{.smallcaps}, todas as especulações sobre
@@ -386,7 +384,7 @@ ser possível calcular a deformação elástica da matéria que constitui os
 arcos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/uarc20/2018/uarc20.v012.i03/15583058.2017.1323252/20181016/images/large/uarc_a_1323252_f0010_b.jpeg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+## {data-background-image="https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/uarc20/2018/uarc20.v012.i03/15583058.2017.1323252/20181016/images/large/uarc_a_1323252_f0010_b.jpeg" data-background-size="contain" data-background-position="left"}
 
 ![Análise gráfica do estado limite de um arco em alvenaria com quatro aduelas estabilizado por um contraforte. [Rondeaux e Zastavni, "A Fully Graphical Approach..."]](https://www.tandfonline.com/na101/home/literatum/publisher/tandf/journals/content/uarc20/2018/uarc20.v012.i03/15583058.2017.1323252/20181016/images/large/uarc_a_1323252_f0010_b.jpeg){#fig:rondeaux2017-10 .align-right}
 
@@ -404,7 +402,7 @@ com muita facilidade usando um diagrama funicular
 [@rondeaux:2018fully12].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Estruturas lineares # {data-background-color="#0f0"}
+# Estruturas lineares #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Agora que já sabemos como funciona um arco do ponto de vista da
@@ -416,7 +414,7 @@ impor alguns compromissos na eficiência da estrutura.
 
 ## Origem dos arcos ## {data-visibility="hidden"}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Origins_of_nubian_and_indian_vaults.svg/768px-Origins_of_nubian_and_indian_vaults.svg.png" data-background-position="20px 20px" data-background-size="500px 500px" data-background-color="#0f0"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Origins_of_nubian_and_indian_vaults.svg/768px-Origins_of_nubian_and_indian_vaults.svg.png" data-background-position="20px 20px" data-background-size="500px 500px"}
 
 ![Origens da construção arqueada; amarelo: extensão do uso de arcos até o século [XIV]{.smallcaps}, vermelho: prováveis regiões de origem --- Sudão e Núbia, na África, e noroeste da Índia. [Pedro P. Palazzo, 2021](https://commons.wikimedia.org/wiki/File:Origins_of_nubian_and_indian_vaults.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Origins_of_nubian_and_indian_vaults.svg/768px-Origins_of_nubian_and_indian_vaults.svg.png){#fig:vault-origin .nobg .align-right}
 
@@ -427,19 +425,19 @@ impor alguns compromissos na eficiência da estrutura.
 
 ## Arcos falsos não são arcos ## {data-visibility="hidden"}
 
-## {.unlisted data-background-image="https://live.staticflickr.com/65535/49523007636_92cab09df1_k_d.jpg"}
+## {data-background-image="https://live.staticflickr.com/65535/49523007636_92cab09df1_k_d.jpg"}
 
 ![Palácio maia no sítio de Palenque, atual México, século [VII]{.smallcaps} d.C. Foto: [Bernard Dupont, 2020](https://commons.wikimedia.org/wiki/File:A-shaped_Corbel_Archs_-_Palenque_Maya_Site,_Feb_2020.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/A-shaped_Corbel_Archs_-_Palenque_Maya_Site,_Feb_2020.jpg/1280px-A-shaped_Corbel_Archs_-_Palenque_Maya_Site,_Feb_2020.jpg){#fig:ciclop-palenque}
 
 <!--_,-->
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: r-stack
 ![Arco falso ou arco de mísulas. a -- compressão axial, f -- flexão](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-falso.png){#fig:arco-falso .line .full}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: r-stack
 ![Distribuição ideal de cargas na metade esquerda de um arco falso, segundo Ciblac e Morel, *Sustainable Masonry*](https://hcommons.org/app/uploads/sites/1002372/2021/08/ciblac2014-10.13.png){#fig:ciblac2014-10.13}
@@ -447,7 +445,7 @@ impor alguns compromissos na eficiência da estrutura.
 
 ## Catenárias e parábolas ## {data-visibility="hidden"}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/93/Catenaria_in_terra_cruda_a_più_corsi_di_conci.jpeg" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/93/Catenaria_in_terra_cruda_a_più_corsi_di_conci.jpeg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O estudo matemático das cargas à compressão pura mostrou que a catenária
@@ -461,7 +459,7 @@ material ([@fig:cat-adobe]).
 
 [Max Corradi, 2012]: https://commons.wikimedia.org/wiki/File:Catenaria_in_terra_cruda_a_più_corsi_di_conci.jpeg
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por isso, alguns dos mais antigos traçados de
@@ -470,7 +468,7 @@ perfeita. Além disso, as curvas artesanais são sempre aproximadas, e a
 conversão de uma catenária em parábola é simples.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Nubian vault-2hXroNBgrXU-720p-25fps.webm"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Nubian vault-2hXroNBgrXU-720p-25fps.webm"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O princípio estrutural do arco verdadeiro é conhecido no Egito, na Núbia
@@ -488,7 +486,7 @@ Sudão) aos lagos da África central (atuais Camarões e Chade).
 Association la Voûte Nubienne, construção de abóbadas núbias, Sudão. Produção: [Autodesk e Dezeen, 2016](https://youtu.be/2hXroNBgrXU)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+##
 
 ::::::::::::::::::::::::::::::::::::::::: {#fig:choisy-nubie .full}
 ![procedimento de execução dos arcos sucessivos](https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0033.png){#fig:choisy1.033 .line width="45%"}
@@ -497,7 +495,7 @@ Association la Voûte Nubienne, construção de abóbadas núbias, Sudão. Produ
 Construção de abóbadas núbias, segundo Choisy, *Histoire de l'architecture*
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Persia-Taq_Kasra_Wonder_of_Architecture.webm"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Persia-Taq_Kasra_Wonder_of_Architecture.webm"}
 
 ::::::::::::::::::::::::::::::::::::::::::: {#fig:kasra .iframe-wrapper}
 <iframe src="https://www.youtube-nocookie.com/embed/Si1N2t0Dm7k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -517,7 +515,7 @@ Essa tecnologia espalha-se pelo Egito e talvez Mesopotâmia, partindo do antigo 
 São feitos de tijolos cozidos relativamente leves, sustentados entre si apenas pelo atrito entre tijolo e argamassa. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+##
 
 ::::::::::::::::::::::::::::::::::: {#fig:kasra-elv .full .r-stack}
 ![estado atual](https://silk-cities.org/wp-content/uploads/2021/04/Taq-Kasra-Architecture-Now.jpg){#fig:kasra-elv-now .fragment}
@@ -529,13 +527,13 @@ São feitos de tijolos cozidos relativamente leves, sustentados entre si apenas 
 
 [Silk Cities, 2020]: https://silk-cities.org/interactive-then-now
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Brown-18060_0095-1.jpg/2560px-Brown-18060_0095-1.jpg" data-background-position="bottom"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Brown-18060_0095-1.jpg/2560px-Brown-18060_0095-1.jpg" data-background-position="bottom"}
 
 ![Construção arqueada na Pérsia e no norte da Índia. [Percy Brown, 1900]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Brown-18060_0095-1.jpg/1024px-Brown-18060_0095-1.jpg){#fig:brown1959-40}
 
 ## Arco pleno ## {data-visibility="hidden"}
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A catenária e a parábola são as formas mais eficientes para se construir
@@ -548,7 +546,7 @@ processo construtivo como um todo.
 Ressalta-se que as catenárias e parábolas são complexas de se traçar, em contraposição à economia na obra e aos grandes vãos que geram.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Perugia_Porta_Urbica_etrusca_o_Arco_di_Augusto.jpg/1608px-Perugia_Porta_Urbica_etrusca_o_Arco_di_Augusto.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Perugia_Porta_Urbica_etrusca_o_Arco_di_Augusto.jpg/1608px-Perugia_Porta_Urbica_etrusca_o_Arco_di_Augusto.jpg" data-background-size="contain" data-background-position="left"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O arco pleno é usado desde a Antiguidade como abertura em paredes ou
@@ -568,7 +566,7 @@ Não existem evidências arqueológicas dos arcos em madeira na Índia védica, 
 
 [Gustavo Stafforello, *La patria, geografia dell'Italia*, 1895]: https://commons.wikimedia.org/wiki/File:Perugia_Porta_Urbica_etrusca_o_Arco_di_Augusto.jpg
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/f9/4f/e1/f94fe1acfbf5dc1281f104ad963a4b60.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/f9/4f/e1/f94fe1acfbf5dc1281f104ad963a4b60.jpg"}
 
 ![Arco do triunfo de Constantino, Roma, após 313 d.C. com espólios dos séculos [I--III]{.smallcaps} d.C. Foto: [AlfvanBeem, 2011]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Arch_of_Constantine_(Rome)_photo-4.JPG/1024px-Arch_of_Constantine_(Rome)_photo-4.JPG){#fig:constantine}
 
@@ -589,7 +587,7 @@ grandeza.
 
 ## Arco plano ## {data-visibility="hidden"}
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:plano .columns}
 ::: {.column width="50%"}
@@ -602,7 +600,7 @@ grandeza.
 Vãos horizontais. [(A)]{.smallcaps} -- compressão axial, [(A′)]{.smallcaps} -- transferência das cargas para os apoios, [(F)]{.smallcaps} -- flexão 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Domus_Aurea-Italy_4K_Travel_Channel-arco_plano.webm" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Domus_Aurea-Italy_4K_Travel_Channel-arco_plano.webm" data-background-video-muted="true"}
 
 ![Arcos planos na Domus aurea (palácio do imperador Nero), Roma, após 50 d.C. Filmagem: [Günther Etlinger e Ursula Streit, 2014]](https://cdn.palazzo.arq.br/firmitas/arcos/Domus_Aurea-Italy_4K_Travel_Channel-arco_plano.webm){#fig:aurea-platebande .full}
 
@@ -610,7 +608,7 @@ Vãos horizontais. [(A)]{.smallcaps} -- compressão axial, [(A′)]{.smallcaps} 
 
 ## Dimensionamento sem cálculo ## {data-visibility="hidden"}
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::: {#fig:leo .r-stack .full}
 ![intradorso do arco](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-leo-0.png){#fig:leoA .line .fragment .current-visible .align-left data-fragment-index="0"}
@@ -628,7 +626,7 @@ Dimensionamento da espessura de um arco segundo Leonardo da Vinci
 
 ## Ogivas ## {data-visibility="hidden"}
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::: {#fig:vedic .full}
 ![[migrações arianas no período védico inicial](https://commons.wikimedia.org/wiki/File:Early_Vedic_Culture_(1700-1100_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/5/57/Early_Vedic_Culture_(1700-1100_BCE).png){#fig:early-vedic width="48%"}
@@ -647,7 +645,7 @@ serrada, diferente das construções em tijolo da cultura do vale do Rio
 Indo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/2560px-Brown-18060_0021-1.jpg" data-background-position="top"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/2560px-Brown-18060_0021-1.jpg" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nessa tradição, os telhados arqueados das *kuṭikā* (cabanas ou edículas)
@@ -660,7 +658,7 @@ no começo do século [XX]{.smallcaps} [@brown:1959indiana].
 
 ![Reconstituição de um povoado védico segundo [Percy Brown, 1900]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1024px-Brown-18060_0021-1.jpg){#fig:brown1959-0021-1}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/34/d9/ef/34d9eff477411c9c7d1e757d78198ed6.png" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/34/d9/ef/34d9eff477411c9c7d1e757d78198ed6.png" data-background-size="contain"}
 
 ![Império Maurya no seu auge. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Maurya_Empire,_c.250_BCE.png)](https://upload.wikimedia.org/wikipedia/commons/c/c4/Maurya_Empire,_c.250_BCE.png){#fig:maurya}
 
@@ -672,7 +670,7 @@ budistas escavados na rocha no período Maurya, a partir do século
 [III]{.smallcaps} a.C ([@fig:maurya]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nos mosteiros de Lomas Ṛṣi, Kārli e Bhājā, a articulação decorativa dos
@@ -691,7 +689,7 @@ Reconstituição de estruturas arqueadas em madeira a partir de exemplares talha
 
 <!--_,-->
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png" data-background-size="contain"}
 
 ![Esquema estrutural de um *mudhif*](https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png){#fig:mudhif-croquis .line .align-right}
 
@@ -701,7 +699,7 @@ O princípio é análogo ao do *mudhif*, a casa feita de arcos em feixes de
 de juncos dos ma'dan, os "árabes do pântano" que vivem no sul do Iraque.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://live.staticflickr.com/3690/9227394172_10a21c24d9_k_d.jpg"}
+## {data-background-image="https://live.staticflickr.com/3690/9227394172_10a21c24d9_k_d.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A *kuṭikā* serve como módulo básico para construções maiores, como
@@ -715,11 +713,9 @@ mais evidentes nas representações em pedra, como a da caverna de Lomas
 
 [Anandajoti Bhikku, 2013]: https://www.flickr.com/photos/anandajoti/9227394172/
 
-## {.unlisted data-background-image="https://live.staticflickr.com/3871/33813012975_78cdd80292_o_d.jpg"}
+## {data-background-image="https://live.staticflickr.com/3871/33813012975_78cdd80292_o_d.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Representação da cidade de Kusināgarā no relevo da guerra pelas relíquias do Buda, portal sul do estupa 1 em Sāñćī, centro da Índia, século [I]{.smallcaps} d.C. Foto: [Anandajoti Bhikku, 2017]](https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg){#fig:kusinagar}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Representação da cidade de Kusināgarā no relevo da guerra pelas relíquias do Buda, portal sul do estupa 1 em Sāñćī, centro da Índia, século [I]{.smallcaps} d.C. Foto: [Anandajoti Bhikku, 2017]](https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg){#fig:kusinagar .full}
 
 [Anandajoti Bhikku, 2017]: https://www.flickr.com/photos/anandajoti/33813012975/in/photostream/
 
@@ -728,7 +724,7 @@ A empena curva é o traçado gerador de grandes salões abobadados nos
 antigos palácios indianos ([@fig:kusinagar]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As coberturas têm uma aresta na cumeada, para melhor drenar a água da
@@ -746,11 +742,11 @@ ogival ([@fig:kusinagar-gate]).
 
 [@henriet:1978recherches136]
 
-# Estruturas espaciais # {data-background-color="#0f0"}
+# Estruturas espaciais #
 
 ## Abóbadas de berço ## {data-visibility="hidden"}
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Domus_Aurea-Italy_4K_Travel_Channel-volta.webm" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Domus_Aurea-Italy_4K_Travel_Channel-volta.webm" data-background-video-muted="true"}
 
 ![Abóbadas na Domus aurea, Roma, após 50 d.C. Filmagem: [Günther Etlinger e Ursula Streit, 2014]](https://cdn.palazzo.arq.br/firmitas/arcos/Domus_Aurea-Italy_4K_Travel_Channel-volta.webm){#fig:aurea-volta}
 
@@ -765,7 +761,7 @@ sejam uma solução consagrada para cobrir espaços importantes. A extrusão
 de um arco pleno é conhecida como *abóbada de berço*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/firmitas/arcos/Les_mysteres_du_temple_de_Diane-kMPAasXV_DU-1080p-50fps.webm" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/firmitas/arcos/Les_mysteres_du_temple_de_Diane-kMPAasXV_DU-1080p-50fps.webm" data-background-video-muted="true"}
 
 ::::::::::::::::::::::::::::::::::::::::::: {#fig:diane .iframe-wrapper}
 <iframe src="https://www.youtube-nocookie.com/embed/kMPAasXV_DU?start=51" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -779,27 +775,25 @@ Basílica romana conhecida como templo de Diana, Nîmes, sul da França, século
 [Martin Kraft, 2016]: https://commons.wikimedia.org/wiki/File:MK54102_Temple_de_Diane_(Nîmes).jpg
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/05/Temple_of_Fortuna_-_Palladio_-_Elevation.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/05/Temple_of_Fortuna_-_Palladio_-_Elevation.jpg"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Santuário de Fortuna primigenia, Praeneste (atual Palestrina, a sudeste de Roma), iniciado c. 120 a.C. Reconstituição segundo [Andrea Palladio, segunda metade do século [XVI]{.smallcaps}]](https://upload.wikimedia.org/wikipedia/commons/0/05/Temple_of_Fortuna_-_Palladio_-_Elevation.jpg){#fig:praeneste-palladio}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Santuário de Fortuna primigenia, Praeneste (atual Palestrina, a sudeste de Roma), iniciado c. 120 a.C. Reconstituição segundo [Andrea Palladio, segunda metade do século [XVI]{.smallcaps}]](https://upload.wikimedia.org/wikipedia/commons/0/05/Temple_of_Fortuna_-_Palladio_-_Elevation.jpg){#fig:praeneste-palladio .full}
 
 [Andrea Palladio, segunda metade do século [XVI]{.smallcaps}]: https://commons.wikimedia.org/wiki/File:Temple_of_Fortuna_-_Palladio_-_Elevation.jpg
 
 <!--_,-->
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Santuario_emiciclo_colonne_1.JPG/2560px-Santuario_emiciclo_colonne_1.JPG"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Santuario_emiciclo_colonne_1.JPG/2560px-Santuario_emiciclo_colonne_1.JPG"}
 
 ![Hemiciclo das colunas, santuário de Fortuna primigenia, Praeneste. Foto: [Zanner, 2007]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Santuario_emiciclo_colonne_1.JPG/1024px-Santuario_emiciclo_colonne_1.JPG){#fig:hemiciclo}
 
 [Zanner, 2007]: https://commons.wikimedia.org/wiki/File:Santuario_emiciclo_colonne_1.JPG
 
-## {.unlisted data-background-image="https://www.academiacolecciones.com/dibujos/server/files/MA-0450.jpg"}
+## {data-background-image="https://www.academiacolecciones.com/dibujos/server/files/MA-0450.jpg"}
 
 ![Igreja visigótica de San Pedro de la Nave, El Campillo (Zamora), Leão, Espanha, século [VII]{.smallcaps}. Desenho de [Ricardo Arredondo y Calmache, final do século [XIX]{.smallcaps}](https://www.academiacolecciones.com/dibujos/inventario.php?id=MA-0450)](https://www.academiacolecciones.com/dibujos/server/files/MA-0450.jpg){#fig:spnave-long .full}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0538-11.png"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0538-11.png"}
 
 ![Abobadilhas romano-bizantinas. Auguste Choisy, *Histoire de l'architecture*](https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0538-11.png){#fig:choisy1.538 .line .align-right}
 
@@ -814,7 +808,7 @@ usando apenas o atrito da argamassa, sem cimbramento.
 Foram inventadas pelos romanos e são formadas por grandes ladrilhos sustentados apenas pelo atrito da argamassa, por isso não suportando grandes cargas. Exemplo: cúpula da Catedral de Santa Sofia assentada sobre uma base quadrada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/af/ef/11/afef110de580ac57b90e74dc4711b2e7.png" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+## {data-background-image="https://i.pinimg.com/originals/af/ef/11/afef110de580ac57b90e74dc4711b2e7.png" data-background-size="contain" data-background-position="left"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Arcos construídos lado a lado estabilizam uns aos outros, resistindo aos
@@ -830,23 +824,23 @@ para as abóbadas.
 
 ## Contenção de arcos e abóbadas ## {data-visibility="hidden"}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0530.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0530.png" data-background-size="contain"}
 
 ![Construção de abóbadas romanas com arcos ressaltados. Auguste Choisy, *Histoire de l'architecture*](https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0530.png){#fig:choisy1.530 .line}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/df/7f/97/df7f97192cd0f0ca8f62581fc05fd210.png" data-background-position="top"}
+## {data-background-image="https://i.pinimg.com/originals/df/7f/97/df7f97192cd0f0ca8f62581fc05fd210.png" data-background-position="top"}
 
 ![Nave da igreja do mosteiro de São Pedro de Rodes, Girona, Catalunha, iniciada em 878. Foto: [Alberto G Rovi, 2013]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Monasterio_de_sant_pere_de_rodes-alt_emporda-2009_(8).JPG/2560px-Monasterio_de_sant_pere_de_rodes-alt_emporda-2009_(8).JPG){#fig:rodes-nave .full}
 
 [Alberto G Rovi, 2013]: https://commons.wikimedia.org/wiki/File:Monasterio_de_sant_pere_de_rodes-alt_emporda-2009_(8).JPG
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/52/Sta_Maria_del_Naranco.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/52/Sta_Maria_del_Naranco.jpg"}
 
 ![Vista desde sudoeste da igreja de Santa María del Naranco, Oviedo, Astúrias, 848. Foto: [Eliazarracina, 2013]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Sta_Maria_del_Naranco.jpg/1024px-Sta_Maria_del_Naranco.jpg){#fig:naranco}
 
 [Eliazarracina, 2013]: https://commons.wikimedia.org/wiki/File:Sta_Maria_del_Naranco.jpg
 
-## {.unlisted}
+##
 
 ::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:derand .r-stack}
 ![divisão do arco por cordas de mesmo comprimento](https://hcommons.org/app/uploads/sites/1002372/2021/08/arco-derand-1.png){#fig:derandA .line .fragment .current-visible}
@@ -858,17 +852,15 @@ para as abóbadas.
 Dimensionamento de contrafortes segundo o método do P.^e^ François Derand
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/56/44/de/5644decb9307bd1e73e49e90c2656631.png" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/56/44/de/5644decb9307bd1e73e49e90c2656631.png" data-background-size="contain"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Dimensionamento dos contrafortes para diferentes tipos de arcos pelo método do P.^e^ François Derand. Desenho: François Blondel, 1675](https://i.pinimg.com/originals/56/44/de/5644decb9307bd1e73e49e90c2656631.png){#fig:blondel .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Dimensionamento dos contrafortes para diferentes tipos de arcos pelo método do P.^e^ François Derand. Desenho: François Blondel, 1675](https://i.pinimg.com/originals/56/44/de/5644decb9307bd1e73e49e90c2656631.png){#fig:blondel .line .full}
 
 ## Cúpulas ## {data-visibility="hidden"}
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm" data-background-video-muted="true"}
 
-## {.unlisted data-background-image="https://i.redd.it/9u46fzdhcdly.jpg"}
+## {data-background-image="https://i.redd.it/9u46fzdhcdly.jpg"}
 
 ![Apolodoro de Damasco, arquiteto, Pantheon, Roma, 113--125 d.C. Corte longitudinal por Giovanni Battista Piranesi](https://i.redd.it/9u46fzdhcdly.jpg){#fig:pantheon-sec}
 
@@ -876,13 +868,13 @@ Dimensionamento de contrafortes segundo o método do P.^e^ François Derand
 
 <!--_,-->
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Domus_Aurea-Italy_4K_Travel_Channel-cupola.webm" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Domus_Aurea-Italy_4K_Travel_Channel-cupola.webm" data-background-video-muted="true"}
 
 ![Cúpula no salão octogonal da Domus aurea, Roma, após 50 d.C. Filmagem: [Günther Etlinger e Ursula Streit, 2014]](https://cdn.palazzo.arq.br/firmitas/arcos/Domus_Aurea-Italy_4K_Travel_Channel-cupola.webm){#fig:aurea-cupola}
 
 ## Trompas e pendentes ## {data-visibility="hidden"}
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Etchmiadzin-Vagharschapat-trompe.webm" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Etchmiadzin-Vagharschapat-trompe.webm" data-background-video-muted="true"}
 
 ::::::::::::::::::::::::::::::::::::: {#fig:etchmiadzin .iframe-wrapper}
 <iframe src="https://www.youtube-nocookie.com/embed/PWK0DFcPE7k?start=137" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -897,29 +889,29 @@ trompa: um arco posicionado sobre o ângulo reentrante. Trata-se de pequenos arc
 
 [Expoza Travel, 2018]: https://youtu.be/PWK0DFcPE7k?t=137
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Etchmiadzin-Vagharschapat-calotte.webm" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Etchmiadzin-Vagharschapat-calotte.webm" data-background-video-muted="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A calota é uma cúpula seccionada por quatro (ou mais) arcos. Trata-se de uma outra solução de transição, semelhante à trompa, que resulta no corte das laterais da cúpula até que se encaixe na base quadrada, levando a uma perda de altura. Ela pode também receber outra cúpula completa apoiada sobre si, chamada de pendente, como visto na catedral de Santa Sofia.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/14/Choisy_Art_de_bâtir_chez_les_Byzantins_pl_XIII-1_Constantinople.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/14/Choisy_Art_de_bâtir_chez_les_Byzantins_pl_XIII-1_Constantinople.png" data-background-size="contain"}
 
 ![Calota do período bizantino em Constantinopla. Desenho: Auguste Choisy, *L'art de bâtir chez les Byzantins*](https://upload.wikimedia.org/wikipedia/commons/1/14/Choisy_Art_de_bâtir_chez_les_Byzantins_pl_XIII-1_Constantinople.png){#fig:choisy1883-13.1 .line .full}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/14/Choisy_Art_de_bâtir_chez_les_Byzantins_pl_XVIII-1_Constantinople.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/1/14/Choisy_Art_de_bâtir_chez_les_Byzantins_pl_XVIII-1_Constantinople.png" data-background-size="contain"}
 
 ![Calotas sustentando cúpulas, período bizantino, Constantinopla. Desenho: Auguste Choisy, *L'art de bâtir chez les Byzantins*](https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Choisy_Art_de_bâtir_chez_les_Byzantins_pl_XVIII-1_Constantinople.png/1024px-Choisy_Art_de_bâtir_chez_les_Byzantins_pl_XVIII-1_Constantinople.png){#fig:choisy1883-18.1 .line}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hagia_Sophia_svg.svg/2560px-Hagia_Sophia_svg.svg.png" data-background-position="top"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hagia_Sophia_svg.svg/2560px-Hagia_Sophia_svg.svg.png" data-background-position="top"}
 
 ![Antêmio de Trales e Isidoro de Mileto, arquitetos, catedral de Santa Sofia, Constantinopla, 532--537. Vista isométrica seccionada: [Ogodej, 2012]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Hagia_Sophia_svg.svg/1024px-Hagia_Sophia_svg.svg.png){#fig:sophia-iso .nobg}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f0/29a_Coupe_longitudinale_et_vue_sur_l'atrium.png" data-background-position="left"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f0/29a_Coupe_longitudinale_et_vue_sur_l'atrium.png" data-background-position="left"}
 
 ![Corte longitudinal de Santa Sofia, Constantinopla. [Coleção particular](https://commons.wikimedia.org/wiki/File:29a_Coupe_longitudinale_et_vue_sur_l'atrium.png)](https://upload.wikimedia.org/wikipedia/commons/f/f0/29a_Coupe_longitudinale_et_vue_sur_l'atrium.png){#fig:sophia-sec .full}
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/The Amazing Hagia Sophia-130359681-720p-25fps.mp4" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/The Amazing Hagia Sophia-130359681-720p-25fps.mp4" data-background-video-muted="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [@taylor:1996literary55]
@@ -943,11 +935,11 @@ A calota é uma cúpula seccionada por quatro (ou mais) arcos. Trata-se de uma o
 
 ## Cruzarias ## {data-visibility="hidden"}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/bc/Choisy_Art_de_bâtir_chez_les_Byzantins_pl_X-3_Sabandja.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/bc/Choisy_Art_de_bâtir_chez_les_Byzantins_pl_X-3_Sabandja.png" data-background-size="contain"}
 
 ![Abóbada de aresta, período bizantino, Sabandja. Desenho: Auguste Choisy, *L'art de bâtir chez les Byzantins*](https://upload.wikimedia.org/wikipedia/commons/b/bc/Choisy_Art_de_bâtir_chez_les_Byzantins_pl_X-3_Sabandja.png){#fig:choisy1883-10.3 .line}
 
-## {.unlisted data-background-image="https://live.staticflickr.com/5559/14525981890_1625295cbc_k_d.jpg"}
+## {data-background-image="https://live.staticflickr.com/5559/14525981890_1625295cbc_k_d.jpg"}
 
 ![Igreja visigótica de S. Comba de Bande, Galiza, século [VII]{.smallcaps}, transepto. Foto: [Pedro P. Palazzo, 2014]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Santa_Comba_de_Bande-_Transept_(14525981890).jpg/1024px-Santa_Comba_de_Bande-_Transept_(14525981890).jpg){#fig:scomba}
 
@@ -957,7 +949,7 @@ A calota é uma cúpula seccionada por quatro (ou mais) arcos. Trata-se de uma o
 [@conant:1993carolingian]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Vézelay_Basilique_Ste._Marie_Madeleine_Innen_Langhaus_Ost_6.jpg/2560px-Vézelay_Basilique_Ste._Marie_Madeleine_Innen_Langhaus_Ost_6.jpg" data-background-position="top"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Vézelay_Basilique_Ste._Marie_Madeleine_Innen_Langhaus_Ost_6.jpg/2560px-Vézelay_Basilique_Ste._Marie_Madeleine_Innen_Langhaus_Ost_6.jpg" data-background-position="top"}
 
 ![Basílica de Santa Maria Madalena, Vézélay, França, 1104--1132. Foto: [Zairon, 2016]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Vézelay_Basilique_Ste._Marie_Madeleine_Innen_Langhaus_Ost_6.jpg/1024px-Vézelay_Basilique_Ste._Marie_Madeleine_Innen_Langhaus_Ost_6.jpg){#fig:vezelay-nef}
 
@@ -969,7 +961,7 @@ A calota é uma cúpula seccionada por quatro (ou mais) arcos. Trata-se de uma o
 
 [@ball:2009universe]
 
-## {.unlisted}
+##
 
 ::::::::::::::::::::::::::::::::::::::::::::: {#fig:cruzaria .full}
 ![nervuras](https://i.pinimg.com/originals/65/c8/ee/65c8eedb3cb238eeee5301aa0804adc8.jpg){#fig:cruzaria-nervura width="47.8%"}
@@ -978,15 +970,15 @@ A calota é uma cúpula seccionada por quatro (ou mais) arcos. Trata-se de uma o
 Abóbada nervurada em cruzaria. Desenho de [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-architecture-le-jeu-des-forces-jc-golvin.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+## {data-background-image="https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-architecture-le-jeu-des-forces-jc-golvin.jpg" data-background-size="contain" data-background-position="left"}
 
 ![Distribuição de empuxos no corte de uma igreja gótica. Desenho por [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://jeanclaudegolvin.com/wp-content/uploads/2018/01/france-architecture-le-jeu-des-forces-jc-golvin.jpg){#fig:forces-golvin .align-right}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/ciblac2014-10.37.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/ciblac2014-10.37.png" data-background-size="contain"}
 
 ![Distribuição de empuxos em arcos-botantes, segundo [Ciblac e Morel, 2014]](https://hcommons.org/app/uploads/sites/1002372/2021/08/ciblac2014-10.37.png){#fig:ciblac2014-10.37}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/06/f5/2e/06f52e6fc35d0c45148a5e88ea50477a.jpg" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/06/f5/2e/06f52e6fc35d0c45148a5e88ea50477a.jpg" data-background-size="contain"}
 
 ![Cortes comparativos de sucessivas igrejas góticas, segundo Grodecki](https://i.pinimg.com/originals/06/f5/2e/06f52e6fc35d0c45148a5e88ea50477a.jpg){#fig:grodecki}
 
@@ -1018,7 +1010,7 @@ Arcos, abóbada e cúpulas não constituem um modo de construir industrializado,
 
 ![Palácio do imperador Diocleciano em Spalato, atual Split, Croácia, c. 306 d.C. Desenho: [Ernest Hébrard, 1912](https://commons.wikimedia.org/wiki/File:Diocletian's_Palace_(original_appearance).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Diocletian's_Palace_(original_appearance).jpg/1024px-Diocletian's_Palace_(original_appearance).jpg){#fig:spalato-persp}
 
-## {.unlisted}
+##
 
 ::::::::::::::::::::::::::::::::::::::::: {.columns #fig:spalato-sideby}
 ::: {.column width=50%}
@@ -1076,5 +1068,5 @@ Espalato, plantas reconstituídas por Ernest Hébrard, 1912
 
 ![Arco de Constantino, Roma, 312: espólios de monumentos anteriores. Desenho por [Marsyas, 2006](https://commons.wikimedia.org/wiki/File:Constantine_arch_datation_pt.svg) baseado em Ward-Perkins](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Constantine_arch_datation_pt.svg/1024px-Constantine_arch_datation_pt.svg.png){#fig:constarch-spolia}
 
-# Bibliografia {.unlisted .allowframebreaks}
+# Bibliografia {- .unlisted .allowframebreaks}
 

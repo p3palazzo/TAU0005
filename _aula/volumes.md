@@ -19,7 +19,7 @@ title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
 ---
 
-# Espaço ou volume # {data-background-color="#0f0"}
+# Espaço ou volume #
 
 ## {data-background-image="https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png" data-background-size="contain"}
 
@@ -77,7 +77,7 @@ Mediterrâneo, a volumetria de formas definidas predomina claramente.
 
 ![Miguel Ângelo Buonarroti, arquiteto, Santa Maria degli Angeli e Martiri, Roma, 1562, implantada no tepidário das termas de Diocleciano. Foto: [Pedro P. Palazzo, 2015](https://commons.wikimedia.org/wiki/File:IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg){#fig:angeli .full}
 
-## {data-background-image="https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+## {data-background-image="https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg" data-background-size="contain" data-background-position="left"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Já falamos sobre isso antes, mas não custa lembrar: a distinção entre
@@ -134,16 +134,14 @@ Arquitetura simbólica, clássica e romântica [@hegel:2001cursos1].
 
 ## Arquitetura romântica ## {data-visibility="hidden"}
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm" data-background-video-muted="true"}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Apolodoro de Damasco, arquiteto, Panteão, Roma, 113--125 d.C. Vista do interior filmada por [Wanderlust Travel Videos, 2021]](https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm){#fig:pantheon-wtv}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Apolodoro de Damasco, arquiteto, Panteão, Roma, 113--125 d.C. Vista do interior filmada por [Wanderlust Travel Videos, 2021]](https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm){#fig:pantheon-wtv .full}
 
 [Wanderlust Travel Videos, 2021]: https://youtu.be/bn6wLKU1XsM
 
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/The Amazing Hagia Sophia-130359681-720p-25fps.mp4" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/The Amazing Hagia Sophia-130359681-720p-25fps.mp4" data-background-video-muted="true"}
 
 :::::::::::::::::::::::::::::::::::: {#fig:sophia-model .iframe-wrapper}
 <iframe src="https://player.vimeo.com/video/130359681?h=74460fff34" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
@@ -241,7 +239,7 @@ os antigos templos gregos, e nem delimitar um espaço exterior com uma
 forma geométrica importante.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No Mediterrâneo ocidental, a busca pela definição dos volumes vai seguir
@@ -348,9 +346,9 @@ inacabada ([@fig:philibert-sec]).
 
 ## Quatro elementos da arquitetura ## {data-visibility="hidden"}
 
-# Volumetria e cultura # {data-background-color="#0f0"}
+# Volumetria e cultura #
 
-## {data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Índia antiga e bacia do Mediterrâneo: arquitetura produz espaços;
@@ -656,9 +654,9 @@ dos requisitos funcionais e, em vários casos, a escala das áreas no
 programa de necessidades.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Tipos distributivos # {data-background-color="#0f0"}
+# Tipos distributivos #
 
-## {data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A história da arquitetura contemporânea se desenrola em torno da
@@ -772,7 +770,7 @@ hierarquia formal ou espacial proposta sobre essa grelha é uma decisão
 de certo modo arbitrária ([@fig:durand-pg060]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O Renascimento abriu o caminho para se pensar no edifício não mais como
@@ -810,7 +808,7 @@ Piñón:
 > se dedica, em todo caso, a encontrar as leis formais específicas que
 > darão identidade à obra [...] [@pinon:2006teoria, 102 (grifo nosso)]
 
-## {data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Podemos questionar se é válido projetar como quer Piñón, sem levar em
@@ -822,7 +820,7 @@ digamos, *não moderno* de uma arquitetura baseada na composição com
 elementos predefinidos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+## {data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain" data-background-position="left"}
 
 ![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault .align-right}
 
@@ -844,11 +842,11 @@ delimitar [elementos de composição]{.newthought} que são a utilidade da
 arquitetura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Elementos de composição # {data-background-color="#0f0"}
+# Elementos de composição #
 
 ## Formas volumétricas ## {data-visibility="hidden"}
 
-## {data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mais cedo, dissemos que arquitetura é construção. Mas para que serve a
@@ -1049,5 +1047,5 @@ atenção a escadarias interiores antes do Renascimento.
 
 ## Pátios ## {data-visibility="hidden"}
 
-# Bibliografia # {.allowframebreaks}
+# Bibliografia # {- .unlisted .allowframebreaks}
 

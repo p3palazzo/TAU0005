@@ -19,9 +19,9 @@ header:
     url: "/slides/arquitravada/"
 ---
 
-# Tendas e cabanas {data-background-color="#0f0"}
+# Tendas e cabanas
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nos mitos da cabana primitiva e nas culturas da maior parte do mundo, a
@@ -36,7 +36,7 @@ arquitravada em madeira; na sequência, vamos ver como esse cânone pode
 ser usado como ponto de partida para construções em pedra.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
 ![Cabanas primitivas segundo William Chambers, *A Treatise on Civil Architecture*, 1759](https://i.pinimg.com/originals/cf/1a/f5/cf1af57c2e6422122e18196f92629e29.jpg){#fig:chambers-huts .align-right}
 
@@ -50,7 +50,7 @@ pelo francês Quatremère de Quincy [@chambers:1759treatise;
 @quatremere:1788caractere].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Cabane_de_Terra_Amata_2.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Cabane_de_Terra_Amata_2.jpg"}
 
 ![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata .align-right}
 
@@ -62,7 +62,7 @@ mil anos atrás ([@fig:terra-amata]), talvez seja o exemplo mais antigo
 conhecido desse tipo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/df/Tipi01.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/df/Tipi01.jpg"}
 
 ![Tipi dos oglala, etnia Lakota, América do Norte. Foto: [John C.H. Grabill, 1891](https://commons.wikimedia.org/wiki/File:Oglala_girl_in_front_of_a_tipi2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oglala_girl_in_front_of_a_tipi2.jpg/579px-Oglala_girl_in_front_of_a_tipi2.jpg){#fig:tipi .align-right}
 
@@ -74,15 +74,15 @@ Sociedades predominantemente sedentárias constroem tendas como abrigos
 de caça ou de expedições militares ([@fig:marines]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/ad/Киргизские_кибитки_на_реке_Чу.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/a/ad/Киргизские_кибитки_на_реке_Чу.jpg"}
 
 ![Vasily Vereshchagin, Tenda quirguiz no rio Chu, 1869--1870](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Киргизские_кибитки_на_реке_Чу.jpg/1280px-Киргизские_кибитки_на_реке_Чу.jpg){#fig:yurt}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/38/30/90/3830901d3a01a8b8749f440fca099e8c.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/38/30/90/3830901d3a01a8b8749f440fca099e8c.jpg"}
 
 ![Barraca do corpo de Fuzileiros navais dos Estados Unidos no Afeganistão. [Departamento da Defesa dos Estados Unidos, 2014](https://www.defense.gov/observe/photo-gallery/igphoto/2001128250/)](https://i.pinimg.com/originals/38/30/90/3830901d3a01a8b8749f440fca099e8c.jpg){#fig:marines}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/34/28/d6/3428d678b34b3e3448a6d7dd0f51045e.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/34/28/d6/3428d678b34b3e3448a6d7dd0f51045e.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Na sua essência,]{.newthought} a concepção estrutural da tenda é um
@@ -97,7 +97,7 @@ pântano" ([@fig:mudhif-ext]).
 
 ![*Mudhif* (morada dos Ma'dan), sul do Iraque](https://i.pinimg.com/originals/34/28/d6/3428d678b34b3e3448a6d7dd0f51045e.jpg){#fig:mudhif-ext}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/2d/2e/33/2d2e33d53242aa4865f1430d1b6abb47.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/2d/2e/33/2d2e33d53242aa4865f1430d1b6abb47.jpg"}
 
 ![Construção de um *mudhif*. Foto: [Jassim Alasadi](https://www.theguardian.com/cities/2020/jan/15/the-case-for-making-low-tech-dumb-cities-instead-of-smart-ones)](https://i.pinimg.com/originals/2d/2e/33/2d2e33d53242aa4865f1430d1b6abb47.jpg){#fig:mudhif-build}
 
@@ -109,11 +109,11 @@ plano; os feixes de juncos do revestimento fazem o contraventamento no
 plano ortogonal ao dos pórticos ([@fig:mudhif-croquis]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png" data-background-size="contain"}
 
 ![Esquema estrutural de um *mudhif*](https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png){#fig:mudhif-croquis .line}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/5b/1e/86/5b1e86330939e6262c84d74e2e500dda.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+## {data-background-image="https://i.pinimg.com/originals/5b/1e/86/5b1e86330939e6262c84d74e2e500dda.jpg" data-background-size="contain" data-background-position="left"}
 
 ![Interior de um *mudhif*. Foto: [Ikhlas Abbis](http://www.abbis.photo/portfolio/architecture/)](https://i.pinimg.com/originals/5b/1e/86/5b1e86330939e6262c84d74e2e500dda.jpg){#fig:mudhif-int .align-right}
 
@@ -125,7 +125,7 @@ verticais e elementos de cobertura distintos entre si, remete ao tipo da
 tenda ([@fig:mudhif-int]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Em contraste com o tipo da tenda,]{.newthought} o tipo da cabana se
@@ -138,7 +138,7 @@ ou seja, em flexão, as cargas recebidas dos assoalhos e coberturas para
 os apoios verticais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg"}
 
 ![Thomas Cole, *The Course of Empire: The Savage State*, 1834](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg){#fig:cole-savage}
 
@@ -154,7 +154,7 @@ estado selvagem*, parte da série sobre *O decurso do império*.
 [@fig:cole-savage]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/13/51/34/13513400d4dbe8f1bb791c84b35d325b.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/13/51/34/13513400d4dbe8f1bb791c84b35d325b.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Pelo contrário, todas as sociedades que constroem cabanas, ou são
@@ -166,7 +166,7 @@ continentes, por exemplo na região do Sael ([@fig:transh]).
 
 ![Padrões de transumância no Sael. [OCDE, 2014](http://www.food-security.net/en/map-library/transhumance-and-nomadism/){.smallcaps}](https://i.pinimg.com/originals/13/51/34/13513400d4dbe8f1bb791c84b35d325b.jpg){#fig:transh}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%"}
 
 ![Regiões de origem da vida sedentária: centro-norte da Europa, nordeste da Ásia e Crescente fértil](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png){#fig:sedentism .align-right .nobg}
 
@@ -183,7 +183,7 @@ tempo mais tarde, a vida sedentária começa a ser adotada também em
 várias partes do continente americano.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain"}
 
 ![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .align-right .line}
 
@@ -199,7 +199,7 @@ construção indica que esse sítio devia ser ocupado, talvez não de modo
 permanente, mas pelo menos em temporadas longas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://indo-european.eu/wp-content/uploads/2021/01/4-mesolithic-early.jpg" data-background-size="contain"}
+## {data-background-image="https://indo-european.eu/wp-content/uploads/2021/01/4-mesolithic-early.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Eynan é um sítio do período mesolítico, ou seja, da transição entre as
@@ -215,11 +215,9 @@ Logo, esse abrigo não tem absolutamente nenhuma relação com a concepção
 estrutural das tendas, onde essa distinção não existe.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Culturas e populações do mesolítico inicial na Eurásia. [Carlos Quiles, 2021](https://indo-european.eu/maps/mesolithic-early/)](https://indo-european.eu/wp-content/uploads/2021/01/4-mesolithic-early.jpg){#fig:mesolithic}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Culturas e populações do mesolítico inicial na Eurásia. [Carlos Quiles, 2021](https://indo-european.eu/maps/mesolithic-early/)](https://indo-european.eu/wp-content/uploads/2021/01/4-mesolithic-early.jpg){#fig:mesolithic .full}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/arquitraves.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/arquitraves.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [A construção arquitravada]{.newthought} segundo o tipo tradicional da cabana
@@ -236,7 +234,7 @@ a cobertura ao sistema pilares--viga.
 
 ![Forças na construção arquitravada: (a) compressão axial; (b) flexão; (c) cisalhamento](https://hcommons.org/app/uploads/sites/1002372/2021/08/arquitraves.png){#fig:arqui-for .line}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wutai_Nanchan_Si_2013.08.28_13-45-34.jpg/2560px-Wutai_Nanchan_Si_2013.08.28_13-45-34.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wutai_Nanchan_Si_2013.08.28_13-45-34.jpg/2560px-Wutai_Nanchan_Si_2013.08.28_13-45-34.jpg"}
 
 ![Monte Wutai, Nanchansi, salão maior, 782 d.C. Foto: [Zhang Zhugang, 2013](https://commons.wikimedia.org/wiki/File:Wutai_Nanchan_Si_2013.08.28_13-45-34.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wutai_Nanchan_Si_2013.08.28_13-45-34.jpg/1280px-Wutai_Nanchan_Si_2013.08.28_13-45-34.jpg){#fig:nanchansi}
 
@@ -250,13 +248,13 @@ Amazônica ([@fig:lagartixa]), e as tradições de construção arquitravada no
 Mediterrâneo oriental.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/br-kamayura-lagartixa-190812.jpg"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/br-kamayura-lagartixa-190812.jpg"}
 
 ![Casa lagartixa em construção, mostrando o pórtico central. [*Manual de arquitetura kamayurá*, 2019]](https://hcommons.org/app/uploads/sites/1002372/2021/08/br-kamayura-lagartixa-190812.jpg){#fig:lagartixa}
 
 [*Manual de arquitetura kamayurá*, 2019]: https://www.archdaily.com.br/br/923178/manual-de-arquitetura-kamayura
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
+## {data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%"}
 
 ![Distribuição originária da tradição arquitravada dita "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:classical-heartland .nobg .align-right}
 
@@ -268,9 +266,9 @@ mais dominante na arquitetura dos últimos 2500 anos, um legado que foi
 codificado e imortalizado em pedra: a arquitetura clássica greco-romana.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Colunas e vigas {data-background-color="#0f0"}
+# Colunas e vigas
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O tipo primordial da cabana se caracteriza por estruturas lineares de
@@ -284,7 +282,7 @@ construção com perfis pesados de madeira e colunas feitas de troncos
 inteiros.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm" data-background-video-muted="true"}
 
 ![Floresta de cedros em Tannourine, Líbano. Filmagem: [Çağatay Erciyes, 2017]](https://cdn.palazzo.arq.br/firmitas/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm){#fig:cedro}
 
@@ -303,7 +301,7 @@ Grécia ainda na Antiguidade; esse desmatamento pode até mesmo ter
 alterado o clima na região, com consequências que se prolongam até hoje.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/sanctuaire-ise.jpg"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/sanctuaire-ise.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Algumas construções monumentais muito antigas usavam pilares feitos de
@@ -319,7 +317,7 @@ anos desde o século [VII]{.smallcaps} d.C. seguindo a mesma técnica
 
 [Ise Jingū]: https://www.isejingu.or.jp/en/about/index.html
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/br-kamayura-ok_ete-190812_09.jpg"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/br-kamayura-ok_ete-190812_09.jpg"}
 
 ![*’Ok eté* kamayurá. [*Manual de arquitetura kamayurá*, 2019]](https://hcommons.org/app/uploads/sites/1002372/2021/08/br-kamayura-ok_ete-190812_09.jpg){#fig:ok-ete}
 
@@ -332,7 +330,7 @@ mais consolidados e bem documentados que persistem até hoje
 muito esbeltos porque são feitos em madeira de lei da Amazônia.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://images.adsttc.com/media/images/5d5a/ed03/284d/d166/2000/008e/slideshow/190812_CasaKamayuraREV_Page_19.jpg?1566239994"}
+## {data-background-image="https://images.adsttc.com/media/images/5d5a/ed03/284d/d166/2000/008e/slideshow/190812_CasaKamayuraREV_Page_19.jpg?1566239994"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os esteios são engastados no chão e a viga de cumeeira é amarrada nos
@@ -343,7 +341,7 @@ tipo "gafanhoto", também são usados contraventamentos diagonais.
 
 ![Esquema construtivo do tipo de casa "gafanhoto" kamayurá. [*Manual de arquitetura kamayurá*, 2019]](https://images.adsttc.com/media/images/5d5a/ed03/284d/d166/2000/008e/slideshow/190812_CasaKamayuraREV_Page_19.jpg?1566239994){#fig:gafanhoto}
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Os troncos fincados]{.newthought} diretamente no chão apodrecem com
@@ -356,7 +354,7 @@ fazer fundações cavando valas e, se necessário, cravando estacas antes
 de construir os alicerces.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stratos_DSC04042.jpg/1280px-Stratos_DSC04042.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stratos_DSC04042.jpg/1280px-Stratos_DSC04042.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A plataforma sobre a qual vamos levantar as colunatas
@@ -371,7 +369,7 @@ ordens clássicas greco-romanas.
 
 ![Krepidoma do templo de Zeus, Stratos, Grécia, iniciado 321 a.C. Foto: [Rjdeadly, 2016](https://commons.wikimedia.org/wiki/File:Stratos_DSC04042.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Stratos_DSC04042.jpg/1280px-Stratos_DSC04042.jpg){#fig:krepis}
 
-## {.unlisted data-background-image="https://live.staticflickr.com/5094/5537979203_4734c31d1d_k_d.jpg"}
+## {data-background-image="https://live.staticflickr.com/5094/5537979203_4734c31d1d_k_d.jpg"}
 
 ![Colunas em madeira sobre bases em pedra, salão do Darma, Kenninji, Quioto, 1765. Foto: [Blanco Teko, 2011]](https://live.staticflickr.com/5094/5537979203_4734c31d1d_k_d.jpg){#fig:kenninji}
 
@@ -387,7 +385,7 @@ estilóbata, e também ajudava a regularizar o assentamento da coluna
 sobre o piso.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://conservation.academie-architecture.fr/icono/535/hd_535_013.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+## {data-background-image="https://conservation.academie-architecture.fr/icono/535/hd_535_013.jpg" data-background-size="contain" data-background-position="left"}
 
 ![Charlez Chipiez (1835--1901), [Retrato oficial da Academia de Arquitetura da França]](https://conservation.academie-architecture.fr/icono/535/hd_535_013.jpg){#fig:chipiez-acad .align-right}
 
@@ -406,7 +404,7 @@ Vitrúvio, Laugier e Semper: explicar a origem da arquitetura clássica
 greco-romana por meio de alguma forma de cabana primitiva.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png"}
+## {data-background-image="https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em 1876, Chipiez publicou um livro intitulado *História crítica das
@@ -416,11 +414,9 @@ Oriente Médio ([@fig:chipiez-compare]), Chipiez documentou algumas cabanas
 rústicas contemporâneas no interior da Anatólia, na Turquia.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-!["Ordens" de colunas egípcias, persas e jônicas gregas. [Chipiez, 1876]. Sem escala](https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png){#fig:chipiez-compare .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+!["Ordens" de colunas egípcias, persas e jônicas gregas. [Chipiez, 1876]. Sem escala](https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png){#fig:chipiez-compare .line .full}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
 
 ![Cabana vernácula na Anatólia com colunata dianteira. [Chipiez, 1876]](https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png){#fig:chipiez-208 .line}
 
@@ -436,7 +432,7 @@ parecidas com as formas mais primitivas de cabanas em madeira no
 Mediterrâneo oriental como um todo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
+## {data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%"}
 
 ![Região de origem da construção arquitravada "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:medor .align-right .nobg}
 
@@ -449,7 +445,7 @@ até a Grécia, passando pela costa do Levante, pelo Egito e pela Anatólia.
 [@fig:medor]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As cabanas documentadas por Chipiez demonstram uma aplicação consistente
@@ -461,7 +457,7 @@ da arquitetura clássica: elas demonstram a existência de uma tradição
 difundida e resiliente ao longo de pelo menos três milênios.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As cabanas de Chipiez também demonstram as proporções limite para
@@ -474,7 +470,7 @@ tradicional.
 
 ![Cabana vernácula na Anatólia com colunata perimetral, segundo [Chipiez, 1876]](https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png){#fig:chipiez-209 .line}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Knossos_Westbastion_01.jpg/2560px-Knossos_Westbastion_01.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Knossos_Westbastion_01.jpg/2560px-Knossos_Westbastion_01.jpg"}
 
 ![Fustes invertidos das colunas no palácio de Cnossos, c. 1650 a.C., em reconstituição de Arthur Evans, 1922. Foto: [Olaf Tausch, 2016]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Knossos_Westbastion_01.jpg/1280px-Knossos_Westbastion_01.jpg){#fig:knossos-westbastion}
 
@@ -490,7 +486,7 @@ qualquer caso, eles foram um estilo muito característico de palácios
 como Cnossos ([@fig:knossos-westbastion]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eugène_Pirou.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eugène_Pirou.jpg" data-background-size="contain" data-background-position="left"}
 
 ![Auguste Choisy (1841--1909) fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eugène_Pirou.jpg){#fig:choisy .align-right}
 
@@ -507,7 +503,7 @@ muito escassa, em geral reservada para a construção naval e mesmo assim
 importada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/d5/Choisy-bnf-bpt6k6417116t_0040.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/d5/Choisy-bnf-bpt6k6417116t_0040.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As principais diferenças entre a construção com madeira e com pedra
@@ -523,7 +519,7 @@ estrutural ([@fig:choisy-1.14a]).
 <!--_,-->
 
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gebalk_des_Zeustempel_in_Athen-Durm_Baukunst_der_Griechen_abb.140.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/bb/Gebalk_des_Zeustempel_in_Athen-Durm_Baukunst_der_Griechen_abb.140.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Como os elementos estruturais não podem estar em balanço, as arquitraves
@@ -537,7 +533,7 @@ arquitetura alemão Josef Durm ([@fig:durm-140]).
 
 [Josef Durm, 1892]: https://commons.wikimedia.org/wiki/Category:Handbuch_der_Architektur_(1892)
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os livros de Durm são manuais de construção tradicional exaustivos,
@@ -546,9 +542,9 @@ usando como base as tradições da Grécia clássica e dos etruscos
 em ambos e aprenderá muito sobre como montar uma estrutura arquitravada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Assoalhos e terraços {data-background-color="#0f0"}
+# Assoalhos e terraços
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Num sistema arquitravado puro, por assim dizer, como nas tradições
@@ -560,7 +556,7 @@ esforços horizontais como o vento, terremotos ([@fig:toji]), ou mesmo a
 simples irregularidade de distribuição das cargas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/firmitas/arquitravada/Secret_of_the_Pagodas_Earthquake_Resistant_Design-uG37gQSvrf4-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
+## {data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/firmitas/arquitravada/Secret_of_the_Pagodas_Earthquake_Resistant_Design-uG37gQSvrf4-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
 ::::::::::::::::::::::::::::::::: {.iframe-wrapper .full #fig:toji}
 <iframe src="https://www.youtube-nocookie.com/embed/uG37gQSvrf4?start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -570,7 +566,7 @@ Comportamento estrutural de um pagode japonês num terremoto. Vídeo: [Science C
 
 [Science Channel, 2016]: https://youtu.be/uG37gQSvrf4?t=88
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png" data-background-position="top"}
+## {data-background-image="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png" data-background-position="top"}
 
 ![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük, c. 6500 a.C.](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
 
@@ -584,7 +580,7 @@ terrapleno espesso em terra batida, revestido com cal
 contraventados diretamente pelas paredes em blocos de adobe.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Uma característica importante]{.newthought} do sistema arquitravado do
@@ -601,7 +597,7 @@ assentamento diferencial nas fundações poderia pôr em risco a
 estabilidade da construção.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Duas soluções conjuntas resolvem o problema do contraventamento na
@@ -614,7 +610,7 @@ construção arquitravada do Mediterrâneo oriental:
 2. Núcleo rígido
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A primeira solução é uma certa redundância no dimensionamento da
@@ -628,9 +624,9 @@ parte disso tem a ver com a transposição de materiais da madeira para a
 pedra.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png"}
+## {data-background-image="https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png"}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/3c/Gebälke-Durm_Baukunst_der_Griechen_abb.139.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/3c/Gebälke-Durm_Baukunst_der_Griechen_abb.139.png" data-background-size="contain"}
 
 ![Arquitraves de templos da Grécia arcaica e clássica. [Josef Durm, 1892]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gebälke-Durm_Baukunst_der_Griechen_abb.139.png/1280px-Gebälke-Durm_Baukunst_der_Griechen_abb.139.png){#fig:durm-139 .line}
 
@@ -644,7 +640,7 @@ proporções das colunatas egípcias, persas e gregas são muito
 verticalizadas ([@fig:chipiez-compare]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/e9/75/60/e97560b20b57f958ed77019069bb7508.png" data-background-size="contain" data-background-position="center"}
+## {data-background-image="https://i.pinimg.com/originals/e9/75/60/e97560b20b57f958ed77019069bb7508.png" data-background-size="contain" data-background-position="center"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Além da redundância no dimensionamento da estrutura arquitravada, as
@@ -665,11 +661,11 @@ fundações em pedra lavrada ([@fig:lefkandi-section]).
 
 ![Axonométrica do túmulo dito *heroön* (tumba do herói), Lefkandi, Grécia, século [X]{.smallcaps} a.C.](https://i.pinimg.com/originals/e9/75/60/e97560b20b57f958ed77019069bb7508.png){#fig:lefkandi-axon .line}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/db/38/30/db3830c4766e6388653536ee1acac6b8.png" data-background-size="contain" data-background-position="center"}
+## {data-background-image="https://i.pinimg.com/originals/db/38/30/db3830c4766e6388653536ee1acac6b8.png" data-background-size="contain" data-background-position="center"}
 
 ![Corte transversal do *heroön* de Lefkandi](https://i.pinimg.com/originals/db/38/30/db3830c4766e6388653536ee1acac6b8.png){#fig:lefkandi-section .line}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/gr-aphaia-lawrence.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/gr-aphaia-lawrence.png" data-background-size="contain"}
 
 ![Perspectiva analítica do templo de Afaia em Egina, século [V]{.smallcaps} a.C., segundo Lawrence](https://hcommons.org/app/uploads/sites/1002372/2021/08/gr-aphaia-lawrence.png){#fig:aphaia-lawrence .line}
 
@@ -686,7 +682,7 @@ as adaptações graduais que o uso da pedra como material de construção
 implica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0150.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0150.png" data-background-size="contain"}
 
 ![Proporção modular das colunatas no mausoléu de Dario I, século [V] a.C. [Choisy, 1899]](https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0150.png){#fig:choisy-1.137.5 .line}
 
@@ -698,7 +694,7 @@ ou seja, pontuados por uma malha bastante cerrada de colunas
 salão.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0154.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0154.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nesse caso, as paredes perimetrais sozinhas não resolvem o problema do
@@ -709,7 +705,7 @@ persas) é coberto por um terraço rígido.
 
 ![Disposição das colunatas no *apadana* de Artaxerxes em Susa, século [V]{.smallcaps} a.C. [Choisy, 1899]](https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0154.png){#fig:choisy-1.141.4 .line}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/72/2b/40/722b40cf631a30343be5bbe7a5e4a1a7.png" data-background-size="contain" data-background-position="center"}
+## {data-background-image="https://i.pinimg.com/originals/72/2b/40/722b40cf631a30343be5bbe7a5e4a1a7.png" data-background-size="contain" data-background-position="center"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse terraço tem uma construção complexa, como todo assoalho horizontal
@@ -732,7 +728,7 @@ arquitravadas.
 
 ![Reconstituição dos terraços de Persépolis. [Chipiez, 1876]](https://i.pinimg.com/originals/72/2b/40/722b40cf631a30343be5bbe7a5e4a1a7.png){#fig:chipiez-terrasse .line}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-9.3.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-9.3.png" data-background-size="contain"}
 
 ![Fu Xinian, sistema de pórticos longitudinais no *tingtang* da dinastia Song](https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-9.3.png){#fig:fu2017-9.3 .line}
 
@@ -744,7 +740,7 @@ por pórticos planos dispostos na menor direção da construção
 apoiados sobre as colunas, sem contraventamento interno.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/liang1984-038.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/liang1984-038.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Então, a solução adotada na China vai ser contraventar os pórticos
@@ -757,7 +753,7 @@ colunas, também são fixadas umas nas outras no ponto de encaixe
 
 ![Evolução das "arquitraves" de contraventamento na arquitetura chinesa, segundo Liang e Lin](https://hcommons.org/app/uploads/sites/1002372/2021/08/liang1984-038.png){#fig:liang-038 .line}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-8.8.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-8.8.png" data-background-size="contain"}
 
 ![Fu Xinian, dois sistemas de composições arquitravadas: *diantang* das dinastias Tang e Song e salão oficial da dinastia Ming](https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-8.8.png){#fig:fu2017-8.8 .line}
 
@@ -768,9 +764,9 @@ exteriores. O resultado é um esqueleto contraventado em dois planos,
 muito mais estável ([@fig:fu2017-8.8]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Da madeira à pedra {.unlisted data-background-color="#0f0"}
+# Da madeira à pedra
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left" data-background-color="#0f0"}
+## {data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left"}
 
 ![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .align-right}
 
@@ -786,7 +782,7 @@ invenção *racional* da cabana primitiva com a pretensão de superioridade
 da arquitetura clássica e neoclássica ([@fig:laugier]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A proposta de Chipiez e Durm [@chipiez:1876histoire; @durm:1910baukunst;
@@ -801,7 +797,7 @@ originário ideal em madeira. Desse ponto de vista, o modelo de Durm não
 fundamentada em estudos de campo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png" data-background-size="contain"}
 
 ![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .align-right .line}
 
@@ -815,7 +811,7 @@ arquitetura clássica é quase tão universalmente aceito, e quase tão
 estereotipado, quanto o *milagre* da filosofia grega.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%" data-background-color="#0f0"}
+## {data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por causa disso, é fácil esquecer que a arquitetura grega faz parte de
@@ -829,7 +825,7 @@ colunas e vigas em madeira, geralmente associadas a paredes de vedação
 em alvenaria.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A tradição arquitravada do Mediterrâneo oriental geralmente
@@ -839,7 +835,7 @@ servem de divisórias no espaço mas também costumam ter função estrutural
 origem, troncos de árvores.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png"}
+## {data-background-image="https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por causa do uso de troncos nas origens dessa tradição, as colunas têm
@@ -853,11 +849,9 @@ sido intuído pelo arquiteto italiano Fra Giocondo no século
 [@fig:entasis]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Esquema da êntase de uma coluna clássica, na edição do tratado de Vitrúvio por Fra Giocondo, século [XVI]{.smallcaps} (redesenhado no século [XX]{.smallcaps})](https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png){#fig:entasis .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Esquema da êntase de uma coluna clássica, na edição do tratado de Vitrúvio por Fra Giocondo, século [XVI]{.smallcaps} (redesenhado no século [XX]{.smallcaps})](https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png){#fig:entasis .line .full}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png"}
+## {data-background-image="https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Do mesmo modo, o topo da coluna não encosta diretamente na viga, mas
@@ -872,7 +866,7 @@ sobreposição de vigas perpendiculares entre si.
 
 ![Arquétipo em madeira da ordem toscana, segundo Chipiez, 1876](https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png){#fig:chipiez-159 .line}
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [A construção arquitravada é aditiva]{.newthought} por natureza. Ela se
@@ -884,7 +878,7 @@ da arquitetura --- as colunas e os vãos entre elas, definidos pelas
 arquitraves.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Construir com elementos modulares é uma prática especialmente vantajosa
@@ -897,7 +891,7 @@ construção do edifício favorece a padronização das medidas de pilares e
 vigas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/9d/f8/1a/9df81a21d7cc6f867e223109c33b0277.png" data-background-position="bottom"}
+## {data-background-image="https://i.pinimg.com/originals/9d/f8/1a/9df81a21d7cc6f867e223109c33b0277.png" data-background-position="bottom"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No *Yingzao fashi*, uma compilação de regras para a construção editada
@@ -913,11 +907,11 @@ padrão de vigas em cada uma das oito classes ficam bem evidentes
 estruturais que seguem dimensões e proporções padronizadas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/9d/f8/1a/9df81a21d7cc6f867e223109c33b0277.png" data-background-position="top"}
+## {data-background-image="https://i.pinimg.com/originals/9d/f8/1a/9df81a21d7cc6f867e223109c33b0277.png" data-background-position="top"}
 
 ![Regras de carpintaria segundo o *Yingcao fashi*, século [XI]{.smallcaps}, traduzidas e ilustradas por Liang Sicheng no século [XX]{.smallcaps}](https://i.pinimg.com/originals/9d/f8/1a/9df81a21d7cc6f867e223109c33b0277.png){#fig:liang-103 .line}
 
-## {.unlisted data-background-image=""}
+## {data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Outros sistemas seguem uma lógica mais simples. No *stick framing*, o
@@ -928,7 +922,7 @@ medidas nominais, e o desempenho estrutural das armações de esteios e
 barrotes é bem conhecido.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A modularidade tem um papel importante na padronização de concepções
@@ -946,7 +940,7 @@ para as extremidades, e a diminuição de altura dos níveis da base para o
 topo. Outra possibilidade é o uso de tramos alternados.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma das variações mais frequentes em várias tradições de construção
@@ -961,7 +955,7 @@ visual de estabilidade e equilíbrio que é quase tão importante para a
 *firmitas* vitruviana quanto a solidez efetiva da construção.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 É pelo mesmo motivo da estabilidade estrutural e visual que se costuma
@@ -972,7 +966,7 @@ não implica necessariamente disciplinar as alturas dos *pavimentos* por
 trás da fachada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image=""}
+## {data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O modo mais flexível de introduzir variações na modularidade de uma
@@ -989,7 +983,7 @@ sucessivamente, terminando sempre com um vão estreito nas extremidades
 da construção, e tendo de preferência um vão largo no eixo de simetria.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O mito da cabana primitiva nos deu a deixa para falar da madeira como
@@ -1008,5 +1002,5 @@ como essa lógica é diferente da construção murária --- feita de paredes
 portantes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Bibliografia {.unlisted .allowframebreaks}
+# Bibliografia {- .unlisted .allowframebreaks}
 

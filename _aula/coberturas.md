@@ -19,7 +19,7 @@ header:
     url: "/slides/coberturas/"
 ---
 
-# Função e estrutura das coberturas # {data-background-color="#0f0"}
+# Função e estrutura das coberturas #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nem tudo o que a arquitetura produz é espaço coberto, mas cobrir
@@ -33,7 +33,7 @@ teoria da arquitetura.
 
 ## De volta à madeira ## {data-visibility="hidden"}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left" data-background-color="#00ff00"}
+## {data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left"}
 
 ![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .align-right}
 
@@ -45,7 +45,7 @@ resolução técnica da cobertura era a própria razão de ser da cabana
 primitiva e da sua importância na literatura arquitetônica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Um século mais tarde, Semper elaborou uma teoria da arquitetura onde a
@@ -59,7 +59,7 @@ Londres em 1851 ([@fig:karib]).
 
 ![Cabana do povo karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line .align-right}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg" data-background-position="top"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg" data-background-position="top"}
 
 <!--_,-->
 
@@ -78,7 +78,7 @@ intérpretes do Renascimento ([@fig:cosimo-vulcan]).
 
 ## Soluções atemporais ## {data-visibility="hidden"}
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-wooden-frame-of-a-house-20941-medium.mp4" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-wooden-frame-of-a-house-20941-medium.mp4" data-background-video-muted="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As coberturas inclinadas são alguns dos sistemas construtivos
@@ -93,7 +93,7 @@ Coberturas planas ou inclinadas são sistemas construtivos tradicionais, que per
 
 ![Estrutura em madeira numa casa norte-americana moderna](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-wooden-frame-of-a-house-20941-medium.mp4){#fig:frame}
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-storm-water-running-down-a-roof-21212-medium.mp4"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-storm-water-running-down-a-roof-21212-medium.mp4"}
 
 ![Água da chuva correndo na superfície de um telhado](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-storm-water-running-down-a-roof-21212-medium.mp4){#fig:chuva}
 
@@ -105,11 +105,11 @@ importantes da cobertura é poder levar a água da chuva para longe das
 paredes e das fundações do edifício ([@fig:beiral]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-cabin-on-rainy-day-2738.mp4"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-cabin-on-rainy-day-2738.mp4"}
 
 ![Beiral de uma casa moderna](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-cabin-on-rainy-day-2738.mp4){#fig:beiral}
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma precisa da cobertura e outras medidas para o seu desempenho vão
@@ -119,13 +119,13 @@ construtivo dos seus suportes e os materiais usados no revestimento. Mas
 antes de falar em particularidades, vamos ver alguns requisitos gerais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/2560px-Roof_parts_simplified.svg.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/2560px-Roof_parts_simplified.svg.png" data-background-size="contain"}
 
 ![Elementos da cobertura. 1 -- viga de cumeeira, 2 -- terças, 3 -- caibros. Desenho: [George Ponderevo, 2012]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/1500px-Roof_parts_simplified.svg.png){#fig:timber-roof .nobg}
 
 [George Ponderevo, 2012]: https://commons.wikimedia.org/wiki/File:Roof_parts_simplified.svg
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png" data-background-position="top"}
+## {data-background-image="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na sua forma mais simples, uma cobertura é a versão mais ou menos
@@ -145,7 +145,7 @@ Exemplos mais complexos e refinados, como os da carpintaria tradicional japonesa
 
 ## Coberturas simples ## {data-visibility="hidden"}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/e1/b2/2e/e1b22ee08a42bbb67b121838be2b8e87.jpg" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/e1/b2/2e/e1b22ee08a42bbb67b121838be2b8e87.jpg" data-background-size="contain"}
 
 ![Esquema de uma cobertura inclinada moderna. Modelo: Castorama.fr](https://i.pinimg.com/originals/e1/b2/2e/e1b22ee08a42bbb67b121838be2b8e87.jpg){#fig:shed}
 
@@ -156,7 +156,7 @@ lado oposto. Os barrotes ficam, então, inclinados, e nessa forma passam
 a ser chamados de *caibros* ([@fig:shed]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/43/f9/9a/43f99ae9ce5679b28c914c4446a7e78a.png" data-background-position="top"}
+## {data-background-image="https://i.pinimg.com/originals/43/f9/9a/43f99ae9ce5679b28c914c4446a7e78a.png" data-background-position="top"}
 
 ![Conexão de caibros com vigas, segundo Ednie, *Carpentry and Joinery*, 1925](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rafter_and_tie-beam_joints_(Carpentry_and_Joinery,_1925).jpg/517px-Rafter_and_tie-beam_joints_(Carpentry_and_Joinery,_1925).jpg){#fig:rafter-join .align-right}
 
@@ -168,7 +168,7 @@ frechais com um nó, um encaixe ou por meio de conectores --- pinos,
 pregos ou parafusos ([@fig:rafter-join]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-carpenter-sawing-a-piece-of-wood-close-up-27054-medium.mp4" data-background-video-muted="true" data-background-video-loop="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-carpenter-sawing-a-piece-of-wood-close-up-27054-medium.mp4" data-background-video-muted="true" data-background-video-loop="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Alguns tipos de encaixes, como a junta sobreposta ou a sambladura, são
@@ -178,7 +178,7 @@ ferramentas usadas em cada região, e também pela qualidade da madeira e
 pelas particularidades do sistema construtivo em geral.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A carpintaria japonesa, por exemplo, é famosa por ter desenvolvido
@@ -198,7 +198,7 @@ mais macias do que as usadas na Europa ou na Ásia continental
 Juntas comuns na carpintaria japonesa, segundo Heino Engel, 1985
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na maioria das construções, geralmente não convém fazer a
@@ -209,7 +209,7 @@ por algum defeito na construção, seja ainda porque o beiral do lado alto
 não é tão eficaz para proteger a parede.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://media.gettyimages.com/illustrations/cross-section-illustration-of-early-wooden-circular-house-with-roof-illustration-id125176581?s=2048x2048" data-background-position="top"}
+## {data-background-image="https://media.gettyimages.com/illustrations/cross-section-illustration-of-early-wooden-circular-house-with-roof-illustration-id125176581?s=2048x2048" data-background-position="top"}
 
 ::::::::::::::::::::::::::::::::::::::: {#fig:banpo-cut .iframe-wrapper}
 <iframe src="//embed.gettyimages.com/embed/125176581?et=xATBWGLCSo9h2yL5ULImrw&tld=pt&sig=hCxsx9wsrb_BW8d5zZ8klq6o4qE3Ecbr1ZOxxxhgBdU=&caption=true&ver=1" scrolling="no" frameborder="0"></iframe>
@@ -226,7 +226,7 @@ cabanas do sítio neolítico de Banpö, na China, por volta de 5 mil anos
 atrás ([@fig:banpo-cut]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/1d/f8/08/1df808d1d44491ae22b8e0a652bb0337.png" data-background-position="top"}
+## {data-background-image="https://i.pinimg.com/originals/1d/f8/08/1df808d1d44491ae22b8e0a652bb0337.png" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Cada parte da cobertura que drena para um lado diferente é chamada de
@@ -240,11 +240,11 @@ isoladas tem duas ou quatro águas ([@fig:sienicki]).
 
 <!--_,-->
 
-# Formas básicas de carpintaria # {.unlisted data-background-color="#0f0"}
+# Formas básicas de carpintaria #
 
 ## Carpintaria japonesa ## {data-visibility="hidden"}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-040.2.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-040.2.png" data-background-size="contain"}
 
 ![Esquema de uma cobertura de casa tradicional japonesa, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-040.2.png){#fig:engel2020-040.2 .line .full}
 
@@ -260,17 +260,17 @@ complexas das coberturas no leste da Ásia [@engel:1985measure].
 Pode haver variações nessas combinações, como no caso japonês em que se cruzam os caibros para conferir maior rigidez à estrutura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-088.1.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-088.1.png" data-background-size="contain"}
 
 ![Coberturas do Japão arcaico, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-088.1.png){#fig:engel1985-088 .line}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg/2560px-Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg/2560px-Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg"}
 
 ![Celeiros no sítio arqueológico de Yoshinogari, sudoeste do Japão, século [III]{.smallcaps} a.C., em reconstituição de finais do século [XX]{.smallcaps}. Foto: [Soramimi, 2017]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg/1024px-Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg){#fig:yoshinogari}
 
 [Soramimi, 2017]: https://commons.wikimedia.org/wiki/File:Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A simplicidade é um conceito recorrente na teoria da arquitetura, sendo observada em diversos autores ao longo do tempo de forma muito valorizada. Em
@@ -281,7 +281,7 @@ outro lado, a correlação é mais tangível e diz respeito a formas
 geométricas simples. Não se trata apenas de um valor estético válido e interessante teoricamente, mas também de um melhor desempenho. Quanto mais complexa a cobertura, mais mudanças de planos e necessidade de pontos de isolamento e maior é sua fragilidade. Uma boa cobertura é simples, racional e eficiente, contando com poucas águas, que possam ser ajustadas com certa facilidade, o que demanda um bom partido arquitetônico. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/34/b3/1c/34b31c5701695e5c5c0354cf8457eb76.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/34/b3/1c/34b31c5701695e5c5c0354cf8457eb76.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Coberturas muito complexas ([@fig:complicated]) geram mais riscos de
@@ -293,7 +293,7 @@ divisor de águas.
 
 ![Planta de cobertura excessivamente complexa devido a uma planta baixa muito rebuscada](https://i.pinimg.com/originals/34/b3/1c/34b31c5701695e5c5c0354cf8457eb76.jpg){#fig:complicated}
 
-## {.unlisted data-background-image="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-drone-flying-over-remote-houses-8168-medium.mp4" data-background-video-muted="true"}
+## {data-background-image="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-drone-flying-over-remote-houses-8168-medium.mp4" data-background-video-muted="true"}
 
 ![Casas rurais com coberturas simples de duas e quatro águas](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-drone-flying-over-remote-houses-8168-medium.mp4){#fig:ville}
 
@@ -306,7 +306,7 @@ defeitos ou deteriorações que vão comprometer a sua durabilidade e o seu
 desempenho no longo prazo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse princípio de certo modo justifica o famigerado "caixotinho" como
@@ -320,7 +320,7 @@ Assim, muito da arquitetura monumental contemporânea não entra tanto na discus
 Essas coberturas mais simples garantem flexibilidade para resolver irregularidades, podendo-se optar pela utilização de quatro águas pela mesma razão. Muitas construções tradicionais são irregulares, sendo cobertas de forma eficiente com as quatros águas.  
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:price .r-stack}
 ![sobre projeção retangular](https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0045.png){#fig:priceA .line .fragment .current-visible .align-left}
@@ -332,13 +332,13 @@ Ajuste de uma cobertura de quatro águas. Desenho: [Francis Price, 1735]
 
 [Francis Price, 1735]: http://archive.org/details/britishcarpenter00pric
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-103.3.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-103.3.png" data-background-size="contain"}
 
 ![Cobertura japonesa sem empena, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-103.3.png){#fig:engel1985-103.3 .line}
 
 ## Tesouras na carpintaria da Europa ## {data-visibility="hidden"}
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A carpintaria tradicional do leste da Ásia, e principalmente a do Japão,
@@ -351,7 +351,7 @@ conhece até hoje: a treliça ou tesoura. Já na bacia amazônica, predomina a u
 Nessas coberturas japonesas tradicionais, existem os espigões, que são elementos estruturais em madeira na forma convexa, e os rincões, que são na forma côncava, sendo os primeiros melhores que os segundos do ponto de vista da resiliência e da eficiência em geral.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/25/Kehlbalkendach_nach_Böhm.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/25/Kehlbalkendach_nach_Böhm.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma mais simples de tesoura é formada por duas *pernas* diagonais
@@ -376,7 +376,7 @@ A ordem de construção de um edifício tradicional na Europa: primeiro, sobem-s
 
 [Theodor Böhm, 1911]: https://commons.wikimedia.org/wiki/File:Kehlbalkendach_nach_Böhm.jpg
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::: {#fig:charpente-viollet .r-stack}
 ![sem pendural](https://upload.wikimedia.org/wikipedia/commons/7/70/Charpente.ferme.primitive.png){#fig:charpente-violletA .line .fragment .current-visible .align-left}
@@ -396,7 +396,7 @@ tracionado verticalmente entre a cumeeira e o centro da linha.
 [@fig:charpente-viollet]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A carpintaria estrutural no norte da Europa se desenvolve a partir do
@@ -417,7 +417,7 @@ dar inclusive por meio de manuais impressos [@price:1735british].
 Esquemas de tesouras segundo [Francis Price, 1735]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0054.png" data-background-position="top"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0054.png" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O tipo de tesoura mais difundido desde a Roma antiga
@@ -429,7 +429,7 @@ pernas, e o transmitem ao pendural. Essa distribuição de forças é
 extremamente estável.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0060.png" data-background-position="top"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0060.png" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Outra solução possível para a tesoura envolve usar duas linhas com um
@@ -439,7 +439,7 @@ linha inferior pode ser cortada entre os pontaletes, o que vai resultar
 em três tesouras independentes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-401.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-401.png" data-background-size="contain"}
 
 ![Escoras mestras numa tesoura alemã. Desenho: Schnell, 1915, reproduzido em Zwerger, *Wood and Wood Joints*](https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-401.png){#fig:zwerger2012-401 .line .align-right}
 
@@ -448,7 +448,7 @@ Para manter a unidade da tesoura, podemos acrescentar escoras diagonais
 nas duas quinas superiores do retângulo ([@fig:zwerger2012-401]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://gcdn.daz3d.com/p/17767/i/render5_1_4.jpg"}
+## {data-background-image="https://gcdn.daz3d.com/p/17767/i/render5_1_4.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O uso de escoras permite abrir espaços amplos e desimpedidos debaixo das
@@ -460,7 +460,7 @@ grandes salões, como os celeiros da Europa medieval ([@fig:coxwell]).
 
 [Daz Originals e SoulessEmpathy]: https://www.daz3d.com/tithe-barn
 
-## {.unlisted}
+##
 
 ::::::::::::::::::::::::::::::::: {#fig:viollet-exemples .columns .full}
 ::: {.column width=61%}
@@ -480,7 +480,7 @@ Alemanha e no norte da França durante a Idade Média.
 [@fig:viollet-exemples]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essas tesouras grandes e complexas eram importantes por vários motivos.
@@ -492,13 +492,13 @@ guindastes durante a obra ([@fig:grue]).
 
 ![Reconstituição de um guindaste na carpintaria da catedral de Remígio. Desenho de [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg){#fig:grue}
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/Rebatir_Notre-Dame_de_Paris-2020-470926263-1080p-25fps.webm" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/Rebatir_Notre-Dame_de_Paris-2020-470926263-1080p-25fps.webm" data-background-video-muted="true"}
 
 ![Ensaio de reconstrução das tesouras de Notre-Dame de Paris nas Jornadas Europeias do Patrimônio, 19 e 20 de setembro de 2020. Produção: [Établissement Public [RNDP]{.smallcaps}]](https://cdn.palazzo.arq.br/firmitas/coberturas/Rebatir_Notre-Dame_de_Paris-2020-470926263-1080p-25fps.webm){#fig:rndp}
 
 [Établissement Public [RNDP]{.smallcaps}]: https://vimeo.com/user119711143
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No norte da Europa, geralmente, esses sistemas de carpintaria se tornam o próprio traçado regulador do edifício como um todo, a exemplo das casas feitas em *enxaimel*, nas quais a superfície completa da parede transforma-se em uma grande treliça em madeira toda contraventada com elementos diagonais, criado no mundo germânico antigo. Uma característica marcante desses edifícios europeus é que a fachada costuma corresponder a uma “fatia” dessa carpintaria ([@fig:langhein2012-01-03]). 
@@ -506,9 +506,9 @@ No norte da Europa, geralmente, esses sistemas de carpintaria se tornam o própr
 
 ![Malha proporcional triangular equilátera, exemplos da arquitetura vernácula alemã: casa rurais das regiões da Vestfália meridional, Francônia superior (Bavária) e casa urbana de Eppingen, Baden, 1471. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg){#fig:langhein2012-01-03 .full}
 
-# Carpintaria chinesa # {data-background-color="#0f0"}
+# Carpintaria chinesa #
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-asian-temple-roof-decoration-11123-medium.mp4" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-asian-temple-roof-decoration-11123-medium.mp4" data-background-video-muted="true"}
 
 ![Telhado em estilo chinês](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-asian-temple-roof-decoration-11123-medium.mp4){#fig:mixkit-asian}
 
@@ -518,7 +518,7 @@ O estereótipo da arquitetura chinesa elaborado na Europa desde o século
 curva ([@fig:mixkit-asian]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-image="https://4.bp.blogspot.com/-udY_CN9QJ3E/WPjzuUZWQsI/AAAAAAAAR5A/Z6E9nw8h5tIT0KeetSWfoT6FXr0B_OGZgCLcB/s1600/sabara o3.JPG" data-background-size="contain"}
+## {data-background-image="https://4.bp.blogspot.com/-udY_CN9QJ3E/WPjzuUZWQsI/AAAAAAAAR5A/Z6E9nw8h5tIT0KeetSWfoT6FXr0B_OGZgCLcB/s1600/sabara o3.JPG" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa imagem se formou nas *chinesices*, pinturas que decoravam
@@ -533,11 +533,11 @@ Na Carpintaria chinesa, os módulos de fachada são perpendiculares à fachada (
 
 ![Pintura de chinesice na igreja de Nossa Senhora do Ó, Sabará, segunda metade do século [XVIII]{.smallcaps}](https://4.bp.blogspot.com/-udY_CN9QJ3E/WPjzuUZWQsI/AAAAAAAAR5A/Z6E9nw8h5tIT0KeetSWfoT6FXr0B_OGZgCLcB/s1600/sabara o3.JPG){#fig:sabara}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/f2/9f/85/f29f850b4e494b8691b2d056df6719eb.png"}
+## {data-background-image="https://i.pinimg.com/originals/f2/9f/85/f29f850b4e494b8691b2d056df6719eb.png"}
 
 ![Vista da nave da igreja de Nossa Senhora do Ó, Sabará](https://i.pinimg.com/originals/f2/9f/85/f29f850b4e494b8691b2d056df6719eb.png){#fig:sabara-nave .full}
 
-## {.unlisted data-background-image="https://www.bl.uk/britishlibrary/~/media/bl/global/dl romantics and victorians/collection-items-manual/c/h/a/chambers-william-designs-b20144-54.jpg"}
+## {data-background-image="https://www.bl.uk/britishlibrary/~/media/bl/global/dl romantics and victorians/collection-items-manual/c/h/a/chambers-william-designs-b20144-54.jpg"}
 
 ![William Chambers, arquiteto, prancha de [*Designs of Chinese buildings*, 1757]](https://www.bl.uk/britishlibrary/~/media/bl/global/dl romantics and victorians/collection-items-manual/c/h/a/chambers-william-designs-b20144-54.jpg){#fig:chambers-chinese}
 
@@ -552,14 +552,14 @@ estereótipo do beiral pontudo acabou se consagrando.
 [@fig:chambers-chinese]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-color="#0f0"}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Apesar desse estereótipo, a curvatura do telhado é só uma de muitas
 características que definem a arquitetura tradicional chinesa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted}
+##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O aspecto mais importante e único da construção chinesa em madeira é a
@@ -607,7 +607,7 @@ Esses sistema começa a ser estudos no ocidente por esses dois chineses que estu
 
 ## Projetar em corte ## {data-visibility="hidden"}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/atkin2011-3.18.png"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/atkin2011-3.18.png"}
 
 ![Salão principal do templo budista Shanhua, Datong, província de Shanxi, 1060. Levantamento e desenho da fachada por Liang Sicheng e Lin Huiyin, primeira metade do século [XX]{.smallcaps}](https://hcommons.org/app/uploads/sites/1002372/2021/08/atkin2011-3.18.png){#fig:shanhua .full}
 
@@ -630,7 +630,7 @@ resultado de se conectar uma sequência de pórticos paralelos.
 
 ## Mísulas sobrepostas ## {data-visibility="hidden"}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.12-1080p.png"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.12-1080p.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Analogia vegetal: árvores, galhos e flores [@feng:2012chinese].
@@ -640,41 +640,41 @@ As mísulas são consideradas metáforas das próprias árvores, como uma maneir
 
 ![Metáfora vegetal do *dougong*, segundo Feng, *Chinese architecture and metaphor*](https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.12-1080p.png){#fig:feng2012-4.12 .line}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.24-1080p.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.24-1080p.png" data-background-size="contain"}
 
 ![Esquema de contrapesos para estabilização do *dougong*, segundo Feng](https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.24-1080p.png){#fig:feng2012-4.24 .line}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.27-1080p.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.27-1080p.png" data-background-size="contain"}
 
 ![Vista de caibros volantes em balanço, segundo Feng](https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.27-1080p.png){#fig:feng2012-4.27 .line .align-right}
 
-## {.unlisted data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-640.png" data-background-size="contain"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-640.png" data-background-size="contain"}
 
 ![Chuzu'an, corte dos *dougong* e caibros volantes sobre os vãos e sobre as colunas, segundo Liang e Lin](https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-640.png){#fig:zwerger2012-640 .line}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Horyu-ji08s3200.jpg/2560px-Horyu-ji08s3200.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Horyu-ji08s3200.jpg/2560px-Horyu-ji08s3200.jpg"}
 
 ![Hōryūji, templo budista em Ikaruga, Nara, Japão. Recinto oeste, *kondō* (salão dourado) e pagode, após 607 d.C. Foto: [663highland, 2010](https://commons.wikimedia.org/wiki/File:Horyu-ji08s3200.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Horyu-ji08s3200.jpg/1024px-Horyu-ji08s3200.jpg){#fig:horyuji-kondo-ta}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG/2560px-Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG/2560px-Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG"}
 
 ![Hōryūji, nível superior do *kondō* mostrando as mísulas do telhado. Foto: [Nekosuki, 2011](https://commons.wikimedia.org/wiki/File:Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG/1024px-Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG){#fig:horyuji-kondo-upper}
 
-## {.unlisted data-background-image="http://www.digital-images.net/Images/Japan/Horyuji_Kondo_detail_9972.jpg"}
+## {data-background-image="http://www.digital-images.net/Images/Japan/Horyuji_Kondo_detail_9972.jpg"}
 
 ![Hōryūji, pagode, detalhe das mísulas sustentando uma terça e caibros volantes, foto: [Ron Reznick]](http://www.digital-images.net/Images/Japan/Horyuji_Kondo_detail_9972.jpg){#fig:horyuji-kondo-det .full}
 
 [Ron Reznick]: http://www.digital-images.net/Gallery/Scenic/Japan/Temples/Horyuji/horyuji.html
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/薬師寺東塔_-_panoramio.jpg/2560px-薬師寺東塔_-_panoramio.jpg"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/薬師寺東塔_-_panoramio.jpg/2560px-薬師寺東塔_-_panoramio.jpg"}
 
 ![Yakushiji, pagode leste, 680--730. Foto: [Buzzhiro, 2007](https://commons.wikimedia.org/wiki/File:薬師寺東塔_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/薬師寺東塔_-_panoramio.jpg/1024px-薬師寺東塔_-_panoramio.jpg){#fig:yakushiji-toutou}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG/2560px-Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG/2560px-Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG"}
 
 ![Yakushiji, pagode leste, detalhe das mísulas e caibros. Foto: [Nekosuki, 2011](https://commons.wikimedia.org/wiki/File:Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG/1024px-Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG){#fig:yakushiji-toutou-det}
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/How_to_build_a_Chinese_Traditional_house.webm" data-background-video-muted="true" data-background-video-loop="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/How_to_build_a_Chinese_Traditional_house.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
 ::::::::::::::::::::::::::::::::::::::::::: {#fig:3dmax .iframe-wrapper}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F2H9UbIApYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -690,7 +690,7 @@ Em geral, os telhados cerâmicos japoneses tendem a ser um pouco mais rasos que 
 Existe uma série de teorias para justificar as curvaturas desses telhados, sendo a primeira delas a possibilidade de aceleração das águas pluviais, fazendo com que caiam mais distantes da base do edifício; a outra tem origem mais histórica, motivada pelas diversas sobreposições de telhados, uns mais íngremes que os outros, demandando as curvaturas para um melhor encaixe (as mais externas são mais rasas para permitir uma boa iluminação e ventilação dos interiores, que são muito profundos em geral).  
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.unlisted data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/Chinese_Architectural_Brackets-JnB3fQTE1XU-1080p-30fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/Chinese_Architectural_Brackets-JnB3fQTE1XU-1080p-30fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
 :::::::::::::::::::::::::::::::::::::::::: {#fig:wiborg .iframe-wrapper}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JnB3fQTE1XU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -700,7 +700,7 @@ Construção de um sistema de mísulas chinesas. Carpintaria: [Richard Wiborg, 2
 
 [Richard Wiborg, 2018]: https://youtu.be/JnB3fQTE1XU
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/76/f8/5a/76f85af1f812ad927ea970bb7813ce95.png" data-background-position="top"}
+## {data-background-image="https://i.pinimg.com/originals/76/f8/5a/76f85af1f812ad927ea970bb7813ce95.png" data-background-position="top"}
 
 ![Telhado do Tōindō, Yakushiji, Nara, século [VIII]{.smallcaps}. Maquete parcial executada em 2014, via [Designboom, 2021]](https://i.pinimg.com/originals/76/f8/5a/76f85af1f812ad927ea970bb7813ce95.png){#fig:yakushiji2014}
 
@@ -722,7 +722,7 @@ Construção de um sistema de mísulas chinesas. Carpintaria: [Richard Wiborg, 2
 
 ![Reconstituição do corte longitudinal de um palácio da dinastia Han com fundações do tipo *taixie*, por Steinhardt (2019)](https://i.pinimg.com/originals/a8/52/6f/a8526febba8123bdba4e3c8079cc4c1f.png){#fig:han-taixie .full}
 
-# Revestimentos # {data-background-color="#0f0"}
+# Revestimentos #
 
 ## Revestimento e clima ## {data-visibility="hidden"}
 
@@ -738,11 +738,11 @@ Construção de um sistema de mísulas chinesas. Carpintaria: [Richard Wiborg, 2
 
 ![Execução de uma cobertura em choça](https://i.pinimg.com/originals/0e/31/ee/0e31eec73c2b44ce9fcbade88f1a8c1a.jpg){#fig:choca}
 
-## {.unlisted data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7c/Torvtak_5.png" data-background-size="contain"}
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7c/Torvtak_5.png" data-background-size="contain"}
 
 ![Detalhe de uma cobertura escandinava revestida com grama. Desenho: [Roede, 1989]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Torvtak_5.png/712px-Torvtak_5.png){#fig:torvtak .align-right}
 
 [Roede, 1989]: https://commons.wikimedia.org/wiki/File:Torvtak_5.png
 
-# Bibliografia {.unlisted .allowframebreaks}
+# Bibliografia {- .unlisted .allowframebreaks}
 

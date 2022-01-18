@@ -547,15 +547,15 @@ igrejas que abrigam relíquias importantes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/e1/43/d1/e143d14acdb8f920ef42f7932c01facc.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/e1/43/d1/e143d14acdb8f920ef42f7932c01facc.jpg"}
 
 ![*Villa* parcialmente fortificada na época romana tardia, séculos [IV--VI]{.smallcaps}](https://i.pinimg.com/originals/e1/43/d1/e143d14acdb8f920ef42f7932c01facc.jpg){#fig:fort-villa}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png" data-background-size="contain"}
 
 ![Tipos de base e duplicações na edilícia de base do Mediterrâneo medieval, segundo Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:raddoppi .align-right .line}
 
-## {.unlisted data-background-image="https://i.pinimg.com/originals/25/a1/80/25a180516a2a01f5faf8fcdee19c23f9.jpg" data-background-size="contain"}
+## {data-background-image="https://i.pinimg.com/originals/25/a1/80/25a180516a2a01f5faf8fcdee19c23f9.jpg" data-background-size="contain"}
 
 ![Casa--salão do norte da Europa: construção em Burford, Inglaterra](https://i.pinimg.com/originals/25/a1/80/25a180516a2a01f5faf8fcdee19c23f9.jpg){#fig:cotswold}
 
