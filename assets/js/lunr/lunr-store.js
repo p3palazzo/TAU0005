@@ -155,28 +155,10 @@ var store = [{
         "url": "/tau0005/trabalho/classico/",
         "teaser": null
       },{
-        "title": "Instrumentos e materiais de desenho",
-        "excerpt":"Para fazer as atividades da disciplina, você vai precisar de um conjunto básico de instrumentos de desenho arquitetônico e de papel. Uma superfície lisa e macia para desenhar: prancheta portátil ou de pé, mesa de jantar ou tábua em MDF com bordas retas (para poder apoiar a régua “T” nas...","categories": [],
+        "title": "Instrumentos e materiais",
+        "excerpt":"Para fazer as atividades da disciplina, você vai precisar de um conjunto básico de instrumentos de desenho arquitetônico e modelagem, seja à mão ou digital. Desenho à mão Materiais indicados Uma superfície lisa e macia para desenhar: prancheta portátil ou de pé, mesa de jantar ou tábua em MDF com...","categories": [],
         "tags": [],
         "url": "/tau0005/trabalho/materiais/",
-        "teaser": null
-      },{
-        "title": "Convenções para desenho de arquitetura tradicional",
-        "excerpt":"Observe as indicações escritas na prancha abaixo e também os modos de representação adotados. Figura 1: Modelo de prancha e convenções gráficas Desenhe usando os instrumentos e materiais indicados para esta disciplina e observe as dicas para digitalizar a sua entrega. Referências Ching, Francis D. K. Representação gráfica em arquitetura....","categories": [],
-        "tags": [],
-        "url": "/tau0005/trabalho/desenho/",
-        "teaser": null
-      },{
-        "title": "Como digitalizar os desenhos",
-        "excerpt":"Veja primeiro os instrumentos e materiais indicados para realizar as atividades, assim como as convenções de desenho que usamos. Para fazer as entregas, você precisa digitalizar os desenhos e carregá-los na respectiva atividade no Moodle. Se você não tiver acesso a um scanner tamanho A3 (quase ninguém tem, não se...","categories": [],
-        "tags": [],
-        "url": "/tau0005/trabalho/digitalizar/",
-        "teaser": null
-      },{
-        "title": "Construção de maquetes",
-        "excerpt":"Em algumas atividades, você deverá apresentar uma maquete. Assim como o desenho arquitetônico, a confecção de maquetes para o estudo da história da arquitetura tem suas particularidades com respeito a outras finalidades, como o estudo do projeto ou a divulgação imobiliária. Ferramentas e consumíveis Estilete As ferramentas mais importantes para...","categories": [],
-        "tags": [],
-        "url": "/tau0005/trabalho/maquete/",
         "teaser": null
       },{
         "title": "Composição de espaços",
