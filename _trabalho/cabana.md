@@ -147,9 +147,7 @@ são ortográficas, ou seja, *sem* perspectiva.
 - Tanto no corte quanto na elevação, mostre as amarrações entre as peças
   em madeira.
 - Inclua uma escala gráfica; desenhe usando os
-  [instrumentos e materiais](materiais.md) indicados e siga as
-  [convenções de desenho](desenho.md) desta disciplina; observe as
-  [dicas para digitalizar](digitalizar.md) a sua entrega.
+  [instrumentos, materiais e dicas de trabalho](materiais.md).
 - Para maiores esclarecimentos sobre a montagem de estruturas em
   madeira, consulte a *Enciclopédia prática da construção civil* de
   Francisco Pereira da Costa, especialmente os volumes 7 e 8
