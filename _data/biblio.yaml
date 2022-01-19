@@ -1914,7 +1914,7 @@ references:
   ISBN: 978-85-407-0191-5
   issued:
     - year: 2012
-  language: Portuguese
+  language: pt-BR
   publisher: Bookman
   publisher-place: Porto Alegre
   title: Desenho para arquitetos
@@ -1969,7 +1969,7 @@ references:
   ISBN: 978-85-8260-437-3
   issued:
     - year: 2017
-  language: Portuguese
+  language: pt-BR
   publisher: Bookman
   publisher-place: Porto Alegre
   title: Representação gráfica em arquitetura
@@ -2168,7 +2168,7 @@ references:
   title-short: Sustainable masonry
   type: book
 
-- id: clute:1928draftinga
+- id: clute:1928drafting
   abstract: http://uf.catalog.fcla.edu/uf.jsp?st=UF000626998&ix=nu&I=0&V=D
   accessed:
     - year: 2017
@@ -2177,13 +2177,13 @@ references:
   author:
     - family: Clute
       given: Eugene
-  citation-key: clute:1928draftinga
+  citation-key: clute:1928drafting
   event-place: New York
   issued:
     - year: 1928
   language: en-US
   number-of-pages: '332'
-  publisher: Pencil Points Press
+  publisher: Pencil Points
   publisher-place: New York
   source: Internet Archive
   title: Drafting room practice
@@ -3110,7 +3110,6 @@ references:
     - year: 1977
   language: en
   page: 205-216
-  publisher: The Institute, Inc.
   source: JSTOR
   title: >-
     The Culture of Malaysian Urbanization: Malay and Chinese Conceptions of
@@ -3427,11 +3426,11 @@ references:
   ISBN: 978-1-84797-771-7
   issued:
     - year: 2014
-  language: English
+  language: en-US
   publisher: Crowood
   publisher-place: New York
   source: Open WorldCat
-  title: Making Scale Models
+  title: Making scale models
   type: book
 
 - id: fruth:2017great
@@ -4901,7 +4900,7 @@ references:
   ISBN: 978-84-252-2256-6
   issued:
     - year: 2009
-  language: Spanish
+  language: es
   publisher: Gustavo Gili
   publisher-place: Barcelona
   source: Open WorldCat

@@ -139,9 +139,7 @@ escolhida --- nome da ordem e o seu autor, por exemplo:
 Você também deve atender ao seguinte:
 
 - [Critérios e normas gerais de avaliação](../_plano/avalia.md);
-- [Materiais indicados para desenhar](materiais.md);
-- [Normas de desenho desta disciplina](desenho.md);
-- [Dicas para digitalizar desenhos](digitalizar.md).
+- [Materiais, instrumentos e dicas de trabalho](materiais.md).
 
 # Bibliografia #
 
