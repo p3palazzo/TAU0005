@@ -126,17 +126,17 @@ html {
     // Hide single images so we can use data-background-image
     & > figure {
       & > img {
-	max-height: 80vh;
+        max-height: 80vh;
       }
       & > img:not(.r-stretch):not(.r-stack):not(.overlay-slide),
       & > video:not(.r-stretch):not(.r-stack):not(.overlay-slide) {
-	visibility: hidden;
+        visibility: hidden;
       }
       & > img.overlay-slide,
       & > img.overlay-slide + figcaption {
-	float: right;
-	clear: right;
-	max-width: 25%;
+        float: right;
+        clear: right;
+        max-width: 25%;
       }
     }
     & > figure + figcaption,
