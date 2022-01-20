@@ -40,6 +40,20 @@ header:
 ## {data-background-image="https://i.pinimg.com/originals/96/23/5c/96235cdaade74213f55330def2e9c900.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+**Bacia do Mediterrâneo**: oferece exemplos interessantes de como as tipologias edilícias se formam e transformam-se ao longo do tempo, sendo selecionada para estudo por motivos acadêmicos (tradição consolidada de estudos sobre arquitetura vernácula), já que também existem exemplares em outras partes do mundo. Permitem entender essas edificações individualmente e sua inserção em conjuntos/séries que se desenvolvem ao longo do espaço e do tempo (a partir do Império Romano até o fim da Idade Média). 
+
+Assim, serão atravessados alguns recortes convencionais na história e na história da arquitetura, por exemplo, não havendo tanta preocupação com o corte entre Antiguidade e Idade Média. Isso ocorrer por este corte não fazer tanto sentindo no caso da arquitetura doméstica, que se transforma muito lentamente, sobretudo, sendo determinada por condições climáticas, geográficas e por pré-existências do tecido urbano. Nela não é notada uma sucessão do que se poderia chamar de estilos (entendidos como características decorativas), que aqui tendem a ser mais conservadores, pois não se transformam tanto quanto questões decorativas, formas de articulação das superfícies ou mesmo de sistemas construtivos (que, teoricamente, são os elementos mais duradouros, quase que totalmente atrelado ao clima, geografia e materiais regionais disponíveis). 
+
+
+**Mediterrâneo ocidental** (durante o Império Romano): são observados vários sítios com padrões que variam a cada região.
+
+*Lattara* (França): é um exemplo em que se destaca o parcelamento do solo para alocar espaço para construção. Trata-se de uma “aldeira-rua” em que a via é o caminho principal e traçado dominante, sendo as ruas perpendiculares de caráter secundário. Esse padrão forma quarteirões relativamente espontâneos e não planejados, mas organizados e homogêneos na distribuição dos lotes. Estes configuram a unidade urbana com casas pequenas, cujos usos não são exclusivamente residenciais (ao menos, não como se conhece atualmente), sendo a forma mais básica de construção daquela sociedade. Tal casa é pouco especializada e não demanda grandes especificidades.
+
+O gradiente que recebe essa unidade multifuncional não é um espaço único e sem separação. Cada povo tem sua configuração, conforme suas demandas sociais, climáticas, econômicas, etc. Esse tipo de casa-urbana reporta-se à casa rural, que é mais simples, apresentando apenas frentes e fundos (sem qualquer divisão interna).
+
+Os referidos tipos determinam o próprio traçado urbano, que corresponde ao sistema que dá suporte a esse módulo básico, resultando em cidades com vários lotes iguais e com casas muito homogêneas.
+
+
 Nas cidades planejadas da Grécia antiga, os lotes eram rasos, quase
 quadrados, e os quarteirões eram pequenos. Em alguns casos, como em
 Olinto ([@fig:olynthus-blocks]), as casas eram geminadas só pelas divisas
@@ -56,6 +70,8 @@ largura, ou 1,20 metro [@cahill:2002household].
 ![Planta esquemática da casa A vii 4 em Olinto, segundo Cahill, 2002](https://i.pinimg.com/originals/22/dc/c7/22dcc7e8613bad5e3307ab455a701a01.png){#fig:olynthus-a-vii-4 .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+**Casas-pátio gregas**: são relativamente quadradas, representando o tipo elementar, formado por: acesso - pátio - pórtico - outros ambientes - andar superior. Elas podem ser aparecer em lotes mais estreitos quando necessário. 
+
 A tipologia da casa grega urbana se dividia em dois tipos mais
 difundidos: a casa com *pastas* ou salão em forma de pórtico e a casa
 com *prostas*, ou pórtico na frente de uma sala separada
@@ -119,10 +135,22 @@ respeito ao lote ([@fig:many-colors]).
 ## {data-background-image="https://i.pinimg.com/originals/78/e3/94/78e394dbdb86e38fe1640b8f38a8c07d.jpg"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+**Tipos arquitetônicos**: 
+
+Conceito por trás do projeto arquitetônico, não sendo individual e sim cultural ou comunitário. Não se trata da representação de um tipo dominante ou de um modelo, pois há uma configuração relativamente variada (espaços, arranjos, etc.) e ajustada a necessidades específicas. Sua duração no tempo depende de mudanças na sociedade e de suas expectativas. 
+
+
+**Transição tipológica**:
+
+Nota-se uma expectativa convergente sobre o que seja uma casa que suporte uma família tradicional grega, com uma configuração adequada. Há também que se considerar a influência do clima sobre a tipologia, já que essas casas funcionam como instrumentos bioclimáticos: oferecem sombra no verão e uma boa insolação no inverno). Isso é transformado em arquitetura por intermédio de certas expectativas sociais, mas existe o fator pessoal que introduz variações pontuais no tipo, aliado a esses fatores sociais e culturais. Estes impõe uma continuidade ao longo de várias décadas ou mesmo séculos e, juntamente com os fatores ambientais, vão levar a uma lógica muito mais abstrata, mas praticamente imutável por sua variação muito lenta. Excetuam-se os casos extremos como a atual destruição do planeta, em geral, o clima quase não muda ao longo do tempo (que ocorre em uma escala milenar). Essas circunstâncias promovem certa estabilidade na forma arquitetônica, já que algumas casas gregas tradicionais modernas continuam usando pátios e algum forma de pórticos como elementos bioclimáticos, para além de qualquer mudança cultural ocorrida.
+
+
 [Em contraste com a casa grega, a casa romana]{.newthought} privilegiava
 a regularidade e a axialidade da composição acima da orientação solar.
 Isso era especialmente o caso nas moradas mais ricas, onde o ritual de
 receber "clientes" era importante.
+
+Ela apresenta formas um pouco diferentes da anterior, em razão de questões culturais e climáticas, sendo mais axiais em sua configuração básica e sem tanto enfoque na orientação solar. Sua ampliação é feita através da multiplicação do tipo básico. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Esquema de uma *domus* romana. Modelo: [José Antonio](https://www.artstation.com/artwork/JlPPlR)](https://i.pinimg.com/originals/78/e3/94/78e394dbdb86e38fe1640b8f38a8c07d.jpg){#fig:domus-cutaway}
@@ -198,6 +226,12 @@ domésticos. Por isso, a ampliação de uma casa romana se fazia sempre
 replicando os módulos básicos: o eixo *fauces*--átrio--*tablinum* e o
 jardim com peristilo. As dimensões desses módulos e dos ambientes que
 faziam parte deles, por outro lado, variavam pouco (exceto a do jardim).
+
+Observa-se a força do tipo ao longo da organização de uma sociedade, começando por um muito básico e que vai se tornando mais especializado, estruturado e complexo no tempo e espaço, como visto nos exemplos acima: Lattara (mais básica, com sala na frente e nos fundos, um pátio ou corredor descoberto), casa grega (presença de pátio, pórtico e salas atrás) e casa romana (mais estruturada e complexa, com sua configuração axial (salão), disposição de cômodos ao redor do pátio e jardim com colunatas no fundo, sendo notada a multiplicação desse tipo).
+
+A partir do tipo de uma determinada sociedade, segue-se com a sua aplicação, podendo-se desenvolver tipo mais especializados (como o templo, a casa de banho, o mercado, etc.), mas suas ampliações ou configurações mais complexas resultam de duplicações e articulações de instâncias desse tipo. Então, há também outras leituras desse tipo, como o renque de lojas na fachada voltada para  a rua (padarias, restaurantes, oficinas, etc). 
+
+Pode-se reduzir o tipo da casa a um mais simples para populações menos favorecidas, contando com apenas um ambiente na frente e outro nos fundos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Planta da casa do Fauno, Pompeia, reformada após 66 d.C. Desenho: [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_288)](https://upload.wikimedia.org/wikipedia/commons/5/54/Plan_of_the_house_of_the_Faun_in_Mau_fig137.png){#fig:mau137 .full .line}
@@ -207,10 +241,12 @@ faziam parte deles, por outro lado, variavam pouco (exceto a do jardim).
 ![Reconstituição da casa de Maomé em Medina, c. 622 d.C., segundo Leacroft, 1976](https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png){#fig:leacroft1976-2 .full .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[A casa árabe urbana na bacia do Mediterrâneo]{.newthought} combina
-características dos tipos grego e romano com adaptações bioclimáticas e
-construtivas originárias da Mesopotâmia. O tipo originário da casa árabe
-é, na verdade, uma morada rual. Ela parte de um terreiro cercado amplo,
+[A casa árabe urbana na bacia do Mediterrâneo]{.newthought} 
+
+Sociedades diferentes apresentam configurações diversas, como a casa árabe (com pátios vastos e ocupações nos fundos, com ventilação muito controlada). Combina características dos tipos grego e romano com adaptações bioclimáticas e construtivas originárias da Mesopotâmia. Não se trata de uma derivação direta do modelo mediterrâneo, que não foi criado nem por gregos nem por romanos, pois são práticas culturais que estão amplamente difundidas na Bacia do Mediterrâneo como formas que vão se desenvolvendo e espalhando pelo território, inclusive como fruto de necessidades climáticas. Assim, observa-se enfim um conjunto de variações em cima desse pátio e ambientes voltados para ele, associado às especificidades locais.
+
+O tipo originário da casa árabe é, na verdade, uma morada rural. 
+Ela parte de um terreiro cercado amplo,
 onde se podiam arrebanhar os animais da família durante a noite. Um dos
 lados desse cercado tinha um pórtico aberto para o terreiro, sem
 divisórias internas. O modelo paradigmático desse tipo é a descrição que
@@ -273,6 +309,12 @@ que a casa passou a ser um espaço mais recluso da família, sem muita
 abertura para estranhos. O salão largo estava disposto transversalmente
 ao pátio. Em geral, evitava-se a disposição axial da entrada ao salão
 que caracterizava a casa romana [@arnold:2017islamic, 30].
+
+Todas essas casas tinham, geralmente, dois ou três pavimentos, que vão se desenvolvendo conforme configurações familiares específicas. 
+
+Há variações com tipos mais complexos, como o “castelhano” (a casa-pátio da Península Ibérica), com soluções que não dependem tanto de diferenciações sociais: salão largo junto ao pátio, que se abre em largura (abandonando a axialidade romana).
+
+Algumas particularidades podem se desdobrar em diferentes períodos, sendo interessante e útil para legitimar e entender processos históricos e demandas sociais, ambientais, etc. de diferentes sociedades no tempo. Ao contrário de tratá-las de forma genérica e entender suas necessidades mínimas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
@@ -289,6 +331,28 @@ encontram em praticamente todas as sociedades que constroem tipos de
 edificações diferenciadas entre si. Os tipo foram concebidos por C.
 William Westfall, professor na Universidade de Notre Dame, nos Estados
 Unidos, no início da década de 1990 [@westfall:1991building].
+
+São morar, celebrar, governar, venerar, abrigar, suster e imaginar. Não precisam se parecer entre si nas diferentes sociedades, sendo uma ideia de distribuição de ambientes e não um partido arquitetônico específico. Trata-se de um conjunto de soluções que se encontra em quase todas as sociedades sedentárias. 
+
+Domus (morar); Mégaron (celebrar); Régia (governar); Tholos (venerar); Hipóstilo (abrigar); Taberna (suster); Theatrum (imaginar): são conceitos um pouco abstratos, não objetivando-se focar nas especificidades dessas formas ou de seus nomes, mas em na sua constituição como propósitos sociais que são mais ou menos universais (quase todas as sociedades sedentárias e que vão produzir uma arquitetura nesse gradiente do rústico para o monumental, vão conter lugares para essas atividades). Todas elas vão partir de uma solução básica de abrigo, que continua pertinente em uma série de funções como mercados, estações de transporte, etc., ou seja, atividades utilitárias que demandam um espaço pouco diferenciado e flexível.
+
+A mais simples cobertura com apoios para proteger um ambiente, que delimita fisicamente o espaço para conferir um uso que pode ser “congelado” em uma determinada sociedade. 
+
+Chega-se ao tipo básico da casa (ou “domus”), sendo um morar que não é necessariamente apenas residencial e contando com diferenciações de privacidade, zonas para atividades diversas, como loja, cozinha, quartos, etc. A família é aqui considerada o núcleo social mínimo, geralmente com vínculo de parentesco quase sempre unifamiliar. Há ainda um espaço mais público e outro mais reservado. O arquétipo do morar extrapola, assim, as funções específicas de uma casa, no sentido estritamente residencial, mas diz sobretudo sobre uma certa maneira de se relacionar com o espaço público, com um espaço mais resguardado e outro com maior interação com o mundo exterior. Isso justifica seu diagrama formal apresentar uma sala atrás da outra (em profundidade), sendo a da frente aberta e a posterior mais privada.
+
+A taberna pode ser entendida como o mercado (suster), onde tudo é público, voltado para o exterior (rua), de modo a maximizar a exposição do que há dentro (produtos e serviços ofertados). Destina-se a atividades essencialmente econômicas variadas e separadas individualmente. O lugar de trabalho ou comércio é caracterizado por permitir a todos(as) acesso igual ao espaço público, justificando a configuração na taberna como uma série de células uma ao lado da outra. Assim, todos os comerciantes, trabalhadores ou produtores estejam um pé de igualdade na esfera pública. 
+
+O morar e o suster são essencialmente atividades privadas. Já as atividades coletivas são:
+
+- A celebração ou “congregar” (“mégaron”) e o governo (“régia”) são atividades que dizem respeito à toda a sociedade, por afetarem a comunidade integralmente.
+
+- Surge, então, a demanda por reunir pessoas (congregar/celebrar), sendo o princípio do evento coletivo para reunião. O espaço da celebração é insuficientemente indiferenciado para receber uma grande congregação sem hierarquias e acolhendo a todos, daí sua forma longitudinal vinculada ao propósito de celebrar algo que está na extremidade do espaço. Constitui-se, assim, o tipo para templos e igrejas, apesar de receberem formas de culto diferentes. A sala de aula convencional também tem esse formato com um ponto focal único. 
+
+- O governar refere-se ao funcionamento administrativo de uma sociedade, variando conforme sua organização e sendo mais complexo por contar com um pátio central e uma hierarquia espacial. O importante é o que faz a forma, seus propósitos. Esse tipo da Régia ou do governo (poder político) e da logística administrativa apresenta uma série de espaços organizados de forma variada, sem divisões específicas, mas com uma configuração meio padronizada do espaço com um pátio central ou dianteiro (aberto ou fechado), que sinaliza um ponto focal. Assim, o papel desse edifício é de cuidar do público, sendo que esse pátio ou praça pública simbolizam essa importância do coletivo.
+
+- O “tholos” e o “theatrum” voltam-se para o universo mental, um imaginar do que pode vir a ser, uma ficção. As assembleias políticas podem seguir a forma do teatro, a partir da ideia das pessoas se reunirem para imaginar a sociedade. No “theatrum” não existe a ideia de ponto focal único, apesar de manter o princípio de runião pessoas com um mesmo objetivo. Já o “tholos” é mais fechado e focado na introspecção, sendo um lugar de recolhimento, que vai envolver e separar a pessoa do mundo a sua volta. 
+
+Por fim, ressalta-se que não se são tipos que se restringem à Bacia do Mediterrâneo, apesar de os diagramas remeterem muito a edifícios característicos dessa região. Entretanto, muitos deles aparecem em vários outros contextos. O Domus e a Taberna são tipos praticamente universais, presentes em qualquer tecido urbano relativamente adensado, na forma de lojas ou casas com mais ou menos essa configuração. A Régia também segue esse padrão com palácios ou complexos administrativos com conformações mais difusas. O Tholos segue a mesma caracterização como tipologia universal, sendo apenas o Mégaron e o Theatrum um pouco mais específicos na forma dos diagramas vinculadas à Bacia do Mediterrâneo a rigor. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/20/2d/b6/202db664aff50fae7bb755bbdc8bfa68.jpg" data-background-size="contain"}
