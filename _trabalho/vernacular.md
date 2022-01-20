@@ -4,14 +4,15 @@ subtitle: "Elementos da construção"
 item: "Atividade I"
 author: "Pedro P. Palazzo"
 date: 2022-03-03
-nocite: |
-  @camp:1984ancient,
-  @choisy:1873art2,
-  @choisy:1883art2,
-  @fornes:1857manual,
-  @segurado:edificacoes,
-  @senseney:2011art,
-  @wright:2000ancient2
+header:
+  overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres-crop.jpg
+  caption: "Johan Christian Dahl (1788–1857), [Vista de Hjelle na região de Valdres](https://commons.wikimedia.org/wiki/File:Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres_-_NG.M.00426-021_-_National_Museum_of_Art,_Architecture_and_Design.jpg) (Noruega)"
+toc:
+  - Ementa
+  - Objetivo
+  - Produto
+  - Critérios de avaliação
+  - Referências
 ---
 
 # Ementa #
@@ -89,12 +90,14 @@ física poderá ser substituída por:
   na entrega do trabalho), *ou* carregar imagens e vídeos da maquete
   junto com o arquivo da modelagem.
 
-<i class="fas fa-exclamation-triangle"></i>
-~ As texturas da maquete eletrônica, assim como o acabamento da maquete
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--warning
+[]{.fas .fa-exclamation-triangle}
+: As texturas da maquete eletrônica, assim como o acabamento da maquete
   física ou a arte-final dos desenhos técnicos, devem representar com
   exatidão as juntas e montagens dos componentes construtivos. Se não
   souber como mapear texturas numa maquete eletrônica para atingir essa
   visualização correta, *não faça maquete eletrônica!*
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Critérios de avaliação #
 
@@ -117,3 +120,33 @@ Você também deve atender ao seguinte:
 As referências indicadas abaixo devem ser usadas como ponto de partida
 para uma pesquisa mais aprofundada.
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#refs}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Exemplos de semestres anteriores ##
+
+![Antonio Carlos Ribeiro Viana Junior, 1.º/2021](https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/Edicula_Antonio_Junior_Video.mp4){#fig:antonio}
+
+:::::::::::::::::::::::::::::::::::::::::: {#fig:vitoria .columns .full}
+::: {.column width=30%}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/01/vernacular-vitoria-gemeinder-1.jpg){#fig:vitoriaA}
+:::
+::: {.column width=40%}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/01/vernacular-vitoria-gemeinder-2.jpg){#fig:vitoriaB}
+:::
+::: {.column width=30%}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/01/vernacular-vitoria-gemeinder-3.jpg){#fig:vitoriaC}
+:::
+
+Vitória Gemeinder Monteiro, 1.º/2021
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::: {#fig:rodrigo .columns .full}
+::: {.column width=50%}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/01/vernacular-rodrigo-freire-ext.jpg){#fig:rodrigoB}
+:::
+::: {.column width=50%}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/01/vernacular-rodrigo-freire-corte.jpg){#fig:rodrigoA}
+:::
+Rodrigo Freire Rodrigues, 1.º/2021
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
