@@ -4,14 +4,15 @@ subtitle: "Elementos da construção"
 item: "Atividade I"
 author: "Pedro P. Palazzo"
 date: 2022-03-03
-nocite: |
-  @camp:1984ancient,
-  @choisy:1873art2,
-  @choisy:1883art2,
-  @fornes:1857manual,
-  @segurado:edificacoes,
-  @senseney:2011art,
-  @wright:2000ancient2
+header:
+  overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres-crop.jpg
+  caption: "Johan Christian Dahl (1788–1857), [Vista de Hjelle na região de Valdres](https://commons.wikimedia.org/wiki/File:Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres_-_NG.M.00426-021_-_National_Museum_of_Art,_Architecture_and_Design.jpg) (Noruega)"
+toc:
+  - Ementa
+  - Objetivo
+  - Produto
+  - Critérios de avaliação
+  - Referências
 ---
 
 # Ementa #
