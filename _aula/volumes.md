@@ -80,13 +80,33 @@ Mediterrâneo, a volumetria de formas definidas predomina claramente.
 ## {data-background-image="https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg" data-background-size="contain" data-background-position="left"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+**Diferenças entre arquitetura tradicional e moderna**: 
+
+Uma das principais se refere aos processos construtivos, sua industrialização e consumo de uma quantidade muito maior de energia (no segundo caso). Isso faz com que esses processos se tornem deslocalizados e com cadeias produtivas extremamente profundas e concentradas em grandes (e poucos) agentes do mercado geralmente. Assim, contrastam bastante com a construção tradicional, que é bem mais local e artesanal. 
+
+Outra distinção fundamental entre ambas é a compreensão do conceito de espaço arquitetônico. Ele é muito característico da arquitetura moderna de um modo geral, tornando-se um de seus principais pontos ideológicos inclusive, sendo reformulado a partir de um universo cartesiano, newtoniano, infinito e totalmente homogêneo. Dessa forma, passa a ver a arquitetura como a arte de manipulá-lo ou organizá-lo, ou seja, tratá-lo como uma massa pré-existente independente de qualquer outra articulação arquitetônica do lugar. 
+
+Uma obra de arquitetura moderna é um modo de articular o espaço na forma dessa substância fluída, amorfa e infinita a ser organizada. Ela ordena e coloca barreiras em alguns pontos para direcionar o fluxo do espaço, criando manchas e campos de força espaciais. Ela também posiciona objetos diversos (pilares, anteparos, divisórias, artes murais, focos de iluminação, mobiliário e superfícies de cores diferentes no chão, teto e paredes) para organizar o espaço existente (que é infinito), limitando-o como se fosse um fluído a ser manipulado. Este torna-se seu ambienta natural, sendo que suas obras mais celebradas são aquelas que levam tais elementos a suas últimas consequências. Como construção, percebe-se a individualidade de cada uma de suas partes com clareza, mesmo que com grandes continuidades, sendo essa sua essência formal: lajes, pilares, divisórias, painéis envidraçados, esquadrias, etc. 
+
+Nota-se, então, um contraste com a arquitetura contemporânea (a exemplo das plantas de apartamentos padronizados das incorporações imobiliárias atuais), que não segue esse princípio, gerando resultados medíocres a partir de compartimentações muito determinadas e definidas (em razão das legislações, regulamentações e modos de vida das pessoas, que podem ser incompatíveis com a fluidez modernista). Ela resulta não da incapacidade dos arquitetos de apresentar melhores produtos, mas de conflitos e incompatibilidades de sensibilidades espaciais, os quais ainda têm o modernismo como referência, resultando em uma percepção insatisfatória. Ilustra-se com o fato de que as reformas atuais mais celebradas são aquelas que revertem esse processo enclusuramento e compartimentação das plantas, trazendo mais fluidez para os espaços. Pretende-se usar esses exemplos da compartimentação da arquitetura imobiliária como contraste marcante frente à fluidez da arquitetura moderna.
+
+A arquitetura moderna apresenta exemplos totalmente diferentes da maioria das arquiteturas tradicionais, que trabalham com volumes muito bem definidos desde o início. São observadas diversas variações em torno desse tema, de acordo com cada cultura edilícia, principalmente naquelas que funcionam mais à compressão, como acontece, especialmente, na bacia do Mediterrâneo, Índia e Sudeste asiático. 
+
+*Casa de banho romana*: trata-se de uma grelha de formas geométricas muito bem definidas, com ambientes independentes e que se articulam de forma elegante e simétrica em geral. Seus elementos estão totalmente definidos e sua movimentação é limitada por volumes, sendo cada espaço independente um do outro, diferentemente da continuidade espacial da arquitetura moderna. Destaca-se que o vazio é um conceito muito modernista, já que na arquitetura tradicional ele é considerado o nada, o que ainda não recebeu forma. Por isso, no caso da arquitetura tradicional, refere-se mais a volumes (formas geométricas em três dimensões) do que a espaços. A essência da arquitetura tradicional em vários contextos (especialmente na grande zona que vai da Índia ao Oriente Médio e Bacia do Mediterrâneo) é a lógica de que é feita para conter e delimitar um certo volume (como bolhas de sabão ocas em uma banheira ou os programas de modelagem em 3D que trabalham com faces e não sólidos). Portanto, diferencia-se do espaço modernista nesse aspecto também, já que ele representa uma superfície contínua ou uma quantidade de ar ou vazio a ser organizada pela arquitetura (como uma pista de boliche repleta de sólidos (bola e pinos) a delimitar o vazio circundante ou os programas de modelagem em 3D que trabalham com sólidos). Esta ordenas tais espaços, enquanto a outra cria volumes por meio da delimitação ou construção das estruturas.
+
+Não se fala em espaço ou vazio na arquitetura tradicional como algo que exista, diferentemente das teorias do vazio de Paul Ricoeur e da Fenomenologia, que o entendem de forma mais abstrata. Trata-se de um conceito muito modernista e até mesmo contemporâneo (principalmente no final do século XX), difundindo-se como “algo que ainda não recebeu forma”. Desse modo, a arquitetura formata volumes e geometrias, que passam a existir a partir do momento em que são criados por ela, adquirindo, assim, significados arquitetônicos. 
+
+Destaca-se, aqui, outra diferença em relação à arquitetura modernista, na qual o espaço é aquilo que perpassa tudo, destacando-se a preocupação com a intervenção mínima em algumas de suas teorias ou projetos, como no térreo livre das superquadras de Brasília. Em contraposição, na arquitetura tradicional, o espaço vazio não existe antes de uma forma arquitetônica que o contenha, a qual pode ser claramente delimitada por colunatas ou arcadas. Estas darão uma leitura de fluxo um pouco mais livre e uma integração entre volumes diferentes e entre exterior e interior. Ainda assim, a possibilidade de uma transparência e permeabilidade (entre o que está de um lado ou outro da colunata ou arcada) depende da percepção da existência de algo em cada um desses lados, o que só é permitido pela delimitação espacial. 
+
 Já falamos sobre isso antes, mas não custa lembrar: a distinção entre
 arquitetura *tradicional* e *moderna* não tem a ver com qualquer
 determinismo cronológico. Existem obras tradicionais contemporâneas, e o
-historiador da arte italiano Giulio Carlo Argan mostrou como a
+historiador da arte italiano Giulio Carlo Argan  (historiador da arte do Renascimento e grande referência na conceituação da arquitetura moderna) mostrou como a
 espacialidade moderna tem raízes relativamente antigas, desde o barroco
 de Borromini no século [XVII]{.smallcaps} [@argan:1973concepto].
 [@fig:sapienza-sec; @fig:sapienza-plan]
+
+Na segunda metade do século XX, Argan reforça que a noção moderna/modernista de espacialidade vem mesmo de longe, a partir de Newton, da Teoria cientifica do espaço infinito e de Hook). Por exemplo, na capela “Sant’Ivo ala Sapienza” de Francesco Borromini, a noção de espaço por oposição ao volume começa a se configurar: não mais com um simples alinhamento de formas geométricas delimitadas uma ao lado da outra, mas com a manipulação e deformação dessas geometrias. Apesenta um traçado regulador extremamente complexo e a manipulação e deformação dessas geometrias quase arbitrariamente, mesmo para uma lógica construtiva tradicional. Observa-se um volume claramente definito, destacando-se a presença de quatro fachadas, o piso e a linha de coroamento dos edifícios ao redor, a qual define um limite invisível no pátio ladeado por duas galerias de dois pavimentos com corredores. Tal configuração garante certa transparência e integração, ainda que uma marcada distinção entre cada elemento como algo separado e identificável seja mantida.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Sant'Ivo alla Sapienza, corte transversal por [Dominique Barrière, c. 1695](https://commons.wikimedia.org/wiki/File:SantIvo_Drawing_04.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SantIvo_Drawing_04.jpg/664px-SantIvo_Drawing_04.jpg){#fig:sapienza-sec .align-right}
@@ -114,6 +134,16 @@ processo favorece.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Arquitetura simbólica, clássica e romântica [@hegel:2001cursos1].
+
+Ressalta-se que o desenvolvimento dessa lógica espacial é muito mais antigo do que a teoria de Argan, pois Hegel desenvolve a chamada Teoria da Forma Artística e do Processo de Produção da Arte, a partir de um curso de Estética ministrado na Universidade de Berlim, no início do século XIX. Nela, a arquitetura é vista como um processo de articulação cada vez maior do espaço, com a ressalva de que adota exemplos altamente questionáveis e seletivos para criar um esquema universal de evolução da arquitetura. O que interessa aqui é a maneira como o autor explica o suposto desenvolvimento gradual da espacialidade na arquitetura e de suas características, contribuindo para entender melhor a oposição entre espaço e volume. Então, Hegel estabelece três estágios na arquitetura e na arte em geral, que não podem ser vistos como um esquema para entender a História da arte como um todo, mas como a colocação de certos problemas interessantes para a discussão do espaço. São eles: 
+
+- **Simbólico**: refere-se ao pensamento simbólico, que seria a primeira manifestação de complexidade nas sociedades humanas em períodos muito antigos. Trata-se de uma arquitetura que não articula identidade formal própria, já que praticamente não apresenta espaços habitáveis ou volumes internos definidos claramente (há apenas paredes e colunas), contando com pouquíssimo espaço livre entre esses elementos. Em suma, seria apenas o suporte para decoração (escultura iconográfica e escrita esculpida nas paredes, tetos e colunas), não apresentando uma identidade própria enquanto arquitetura, pela ausência de uma articulação ou percepção do espaço. Entretanto, é possível considerá-la muito mais sofisticada do que isso, o que reforça o estabelecimento de uma visão bastante colonialista do Egito antigo nesse período, ao qualificá-la como se estivesse em um estágio inferior do desenvolvimento artístico.
+
+- **Clássico**: em contraste com essa arquitetura simbólica, na Antiguidade grega e romana, o edifício se torna relativamente autônomo, ou seja, a arquitetura ultrapassa o estágio de mero suporte para decoração e sua própria forma passa a ser significativa e marcante na paisagem, adquirindo certa importância social. 
+
+- **Romântico**: abarca tudo o que os alemães do início do século XIX consideravam como arte moderna, ou seja, praticamente toda a arte cristã europeia das idades Média e Moderna. Aqui, a arquitetura sofre uma transição, passando a ser superada pela lógica da formação de volumes, na qual o edifício (que já havia sido importante por sua própria forma) vê essa importância passar para o volume que ele delimita. Essa é uma grande característica da arquitetura romântica da Idade Média e o início do século XIX. Assim, o lugar da arquitetura enquanto portadora de significados é ultrapassado pelo papel de uma forma de arte mais abstrata: a poesia, que é a modalidade artística das sociedades modernas e contemporâneas, por ser mais diretamente relaciona com o espírito. 
+
+Em suma, o importante é compreender a criação de uma consciência da volumetria, que é muito mais antiga do que a teoria de Hegel. Ressalta-se o entendimento dessa lógica conceitual, que começa com o olhar para a arquitetura como construção, ou seja, como partes tangíveis gerando uma certa forma estrutural. Muda-se o foco para o volume que essa construção delimita, reforçando-se sempre que não se trata de uma sequência cronológica na história da arte.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/f5/6b/59/f56b591ac95201074fb40f52727110a2.jpg"}
@@ -150,11 +180,21 @@ Arquitetura simbólica, clássica e romântica [@hegel:2001cursos1].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+**Arquitetura da Ásia e da bacia do Mediterrâneo** (séc. V e VI d.C.): a sensibilidade sobre a preocupação com o volume arquitetônico quase atinge seu auge. 
+
 O império Bizantino nada mais é do que a continuação do império Romano
 ao longo da Idade Média. Na arquitetura religiosa, a continuidade entre
 a religião da Grécia clássica e o cristianismo do império Bizantino está
 na ideia de que o local de culto é um *microcosmo*: uma representação
 conceitual da ordem do universo.
+
+Na arquitetura bizantina, observa-se um argumento teológico na articulação do céu com as abóbadas e a terra com o piso das edificações. É importante que a unidade geométrica fique clara, pois a igreja representa o universo que liga a terra ao céu. 
+
+A preocupação com a composição arquitetônica volta-se para o interior, mesmo considerando o cuidado com o perímetro externo, não sendo necessário expressar uma unidade geométrica, mas sim o interior. Por isso, nas cidades mais densas da Europa, não há espaços ao redor dos edifícios desse período.
+
+Na Europa Ocidental, são observadas diversas formas de articulação desses volumes, principalmente, na arquitetura religiosa. Nota-se uma certa fluidez, que transparece entre os volumes, ainda que estes estejam sempre delimitados com clareza e em formas sucessivas, que podem estar refletidas nos exteriores (nos pátios, por exemplo).
+
+Destaca-se as vantagens construtivas da arquitetura a partir das construções encadeadas e independentes umas das outras, como no caso dos pátios. Isso permite que o edifício possa ser construído pouco a pouco, prolongando-se seu tempo de execução. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9f/Daphni-Kuppel.jpg" data-background-position="top"}
@@ -358,6 +398,8 @@ caráter dado pela extensão e forma geométrica dos volumes interiores.
 do monumento, pouca articulação dos espaços interiores --- diminutos
 e/ou receptáculos ornamentados para um ponto focal material.
 
+Observa-se uma sensibilidade espacial que se desenvolve muito cedo em sua tradição arquitetônica, apresentando uma clareza na articulação de volumes, que serão extremamente legíveis e com articulações complexas para formar grandes palácios frequentemente. Destaca-se a tradição dos relevos, que darão uma leitura clara da delimitação dos espaços e volumes, mesmo quando existem muitas aberturas e grande fluidez (características de uma região de clima muito úmido e com alta demanda por ventilação cruzada). 
+
 Arquitetura edicular [@hardy:2019kashmiri; @bharne:2012rediscovering].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -377,6 +419,14 @@ Arquitetura edicular [@hardy:2019kashmiri; @bharne:2012rediscovering].
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
+
+**Cavernas escavadas budistas**: 
+
+São o ápice dessa tradição arquitetônica indiana, características de uma tradição budista mais tardia, apresentando volumes claramente legíveis, com cilindros, primas e cúpulas desde o séc. I d.C. O desenvolvimento do Hinduísmo no séc. VI d.C leva ao caminho inverso, entendido como declínio da civilização indiana sob a perspectiva colonialista, pelo abandono dos grandes volumes claramente delimitados, passando a encolhê-los, por razões litúrgicas e culturais, já que sua devoção é mais intimista e individual, sem as demandas budistas para grandes espaços de congregação.
+
+**Gruta hinduísta**: 
+
+Mais limitada e com menor fluidez espacial para a devoção, que se torna mais individual sem a necessidade de grandes volumes para receber muitas pessoas. Diferente da gruta budista, que apresenta maior congregação de indivíduos e fluidez. Assim, os volumes internos vão se encolhendo em massas escultóricas inseridas em grandes volumes externos, que se tornam seu elemento mais importante. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png"}
@@ -792,6 +842,14 @@ contemporâneo.
 [Congresso Internacional [EAUCLM--T]{.smallcaps}, 2011]: https://vimeo.com/20146063
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Realiza-se uma composição arquitetônica, não um projeto. Semelhante à música, na qual são colocados as notas e os silêncios em um compasso. Trata-se do arranjo de elementos dados há séculos. Na composição, as formas geométricas existentes que já estão dadas (volumes) são compostas e proporcionadas entre si, sendo distribuídas em um conjunto arquitetônico organizado, harmonioso, etc. 
+
+Base da arquitetura tradicional: compor/escolher volumes e distribuí-los/ligá-los para formar conjuntos com volumes claramente definidos internamente (ligar ou separar elementos em uma composição). 
+
+A composição é a chave de certas tradições arquitetônicas, como aquelas vistas na Europa, contando com a manipulação de malhas espaciais contínuas, já a caminho da forma mais moderna de espaço. Alta capacidade tecnológica para articulação de diferentes elementos construtivos. 
+
+Chega-se, então, à atual concepção de projeto, que não se baseia em nada que seja dado “a priori”, sendo definido caso a caso e não mais a partir da composição de elementos pré-existentes. 
+
 O professor Helio Piñón, da Universidade de Valência, na Espanha,
 articulou uma teoria do que é o projeto arquitetônico moderno. Segundo
 Piñón:
