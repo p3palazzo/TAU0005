@@ -3,11 +3,16 @@ title: "Estudo analítico: a cabana primitiva"
 subtitle: "Arquitetura tradicional"
 item: "Atvidade de nivelamento"
 date: 2022-02-03
-nocite: >
-  @ching:2017representacao,
-  @harbeson:1927study,
-  @laugier:1755essai,
-  @pereira:1955enciclopedia7
+toc:
+  - Objetivo
+  - Contexto
+  - Ementa
+  - Produto
+  - Cronograma e critérios de avaliação
+  - Referências
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/a/ad/Киргизские_кибитки_на_реке_Чу.jpg
+  caption: "Vasily Vereshchagin, [Tenda no rio Chu](https://commons.wikimedia.org/wiki/File:Киргизские_кибитки_на_реке_Чу.jpg), Quirguistão, 1869"
 ---
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph

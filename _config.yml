@@ -318,6 +318,8 @@ defaults:
       comments: false
       share: false
       related: false
+      header:
+        overlay_filter: 0.3
   # _aula
   - scope:
       path: ""
@@ -326,8 +328,6 @@ defaults:
       layout: single
       show_date: true
       toc: true
-      header:
-        overlay_filter: 0.3
   # _posts
   - scope:
       path: ""
