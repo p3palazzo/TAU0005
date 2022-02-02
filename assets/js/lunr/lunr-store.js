@@ -48,7 +48,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Tipos edilícios",
-        "excerpt":"Cultura doméstica no Mediterrâneo Figura 1: Mediterrâneo ocidental na época romana Figura 2: Sítio arqueológico de Lattara, feitoria etrusca no sul da Gália, séculos VII a.C.—III d.C. Desenho: Gailledrat e Vacheret, 2020 Figura 3: Macroparcela 27 de Lattara com as fundações de três casas de células etruscas. Desenho: Lebeaupin, 2014,...","categories": [],
+        "excerpt":"Cultura doméstica no Mediterrâneo A Bacia do Mediterrâneo (fig. 1) oferece exemplos interessantes de como as tipologias edilícias se formam e transformam-se ao longo do tempo, sendo selecionada para estudo por motivos acadêmicos (tradição consolidada de estudos sobre arquitetura vernácula), já que também existem exemplares em outras partes do mundo. Permitem...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/tipos/",
         "teaser": null
