@@ -768,6 +768,23 @@ das formas de devoção
 
 # Civilizações hidráulicas #
 
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Asia_1200ad.jpg/1280px-Asia_1200ad.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O Sudeste Asiático ([@fig:asia-12]) é um caso específico de adequação da
+produção do ambiente construído humano a condições climáticas
+relativamente extremas, como verificado na arquitetura do Sudeste
+Asiático. Serão vistas questões sobre moradias e construções tomadas
+individualmente, mas, sobretudo, sobre um modo de gestão do ambiente em
+um sentido mais amplo, adaptado aos ciclos climáticos da região do
+oceano Índico. Entretanto, essas temáticas dizem respeito a aspectos
+gerais de todas as regiões tropicais do mundo, tornando-se exemplos
+interessantes para entender estratégias possíveis de adequação a essas
+situações.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Estados da Ásia no início do século [XIII]{.smallcaps}. Mapa: [Talessman, 2007](https://commons.wikimedia.org/wiki/File:Asia_1200ad.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Asia_1200ad.jpg/1280px-Asia_1200ad.jpg){#fig:asia-12}
+
 ##
 
 :::::::::::::::::::::::::::::::::::::::::: {.columns #fig:monsoon .full}
@@ -780,7 +797,37 @@ das formas de devoção
 Diagrama dos ventos de monções no oceano Índico e sul da Ásia
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A particularidade das zonas tropicais no Sudeste Asiático e na Índia é o
+regime de chuvas, que varia em sua quantidade sazonalmente entre
+escassez (fim do ano) e grandes volumes de chuvas (meio do ano). Ela é
+comum em todas as regiões tropicais do mundo (como em Brasília, com a
+ressalva da inversão das estações pela diferença de hemisférios), sendo
+marcada por uma maior intensidade pluvial no caso estudado. Essa
+condição influencia bastante o modo de vida das populações locais, muito
+dependentes da produção agrícola (a ser maximizada no período mais
+favorável do ano, permitindo a geração de estoque alimentar nas demais
+estações). Elas modificam seu modo de viver e adaptam suas formas de
+construir a essas variações, aproveitando ao máximo as chuvas e
+minimizando seus eventuais danos (como os furacões e as tempestades
+intensas na área do Golfo de Bengala (entre a Índia e o Sudeste
+Asiático), por exemplo, que resultam em calamidades gerais com
+enchentes, inundações, mortes, etc.). 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/ff/The_South_Asian_Monsoon.gif"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Índia e Sudeste Asiático apresentam um clima sazonal comum com monções
+e estações relativamente secas (de baixa produtividade agrícola),
+resultando em trocas sociais, políticas e culturais, mesmo considerando
+a grande diversidade geográfica local. Nota-se uma influência quase
+imperial dos indianos para com as demais regiões vizinhas, quanto à
+organização política, material, cultural etc. Há também trocas de
+produtos, principalmente, frutas, plantas etc. Observa-se também
+importantes relações do Sudeste Asiático continental com o litoral e com
+o sul da China. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Registro de pluviometria das monções no sul da Ásia. Desenho: [Mdmadhu, 2017](https://commons.wikimedia.org/wiki/File:The_South_Asian_Monsoon.gif)](https://upload.wikimedia.org/wikipedia/commons/f/ff/The_South_Asian_Monsoon.gif){#fig:monsoon-gif}
 
@@ -793,6 +840,51 @@ Diagrama dos ventos de monções no oceano Índico e sul da Ásia
 
 Ciclo das monções em Panorama point, Monte Methera, Ghats ocidentais.
 Fotos: Arne Hückelheim, 2010
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Atualmente, a população local faz uma gestão ambiental muito marcada
+pelo período colonial (pelos ingleses e franceses sobretudo),
+principalmente, nas formas de produção agrícola, artesanal e
+habitacional. Trata-se de uma influência muito negativa, pautada nos
+climas europeus mais amenos e regulares ao longo do ano, sem extremos de
+chuva ou seca. Isso resultou no desmantelamento dos modos de vida e
+construção tradicionais do local, que eram mais adaptados ao ambiente.
+Adotaram cidades muito adensadas e formas de produção agrícola bastante
+inadequados ao local, voltadas para maximizar a produtividade com
+mecanismos artificiais (químicos), mas do que trabalhando com o próprio
+ciclo das estações. Todos esses aspectos deixam de responder às
+variáveis do clima nessas regiões. 
+
+Observa-se que, no Brasil, também há esse problema, devido ao controle
+artificial do solo e sua baixa sustentabilidade ao longo do tempo, sem
+respeitar o clima local. Nas últimas décadas, nota-se ainda mais essas
+inadequações com a destruição acelerada do cerrado e da Amazônia,
+revelando consequências climáticas e pluviais negativas muito mais
+amplas, que extrapolam o alcance regional e resultam nas crises hídricas
+e energéticas atuais, por exemplo. 
+
+Toda a intensificação de atividades econômicas e de adensamento urbano
+nessas regiões tropicais ao longo dos últimos 100 ou 200 anos, ocorreu
+em consequência dessas culturas colonizadores, regimes coloniais ou de
+sociedades pós-coloniais majoritariamente. Em contraste com isso, serão
+estudados sistemas sociais, políticos e econômicos que foram se
+adaptando às condições climáticas dessas regiões. Não por serem
+sociedades mais esclarecidas teórica ou ideologicamente, mas por se
+tratar de comunidades tradicionais sem mecanismos ou energia suficientes
+para contrariarem os regimes da natureza.
+
+Na virada do século [XIX]{.smallcaps} para o [XX]{.smallcaps}, ocorre um
+aporte energético, com a utilização transformadora de maquinário
+agrícola, veículos para transporte da produção, capacidade de construção
+de edifícios e de adubar o solo, forçando a continuar alimentando as
+plantações mesmo quase sem nutrientes. Apenas mais recentemente, essas
+sociedades pós-coloniais estão tomando consciência das consequências
+negativas desse passado, com seus desiquilíbrios ecológicos e sociais.
+Ainda que esses recursos sejam uma possibilidade de tais comunidades
+prosperarem materialmente (em especial, para os mais pobres), resultam
+em um grande volume de produção e consumo não sustentável a longo prazo,
+sobretudo, do ponto de vista ambiental, social e alimentar.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hinduism_Expansion_in_Asia-pt.svg/1280px-Hinduism_Expansion_in_Asia-pt.svg.png"}
@@ -851,10 +943,6 @@ matérias-primas da Ásia central.
 
 ![Rede comercial marítima dos povos austronésios. Mapa: [Obsidian Soul, 2019](https://commons.wikimedia.org/wiki/File:Austronesian_maritime_trade_network_in_the_Indian_Ocean.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Austronesian_maritime_trade_network_in_the_Indian_Ocean.png/1280px-Austronesian_maritime_trade_network_in_the_Indian_Ocean.png){#fig:austro-trade}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Asia_1200ad.jpg/1280px-Asia_1200ad.jpg"}
-
-![Estados da Ásia no início do século [XIII]{.smallcaps}. Mapa: [Talessman, 2007](https://commons.wikimedia.org/wiki/File:Asia_1200ad.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Asia_1200ad.jpg/1280px-Asia_1200ad.jpg){#fig:asia-12}
-
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/06/Map_of_the_Tea-Horse_road.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -910,11 +998,42 @@ distância nesse sistema é predominantemente baseado no escambo. Na
 ausência de moeda, o arroz é trocado sobretudo por artigos de luxo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Gestão da água ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O bom manejo da água é um aspecto fundamental em todas essas sociedades: estocagem, gestão, aproveitamento e vazão de excedente. No Ceilão (atual Sri Lanka), encontra-se um conjunto de terraços sobre uma grande rocha com um espelho d’água no centro, que é gerenciado conforme as estações do ano. Esses terraços ajudam no escoamento lentos do excesso de água, que é desviado dos pontos de acesso ao topo, também evitando erosões. Na seca, realiza-se o acúmulo em cisternas subterrâneas, poços muito profundos e espelhos d’água, além da carga manual morro acima. Esse local deixa de ser utilizado devido às dificuldades gerais de abastecimento do “palácio” em seu topo. A estrutura administrativa da cidade capital ficava na parte inferior, que alimentava a região mais alta na montanha. 
+
+**“Vastro-Chastra”**: apresenta um traçado regulador a partir da divisão em lotes, percursos e jardins, que vai além de aspectos espirituais relacionados ao Feng Shui. Há muitos espelhos d’água, canais, etc. para estocagem de água e garantia de sua vazão. Estes estão conectados entre si e descarregam em cursos d’água naturais. Estão articulados com jardins nos eixos principais, encontrando-se habitações, comércio e outras estruturas urbanas no restante do território. Torna-se um modelo de ocupação com o palácio como elemento regulador central e a água sendo tratada de forma multifuncional (drenagem, alimentação, paisagismo, etc.). Há articulação entre os espelhos d’água, os quais cercam os edifícios administrativos que controlam as comportas e os níveis de água de forma equilibrada. 
+
+
+**Centro do Sri Lanka**: apresenta uma rede comercial muito importante e desenvolvida bastante cedo, inclusive levando mercadorias da região para o Império Romano. Abriga uma série de estados que mudam frequentemente, realizando trocas econômicas (com importantes rotas comerciais) e registros materiais e arquitetônicos notáveis. Essas rotas desarticulam-se apenas no séc. XX, com o grande desenvolvimento do comércio global, destacando-se a “Rota do chá” como a mais durável. A revolução comunista na China também contribuiu para esse declínio, sendo verificada uma tentativa de recuperação na atualidade. 
+
+
+**Índia e China**: são grandes impérios político-econômicos muito dinâmicos no tempo (até o Renascimento europeu pelo menos), rivalizando inclusive com o Império Romano em trocas comerciais e densidade populacional. 
+
+**Estradas e redes de caminhos**: trata-se das encruzilhadas comerciais mais importantes da Idade Média, oferecendo dois produtos principais: alimentos e roupas. 
+
+**Índia**: apresenta um grande volume e produção de tecidos, pelo acesso a um algodão de melhor qualidade, em oposição ao linho e à lã europeus (mais trabalhosos para fiar e com produtividade menor, resultando em uma qualidade inferior). 
+
+**China**: é marcada pelas luxuosas sedas, exportadas para a Europa através da Rota da Seda, que também incluía o transporte de outros insumos, como o chá e o arroz. 
+
+Assim, explica-se a demanda por uma maior adaptação ao clima, já que era necessária uma produção em maior escala para exportação. Esse transporte acontecia em um terreno muito difícil (montanhoso), com clima desfavorável (chuvas intensas) e carga sendo realizada a pé ou com auxílio de cavalos, mulas, etc., sendo muitos desses caminhos talhados na rocha. Destaca-se que toda essa sistemática é desarticulada pelos ingleses durante a colonização. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Império Khmer ## {data-visibility="hidden"}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Khmer_Empire_Expansion.png/1280px-Khmer_Empire_Expansion.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Apesar das montanhas, há uma grande produção de arroz irrigado,
+resultante do notável desenvolvimento das cidades chinesas, que demandam
+a importação desse alimento dos estados vizinhos. Esse processo leva à
+centralização de alguns estados na forma de grandes impérios, como o
+caso do atual reino do Camboja (Império Khmer). Com o expressivo fluxo
+de recursos vindos da China, cria-se uma economia de luxo (uma espécie
+de poder simbólico) para a elite dominante, que ostenta joias, armas e
+uma arquitetura muito representativa dessa realidade. 
+
 O império Khmer é um estado que se estabeleceu e se
 expandiu na onda da economia agroexportadora ([@fig:khmer-exp]). Ele foi
 um estado altamente especializado: os seus objetivos eram produzir arroz
@@ -944,6 +1063,15 @@ palácios ([@fig:angkor-vid]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/09/8f/20/098f208939f3a7df8c16d0efa7ca79ad.jpg" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Recebe influência do Hinduísmo, que se espalha por seu prestígio
+cultural e pela associação com estados fortes e poderosos (com líderes
+importantes e expressivos), e não através da violência ou imposição. Ele
+também legitima a realeza e seus luxos, mostrando-se mais aberto (sem
+apresentar um livro único, por exemplo) e acomodando-se bem às religiões
+já existentes na área, que passam a se tornar meio híbridas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Diorama representando um rei khmer. Cambodian Cultural Village, Siem Reap](https://i.pinimg.com/originals/09/8f/20/098f208939f3a7df8c16d0efa7ca79ad.jpg){#fig:khmer-king}
 
@@ -1004,6 +1132,24 @@ Angkor Thom não são só elementos ornamentais ou de proteção, mas também
 faziam parte do sistema de gestão da água. A inserção da cidade
 administrativa no seu conjunto só passou a ser melhor compreendida
 recentemente.
+
+Angkor Wat é o elemento chave que unifica todos esses elementos é a
+arquitetura monumental, representativa do poder do Império Khmer. Nela,
+destaca-se os grandes volumes de terraplanagem, além do fato de que há
+muito mais trabalho em canalizar e controlar a água do que no dispensado
+na monumentalidade e na simbologia real incorporada em seus edifícios de
+pedra. Recebe influências da arquitetura indiana nos telhados curvos com
+abóbada ogival em pedra (não em madeira). Os templos e os templos
+palaciano, que servem para legitimar o poder central, são uma mistura de
+propósitos em meio a um grande programa de irrigação e controle de água.
+A abundância de mão-de-obra também é responsável por sua exuberância. Um
+grande sistema de produção em monocultura para exportação (arroz) e
+dependente das monções com seus alagamentos sazonais funciona de forma
+única em todo o mundo: a correnteza do rio é tão grande durante as
+monções, que empurra esse volume de água para os afluentes, alagando
+toda a várzea e movimentando os sedimentos que se depositam na área
+alagadiça, tornando-a fértil para o cultivo. Atualmente, as barragens
+chinesas comprometeram esse sistema.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/f9/26/8d/f9268d83cdb74c50fd1cc0bfac847d66.jpg" data-background-position="bottom"}
@@ -1012,10 +1158,13 @@ recentemente.
 Até o começo do século [XX]{.smallcaps}, os arqueólogos acreditavam que
 Vrah Vishnulok era um complexo religioso--administrativo isolado no meio
 de uma vasta zona totalmente rural, como mostra a reconstituição da
-@fig:vrah-vishnulok. Mais recentemente, cruzando os levantamentos de
-radar com o relato de um diplomata chinês do século [XIII]{.smallcaps},
-Zhou Daguan, foi possível reconstituir uma imagem de Angkor Wat e Angkor
-Thom muito mais condizente com a capital de um grande império.
+@fig:vrah-vishnulok.
+Em 2015, arqueólogos realizaram um amplo mapeamento a laser da mancha
+urbana antiga, revelando expressivos dados sobre o local. Então,
+cruzando os levantamentos de radar com o relato de um diplomata chinês
+do século [XIII]{.smallcaps}, Zhou Daguan, foi possível reconstituir uma
+imagem de Angkor Wat e Angkor Thom muito mais condizente com a capital
+de um grande império.
 
 Todo o espaço em volta desses conjuntos axiais e regulares
 (@fig:angkor-wat-ponds) era ocupado por uma malha deformada de canais e
@@ -1033,6 +1182,36 @@ território ([@fig:angkor-general]).
 
 ![Plano de conjunto de Angkor, levantado por LiDAR. [Evans e Fletcher, 2015](http://dx.doi.org/10.15184/aqy.2015.157)](https://i.pinimg.com/originals/f9/17/05/f91705dd6fb0131b6673e6c0de54a950.jpg){#fig:angkor-general .full}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esse modelo põe em xeque a noção europeia e centro-asiática de cidade,
+que não inclui a agricultura. Trata-se de um sistema “sui generes”, que
+apresenta uma grande densidade espalhada pelo território de forma mais
+espraiada, com um tecido que mistura atividades urbanas e agrárias de
+forma articulada. Mesmo contendo um centro mais denso, no qual se
+localiza o palácio, ele vai se rarefazendo, ainda que mantendo-se uma
+considerável ocupação. Enfim, é um padrão de cidade formatada em uma
+mancha agro-urbana muito sustentável econômica e ambientalmente, mesmo
+com um modo de vida muito sazonal e dependente do excedente de produção
+a exportar. 
+
+Ressalta-se que havia produção alimentar de apoio para a população e
+gestão de seu estoque. O cultivo de arroz é muito intensivo, a partir de
+uma série de pequenos produtores familiares e áreas alagadas gerenciadas
+coletivamente. Destaca-se uma certa capacidade de manobra e
+descentralização do governo que organiza a irrigação, resultando em um
+cultivo rotativo que vai além da produção familiar. Ele conta com três
+ciclos produtivos com a água oriunda dos alagamentos, do estoque nos
+tanques e o arroz de tempo seco próximo às colinas (dependente apenas
+das chuvas). 
+
+*Sede do governo*: o centro de controle das comportas fica no palácio
+central (“bayon”), que dispunha de torres para inspecionar a situação
+dos reservatórios. Apresentava uma densidade populacional mais alta do
+que se imaginava, com muitas edificações, templos, terraplenos (para
+delimitar os canais) e casas tradicionais sobre pilotis de madeira
+(relativamente próximas umas das outras). 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {data-background-image="http://3.bp.blogspot.com/-NFynrCXSBXk/UugVwZb3riI/AAAAAAAABgo/4V1kr9oIMcQ/s1600/winter+is+coming_stark.gif"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -1048,6 +1227,22 @@ poder econômico e militar dos reis decaiu. No século [XV]{.smallcaps}, o
 império Khmer foi conquistado pelo reino de Sião --- a atual Tailândia
 ---, uma sociedade guerreira que não dependia de grandes redes
 comerciais.
+
+Assim, ocorreu um relativo abandono da região com o tempo, devido ao
+declínio do poder político dos gestores das exportações, que é derrubado
+e a população se dispersa no século XIV. As instabilidades são geradas
+pela dependência das condições climáticas, pela política regional em
+desagregação, por um novo império na China (que dificultava as
+exportações) e pelo início de período de resfriamento global (a chamada
+“pequena idade do gelo” nos primórdios do século XIV), que leva à
+redução da energia solar no solo. A redução das monções e a baixa
+produção agrícola geram uma crise econômica local, desarticulando a
+capacidade de manutenção desse grande império, que é tomado pelos
+tailandeses e por sua agricultura de subsistência (que dura até o início
+da colonização europeia). 
+
+Modelos de urbanização em climas semelhantes aos do Brasil, mas com
+diferentes perspectivas econômicas, culturais, etc.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Bibliografia # {- .unlisted .allowframebreaks}
