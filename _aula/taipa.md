@@ -595,7 +595,7 @@ assentamentos densos formados por células com estrutura em adobe
 * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Reconstituição do tecido construído de Çatal Höyük, Anatólia, 7100--5700 a.C. [[ZDF]{.smallcaps}, 2020](https://commons.wikimedia.org/wiki/File:Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm)](https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm){#fig:catalhoyuk-vid .full}
+![Reconstituição do tecido construído de Çatal Höyük, Anatólia, 7100--5700 a.C. [[ZDF]{.smallcaps}, 2020](https://commons.wikimedia.org/wiki/File:Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm)](https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm){#fig:catalhoyuk-vid .full .r-stretch}
 
 ## {data-background-image="https://i.pinimg.com/originals/b4/7c/91/b47c9135a83f1695150a0214ad5204bf.png"}
 
@@ -620,7 +620,7 @@ organizado com uma área central cercada por plataformas.
 
 ![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
 
-## {data-background-image=""}
+## Taipas ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Além da alvenaria de blocos]{.newthought}, há outro modo tradicional de
@@ -631,11 +631,7 @@ vegetais, sobre a qual se coloca uma camada de terra; nesses casos, a
 parede tem uma resistência estrutural baixa. Por isso, esses tipos de
 taipa são usados sobretudo para paredes de vedação, ou em construções
 muito pequenas e simples.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Quando se fala em taipa como sistema estrutural, é a taipa de pilão que
 vem à mente: uma série de camadas de terra compactada, geralmente
 assentadas dentro de uma forma temporária (o taipal) ou como um
@@ -666,7 +662,7 @@ seguinte.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg"}
 
-![Mesquita maior em Djenné, Mali, século [XIV]{.smallcaps}, reconstruída 1906--1907. Foto: [Gilles Mairet, 1972](https://commons.wikimedia.org/wiki/File:La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg/1280px-La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg){#fig:djenne}
+![Mesquita maior em Djenné, Mali, século [XIV]{.smallcaps}, reconstruída 1906--1907. Foto: [Gilles Mairet, 1972](https://commons.wikimedia.org/wiki/File:La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg/1280px-La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg){#fig:djenne .r-stretch}
 
 <!--_,-->
 
@@ -720,7 +716,7 @@ um imenso terraço em degraus, com muros de arrimo em adobe que enquadram
 um terrapleno com 30 metros de altura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Zigurate, antigo reino de Ur, atual Iraque, c. 2050--1980 a.C. Foto: [Michael Lubinski, 2006](https://commons.wikimedia.org/wiki/File:Ziggarut_of_Ur_-_M.Lubinski.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ziggarut_of_Ur_-_M.Lubinski.jpg/1280px-Ziggarut_of_Ur_-_M.Lubinski.jpg){#fig:ziggurat}
+![Zigurate, antigo reino de Ur, atual Iraque, c. 2050--1980 a.C. Foto: [Michael Lubinski, 2006](https://commons.wikimedia.org/wiki/File:Ziggarut_of_Ur_-_M.Lubinski.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ziggarut_of_Ur_-_M.Lubinski.jpg/1280px-Ziggarut_of_Ur_-_M.Lubinski.jpg){#fig:ziggurat .r-stretch}
 
 ## {data-background-image="https://i.pinimg.com/originals/a9/25/45/a925451f15346eca6d7d517c08836520.png"}
 
@@ -780,7 +776,9 @@ primordial dessas estruturas monumentais, seja por motivos militares ou
 simbólicos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Templo de Enki em Eridu, nível VII, c. 4000--3800 a.C. Modelo: [Cush 2016](https://commons.wikimedia.org/wiki/File:Eridu_temple_7.png)](https://upload.wikimedia.org/wikipedia/commons/6/68/Eridu_temple_7.png){#fig:eridu .align-right}
+![Templo de Enki em Eridu, nível VII, c. 4000--3800 a.C. Modelo: [Cush 2016](https://commons.wikimedia.org/wiki/File:Eridu_temple_7.png)](https://upload.wikimedia.org/wikipedia/commons/6/68/Eridu_temple_7.png){#fig:eridu .align-right .r-stretch}
+
+## {data-background-image="https://i.pinimg.com/originals/d5/83/2c/d5832cea9db6c2723d2ff99226e4b400.jpg"}
 
 ![Porta de Ishtar, Babilônia, 575 a.C., atualmente no museu Pergamon, Berlim](https://i.pinimg.com/originals/d5/83/2c/d5832cea9db6c2723d2ff99226e4b400.jpg){#fig:ishtar}
 

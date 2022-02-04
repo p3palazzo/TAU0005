@@ -2506,7 +2506,7 @@ references:
   ISBN: 978-85-60100-08-8
   issued:
     - year: 2007
-  language: Portuguese
+  language: pt-BR
   publisher: UniRitter
   publisher-place: Porto Alegre
   source: Open WorldCat
@@ -2601,7 +2601,7 @@ references:
   event-place: Paris
   issued:
     - year: 1643
-  language: French
+  language: fr-FR
   publisher: Sébastien Cramoisy
   publisher-place: Paris
   source: Internet Archive
@@ -3238,7 +3238,7 @@ references:
   ISBN: 978-85-7503-420-0
   issued:
     - year: 2006
-  language: Portuguese
+  language: pt-BR
   publisher: Cosac Naify
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3282,7 +3282,7 @@ references:
     - year: 2018
       month: 9
       day: 10
-  language: French
+  language: fr-FR
   number: '2'
   publisher: Ministère de la culture
   source: journals.openedition.org
@@ -4369,7 +4369,7 @@ references:
   issue: '4'
   issued:
     - year: 1978
-  language: French
+  language: fr-FR
   page: 309-323
   publisher: Persée - Portail des revues scientifiques en SHS
   source: DOI.org (Crossref)
@@ -5191,7 +5191,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1977
-  language: Portuguese
+  language: pt-BR
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -6877,7 +6877,7 @@ references:
   event-place: Paris
   issued:
     - year: 1812
-  language: French
+  language: fr-FR
   number-of-pages: '482'
   number-of-volumes: '4'
   publisher: Chez l'auteur
