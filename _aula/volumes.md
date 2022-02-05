@@ -331,6 +331,14 @@ Clássico
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg"}
 
+![Leo von Klenze, Reconstituição da Acrópole de Atenas, 1846. Óleo sobre tela](https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg){#fig:klenze-akro .full}
+
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm" data-background-video-muted="true"}
+
+![Apolodoro de Damasco, arquiteto, Panteão, Roma, 113--125 d.C. Vista do interior filmada por [Wanderlust Travel Videos, 2021]](https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm){#fig:pantheon-wtv .full}
+
+[Wanderlust Travel Videos, 2021]: https://youtu.be/bn6wLKU1XsM
+
 Romântico
 
 : Abarca tudo o que os alemães do início do século [XIX]{.smallcaps}
@@ -346,8 +354,6 @@ Romântico
   artística das sociedades modernas e contemporâneas, por ser mais
   diretamente relaciona com o espírito. 
 
-![Leo von Klenze, Reconstituição da Acrópole de Atenas, 1846. Óleo sobre tela](https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg){#fig:klenze-akro .full}
-
 ## Arquitetura romântica ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -360,12 +366,6 @@ essa construção delimita, reforçando-se sempre que não se trata de uma
 sequência cronológica na história da arte.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm" data-background-video-muted="true"}
-
-![Apolodoro de Damasco, arquiteto, Panteão, Roma, 113--125 d.C. Vista do interior filmada por [Wanderlust Travel Videos, 2021]](https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm){#fig:pantheon-wtv .full}
-
-[Wanderlust Travel Videos, 2021]: https://youtu.be/bn6wLKU1XsM
-
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/The Amazing Hagia Sophia-130359681-720p-25fps.mp4" data-background-video-muted="true"}
 
 :::::::::::::::::::::::::::::::::::: {#fig:sophia-model .iframe-wrapper}
@@ -375,8 +375,8 @@ sequência cronológica na história da arte.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Na arquitetura da Ásia e da bacia do Mediterrâneo entre os séculos
-[V]{.smallcaps} e [VI]{.smallcaps} d.C., a sensibilidade sobre a
+Na arquitetura do sul da Ásia e da bacia do Mediterrâneo entre os
+séculos [V]{.smallcaps} e [VI]{.smallcaps} d.C., a sensibilidade sobre a
 preocupação com o volume arquitetônico quase atinge seu auge. 
 
 O império Bizantino nada mais é do que a continuação do império Romano
@@ -596,8 +596,6 @@ inacabada ([@fig:philibert-sec]).
 
 # Volumetria e cultura #
 
-##
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Índia antiga e bacia do Mediterrâneo: arquitetura produz espaços;
 caráter dado pela extensão e forma geométrica dos volumes interiores.
@@ -606,7 +604,14 @@ caráter dado pela extensão e forma geométrica dos volumes interiores.
 do monumento, pouca articulação dos espaços interiores --- diminutos
 e/ou receptáculos ornamentados para um ponto focal material.
 
-Observa-se uma sensibilidade espacial que se desenvolve muito cedo em sua tradição arquitetônica, apresentando uma clareza na articulação de volumes, que serão extremamente legíveis e com articulações complexas para formar grandes palácios frequentemente. Destaca-se a tradição dos relevos, que darão uma leitura clara da delimitação dos espaços e volumes, mesmo quando existem muitas aberturas e grande fluidez (características de uma região de clima muito úmido e com alta demanda por ventilação cruzada). 
+Observa-se uma sensibilidade espacial que se desenvolve muito cedo em
+sua tradição arquitetônica, apresentando uma clareza na articulação de
+volumes, que serão extremamente legíveis e com articulações complexas
+para formar grandes palácios frequentemente. Destaca-se a tradição dos
+relevos, que darão uma leitura clara da delimitação dos espaços e
+volumes, mesmo quando existem muitas aberturas e grande fluidez
+(características de uma região de clima muito úmido e com alta demanda
+por ventilação cruzada). 
 
 Arquitetura edicular [@hardy:2019kashmiri; @bharne:2012rediscovering].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -625,18 +630,6 @@ Arquitetura edicular [@hardy:2019kashmiri; @bharne:2012rediscovering].
 
 ![Volumetria da caverna de Lomas Ṛṣi. Desenho: [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Lomas_Rishi_cave.jpg)](https://i.pinimg.com/originals/1e/09/97/1e0997b4a3a7893313b6e6336a45546d.png){#fig:lomas-3d .nobg .line}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
-
-**Cavernas escavadas budistas**: 
-
-São o ápice dessa tradição arquitetônica indiana, características de uma tradição budista mais tardia, apresentando volumes claramente legíveis, com cilindros, primas e cúpulas desde o séc. I d.C. O desenvolvimento do Hinduísmo no séc. VI d.C leva ao caminho inverso, entendido como declínio da civilização indiana sob a perspectiva colonialista, pelo abandono dos grandes volumes claramente delimitados, passando a encolhê-los, por razões litúrgicas e culturais, já que sua devoção é mais intimista e individual, sem as demandas budistas para grandes espaços de congregação.
-
-**Gruta hinduísta**: 
-
-Mais limitada e com menor fluidez espacial para a devoção, que se torna mais individual sem a necessidade de grandes volumes para receber muitas pessoas. Diferente da gruta budista, que apresenta maior congregação de indivíduos e fluidez. Assim, os volumes internos vão se encolhendo em massas escultóricas inseridas em grandes volumes externos, que se tornam seu elemento mais importante. 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ## {data-background-image="https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png"}
 
 ![Palácios representados em relevos em Sāñchī, Amaravātī e Mathurā, reproduzidos por Coomaraswamy](https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png){#fig:palaces-coo .full .line .nobg}
@@ -645,10 +638,8 @@ Mais limitada e com menor fluidez espacial para a devoção, que se torna mais i
 
 ![Procissão de Prasenajit de Kosala deixando Saravasti para se encontrar com o Buda, relevo na *toraṇa* norte da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg){#fig:prasenajit-sanci .align-right}
 
-##
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Características do palácio]{.newthought} indiano
+Características do palácio indiano:
 
 - Elevado sobre uma plataforma baixa, com acesso por uma escadaria com
   balaustradas e cujo primeiro degrau é semicircular;
@@ -697,6 +688,10 @@ Mais limitada e com menor fluidez espacial para a devoção, que se torna mais i
 
 <!--_,-->
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Templo (*pura*) é um palácio (*prāsāda*) abstraído e verticalizado.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Ásia medieval: do volume ao lugar ## {data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -725,6 +720,19 @@ priorizada ([@fig:ajanta-sec]).
 
 ![Salão *chaitya* maior nas grutas budistas de Karli, Mahārashtra, oeste da Índia, 50--70 e 120 d.C. Corte perspectivado por [Percy Brown, 1959]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Karli_Chaitya_section_in_perspective.png/1024px-Karli_Chaitya_section_in_perspective.png){#fig:karli .line}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As cavernas escavadas budistas são o ápice dessa tradição arquitetônica
+indiana, características de uma tradição budista mais tardia,
+apresentando volumes claramente legíveis, com cilindros, primas e
+cúpulas desde o século [I]{.smallcaps} d.C. O desenvolvimento do
+Hinduísmo no século [VI]{.smallcaps} d.C. leva ao caminho inverso,
+entendido como declínio da civilização indiana sob a perspectiva
+colonialista, pelo abandono dos grandes volumes claramente delimitados,
+passando a encolhê-los, por razões litúrgicas e culturais, já que sua
+devoção é mais intimista e individual, sem as demandas budistas para
+grandes espaços de congregação.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {data-background-image="https://i.pinimg.com/originals/82/d6/30/82d63016c9696040cdebb7d19d3c039c.jpg"}
 
 ![Gruta hinduísta n.º 15, Ellora, Mahārashtra, c. 550--800. Foto: [Sailko, 2019](https://commons.wikimedia.org/wiki/File:Ellora,_grotta_15,_hinduista,_550-800_dc_ca.,_interno_03.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ellora,_grotta_15,_hinduista,_550-800_dc_ca.,_interno_03.jpg/1024px-Ellora,_grotta_15,_hinduista,_550-800_dc_ca.,_interno_03.jpg){#fig:ellora-15}
@@ -734,6 +742,15 @@ priorizada ([@fig:ajanta-sec]).
 ![Gruta maior hinduísta, complexo hindu-budista de Elephanta, Mahārashtra, c. 550. Planta por [TheMandarin, 2010]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Elephanta_Map.svg/1280px-Elephanta_Map.svg.png){#fig:eleph-plan .line}
 
 [TheMandarin, 2010]: https://commons.wikimedia.org/wiki/File:Elephanta_Map.svg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A gruta hinduísta é mais limitada e com menor fluidez espacial para a
+devoção, que se torna mais individual sem a necessidade de grandes
+volumes para receber muitas pessoas. Diferente da gruta budista, que
+apresenta maior congregação de indivíduos e fluidez. Assim, os volumes
+internos vão se encolhendo em massas escultóricas inseridas em grandes
+volumes externos, que se tornam seu elemento mais importante.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/Elephanta_Caves_Mumbai_Unesco_India-DxIS4uYiq7E-2160p-30fps.webm" data-background-video-muted="true"}
 
@@ -1043,20 +1060,35 @@ contemporâneo.
 
 ## Compor ou projetar ## {data-visibility="hidden"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na arquitetura tradicional, o que se realiza é uma composição
+arquitetônica, não um projeto. Podemos usar a música como analogia:
+dispomos as notas e os silêncios, que são elementos preexistentes, em um
+compasso. Trata-se do arranjo de elementos dados há séculos. Na
+composição, as formas geométricas existentes que já estão dadas
+(volumes) são compostas e proporcionadas entre si, sendo distribuídas em
+um conjunto arquitetônico organizado, harmonioso, etc. 
+
+Base da arquitetura tradicional: compor/escolher volumes e
+distribuí-los/ligá-los para formar conjuntos com volumes claramente
+definidos internamente (ligar ou separar elementos em uma composição). 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/helio-pinon-modelos-de-ensenanza.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
-![Helio Piñón no [Congresso Internacional [EAUCLM--T]{.smallcaps}, 2011]](https://cdn.palazzo.arq.br/utilitas/volumes/helio-pinon-modelos-de-ensenanza.webm){#fig:pinon .fragment .current-visible}
+![Helio Piñón no [Congresso Internacional [EAUCLM--T]{.smallcaps}, 2011]](https://cdn.palazzo.arq.br/utilitas/volumes/helio-pinon-modelos-de-ensenanza.webm){#fig:pinon}
 
 [Congresso Internacional [EAUCLM--T]{.smallcaps}, 2011]: https://vimeo.com/20146063
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Realiza-se uma composição arquitetônica, não um projeto. Semelhante à música, na qual são colocados as notas e os silêncios em um compasso. Trata-se do arranjo de elementos dados há séculos. Na composição, as formas geométricas existentes que já estão dadas (volumes) são compostas e proporcionadas entre si, sendo distribuídas em um conjunto arquitetônico organizado, harmonioso, etc. 
+A composição é a chave de certas tradições arquitetônicas, como aquelas
+vistas na Europa, contando com a manipulação de malhas espaciais
+contínuas, já a caminho da forma mais moderna de espaço. Alta capacidade
+tecnológica para articulação de diferentes elementos construtivos. 
 
-Base da arquitetura tradicional: compor/escolher volumes e distribuí-los/ligá-los para formar conjuntos com volumes claramente definidos internamente (ligar ou separar elementos em uma composição). 
-
-A composição é a chave de certas tradições arquitetônicas, como aquelas vistas na Europa, contando com a manipulação de malhas espaciais contínuas, já a caminho da forma mais moderna de espaço. Alta capacidade tecnológica para articulação de diferentes elementos construtivos. 
-
-Chega-se, então, à atual concepção de projeto, que não se baseia em nada que seja dado "a priori", sendo definido caso a caso e não mais a partir da composição de elementos pré-existentes. 
+Chega-se, então, à atual concepção de projeto, que não se baseia em nada
+que seja dado "a priori", sendo definido caso a caso e não mais a partir
+da composição de elementos pré-existentes. 
 
 O professor Helio Piñón, da Universidade de Valência, na Espanha,
 articulou uma teoria do que é o projeto arquitetônico moderno. Segundo
