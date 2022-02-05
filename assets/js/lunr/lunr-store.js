@@ -54,7 +54,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Volumes",
-        "excerpt":"Espaço ou volume Hoje em dia, o espaço é a sensibilidade por padrão da arquitetura. Aprendemos a visualizar espaços como manchas fluidas que se reorganizam a cada mudança de posição. Essa é a espacialidade canônica da arquitetura modernaBanham, Teoria e projeto na primeira era da máquina; Argan, El concepto del...","categories": [],
+        "excerpt":"Espaço ou volume Uma das principais diferenças entre a arquitetura tradicional e a moderna se refere aos processos construtivos, sua industrialização e consumo de uma quantidade muito maior de energia (no segundo caso). Isso faz com que esses processos se tornem deslocalizados e com cadeias produtivas extremamente profundas e concentradas...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/volumes/",
         "teaser": null
