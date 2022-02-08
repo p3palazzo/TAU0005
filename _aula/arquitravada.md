@@ -21,8 +21,6 @@ header:
 
 # Tendas e cabanas
 
-##
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nos mitos da cabana primitiva e nas culturas da maior parte do mundo, a
 madeira é o material primordial da arquitetura. A construção tradicional
@@ -254,9 +252,9 @@ Mediterrâneo oriental.
 
 [*Manual de arquitetura kamayurá*, 2019]: https://www.archdaily.com.br/br/923178/manual-de-arquitetura-kamayura
 
-## {data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%"}
+## {data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png"}
 
-![Distribuição originária da tradição arquitravada dita "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:classical-heartland .nobg .align-right}
+![Distribuição originária da tradição arquitravada dita "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:classical-heartland .nobg .align-right .overlay-slide}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Das três, esta última, a tradição do Mediterrâneo oriental
@@ -267,8 +265,6 @@ codificado e imortalizado em pedra: a arquitetura clássica greco-romana.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Colunas e vigas
-
-##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O tipo primordial da cabana se caracteriza por estruturas lineares de
@@ -544,8 +540,6 @@ em ambos e aprenderá muito sobre como montar uma estrutura arquitravada.
 
 # Assoalhos e terraços
 
-##
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Num sistema arquitravado puro, por assim dizer, como nas tradições
 clássica e chinesa, as colunas são simplesmente apoiadas sobre as suas
@@ -556,7 +550,7 @@ esforços horizontais como o vento, terremotos ([@fig:toji]), ou mesmo a
 simples irregularidade de distribuição das cargas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/firmitas/arquitravada/Secret_of_the_Pagodas_Earthquake_Resistant_Design-uG37gQSvrf4-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/Secret_of_the_Pagodas_Earthquake_Resistant_Design-uG37gQSvrf4-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
 ::::::::::::::::::::::::::::::::: {.iframe-wrapper .full #fig:toji}
 <iframe src="https://www.youtube-nocookie.com/embed/uG37gQSvrf4?start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -580,7 +574,7 @@ terrapleno espesso em terra batida, revestido com cal
 contraventados diretamente pelas paredes em blocos de adobe.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## Contraventamento ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Uma característica importante]{.newthought} do sistema arquitravado do
@@ -595,11 +589,7 @@ carga horizontal, como nos terremotos que são bastante frequentes na
 região, derruba o edifício como se fosse uma torre de Jenga. Mesmo algum
 assentamento diferencial nas fundações poderia pôr em risco a
 estabilidade da construção.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Duas soluções conjuntas resolvem o problema do contraventamento na
 construção arquitravada do Mediterrâneo oriental:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -825,7 +815,7 @@ colunas e vigas em madeira, geralmente associadas a paredes de vedação
 em alvenaria.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A tradição arquitravada do Mediterrâneo oriental geralmente
@@ -833,11 +823,7 @@ combina um sistema de colunas em madeira com paredes em alvenaria, que
 servem de divisórias no espaço mas também costumam ter função estrutural
  ([@fig:chipiez-208]). As colunas propriamente ditas são, na sua
 origem, troncos de árvores.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por causa do uso de troncos nas origens dessa tradição, as colunas têm
 uma contratura elegante, onde o diâmetro superior é ligeiramente menor
 do que o diâmetro inferior. Essa contratura é feita com um perfil em
@@ -876,11 +862,7 @@ ou apoiados uns sobre os outros. Essa montagem tende a produzir um
 sistema espacial modular a partir das dimensões dos principais elementos
 da arquitetura --- as colunas e os vãos entre elas, definidos pelas
 arquitraves.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Construir com elementos modulares é uma prática especialmente vantajosa
 na arquitetura em madeira. Isso é o caso porque o ciclo de produção das
 colunas e vigas em madeira é relativamente longo e distante do canteiro

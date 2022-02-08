@@ -56,7 +56,7 @@ atualidade, escolher os processos produtivos da arquitetura tradicional
 acaba sendo um ato de responsabilidade ambiental e social.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Arranha-céus em construção num subúrbio de Dubai](https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/utilitas/clima/mixkit-skyscapers-roads-and-the-suburbs-in-dubai-28603-medium.mp4){#fig:dubai}
+![Arranha-céus em construção num subúrbio de Dubai](https://cdn.palazzo.arq.br/utilitas/clima/mixkit-skyscapers-roads-and-the-suburbs-in-dubai-28603-medium.mp4){#fig:dubai}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/med-trade-scaled.jpeg"}
 
