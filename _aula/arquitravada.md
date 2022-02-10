@@ -3,7 +3,7 @@ title   : "Construção arquitravada"
 subtitle: "Elementos da construção"
 item    : "II"
 author  : "Pedro P. Palazzo"
-date    : 2022-02-15
+date    : 2022-02-08
 toc:
   - Tendas e cabanas
   - Colunas e vigas
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg
   caption: "Thomas Cole, *The Course of Empire: Consummation*, 1836"
-  actions:
-  - label: "Slides"
-    url: "/slides/arquitravada/"
 ---
 
 # Tendas e cabanas
@@ -280,7 +277,7 @@ inteiros.
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm" data-background-video-muted="true"}
 
-![Floresta de cedros em Tannourine, Líbano. Filmagem: [Çağatay Erciyes, 2017]](https://cdn.palazzo.arq.br/firmitas/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm){#fig:cedro}
+![Floresta de cedros em Tannourine, Líbano. Filmagem: [Çağatay Erciyes, 2017]](https://cdn.palazzo.arq.br/firmitas/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm){#fig:cedro .slide-bg}
 
 [Çağatay Erciyes, 2017]: https://youtu.be/lnUGg4IDhxw
 
@@ -337,10 +334,10 @@ tipo "gafanhoto", também são usados contraventamentos diagonais.
 
 ![Esquema construtivo do tipo de casa "gafanhoto" kamayurá. [*Manual de arquitetura kamayurá*, 2019]](https://images.adsttc.com/media/images/5d5a/ed03/284d/d166/2000/008e/slideshow/190812_CasaKamayuraREV_Page_19.jpg?1566239994){#fig:gafanhoto}
 
-##
+## Bases ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Os troncos fincados]{.newthought} diretamente no chão apodrecem com
+Os troncos fincados diretamente no chão apodrecem com
 facilidade. Isso não é um problema em casos como o das povoações
 amazônicas, onde a vida útil das construções é de algumas décadas. Em
 construções concebidas para durar séculos em vez de décadas, isso passa
@@ -552,7 +549,7 @@ simples irregularidade de distribuição das cargas.
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/Secret_of_the_Pagodas_Earthquake_Resistant_Design-uG37gQSvrf4-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
-::::::::::::::::::::::::::::::::: {.iframe-wrapper .full #fig:toji}
+:::::::::::::::::::::::::::: {.iframe-wrapper .full #fig:toji .slide-bg}
 <iframe src="https://www.youtube-nocookie.com/embed/uG37gQSvrf4?start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Comportamento estrutural de um pagode japonês num terremoto. Vídeo: [Science Channel, 2016]
@@ -852,10 +849,10 @@ sobreposição de vigas perpendiculares entre si.
 
 ![Arquétipo em madeira da ordem toscana, segundo Chipiez, 1876](https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png){#fig:chipiez-159 .line}
 
-##
+## Construção aditiva ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[A construção arquitravada é aditiva]{.newthought} por natureza. Ela se
+A construção arquitravada é aditiva por natureza. Ela se
 compõe da montagem de elementos claramente distintos entre si,
 relativamente grandes na escala da edificação como um todo, e encaixados
 ou apoiados uns sobre os outros. Essa montagem tende a produzir um

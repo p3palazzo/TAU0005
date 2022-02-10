@@ -134,7 +134,9 @@ references:
   publisher: Bookman
   publisher-place: Porto Alegre
   source: Amazon
-  title: 'Introdução à história da arquitetura: das origens ao século XXI'
+  title: >-
+    Introdução à história da arquitetura: das origens ao século <span
+    class="smallcaps">XXI</span>
   title-short: Introdução à história da arquitetura
   translator:
     - family: Salvaterra
@@ -1891,7 +1893,7 @@ references:
       given: Vikramaditya
   call-number: NA200 .C493 2011
   citation-key: ching:2011global
-  edition: 2nd ed
+  edition: '2'
   event-place: Hoboken, N.J
   ISBN: 978-0-470-40257-3
   issued:
@@ -3329,7 +3331,7 @@ references:
       given: Banister F.
   call-number: b12340145
   citation-key: fletcher:1905history
-  edition: 5. ed.
+  edition: '5'
   event-place: 'London : New York'
   issued:
     - year: 1905
@@ -4936,7 +4938,7 @@ references:
   ISBN: 978-0-19-503472-1
   issued:
     - year: 1985
-  language: English
+  language: en
   publisher: Oxford University Press
   publisher-place: New York
   source: Open WorldCat
@@ -9227,7 +9229,7 @@ references:
   ISBN: 978-3-0346-0685-1
   issued:
     - year: 2012
-  language: English
+  language: en
   number-of-pages: '319'
   publisher: Birkhäuser
   publisher-place: Basel
