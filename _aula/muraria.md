@@ -3,7 +3,7 @@ title   : "Construção murária"
 subtitle: "Elementos da construção"
 item    : "III"
 author  : "Pedro P. Palazzo"
-date    : 2022-02-08
+date    : 2022-02-15
 toc:
   - Princípios da construção murária
   - Arquitetura subtrativa
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Giovanni_Paolo_Panini_–_Ancient_Rome.jpg/994px-Giovanni_Paolo_Panini_–_Ancient_Rome.jpg
   caption: "Giovanni Paolo Pannini, *Galeria de vistas da Roma antiga,* 1757"
-  actions:
-  - label: "Slides"
-    url: "/slides/muraria/"
 ---
 
 # Princípios da construção murária #
