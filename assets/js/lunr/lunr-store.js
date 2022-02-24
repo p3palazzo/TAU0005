@@ -144,7 +144,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Composição com volumes",
-        "excerpt":"Ementa O volume singular da edícula é o elemento de base da arquitetura. A articulação entre volumes é a linguagem da composição arquitetônica. Numa composição arquitetônica tradicional, cada volume é claramente delimitado, tem uma forma geométrica clara, e é articulado de modo autônomo. Ao mesmo tempo, todos os volumes de...","categories": [],
+        "excerpt":"Ementa Figura 1: Cesare Cesariano, composição modular em quina, da tradução do Tratado de arquitetura de Vitrúvio, 1521 O volume singular da edícula é o elemento de base da arquitetura. A articulação entre volumes é a linguagem da composição arquitetônica. Numa composição arquitetônica tradicional, cada volume é claramente delimitado, tem...","categories": [],
         "tags": [],
         "url": "/tau0005/trabalho/volumes/",
         "teaser": null
