@@ -169,7 +169,7 @@ references:
   issue: '2'
   issued:
     - year: 1999
-  language: English
+  language: en
   page: 93-100
   source: JSTOR
   title: 'Virtual Cairo: an urban historian''s view of computer simulation'
@@ -3905,16 +3905,16 @@ references:
   citation-key: grabar:2006islamic
   collection-number: '3'
   collection-title: Constructing the Study of Islamic Art
-  event-place: Aldershot, Hampshire, England ; Burlington, VT
+  event-place: Aldershot, Hampshire, England ; Burlington, Ver.
   ISBN: 978-0-86078-926-0
   issued:
     - year: 2006
       month: 4
       day: 28
-  language: English
+  language: en
   number-of-pages: '388'
   publisher: Routledge
-  publisher-place: Aldershot, Hampshire, England ; Burlington, VT
+  publisher-place: Aldershot, Hampshire, England ; Burlington, Ver.
   source: Amazon
   title: Islamic art and beyond
   title-short: Islamic art and beyond
@@ -4038,6 +4038,21 @@ references:
   URL: https://doi.org/10.1177/0959683620950449
   volume: '30'
 
+- id: guadet:1901elements
+  author:
+    - family: Guadet
+      given: Julien
+  citation-key: guadet:1901elements
+  event-place: Paris
+  issued:
+    - year: 1901
+  language: fr-FR
+  number-of-volumes: '4'
+  publisher: Aulanier
+  publisher-place: Paris
+  title: Éléments et théorie de l'architecture
+  type: book
+
 - id: guadet:1915elements
   author:
     - family: Guadet
@@ -4069,7 +4084,7 @@ references:
   event-place: Paris
   issued:
     - year: 1915
-  language: French
+  language: fr
   publisher: Construction moderne
   publisher-place: Paris
   source: BnF Catalogue général (http://catalogue.bnf.fr)
@@ -7205,7 +7220,7 @@ references:
   issued:
     - year: 2002
       month: 8
-  language: English
+  language: en
   publisher: Foundation for Science, Technology, and Civilisation
   publisher-place: Manchester
   title: Introduction to the Islamic City
@@ -8880,7 +8895,7 @@ references:
   event-place: Como
   issued:
     - year: 1521
-  language: Italian
+  language: it
   number-of-pages: '390'
   publisher: Gottardo da Ponte
   publisher-place: Como
