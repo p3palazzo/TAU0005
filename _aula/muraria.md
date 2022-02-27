@@ -3,7 +3,7 @@ title   : "Construção murária"
 subtitle: "Elementos da construção"
 item    : "III"
 author  : "Pedro P. Palazzo"
-date    : 2022-02-08
+date    : 2022-02-15
 toc:
   - Princípios da construção murária
   - Arquitetura subtrativa
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Giovanni_Paolo_Panini_–_Ancient_Rome.jpg/994px-Giovanni_Paolo_Panini_–_Ancient_Rome.jpg
   caption: "Giovanni Paolo Pannini, *Galeria de vistas da Roma antiga,* 1757"
-  actions:
-  - label: "Slides"
-    url: "/slides/muraria/"
 ---
 
 # Princípios da construção murária #
@@ -324,11 +321,7 @@ de peças formando um esqueleto estrutural que organiza o espaço
 indefinido numa malha. Já a caverna é um paradigma subtrativo: os
 espaços de formas definidas são como que escavados entre as massas de
 paredes.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura aditiva pede um estudo rigoroso da articulação de malhas
 estruturais e do seu impacto na modularidade dos espaços. A arquitetura
 subtrativa, por sua vez, pede atenção para a forma geométrica de cada
@@ -358,13 +351,13 @@ aparentemente começam a ser usadas como arrimo ou acabamento para
 espaços semienterrados ([@fig:mesa-verde]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vestígios arqueológicos da povoação dita Cliff Palace, c. 1100--1300 d.C. Parque nacional Mesa Verde, Colorado, Estados Unidos. Foto: [M.P. Sharwood, 2011]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/66000251-2CO.jpg/1280px-66000251-2CO.jpg){#fig:mesa-verde}
+![Vestígios arqueológicos da povoação dita Cliff Palace, c. 1100--1300 d.C. Parque nacional Mesa Verde, Colorado, Estados Unidos. Foto: [M.P. Sharwood, 2011]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/66000251-2CO.jpg/1280px-66000251-2CO.jpg){#fig:mesa-verde .slide-bg}
 
 [M.P. Sharwood, 2011]: https://commons.wikimedia.org/wiki/File:66000251-2CO.jpg
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"}
 
-![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano .full}
+![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano .full .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Depois da cabana de Eynan, o sítio mais antigo que se conhece com
@@ -378,7 +371,7 @@ talvez sustentassem alguma cobertura, são grandes lajes de pedra.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png"}
 
-![Göbekli Tepe, vista aérea das escavações. Foto: [E. Kücuk, Instituto Arqueológico Alemão ([DAI]{.smallcaps}), 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png){#fig:gt-plan .align-right}
+![Göbekli Tepe, vista aérea das escavações. Foto: [E. Kücuk, Instituto Arqueológico Alemão ([DAI]{.smallcaps}), 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png){#fig:gt-plan .align-right .slide-bg}
 
 <!--_,-->
 
@@ -419,15 +412,15 @@ cobertos; se fosse o caso, a semelhança com cavernas seria ainda mais
 marcante.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Construção dos recintos de Göbekli Tepe, c. 9600 a.C. Desenho: [Fernando Baptista, 2016](https://www.nationalgeographic.com/travel/article/150120-gobekli-tepe-oldest-monument-turkey-archaeology)](https://i.pinimg.com/originals/6b/f8/67/6bf8674353e270e052c3e571526de747.jpg){#fig:gt-natgeo}
+![Construção dos recintos de Göbekli Tepe, c. 9600 a.C. Desenho: [Fernando Baptista, 2016](https://www.nationalgeographic.com/travel/article/150120-gobekli-tepe-oldest-monument-turkey-archaeology)](https://i.pinimg.com/originals/6b/f8/67/6bf8674353e270e052c3e571526de747.jpg){#fig:gt-natgeo .slide-bg}
 
 ## {data-background-image="https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg"}
 
-![Vista aérea dos templos megalíticos de Ħal Tarxien, Malta, 3250--3000 a.C.](https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg){#fig:tarxien-aer .align-right}
+![Vista aérea dos templos megalíticos de Ħal Tarxien, Malta, 3250--3000 a.C.](https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg){#fig:tarxien-aer .align-right .slide-bg}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/2560px-Entrance_to_apses_of_the_Central_Temple_Tarxien_Temples.jpg"}
 
-![Vista do templo central de Ħal Tarxien, ao longo do eixo que vai do portal principal ao altar, c. 3100 a.C. Foto: [Ethan Doyle White, 2017](https://commons.wikimedia.org/wiki/File:Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg/1280px-Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg){#fig:tarxien-axis}
+![Vista do templo central de Ħal Tarxien, ao longo do eixo que vai do portal principal ao altar, c. 3100 a.C. Foto: [Ethan Doyle White, 2017](https://commons.wikimedia.org/wiki/File:Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg/1280px-Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg){#fig:tarxien-axis .slide-bg}
 
 <!--_,-->
 
@@ -454,12 +447,12 @@ poderiam ser usadas para vários propósitos rituais: desde sacrifícios
 religiosos até sepultamentos humanos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Anta da orca de Pendilhe, Portugal, final do IV milênio a.C. Foto: [João Carvalho, 2005](https://commons.wikimedia.org/wiki/File:Anta_orca_de_pendilhe_0486.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anta_orca_de_pendilhe_0486.JPG/1280px-Anta_orca_de_pendilhe_0486.JPG){#fig:pendilhe}
+![Anta da orca de Pendilhe, Portugal, final do IV milênio a.C. Foto: [João Carvalho, 2005](https://commons.wikimedia.org/wiki/File:Anta_orca_de_pendilhe_0486.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anta_orca_de_pendilhe_0486.JPG/1280px-Anta_orca_de_pendilhe_0486.JPG){#fig:pendilhe .slide-bg}
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/Maeshowe_Chambered_Cairn-Orkney_3D_Scanning-DX-OBFdUTE-1080p-25fps.webm" data-background-video-muted="true"}
 
-::::::::::::::::::::::::::::::::::::::::: {.iframe-wrapper #fig:maes-3d}
-<iframe src="https://www.youtube-nocookie.com/embed/_DX-OBFdUTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+::::::::::::::::::::::::::::::::::::::::: {.iframe-wrapper #fig:maes-3d .slide-bg}
+<iframe width="1280" height="720" class="slide-bg" src="https://www.youtube-nocookie.com/embed/_DX-OBFdUTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Modelo tridimensional do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 a.C. [Historic Environment Scotland, 2012]
 
@@ -485,20 +478,20 @@ mais importante é a célula que fica diante do eixo do corredor
 inverno.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cortes do túmulo de Maeshowe. [Fantoman400, 2006](https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif){#fig:maeshowe-sec .align-right}
+![Cortes do túmulo de Maeshowe. [Fantoman400, 2006](https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif){#fig:maeshowe-sec .align-right .slide-bg}
 
 ## {data-background-image="https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg" data-background-size="contain"}
 
-![Planta do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 a.C. Desenho: F.W.I. Thomas, após 1861](https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg){#fig:maeshowe-plan}
+![Planta do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 a.C. Desenho: F.W.I. Thomas, após 1861](https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg){#fig:maeshowe-plan .slide-bg}
 
 ## {data-background-image="https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg"}
 
-![Planta da aldeia neolítica de Skara Brae, ilhas Órcades, Escócia, 3100--2800 a.C. Desenho adaptado de V. Gordon Childe, 1930](https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg){#fig:skb-plan}
+![Planta da aldeia neolítica de Skara Brae, ilhas Órcades, Escócia, 3100--2800 a.C. Desenho adaptado de V. Gordon Childe, 1930](https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg){#fig:skb-plan .slide-bg}
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/Skara_Brae-Inside_House_7-Rlkjf-i5_Qw-1080p-24fps.webm" data-background-video-muted="true"}
 
-:::::::::::::::::::::::::::::::::::::::: {.iframe-wrapper #fig:skb-scan}
-<iframe src="https://www.youtube-nocookie.com/embed/Rlkjf-i5_Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::::::::::::::::::::::::::::::::::::::: {.iframe-wrapper #fig:skb-scan .slide-bg}
+<iframe width="1280" height="720" class="slide-bg" src="https://www.youtube-nocookie.com/embed/Rlkjf-i5_Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Modelo tridimensional da casa 7 em Skara Brae, 3100--2800 a.C. [Historic Environment Scotland, 2021]
 

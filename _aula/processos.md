@@ -93,7 +93,7 @@ posição de reconhecimento da paisagem e de controle sobre o território
 
 ## Percursos ## {data-background-video="https://cdn.palazzo.arq.br/arqtrad/processos/olduvai-landscape.webm" data-background-video-muted="true"}
 
-![Garganta do Olduvai. Filme: [David Gutiérrez e Ignacio Zapico, 2016](https://youtu.be/8To3-9ZecnU)](https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/processos/olduvai-landscape.webm){#fig:olduvai .full}
+![Garganta do Olduvai. Filme: [David Gutiérrez e Ignacio Zapico, 2016](https://youtu.be/8To3-9ZecnU)](https://cdn.palazzo.arq.br/arqtrad/processos/olduvai-landscape.webm){#fig:olduvai .full}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A linha de cumeada é um percurso eficiente para as pessoas se orientarem

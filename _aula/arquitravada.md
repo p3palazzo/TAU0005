@@ -3,7 +3,7 @@ title   : "Construção arquitravada"
 subtitle: "Elementos da construção"
 item    : "II"
 author  : "Pedro P. Palazzo"
-date    : 2022-02-15
+date    : 2022-02-08
 toc:
   - Tendas e cabanas
   - Colunas e vigas
@@ -14,14 +14,9 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg
   caption: "Thomas Cole, *The Course of Empire: Consummation*, 1836"
-  actions:
-  - label: "Slides"
-    url: "/slides/arquitravada/"
 ---
 
 # Tendas e cabanas
-
-##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nos mitos da cabana primitiva e nas culturas da maior parte do mundo, a
@@ -254,9 +249,9 @@ Mediterrâneo oriental.
 
 [*Manual de arquitetura kamayurá*, 2019]: https://www.archdaily.com.br/br/923178/manual-de-arquitetura-kamayura
 
-## {data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%"}
+## {data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png"}
 
-![Distribuição originária da tradição arquitravada dita "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:classical-heartland .nobg .align-right}
+![Distribuição originária da tradição arquitravada dita "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:classical-heartland .nobg .align-right .overlay-slide}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Das três, esta última, a tradição do Mediterrâneo oriental
@@ -267,8 +262,6 @@ codificado e imortalizado em pedra: a arquitetura clássica greco-romana.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Colunas e vigas
-
-##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O tipo primordial da cabana se caracteriza por estruturas lineares de
@@ -284,7 +277,7 @@ inteiros.
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm" data-background-video-muted="true"}
 
-![Floresta de cedros em Tannourine, Líbano. Filmagem: [Çağatay Erciyes, 2017]](https://cdn.palazzo.arq.br/firmitas/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm){#fig:cedro}
+![Floresta de cedros em Tannourine, Líbano. Filmagem: [Çağatay Erciyes, 2017]](https://cdn.palazzo.arq.br/firmitas/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm){#fig:cedro .slide-bg}
 
 [Çağatay Erciyes, 2017]: https://youtu.be/lnUGg4IDhxw
 
@@ -341,10 +334,10 @@ tipo "gafanhoto", também são usados contraventamentos diagonais.
 
 ![Esquema construtivo do tipo de casa "gafanhoto" kamayurá. [*Manual de arquitetura kamayurá*, 2019]](https://images.adsttc.com/media/images/5d5a/ed03/284d/d166/2000/008e/slideshow/190812_CasaKamayuraREV_Page_19.jpg?1566239994){#fig:gafanhoto}
 
-##
+## Bases ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Os troncos fincados]{.newthought} diretamente no chão apodrecem com
+Os troncos fincados diretamente no chão apodrecem com
 facilidade. Isso não é um problema em casos como o das povoações
 amazônicas, onde a vida útil das construções é de algumas décadas. Em
 construções concebidas para durar séculos em vez de décadas, isso passa
@@ -544,8 +537,6 @@ em ambos e aprenderá muito sobre como montar uma estrutura arquitravada.
 
 # Assoalhos e terraços
 
-##
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Num sistema arquitravado puro, por assim dizer, como nas tradições
 clássica e chinesa, as colunas são simplesmente apoiadas sobre as suas
@@ -556,9 +547,9 @@ esforços horizontais como o vento, terremotos ([@fig:toji]), ou mesmo a
 simples irregularidade de distribuição das cargas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-video="https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/firmitas/arquitravada/Secret_of_the_Pagodas_Earthquake_Resistant_Design-uG37gQSvrf4-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/Secret_of_the_Pagodas_Earthquake_Resistant_Design-uG37gQSvrf4-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
-::::::::::::::::::::::::::::::::: {.iframe-wrapper .full #fig:toji}
+:::::::::::::::::::::::::::: {.iframe-wrapper .full #fig:toji .slide-bg}
 <iframe src="https://www.youtube-nocookie.com/embed/uG37gQSvrf4?start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Comportamento estrutural de um pagode japonês num terremoto. Vídeo: [Science Channel, 2016]
@@ -580,7 +571,7 @@ terrapleno espesso em terra batida, revestido com cal
 contraventados diretamente pelas paredes em blocos de adobe.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## Contraventamento ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [Uma característica importante]{.newthought} do sistema arquitravado do
@@ -595,11 +586,7 @@ carga horizontal, como nos terremotos que são bastante frequentes na
 região, derruba o edifício como se fosse uma torre de Jenga. Mesmo algum
 assentamento diferencial nas fundações poderia pôr em risco a
 estabilidade da construção.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Duas soluções conjuntas resolvem o problema do contraventamento na
 construção arquitravada do Mediterrâneo oriental:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -825,7 +812,7 @@ colunas e vigas em madeira, geralmente associadas a paredes de vedação
 em alvenaria.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A tradição arquitravada do Mediterrâneo oriental geralmente
@@ -833,11 +820,7 @@ combina um sistema de colunas em madeira com paredes em alvenaria, que
 servem de divisórias no espaço mas também costumam ter função estrutural
  ([@fig:chipiez-208]). As colunas propriamente ditas são, na sua
 origem, troncos de árvores.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por causa do uso de troncos nas origens dessa tradição, as colunas têm
 uma contratura elegante, onde o diâmetro superior é ligeiramente menor
 do que o diâmetro inferior. Essa contratura é feita com um perfil em
@@ -866,21 +849,17 @@ sobreposição de vigas perpendiculares entre si.
 
 ![Arquétipo em madeira da ordem toscana, segundo Chipiez, 1876](https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png){#fig:chipiez-159 .line}
 
-##
+## Construção aditiva ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[A construção arquitravada é aditiva]{.newthought} por natureza. Ela se
+A construção arquitravada é aditiva por natureza. Ela se
 compõe da montagem de elementos claramente distintos entre si,
 relativamente grandes na escala da edificação como um todo, e encaixados
 ou apoiados uns sobre os outros. Essa montagem tende a produzir um
 sistema espacial modular a partir das dimensões dos principais elementos
 da arquitetura --- as colunas e os vãos entre elas, definidos pelas
 arquitraves.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Construir com elementos modulares é uma prática especialmente vantajosa
 na arquitetura em madeira. Isso é o caso porque o ciclo de produção das
 colunas e vigas em madeira é relativamente longo e distante do canteiro
