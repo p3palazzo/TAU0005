@@ -27,11 +27,17 @@ concepção estrutural do conjunto, essas aberturas podem ser de dois
 tipos: arquitravadas, isso é, formadas por vigas, ou arqueadas, isso é,
 formadas por arcos na própria alvenaria.
 
-Juntamente com a temática das coberturas, trata-se de questões mais complexas e importantes para a espacialidade da arquitetura tradicional (em que não há grandes diferenças entre interiores e exteriores).
+Juntamente com a temática das coberturas, trata-se de questões mais
+complexas e importantes para a espacialidade da arquitetura tradicional
+(em que não há grandes diferenças entre interiores e exteriores).
 
-Destaca-se que abóbadas e cúpulas não são tão eficientes para a arquitetura moderna, sendo abandonadas atualmente. São utilizadas apenas onde for necessário, considerando-se ainda seus efeitos simbólicos e estéticos. 
+Destaca-se que abóbadas e cúpulas não são tão eficientes para a
+arquitetura moderna, sendo abandonadas atualmente. São utilizadas apenas
+onde for necessário, considerando-se ainda seus efeitos simbólicos e
+estéticos. 
 
-Elas originam-se em duas regiões: África subsaariana (abóbadas em adobe ou taipa) e na Índia (em madeira sobrada a vapor ou serrada).
+Elas originam-se em duas regiões: África subsaariana (abóbadas em adobe
+ou taipa) e na Índia (em madeira sobrada a vapor ou serrada).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## 
