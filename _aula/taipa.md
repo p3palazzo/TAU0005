@@ -865,10 +865,10 @@ importante com a homogeneidade do assentamento no solo.
 
 ![Fundações escavadas no sítio arqueológico de Mehrgarh, vale do rio Indo, c. 5500--3500 a.C. Foto: Catherine Jarrigue, Mission Archéologique de l'Indus](https://i.pinimg.com/originals/52/bb/7c/52bb7c1e9efe132df5fc5e661d8ccd35.jpg){#fig:mehrgarh}
 
-## {data-background-video="https://cdn.palazzo.arq.br/constru/taipa/Rubble_trench_foundation_for_a_Cob_Building.webm" data-background-video-muted="true" data-background-video-loop="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/taipa/Rubble_trench_foundation_for_a_Cob_Building.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
-:::::::::::::::::::::::::::::::::::::::::: {#fig:rubble .iframe-wrapper}
-<iframe src="https://www.youtube-nocookie.com/embed/eNN7T4fBQo4?start=240" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+:::::::::::::::::::::::::::::::::::::::::: {#fig:rubble .iframe-wrapper .slide-bg}
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/eNN7T4fBQo4?start=240" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Construção de uma fundação em pedra lavrada para uma casa de pau a
 pique. [House Alive, 2016](https://youtu.be/eNN7T4fBQo4?t=240)
@@ -932,7 +932,7 @@ sobra precisa ser aterrada e compactada para garantir a boa distribuição
 das cargas, especialmente onde o solo for profundo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-video="https://cdn.palazzo.arq.br/constru/taipa/Construccion_con_Adobe_Sismo_Resistente-MEDES_y_ASF-9kZaq5SwBxo.webm" data-background-video-muted="true" data-background-video-loop="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/taipa/Construccion_con_Adobe_Sismo_Resistente-MEDES_y_ASF-9kZaq5SwBxo.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As fundações tradicionais em geral não são "armadas", ou seja,
@@ -942,8 +942,8 @@ submetidas a esforços de tração ou cortantes. Apesar disso, há algumas
 exceções em regiões sujeitas a terremotos ([@fig:adobe-funda]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::: {#fig:adobe-funda .iframe-wrapper}
-<iframe src="https://www.youtube-nocookie.com/embed/9kZaq5SwBxo?start=371" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+::::::::::::::::::::::::::::::::::::: {#fig:adobe-funda .iframe-wrapper .slide-bg}
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/9kZaq5SwBxo?start=371" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Construção de fundações mistas para paredes em adobe. [Arquitectura sin Fronteras Galicia, 2014](https://youtu.be/9kZaq5SwBxo?t=371)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1006,9 +1006,9 @@ reduzir o acúmulo de umidade ([@fig:valpa]).
 
 ![Esquema de fundações tradicionais em Valparaíso, Chile, segundo Barros e Sarabia, *Sistemas constructivos básicos*](https://i.pinimg.com/originals/ed/15/c5/ed15c515c38988f1997f70bf7df8b1c5.jpg){#fig:valpa}
 
-## {data-background-video="https://cdn.palazzo.arq.br/constru/taipa/Seleucid_Bit_Resh-Anu-Antum_Temple-Detail_and_Reconstruction-62772222-720p-30fps.mp4" data-background-video-muted="true" data-background-video-loop="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/taipa/Seleucid_Bit_Resh-Anu-Antum_Temple-Detail_and_Reconstruction-62772222-720p-30fps.mp4" data-background-video-muted="true" data-background-video-loop="true"}
 
-::::::::::::::::::::::::::::::::::::::::::::: {#fig:bitresh .iframe-wrapper .full}
+::::::::::::::::::::::::::::::::::::::::::::: {#fig:bitresh .iframe-wrapper .full .slide-bg}
 <iframe src="https://player.vimeo.com/video/62772222?autoplay=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Bit Resh, o templo de Anu e Antum em Uruk. Iniciado no século
@@ -1066,7 +1066,7 @@ que eles fazem em contato com os sistemas construtivos tradicionais é
 impedir a umidade que *já entrou* de *sair* da construção.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-video="https://cdn.palazzo.arq.br/constru/taipa/Ishtar_Gate_Babylon_Iraq.webm" data-background-video-muted="true" data-background-video-loop="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/taipa/Ishtar_Gate_Babylon_Iraq.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse tipo de problema ocorreu no sítio arqueológico da antiga Babilônia
@@ -1080,7 +1080,7 @@ superficial dos tijolos, que foi sendo lavada ao longo dos anos por essa
 circulação da água.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::: {#fig:ishtar-model .iframe-wrapper}
+:::::::::::::::::::::::::::::::::::: {#fig:ishtar-model .iframe-wrapper .slide-bg}
 <iframe src="https://www.youtube-nocookie.com/embed/d23S8P-H0lM?t=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Modelo fotogramétrico da porta de Ishtar, Babilônia, século

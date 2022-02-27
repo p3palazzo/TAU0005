@@ -134,7 +134,9 @@ references:
   publisher: Bookman
   publisher-place: Porto Alegre
   source: Amazon
-  title: 'Introdução à história da arquitetura: das origens ao século XXI'
+  title: >-
+    Introdução à história da arquitetura: das origens ao século <span
+    class="smallcaps">XXI</span>
   title-short: Introdução à história da arquitetura
   translator:
     - family: Salvaterra
@@ -167,7 +169,7 @@ references:
   issue: '2'
   issued:
     - year: 1999
-  language: English
+  language: en
   page: 93-100
   source: JSTOR
   title: 'Virtual Cairo: an urban historian''s view of computer simulation'
@@ -411,7 +413,7 @@ references:
   ISBN: 978-0-415-35781-4 978-0-415-35795-1 978-0-203-00386-2
   issued:
     - year: 2006
-  language: en-US
+  language: en
   number-of-pages: '294'
   publisher: Taylor & Francis
   publisher-place: London ; New York
@@ -573,7 +575,7 @@ references:
   ISSN: 0079-0958
   issued:
     - year: 1987
-  language: English
+  language: en
   page: 24-37
   publisher: The MIT Press
   source: JSTOR
@@ -602,7 +604,7 @@ references:
   issued:
     - year: 1989
       month: 12
-  language: English
+  language: en
   page: 447-498
   source: DOI.org (Crossref)
   title: The origins of sedentism and farming communities in the Levant
@@ -784,8 +786,8 @@ references:
   page: 59-75
   source: Zotero
   title: >-
-    Unleashing the Potential of Traditional Construction Technique in the
-    Development of Modern Urban Mass Housing
+    Unleashing the potential of traditional construction technique in the
+    development of modern urban mass housing
   type: article-journal
   volume: '16'
 
@@ -800,7 +802,7 @@ references:
   ISBN: 978-1-4612-7745-3
   issued:
     - year: 1991
-  language: English
+  language: en
   publisher: Springer
   publisher-place: New York
   source: Open WorldCat
@@ -818,7 +820,7 @@ references:
   ISBN: 978-1-4612-7751-4 978-3-540-97187-0 978-0-387-97187-2
   issued:
     - year: 1991
-  language: English
+  language: en
   number-of-pages: '309'
   publisher: Springer
   publisher-place: New York
@@ -1891,7 +1893,7 @@ references:
       given: Vikramaditya
   call-number: NA200 .C493 2011
   citation-key: ching:2011global
-  edition: 2nd ed
+  edition: '2'
   event-place: Hoboken, N.J
   ISBN: 978-0-470-40257-3
   issued:
@@ -1991,7 +1993,7 @@ references:
   event-place: Paris
   issued:
     - year: 1876
-  language: French
+  language: fr
   number-of-pages: '474'
   publisher: Ve A. Morel & cie.
   publisher-place: Paris
@@ -2026,7 +2028,7 @@ references:
   event-place: Paris
   issued:
     - year: 1873
-  language: French
+  language: fr
   publisher: Ducher
   publisher-place: Paris
   source: Open WorldCat
@@ -2042,7 +2044,7 @@ references:
   event-place: Paris
   issued:
     - year: 1873
-  language: French
+  language: fr
   publisher: Ducher
   publisher-place: Paris
   source: Open WorldCat
@@ -2058,7 +2060,7 @@ references:
   event-place: Paris
   issued:
     - year: 1883
-  language: French
+  language: fr
   publisher: Sté Anonyme de Publications Périodiques
   publisher-place: Paris
   source: Open WorldCat
@@ -2074,7 +2076,7 @@ references:
   event-place: Paris
   issued:
     - year: 1883
-  language: French
+  language: fr
   publisher: Sté Anonyme de Publications Périodiques
   publisher-place: Paris
   source: Open WorldCat
@@ -2377,7 +2379,7 @@ references:
   ISBN: 978-0-486-20378-2
   issued:
     - year: 1956
-  language: English
+  language: en
   publisher: Dover
   publisher-place: New York
   source: Open WorldCat
@@ -2506,7 +2508,7 @@ references:
   ISBN: 978-85-60100-08-8
   issued:
     - year: 2007
-  language: Portuguese
+  language: pt-BR
   publisher: UniRitter
   publisher-place: Porto Alegre
   source: Open WorldCat
@@ -2601,7 +2603,7 @@ references:
   event-place: Paris
   issued:
     - year: 1643
-  language: French
+  language: fr-FR
   publisher: Sébastien Cramoisy
   publisher-place: Paris
   source: Internet Archive
@@ -2744,7 +2746,7 @@ references:
     - year: 2019
       month: 1
       day: 5
-  language: English
+  language: en
   page: e0215214
   publisher: Public Library of Science
   source: PLoS Journals
@@ -2817,7 +2819,7 @@ references:
   issued:
     - year: 1802
     - year: 1805
-  language: French
+  language: fr
   number-of-volumes: '2'
   publisher: l'auteur
   publisher-place: Paris
@@ -2834,7 +2836,7 @@ references:
   event-place: Paris
   issued:
     - year: 1821
-  language: French
+  language: fr
   number-of-pages: '36'
   publisher: l'auteur
   publisher-place: Paris
@@ -2872,7 +2874,7 @@ references:
   event-place: Stuttgart
   issued:
     - year: 1905
-  language: German
+  language: de
   number-of-pages: '832'
   publisher: A. Bergsträsser
   publisher-place: Stuttgart
@@ -2924,7 +2926,7 @@ references:
   event-place: Zürich
   issued:
     - year: 1980
-  language: German
+  language: de
   publisher: Eidgenössiche Technische Hochschule
   publisher-place: Zürich
   title: >-
@@ -2941,7 +2943,7 @@ references:
   ISBN: 978-3-905451-02-3
   issued:
     - year: 1994
-  language: English
+  language: en
   number-of-pages: '250'
   publisher: Structura Mundi
   publisher-place: Lausanne
@@ -3238,7 +3240,7 @@ references:
   ISBN: 978-85-7503-420-0
   issued:
     - year: 2006
-  language: Portuguese
+  language: pt-BR
   publisher: Cosac Naify
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3282,7 +3284,7 @@ references:
     - year: 2018
       month: 9
       day: 10
-  language: French
+  language: fr-FR
   number: '2'
   publisher: Ministère de la culture
   source: journals.openedition.org
@@ -3329,7 +3331,7 @@ references:
       given: Banister F.
   call-number: b12340145
   citation-key: fletcher:1905history
-  edition: 5. ed.
+  edition: '5'
   event-place: 'London : New York'
   issued:
     - year: 1905
@@ -3341,6 +3343,7 @@ references:
   title: >-
     A history of architecture on the comparative method for the student,
     craftsman, and amateur
+  title-short: A history of architecture
   type: book
   URL: http://archive.org/details/historyofarchite00flet
 
@@ -3481,7 +3484,7 @@ references:
     - year: 2017
       month: 4
       day: 16
-  language: English
+  language: en
   page: 1-3
   publisher: John Wiley & Sons
   publisher-place: Hoboken, N.J.
@@ -3743,7 +3746,7 @@ references:
     - year: 1961
       month: 1
       day: 1
-  language: English
+  language: en
   number-of-pages: '768'
   publisher: Harvard University Press
   publisher-place: Cambridge, Mass.
@@ -3902,16 +3905,16 @@ references:
   citation-key: grabar:2006islamic
   collection-number: '3'
   collection-title: Constructing the Study of Islamic Art
-  event-place: Aldershot, Hampshire, England ; Burlington, VT
+  event-place: Aldershot, Hampshire, England ; Burlington, Ver.
   ISBN: 978-0-86078-926-0
   issued:
     - year: 2006
       month: 4
       day: 28
-  language: English
+  language: en
   number-of-pages: '388'
   publisher: Routledge
-  publisher-place: Aldershot, Hampshire, England ; Burlington, VT
+  publisher-place: Aldershot, Hampshire, England ; Burlington, Ver.
   source: Amazon
   title: Islamic art and beyond
   title-short: Islamic art and beyond
@@ -3932,7 +3935,7 @@ references:
   issue: '1'
   issued:
     - year: 1966
-  language: English
+  language: en
   page: 3-31
   publisher: Classical Association of Canada
   source: JSTOR
@@ -4035,6 +4038,21 @@ references:
   URL: https://doi.org/10.1177/0959683620950449
   volume: '30'
 
+- id: guadet:1901elements
+  author:
+    - family: Guadet
+      given: Julien
+  citation-key: guadet:1901elements
+  event-place: Paris
+  issued:
+    - year: 1901
+  language: fr-FR
+  number-of-volumes: '4'
+  publisher: Aulanier
+  publisher-place: Paris
+  title: Éléments et théorie de l'architecture
+  type: book
+
 - id: guadet:1915elements
   author:
     - family: Guadet
@@ -4066,7 +4084,7 @@ references:
   event-place: Paris
   issued:
     - year: 1915
-  language: French
+  language: fr
   publisher: Construction moderne
   publisher-place: Paris
   source: BnF Catalogue général (http://catalogue.bnf.fr)
@@ -4138,7 +4156,7 @@ references:
     - year: 2015
       month: 8
       day: 7
-  language: English
+  language: en
   page: e0130121
   publisher: Public Library of Science
   source: PLoS Journals
@@ -4186,11 +4204,11 @@ references:
   issued:
     - year: 2020
       month: 5
-  language: English
+  language: en
   page: 343-357
   publisher: Cambridge University Press
   source: Cambridge University Press
-  title: Geometry and Architectural Planning at Göbekli Tepe, Turkey
+  title: Geometry and architectural planning at Göbekli Tepe, Turkey
   type: article-journal
   URL: >-
     https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/geometry-and-architectural-planning-at-gobekli-tepe-turkey/2CBAF416E33AFE6496B73710A2F42FF9
@@ -4369,7 +4387,7 @@ references:
   issue: '4'
   issued:
     - year: 1978
-  language: French
+  language: fr-FR
   page: 309-323
   publisher: Persée - Portail des revues scientifiques en SHS
   source: DOI.org (Crossref)
@@ -4709,7 +4727,7 @@ references:
   issued:
     - year: 1988
       month: 4
-  language: English
+  language: en
   page: 375–388
   source: Crossref
   title: Tradition, innovation, and aesthetic experience
@@ -4791,7 +4809,7 @@ references:
     - year: 2011
       month: 12
       day: 31
-  language: English
+  language: en
   page: 109-118
   source: DOI.org (Crossref)
   title: 'Burial practices and social complexity: Jomon examples'
@@ -4936,7 +4954,7 @@ references:
   ISBN: 978-0-19-503472-1
   issued:
     - year: 1985
-  language: English
+  language: en
   publisher: Oxford University Press
   publisher-place: New York
   source: Open WorldCat
@@ -5191,7 +5209,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1977
-  language: Portuguese
+  language: pt-BR
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -5309,7 +5327,7 @@ references:
   issue: '1'
   issued:
     - year: 1991
-  language: English
+  language: en
   page: 47-57
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -5357,11 +5375,11 @@ references:
   issue: '5'
   issued:
     - year: 1969
-  language: English
+  language: en
   page: 42-51
   publisher: Scientific American, a division of Nature America, Inc.
   source: JSTOR
-  title: A Paleolithic Camp at Nice
+  title: A Paleolithic camp at Nice
   type: article-journal
   URL: https://www.jstor.org/stable/24926357
   volume: '220'
@@ -5492,7 +5510,7 @@ references:
     - family: Mascarenhas
       given: Jorge
   citation-key: mascarenhas:2019tecnicas
-  collection-number: XVI
+  collection-number: <span class="smallcaps">XVI</span>
   collection-title: Sistemas de construção
   event-place: Lisboa
   ISBN: 978-972-24-1936-9
@@ -5831,7 +5849,7 @@ references:
   event-place: Paris
   issued:
     - year: 1852
-  language: French
+  language: fr
   publisher: Normand
   publisher-place: Paris
   source: Open WorldCat
@@ -6213,7 +6231,7 @@ references:
   issued:
     - year: 1997
       month: 10
-  language: English
+  language: en
   page: 208-224
   source: DOI.org (Crossref)
   title: >-
@@ -6877,7 +6895,7 @@ references:
   event-place: Paris
   issued:
     - year: 1812
-  language: French
+  language: fr-FR
   number-of-pages: '482'
   number-of-volumes: '4'
   publisher: Chez l'auteur
@@ -6935,7 +6953,7 @@ references:
     - year: 2020
       month: 1
       day: 22
-  language: English
+  language: en
   page: e0227288
   publisher: Public Library of Science
   source: PLoS Journals
@@ -6983,7 +7001,7 @@ references:
   issue: '2'
   issued:
     - year: 1987
-  language: French
+  language: fr
   page: 711-751
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -7202,7 +7220,7 @@ references:
   issued:
     - year: 2002
       month: 8
-  language: English
+  language: en
   publisher: Foundation for Science, Technology, and Civilisation
   publisher-place: Manchester
   title: Introduction to the Islamic City
@@ -7349,7 +7367,7 @@ references:
   citation-key: semper:1851vier
   issued:
     - year: 1851
-  language: German
+  language: de
   number-of-pages: '126'
   publisher: F. Vieweg
   source: Internet Archive
@@ -7373,7 +7391,7 @@ references:
   event-place: Frankfurt am Main
   issued:
     - year: 1860
-  language: German
+  language: de
   number-of-pages: '626'
   publisher: Verlag für Kunst und Wissenschaft
   publisher-place: Frankfurt am Main
@@ -7486,14 +7504,14 @@ references:
   citation-key: smith:1978dome
   collection-number: '25'
   collection-title: Princeton-monographs in art and archaeology
-  event-place: Princeton, N. J
+  event-place: Princeton, N.J.
   ISBN: 978-0-691-00304-7
   issued:
     - year: 1978
-  language: English
+  language: en
   number-of-pages: '227'
-  publisher: Princeton Univ. Pr
-  publisher-place: Princeton, N. J
+  publisher: Princeton University Press
+  publisher-place: Princeton, N.J.
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: 'The dome: a study in the history of ideas'
   title-short: The dome
@@ -7879,7 +7897,7 @@ references:
     - year: 2011
       month: 11
       day: 8
-  language: English
+  language: en
   publisher: University of Cambridge
   source: www.repository.cam.ac.uk
   title: 'The evolution of shelter: ecology and ethology of chimpanzee nest building'
@@ -8569,7 +8587,7 @@ references:
     - year: 2017
       month: 3
       day: 21
-  language: English
+  language: en
   page: 3097-3102
   PMID: '28265058'
   publisher: National Academy of Sciences
@@ -8877,7 +8895,7 @@ references:
   event-place: Como
   issued:
     - year: 1521
-  language: Italian
+  language: it
   number-of-pages: '390'
   publisher: Gottardo da Ponte
   publisher-place: Como
@@ -9061,7 +9079,7 @@ references:
       given: David
   citation-key: wendland:2007traditional1
   container-title: International Journal of Architectural Heritage
-  container-title-short: International Journal of Architectural Heritage
+  container-title-short: IJAH
   DOI: 10.1080/15583050701373803
   ISSN: 1558-3058, 1558-3066
   issue: '4'
@@ -9069,7 +9087,7 @@ references:
     - year: 2007
       month: 11
       day: 20
-  language: English
+  language: en
   page: 311-365
   source: DOI.org (Crossref)
   title: >-
@@ -9227,7 +9245,7 @@ references:
   ISBN: 978-3-0346-0685-1
   issued:
     - year: 2012
-  language: English
+  language: en
   number-of-pages: '319'
   publisher: Birkhäuser
   publisher-place: Basel
