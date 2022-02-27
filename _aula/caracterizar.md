@@ -14,19 +14,32 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg
   caption: "Thomas Cole, [*O passado*](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Past_1838.jpg), 1838"
-  actions:
-  - label: "Slides"
-    url: "/slides/caracterizar/"
 ---
 
 # Estilo, construção e cultura #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-As análises sobre a questão do contexto na China antiga são retomadas, a partir das referências bibliográficas ocidentais sobre o tema. Nos livros-texto propostos para a disciplina, observa-se uma perspectiva pretensamente neutra e convencional da arquitetura asiática como uma manifestação mais ou menos isolada e estática. 
+As análises sobre a questão do contexto na China antiga são retomadas, a
+partir das referências bibliográficas ocidentais sobre o tema. Nos
+livros-texto propostos para a disciplina, observa-se uma perspectiva
+pretensamente neutra e convencional da arquitetura asiática como uma
+manifestação mais ou menos isolada e estática. 
 
-Trata-se de um olhar muito antigo, que apresenta uma divisão do mundo em arquitetura histórica e arquitetura não-histórica, a partir de Banister Fletcher. Assim, são concebidas as sociedades rotuladas como “tradicionais”, consideradas como aquelas que não teriam história e mesmo uma certa noção de progresso. 
+Trata-se de um olhar muito antigo, que apresenta uma divisão do mundo em
+arquitetura histórica e arquitetura não-histórica, a partir de Banister
+Fletcher [@fletcher:1905history]. Assim, são concebidas as sociedades
+rotuladas como "tradicionais", consideradas como aquelas que não teriam
+história e mesmo uma certa noção de progresso. 
 
-Observa-se, aqui, uma clara contraposição com a história da arquitetura europeia, vista como um processo que engloba uma evolução de características intrinsecamente arquitetônicas e principalmente construtivas. Assim, como a arquitetura chinesa não apresentaria significativas transformações no sistema construtivo como a europeia, não teria, portanto, história. Essa concepção se justificaria por ela ter permanecido sendo produzida em madeira, através de um sistema relativamente codificado e estabilizado em todas as épocas, apresentando apenas mudanças sutis nos detalhamentos e nos módulos. 
+Observa-se, aqui, uma clara contraposição com a história da arquitetura
+europeia, vista como um processo que engloba uma evolução de
+características intrinsecamente arquitetônicas e principalmente
+construtivas. Assim, como a arquitetura chinesa não apresentaria
+significativas transformações no sistema construtivo como a europeia,
+não teria, portanto, história. Essa concepção se justificaria por ela
+ter permanecido sendo produzida em madeira, através de um sistema
+relativamente codificado e estabilizado em todas as épocas, apresentando
+apenas mudanças sutis nos detalhamentos e nos módulos. 
 
 No final da última dinastia imperial chinesa e durante o
 período republicano, pensadores como [Gu Jiegang][] e [Liang Qichao][]
@@ -37,7 +50,13 @@ alinhado com tal visão da história desenvolvida na Europa do século
 [XIX]{.smallcaps}. Segundo ela, as fontes primárias só têm
 credibilidade se forem contemporâneas dos eventos descritos.
 
-Tal visão revela o foco do final do século XIX, quando ganha força, da importância do progresso, do desenvolvimento, do imperialismo e do crescimento econômico. Dessa forma, todas as sociedades que não demostrassem essas características eram consideradas primitivas de certo modo. Trata-se de em perspectiva bastante eurocêntrica, degradadora e preconceituosa, que pretendia justificar o arbítrio das intervenções europeias na China de então. 
+Tal visão revela o foco do final do século [XIX]{.smallcaps}, quando
+ganha força, da importância do progresso, do desenvolvimento, do
+imperialismo e do crescimento econômico. Dessa forma, todas as
+sociedades que não demostrassem essas características eram consideradas
+primitivas de certo modo. Trata-se de em perspectiva bastante
+eurocêntrica, degradadora e preconceituosa, que pretendia justificar o
+arbítrio das intervenções europeias na China de então.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Gu Jiegang]: https://en.wikipedia.org/wiki/Gu_Jiegang
@@ -45,22 +64,6 @@ Tal visão revela o foco do final do século XIX, quando ganha força, da import
 [Liang Qichao]: https://en.wikipedia.org/wiki/Liang_Qichao
 
 ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A historiografia chinesa tradicional se baseava no modelo estabelecido
-pelo [*Registros do historiador*][] ([@fig:shiji]), um livro compilado no
-começo do século [I]{.smallcaps} a.C. por Sima Qian ([@fig:sima-qian]).
-Esse modelo organizava a cronologia segundo *dinastias* reais e
-imperiais. Como os registros chineses foram recompilados e reescritos
-várias vezes ao longo dos milênios, os historiadores do século
-[XX]{.smallcaps} consideravam os períodos mais antigos da história
-chinesa como um enfeite lendário que não corresponderia ao estado
-primitivo da sociedade naquela época.
-
-Apesar disso, tal argumento também foi alavancado por alguns reformistas, arquitetos e historiadores céticos, do próprio país no começo do século XX. Eles usaram esse discurso de uma suposta estagnação temporal chinesa para propósitos revolucionários, objetivando derrubar o império e promover reformas políticas modernizadoras. Um dos meios encontrados para isso foi questionar sua historiografia tradicional, por meio das crônicas que contam sua história na tradição imperial, refutando um de seus registros históricos mais tradicionais com mais de 2000 anos. Passam a tratá-los como lendas, por não possuírem respaldo arqueológico e não se enquadrarem no roteiro padrão que os europeus, sobretudo os historiadores marxistas, haviam estabelecido para a determinação de supostos estágios sucessivos de desenvolvimento.  
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-[*Registros do historiador*]: https://pt.wikipedia.org/wiki/Registros_do_Historiador
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
 ::: {.column width=43%}
@@ -71,21 +74,47 @@ Apesar disso, tal argumento também foi alavancado por alguns reformistas, arqui
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png" data-background-size="contain"}
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 * * * *
 
+A historiografia chinesa tradicional se baseava no modelo estabelecido
+pelo [*Registros do historiador*][] ([@fig:shiji]), um livro compilado no
+começo do século [I]{.smallcaps} a.C. por Sima Qian ([@fig:sima-qian]).
+Esse modelo organizava a cronologia segundo *dinastias* reais e
+imperiais. Como os registros chineses foram recompilados e reescritos
+várias vezes ao longo dos milênios, os historiadores do século
+[XX]{.smallcaps} consideravam os períodos mais antigos da história
+chinesa como um enfeite lendário que não corresponderia ao estado
+primitivo da sociedade naquela época.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[*Registros do historiador*]: https://pt.wikipedia.org/wiki/Registros_do_Historiador
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Apesar disso, tal argumento também foi alavancado por alguns
+reformistas, arquitetos e historiadores céticos, do próprio país no
+começo do século [XX]{.smallcaps}. Eles usaram esse discurso de uma
+suposta estagnação temporal chinesa para propósitos revolucionários,
+objetivando derrubar o império e promover reformas políticas
+modernizadoras. Um dos meios encontrados para isso foi questionar sua
+historiografia tradicional, por meio das crônicas que contam sua
+história na tradição imperial, refutando um de seus registros históricos
+mais tradicionais com mais de 2000 anos. Passam a tratá-los como lendas,
+por não possuírem respaldo arqueológico e não se enquadrarem no roteiro
+padrão que os europeus, sobretudo os historiadores marxistas, haviam
+estabelecido para a determinação de supostos estágios sucessivos de
+desenvolvimento.
+
 Os historiadores céticos substituíram a cronologia tradicional, segundo
 *dinastias* ([@fig:xia-map]), pelo padrão ocidental moderno de designar
-*culturas* arqueológicas ([@fig:erlitou-map]). Essas novas interpretações
+*culturas* arqueológicas. Essas novas interpretações
 estabeleciam a credibilidade dos pesquisadores chineses num mundo
 acadêmico dominado por europeus e americanos. Mas, ao mesmo tempo, elas
 também validavam uma pretensão de superioridade cultural da Europa sobre
 a Ásia, já que a história mais antiga da China acabava sendo reduzida a
 um mundo tribal e supostamente primitivo.
-
-Porém, esses estudiosos começam a realizar pesquisas arqueológicas em busca de reconstituir uma história da China há mais de 2000 anos. Pretendiam refutar os referidos registros escritos imperiais, adotando o padrão ocidental, moderno e arqueológico de designar culturas, que seriam baseadas nos estilos de cerâmica principalmente. Com o passar do tempo, tais investigações vão se acumulando e os historiadores chineses ganham credibilidade pelo trabalho à maneira europeia e, portanto, com maior “validade” acadêmica. Isso acaba reforçando uma pretensa superioridade do mundo clássico europeu, frente a uma visão da sociedade chinesa antiga que é reduzida a um conjunto de comunidades tribais não muito sofisticadas. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Extensão territorial da [dinastia Xià (c. 2070--1600 a.C.)](https://en.wikipedia.org/wiki/Xia–Shang–Zhou_Chronology_Project). Mapa: [Lamassu Design, 2009](https://commons.wikimedia.org/wiki/File:Xia_dynasty.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png){#fig:xia-map}
@@ -93,6 +122,20 @@ Porém, esses estudiosos começam a realizar pesquisas arqueológicas em busca d
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erlitou_map.svg/920px-Erlitou_map.svg.png" data-background-size="contain"}
 
 ![Extensão geográfica da [cultura Erlitou](https://en.wikipedia.org/wiki/Erlitou_culture), primeira metade do [II]{.smallcaps} milênio a.C.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erlitou_map.svg/920px-Erlitou_map.svg.png){#fig:erlitou-map}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Porém, esses estudiosos começam a realizar pesquisas arqueológicas em
+busca de reconstituir uma história da China há mais de 2000 anos.
+Pretendiam refutar os referidos registros escritos imperiais, adotando o
+padrão ocidental, moderno e arqueológico de designar culturas, que
+seriam baseadas nos estilos de cerâmica principalmente
+([@fig:erlitou-map]). Com o passar do tempo, tais investigações vão se
+acumulando e os historiadores chineses ganham credibilidade pelo
+trabalho à maneira europeia e, portanto, com maior "validade" acadêmica.
+Isso acaba reforçando uma pretensa superioridade do mundo clássico
+europeu, frente a uma visão da sociedade chinesa antiga que é reduzida a
+um conjunto de comunidades tribais não muito sofisticadas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://live.staticflickr.com/2895/14068360418_dad7f989ab_k_d.jpg"}
 
@@ -106,8 +149,6 @@ historiografia chinesa tradicional. Até mesmo a primeira dinastia
 chinesa, os Xià, parece ter sido confirmada pela escavação de um palácio
 do início da Idade do Bronze em Erlitou. [@fig:erlitou-gongtian;
 @fig:erlitou-diorama]
-
-Paradoxalmente, começam a ser descobertos artefatos que passam a validar de forma paulatina as crônicas históricas mais antigas, sobretudo, na região da China central. Trata-se de objetos em bronze, que indicam a existência de estados centralizados e a articulação de uma certa congruência política em diferentes grupos de poder, ainda que não correspondessem a um estado totalmente unificado. Desse modo, a existência factual de uma continuidade política é reforçada, o que validaria em alguma medida as crônicas tradicionais chinesas sob a perceptiva de Fletcher e a busca por uma estabilidade política e, inclusive, arquitetônica (estilística e visual).  
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/26/二里头一号宫殿平面图_zh_hant.png" data-background-size="646px 548px"}
@@ -118,13 +159,26 @@ Paradoxalmente, começam a ser descobertos artefatos que passam a validar de for
 
 ![Reconstituição do palácio I em Erlitou, Museu de Erlitou](https://i.pinimg.com/originals/f1/ee/d9/f1eed9ee99d3fe09099b116de0234eee.jpg){#fig:erlitou-diorama}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Paradoxalmente, começam a ser descobertos artefatos que passam a validar
+de forma paulatina as crônicas históricas mais antigas, sobretudo, na
+região da China central. Trata-se de objetos em bronze, que indicam a
+existência de estados centralizados e a articulação de uma certa
+congruência política em diferentes grupos de poder, ainda que não
+correspondessem a um estado totalmente unificado. Desse modo, a
+existência factual de uma continuidade política é reforçada, o que
+validaria em alguma medida as crônicas tradicionais chinesas sob a
+perspectiva de Fletcher e a busca por uma estabilidade política e,
+inclusive, arquitetônica (estilística e visual).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## {data-background-image="https://live.staticflickr.com/4085/5066590459_c2b71733c4_k_d.jpg"}
 
 ![Reconstituição parcial do palácio da dinastia Shang em Yin, c. 1300 a.C. Foto: [Tak.Wing, 2010](https://www.flickr.com/photos/takwing/5066590459/in/album-72157625131585002/)](https://live.staticflickr.com/4085/5066590459_c2b71733c4_k_d.jpg){#fig:yin}
 
 ## Evolução orgânica do estilo ## {data-visibility="hidden"}
 
-##
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/2560px-Louvre_Museum_Wikimedia_Commons.jpg"}
 
 ![Ieoh Ming Pei, arquiteto, pirâmide do Louvre, Paris, 1984--1989. Foto: [Benh Lieu Song, 2010](https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1280px-Louvre_Museum_Wikimedia_Commons.jpg){#fig:louvre .full}
 
@@ -146,7 +200,18 @@ foi impulsionado por uma geração de arquitetos chineses que estudaram
 nos Estados Unidos na primeira metade do século [XX]{.smallcaps} --- um
 deles foi Ieoh Ming Pei, famoso pela pirâmide do Louvre ([@fig:louvre]).
 
-Esse questionamento da tradição chinesa como arcabouço explicativo será evidenciado nos estudos históricos e constituirá uma reforma mais ampla de sua cultura na metade do século XX. Isso ocorrerá principalmente no domínio da arquitetura, por meio de uma geração de arquitetos chineses que vai estudar nos Estados Unidos. Como exemplos estão Ieoh Ming Pei, com suas pirâmides do Louvre, e o casal Lin Huiyin e Liang Sicheng os principais pesquisadores da arquitetura tradicional chinesa no século XX, que irão apresentá-la sob as lentes da metodologia ocidental. Lin e Liang destacam a natureza orgânica dessa arquitetura, ou seja, o fato de não se tratar de uma entidade estática no tempo à semelhança de um ser vivo, percebendo também transformações construtivas, que não haviam sido notadas pelos europeus. 
+Esse questionamento da tradição chinesa como arcabouço explicativo será
+evidenciado nos estudos históricos e constituirá uma reforma mais ampla
+de sua cultura na metade do século [XX]{.smallcaps}. Isso ocorrerá
+principalmente no domínio da arquitetura, por meio de uma geração de
+arquitetos chineses que vai estudar nos Estados Unidos. Como exemplos
+estão Ieoh Ming Pei, com suas pirâmides do Louvre, e o casal Lin Huiyin
+e Liang Sicheng os principais pesquisadores da arquitetura tradicional
+chinesa no século [XX]{.smallcaps}, que irão apresentá-la sob as lentes
+da metodologia ocidental. Lin e Liang destacam a natureza orgânica dessa
+arquitetura, ou seja, o fato de não se tratar de uma entidade estática
+no tempo, mas evoluir à semelhança de um ser vivo, percebendo também
+transformações construtivas, que não haviam sido notadas pelos europeus.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg"}
@@ -208,39 +273,109 @@ intenção dizendo com todas as letras:
 > sinais de velhice, fraqueza e rigidez, a partir do início da dinastia
 > Ming (século [XV]{.smallcaps}). [@liang:1984pictorial, 17]
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No início do século XX, praticamente todos os historiadores da arquitetura irão explicar sua história com base nessa analogia orgânica ou biológica, analisando as tradições arquitetônicas como seres vivos individuais que nascem, crescem, envelhecem e morrem. Então, essa visão passa a validar culturalmente a arquitetura chinesa, pois ela funciona da mesma maneira que as intepretações europeias, ainda que não necessitasse realmente dessa espécie de chancela determinista e desenvolvimentista. Trata-se de um argumento colonialista e imperialista dos europeus diante de outras sociedades, que vão descrever como engessadas. Pode ser visto também como uma limitação do próprio olhar sobre a arquitetura europeia, que está muito distante de ser uma simples linha de desenvolvimento e decrepitude, mostrando-se claramente com um meio de argumentação em prol de um arquitetura esteticamente moderna.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Conclusão ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No início do século XX, praticamente todos os historiadores da
+arquitetura irão explicar sua história com base nessa analogia orgânica
+ou biológica, analisando as tradições arquitetônicas como seres vivos
+individuais que nascem, crescem, envelhecem e morrem. Então, essa visão
+passa a validar culturalmente a arquitetura chinesa, pois ela funciona
+da mesma maneira que as interpretações europeias, ainda que não
+necessitasse realmente dessa espécie de chancela determinista e
+desenvolvimentista. Trata-se de um argumento colonialista e imperialista
+dos europeus diante de outras sociedades, que vão descrever como
+engessadas. Pode ser visto também como uma limitação do próprio olhar
+sobre a arquitetura europeia, que está muito distante de ser uma simples
+linha de desenvolvimento e decrepitude, mostrando-se claramente com um
+meio de argumentação em prol de um arquitetura esteticamente moderna.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Querela do ornamento #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Atualmente, o que se tende a estudar da tradição europeia, em uma perspectiva cada vez mais histórica de sua arquitetura, é uma série de ideias e de modos de fazê-la e suas formas de transformação no tempo, sem a necessidade do estabelecimento de um percurso pré-determinado. 
+Atualmente, o que se tende a estudar da tradição europeia, em uma
+perspectiva cada vez mais histórica de sua arquitetura, é uma série de
+ideias e de modos de fazê-la e suas formas de transformação no tempo,
+sem a necessidade do estabelecimento de um percurso pré-determinado. 
 
-Isso conduz o olhar para algumas questões específicas da arquitetura europeia medieval, que oferecem interessantes perspectivas para a compreensão de como se atingiu uma certa cultura arquitetônica moderna. Esta, inclusive, está na origem da cultura arquitetônica brasileira atual, reforçando seu valor para estudo. Tal cultura da arquitetura medieval na Europa interessa também por uma série de soluções tecnológicas e construtivas e por certas ideias e maneiras de organizar a produção arquitetônica surgidas nesse período. Reforça-se ainda que é fundamental abandonar a concepção dessa arquitetura como resultado da morte daquela que foi realizada anteriormente (no período clássico), pois existe uma série de transformações graduais em sua produção. 
+Isso conduz o olhar para algumas questões específicas da arquitetura
+europeia medieval, que oferecem interessantes perspectivas para a
+compreensão de como se atingiu uma certa cultura arquitetônica moderna.
+Esta, inclusive, está na origem da cultura arquitetônica brasileira
+atual, reforçando seu valor para estudo. Tal cultura da arquitetura
+medieval na Europa interessa também por uma série de soluções
+tecnológicas e construtivas e por certas ideias e maneiras de organizar
+a produção arquitetônica surgidas nesse período. Reforça-se ainda que é
+fundamental abandonar a concepção dessa arquitetura como resultado da
+morte daquela que foi realizada anteriormente (no período clássico),
+pois existe uma série de transformações graduais em sua produção. 
 
-Um exemplo disso é mudança das chamadas “basílicas”, que podem ser enquadradas na tipologia das tabernas de Westfall. Trata-se de uma forma essencialmente voltada para o bem-estar econômico da sociedade, que pode abrigar um mercado ou edifício administrativo cotidiano da cidade (como os pórticos gregos), funcionando quase que como um diagrama. Esse conceito de pórtico grego vai dar origem ou relacionar-se a um tipo similar, que é o da basílica romana. Nos fóruns do Império Romano, por exemplo, haverá configurações muito semelhantes a uma grande taberna, que abriga um espaçoso pórtico de mercado de um lado e, do outro, um edifício alongado com colunas internas. Esse último é a basílica destinada à reunião de público em aglomerações organizadas ou não, mas em uma perspectiva muito distante da visão funcionalista moderna. Ela funcionaria como uma espécie de centro de convenções contemporâneo, mas que não depende da colocação ou retirada de divisórias e mobiliários para ser utilizada de diferentes maneiras. A associação da basílica com a taberna vai se tornar uma espécie de padrão no mundo romano, através da confirmação desse grande salão de congregação com espaços comerciais, a exemplo da Basílica Úlpia no Fórum de Trajano, formando um complexo de vários edifícios polivalentes. 
+Um exemplo disso é mudança das chamadas "basílicas", que podem ser
+enquadradas na tipologia das tabernas de Westfall. Trata-se de uma forma
+essencialmente voltada para o bem-estar econômico da sociedade, que pode
+abrigar um mercado ou edifício administrativo cotidiano da cidade (como
+os pórticos gregos), funcionando quase que como um diagrama. Esse
+conceito de pórtico grego vai dar origem ou relacionar-se a um tipo
+similar, que é o da basílica romana. Nos fóruns do Império Romano, por
+exemplo, haverá configurações muito semelhantes a uma grande taberna,
+que abriga um espaçoso pórtico de mercado de um lado e, do outro, um
+edifício alongado com colunas internas. Esse último é a basílica
+destinada à reunião de público em aglomerações organizadas ou não, mas
+em uma perspectiva muito distante da visão funcionalista moderna. Ela
+funcionaria como uma espécie de centro de convenções contemporâneo, mas
+que não depende da colocação ou retirada de divisórias e mobiliários
+para ser utilizada de diferentes maneiras. A associação da basílica com
+a taberna vai se tornar uma espécie de padrão no mundo romano, através
+da confirmação desse grande salão de congregação com espaços comerciais,
+a exemplo da Basílica Ulpia no Fórum de Trajano, formando um complexo de
+vários edifícios polivalentes. 
 
-A partir do século IV, esse propósito social da basílica começa a se transformar. Assim, um edifício como esse vai se tornar um tipo de salão do trono no período do imperador Constantino, por exemplo, quando este começa a ser visto como uma semi-divindade com autoridade absoluta. Desse modo, o que era um espaço de congregação livre, passa a ter um propósito único: estar na presença do imperador. A partir daí, sua forma vai ser cooptada pela arquitetura cristã, pois suas funções de reunir pessoas e ter uma destinação singular tornam-na ideal para seu culto. Ainda que a prática religiosa cristã seja diferente da romana tradicional, alguns de seus templos serão convertidos em igrejas, sendo a basílica sua forma preferencial. 
+A partir do século [IV]{.smallcaps}, esse propósito social da basílica
+começa a se transformar. Assim, um edifício como esse vai se tornar um
+tipo de salão do trono no período do imperador Constantino, por exemplo,
+quando este começa a ser visto como uma semi-divindade com autoridade
+absoluta. Desse modo, o que era um espaço de congregação livre, passa a
+ter um propósito único: estar na presença do imperador. A partir daí,
+sua forma vai ser cooptada pela arquitetura cristã, pois suas funções de
+reunir pessoas e ter uma destinação singular tornam-na ideal para seu
+culto. Ainda que a prática religiosa cristã seja diferente da romana
+tradicional, alguns de seus templos serão convertidos em igrejas, sendo
+a basílica sua forma preferencial. 
 
-Desse modo, encontra-se uma configuração relativamente padrão nesse grande salão com colunatas e um espaço central mais alto, que vai se transformar na sua axialidade, passando a ser acessado pelo lado mais curto e a ter uma perspectiva dominante voltada para o santuário ou altar. Essa forma vai acabar desdobrando-se em edificações mais sumárias e simples, que vão acompanhar a difusão do Cristianismo em todas as comunidades da Europa medieval, inclusive rurais. 
+Desse modo, encontra-se uma configuração relativamente padrão nesse
+grande salão com colunatas e um espaço central mais alto, que vai se
+transformar na sua axialidade, passando a ser acessado pelo lado mais
+curto e a ter uma perspectiva dominante voltada para o santuário ou
+altar. Essa forma vai acabar desdobrando-se em edificações mais sumárias
+e simples, que vão acompanhar a difusão do cristianismo em todas as
+comunidades da Europa medieval, inclusive rurais. 
 
-Destaca-se que esse não é um processo guiado por um objetivo histórico de desenvolvimento das soluções construtivas ou de uma certa funcionalidade, reforçando-se também que ele não irá implicar em transformações súbitas na configuração arquitetônica. Sua função muda rapidamente, mas sua forma vai se transformando muito lentamente. Ressalta-se ainda que existirão elementos remanescentes nesse ínterim, como a configuração da basílica com três naves (uma central mais alta e as laterais mais baixas), o uso eventual de abóbadas e a adoção de soluções arquitetônicas e construtivas romanas clássicas, que vão se transformando paulatinamente, conforme mudanças de gosto e localização geográfica. 
+Destaca-se que esse não é um processo guiado por um objetivo histórico
+de desenvolvimento das soluções construtivas ou de uma certa
+funcionalidade, reforçando-se também que ele não irá implicar em
+transformações súbitas na configuração arquitetônica. Sua função muda
+rapidamente, mas sua forma vai se transformando muito lentamente.
+Ressalta-se ainda que existirão elementos remanescentes nesse ínterim,
+como a configuração da basílica com três naves (uma central mais alta e
+as laterais mais baixas), o uso eventual de abóbadas e a adoção de
+soluções arquitetônicas e construtivas romanas clássicas, que vão se
+transformando paulatinamente, conforme mudanças de gosto e localização
+geográfica. 
 
-Nas proximidades da Península Ibérica, na Igreja da abadia francesa de Dant Miquel de Cuixà, por exemplo, mantém-se uma lógica muito elementar da basílica com três naves, arcadas e colunas romanas, com uma construção quase inteiramente feita em pedra (cantaria e aparelhada). 
+Nas proximidades da península Ibérica, na igreja da abadia de Sant
+Miquel de Cuixà, por exemplo, mantém-se uma lógica muito elementar da
+basílica com três naves, arcadas e colunas romanas, com uma construção
+quase inteiramente feita em pedra (cantaria e aparelhada). 
 
-O mesmo processo é observado na arquitetura residencial, que também vai se transformando a partir do modelo da casa ou da fazenda romanas para atingir soluções como a “casa salão” (Europa Ocidental) e a “cada geminada” (na Península Ibérica e na Itália, principalmente).
+O mesmo processo é observado na arquitetura residencial, que também vai
+se transformando a partir do modelo da casa ou da fazenda romanas para
+atingir soluções como a casa salão (Europa do norte) e a casa geminada
+(na Europa ocidental mediterrânea).
 
-Essas transformações não dizem respeito ao fim da arquitetura clássica, sendo necessário criar algo para substituí-la, mas sim a um processo que vai se desenrolando gradualmente sem grande intencionalidade. 
-
-Entretanto, no século XII, começam a surgir algumas mudanças importantes, com destaque para a afirmação de uma intenção arquitetônica, principalmente, nos projetos de igrejas. Alguns abades e monges importantes começam a escrever sobre essa temática, como Bernardo de Claraval e Pedro, o venerável (abade de Cluny, na França, uma igreja muito rica e com o interior bastante decorado). Já Bernardo de Claraval irá fundar a igreja da Abadia de Fontenay (na Borgonha, França), que conta com uma arquitetura extremamente despojada e simplificada. O abade argumentava que a ornamentação excessiva era ruim, pois chamava a atenção para a riqueza material da igreja e distraia os monges de sua devoção. Em contrapartida, Pedro, o venerável rebateu essa argumentação, gerando uma disputa estética e teológica e criando uma discussão pioneira de como a arquitetura deveria ser feita. Assim, a própria Igreja abre esse debate sobre a necessidade ou não da ornamentação e sobre o que é mais importante na arquitetura: a decoração, o espaço, a estrutura ou os volumes.
-
-Ressalta-se, nesse ponto, que Vitrúvio falava sobre o que o arquiteto precisava saber, possivelmente em uma forma singular de concepção arquitetônica, e não a forma correta de se fazer arquitetura, que agora se abre a múltiplas possibilidades, não havendo registros de debates semelhantes em outras culturas tradicionais. 
-
-A partir do questionamento sobre o que se quer da arquitetura, surge uma tradição que irá se irradiar principalmente da região de Paris (capital da França), através de abadia real de São Dionísio ou Saint-Denis (patrocinada pela coroa francesa). Seu abade, Suger, apresenta várias inclinações arquitetônicas e literárias, sendo contemporâneo de Bernardo de Claraval. Por conseguinte, também entra no debate sobre o ornamento, tentando resolvê-lo de uma forma muito interessante para o desenvolvimento da arquitetura daí em diante. Argumenta que seria necessário reduzir a quantidade de ornamentação física na igreja, pois esculturas, pinturas, etc. são elementos materiais que prendem o espírito a tudo o que é terreno. Porém, isso não se aplica ao vidro, pois ele transmite uma imagem por meio da luz, que é divina, tornando esse artifício imune ou presente em um plano superior aos ornamentos pintados ou esculpidos. 
-
-Ressalta-se que, essa forma de pensamento só é possível, pois os franceses haviam desenvolvido uma tecnologia para construir grandes vitrais (janelas de vidro colorido) nesse período. Utilizavam uma caixilharia feita de chumbo para segurar os vidros, que oferecia uma estrutura suficientemente flexível para evitar rachaduras, mesmo em grandes extensões. Outro fator que contribuiu para o processo foi o desenvolvimento de uma tecnologia, que permitia a construção de janelas mais amplas nas paredes. Destaca-se, por fim, que tais desenvolvimentos técnicos poderiam até parecer neutros, mas também foram muito utilizados do ponto de vista ideológico. 
+Essas transformações não dizem respeito ao fim da arquitetura clássica,
+sendo necessário criar algo para substituí-la, mas sim a um processo que
+vai se desenrolando gradualmente sem grande intencionalidade. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg"}
@@ -248,7 +383,22 @@ Ressalta-se que, essa forma de pensamento só é possível, pois os franceses ha
 ![Abadia de Cluny, estágio III, século [XII]{.smallcaps}. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/cluny/) baseada em Kenneth J. Conant](https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg){#fig:cluny}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[@rudolph:1988bernard27]
+Entretanto, no século [XII]{.smallcaps}, começam a surgir algumas
+mudanças importantes, com destaque para a afirmação de uma intenção
+arquitetônica, principalmente, nos projetos de igrejas. Alguns abades e
+monges importantes começam a escrever sobre essa temática, como Bernardo
+de Claraval e Pedro, o venerável (abade de Cluny, na França, uma igreja
+muito rica e com o interior bastante decorado). Já Bernardo de Claraval
+irá fundar a igreja da Abadia de Fontenay (na Borgonha, França), que
+conta com uma arquitetura extremamente despojada e simplificada
+[@rudolph:1988bernard27]. O abade argumentava que a ornamentação
+excessiva era ruim, pois chamava a atenção para a riqueza material da
+igreja e distraia os monges de sua devoção. Em contrapartida, Pedro, o
+venerável rebateu essa argumentação, gerando uma disputa estética e
+teológica e criando uma discussão pioneira de como a arquitetura deveria
+ser feita. Assim, a própria Igreja abre esse debate sobre a necessidade
+ou não da ornamentação e sobre o que é mais importante na arquitetura: a
+decoração, o espaço, a estrutura ou os volumes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg"}
@@ -264,6 +414,40 @@ Ressalta-se que, essa forma de pensamento só é possível, pois os franceses ha
 ![Abadia de S. Dionísio (Saint-Denis), igreja concebida pelo abade Suger e construída 1122--1151. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/saint-denis/)](https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg){#fig:sdenis-golvin}
 
 ## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ressalta-se, nesse ponto, que Vitrúvio falava sobre o que o arquiteto
+precisava saber, possivelmente em uma forma singular de concepção
+arquitetônica, e não a forma correta de se fazer arquitetura, que agora
+se abre a múltiplas possibilidades, não havendo registros de debates
+semelhantes em outras culturas tradicionais. 
+
+A partir do questionamento sobre o que se quer da arquitetura, surge uma
+tradição que irá se irradiar principalmente da região de Paris (capital
+da França), através de abadia real de São Dionísio ou Saint-Denis
+(patrocinada pela coroa francesa). Seu abade, Suger, apresenta várias
+inclinações arquitetônicas e literárias, sendo contemporâneo de Bernardo
+de Claraval. Por conseguinte, também entra no debate sobre o ornamento,
+tentando resolvê-lo de uma forma muito interessante para o
+desenvolvimento da arquitetura daí em diante. Argumenta que seria
+necessário reduzir a quantidade de ornamentação física na igreja, pois
+esculturas, pinturas, etc. são elementos materiais que prendem o
+espírito a tudo o que é terreno. Porém, isso não se aplica ao vidro,
+pois ele transmite uma imagem por meio da luz, que é divina, tornando
+esse artifício imune ou presente em um plano superior aos ornamentos
+pintados ou esculpidos. 
+
+Ressalta-se que, essa forma de pensamento só é possível, pois os
+franceses haviam desenvolvido uma tecnologia para construir grandes
+vitrais (janelas de vidro colorido) nesse período. Utilizavam uma
+caixilharia feita de chumbo para segurar os vidros, que oferecia uma
+estrutura suficientemente flexível para evitar rachaduras, mesmo em
+grandes extensões. Outro fator que contribuiu para o processo foi o
+desenvolvimento de uma tecnologia, que permitia a construção de janelas
+mais amplas nas paredes. Destaca-se, por fim, que tais desenvolvimentos
+técnicos poderiam até parecer neutros, mas também foram muito utilizados
+do ponto de vista ideológico.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Tecnologia e profissão #
 
@@ -299,23 +483,103 @@ Palavras e papéis, lista elaborada por Léonore Losserand:
 - Experimentar
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Observa-se o desenvolvimento da arquitetura gótica, que compõe um pacote relativamente consagrado na literatura. A principal característica das naves de suas igrejas é a presença de imensas janelas preenchidas com vitrais. Assim, quase não se observa mais parede maciça, o que viabiliza o desenvolvimento dessa ornamentação imaterial obtida pela luz projetada através do vidro. A inserção desses grandes painéis de vitral torna-se possível também graças às abóbadas presentes no teto. 
+Observa-se o desenvolvimento da arquitetura gótica, que compõe um pacote
+relativamente consagrado na literatura. A principal característica das
+naves de suas igrejas é a presença de imensas janelas preenchidas com
+vitrais. Assim, quase não se observa mais parede maciça, o que viabiliza
+o desenvolvimento dessa ornamentação imaterial obtida pela luz projetada
+através do vidro. A inserção desses grandes painéis de vitral torna-se
+possível também graças às abóbadas presentes no teto. 
 
-Destaca-se que existem três passos sucessivos para a concepção dessas estruturas: o primeiro diz respeito à substituição da abóbada de berço por uma sequência de abóbada de aresta. Nesse contexto, nota-se que a expertise técnica da execução é puxada para um estágio anterior, o do tomada de decisões sobre a construção, algo que não era tão relevante anteriormente. Assim, o elemento novo está no interesse em trazer a discussão para o que será pedido para os construtores previamente. Isso só é viabilizado pelo fato de que grande parte da expertise das técnicas da construção e de sua tecnologia irá permitir variações formais e de escolhas projetuais/compositivas diferentes. 
+Destaca-se que existem três passos sucessivos para a concepção dessas
+estruturas: o primeiro diz respeito à substituição da abóbada de berço
+por uma sequência de abóbada de aresta. Nesse contexto, nota-se que a
+expertise técnica da execução é puxada para um estágio anterior, o do
+tomada de decisões sobre a construção, algo que não era tão relevante
+anteriormente. Assim, o elemento novo está no interesse em trazer a
+discussão para o que será pedido para os construtores previamente. Isso
+só é viabilizado pelo fato de que grande parte da expertise das técnicas
+da construção e de sua tecnologia irá permitir variações formais e de
+escolhas projetuais/compositivas diferentes. 
 
-Já a possibilidade de abertura quase integral da paredes é permitida por uma grande inovação, que é a nervura, representada por faixas lineares curvas ou arcos transversais e diagonais definidores da forma da abóbada. Ela é responsável por gerar o encontro entre duas dessas abóbadas, sendo construída anteriormente para servir de apoio a elas, o que viabiliza uma distribuição exata e previsível de cargas e sua concentração em apenas um pilar. Assim, possibilita-se a descarrega dessas cargas dos pilares para os contrafortes. Enfim, como parte do desenvolvimento da distribuição de cargas através das nervuras, surgem também os arcobotantes, que são os arcos diagonais e inclinados presentes na estrutura. Eles são a versão externa da nervura, por direcionarem a carga até chegar aos contrafortes, devendo ser arqueados por essa razão, já que o esforço seguirá um percurso curvo (ou parabólico, no caso de um carregamento uniforme). 
+Já a possibilidade de abertura quase integral da paredes é permitida por
+uma grande inovação, que é a nervura, representada por faixas lineares
+curvas ou arcos transversais e diagonais definidores da forma da
+abóbada. Ela é responsável por gerar o encontro entre duas dessas
+abóbadas, sendo construída anteriormente para servir de apoio a elas, o
+que viabiliza uma distribuição exata e previsível de cargas e sua
+concentração em apenas um pilar. Assim, possibilita-se a descarrega
+dessas cargas dos pilares para os contrafortes. Enfim, como parte do
+desenvolvimento da distribuição de cargas através das nervuras, surgem
+também os arcobotantes, que são os arcos diagonais e inclinados
+presentes na estrutura. Eles são a versão externa da nervura, por
+direcionarem a carga até chegar aos contrafortes, devendo ser arqueados
+por essa razão, já que o esforço seguirá um percurso curvo (ou
+parabólico, no caso de um carregamento uniforme). 
 
-Nesse período, destaca-se a presença de um forte domínio técnicos dessa distribuição de cargas. E uma consequência disso é a consciência de que a parte de baixo do contraforte (seu miolo) não tem papel estrutural significativo, pois necessita apenas levar a carga pela sua parte superior até que ela esteja suficientemente inclinada para chegar ao chão, através dos contrafortes do meio e da extremidade. Esses fatos demonstram que os construtores desse período não trabalhavam apenas com base em conhecimentos empíricos e tradicionais. Eles também podiam definir a resolução de forças na estrutura, mesmo sem saber ainda exatamente como funcionavam. Tudo isso é resultado de um longo processo de aprimoramento tecnológico, que dava suporte aos debates ideológicos sobre ornamentação observados naquele momento. Assim, essa pode ser considerada a origem da interação entre discussões teóricas e possibilidades tecnológicas, originando soluções construtivas relativamente abstratas, que podiam ser manipuladas variadamente e resultariam no surgimento da arquitetura gótica. 
+Nesse período, destaca-se a presença de um forte domínio técnicos dessa
+distribuição de cargas. E uma consequência disso é a consciência de que
+a parte de baixo do contraforte (seu miolo) não tem papel estrutural
+significativo, pois necessita apenas levar a carga pela sua parte
+superior até que ela esteja suficientemente inclinada para chegar ao
+chão, através dos contrafortes do meio e da extremidade. Esses fatos
+demonstram que os construtores desse período não trabalhavam apenas com
+base em conhecimentos empíricos e tradicionais. Eles também podiam
+definir a resolução de forças na estrutura, mesmo sem saber ainda
+exatamente como funcionavam. Tudo isso é resultado de um longo processo
+de aprimoramento tecnológico, que dava suporte aos debates ideológicos
+sobre ornamentação observados naquele momento. Assim, essa pode ser
+considerada a origem da interação entre discussões teóricas e
+possibilidades tecnológicas, originando soluções construtivas
+relativamente abstratas, que podiam ser manipuladas variadamente e
+resultariam no surgimento da arquitetura gótica. 
 
-O chamado estilo gótico é, então, a interação entre as possibilidades tecnológicas da construção na Europa do século XII e os interesses ideológicos, teóricos e estéticos daqueles que estavam encomendando e consumindo tais construções, segundo Erwin Panofsky. 
+O chamado estilo gótico é, então, a interação entre as possibilidades
+tecnológicas da construção na Europa do século [XII]{.smallcaps} e os
+interesses ideológicos, teóricos e estéticos daqueles que estavam
+encomendando e consumindo tais construções, segundo Erwin Panofsky. 
 
-Em contraposição, analisa-se a Catedral de Veneza, um edifício construído em um período próximo e que apresenta pouquíssimas aberturas se comparado às catedrais góticas. Isso ocorre, pois o debate sobre o uso da luz como ornamentação não estava acontecendo na Itália, ainda que a referida construção apresente alguns elementos góticos. Portanto, trata-se de um problema francês, que gera um solução estética que vai se difundir para outras regiões da Europa posteriormente.
+Em contraposição, analisa-se a Catedral de Veneza, um edifício
+construído em um período próximo e que apresenta pouquíssimas aberturas
+se comparado às catedrais góticas. Isso ocorre, pois o debate sobre o
+uso da luz como ornamentação não estava acontecendo na Itália, ainda que
+a referida construção apresente alguns elementos góticos. Portanto,
+trata-se de um problema francês, que gera um solução estética que vai se
+difundir para outras regiões da Europa posteriormente.
 
-Esse processo irá deixar um legado, que será crucial para os próximos acontecimentos, ou seja, o desenvolvimento de uma teoria da arquitetura argumentativa, que nasce na Igreja e espalha-se para os arquitetos e artistas paulatinamente. Ressalva-se que os estudiosos tendem a considerar que a obra de Vitrúvio não se enquadrava como nessa categoria, pois não discutia o que a arquitetura deveria ser. Ela apenas considerava que seu campo disciplinar era absolutamente límpido, transparente e consolidado ao elencar tudo aquilo que iria compô-lo. 
+Esse processo irá deixar um legado, que será crucial para os próximos
+acontecimentos, ou seja, o desenvolvimento de uma teoria da arquitetura
+argumentativa, que nasce na Igreja e espalha-se para os arquitetos e
+artistas paulatinamente. Ressalva-se que os estudiosos tendem a
+considerar que a obra de Vitrúvio não se enquadrava como nessa
+categoria, pois não discutia o que a arquitetura deveria ser. Ela apenas
+considerava que seu campo disciplinar era absolutamente límpido,
+transparente e consolidado ao elencar tudo aquilo que iria compô-lo. 
 
-O século XV acolhe o ápice desse processo, agora localizado na Itália, através de uma série de personalidades dentre as quais se destaca um indivíduo, que era diácono e arquiteto amador, mas apresentava um expressivo conhecimento teórico e prático, de modo a permitir a integração dessas duas vocações. Trata-se de Leon Batista Alberti, o primeiro teórico da arquitetura que escreve um tratado discutindo qual seria a maneira correta de se pensar sobre arquitetura, inserindo-se no que seria futuramente chamada de arquitetura do Renascimento italiano. Ele representa a consolidação de tudo o que será desenvolvido na arquitetura medieval, com uma atenção mais estrita aos princípios formais da arquitetura clássica. Tem-se, então, essa panorama teórico e crítico que vai caracterizar marcantemente a arquitetura europeia da Idade Moderna e, por extensão, o que será a produção arquitetônica das colônias europeias nesse período, inclusive o Brasil. 
+O século [XV]{.smallcaps} acolhe o ápice desse processo, agora
+localizado na Itália, através de uma série de personalidades dentre as
+quais se destaca um indivíduo, que era diácono e arquiteto amador, mas
+apresentava um expressivo conhecimento teórico e prático, de modo a
+permitir a integração dessas duas vocações. Trata-se de Leon Batista
+Alberti, o primeiro teórico da arquitetura que escreve um tratado
+discutindo qual seria a maneira correta de se pensar sobre arquitetura,
+inserindo-se no que seria futuramente chamada de arquitetura do
+Renascimento italiano. Ele representa a consolidação de tudo o que será
+desenvolvido na arquitetura medieval, com uma atenção mais estrita aos
+princípios formais da arquitetura clássica. Tem-se, então, essa panorama
+teórico e crítico que vai caracterizar marcantemente a arquitetura
+europeia da Idade Moderna e, por extensão, o que será a produção
+arquitetônica das colônias europeias nesse período, inclusive o Brasil. 
 
-Portanto, a interação entre o trabalho técnico de erigir um edifício e o intelectual de pensar como ele deveria ser resolvido vai ser uma característica presente em todas as discussões de obras construídas no mundo culturalmente europeu na Idade Moderna. Aparece de diferentes formas, por exemplo: na Itália e na França surgirão grandes argumentações teóricas muito concentradas nos princípios fundamentais e regras da arquitetura de qualidade, desdobrando-se em questões relativas à organização ideal do trabalho em contextos diversos (quem faz o que no canteiro de obras).   
+Portanto, a interação entre o trabalho técnico de erigir um edifício e o
+intelectual de pensar como ele deveria ser resolvido vai ser uma
+característica presente em todas as discussões de obras construídas no
+mundo culturalmente europeu na Idade Moderna. Aparece de diferentes
+formas, por exemplo: na Itália e na França surgirão grandes
+argumentações teóricas muito concentradas nos princípios fundamentais e
+regras da arquitetura de qualidade, desdobrando-se em questões relativas
+à organização ideal do trabalho em contextos diversos (quem faz o que no
+canteiro de obras).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Planejamento e preparação ## {data-visibility="hidden"}
@@ -349,7 +613,21 @@ dizer que o desenho de um projeto pode ser um vínculo legal entre o
 arquiteto e o cliente, ou entre o arquiteto e os pedreiros
 [@branner:1960villard19; @branner:1958drawings17].
 
-Uma das questões centrais presentes nesse debate é a importância do desenho, que não se restringia a detalhes construtivos para a obra como observado até então (sem qualquer função documental ou de registro formal). Mas com o fortalecimento da discussão sobre o que deve ser feito na arquitetura, o desenho ganha relevância para comunicar a intenção do que deve ser construído, para registrar a aprovação do cliente à solução arquitetônica proposta e para guiar a execução da obra ou contratualizar uma certa demanda, ainda que não se chegue às minúcias dos atuais projetos executivos. O conhecimento técnico se volta, então, para a adequada e segura execução do edifício e para as etapas de sua elaboração (que vão se tornando cada vez mais formalizadas), juntamente com o estabelecimento do desenho como principal instrumento da obra arquitetônica. Assim, o arquiteto passa a ser o sinônimo do profissional que faz esse desenho, tornando seu papel cada vez mais de planejamento da construção, tanto em seu processo executivo, quanto na sua aparência.
+Uma das questões centrais presentes nesse debate é a importância do
+desenho, que não se restringia a detalhes construtivos para a obra como
+observado até então (sem qualquer função documental ou de registro
+formal). Mas com o fortalecimento da discussão sobre o que deve ser
+feito na arquitetura, o desenho ganha relevância para comunicar a
+intenção do que deve ser construído, para registrar a aprovação do
+cliente à solução arquitetônica proposta e para guiar a execução da obra
+ou contratualizar uma certa demanda, ainda que não se chegue às minúcias
+dos atuais projetos executivos. O conhecimento técnico se volta, então,
+para a adequada e segura execução do edifício e para as etapas de sua
+elaboração (que vão se tornando cada vez mais formalizadas), juntamente
+com o estabelecimento do desenho como principal instrumento da obra
+arquitetônica. Assim, o arquiteto passa a ser o sinônimo do profissional
+que faz esse desenho, tornando seu papel cada vez mais de planejamento
+da construção, tanto em seu processo executivo, quanto na sua aparência.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Projeto para a fachada da catedral de Estrasburgo, c. 1260. [Museu da obra da catedral de Estrasburgo](http://blog.metmuseum.org/penandparchment/exhibition-images/cat380r2_49f/)](https://i.pinimg.com/originals/29/21/e0/2921e0a5cddcb9c87574995c48c9402a.jpg){#fig:strasbourg}
