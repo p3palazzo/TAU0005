@@ -35,9 +35,9 @@ estruturais muito semelhantes.
 
 ## De volta à madeira ## {data-visibility="hidden"}
 
-## {data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left"}
+## {data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="right"}
 
-![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .align-right}
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .align-right .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Voltemos às teorias da cabana primitiva. Vitrúvio, Laugier e Semper
@@ -59,13 +59,13 @@ habitação contemporânea do povo karib, exibida na exposição universal de
 Londres em 1851 ([@fig:karib]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cabana do povo karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line .align-right}
+![Cabana do povo karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line .align-right .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg" data-background-position="top"}
 
 <!--_,-->
 
-![Piero di Cosimo, Vulcano e Éolo, c. 1490, têmpera e óleo sobre tela. [National Gallery of Canada ](https://commons.wikimedia.org/wiki/File:Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg) ](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg/1072px-Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg){#fig:cosimo-vulcan}
+![Piero di Cosimo, Vulcano e Éolo, c. 1490, têmpera e óleo sobre tela. [National Gallery of Canada ](https://commons.wikimedia.org/wiki/File:Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg) ](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg/1072px-Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg){#fig:cosimo-vulcan .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A teoria de Semper se baseava em grande parte na alegoria das origens da
@@ -91,11 +91,11 @@ de uma eficiência e simplicidade insuperável para a maioria das
 construções.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Estrutura em madeira numa casa norte-americana moderna](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-wooden-frame-of-a-house-20941-medium.mp4){#fig:frame}
+![Estrutura em madeira numa casa norte-americana moderna](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-wooden-frame-of-a-house-20941-medium.mp4){#fig:frame .slide-bg}
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-storm-water-running-down-a-roof-21212-medium.mp4"}
 
-![Água da chuva correndo na superfície de um telhado](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-storm-water-running-down-a-roof-21212-medium.mp4){#fig:chuva}
+![Água da chuva correndo na superfície de um telhado](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-storm-water-running-down-a-roof-21212-medium.mp4){#fig:chuva .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A função de uma cobertura é, à primeira vista, simples: ela precisa
@@ -107,7 +107,7 @@ paredes e das fundações do edifício ([@fig:beiral]).
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-cabin-on-rainy-day-2738.mp4"}
 
-![Beiral de uma casa moderna](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-cabin-on-rainy-day-2738.mp4){#fig:beiral}
+![Beiral de uma casa moderna](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-cabin-on-rainy-day-2738.mp4){#fig:beiral .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma precisa da cobertura e outras medidas para o seu desempenho vão
@@ -127,11 +127,11 @@ frechais das paredes e, eventualmente, também sobre vigas
 intermediárias ([@fig:catalhoyuk-build]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
+![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/2560px-Roof_parts_simplified.svg.png" data-background-size="contain"}
 
-![Elementos da cobertura. 1 -- viga de cumeeira, 2 -- terças, 3 -- caibros. Desenho: [George Ponderevo, 2012]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/1500px-Roof_parts_simplified.svg.png){#fig:timber-roof .nobg}
+![Elementos da cobertura. 1 -- viga de cumeeira, 2 -- terças, 3 -- caibros. Desenho: [George Ponderevo, 2012]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/1500px-Roof_parts_simplified.svg.png){#fig:timber-roof .nobg .slide-bg}
 
 [George Ponderevo, 2012]: https://commons.wikimedia.org/wiki/File:Roof_parts_simplified.svg
 
@@ -160,8 +160,6 @@ sobreposta.
 
 ## {data-background-image="https://i.pinimg.com/originals/e1/b2/2e/e1b22ee08a42bbb67b121838be2b8e87.jpg" data-background-size="contain"}
 
-![Esquema de uma cobertura inclinada moderna. Modelo: Castorama.fr](https://i.pinimg.com/originals/e1/b2/2e/e1b22ee08a42bbb67b121838be2b8e87.jpg){#fig:shed}
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma mais simples de cobertura inclinada sobre uma planta retangular
 consiste em fazer um frechal mais elevado de um lado, e rebaixado do
@@ -169,9 +167,11 @@ lado oposto. Os barrotes ficam, então, inclinados, e nessa forma passam
 a ser chamados de *caibros* ([@fig:shed]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Esquema de uma cobertura inclinada moderna. Modelo: Castorama.fr](https://i.pinimg.com/originals/e1/b2/2e/e1b22ee08a42bbb67b121838be2b8e87.jpg){#fig:shed .slide-bg}
+
 ## {data-background-image="https://i.pinimg.com/originals/43/f9/9a/43f99ae9ce5679b28c914c4446a7e78a.png" data-background-position="top"}
 
-![Conexão de caibros com vigas, segundo Ednie, *Carpentry and Joinery*, 1925](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rafter_and_tie-beam_joints_(Carpentry_and_Joinery,_1925).jpg/517px-Rafter_and_tie-beam_joints_(Carpentry_and_Joinery,_1925).jpg){#fig:rafter-join .align-right}
+![Conexão de caibros com vigas, segundo Ednie, *Carpentry and Joinery*, 1925](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rafter_and_tie-beam_joints_(Carpentry_and_Joinery,_1925).jpg/517px-Rafter_and_tie-beam_joints_(Carpentry_and_Joinery,_1925).jpg){#fig:rafter-join .align-right .slide-bg}
 
 <!--_,-->
 
@@ -201,7 +201,7 @@ superfície de contato bastante grande e uma boa solidez). Três grandes
 tradições mundiais de carpintaria são: Ásia oriental (China e Japão),
 norte da Europa e bacia amazônica, com caraterísticas muito diferentes
 entre si, sendo as duas últimas marcadas pelo uso de madeiras de boa
-qualidade (“de lei”, mais resistentes e que não racham ou deformam-se
+qualidade ("de lei", mais resistentes e que não racham ou deformam-se
 demais, o que não demanda juntas tão complexas e delicadas como as
 observadas na Ásia).
 
@@ -222,7 +222,7 @@ mais macias do que as usadas na Europa ou na Ásia continental
 Juntas comuns na carpintaria japonesa, segundo Heino Engel, 1985
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## {data-background-image="https://media.gettyimages.com/illustrations/cross-section-illustration-of-early-wooden-circular-house-with-roof-illustration-id125176581?s=2048x2048" data-background-position="top"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na maioria das construções, geralmente não convém fazer a
@@ -231,23 +231,19 @@ entre as paredes acabaria por ser muito grande, seja porque a água
 escorrendo por uma distância muito longa tem mais chance de se infiltrar
 por algum defeito na construção, seja ainda porque o beiral do lado alto
 não é tão eficaz para proteger a parede.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://media.gettyimages.com/illustrations/cross-section-illustration-of-early-wooden-circular-house-with-roof-illustration-id125176581?s=2048x2048" data-background-position="top"}
-
-::::::::::::::::::::::::::::::::::::::: {#fig:banpo-cut .iframe-wrapper}
-<iframe src="//embed.gettyimages.com/embed/125176581?et=xATBWGLCSo9h2yL5ULImrw&tld=pt&sig=hCxsx9wsrb_BW8d5zZ8klq6o4qE3Ecbr1ZOxxxhgBdU=&caption=true&ver=1" scrolling="no" frameborder="0"></iframe>
-
-Diagrama de uma casa neolítica com planta circular e cobertura cônica, Banpö, noroeste da China. © [Dorling Kindersley](http://www.gettyimages.pt/detail/125176581)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As cabanas de planta circular, comuns a muitas tradições construtivas
 antigas, pedem uma cobertura em forma de cone. Essa cobertura geralmente
 pede uma série de caibros amarrados entre si no topo e fixados aos
 frechais na outra extremidade. Essa era a configuração provável das
 cabanas do sítio neolítico de Banpö, na China, por volta de 5 mil anos
 atrás ([@fig:banpo-cut]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::: {#fig:banpo-cut .iframe-wrapper .slide-bg}
+<iframe src="//embed.gettyimages.com/embed/125176581?et=xATBWGLCSo9h2yL5ULImrw&tld=pt&sig=hCxsx9wsrb_BW8d5zZ8klq6o4qE3Ecbr1ZOxxxhgBdU=&caption=true&ver=1" scrolling="no" frameborder="0"></iframe>
+
+Diagrama de uma casa neolítica com planta circular e cobertura cônica, Banpö, noroeste da China. © [Dorling Kindersley](http://www.gettyimages.pt/detail/125176581)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/1d/f8/08/1df808d1d44491ae22b8e0a652bb0337.png" data-background-position="top"}
@@ -258,7 +254,7 @@ Cada parte da cobertura que drena para um lado diferente é chamada de
 isoladas tem duas ou quatro águas ([@fig:sienicki]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Construção arruinada na Europa central com cobertura de duas águas. Foto: [Tomasz Sienicki, 2009]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wooden_roof_structure,_132,_ubt.JPG/1024px-Wooden_roof_structure,_132,_ubt.JPG){#fig:sienicki}
+![Construção arruinada na Europa central com cobertura de duas águas. Foto: [Tomasz Sienicki, 2009]](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wooden_roof_structure,_132,_ubt.JPG/1024px-Wooden_roof_structure,_132,_ubt.JPG){#fig:sienicki .slide-bg}
 
 [Tomasz Sienicki, 2009]: https://commons.wikimedia.org/wiki/File:Wooden_roof_structure,_132,_ubt.JPG
 
@@ -270,7 +266,7 @@ isoladas tem duas ou quatro águas ([@fig:sienicki]).
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-040.2.png" data-background-size="contain"}
 
-![Esquema de uma cobertura de casa tradicional japonesa, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-040.2.png){#fig:engel2020-040.2 .line .full}
+![Esquema de uma cobertura de casa tradicional japonesa, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-040.2.png){#fig:engel2020-040.2 .line .full .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma mais direta de sustentação de uma cobertura consiste em apoiar
@@ -290,11 +286,11 @@ Pode haver variações nessas combinações, como no caso japonês em que se
 cruzam os caibros para conferir maior rigidez à estrutura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Coberturas do Japão arcaico, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-088.1.png){#fig:engel1985-088 .line}
+![Coberturas do Japão arcaico, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-088.1.png){#fig:engel1985-088 .line .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg/2560px-Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg"}
 
-![Celeiros no sítio arqueológico de Yoshinogari, sudoeste do Japão, século [III]{.smallcaps} a.C., em reconstituição de finais do século [XX]{.smallcaps}. Foto: [Soramimi, 2017]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg/1024px-Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg){#fig:yoshinogari}
+![Celeiros no sítio arqueológico de Yoshinogari, sudoeste do Japão, século [III]{.smallcaps} a.C., em reconstituição de finais do século [XX]{.smallcaps}. Foto: [Soramimi, 2017]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg/1024px-Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg){#fig:yoshinogari .slide-bg}
 
 [Soramimi, 2017]: https://commons.wikimedia.org/wiki/File:Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg
 
@@ -328,11 +324,11 @@ recíproco ao rincão é o *espigão*, o ângulo convexo que serve como
 divisor de águas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta de cobertura excessivamente complexa devido a uma planta baixa muito rebuscada](https://i.pinimg.com/originals/34/b3/1c/34b31c5701695e5c5c0354cf8457eb76.jpg){#fig:complicated}
+![Planta de cobertura excessivamente complexa devido a uma planta baixa muito rebuscada](https://i.pinimg.com/originals/34/b3/1c/34b31c5701695e5c5c0354cf8457eb76.jpg){#fig:complicated .slide-bg}
 
-## {data-background-image="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-drone-flying-over-remote-houses-8168-medium.mp4" data-background-video-muted="true"}
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-drone-flying-over-remote-houses-8168-medium.mp4" data-background-video-muted="true"}
 
-![Casas rurais com coberturas simples de duas e quatro águas](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-drone-flying-over-remote-houses-8168-medium.mp4){#fig:ville}
+![Casas rurais com coberturas simples de duas e quatro águas](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-drone-flying-over-remote-houses-8168-medium.mp4){#fig:ville .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Pelo contrário, onde a projeção de uma construção for uma forma geométrica
@@ -376,7 +372,7 @@ Ajuste de uma cobertura de quatro águas. Desenho: [Francis Price, 1735]
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-103.3.png" data-background-size="contain"}
 
-![Cobertura japonesa sem empena, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-103.3.png){#fig:engel1985-103.3 .line}
+![Cobertura japonesa sem empena, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-103.3.png){#fig:engel1985-103.3 .line .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A carpintaria tradicional do leste da Ásia, e principalmente a do Japão
@@ -414,7 +410,7 @@ eficiente [@viollet-le-duc:1858dictionnaire]. Esse é o sistema
 estrutural de cobertura mais difundido na Europa. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Tesoura simples. Desenho: [Theodor Böhm, 1911]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kehlbalkendach_nach_Böhm.jpg/1024px-Kehlbalkendach_nach_Böhm.jpg){#fig:boehm}
+![Tesoura simples. Desenho: [Theodor Böhm, 1911]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kehlbalkendach_nach_Böhm.jpg/1024px-Kehlbalkendach_nach_Böhm.jpg){#fig:boehm .slide-bg}
 
 [Theodor Böhm, 1911]: https://commons.wikimedia.org/wiki/File:Kehlbalkendach_nach_Böhm.jpg
 
@@ -498,7 +494,7 @@ em três tesouras independentes.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-401.png" data-background-size="contain"}
 
-![Escoras mestras numa tesoura alemã. Desenho: Schnell, 1915, reproduzido em Zwerger, *Wood and Wood Joints*](https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-401.png){#fig:zwerger2012-401 .line .align-right}
+![Escoras mestras numa tesoura alemã. Desenho: Schnell, 1915, reproduzido em Zwerger, *Wood and Wood Joints*](https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-401.png){#fig:zwerger2012-401 .line .align-right .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para manter a unidade da tesoura, podemos acrescentar escoras diagonais
@@ -513,7 +509,7 @@ tesouras. Por isso, essa solução é uma das mais usadas em galpões e
 grandes salões, como os celeiros da Europa medieval ([@fig:coxwell]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Celeiro do dízimo, Great Coxwell, Inglaterra, século [XIII]{.smallcaps}. Modelo digital: [Daz Originals e SoulessEmpathy]](https://gcdn.daz3d.com/p/17767/i/render5_1_4.jpg){#fig:coxwell}
+![Celeiro do dízimo, Great Coxwell, Inglaterra, século [XIII]{.smallcaps}. Modelo digital: [Daz Originals e SoulessEmpathy]](https://gcdn.daz3d.com/p/17767/i/render5_1_4.jpg){#fig:coxwell .slide-bg}
 
 [Daz Originals e SoulessEmpathy]: https://www.daz3d.com/tithe-barn
 
@@ -547,11 +543,11 @@ abóbadas das construções. Além disso, as tesouras serviam de apoio para
 guindastes durante a obra ([@fig:grue]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Reconstituição de um guindaste na carpintaria da catedral de Remígio. Desenho de [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg){#fig:grue}
+![Reconstituição de um guindaste na carpintaria da catedral de Remígio. Desenho de [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg){#fig:grue .slide-bg}
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/Rebatir_Notre-Dame_de_Paris-2020-470926263-1080p-25fps.webm" data-background-video-muted="true"}
 
-![Ensaio de reconstrução das tesouras de Notre-Dame de Paris nas Jornadas Europeias do Patrimônio, 19 e 20 de setembro de 2020. Produção: [Établissement Public [RNDP]{.smallcaps}]](https://cdn.palazzo.arq.br/firmitas/coberturas/Rebatir_Notre-Dame_de_Paris-2020-470926263-1080p-25fps.webm){#fig:rndp}
+![Ensaio de reconstrução das tesouras de Notre-Dame de Paris nas Jornadas Europeias do Patrimônio, 19 e 20 de setembro de 2020. Produção: [Établissement Public [RNDP]{.smallcaps}]](https://cdn.palazzo.arq.br/firmitas/coberturas/Rebatir_Notre-Dame_de_Paris-2020-470926263-1080p-25fps.webm){#fig:rndp .slide-bg}
 
 [Établissement Public [RNDP]{.smallcaps}]: https://vimeo.com/user119711143
 
@@ -576,11 +572,11 @@ casas feitas em *enxaimel*, nas quais a superfície completa da parede
 transforma-se em uma grande treliça em madeira toda contraventada com
 elementos diagonais, criado no mundo germânico antigo. Uma
 característica marcante desses edifícios europeus é que a fachada
-costuma corresponder a uma “fatia” dessa carpintaria
+costuma corresponder a uma "fatia" dessa carpintaria
 ([@fig:langhein2012-01-03]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Malha proporcional triangular equilátera, exemplos da arquitetura vernácula alemã: casa rurais das regiões da Vestfália meridional, Francônia superior (Bavária) e casa urbana de Eppingen, Baden, 1471. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg){#fig:langhein2012-01-03 .full}
+![Malha proporcional triangular equilátera, exemplos da arquitetura vernácula alemã: casa rurais das regiões da Vestfália meridional, Francônia superior (Bavária) e casa urbana de Eppingen, Baden, 1471. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg){#fig:langhein2012-01-03 .full .slide-bg}
 
 ## Conclusão
 
@@ -610,7 +606,7 @@ edifício foi construído originalmente.
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-asian-temple-roof-decoration-11123-medium.mp4" data-background-video-muted="true"}
 
-![Telhado em estilo chinês](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-asian-temple-roof-decoration-11123-medium.mp4){#fig:mixkit-asian}
+![Telhado em estilo chinês](https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-asian-temple-roof-decoration-11123-medium.mp4){#fig:mixkit-asian .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O estereótipo da arquitetura chinesa elaborado na Europa desde o século
@@ -628,17 +624,17 @@ por todo o império fazendo pinturas que representavam pavilhões em
 estilo chinês [@schaeffer:1971chinesicesXXII] ([@fig:sabara]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Pintura de chinesice na igreja de Nossa Senhora do Ó, Sabará, segunda metade do século [XVIII]{.smallcaps}](https://4.bp.blogspot.com/-udY_CN9QJ3E/WPjzuUZWQsI/AAAAAAAAR5A/Z6E9nw8h5tIT0KeetSWfoT6FXr0B_OGZgCLcB/s1600/sabara o3.JPG){#fig:sabara}
+![Pintura de chinesice na igreja de Nossa Senhora do Ó, Sabará, segunda metade do século [XVIII]{.smallcaps}](https://4.bp.blogspot.com/-udY_CN9QJ3E/WPjzuUZWQsI/AAAAAAAAR5A/Z6E9nw8h5tIT0KeetSWfoT6FXr0B_OGZgCLcB/s1600/sabara o3.JPG){#fig:sabara .slide-bg}
 
 ## {data-background-image="https://i.pinimg.com/originals/f2/9f/85/f29f850b4e494b8691b2d056df6719eb.png"}
 
-![Vista da nave da igreja de Nossa Senhora do Ó, Sabará](https://i.pinimg.com/originals/f2/9f/85/f29f850b4e494b8691b2d056df6719eb.png){#fig:sabara-nave .full}
+![Vista da nave da igreja de Nossa Senhora do Ó, Sabará](https://i.pinimg.com/originals/f2/9f/85/f29f850b4e494b8691b2d056df6719eb.png){#fig:sabara-nave .full .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na Carpintaria chinesa, os módulos de fachada são perpendiculares à
 fachada (e não paralelos, como na Europa), pois os edifícios se
 desenvolvem na largura sobretudo. Essa característica contradiz tais
-“chinesices” ([@fig:sabara-nave]) que representam uma carpintaria mais
+"chinesices" ([@fig:sabara-nave]) que representam uma carpintaria mais
 centralizada. Seu foco volta-se muito menos para a elevação e as
 curvaturas dos telhados, mas sim em seus cortes e lógicas estruturais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -654,7 +650,7 @@ estereótipo do beiral pontudo acabou se consagrando
 ([@fig:chambers-chinese]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![William Chambers, arquiteto, prancha de [*Designs of Chinese buildings*, 1757]](https://www.bl.uk/britishlibrary/~/media/bl/global/dl romantics and victorians/collection-items-manual/c/h/a/chambers-william-designs-b20144-54.jpg){#fig:chambers-chinese}
+![William Chambers, arquiteto, prancha de [*Designs of Chinese buildings*, 1757]](https://www.bl.uk/britishlibrary/~/media/bl/global/dl romantics and victorians/collection-items-manual/c/h/a/chambers-william-designs-b20144-54.jpg){#fig:chambers-chinese .slide-bg}
 
 [*Designs of Chinese buildings*, 1757]: https://www.bl.uk/collection-items/designs-of-chinese-buildings-and-furniture
 
@@ -693,11 +689,19 @@ de linguagem formal [@summerson:1997linguagem] no século
 [XX]{.smallcaps}  pelo casal formado pelo arquiteto Liang Sicheng e pela
 escritora Lin Huiyin ([@fig:liang-lin]) --- tia da arquiteta Maya Lin
 [@liang:1984pictorial].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Lin Huiyin e Liang Sicheng numa viagem pela província chinesa de Shanxi, 1934. Foto: [acervo da família Fairbank](https://www.smithsonianmag.com/history/lovers-shanxi-saved-chinas-ancient-architectural-treasures-before-lost-forever-180961424/)](https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg){#fig:liang-lin .slide-bg}
+
+## {data-background-image="https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png" data-background-size="contain"}
+
+!["Ordem" chinesa. Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png){#fig:liang-order .nobg .line .slide-bg}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esses sistema começa a ser estudos no ocidente por esses dois chineses
 que estudaram nos Estados Unidos, trazendo sua compreensão para esta
 região. Estudam os sistemas de mãos sobrepostas (mísulas), apresentando
-uma espécie de “evolução” destes em diferentes épocas. Não são
+uma espécie de "evolução" destes em diferentes épocas. Não são
 perceptíveis ao olhar-se para as fachadas, por estarem escondidos sob os
 telhados, que são simples (de quatro águas) e com beirais amplos, para
 proteção contra a grande quantidade de chuvas da região. Essa razão
@@ -707,24 +711,18 @@ sobreposição de vigas apoiadas sobre mísulas (para diminuir os vãos) e
 praticamente sem tesouras, devido a sua baixa eficiência em razão das
 madeiras muito macias. Há um maior consumo de madeiras, que são,
 entretanto, oriundas de árvores mais jovens e com possibilidade de
-renovação mais rápida.
+renovação mais rápida ([@fig:liang-order]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Lin Huiyin e Liang Sicheng numa viagem pela província chinesa de Shanxi, 1934. Foto: [acervo da família Fairbank](https://www.smithsonianmag.com/history/lovers-shanxi-saved-chinas-ancient-architectural-treasures-before-lost-forever-180961424/)](https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg){#fig:liang-lin}
-
-## {data-background-image="https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png" data-background-size="contain"}
-
-!["Ordem" chinesa. Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png){#fig:liang-order .nobg .line}
 
 ## {data-background-image="https://i.pinimg.com/originals/63/39/db/6339db291242961bee44bb90b1d8bc17.png" data-background-size="contain"}
 
-![Evolução da "ordem chinesa". Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/63/39/db/6339db291242961bee44bb90b1d8bc17.png){#fig:liang-32 .nobg .line}
+![Evolução da "ordem chinesa". Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/63/39/db/6339db291242961bee44bb90b1d8bc17.png){#fig:liang-32 .nobg .line .slide-bg}
 
 ## Projetar em corte ## {data-visibility="hidden"}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/atkin2011-3.18.png"}
 
-![Salão principal do templo budista Shanhua, Datong, província de Shanxi, 1060. Levantamento e desenho da fachada por Liang Sicheng e Lin Huiyin, primeira metade do século [XX]{.smallcaps}](https://hcommons.org/app/uploads/sites/1002372/2021/08/atkin2011-3.18.png){#fig:shanhua .full}
+![Salão principal do templo budista Shanhua, Datong, província de Shanxi, 1060. Levantamento e desenho da fachada por Liang Sicheng e Lin Huiyin, primeira metade do século [XX]{.smallcaps}](https://hcommons.org/app/uploads/sites/1002372/2021/08/atkin2011-3.18.png){#fig:shanhua .full .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A linguagem descrita por Lin e Liang [@liang:1984pictorial] é baseada no
@@ -741,7 +739,7 @@ resultado de se conectar uma sequência de pórticos paralelos
 ([@fig:fu-foguang]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Esquema construtivo do salão principal do Fóguāngsǐ, desenho por Fu Xinian](https://i.pinimg.com/originals/2f/bd/fd/2fbdfd63849f527472ef4dadec10df67.jpg){#fig:fu-foguang .full}
+![Esquema construtivo do salão principal do Fóguāngsǐ, desenho por Fu Xinian](https://i.pinimg.com/originals/2f/bd/fd/2fbdfd63849f527472ef4dadec10df67.jpg){#fig:fu-foguang .full .slide-bg}
 
 ## Mísulas sobrepostas ## {data-visibility="hidden"}
 
@@ -759,43 +757,43 @@ destacando-se a chamada mísula em forma de nuvem, que é esculpida com
 motivos naturalistas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Metáfora vegetal do *dougong*, segundo Feng, *Chinese architecture and metaphor*](https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.12-1080p.png){#fig:feng2012-4.12 .line}
+![Metáfora vegetal do *dougong*, segundo Feng, *Chinese architecture and metaphor*](https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.12-1080p.png){#fig:feng2012-4.12 .line .slide-bg}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.24-1080p.png" data-background-size="contain"}
 
-![Esquema de contrapesos para estabilização do *dougong*, segundo Feng](https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.24-1080p.png){#fig:feng2012-4.24 .line}
+![Esquema de contrapesos para estabilização do *dougong*, segundo Feng](https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.24-1080p.png){#fig:feng2012-4.24 .line .slide-bg}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.27-1080p.png" data-background-size="contain"}
 
-![Vista de caibros volantes em balanço, segundo Feng](https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.27-1080p.png){#fig:feng2012-4.27 .line .align-right}
+![Vista de caibros volantes em balanço, segundo Feng](https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.27-1080p.png){#fig:feng2012-4.27 .line .align-right .slide-bg}
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-640.png" data-background-size="contain"}
 
-![Chuzu'an, corte dos *dougong* e caibros volantes sobre os vãos e sobre as colunas, segundo Liang e Lin](https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-640.png){#fig:zwerger2012-640 .line}
+![Chuzu'an, corte dos *dougong* e caibros volantes sobre os vãos e sobre as colunas, segundo Liang e Lin](https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-640.png){#fig:zwerger2012-640 .line .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Horyu-ji08s3200.jpg/2560px-Horyu-ji08s3200.jpg"}
 
-![Hōryūji, templo budista em Ikaruga, Nara, Japão. Recinto oeste, *kondō* (salão dourado) e pagode, após 607 d.C. Foto: [663highland, 2010](https://commons.wikimedia.org/wiki/File:Horyu-ji08s3200.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Horyu-ji08s3200.jpg/1024px-Horyu-ji08s3200.jpg){#fig:horyuji-kondo-ta}
+![Hōryūji, templo budista em Ikaruga, Nara, Japão. Recinto oeste, *kondō* (salão dourado) e pagode, após 607 d.C. Foto: [663highland, 2010](https://commons.wikimedia.org/wiki/File:Horyu-ji08s3200.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Horyu-ji08s3200.jpg/1024px-Horyu-ji08s3200.jpg){#fig:horyuji-kondo-ta .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG/2560px-Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG"}
 
-![Hōryūji, nível superior do *kondō* mostrando as mísulas do telhado. Foto: [Nekosuki, 2011](https://commons.wikimedia.org/wiki/File:Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG/1024px-Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG){#fig:horyuji-kondo-upper}
+![Hōryūji, nível superior do *kondō* mostrando as mísulas do telhado. Foto: [Nekosuki, 2011](https://commons.wikimedia.org/wiki/File:Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG/1024px-Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG){#fig:horyuji-kondo-upper .slide-bg}
 
 ## {data-background-image="http://www.digital-images.net/Images/Japan/Horyuji_Kondo_detail_9972.jpg"}
 
-![Hōryūji, pagode, detalhe das mísulas sustentando uma terça e caibros volantes, foto: [Ron Reznick]](http://www.digital-images.net/Images/Japan/Horyuji_Kondo_detail_9972.jpg){#fig:horyuji-kondo-det .full}
+![Hōryūji, pagode, detalhe das mísulas sustentando uma terça e caibros volantes, foto: [Ron Reznick]](http://www.digital-images.net/Images/Japan/Horyuji_Kondo_detail_9972.jpg){#fig:horyuji-kondo-det .full .slide-bg}
 
 [Ron Reznick]: http://www.digital-images.net/Gallery/Scenic/Japan/Temples/Horyuji/horyuji.html
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/薬師寺東塔_-_panoramio.jpg/2560px-薬師寺東塔_-_panoramio.jpg"}
 
-![Yakushiji, pagode leste, 680--730. Foto: [Buzzhiro, 2007](https://commons.wikimedia.org/wiki/File:薬師寺東塔_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/薬師寺東塔_-_panoramio.jpg/1024px-薬師寺東塔_-_panoramio.jpg){#fig:yakushiji-toutou}
+![Yakushiji, pagode leste, 680--730. Foto: [Buzzhiro, 2007](https://commons.wikimedia.org/wiki/File:薬師寺東塔_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/薬師寺東塔_-_panoramio.jpg/1024px-薬師寺東塔_-_panoramio.jpg){#fig:yakushiji-toutou .slide-bg}
 
 <!--_-->
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG/2560px-Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG"}
 
-![Yakushiji, pagode leste, detalhe das mísulas e caibros. Foto: [Nekosuki, 2011](https://commons.wikimedia.org/wiki/File:Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG/1024px-Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG){#fig:yakushiji-toutou-det}
+![Yakushiji, pagode leste, detalhe das mísulas e caibros. Foto: [Nekosuki, 2011](https://commons.wikimedia.org/wiki/File:Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG/1024px-Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG){#fig:yakushiji-toutou-det .slide-bg}
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/How_to_build_a_Chinese_Traditional_house.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
@@ -813,7 +811,7 @@ interligação entre águas) para formar conjuntos extremamente complexos
 ([@fig:3dmax]). 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::: {#fig:3dmax .iframe-wrapper}
+::::::::::::::::::::::::::::::::::::::::::: {#fig:3dmax .iframe-wrapper .slide-bg}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F2H9UbIApYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Construções tradicionais chinesas. Modelagem: [Beijing Digital Light Magic Technology Co.](https://youtu.be/F2H9UbIApYs)
@@ -821,7 +819,7 @@ Construções tradicionais chinesas. Modelagem: [Beijing Digital Light Magic Tec
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/Chinese_Architectural_Brackets-JnB3fQTE1XU-1080p-30fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
-:::::::::::::::::::::::::::::::::::::::::: {#fig:wiborg .iframe-wrapper}
+:::::::::::::::::::::::::::::::::::::::::: {#fig:wiborg .iframe-wrapper .slide-bg}
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JnB3fQTE1XU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Construção de um sistema de mísulas chinesas. Carpintaria: [Richard Wiborg, 2018]
@@ -854,7 +852,7 @@ escoamento dessa umidade, evitando que ela se acumule dentro do
 edifício. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Telhado do Tōindō, Yakushiji, Nara, século [VIII]{.smallcaps}. Maquete parcial executada em 2014, via [Designboom, 2021]](https://i.pinimg.com/originals/76/f8/5a/76f85af1f812ad927ea970bb7813ce95.png){#fig:yakushiji2014}
+![Telhado do Tōindō, Yakushiji, Nara, século [VIII]{.smallcaps}. Maquete parcial executada em 2014, via [Designboom, 2021]](https://i.pinimg.com/originals/76/f8/5a/76f85af1f812ad927ea970bb7813ce95.png){#fig:yakushiji2014 .slide-bg}
 
 [Designboom, 2021]: https://www.designboom.com/design/new-york-japan-society-exhibits-traditional-japanese-carpentry-tools-sou-fujimoto-03-19-2021/
 
@@ -874,7 +872,7 @@ permitir uma boa iluminação e ventilação dos interiores, que são muito
 profundos em geral ([@fig:han-taixie]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Reconstituição do corte longitudinal de um palácio da dinastia Han com fundações do tipo *taixie*, por Steinhardt (2019)](https://i.pinimg.com/originals/a8/52/6f/a8526febba8123bdba4e3c8079cc4c1f.png){#fig:han-taixie .full}
+![Reconstituição do corte longitudinal de um palácio da dinastia Han com fundações do tipo *taixie*, por Steinhardt (2019)](https://i.pinimg.com/originals/a8/52/6f/a8526febba8123bdba4e3c8079cc4c1f.png){#fig:han-taixie .full .slide-bg}
 
 # Revestimentos #
 
