@@ -66,7 +66,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Ordenar",
-        "excerpt":"Traçado regulador e cosmologia no vāstu śāstra Figura 1: Reconstituição do assentamento de Arkaim, sul dos montes Urais, c. 2000 a.C. Desenho: Jvtrplzz Figura 2: Esquemas conceituais de aldeias indo-arianas. Desenho em E.B. Havell, 1918 Figura 3: Aldeia védica com cerca e portal. Desenho em Percy Brown, 1959 Do texto à...","categories": [],
+        "excerpt":"Reflexões sobre o curso e a disciplina Uma das questões mais diretas e gerais dessa disciplina diz respeito ao equilíbrio entre as abordagens aplicada e teórica. Esse é o dilema atual do seu processo de redesenho ao logo dos últimos anos, que passou por um salto importante recentemente. Nesse contexto,...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/ordenar/",
         "teaser": null
