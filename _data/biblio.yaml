@@ -5560,8 +5560,8 @@ references:
   ISBN: 978-0-585-48272-9
   issued:
     - year: 2003
-  language: English
-  publisher: MIT Press
+  language: en
+  publisher: <span class="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
   title: 'Vitruvius: writing the body of architecture'
   title-short: Vitruvius
@@ -5896,7 +5896,7 @@ references:
   event-place: London
   issued:
     - year: 1738
-  language: en-GB
+  language: en
   number-of-pages: '549'
   publisher: R. Ware
   publisher-place: London
@@ -7327,10 +7327,11 @@ references:
   call-number: '72.034.6(45) : 72:4'
   citation-key: schumacher:1987palladio
   container-title: Cornell Journal of Architecture
+  container-title-short: CJA
   issued:
     - year: 1987
       season: 3
-  language: en-US
+  language: en
   page: 12–29
   title: The Palladio variations, on reconciling convention, parti, and space
   title-short: The Palladio variations
