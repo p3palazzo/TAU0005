@@ -2,7 +2,7 @@
 title   : "Tipos edilícios"
 subtitle: "Elementos de composição"
 item    : "II"
-author  : "Pedro P. Palazzo"
+author  : Pedro P. Palazzo
 date    : 2022-03-15
 toc:
   - "Cultura doméstica no Mediterâneo"
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://i.pinimg.com/originals/c8/cc/e2/c8cce2f9390770ae17105dd79794f6a1.jpg
   caption: "Edwin Lord Weeks, [*Um pátio na Alhambra no tempo dos mouros*](https://commons.wikimedia.org/wiki/File:Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg), 1876"
-  actions:
-  - label: "Slides"
-    url: "/slides/tipos/"
 ---
 
 # Cultura doméstica no Mediterrâneo #
@@ -728,6 +725,36 @@ romana, a morada grega ou a casa compacta do Crescente fértil
 ## {data-background-image="https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png"}
 
 ![Reconstituição de Ammaia](https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png){#fig:ammaia-aerea .full}
+
+## Salões palacianos no Mediterrâneo ocidental ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Desenvolvimento de um tipo espacial.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/e3/dc/bc/e3dcbc06287703c11aa0b23af28d43b8.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nos palácios, o salão largo era substituído por um salão com colunatas
+laterais. Esse salão com colunatas, por sua vez, deu origem ao *iwan*
+com abside e alcovas laterais da tradição islâmica mais tardia.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Processo tipológico do salão palaciano com colunatas, segundo Felix Arnold, 2017](https://i.pinimg.com/originals/e3/dc/bc/e3dcbc06287703c11aa0b23af28d43b8.png){#fig:arnold2017-1.3}
+
+## {data-background-image="https://i.pinimg.com/originals/fe/3b/5d/fe3b5d37ca5d673d3d09e3e7e6ee95ea.png" data-background-size="contain"}
+
+![Medina Azahara, Córdoba, 953--957. Planta do palácio superior, por Felix Arnold, 2017](https://i.pinimg.com/originals/fe/3b/5d/fe3b5d37ca5d673d3d09e3e7e6ee95ea.png){#fig:arnold2017-2.25 .align-right .line}
+
+## {data-background-image="https://i.pinimg.com/originals/73/6d/3e/736d3ee19ab6ee338f869085cc1b034d.png" data-background-size="contain"}
+
+![Medina Azahara, Córdoba, 953--957. Elevação do salão superior, por Felix Arnold, 2017](https://i.pinimg.com/originals/73/6d/3e/736d3ee19ab6ee338f869085cc1b034d.png){#fig:arnold2017-2.26 .line}
+
+## {data-background-image="https://i.pinimg.com/originals/3a/bd/d3/3abdd32952d8115364319e8e09b7a60b.png" data-background-size="contain"}
+
+![Medina Azahara, Córdoba, 953--957. Esquema do cone visual no salão Rico, segundo Felix Arnold, 2017](https://i.pinimg.com/originals/3a/bd/d3/3abdd32952d8115364319e8e09b7a60b.png){#fig:arnold2017-2.34}
+
+# Princípios do projeto tipológico #
 
 # Bibliografia # {- .unlisted .allowframebreaks}
 
