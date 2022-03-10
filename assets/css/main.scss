@@ -64,7 +64,11 @@ $header-font-style: italic;
     "local",
     "revealjs-support";
 
-.masthead,
+a.site-title .site-subtitle {
+    font-variant: normal;
+    font-variant-numeric: oldstyle-nums;
+}
+
 .pagination,
 .page__footer-follow {
     display: none;

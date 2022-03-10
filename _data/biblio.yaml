@@ -1702,6 +1702,58 @@ references:
   URL: https://www.sciencedirect.com/science/article/pii/S2352728521000130
   volume: '6'
 
+- id: cha:2019reconsidering18
+  abstract: >-
+    The mathematics references in ancient China, the Zhoubi Suanjing and the
+    Jiuzhang Suanshu, present information on formative ideas of ancient people
+    and their perception of objects. The introduction to the Yingzao Fashi
+    mentions mathematical sources, including the Zhoubi Suanjing. Both of these
+    books focus on the philosophical concept of Tianyuan difang (Heaven is round
+    and Earth is square), as well as inscribed and circumscribed circles. The
+    square root of 2(√2), which can be derived from this part, proves to be an
+    essential criterion for building, seen in Korea, China, and Japan. Using the
+    exemplary Koryŏ building, the Muryangsujŏn Hall at Pusŏksa Buddhist
+    Monastery, this thesis shows that the standard ground plan width of the
+    outermost bay has a √2 ratio to the central bay width. Its cross-section,
+    likewise, proves that √2 times or twice the distance or height (relying on
+    the height of the eave columns) are applied to the distance or height
+    between each column and purlin in the application of arithmetic and
+    geometric concepts. In the future, this work will be a reference for the
+    reconstruction design of ancient buildings prior to the Koryŏ period,
+    analogous to the Muryangsujŏn Hall.
+  accessed:
+    - year: 2021
+      month: 7
+      day: 2
+  author:
+    - family: Cha
+      given: Juhwan
+    - family: Kim
+      given: Young Jae
+  citation-key: cha:2019reconsidering18
+  container-title: Journal of Asian Architecture and Building Engineering
+  DOI: 10.1080/13467581.2019.1680376
+  ISSN: 1346-7581
+  issue: '5'
+  issued:
+    - year: 2019
+      month: 9
+      day: 3
+  language: en
+  page: 457-471
+  publisher: Taylor & Francis
+  source: Taylor and Francis+NEJM
+  title: >-
+    Reconsidering a proportional system of timber-frame structures through
+    ancient mathematics books: a case study on the Muryangsujŏn Hall at Pusŏksa
+    Buddhist Monastery
+  title-short: >-
+    Reconsidering a proportional system of timber-frame structures through
+    ancient mathematics books
+  type: article-journal
+  URL: https://doi.org/10.1080/13467581.2019.1680376
+  volume: '18'
+
 - id: chambers:1757designs
   abstract: >-
     statement of responsibility: engraved by the best hands from the originals
@@ -5080,6 +5132,26 @@ references:
   source: Zotero
   title: Proportion analyses of traditional vernacular architecture
   type: manuscript
+
+- id: langhein:2013proportion
+  accessed:
+    - year: 2013
+      month: 9
+      day: 16
+  author:
+    - family: Langhein
+      given: Joachim
+  citation-key: langhein:2013proportion
+  container-title: INTBAU Ideas and Opinions
+  issue: '10'
+  issued:
+    - year: 2013
+  language: en-GB
+  title: Proportion and traditional architecture
+  type: article-journal
+  URL: >-
+    https://www.intbau.org/wp-content/uploads/2014/10/ProportionandTraditionalArchitecture.pdf
+  volume: '1'
 
 - id: langhein:sebastiano
   accessed:
@@ -9167,6 +9239,36 @@ references:
   type: article-journal
   URL: http://www.jstor.org/stable/40480871
   volume: '61'
+
+- id: wittkower:1962architectural
+  author:
+    - family: Wittkower
+      given: Rudolf
+  citation-key: wittkower:1962architectural
+  event-place: London
+  issued:
+    - year: 1962
+  language: en-GB
+  number-of-pages: '173'
+  publisher: Alec Tiranti
+  publisher-place: London
+  title: Architectural principles in the age of humanism
+  type: book
+
+- id: wittkower:1968arquitectura
+  author:
+    - family: Wittkower
+      given: Rudolf
+  citation-key: wittkower:1968arquitectura
+  event-place: Buenos Aires
+  issued:
+    - year: 1968
+  language: es
+  publisher: Nueva Visión
+  publisher-place: Buenos Aires
+  source: Open WorldCat
+  title: La arquitectura en la edad del humanismo
+  type: book
 
 - id: wright:2000ancient1
   author:

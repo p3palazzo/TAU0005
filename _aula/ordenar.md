@@ -1,14 +1,14 @@
 ---
 title   : "Ordenar"
 subtitle: "Fazer arquitetura"
-item    : "II"
-author  : "Pedro P. Palazzo"
+item    : "I"
+author  : Pedro P. Palazzo
 date    : 2022-04-05
 toc:
   - Reflexões sobre o curso e a disciplina
   - Traçado regulador e cosmologia no vāstu śāstra
-  - Ornamento e geometria
-  - Malhas espaciais
+  - Ordens clássicas e outras ordens
+  - Saberes da arquitetura
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Prayer_in_the_Mosque.jpg/1733px-Prayer_in_the_Mosque.jpg
   caption: "Jean Léon Gérôme, [Oração numa mesquita, 1871](https://commons.wikimedia.org/wiki/File:Prayer_in_the_Mosque.jpg)"
@@ -446,180 +446,265 @@ curvatura das coberturas feitas de galhos, juncos ou folhagens
 Construção originária em teca [@brown:1959indiana, 6].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Ornamento e geometria #
+# Ordens clássicas e outras ordens #
+
+## Formação das ordens ## {data-visibility="hidden"}
+
+## 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Há também outras derivações da forma arquitetônica, em vários casos,
-menos atreladas a uma visão tão metafísica. Toma-se o processo
-tipológico do salão de palácios árabe/islâmico como contraponto, por não
-apresentar uma justificativa cósmica muito marcada. Trata-se
-simplesmente de uma série de derivações tradicionais oriundas de ajustes
-em elementos que já funcionam bem, conforme demandas surgidas com o
-tempo. Nesse caso, o papel do arquiteto seria de transmitir essa
-tradição adiante com as devidas adaptações necessárias, mas sem começar
-do zero. Esse processo torna certas formas estáveis no tempo, por terem
-atingido um ponto de solução bastante adequada às demandas de uma
-determinada época. 
+- Mito da cabana primitiva e registro arqueológico: origem da
+  arquitetura nas construções arquitravadas.
+- Porém, é equivocado pensar no templo grego como resultado direto de um
+  antecedente "primitivo". Essa interpretação afirma uma fantasia da
+  excepcionalidade e originalidade grega que, como vimos, não tem
+  fundamento arqueológico.
+- Grécia antiga se desenvolve como parte da esfera cultural do
+  Mediterrâneo oriental e Oriente Médio montanhoso (da Itália à Pérsia).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/e3/dc/bc/e3dcbc06287703c11aa0b23af28d43b8.png" data-background-size="contain"}
+## 
+
+::::::::::::::::::::::::::::::::::::::::::: {#fig:deriva .r-stack .full}
+![*mégarōn* rural da Idade do Bronze](){#fig:derivaA .fragment .current-visible .align-left .line}
+
+![*mérgarōn* palaciano da Idade do Bronze](){#fig:derivaB .fragment .current-visible .align-left .line}
+
+![templo do período geométrico](){#fig:derivaC .fragment .current-visible .align-left .line}
+
+![templo próstilo do período arcaico](){#fig:derivaD .fragment .current-visible .align-left .line}
+
+![templo períptero do período arcaico](){#fig:derivaE .fragment .current-visible .align-left .line}
+
+Processo tipológico reconstituído do templo grego clássico, baseado em
+Barbara Barletta
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Por que ordens clássicas ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Nos palácios, o salão largo era substituído por um salão com colunatas
-laterais. Esse salão com colunatas, por sua vez, deu origem ao *iwan*
-com abside e alcovas laterais da tradição islâmica mais tardia.
+- Chamadas de *gêneros* de edifícios por Vitrúvio na Roma antiga, e de
+  *espécies* de colunas pelos arquitetos do Renascimento antes de Serlio
+  (primeira metade do século [XVI]{.smallcaps}), alguns como Perrault
+  continuam a usar esse nome até o século [XVII]{.smallcaps}.
+- Serlio, Vignola e todos nós hoje em dia usamos o termo *ordem* pois os
+  diferentes gêneros de arquitetura clássica *ordenam* o edifício como
+  um todo: ou seja, não são enfeites aplicados ao final do projeto, mas
+  parte do processo de configurar a construção no seu sistema estrutural
+  (mas nem sempre), nas suas proporções (sempre) e até os últimos
+  detalhes (sobretudo da fachada e de espaços importantes).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Processo tipológico do salão palaciano com colunatas, segundo Felix Arnold, 2017](https://i.pinimg.com/originals/e3/dc/bc/e3dcbc06287703c11aa0b23af28d43b8.png){#fig:arnold2017-1.3}
+## Desdobramento, não projeto ## {data-visibility="hidden"}
 
-## {data-background-image="https://i.pinimg.com/originals/fe/3b/5d/fe3b5d37ca5d673d3d09e3e7e6ee95ea.png" data-background-size="contain"}
+::::::::::::::::::::::::::::::::::::::::::: {#fig:divide .r-stack}
+![determinação da altura e projeção totais](){#fig:divideA .fragment .current-visible .align-left .line}
 
-![Medina Azahara, Córdoba, 953--957. Planta do palácio superior, por Felix Arnold, 2017](https://i.pinimg.com/originals/fe/3b/5d/fe3b5d37ca5d673d3d09e3e7e6ee95ea.png){#fig:arnold2017-2.25 .align-right .line}
+![plinto](){#fig:divideB .fragment .current-visible .align-left .line}
 
-## {data-background-image="https://i.pinimg.com/originals/73/6d/3e/736d3ee19ab6ee338f869085cc1b034d.png" data-background-size="contain"}
+![toro superior](){#fig:divideC .fragment .current-visible .align-left .line}
 
-![Medina Azahara, Córdoba, 953--957. Elevação do salão superior, por Felix Arnold, 2017](https://i.pinimg.com/originals/73/6d/3e/736d3ee19ab6ee338f869085cc1b034d.png){#fig:arnold2017-2.26 .line}
+![tróquilo e toro inferior](){#fig:divideD .fragment .current-visible .align-left .line}
 
-## {data-background-image="https://i.pinimg.com/originals/3a/bd/d3/3abdd32952d8115364319e8e09b7a60b.png" data-background-size="contain"}
+Desdobramento de uma base ática pelo método das divisões sucessivas,
+segundo Vitrúvio III.[v]{.smallcaps}.ii
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Medina Azahara, Córdoba, 953--957. Esquema do cone visual no salão Rico, segundo Felix Arnold, 2017](https://i.pinimg.com/originals/3a/bd/d3/3abdd32952d8115364319e8e09b7a60b.png){#fig:arnold2017-2.34}
-
-# Malhas espaciais #
+## {data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Há momentos e lugares em que é dada uma maior ênfase em soluções
-intrinsecamente mais flexíveis e genéricas, que podem ser aplicadas a
-diferentes contextos e casos concretos, conforme necessidade. Ilustra-se
-com os chamados "refúgios" persas, que formam uma malha genérica
-personalizada com diversos padrões a serem reproduzidos, abrigando usos
-diversos. Destaca-se que os arquitetos modernos do Team X adotam essa
-ideia da malha espacial contínua e personalizada no pós-guerra, para
-reformular a arquitetura modernista.
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/5f/dc/4b/5fdc4b64a1af00016c5dbd5badaddfbf.png"}
+## Obra grossa e acabamento ## {data-visibility="hidden"}
 
-![Complexo habitacional de Dhishīr, província de Yazd, Irã. Diagramas por Hatef Naiemi, 2018](https://i.pinimg.com/originals/5f/dc/4b/5fdc4b64a1af00016c5dbd5badaddfbf.png){#fig:hatef2018-9.24}
-
-## {data-background-image="https://i.pinimg.com/originals/aa/80/1b/aa801bcd1db94e7b33eb16aa64ecfd3b.png" data-background-size="contain"}
-
-![Complexos de refúgio de Tīzuk e Chāh Afḍal, província de Yazd, Irã. Planta por Hatef Naiemi, 2018](https://i.pinimg.com/originals/aa/80/1b/aa801bcd1db94e7b33eb16aa64ecfd3b.png){#fig:hatef2018-9.8}
-
-Cidade colagem
-
-# Boma #
+## 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Deixando a costa e avançando para oeste, no interior do continente, mas
-ainda em territórios de etnias banto, o padrão urbanístico dominante se
-transforma. No lugar de cidades com casas alinhadas, encontramos
-complexos agropastoris familiares formando redes mais ou menos densas no
-território.
+- Mediterrâneo antigo: pedras com talha preliminar são assentadas na sua
+  posição definitiva, e depois o detalhe é esculpido em todas de modo
+  contínuo para disfarçar as juntas: distinção pedreiro vs entalhador.
+- Mediterrâneo medieval: cada pedra é talhada separadamente na sua forma
+  final, às vezes por equipes diferentes, e assentada já na sua forma
+  final: pedreiro é entalhador.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Continuidade ## {data-visibility="hidden"}
+
+## Partes ##
+
+1. Módulo
+2. Contratura
+3. Base e capitel
+4. Entablamento
+5. Frontão
+
+## Outras ordens ##
+
+## Padronização e modularidade na China ## {data-visibility="hidden"}
 
 ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O arqueólogo americano Thomas Huffman ([@fig:huffman]) definiu, nos anos
-1980, o paradigma espacial agropastoril banto como um sistema organizado
-em torno de um cercado comunitário [@huffman:1990broederstroom49, 7].
-Esse cercado, conhecido em suaíle como *boma*, emerge na Idade do Ferro
-(c. 500 a.C.) e se declina em inúmeras variações desde a costa do golfo
-da Guiné até o sul da África.
-
-O *boma* é, prioritariamente, um curral de gado. Celeiros e espaços para
-atividades comunitárias também podem estar situados no *boma*. Ele é
-controlado por uma liderança política ou chefe de família estendida, que
-tem a sua própria casa perto desse espaço central.
+A arquitetura tradicional da China atingiu desde o século
+[XI]{.smallcaps} uma padronização quase completa dos seus elementos
+construtivos em madeira. Essa padronização decorre de processos de
+centralização política e de unificação econômica que duraram milênios,
+com "renascimentos" periódicos ao longo das dinastias. O resultado é um
+sistema racionalizado, com detalhes fixos mas que permitem uma grande
+flexibilidade de combinações. Esse sistema já chegou a ser chamado no
+Ocidente de "ordem chinesa", por analogia às ordens da arquitetura
+clássica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=85%}
-![Esquema teórico de um *boma* no sul da África: Zimbábue. Desenho: [Huffman, 2009](http://www.sciencedirect.com/science/article/pii/S0278416508000585)](https://i.pinimg.com/originals/37/06/db/3706dbf46c6d25e8758b078fe757f513.jpg){#fig:boma .line} 
-:::
-::: {.column width=15%}
-![Thomas Huffman](https://i1.rgstatic.net/ii/profile.image/337996172808194-1457595975447_Q512/Thomas_Huffman2.jpg){#fig:huffman}
-:::
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c6/Foguang_Temple_9.JPG"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A padronização da arquitetura chinesa é, portanto, muito
+mais antiga do que a codificação das ordens clássicas no Renascimento
+europeu, e até mais completa. Muito tempo depois, no começo do século
+[XX]{.smallcaps}, o sistema Beaux-Arts, inspirado no método de ensino da
+escola de Belas-Artes de Paris, passou a ser o método hegemônico para o
+estudo e a pesquisa da arquitetura no Ocidente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nessa época, vários jovens chineses estavam se formando em universidades
+dos Estados Unidos. Entre eles estava o casal formado pela escritora Lin
+Huiyin e pelo arquiteto Liang Sicheng ([@fig:liang-lin]).
+O aprendizado Beaux-Arts de Liang forneceu o método realizar o primeiro
+levantamento sistemático da arquitetura tradicional na China.
+[@fig:liang-01]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Lin Huiyin e Liang Sicheng numa viagem pela província chinesa de Shanxi, 1934. Foto: [acervo da família Fairbank](https://www.smithsonianmag.com/history/lovers-shanxi-saved-chinas-ancient-architectural-treasures-before-lost-forever-180961424/)](https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg){#fig:liang-lin}
+
+## {data-background-image="https://i.pinimg.com/originals/85/52/82/855282f257cac6a604f9d3e76eedf562.png" data-background-size="contain"}
+
+![Nomenclatura dos componentes principais de uma construção chinesa. Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/85/52/82/855282f257cac6a604f9d3e76eedf562.png){#fig:liang-01 .nobg .line}
 
 ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Entre os bètemmeribè, na África ocidental, o complexo agropastoril é
-conhecido como *tata somba* --- *tata* significa "casa" e *somba* é a
-designação formal desse grupo étnico (o termo *bètemmeribè* significa
-"bom construtor"). A sua arquitetura foi documentada pela arqueóloga
-americana [Suzanne Blier][] no final da década de 1980.
-
-Ver também:
-[Trailer do documentário *Sur un air de somba*](https://vimeo.com/25226651)
-
-[Suzanne Blier]: https://en.wikipedia.org/wiki/Suzanne_Blier
+Com base nessa formação ocidental e também para explicar a arquitetura
+chinesa ao público americano, Liang estabeleceu um esquema
+interpretativo baseado no sistema Beaux-Arts. Uma das principais
+características desse sistema é que ele ensinava arquitetura como se
+fosse uma forma de *linguagem* [@summerson:1997linguagem]. Por isso,
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::: {#fig:batammaliba .columns}
-::: {.column width=30%}
-![Locação na região fronteiriça entre Togo e Benin. Mapa: [Pedro P. Palazzo, 2020](https://commons.wikimedia.org/wiki/File:Batammaliba_region_on_the_globe_(Africa_centered).svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Batammaliba_region_on_the_globe_(Africa_centered).svg/480px-Batammaliba_region_on_the_globe_(Africa_centered).svg.png){#fig:batammalibaA .nobg}
+##
 
-![Planta. Desenho em Kathleen James-Chakraborty, 2014, baseado em Suzanne Blier, 1994](https://i.pinimg.com/originals/55/47/76/5547769998d329a362f4ca743da07dd1.png){#fig:batammalibaB .line}
+> Estudar a história da arquitetura chinesa sem conhecimento dessas
+> regras é como estudar a história da literatura de língua inglesa sem
+> antes aprender a gramática do inglês. [@liang:1984pictorial, 27]
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nesse esquema, a linguagem tem uma gramática e um vocabulário; o
+vocabulário é o conjunto de elementos da arquitetura chinesa, enquanto a
+gramática é o modo de compor edificações usando esses elementos. A
+*linguagem clássica da arquitetura* tem uma gramática normativa que foi
+descrita, primeiro, nos tratados italianos do Renascimento --- Alberti,
+Serlio, Vinhola, Palladio... --- e, depois, nos manuais de teoria do
+próprio método Beaux-Arts nos séculos [XIX]{.smallcaps} e
+[XX]{.smallcaps} --- principalmente os autores franceses de Durand a
+Gromort passando por Guadet e Varon, mas também os americanos Curtis e
+Harbeson.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/China_-_Song_Dynasty-es.svg/1043px-China_-_Song_Dynasty-es.svg.png" data-background-size="contain"}
+
+![Dinastia Song no seu auge. Mapa: [Mozzan, 2013, traduzido por Rowan Wind Whistler, 2015](https://commons.wikimedia.org/wiki/File:China_-_Song_Dynasty-es.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/China_-_Song_Dynasty-es.svg/1043px-China_-_Song_Dynasty-es.svg.png){#fig:song .align-right}
+
+<!--_,-->
+
+##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No caso da China, as *gramáticas normativas* são dois tratados
+compilados para ajudar os administradores do estado a medir e controlar
+obras públicas. O primeiro é o *Yingzao fashi*, que foi compilado por Li
+Jie entre 1090 e 1103 ([@fig:liang-07]). Ele representa as práticas da
+arquitetura erudita durante a dinastia Song ([@fig:song]), que era
+considerada pelos próprios chineses
+como o apogeu e a síntese do desenvolvimento histórico das artes na
+China. O segundo é o *Gongcheng zofa*, uma revisão e atualização do
+tratado anterior levando em conta algumas mudanças estruturais e
+suntuárias ([@fig:liang-08]). Ele fazia parte da última grande
+recompilação oficial do pensamento político, filosófico e histórico da
+China, feita na segunda metade do século [XVIII]{.smallcaps}. Por isso,
+ele foi considerado um exemplo do
+engessamento conservador da tradição chinesa, e da estagnação
+tecnológica do país --- mas essa foi uma interpretação baseada numa
+certa agenda política republicana.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::: {.columns #fig:liang-07-08 .full}
+::: {.column width=50%}
+![Regras de carpintaria estrutural da dinastia Song segundo o *Yingzao fashi*, 1103](https://i.pinimg.com/originals/f4/c9/9b/f4c99b94f2c261080a66a10b39a6cc24.png){#fig:liang-07 .stretch}
 :::
-::: {.column width=70%}
-![Vista exterior. Foto: [Jacques Taberlet, 2008](https://commons.wikimedia.org/wiki/File:Koussoukoingou2.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Koussoukoingou2.jpg/1024px-Koussoukoingou2.jpg){#fig:batammalibaC}
+::: {.column width=50%}
+![Regras de carpintaria estrutural da dinastia Qing segundo o *Gongcheng zofa*, 1778](https://i.pinimg.com/originals/b9/f2/50/b9f25090c239fcc5880b50e2fba9fb4f.png){#fig:liang-08 .stretch}
 :::
-Tata somba
+Pranchas desenhadas por Liang em 1943 e publicadas em 1984
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Redes políticas no território: grande Zimbábue ##
+## {data-background-image="https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png" data-background-size="contain"}
 
-## {data-background-image="https://i.pinimg.com/originals/f1/3c/dc/f13cdc11d527ca7beb3486fbcda7a84b.jpg"}
-
-![Boma de uMgungundlovu, Dingane, reino Zulu, 1829](https://i.pinimg.com/originals/f1/3c/dc/f13cdc11d527ca7beb3486fbcda7a84b.jpg){#fig:dingane}
+!["Ordem" chinesa. Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png){#fig:liang-order .nobg .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O sistema espacial do *boma* é a unidade mínima de estratificação
-familiar e social nas regiões banto. A partir dele, podem ser formadas
-redes extensas de relações políticas que controlam territórios mais
-vastos, como era o caso do reino Zulu no século [XIX]{.smallcaps}. A sua
-capital, Dingane, chegou a ter 7000 habitantes com um cercado vasto
-([@fig:dingane]). Esse espaço interior continha uma praça de armas vasta
-(ikhanda) além dos currais de gado.
+Foi assim que Liang e Lin chegaram ao esquema de uma "ordem chinesa"
+([@fig:liang-order]). Essa expressão operava duas mudanças conceituais
+importantes: uma no olhar chinês para o seu próprio patrimônio
+arqueológico, e outra no olhar ocidental para a arquitetura chinesa. Do
+ponto de vista chinês, Liang e Ling pertenceram a uma geração de
+pesquisadores que realizaram descobertas arqueológicas cruciais. Eles
+afirmaram a importância de olhar para os exemplares construídos, em
+contraste com a tradição acadêmica chinesa de se concentrar na
+interpretação dos textos clássicos produzidos ou coletados na corte. Lin
+e Liang documentaram muitos sítios que tinham sido esquecidos ou
+desprezados até então, como o mosteiro budista Fóguāngsǐ, que contém a
+construção em madeira mais antiga conservada na China ([@fig:liang-24a]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG"}
+## {data-background-image="https://i.pinimg.com/originals/af/2f/3a/af2f3afb73a19be7ddc0eb75e5f6c9c0.jpg"}
+
+![Fóguāngsǐ, monte Wutai, Shanxi, 857. Fotografia da expedição de Liang Sicheng, Lin Hiuyin, John e Wilma Fairbank, 1934](https://i.pinimg.com/originals/af/2f/3a/af2f3afb73a19be7ddc0eb75e5f6c9c0.jpg){#fig:liang-24a}
+
+## {data-background-image="https://i.pinimg.com/originals/63/39/db/6339db291242961bee44bb90b1d8bc17.png" data-background-size="contain"}
+
+![Evolução da "ordem chinesa". Liang Sicheng e Lin Huiyin, 1943, publicado em 1984](https://i.pinimg.com/originals/63/39/db/6339db291242961bee44bb90b1d8bc17.png){#fig:liang-32 .nobg .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O grande Zimbábue ([@fig:zimbabwe]) é uma rede territorial que
-floresceu entre os séculos  [XI]{.smallcaps} e  [XV]{.smallcaps}. Essa rede tinha importância
-estratégica no comércio suaíle, porque controlava as minas de ouro no
-sul da África. O conjunto é extenso e era densamente povoado: ocupa uma
-superfície de 730 hectares e pode ter abrigado até dez mil habitantes no
-seu auge.
-
-O grande Zimbábue se configura como um conjunto de *bomas* construídos
-em pedra; as relações espaciais entre os complexos murados parecem
-semelhantes às relações que se estabelecem *dentro* de cada sistema
-*boma*. A cidadela maior, com muralhas de 11 metros de altura, se situa
-na cabeceira da rede, e não no centro --- a mesma situação da casa
-dominante num *boma* individual.
+Esse estudo minucioso permitiu ir além da interpretação dos tratados e
+confrontar as edificações construídas na sua diversidade. Com isso,
+Liang e Lin estabeleceram um esquema de "evolução" da ordem chinesa
+([@fig:liang-32]). Isso colocava a tradição arquitetônica da China no
+mesmo patamar de historicidade da arquitetura europeia esquematizada na
+"árvore" de Fletcher.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista aérea do Zimbábue. Foto: [Janice Bell, 2015](https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe}
+# Saberes da arquitetura #
 
-## Adensamento do boma e malha viária ##
+## Princípios fundamentais ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg"}
+ 1. Simetria axial
+ 2. Antropomorfismo
+ 3. Clareza e simplicidade
+ 4. Espaço bem definido
+ 5. Justaposição de formas completas
+ 6. Marcação do centro, extremidades e alas
+ 7. Inventário restrito de elementos
+ 8. Hierarquias formais intrínsecas
+ 9. Tripartição
+10. Regularidade do traçado
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O traçado estruturante de um caminho é a base para a formação do tecido
-construído na aldeia--rua da bacia do Mediterrâneo. 
-Já no caso do *boma*, é o adensamento do sistema edificado que
-causa a formação dos caminhos. À medida que as comunidades baseadas no
-*boma* se tornam mais numerosas e ocupam o território com maior
-densidade, os cercados se aproximam de formas retangulares. O espaço
-entre eles começa, então, a tomar a forma de rua--corredor.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Formação do arquiteto ##
 
-![Vista aérea de Niamey, Chade. Foto: [Walter Mittelholzer, 1930, arquivo da Escola Politécnica Federal de Zurique](https://commons.wikimedia.org/wiki/File:ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey}
+## Espacialidade na pintura gótica ##
 
 # Bibliografia # {- .unlisted .allowframebreaks}
 

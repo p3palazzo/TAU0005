@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "TAU 0005 História da Arquitetura e da Arte I"
+title                    : "TAU 0005"
 title_separator          : "-"
-subtitle                 : "1.º/2021"
+subtitle                 : "História da Arquitetura e da Arte I · 2.º/2021"
 name                     : "Pedro P. Palazzo"
 description: >-
   História do urbanismo, da arquitetura e da arte no contexto de seus
@@ -29,7 +29,7 @@ baseurl                  : "/tau0005"
 repository               : "p3palazzo/tau0005"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : #
+masthead_title           : "Arquitetura tradicional"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
