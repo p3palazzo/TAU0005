@@ -3413,6 +3413,27 @@ references:
   title: History of architecture on the comparative method
   type: book
 
+- id: fletcher:2020introduction
+  accessed:
+    - year: 2022
+      month: 3
+      day: 10
+  citation-key: fletcher:2020introduction
+  dimensions: '1:10:05'
+  director:
+    - family: Fletcher
+      given: Rachel
+  issued:
+    - year: 2020
+      month: 7
+      day: 3
+  language: en
+  publisher: Institute for Classical Architecture and Classical America
+  title: 'Introduction to Architectural Proportion: Part I'
+  type: motion_picture
+  URL: >-
+    https://www.classicist.org/articles/introduction-to-architectural-proportion-part-i/
+
 - id: fornes:1857manual
   author:
     - family: Fornés Gurrea

@@ -125,6 +125,22 @@ qualquer projeto ([@fig:corb]).
 
 ![Le Corbusier, arquiteto, seção áurea nas fachadas norte e sul da villa Stein, Garches, 1927](https://hcommons.org/app/uploads/sites/1001018/2021/06/le-corbusier-villa-stein-golden.png){#fig:corb .line .slide-bg}
 
+## Sistemas proporcionais ##
+
+Proporções fundamentais sugeridas por Rachel Fletcher
+[@fletcher:2020introduction]:
+
+ 1. Círculo
+ 2. *Vesica piscis*
+ 3. Simetria e teorema de Pitágoras
+ 4. Teorema de Tales (transposição de proporções)
+ 5. Círculos 6+1, hexágono e estrela
+ 6. Cauda de andorinha ou borboleta
+ 7. Proporções geométricas (raízes e seção áurea)
+ 8. *Ad quadratum* e espirais
+ 9. "Seção sagrada"
+10. Triângulo áureo e espirais aproximadas
+
 # Proporções como modo de fazer #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
