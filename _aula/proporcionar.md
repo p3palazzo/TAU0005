@@ -310,9 +310,9 @@ dados [@cha:2019reconsidering18].
 
 # Escala humana #
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-distance-detail.jpg" data-background-size="contain" data-background-position="right"}
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/03/krier-distance-detail.png" data-background-size="contain" data-background-position="right"}
 
-![Distância e detalhe, por Léon Krier](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-distance-detail.png){#fig:krier-detail .line .align-right .slide-bg}
+![Distância e detalhe, por Léon Krier](https://hcommons.org/app/uploads/sites/1002372/2022/03/krier-distance-detail.png){#fig:krier-detail .line .align-right .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma última consideração importante diz respeito à escala dos elementos
