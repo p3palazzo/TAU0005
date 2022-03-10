@@ -13,7 +13,7 @@ title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG/2560px-1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG/2560px-1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG
-  caption: "Karl Friedrich Schinkel, [Cidade medieval sobre um rio](https://commons.wikimedia.org/wiki/File:1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG), 1815"
+  caption: "Karl Friedrich Schinkel, [Cidade medieval ao longo de um rio](https://commons.wikimedia.org/wiki/File:1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG), 1815"
 ---
 
 # Proporção e estética #
