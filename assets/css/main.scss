@@ -5,6 +5,7 @@
 @charset "utf-8";
 
 @import url("https://use.typekit.net/hny1sfi.css");
+@import url("https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css");
 
 /* ==========================================================================
    Variables
@@ -45,6 +46,8 @@ $footer-background-color: transparentize($background-color, 0);
    Grid
    ========================================================================== */
 
+$x-large: 1440px;
+$max-width: calc(1520px + 3em);
 $right-sidebar-width-narrow: 300px;
 $right-sidebar-width: 300px;
 $right-sidebar-width-wide: 400px;
