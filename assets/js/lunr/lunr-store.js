@@ -59,7 +59,7 @@ var store = [{
         "url": "/tau0005/aula/volumes/",
         "teaser": null
       },{
-        "title": "Urbanização",
+        "title": "Urbanizar",
         "excerpt":"Princípios da forma urbana Tradição e modernidade Mesmo nas construções mais modernas e industrializadas, processos tradicionais de urbanização continuam vigentes, tanto em áreas mais formalizadas, quanto nas mais vernaculares e tradicionais. Dinâmica urbana: as transformações da cidade, geralmente, contam com processos e ações que seguem lógicas tradicionais. Ressalta-se que processo...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/urbanismo/",
@@ -72,7 +72,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Articular",
-        "excerpt":"Ordens clássicas Formação das ordens Mito da cabana primitiva e registro arqueológico: origem da arquitetura nas construções arquitravadas. Porém, é equivocado pensar no templo grego como resultado direto de um antecedente “primitivo”. Essa interpretação afirma uma fantasia da excepcionalidade e originalidade grega que, como vimos, não tem fundamento arqueológico. Grécia...","categories": [],
+        "excerpt":"Ornamento e geometria Há também outras derivações da forma arquitetônica, em vários casos, menos atreladas a uma visão tão metafísica. Toma-se o processo tipológico do salão de palácios árabe/islâmico como contraponto, por não apresentar uma justificativa cósmica muito marcada. Trata-se simplesmente de uma série de derivações tradicionais oriundas de ajustes...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/articular/",
         "teaser": null
@@ -83,8 +83,8 @@ var store = [{
         "url": "/tau0005/aula/caracterizar/",
         "teaser": null
       },{
-        "title": "Proporcionar",
-        "excerpt":" ","categories": [],
+        "title": "Proporção e escala",
+        "excerpt":"Proporção e estética Desde o Renascimento, o conceito de proporção tem sido o de uma condição matemática fixa. Falamos na seção áurea e em outras relações geométricas como a perfeição de formas acabadas. Mas, em quase todas as culturas tradicionais, as proporções não são a finalidade da arquitetura e sim...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/proporcionar/",
         "teaser": null
