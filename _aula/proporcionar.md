@@ -141,6 +141,41 @@ Proporções fundamentais sugeridas por Rachel Fletcher
  9. "Seção sagrada"
 10. Triângulo áureo e espirais aproximadas
 
+## Círculo ##
+
+- Unidade
+- Completude
+- Atributo do que é cíclico e atemporal
+- Infinitude
+- Marcador de lugar
+- Forma mais simples e eficiente de separar dentro e fora
+
+## Vesica piscis ##
+
+Exemplo: Stonehenge
+
+- Centro de cada círculo na circunferência do outro
+- Sol e Lua
+- O igual e o diferente
+- Permanência e transformação
+- Todo e suas partes
+- Presente na arte cristã medieval (p. ex. tímpano de Chartres)
+
+## Simetria ##
+
+- Igualdade
+  - Bilateral
+  - Central ou com mais de um eixo
+- Relação
+  - Razão
+  - Proporção
+    - Números inteiros
+      - Música
+      - Proporção fixa
+    - Geometria incomensurável
+      - Construções gráficas
+      - Proporção dinâmica
+
 # Proporções como modo de fazer #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
