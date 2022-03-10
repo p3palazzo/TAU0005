@@ -487,7 +487,7 @@ a ser estabelecida em muitos casos.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/60/Tiryns_Tafel_I.jpg"}
 
-![Planta da cidadela de Tirinto, Grécia heládica, baseada nas escavações de Heinrich Schliemann em 1884. Desenho: [Wilhelm Dörpfeld](https://commons.wikimedia.org/wiki/File:Tiryns_Tafel_I.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/60/Tiryns_Tafel_I.jpg){#fug:tyrins .full .slide-bg}
+![Planta da cidadela de Tirinto, Grécia heládica, baseada nas escavações de Heinrich Schliemann em 1884. Desenho: [Wilhelm Dörpfeld](https://commons.wikimedia.org/wiki/File:Tiryns_Tafel_I.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/60/Tiryns_Tafel_I.jpg){#fig:tyrins .full .slide-bg}
 
 ## Aldeia--rua ##
 
