@@ -1,20 +1,329 @@
 ---
-title   : "Tipos edilícios"
+title   : "Propósito"
 subtitle: "Elementos de composição"
 item    : "II"
 author  : Pedro P. Palazzo
 date    : 2022-03-15
 toc:
-  - "Cultura doméstica no Mediterâneo"
-  - "Sete tipos edilícios"
+  - Programa, função e propósito
+  - Morfologia e tipologia
   - "Tipologia processual"
-  - "Princípios do projeto tipológico"
+  - "Cultura doméstica no Mediterâneo"
 title-slide-attributes:
   data-background-image: https://i.pinimg.com/originals/c8/cc/e2/c8cce2f9390770ae17105dd79794f6a1.jpg
 header:
   overlay_image: https://i.pinimg.com/originals/c8/cc/e2/c8cce2f9390770ae17105dd79794f6a1.jpg
   caption: "Edwin Lord Weeks, [Um pátio na Alhambra no tempo dos mouros](https://commons.wikimedia.org/wiki/File:Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg), 1876"
 ---
+
+# Programa, função e propósito #
+
+# Morfologia e tipologia #
+
+## Revisão crítica do projeto modernista ##
+
+* * * *
+
+![Le Corbusier, arquiteto, maquete do plano Voisin com a sua inserção no centro histórico de Paris (1925) ](https://i.pinimg.com/originals/d3/0b/b0/d30bb0b052ef68928e7102de59b6a235.jpg){#fig:voisin .full}
+
+* * * *
+
+![West End, Boston, demolição do bairro para construção do novo centro administrativo. Foto: [Lawrence Lowry, 1959](https://www.wbur.org/news/2015/10/15/boston-urban-renewal-west-end-exhibit)](https://i.pinimg.com/originals/a3/47/6f/a3476f62ba2541c10242596a727afac9.jpg){#fig:boston}
+
+* * * *
+
+![Henri Poelaert, arquiteto, palácio de Justiça de Bruxelas. Foto de 1905](https://i.pinimg.com/originals/d8/48/c1/d848c1ee4da9aa968257089cc61207cf.jpg){#fig:poelaert}
+
+## Sete tipos edilícios ##
+
+![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types .full .nobg}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os sete tipos edilícios fundamentais ([@fig:7types]) correspondem a sete
+categorias de propósitos sociais da arquitetura. Esses propósitos se
+encontram em praticamente todas as sociedades que constroem tipos de
+edificações diferenciadas entre si. Os tipo foram concebidos por C.
+William Westfall, professor na Universidade de Notre Dame, nos Estados
+Unidos, no início da década de 1990 [@westfall:1991building].
+
+São morar, celebrar, governar, venerar, abrigar, suster e imaginar. Não
+precisam se parecer entre si nas diferentes sociedades, sendo uma ideia
+de distribuição de ambientes e não um partido arquitetônico específico.
+Trata-se de um conjunto de soluções que se encontra em quase todas as
+sociedades sedentárias. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Tipos privados ##
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+*Domus* (morar); *Mégaron* (celebrar); *Régia* (governar); *Tholos* (venerar);
+*Hipóstilo* (abrigar); *Taberna* (suster); *Theatrum* (imaginar): são
+conceitos um pouco abstratos, não objetivando-se focar nas
+especificidades dessas formas ou de seus nomes, mas em na sua
+constituição como propósitos sociais que são mais ou menos universais
+(quase todas as sociedades sedentárias e que vão produzir uma
+arquitetura nesse gradiente do rústico para o monumental, vão conter
+lugares para essas atividades). Todas elas vão partir de uma solução
+básica de abrigo, que continua pertinente em uma série de funções como
+mercados, estações de transporte, etc., ou seja, atividades utilitárias
+que demandam um espaço pouco diferenciado e flexível.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Hipóstilo
+
+: A mais simples cobertura com apoios para proteger um ambiente, que
+  delimita fisicamente o espaço para conferir um uso que pode ser
+  "congelado" em uma determinada sociedade. 
+
+## Domus ##
+
+![Modelo de uma casa romana de classe média alta](https://i.pinimg.com/originals/20/2d/b6/202db664aff50fae7bb755bbdc8bfa68.jpg){#fig:domus-model}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Domus
+
+: Chega-se ao tipo básico da casa (ou "domus"), sendo um morar que não é
+  necessariamente apenas residencial e contando com diferenciações de
+  privacidade, zonas para atividades diversas, como loja, cozinha,
+  quartos, etc. ([@fig:domus-model]) A família é aqui considerada o
+  núcleo social mínimo, geralmente com vínculo de parentesco quase
+  sempre unifamiliar. Há ainda um espaço mais público e outro mais
+  reservado. O arquétipo do morar extrapola, assim, as funções
+  específicas de uma casa, no sentido estritamente residencial, mas diz
+  sobretudo sobre uma certa maneira de se relacionar com o espaço
+  público, com um espaço mais resguardado e outro com maior interação
+  com o mundo exterior. Isso justifica seu diagrama formal apresentar
+  uma sala atrás da outra (em profundidade), sendo a da frente aberta e
+  a posterior mais privada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Taberna ##
+
+![Tabernas romanas em Ostia](https://i.pinimg.com/originals/e4/55/64/e45564c769935f31aa6d72d1cf52494f.gif){#fig:tabernae-ostia .align-right .r-stretch}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Taberna
+
+: A taberna pode ser entendida como o mercado (suster), onde tudo é
+  público, voltado para o exterior (rua), de modo a maximizar a
+  exposição do que há dentro (produtos e serviços ofertados). Destina-se
+  a atividades essencialmente econômicas variadas e separadas
+  individualmente ([@fig:tabernae-ostia]). O lugar de trabalho ou
+  comércio é caracterizado por permitir a todos(as) acesso igual ao
+  espaço público, justificando a configuração na taberna como uma série
+  de células uma ao lado da outra. Assim, todos os comerciantes,
+  trabalhadores ou produtores estejam um pé de igualdade na esfera
+  pública.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Uma das combinações de tipos mais antigas e mais comuns em todas as
+culturas é a da domus com a taberna, onde as lojas e oficinas ocupam o
+térreo e a morada unifamiliar ou coletiva fica nos andares superiores. É
+o caso das *insulae* da Roma antiga, muito semelhantes aos edifícios de
+apartamentos com comércio no térreo que encontramos hoje em dia nas
+nossas cidades ([@fig:insula]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Insula em Ostia](https://i.pinimg.com/originals/71/52/9b/71529b85b0c089b17295cca68e1ce39d.jpg){#fig:insula .r-stretch}
+
+## Tipos cívicos ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O morar e o suster são essencialmente atividades privadas. Já as
+atividades cívicas são:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mégaron
+
+: A celebração ou "congregar" ("mégaron") e o governo ("régia") são
+  atividades que dizem respeito à toda a sociedade, por afetarem a
+  comunidade integralmente.
+
+: Surge, então, a demanda por reunir pessoas (congregar/celebrar), sendo
+  o princípio do evento coletivo para reunião. O espaço da celebração é
+  insuficientemente indiferenciado para receber uma grande congregação
+  sem hierarquias e acolhendo a todos, daí sua forma longitudinal
+  vinculada ao propósito de celebrar algo que está na extremidade do
+  espaço. Constitui-se, assim, o tipo para templos e igrejas, apesar de
+  receberem formas de culto diferentes. A sala de aula convencional
+  também tem esse formato com um ponto focal único. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Mégarōn: Modelo do Partenon na Acrópole de Atenas](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Acropolis_architectural_model_-2.jpg/1280px-Acropolis_architectural_model_-2.jpg){#fig:megaron-par}
+
+* * * *
+
+![Régia: Cidade proibida, Pequim, séculos [XIII]{.smallcaps} a [XIX]{.smallcaps}](https://i.pinimg.com/originals/ab/4d/ff/ab4dff883ae4e3b18eb388b93ab8c164.jpg){#fig:regia-beijing}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Régia
+
+: O governar refere-se ao funcionamento administrativo de uma sociedade,
+  variando conforme sua organização e sendo mais complexo por contar com
+  um pátio central e uma hierarquia espacial. O importante é o que faz a
+  forma, seus propósitos. Esse tipo da Régia ou do governo (poder
+  político) e da logística administrativa apresenta uma série de espaços
+  organizados de forma variada, sem divisões específicas, mas com uma
+  configuração meio padronizada do espaço com um pátio central ou
+  dianteiro (aberto ou fechado), que sinaliza um ponto focal. Assim, o
+  papel desse edifício é de cuidar do público, sendo que esse pátio ou
+  praça pública simbolizam essa importância do coletivo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Theatrum
+
+: O tholos e o theatrum voltam-se para o universo mental, um
+  imaginar do que pode vir a ser, uma ficção. As assembleias políticas
+  podem seguir a forma do teatro, a partir da ideia das pessoas se
+  reunirem para imaginar a sociedade. No "theatrum" não existe a ideia
+  de ponto focal único, apesar de manter o princípio de runião pessoas
+  com um mesmo objetivo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Teatro romano em Dougga, atual Tunísia, reconstituição por Jean-Claude Golvin](https://i.pinimg.com/originals/6f/9b/30/6f9b30a26bfd549f68007469507b7150.jpg){#fig:theatrum}
+
+* * * *
+
+![Tholos: Templo do amor, jardins de Versalhes](https://i.pinimg.com/originals/5c/62/72/5c62723678b10a208d7c6116142e9a44.jpg){#fig:tholos-amour .align-right}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Tholos
+
+: Por fim, o tholos é mais fechado e focado na introspecção, sendo um
+  lugar de recolhimento, que vai envolver e separar a pessoa do mundo à
+  sua volta.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por fim, ressalta-se que não se são tipos que se restringem à Bacia do
+Mediterrâneo, apesar de os diagramas remeterem muito a edifícios
+característicos dessa região. Entretanto, muitos deles aparecem em
+vários outros contextos. A *domus* e a *taberna* são tipos praticamente
+universais, presentes em qualquer tecido urbano relativamente adensado,
+na forma de lojas ou casas com mais ou menos essa configuração. A
+*régia* também segue esse padrão com palácios ou complexos
+administrativos com conformações mais difusas. O *tholos* segue a mesma
+caracterização como tipologia universal, sendo apenas o *mégaron* e o
+*theatrum* um pouco mais específicos na forma dos diagramas vinculadas à
+Bacia do Mediterrâneo, a rigor.
+
+Os sete tipos também podem ser pensados como unidades mínimas que podem
+ser recombinadas para formar edifícios complexos e conjuntos
+arquitetônicos mais extensos, como no fórum de Trajano ([@fig:ulpia]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Fórum de Trajano e Basílica Ulpia, início do século [II]{.smallcaps} d.C. Desenho: [3coma14, 2011](https://commons.wikimedia.org/wiki/File:Foro_de_Trajano-planta.png)](https://upload.wikimedia.org/wikipedia/commons/6/6e/Foro_de_Trajano-planta.png){#fig:ulpia}
+
+# Tipologia processual #
+
+## Estudos tipológicos italianos ##
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::: {.columns #fig:muratori-operante}
+::: {.column width=50%}
+![II Fase, século [XIV]{.smallcaps}](https://i.pinimg.com/originals/83/d7/aa/83d7aaf6b03c227a45dd77834287c0a0.jpg){#fig:rialto2}
+:::
+::: {.column width=50%}
+![III Fase, século [XVI]{.smallcaps}](https://i.pinimg.com/originals/30/6e/06/306e06706a00fbe0fee772344543ecb7.jpg){#fig:rialto3}
+:::
+Saverio Muratori, processo de urbanização do bairro Rialto, Veneza.
+*Studi per una operante storia di Venezia*, 1959
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A tipologia processual é uma metodologia de análise e projeto
+desenvolvida na década de 1950 por Saverio Muratori, quando ele era
+professor na Universidade de Veneza [@muratori:1959studiIX].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Tipos de células base do Mediterrâneo ocidental. Desenho: Pedro P. Palazzo, 2021](https://i.pinimg.com/originals/b6/00/66/b60066a2d03348fa0174e53329776036.png){#fig:cell .full .line}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A obra de Muratori foi organizada numa teoria sistemática por alguns dos
+seus alunos, como Gianfranco Caniggia [@caniggia:2008lettura;
+@caniggia:1987progetto] e Giuseppe Strappa [@caniggia:1989permanenze].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Tipos de base e duplicações, levantados na década de 1940 por Gianfranco Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:lettura-11 .align-right .line .nobg}
+
+* * * *
+
+![Centuriação romana](https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg){#fig:centuriatio .align-right}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[@caniggia:1984lettura]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Como, Itália, II fase da ocupação romana. Levantamento por Gianfranco Caniggia, 1965](https://i.pinimg.com/originals/85/9c/ca/859ccaa45f361cac1c2c3414659dbaaa.png){#fig:como-2fase}
+
+* * * *
+
+![Processo tipológico em Como, Itália. Levantamento por Gianfranco Caniggia, 1965](https://i.pinimg.com/originals/ab/3a/78/ab3a78f1ebcac7b42ae32a579e951bc8.png){#fig:como-processo .line .nobg}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:diacroniche}
+::: {.column width=50%}
+![Florença, Roma e Gênova](https://i.pinimg.com/originals/af/ee/41/afee4121794179b754ae4d2aaf8246af.png){#fig:lettura-12}
+:::
+::: {.column width=50%}
+![Pienza](https://i.pinimg.com/originals/f1/4b/4f/f14b4ff392beb8b13d18678010250737.png){#fig:lettura-17}
+:::
+Mutações diacrônicas na edilícia de base. Gianfranco Caniggia, 1977
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Processo tipológico ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Vamos seguir o percurso do processo tipológico da escala da casa à da
+cidade. A arquitetura islâmica é o ponto de articulação ideal para esse
+processo porque ela se desdobra do interior para os limites do espaço
+público, enquanto a arquitetura do norte da Europa, por exemplo, faz o
+percurso inverso --- do espaço público para a delimitação do espaço
+doméstico.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A casa com pátio do Mediterrâneo ocidental se desenvolve a partir de
+duas raízes convergentes: o *oecus* primitivo feito de células espaciais
+pequenas e a combinação desse tipo com a *regia* para formar a *domus*
+romana, a morada grega ou a casa compacta do Crescente fértil
+[@strappa:2016morfologia] ([@fig:processo]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Processo tipológico da casa de células até a casa-pátio. Desenho: [Giuseppe Strappa](http://www.giuseppestrappa.it/?p=1517)](https://i.pinimg.com/originals/15/5d/f6/155df6a9f3d932e6dc00fcada0f0e9a9.jpg){#fig:processo .r-stretch}
+
+## Princípios do projeto tipológico ##
+
+* * * *
+
+![Ammaia, Lusitânia romana](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia .full .nobg}
+
+* * * *
+
+![Reconstituição de Ammaia](https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png){#fig:ammaia-aerea .full .r-stretch}
 
 # Cultura doméstica no Mediterrâneo #
 
@@ -434,308 +743,6 @@ Ao contrário de tratá-las de forma genérica e entender suas necessidades
 mínimas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Sete tipos edilícios #
-
-![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types .full .nobg}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Os sete tipos edilícios fundamentais ([@fig:7types]) correspondem a sete
-categorias de propósitos sociais da arquitetura. Esses propósitos se
-encontram em praticamente todas as sociedades que constroem tipos de
-edificações diferenciadas entre si. Os tipo foram concebidos por C.
-William Westfall, professor na Universidade de Notre Dame, nos Estados
-Unidos, no início da década de 1990 [@westfall:1991building].
-
-São morar, celebrar, governar, venerar, abrigar, suster e imaginar. Não
-precisam se parecer entre si nas diferentes sociedades, sendo uma ideia
-de distribuição de ambientes e não um partido arquitetônico específico.
-Trata-se de um conjunto de soluções que se encontra em quase todas as
-sociedades sedentárias. 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Tipos privados ##
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-*Domus* (morar); *Mégaron* (celebrar); *Régia* (governar); *Tholos* (venerar);
-*Hipóstilo* (abrigar); *Taberna* (suster); *Theatrum* (imaginar): são
-conceitos um pouco abstratos, não objetivando-se focar nas
-especificidades dessas formas ou de seus nomes, mas em na sua
-constituição como propósitos sociais que são mais ou menos universais
-(quase todas as sociedades sedentárias e que vão produzir uma
-arquitetura nesse gradiente do rústico para o monumental, vão conter
-lugares para essas atividades). Todas elas vão partir de uma solução
-básica de abrigo, que continua pertinente em uma série de funções como
-mercados, estações de transporte, etc., ou seja, atividades utilitárias
-que demandam um espaço pouco diferenciado e flexível.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-Hipóstilo
-
-: A mais simples cobertura com apoios para proteger um ambiente, que
-  delimita fisicamente o espaço para conferir um uso que pode ser
-  "congelado" em uma determinada sociedade. 
-
-## Domus ##
-
-![Modelo de uma casa romana de classe média alta](https://i.pinimg.com/originals/20/2d/b6/202db664aff50fae7bb755bbdc8bfa68.jpg){#fig:domus-model}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Domus
-
-: Chega-se ao tipo básico da casa (ou "domus"), sendo um morar que não é
-  necessariamente apenas residencial e contando com diferenciações de
-  privacidade, zonas para atividades diversas, como loja, cozinha,
-  quartos, etc. ([@fig:domus-model]) A família é aqui considerada o
-  núcleo social mínimo, geralmente com vínculo de parentesco quase
-  sempre unifamiliar. Há ainda um espaço mais público e outro mais
-  reservado. O arquétipo do morar extrapola, assim, as funções
-  específicas de uma casa, no sentido estritamente residencial, mas diz
-  sobretudo sobre uma certa maneira de se relacionar com o espaço
-  público, com um espaço mais resguardado e outro com maior interação
-  com o mundo exterior. Isso justifica seu diagrama formal apresentar
-  uma sala atrás da outra (em profundidade), sendo a da frente aberta e
-  a posterior mais privada.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Taberna ##
-
-![Tabernas romanas em Ostia](https://i.pinimg.com/originals/e4/55/64/e45564c769935f31aa6d72d1cf52494f.gif){#fig:tabernae-ostia .align-right .r-stretch}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Taberna
-
-: A taberna pode ser entendida como o mercado (suster), onde tudo é
-  público, voltado para o exterior (rua), de modo a maximizar a
-  exposição do que há dentro (produtos e serviços ofertados). Destina-se
-  a atividades essencialmente econômicas variadas e separadas
-  individualmente ([@fig:tabernae-ostia]). O lugar de trabalho ou
-  comércio é caracterizado por permitir a todos(as) acesso igual ao
-  espaço público, justificando a configuração na taberna como uma série
-  de células uma ao lado da outra. Assim, todos os comerciantes,
-  trabalhadores ou produtores estejam um pé de igualdade na esfera
-  pública.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Uma das combinações de tipos mais antigas e mais comuns em todas as
-culturas é a da domus com a taberna, onde as lojas e oficinas ocupam o
-térreo e a morada unifamiliar ou coletiva fica nos andares superiores. É
-o caso das *insulae* da Roma antiga, muito semelhantes aos edifícios de
-apartamentos com comércio no térreo que encontramos hoje em dia nas
-nossas cidades ([@fig:insula]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Insula em Ostia](https://i.pinimg.com/originals/71/52/9b/71529b85b0c089b17295cca68e1ce39d.jpg){#fig:insula .r-stretch}
-
-## Tipos cívicos ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O morar e o suster são essencialmente atividades privadas. Já as
-atividades cívicas são:
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Mégaron
-
-: A celebração ou "congregar" ("mégaron") e o governo ("régia") são
-  atividades que dizem respeito à toda a sociedade, por afetarem a
-  comunidade integralmente.
-
-: Surge, então, a demanda por reunir pessoas (congregar/celebrar), sendo
-  o princípio do evento coletivo para reunião. O espaço da celebração é
-  insuficientemente indiferenciado para receber uma grande congregação
-  sem hierarquias e acolhendo a todos, daí sua forma longitudinal
-  vinculada ao propósito de celebrar algo que está na extremidade do
-  espaço. Constitui-se, assim, o tipo para templos e igrejas, apesar de
-  receberem formas de culto diferentes. A sala de aula convencional
-  também tem esse formato com um ponto focal único. 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Mégarōn: Modelo do Partenon na Acrópole de Atenas](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Acropolis_architectural_model_-2.jpg/1280px-Acropolis_architectural_model_-2.jpg){#fig:megaron-par}
-
-* * * *
-
-![Régia: Cidade proibida, Pequim, séculos [XIII]{.smallcaps} a [XIX]{.smallcaps}](https://i.pinimg.com/originals/ab/4d/ff/ab4dff883ae4e3b18eb388b93ab8c164.jpg){#fig:regia-beijing}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Régia
-
-: O governar refere-se ao funcionamento administrativo de uma sociedade,
-  variando conforme sua organização e sendo mais complexo por contar com
-  um pátio central e uma hierarquia espacial. O importante é o que faz a
-  forma, seus propósitos. Esse tipo da Régia ou do governo (poder
-  político) e da logística administrativa apresenta uma série de espaços
-  organizados de forma variada, sem divisões específicas, mas com uma
-  configuração meio padronizada do espaço com um pátio central ou
-  dianteiro (aberto ou fechado), que sinaliza um ponto focal. Assim, o
-  papel desse edifício é de cuidar do público, sendo que esse pátio ou
-  praça pública simbolizam essa importância do coletivo.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Theatrum
-
-: O tholos e o theatrum voltam-se para o universo mental, um
-  imaginar do que pode vir a ser, uma ficção. As assembleias políticas
-  podem seguir a forma do teatro, a partir da ideia das pessoas se
-  reunirem para imaginar a sociedade. No "theatrum" não existe a ideia
-  de ponto focal único, apesar de manter o princípio de runião pessoas
-  com um mesmo objetivo.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Teatro romano em Dougga, atual Tunísia, reconstituição por Jean-Claude Golvin](https://i.pinimg.com/originals/6f/9b/30/6f9b30a26bfd549f68007469507b7150.jpg){#fig:theatrum}
-
-* * * *
-
-![Tholos: Templo do amor, jardins de Versalhes](https://i.pinimg.com/originals/5c/62/72/5c62723678b10a208d7c6116142e9a44.jpg){#fig:tholos-amour .align-right}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Tholos
-
-: Por fim, o tholos é mais fechado e focado na introspecção, sendo um
-  lugar de recolhimento, que vai envolver e separar a pessoa do mundo à
-  sua volta.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Por fim, ressalta-se que não se são tipos que se restringem à Bacia do
-Mediterrâneo, apesar de os diagramas remeterem muito a edifícios
-característicos dessa região. Entretanto, muitos deles aparecem em
-vários outros contextos. A *domus* e a *taberna* são tipos praticamente
-universais, presentes em qualquer tecido urbano relativamente adensado,
-na forma de lojas ou casas com mais ou menos essa configuração. A
-*régia* também segue esse padrão com palácios ou complexos
-administrativos com conformações mais difusas. O *tholos* segue a mesma
-caracterização como tipologia universal, sendo apenas o *mégaron* e o
-*theatrum* um pouco mais específicos na forma dos diagramas vinculadas à
-Bacia do Mediterrâneo, a rigor.
-
-Os sete tipos também podem ser pensados como unidades mínimas que podem
-ser recombinadas para formar edifícios complexos e conjuntos
-arquitetônicos mais extensos, como no fórum de Trajano ([@fig:ulpia]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Fórum de Trajano e Basílica Ulpia, início do século [II]{.smallcaps} d.C. Desenho: [3coma14, 2011](https://commons.wikimedia.org/wiki/File:Foro_de_Trajano-planta.png)](https://upload.wikimedia.org/wikipedia/commons/6/6e/Foro_de_Trajano-planta.png){#fig:ulpia}
-
-# Tipologia processual #
-
-* * * *
-
-![Le Corbusier, arquiteto, maquete do plano Voisin com a sua inserção no centro histórico de Paris (1925) ](https://i.pinimg.com/originals/d3/0b/b0/d30bb0b052ef68928e7102de59b6a235.jpg){#fig:voisin .full}
-
-* * * *
-
-![West End, Boston, demolição do bairro para construção do novo centro administrativo. Foto: [Lawrence Lowry, 1959](https://www.wbur.org/news/2015/10/15/boston-urban-renewal-west-end-exhibit)](https://i.pinimg.com/originals/a3/47/6f/a3476f62ba2541c10242596a727afac9.jpg){#fig:boston}
-
-* * * *
-
-![Henri Poelaert, arquiteto, palácio de Justiça de Bruxelas. Foto de 1905](https://i.pinimg.com/originals/d8/48/c1/d848c1ee4da9aa968257089cc61207cf.jpg){#fig:poelaert}
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::: {.columns #fig:muratori-operante}
-::: {.column width=50%}
-![II Fase, século [XIV]{.smallcaps}](https://i.pinimg.com/originals/83/d7/aa/83d7aaf6b03c227a45dd77834287c0a0.jpg){#fig:rialto2}
-:::
-::: {.column width=50%}
-![III Fase, século
-[XVI]{.smallcaps}](https://i.pinimg.com/originals/30/6e/06/306e06706a00fbe0fee772344543ecb7.jpg){#fig:rialto3}
-:::
-Saverio Muratori, processo de urbanização do bairro Rialto, Veneza.
-*Studi per una operante storia di Venezia*, 1959
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A tipologia processual é uma metodologia de análise e projeto
-desenvolvida na década de 1950 por Saverio Muratori, quando ele era
-professor na Universidade de Veneza [@muratori:1959studiIX].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-![Tipos de células base do Mediterrâneo ocidental. Desenho: Pedro P. Palazzo, 2021](https://i.pinimg.com/originals/b6/00/66/b60066a2d03348fa0174e53329776036.png){#fig:cell .full .line}
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A obra de Muratori foi organizada numa teoria sistemática por alguns dos
-seus alunos, como Gianfranco Caniggia [@caniggia:2008lettura;
-@caniggia:1987progetto] e Giuseppe Strappa [@caniggia:1989permanenze].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Tipos de base e duplicações, levantados na década de 1940 por Gianfranco Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:lettura-11 .align-right .line .nobg}
-
-* * * *
-
-![Centuriação romana](https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg){#fig:centuriatio .align-right}
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[@caniggia:1984lettura]
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Como, Itália, II fase da ocupação romana. Levantamento por Gianfranco Caniggia, 1965](https://i.pinimg.com/originals/85/9c/ca/859ccaa45f361cac1c2c3414659dbaaa.png){#fig:como-2fase}
-
-* * * *
-
-![Processo tipológico em Como, Itália. Levantamento por Gianfranco Caniggia, 1965](https://i.pinimg.com/originals/ab/3a/78/ab3a78f1ebcac7b42ae32a579e951bc8.png){#fig:como-processo .line .nobg}
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:diacroniche}
-::: {.column width=50%}
-![Florença, Roma e Gênova](https://i.pinimg.com/originals/af/ee/41/afee4121794179b754ae4d2aaf8246af.png){#fig:lettura-12}
-:::
-::: {.column width=50%}
-![Pienza](https://i.pinimg.com/originals/f1/4b/4f/f14b4ff392beb8b13d18678010250737.png){#fig:lettura-17}
-:::
-Mutações diacrônicas na edilícia de base. Gianfranco Caniggia, 1977
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Processo tipológico ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Vamos seguir o percurso do processo tipológico da escala da casa à da
-cidade. A arquitetura islâmica é o ponto de articulação ideal para esse
-processo porque ela se desdobra do interior para os limites do espaço
-público, enquanto a arquitetura do norte da Europa, por exemplo, faz o
-percurso inverso --- do espaço público para a delimitação do espaço
-doméstico.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A casa com pátio do Mediterrâneo ocidental se desenvolve a partir de
-duas raízes convergentes: o *oecus* primitivo feito de células espaciais
-pequenas e a combinação desse tipo com a *regia* para formar a *domus*
-romana, a morada grega ou a casa compacta do Crescente fértil
-[@strappa:2016morfologia] ([@fig:processo]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Processo tipológico da casa de células até a casa-pátio. Desenho: [Giuseppe Strappa](http://www.giuseppestrappa.it/?p=1517)](https://i.pinimg.com/originals/15/5d/f6/155df6a9f3d932e6dc00fcada0f0e9a9.jpg){#fig:processo .r-stretch}
-
-## Princípios do projeto tipológico ##
-
-* * * *
-
-![Ammaia, Lusitânia romana](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia .full .nobg}
-
-* * * *
-
-![Reconstituição de Ammaia](https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png){#fig:ammaia-aerea .full .r-stretch}
-
 ## Salões palacianos no Mediterrâneo ocidental ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -763,8 +770,6 @@ com abside e alcovas laterais da tradição islâmica mais tardia.
 * * * *
 
 ![Medina Azahara, Córdoba, 953--957. Esquema do cone visual no salão Rico, segundo Felix Arnold, 2017](https://i.pinimg.com/originals/3a/bd/d3/3abdd32952d8115364319e8e09b7a60b.png){#fig:arnold2017-2.34}
-
-# Princípios do projeto tipológico #
 
 # Bibliografia # {- .unlisted .allowframebreaks}
 
