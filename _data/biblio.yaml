@@ -1073,7 +1073,7 @@ references:
   ISBN: 978-0-7546-6062-0
   issued:
     - year: 2011
-  language: English
+  language: en
   number-of-pages: '462'
   publisher: Ashgate
   publisher-place: Farnham
@@ -1292,7 +1292,7 @@ references:
   issue: '1'
   issued:
     - year: 1968
-  language: English
+  language: en
   page: 49-71
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
@@ -1571,9 +1571,9 @@ references:
   page: 448-469
   source: Crossref
   title: >-
-    Drawing with Numbers: Geometry and Numeracy in Early Modern Architectural
-    Design
-  title-short: Drawing with Numbers
+    Drawing with numbers: geometry and numeracy in early modern architectural
+    design
+  title-short: Drawing with numbers
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/3592497
   volume: '62'
@@ -1883,7 +1883,7 @@ references:
   ISBN: 978-0-8248-6101-8
   issued:
     - year: 2011
-  language: English
+  language: en
   page: 193-203
   publisher: 'Hawai’i University Press : Hong Kong University Press'
   publisher-place: 'Honolulu : [Hong Kong]'
@@ -2297,7 +2297,7 @@ references:
   ISBN: 978-0-8248-6101-8
   issued:
     - year: 2011
-  language: English
+  language: en
   publisher: 'Hawai’i University Press : Hong Kong University Press'
   publisher-place: 'Honolulu : [Hong Kong]'
   source: Open WorldCat
@@ -3211,7 +3211,7 @@ references:
   ISBN: 978-0-8248-3363-3
   issued:
     - year: 2012
-  language: English
+  language: en
   number-of-pages: '304'
   publisher: University of Hawai’i Press ; Hong Kong University Press
   publisher-place: 'Honolulu : [Hong Kong]'
@@ -3361,7 +3361,7 @@ references:
   ISBN: 978-0-226-25203-2
   issued:
     - year: 1981
-  language: English
+  language: en
   number-of-pages: '382'
   publisher: University of Chicago Press
   publisher-place: Chicago
@@ -3419,6 +3419,27 @@ references:
       month: 3
       day: 10
   citation-key: fletcher:2020introduction
+  dimensions: '1:02:59'
+  director:
+    - family: Fletcher
+      given: Rachel
+  issued:
+    - year: 2020
+      month: 7
+      day: 3
+  language: en
+  publisher: Institute for Classical Architecture and Classical America
+  title: 'Introduction to architectural proportion: part IV'
+  type: motion_picture
+  URL: >-
+    https://www.classicist.org/articles/introduction-to-architectural-proportion-part-iv/
+
+- id: fletcher:2020introduction1
+  accessed:
+    - year: 2022
+      month: 3
+      day: 10
+  citation-key: fletcher:2020introduction1
   dimensions: '1:10:05'
   director:
     - family: Fletcher
@@ -3429,10 +3450,52 @@ references:
       day: 3
   language: en
   publisher: Institute for Classical Architecture and Classical America
-  title: 'Introduction to Architectural Proportion: Part I'
+  title: 'Introduction to architectural proportion: part I'
   type: motion_picture
   URL: >-
     https://www.classicist.org/articles/introduction-to-architectural-proportion-part-i/
+
+- id: fletcher:2020introduction2
+  accessed:
+    - year: 2022
+      month: 3
+      day: 10
+  citation-key: fletcher:2020introduction2
+  dimensions: '1:02:59'
+  director:
+    - family: Fletcher
+      given: Rachel
+  issued:
+    - year: 2020
+      month: 7
+      day: 3
+  language: en
+  publisher: Institute for Classical Architecture and Classical America
+  title: 'Introduction to architectural proportion: part II'
+  type: motion_picture
+  URL: >-
+    https://www.classicist.org/articles/introduction-to-architectural-proportion-part-ii/
+
+- id: fletcher:2020introduction3
+  accessed:
+    - year: 2022
+      month: 3
+      day: 10
+  citation-key: fletcher:2020introduction3
+  dimensions: '1:02:59'
+  director:
+    - family: Fletcher
+      given: Rachel
+  issued:
+    - year: 2020
+      month: 7
+      day: 3
+  language: en
+  publisher: Institute for Classical Architecture and Classical America
+  title: 'Introduction to architectural proportion: part III'
+  type: motion_picture
+  URL: >-
+    https://www.classicist.org/articles/introduction-to-architectural-proportion-part-iii/
 
 - id: fornes:1857manual
   author:
@@ -4187,8 +4250,7 @@ references:
   language: en-GB
   page: 1-13
   source: JSTOR
-  title: 'Yingzao Fashi: twelfth-century Chinese building manual'
-  title-short: Yingzao fashi
+  title: '*Yingzao Fashi*: twelfth-century Chinese building manual'
   type: article-journal
   URL: https://www.jstor.org/stable/1568644
   volume: '41'
@@ -6011,7 +6073,7 @@ references:
   ISBN: 978-7-81089-578-1
   issued:
     - year: 2004
-  language: Chinese
+  language: zh
   publisher: 东南大学出版社 [Dong nan da xue chu ban she]
   publisher-place: Nanjing
   source: Library of Congress ISBN
@@ -7837,12 +7899,13 @@ references:
   issue: '2'
   issued:
     - year: 2004
-  language: English
+  language: en
   page: 228-254
   source: JSTOR
   title: >-
-    The Tang Architectural Icon and the Politics of Chinese Architectural
-    History
+    The Tang architectural icon and the politics of Chinese architectural
+    history
+  title-short: The Tang architectural icon
   type: article-journal
   URL: http://www.jstor.org/stable/3177416
   volume: '86'
@@ -7919,7 +7982,7 @@ references:
   ISBN: 978-85-230-0740-9
   issued:
     - year: 2003
-  language: Portuguese
+  language: pt-BR
   publisher: Editora UnB
   publisher-place: Brasília
   source: Open WorldCat
@@ -8120,11 +8183,11 @@ references:
   ISSN: 1662-8985
   issued:
     - year: 2012
-  language: English
+  language: en
   page: 819-822
   publisher: Trans Tech Publications Ltd
   source: www.scientific.net
-  title: Experimental Study on Stiffness of Dougong in Chinese Ancient Buildings
+  title: Experimental study on stiffness of *dougong* in Chinese ancient buildings
   type: article-journal
   URL: https://www.scientific.net/AMR.368-373.819
   volume: 368-373
@@ -9114,11 +9177,11 @@ references:
   issue: 3/4
   issued:
     - year: 1944
-  language: English
+  language: en
   page: 36-42
   publisher: '[University of California Press, Society of Architectural Historians]'
   source: JSTOR
-  title: The Pier in Gothic Architecture Especially in the Ile de France
+  title: The pier in Gothic architecture especially in the Ile de France
   type: article-journal
   URL: https://www.jstor.org/stable/901175
   volume: '4'
@@ -9140,7 +9203,7 @@ references:
   publisher: Weatherhill
   publisher-place: New York
   source: EBSCOhost
-  title: 'Shinto art : Ise and izumo shrines'
+  title: 'Shinto art : Ise and Izumo shrines'
   title-short: Shinto art
   type: book
 
