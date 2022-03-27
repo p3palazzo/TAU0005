@@ -1,3 +1,7 @@
-csl: https://raw.githubusercontent.com/citation-style-language/styles/master/modern-language-association.csl
+bibliography: "_data/biblio.yaml"
+csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/modern-language-association.csl"
+crossrefYaml: "_spec/revealjs-crossref.yaml"
+css: "../../assets/css/revealjs-main.css"
 lang: pt-BR
 suppress-bibliography: false
+toc: false
