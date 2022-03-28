@@ -18,148 +18,20 @@ header:
 
 # Proporção e estética #
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Proporções dinâmicas ou "construir no tempo", por oposição a proporções
-fixas ou "dar nós no espaço" [@trachtenberg:2014build2]. As proporções
-dinâmicas são um modo de produzir construções sem necessitar de um
-projeto desenhado nos mínimos detalhes, evoluindo ao longo do tempo e de
-sucessivas gerações de construtores [@langhein:2013proportion]. As
-proporções fixas emergem da arquitetura europeia a partir do
-Renascimento, baseadas numa teoria de que a forma acabada será mais bela
-se ela respeitar certas relações dimensionais, em parte inspiradas nas
-harmonias musicais [@wittkower:1968arquitectura].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+. . .
 
-## Proporções como instrumento da construção tradicional ##
+![Princípios vitruvianos](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvius-firmitas-utilitas-venustas.png){#fig:triade .line .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-As proporções são o primeiro instrumento da arquitetura tradicional.
-Hoje em dia, os projetos arquitetônicos são condicionados por medidas
-numéricas: normas que exigem dimensões métricas de ambientes, o cálculo
-estrutural que estipula quantidades de materiais, o desempenho de
-componentes que é medido em patamares numéricos... Por isso, as cotas de
-dimensão e os quadros quantitativos são os elementos mais importantes de
-um projeto arquitetônico na atualidade.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain"}
-
-![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .align-right .line .slide-bg}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Tudo começa com um círculo. Alguns dos mais antigos abrigos permanentes
-são cabanas de planta circular. É o caso do sítio arqueológico de Eynan,
-em Israel, que data de 15 a 12 mil anos atrás (@fig:eynan)
-[@haklay:2015new10]. O traçado circular permite determinar todas as
-dimensões da construção usando praticamente só uma corda, portanto não é
-de espantar que essas cabanas pré-históricas sejam circulares.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A planta circular é uma solução prática e eficiente para encerrar a
-maior quantidade de espaço com o menor consumo de material e uma
-estrutura que estabiliza a si mesma. Por isso, ela continua a ser usada
-em pequenos depósitos rurais, como este chafurdão no Alentejo.
-[@fig:chafurdao]
-
-* * * *
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Chafurdão no vale de Cales, Castelo de Vide, Alentejo, Portugal. [[ADER--AL]{.smallcaps}, 2014](http://www.outralentejo.org/galeria/castelo-de-vide_chafurdao-do-vale-de-cales/)](https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg){#fig:chafurdao .full .slide-bg}
-
-## Quadrados e diagonais ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O círculo é muito conveniente para organizar geometrias
-precisas e de grandes dimensões, economizando material e esforço. Só
-que, em várias sociedades, as construções humanas vão ganhando funções
-mais complexas e mais equipamentos e mobiliário permanentes ao longo do
-tempo. Nesses casos, a planta circular passa a ser um inconveniente por
-não ter superfícies retas nem espaço alongados. Nesses casos, o quadrado
-acaba por ser a forma mais prática.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png" data-background-size="contain"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O quadrado pode se desdobrar numa variedade de retângulos com proporções
-convenientes ([@fig:proporcoes]). Os mais básicos desses retângulos são o
-de um quadrado e meio e dois quadrados; essas proporções são análogas a
-harmonias musicais --- a quinta e a oitava --- e, por isso, foram muito
-apreciadas em culturas que atribuíam um significado transcendental às
-proporções, como a Grécia antiga e o Renascimento [@bonell:1999divina].
-
-Na vida real, duas outras relações proporcionais são bastante úteis. Uma
-delas é o retângulo gerado a partir da diagonal do quadrado, que é uma
-medida muito fácil de demarcar num canteiro de obra; esse retângulo tem
-outra propriedade interessante, que é a possibilidade de ser dividido em
-duas metades com a mesma proporção do retângulo original --- essa
-propriedade está na origem das folhas de papel da série `A`, que foi
-desenvolvida no início do século [XX]{.smallcaps} pensando na economia
-do corte de folhas. Outra proporção muito conveniente na construção é
-aquela que é gerada pela metade da diagonal do quadrado; é uma boa
-relação entre a largura de um espaço monumental e a espessura das suas
-paredes --- ela foi bastante usada na Europa medieval
-[@conant:1968after-life27].
-
-Como já vimos, a seção áurea é uma relação proporcional um tanto
-badalada desde a segunda metade do século [XIX]{.smallcaps}
-[@zeising:1854neue]. Acontece que ela é menos conveniente de se executar
-num canteiro de obra; as suas vantagens dizem mais respeito a uma
-interpretação transcendental das proporções como espelho da natureza
-[@doczi:2008poder].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Proporções derivadas do quadrado. Acima: um quadrado e meio ou "quinta"; dois quadrados ou "oitava"; abaixo: retângulo gerado pela diagonal do quadrado e seção áurea; centro: proporções da casa kamayurá e traçado gerado pela meia diagonal do quadrado](https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png){#fig:proporcoes .line .full .slide-bg}
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-18-scaled.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A casa tradicional Kamayurá ([@fig:kamayura; @fig:ok-planta;
-@fig:ok-corte]) é baseada no retângulo formado pela diagonal do
-quadrado, que determina a largura do vão central [@kamayura:2019manual].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![’Ok eté (casa tradicional) kamayurá, corte segundo [Salkuman Kamayurá, 2019](https://issuu.com/annajubs/docs/190812_casakamayurasingles)](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-18-scaled.jpg){#fig:kamayura .slide-bg}
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg" data-background-size="contain"}
-
-![Planta de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg){#fig:ok-planta .full .slide-bg}
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg" data-background-size="contain"}
-
-![Corte de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg){#fig:ok-corte .full .slide-bg}
-
-## {data-background-image="https://i.pinimg.com/originals/c3/c4/35/c3c4352dcfc4ca33a941b7d39581fc00.jpg" data-background-size="contain"}
-
-![Esquema de proporções na fachada do palácio Farnese, Roma, 1534--1541. Antonio da Sangallo, o novo, e Miguel Ângelo Buonarroti, arquitetos. Croquis: [René Salas, 2018](https://www.instagram.com/p/BpcbxMCFGmh/)](https://i.pinimg.com/originals/c3/c4/35/c3c4352dcfc4ca33a941b7d39581fc00.jpg){#fig:farnese .slide-bg}
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg" data-background-size="contain"}
-
-![Malha proporcional triangular equilátera, exemplos da arquitetura vernácula alemã: casa rurais das regiões da Vestfália meridional, Francônia superior (Bavária) e casa urbana de Eppingen, Baden, 1471. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg){#fig:langhein2012-01-03 .slide-bg}
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg" data-background-size="contain"}
-
-![Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional na Suíça: haus zum Ritter, Schaffhausen, 1487--1580; paço municipal da Basileia, 1504--1513; paço municipal de Lausanne, 1673--1675. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg){#fig:langhein2012-04-06 .full .slide-bg}
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-07-08.jpg" data-background-size="contain"}
-
-![Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional do Mediterrâneo: Oppède-la-Neuf, Luberon, sul da França, e palazzetto Spada, Roma, atribuído a Baldassare Peruzzi e Giacomo Barozzi da Vignola. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-07-08.jpg){#fig:langhein2012-07-08 .slide-bg}
-
-## Instrumentos de representação de proporções ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-- No papel
-- No canteiro
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Sistemas proporcionais e esqueletos em madeira ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Arquitetura asiática usa proporções controladas por módulos dimensionais
-dados [@cha:2019reconsidering18].
+Por que proporções estão sendo tratadas na parte do curso que se dedica
+aos elementos de composição, e não naquela que trata das teorias da
+arquitetura? É um equívoco acreditarmos que a "boa forma" de uma
+construção seja um *resultado* estético que precisa ser agregado aos
+outros resultados esperados da arquitetura. Pelo contrário, a "boa
+forma" é um *processo* recursivo de elaboração de um edifício
+[@alexander:2002nature, 2:299] que permite realizar os três objetivos
+fundamentais da arquitetura --- a tríade vitruviana de solidez,
+utilidade e beleza ([@fig:triade]) [@vitruvio:2007tratado, I:iii].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Proporções e teorias estéticas ##
@@ -176,7 +48,63 @@ teoria das "geometrias sagradas" [@bonell:1999divina; @doczi:2008poder]
 se desenvolveu.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Simetria ##
+## Proporções como instrumento da construção tradicional ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Tudo isso é muito interessante, mas não tem nada a ver
+com o uso das proporções na arquitetura tradicional. Essa maneira de
+*pintar* as proporções como objetos de uma beleza acabada e imutável tem
+uma longa história na teoria da arte desde o Renascimento. Só que essa
+história representa só uma linhagem artística, que é especificamente
+erudita, europeia e moderna. Em praticamente todas as outras culturas
+tradicionais, as proporções não são um *resultado* da obra de
+arquitetura e sim um *modo de fazer* construções.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As proporções são o primeiro instrumento da arquitetura tradicional.
+Hoje em dia, os projetos arquitetônicos são condicionados por medidas
+numéricas: normas que exigem dimensões métricas de ambientes, o cálculo
+estrutural que estipula quantidades de materiais, o desempenho de
+componentes que é medido em patamares numéricos... Por isso, as cotas de
+dimensão e os quadros quantitativos são os elementos mais importantes de
+um projeto arquitetônico na atualidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Princípios proporcionais ##
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Segundo Nir Buras [-@buras:2019art]:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+- Igualdade
+- Diferença
+- Pontuação
+- Tradições proporcionais regionais
+- Expressões proporcionais pessoais
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Segundo Jean-François Gabriel [-@gabriel:2004classical]:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+- Simetria axial
+- Modularidade
+- Tripartição
+- Regularidade
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Segundo Rachel Fletcher [-@fletcher:2020introduction1]:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
 - Igualdade
@@ -193,6 +121,33 @@ se desenvolveu.
       - Proporção dinâmica
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Simetria ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Para Vitrúvio, a palavra grega *symmetria* significava a correspondência
+proporcional entre medidas de partes da construção e a medida do todo.
+Esse termo foi traduzido como "comensurabilidade" na edição portuguesa
+de M. Justino Maciel, em 2006 [@vitruvio:2007tratado, I:ii]. Dentre
+essas correspondências, o rebatimento entre um lado e outro da obra é a
+forma mais simples, a tal ponto que desde o Renascimento a palavra
+*simetria* em todas as línguas de origem europeia se refere a esse
+rebatimento [@vitruve:1673dix].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Instrumentos de representação de proporções ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+- No papel
+- No canteiro
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Proporção e modularidade ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Arquitetura asiática usa proporções controladas por módulos dimensionais
+dados [@cha:2019reconsidering18].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Conclusão ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -207,14 +162,111 @@ construído.
 # Proporções fixas #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Desde o Renascimento, o conceito de proporção tem sido o de uma
-condição matemática fixa. Falamos na seção áurea e em outras relações
-geométricas como a perfeição de formas acabadas. Mas, em quase todas as
-culturas tradicionais, as proporções não são a *finalidade* da
-arquitetura e sim o *meio* de produzir a arquitetura. As proporções são
-mecanismos para planejar o espaço com regularidade em escalas sucessivas
-e ao longo das gerações que constroem uma obra.
+Proporções dinâmicas ou "construir no tempo", por oposição a proporções
+fixas ou "dar nós no espaço" [@trachtenberg:2014build2]. As proporções
+dinâmicas são um modo de produzir construções sem necessitar de um
+projeto desenhado nos mínimos detalhes, evoluindo ao longo do tempo e de
+sucessivas gerações de construtores [@langhein:2013proportion]. As
+proporções fixas emergem da arquitetura europeia a partir do
+Renascimento, baseadas numa teoria de que a forma acabada será mais bela
+se ela respeitar certas relações dimensionais, em parte inspiradas nas
+harmonias musicais [@wittkower:1968arquitectura].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Sistemas proporcionais ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Proporções fundamentais sugeridas por Rachel Fletcher
+[@fletcher:2020introduction1]:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+ 1. Círculo
+ 2. *Vesica piscis* e retângulos √3
+ 3. Simetria e teorema de Pitágoras
+ 4. Teorema de Tales (transposição de proporções) e triângulo retângulo
+    no semicírculo
+ 5. Círculos 6+1, hexágono e estrela de Davi
+ 6. Asa de borboleta (toma diâmetros dos 6+1 como raios de outros)
+ 7. Proporções geométricas (raízes e seção áurea)
+ 8. *Ad quadratum* (quadrados inscritos uns nos outros) e espirais
+ 9. *Tetractys* e "Seção sagrada"
+10. Triângulo áureo e espirais aproximadas
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Círculo ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+- Unidade
+- Completude
+- Atributo do que é cíclico e atemporal
+- Infinitude
+- Marcador de lugar
+- Forma mais simples e eficiente de separar dentro e fora
+- Igualdade (de distâncias, comunitária)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Todos os ângulos relevantes para a construção podem ser gerados a partir
+do círculo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .align-right .line}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Tudo começa com um círculo. Alguns dos mais antigos abrigos permanentes
+são cabanas de planta circular. É o caso do sítio arqueológico de Eynan,
+em Israel, que data de 15 a 12 mil anos atrás (@fig:eynan)
+[@haklay:2015new10]. O traçado circular permite determinar todas as
+dimensões da construção usando praticamente só uma corda, portanto não é
+de espantar que essas cabanas pré-históricas sejam circulares.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A planta circular é uma solução prática e eficiente para encerrar a
+maior quantidade de espaço com o menor consumo de material e uma
+estrutura que estabiliza a si mesma. Por isso, ela continua a ser usada
+em pequenos depósitos rurais, como este chafurdão no Alentejo
+([@fig:chafurdao]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Chafurdão no vale de Cales, Castelo de Vide, Alentejo, Portugal. [[ADER--AL]{.smallcaps}, 2014](http://www.outralentejo.org/galeria/castelo-de-vide_chafurdao-do-vale-de-cales/)](https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg){#fig:chafurdao .full}
+
+* * * *
+
+![Esquema de proporções na fachada do palácio Farnese, Roma, 1534--1541. Antonio da Sangallo, o novo, e Miguel Ângelo Buonarroti, arquitetos. Croquis: [René Salas, 2018](https://www.instagram.com/p/BpcbxMCFGmh/)](https://i.pinimg.com/originals/c3/c4/35/c3c4352dcfc4ca33a941b7d39581fc00.jpg){#fig:farnese .align-right}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O círculo é muito conveniente para organizar geometrias
+precisas e de grandes dimensões, economizando material e esforço. Só
+que, em várias sociedades, as construções humanas vão ganhando funções
+mais complexas e mais equipamentos e mobiliário permanentes ao longo do
+tempo. Nesses casos, a planta circular passa a ser um inconveniente por
+não ter superfícies retas nem espaço alongados. Por isso, usar o círculo
+como módulo proporcional não quer dizer necessariamente que precisamos
+ter formas arquitetônicas redondas.
+
+Num nível mais abstrato, o círculo representa a igualdade de medidas.
+Neste desenho da elevação do palácio Farnese, uma obra do Renascimento,
+um traçado regulador formado por círculos é usado muitas vezes para
+demonstrar medidas iguais ou diferentes entre si ([@fig:farnese]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No lugar do círculo inteiro, também podemos usar arcos de círculo, como
+no diagrama do sistema Modulor criado por Le Corbusier em 1943 e
+modificado em 1946 ([@fig:modulor]). O Modulor usa um sistema
+proporcional conhecido como seção áurea, que vamos estudar com detalhe
+mais abaixo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Le Corbusier, sistema Modulor, 1946](https://live.staticflickr.com/4092/5031911411_5969087df0_c_d.jpg){#fig:modulor}
 
 ## Tetractys ##
 
@@ -236,7 +288,19 @@ e ao longo das gerações que constroem uma obra.
 | 3      | Tríade    | Harmonia       | Plano    | 2:3   | Quinta      |
 | 4      | Tétrade   | Forma corpórea | Volume   | 3:4   | Quarta      |
 
+: Interpretações simbólicas da *tetractys* segundo Rachel Fletcher, 2020 {#tbl:tetractys}
+
 ## Ordens clássicas ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As ordens clássicas são o exemplo mais marcante de proporções regradas
+em arquitetura. Vamos ver primeiro algumas características canônicas das
+ordens tal como elas têm sido pensadas desde o Renascimento até os dias
+de hoje. Esse cânone clássico define as ordens como um sistema de
+proporções fixas --- relações entre medidas que permanecem constantes
+quando se amplia ou se reduz o desenho. Mais abaixo, vamos ver como as
+ordens podem ser reconstituídas por meio de um sistema dinâmico.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain" data-background-position="right"}
 
@@ -279,10 +343,10 @@ da obra, usando uma trena. É um modo moderno de trabalhar por excelência
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:chitham}
-::: {.column width=51.5%}
+::: {.column width=50%}
 ![configuração geral](https://hcommons.org/app/uploads/sites/1001018/2021/06/chitham2005-084-corinthian.png){#fig:chitham084 .line}
 :::
-::: {.column width=48.5%}
+::: {.column width=50%}
 ![detalhe da base e pedestal](https://hcommons.org/app/uploads/sites/1001018/2021/06/chitham2005-091-corinthian.png){#fig:chitham091 .line}
 :::
 
@@ -294,65 +358,42 @@ No final do século [XX]{.smallcaps}, essa preferência numérica entrou na
 era digital com o sistema de proporções decimais nas ordens clássicas de
 Robert Chitham [@chitham:2005classical]. As cotas de Chitham são,
 literalmente, frações decimais para serem usadas com uma calculadora
-digital na mão (era a década de 1980), ou mesmo no [CAD]{.smallcaps}.
-[@fig:chitham]
+digital na mão (era a década de 1980), ou mesmo no [CAD]{.smallcaps}
+([@fig:chitham]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Elementos das ordens clássicas segundo Jean-François Gabriel
+[-@gabriel:2004classical]:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+- Módulo
+- Contratura
+- Base e capitel
+- Entablamento
+- Frontão
+- Variantes da coluna
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Proporções dinâmicas #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Tudo isso é muito interessante, mas não tem nada a ver
-com o uso das proporções na arquitetura tradicional. Essa maneira de
-*pintar* as proporções como objetos de uma beleza acabada e imutável tem
-uma longa história na teoria da arte desde o Renascimento. Só que essa
-história representa só uma linhagem artística, que é especificamente
-erudita, europeia e moderna. Em praticamente todas as outras culturas
-tradicionais, as proporções não são um *resultado* da obra de
-arquitetura e sim um *modo de fazer* construções.
+Desde o Renascimento, o conceito de proporção tem sido o de uma
+condição matemática fixa. Falamos na seção áurea e em outras relações
+geométricas como a perfeição de formas acabadas. Mas, em quase todas as
+culturas tradicionais, as proporções não são a *finalidade* da
+arquitetura e sim o *meio* de produzir a arquitetura. As proporções são
+mecanismos para planejar o espaço com regularidade em escalas sucessivas
+e ao longo das gerações que constroem uma obra.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Tripartição e divisões sucessivas ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Método vitruviano.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Sistemas proporcionais ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Proporções fundamentais sugeridas por Rachel Fletcher
-[@fletcher:2020introduction1]:
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
- 1. Círculo
- 2. *Vesica piscis* e retângulos √3
- 3. Simetria e teorema de Pitágoras
- 4. Teorema de Tales (transposição de proporções) e triângulo retângulo
-    no semicírculo
- 5. Círculos 6+1, hexágono e estrela de Davi
- 6. Asa de borboleta (toma diâmetros dos 6+1 como raios de outros)
- 7. Proporções geométricas (raízes e seção áurea)
- 8. *Ad quadratum* (quadrados inscritos uns nos outros) e espirais
- 9. *Tetractys* e "Seção sagrada"
-10. Triângulo áureo e espirais aproximadas
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Círculo ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-- Unidade
-- Completude
-- Atributo do que é cíclico e atemporal
-- Infinitude
-- Marcador de lugar
-- Forma mais simples e eficiente de separar dentro e fora
-- Igualdade (de distâncias, comunitária)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Todos os ângulos relevantes para a construção podem ser gerados a partir
-do círculo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Vesica piscis ##
@@ -490,11 +531,11 @@ do *ad quadratum* e da seção sagrada
 
 . . .
 
-$a/b = b/a+b$
+$$\frac {a} {b} = \frac {b} {a+b}$$
 
 . . .
 
-$φ = √5/2 + 1/2$
+$$\phi = \frac {\sqrt{5}} {2} + \frac {1} {2} \approx 1,618$$
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A seção áurea é a proporção para a qual a progressão geométrica é
@@ -504,7 +545,7 @@ idêntica à progressão aritmética [@fletcher:2020introduction3].
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::: {#fig:pentagono .r-stack}
-![encontrar a metade do raio do círculo])){#fig:pentaA .fragment .current-visible}
+![encontrar a metade do raio do círculo](){#fig:pentaA .fragment .current-visible}
 
 ![traçar uma linha dessa metade até a circunferência sobre um eixo perpendicular ao primeiro](){#fig:pentaB .fragment .current-visible}
 
@@ -552,11 +593,76 @@ qualquer projeto ([@fig:corb]).
 
 ![Le Corbusier, seção áurea nas fachadas norte e sul da villa Stein, Garches, 1927](https://hcommons.org/app/uploads/sites/1001018/2021/06/le-corbusier-villa-stein-golden.png){#fig:corb .line}
 
+## Quadrados e diagonais ##
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O quadrado pode se desdobrar numa variedade de retângulos com proporções
+convenientes ([@fig:proporcoes]). Os mais básicos desses retângulos são o
+de um quadrado e meio e dois quadrados; essas proporções são análogas a
+harmonias musicais --- a quinta e a oitava --- e, por isso, foram muito
+apreciadas em culturas que atribuíam um significado transcendental às
+proporções, como a Grécia antiga e o Renascimento [@bonell:1999divina].
+
+Na vida real, duas outras relações proporcionais são bastante úteis. Uma
+delas é o retângulo gerado a partir da diagonal do quadrado, que é uma
+medida muito fácil de demarcar num canteiro de obra; esse retângulo tem
+outra propriedade interessante, que é a possibilidade de ser dividido em
+duas metades com a mesma proporção do retângulo original --- essa
+propriedade está na origem das folhas de papel da série `A`, que foi
+desenvolvida no início do século [XX]{.smallcaps} pensando na economia
+do corte de folhas. Outra proporção muito conveniente na construção é
+aquela que é gerada pela metade da diagonal do quadrado; é uma boa
+relação entre a largura de um espaço monumental e a espessura das suas
+paredes --- ela foi bastante usada na Europa medieval
+[@conant:1968after-life27].
+
+Como já vimos, a seção áurea é uma relação proporcional um tanto
+badalada desde a segunda metade do século [XIX]{.smallcaps}
+[@zeising:1854neue]. Acontece que ela é menos conveniente de se executar
+num canteiro de obra; as suas vantagens dizem mais respeito a uma
+interpretação transcendental das proporções como espelho da natureza
+[@doczi:2008poder].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Proporções derivadas do quadrado. Acima: um quadrado e meio ou "quinta"; dois quadrados ou "oitava"; abaixo: retângulo gerado pela diagonal do quadrado e seção áurea; centro: proporções da casa kamayurá e traçado gerado pela meia diagonal do quadrado](https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png){#fig:proporcoes .line .full .slide-bg}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-18-scaled.jpg"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A casa tradicional Kamayurá ([@fig:kamayura; @fig:ok-planta;
+@fig:ok-corte]) é baseada no retângulo formado pela diagonal do
+quadrado, que determina a largura do vão central [@kamayura:2019manual].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![’Ok eté (casa tradicional) kamayurá, corte segundo [Salkuman Kamayurá, 2019](https://issuu.com/annajubs/docs/190812_casakamayurasingles)](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-18-scaled.jpg){#fig:kamayura .slide-bg}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg" data-background-size="contain"}
+
+![Planta de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg){#fig:ok-planta .full .slide-bg}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg" data-background-size="contain"}
+
+![Corte de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg){#fig:ok-corte .full .slide-bg}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg" data-background-size="contain"}
+
+![Malha proporcional triangular equilátera, exemplos da arquitetura vernácula alemã: casa rurais das regiões da Vestfália meridional, Francônia superior (Bavária) e casa urbana de Eppingen, Baden, 1471. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg){#fig:langhein2012-01-03 .slide-bg}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg" data-background-size="contain"}
+
+![Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional na Suíça: haus zum Ritter, Schaffhausen, 1487--1580; paço municipal da Basileia, 1504--1513; paço municipal de Lausanne, 1673--1675. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg){#fig:langhein2012-04-06 .full .slide-bg}
+
+## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-07-08.jpg" data-background-size="contain"}
+
+![Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional do Mediterrâneo: Oppède-la-Neuf, Luberon, sul da França, e palazzetto Spada, Roma, atribuído a Baldassare Peruzzi e Giacomo Barozzi da Vignola. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-07-08.jpg){#fig:langhein2012-07-08 .slide-bg}
+
 # Escala humana #
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2022/03/krier-distance-detail.png" data-background-size="contain" data-background-position="right"}
+* * * *
 
-![Distância e detalhe, por Léon Krier](https://hcommons.org/app/uploads/sites/1002372/2022/03/krier-distance-detail.png){#fig:krier-detail .line .align-right .slide-bg}
+![Distância e detalhe, por Léon Krier](https://hcommons.org/app/uploads/sites/1002372/2022/03/krier-distance-detail.png){#fig:krier-detail .line .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma última consideração importante diz respeito à escala dos elementos
@@ -564,6 +670,29 @@ da arquitetura. Numa composição equilibrada, a diferença de escala entre
 elementos maiores e menores nunca é mais do que uma ordem de grandeza,
 ou seja, dez vezes ([@fig:krier-detail]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Níveis de escala ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mais tripartição: três tamanhos que podem ser apreendidos de uma vez
+pela observação e experiência do espaço [@buras:2019art].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Fractais ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Repetição inexata tanto no mesmo nível de escala quanto entre níveis de
+escala diferentes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Passo-a-passo generativo preserva a estrutura dos estágios anteriores.
+Assim, o projeto colapsa a passagem do tempo num desenho.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Padrões ##
 
 # Bibliografia {- .unlisted .allowframebreaks}
 

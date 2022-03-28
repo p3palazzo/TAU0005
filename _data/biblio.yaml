@@ -115,6 +115,41 @@ references:
       given: Mário Júlio Teixeira
   type: book
 
+- id: alexander:2002nature
+  author:
+    - family: Alexander
+      given: Christopher
+  citation-key: alexander:2002nature
+  event-place: Berkeley, Calif.
+  ISBN: 978-0-9726529-0-2 978-0-9726529-2-6
+  issued:
+    - year: 2002
+  language: en-US
+  number-of-volumes: '4'
+  publisher: Center for Environmental Structure
+  publisher-place: Berkeley, Calif.
+  source: Open WorldCat
+  title: The nature of order
+  type: book
+
+- id: alexander:2002phenomenon
+  author:
+    - family: Alexander
+      given: Christopher
+  citation-key: alexander:2002phenomenon
+  collection-number: '1'
+  collection-title: The nature of order
+  event-place: Berkeley, Calif.
+  ISBN: 978-0-9726529-0-2 978-0-9726529-2-6
+  issued:
+    - year: 2002
+  language: en-US
+  publisher: Center for Environmental Structure
+  publisher-place: Berkeley, Calif.
+  source: Open WorldCat
+  title: The phenomenon of life
+  type: book
+
 - id: alonso:2010introducao
   abstract: >-
     Este livro é uma introdução à história da arquitetura e do urbanismo
@@ -1276,6 +1311,48 @@ references:
   title-short: Buddhist and Hindu periods
   type: book
   URL: http://archive.org/details/in.gov.ignca.18060
+
+- id: brunes:1967secrets1
+  author:
+    - family: Brunés
+      given: Tons
+  citation-key: brunes:1967secrets1
+  event-place: Copenhagen
+  ISBN: 978-0-391-01117-5
+  issued:
+    - year: 1967
+  language: en
+  publisher: Rhodos
+  publisher-place: Copenhagen
+  source: Open WorldCat
+  title: The secrets of ancient geometry, and its use
+  title-short: The secrets of ancient geometry
+  translator:
+    - family: Napier
+      given: Charles M.
+  type: book
+  volume: '1'
+
+- id: brunes:1967secrets2
+  author:
+    - family: Brunés
+      given: Tons
+  citation-key: brunes:1967secrets2
+  event-place: Copenhagen
+  ISBN: 978-0-391-01117-5
+  issued:
+    - year: 1967
+  language: en
+  publisher: Rhodos
+  publisher-place: Copenhagen
+  source: Open WorldCat
+  title: The secrets of ancient geometry, and its use
+  title-short: The secrets of ancient geometry
+  translator:
+    - family: Napier
+      given: Charles M.
+  type: book
+  volume: '2'
 
 - id: bucher:1968design27
   accessed:
@@ -3413,45 +3490,23 @@ references:
   title: History of architecture on the comparative method
   type: book
 
-- id: fletcher:2020introduction
-  accessed:
-    - year: 2022
-      month: 3
-      day: 10
-  citation-key: fletcher:2020introduction
-  dimensions: '1:02:59'
-  director:
-    - family: Fletcher
-      given: Rachel
-  issued:
-    - year: 2020
-      month: 7
-      day: 3
-  language: en
-  publisher: Institute for Classical Architecture and Classical America
-  title: 'Introduction to architectural proportion: part IV'
-  type: motion_picture
-  URL: >-
-    https://www.classicist.org/articles/introduction-to-architectural-proportion-part-iv/
-
 - id: fletcher:2020introduction1
   accessed:
     - year: 2022
       month: 3
       day: 10
-  citation-key: fletcher:2020introduction1
-  dimensions: '1:10:05'
-  director:
+  author:
     - family: Fletcher
       given: Rachel
+  citation-key: fletcher:2020introduction1
+  container-title: Institute for Classical Architecture and Classical America
   issued:
     - year: 2020
       month: 7
       day: 3
   language: en
-  publisher: Institute for Classical Architecture and Classical America
   title: 'Introduction to architectural proportion: part I'
-  type: motion_picture
+  type: post-weblog
   URL: >-
     https://www.classicist.org/articles/introduction-to-architectural-proportion-part-i/
 
@@ -3460,19 +3515,18 @@ references:
     - year: 2022
       month: 3
       day: 10
-  citation-key: fletcher:2020introduction2
-  dimensions: '1:02:59'
-  director:
+  author:
     - family: Fletcher
       given: Rachel
+  citation-key: fletcher:2020introduction2
+  container-title: Institute for Classical Architecture and Classical America
   issued:
     - year: 2020
       month: 7
       day: 3
   language: en
-  publisher: Institute for Classical Architecture and Classical America
   title: 'Introduction to architectural proportion: part II'
-  type: motion_picture
+  type: post-weblog
   URL: >-
     https://www.classicist.org/articles/introduction-to-architectural-proportion-part-ii/
 
@@ -3481,21 +3535,40 @@ references:
     - year: 2022
       month: 3
       day: 10
-  citation-key: fletcher:2020introduction3
-  dimensions: '1:02:59'
-  director:
+  author:
     - family: Fletcher
       given: Rachel
+  citation-key: fletcher:2020introduction3
+  container-title: Institute for Classical Architecture and Classical America
   issued:
     - year: 2020
       month: 7
       day: 3
   language: en
-  publisher: Institute for Classical Architecture and Classical America
   title: 'Introduction to architectural proportion: part III'
-  type: motion_picture
+  type: post-weblog
   URL: >-
     https://www.classicist.org/articles/introduction-to-architectural-proportion-part-iii/
+
+- id: fletcher:2020introduction4
+  accessed:
+    - year: 2022
+      month: 3
+      day: 10
+  author:
+    - family: Fletcher
+      given: Rachel
+  citation-key: fletcher:2020introduction4
+  container-title: Institute for Classical Architecture and Classical America
+  issued:
+    - year: 2020
+      month: 7
+      day: 3
+  language: en
+  title: 'Introduction to architectural proportion: part IV'
+  type: post-weblog
+  URL: >-
+    https://www.classicist.org/articles/introduction-to-architectural-proportion-part-iv/
 
 - id: fornes:1857manual
   author:
@@ -5225,7 +5298,7 @@ references:
     - family: Langhein
       given: Joachim
   citation-key: langhein:2013proportion
-  container-title: INTBAU Ideas and Opinions
+  container-title: <span class="smallcaps">INTBAU</span> Ideas and Opinions
   issue: '10'
   issued:
     - year: 2013
@@ -9113,7 +9186,7 @@ references:
   event-place: Cambridge, Mass.
   issued:
     - year: 1914
-  language: English
+  language: en
   publisher: Harvard University Press
   publisher-place: Cambridge, Mass.
   source: Internet Archive
