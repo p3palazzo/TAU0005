@@ -36,6 +36,8 @@ utilidade e beleza ([@fig:triade]) [@vitruvio:2007tratado, I:iii].
 
 ## Proporções e teorias estéticas ##
 
+* * * *
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As ordens clássicas são o exemplo mais consagrado do uso de proporções
 fixas na arquitetura, mas nem de longe são o único. Desde a segunda
@@ -43,10 +45,23 @@ metade do século [XIX]{.smallcaps}, a queridinha dos arquitetos é mais
 abstrata: a seção áurea. Adolf Zeising, um psicólogo alemão, escreveu um
 livro defendendo que as proporções matemáticas em geral, e a seção áurea
 em particular, eram estruturas centrais na natureza e na arte
-[@zeising:1854neue]. Foi a partir daí que a mania da seção áurea e a
-teoria das "geometrias sagradas" [@bonell:1999divina; @doczi:2008poder]
-se desenvolveu.
+([@fig:zeising]) [@zeising:1854neue]. Foi a partir daí que a mania da
+seção áurea e a teoria das "geometrias sagradas" [@bonell:1999divina;
+@doczi:2008poder] se desenvolveu.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::: {#fig:zeising .columns}
+::: {.column width=50%}
+![corpo humano](https://hcommons.org/app/uploads/sites/1002372/2022/03/neuelehrevondenp00zeis_0089.png){#fig:zeisingA .line}
+:::
+::: {.column width=50%}
+![Apolo do Belvedere, escultura romana c. 120--140 d.C.](https://hcommons.org/app/uploads/sites/1002372/2022/03/neuelehrevondenp00zeis_0203.png){#fig:zeisingB .line}
+:::
+
+Sistemas proporcionais no tratado de Adolf Zeising, 1854
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
 
 ## Proporções como instrumento da construção tradicional ##
 
@@ -66,12 +81,95 @@ arquitetura e sim um *modo de fazer* construções.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As proporções são o primeiro instrumento da arquitetura tradicional.
 Hoje em dia, os projetos arquitetônicos são condicionados por medidas
-numéricas: normas que exigem dimensões métricas de ambientes, o cálculo
+numéricas: normas que exigem dimensões métricas de ambientes ([@fig:neufert]), o cálculo
 estrutural que estipula quantidades de materiais, o desempenho de
 componentes que é medido em patamares numéricos... Por isso, as cotas de
 dimensão e os quadros quantitativos são os elementos mais importantes de
 um projeto arquitetônico na atualidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Medidas ergonômicas em estabelecimentos de alimentação, da *Arte de projetar em arquitetura* por Ernst e Peter Neufert](https://hcommons.org/app/uploads/sites/1002372/2022/03/neufert-gastronomia-1080p.png){#fig:neufert .line}
+
+* * * *
+
+![Reconstituição do procedimento romano de agrimensura com *groma*. [Museu Romano de Nyon][], Suíça](https://hcommons.org/app/uploads/sites/1002372/2022/03/les_arpenteurs_RomainZoom.png){#fig:groma .line}
+
+[Museu Romano de Nyon]: https://www.mrn.ch/fr/site-archeologique/presentation-0-36437
+
+* * * *
+
+::::::::::::::::::::::::::::::::::: {#fig:groma-stewart .iframe-wrapper}
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/-pIUTs2XD50?start=306" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Demonstração do funcionamento de um *groma* da Roma antiga
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No canteiro de obras tradicional, só é possível tirar três tipos de
+medidas: linhas retas usando um teodolito, conhecido como *groma* na
+Roma antiga ([@fig:groma]), distâncias iguais ou divisões de distâncias
+usando cordas ([@fig:corda]), e prumos ([@fig:prumo]). Instrumentos de
+desenho que usamos no papel, como esquadros ou escalímetros, não
+permitem a mesma precisão em grande escala e podiam ser usados apenas
+para detalhes, molduras e outros elementos pequenos [@adam:1994roman].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Uso de estacas e cordas num canteiro de obras. Foto: [Redline surveys][]](https://www.redlinesurveys.co.uk/wp-content/uploads/2018/01/Setting-Out-Building-Marker.jpg){#fig:corda}
+
+[Redline surveys]: https://www.redlinesurveys.co.uk/setting-out/
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:prumo .columns}
+::: {.column width=50%}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/adam-079.png){#fig:prumoA .line}
+:::
+::: {.column width=50%}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/adam-082.png){#fig:prumoB .line}
+:::
+
+Reconstituição de prumos da Roma antiga segundo Jean-Pierre Adam
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Instrumentos de desenho com proporções ##
+
+* * * *
+
+![Jean-Jacques Lequeu, [Instrumentos de desenho arquitetônico][], 1782](https://gallica.bnf.fr/ark:/12148/btv1b7703014j/f1.highres){#fig:lequeu .align-right}
+
+[Instrumentos de desenho arquitetônico]: https://gallica.bnf.fr/ark:/12148/btv1b7703014j/f1.item.r=lequeu
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No caso do desenho técnico, o inventário de instrumentos disponíveis se
+amplia ([@fig:lequeu]). Mesmo assim, é importante que, ao compor um
+desenho arquitetônico, se tenha em mente como esse desenho vai ser
+transporto para o canteiro.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por isso, os compassos de redução são muito úteis para se estabelecer
+relações proporcionais entre elementos na folha. Essas relações
+proporcionais podem, então, ser reportadas no canteiro por meio de
+cordas. Um compasso de redução ajustável pode ter proporções diferentes
+deslocando o eixo de rotação ao longo das pernas ([@fig:dividers]); já
+um compasso fixo vai ter sempre a mesma proporção ([@fig:fixos]). Em
+ambos os casos, a medida a ser tomada pode ser alterada girando as
+pernas em torno do eixo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Compasso de redução ajustável. Foto: [Ricce, 2013][]](https://upload.wikimedia.org/wikipedia/commons/d/d4/Compasso_di_riduzione_%28r%29.jpg){#fig:dividers}
+
+[Ricce, 2013]: https://commons.wikimedia.org/wiki/File:Compasso_di_riduzione_(r).jpg
+
+* * * *
+
+![Compassos de redução fixos nas proporções 1:5, 1:2 e 1:6, c. 1580. Acervo do [Zwinger, Dresden][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dresden_Zwinger_Reduction_compasses.JPG/2560px-Dresden_Zwinger_Reduction_compasses.JPG){#fig:fixos}
+
+[Zwinger, Dresden]: https://commons.wikimedia.org/wiki/File:Dresden_Zwinger_Reduction_compasses.JPG
 
 ## Princípios proporcionais ##
 
@@ -127,18 +225,70 @@ Segundo Rachel Fletcher [-@fletcher:2020introduction1]:
 Para Vitrúvio, a palavra grega *symmetria* significava a correspondência
 proporcional entre medidas de partes da construção e a medida do todo.
 Esse termo foi traduzido como "comensurabilidade" na edição portuguesa
-de M. Justino Maciel, em 2006 [@vitruvio:2007tratado, I:ii]. Dentre
-essas correspondências, o rebatimento entre um lado e outro da obra é a
-forma mais simples, a tal ponto que desde o Renascimento a palavra
-*simetria* em todas as línguas de origem europeia se refere a esse
-rebatimento [@vitruve:1673dix].
+de M. Justino Maciel, em 2006 [@vitruvio:2007tratado, I:ii].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Instrumentos de representação de proporções ##
+* * * *
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-- No papel
-- No canteiro
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Dentre essas correspondências, o rebatimento entre um lado e outro da
+obra é a forma mais simples, a tal ponto que desde o Renascimento a
+palavra *simetria* em todas as línguas de origem europeia se refere a
+esse rebatimento [@vitruve:1673dix].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Diagrama de simetria bilateral](){#fig:simetria .line}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A simetria bilateral vem associada, sempre que possível, ao
+posicionamento da entrada principal e outros vãos no eixo central. Essa
+característica é universal, perpassando todas as culturas edilícias
+tradicionais.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Antropomorfismo ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A simetria bilateral está relacionada ao antropomorfismo --- a tendência
+humana de enxergar rostos e atribuir características humanas a objetos
+inanimados ou mesmo conceitos abstratos. O antropomorfismo é um vício na
+crítica historiográfica na medida em que ele pode atribuir
+intencionalidade e capacidade de ação a conceitos e teorias. Teorias
+idealistas como a alegoria da caverna de Platão, o "espírito dos tempos"
+do filósofo alemão Hegel, ou ainda a sucessão inevitável dos modos de
+produção proposta por Marx, cometem esse vício.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por outro lado, para a prática da arquitetura o antropomorfismo é um
+trunfo: usar características antropomórficas como a simetria e o vão
+central ajuda a tornar as composições mais claras e reconhecíveis. Isso
+facilita a apreciação e o uso dos edifícios [@sussman:2021cognitive].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O antropomorfismo vai além da simetria, é claro. Podemos reunir sob esse
+rótulo outras características, como uma representação clara da ação da
+gravidade, colocando partes visualmente mais pesadas em baixo e
+elementos visualmente mais leves em cima. Mas a simetria e o
+posicionamento das aberturas são as suas características mais evidentes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A simetria não precisa ser forçada. Ela emerge naturalmente da busca por
+um assentamento equilibrado das fundações, como
+[já vimos antes](taipa.md), e de uma preferência estética pela clareza e
+simplicidade da forma. Ao mesmo tempo, condições específicas podem
+exigir uma configuração assimétrica, geralmente em grandes complexos
+formados por vários blocos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Proporção e modularidade ##
@@ -162,8 +312,10 @@ construído.
 # Proporções fixas #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Proporções dinâmicas ou "construir no tempo", por oposição a proporções
-fixas ou "dar nós no espaço" [@trachtenberg:2014build2]. As proporções
+As proporções fixas são definidas pelo historiador da arquitetura do
+Renascimento Marvin Trachtenberg como "dar nós no espaço", por oposição
+às proporções dinâmicas que consistem em "construir no tempo"
+[@trachtenberg:2014build2]. As proporções
 dinâmicas são um modo de produzir construções sem necessitar de um
 projeto desenhado nos mínimos detalhes, evoluindo ao longo do tempo e de
 sucessivas gerações de construtores [@langhein:2013proportion]. As
@@ -271,17 +423,27 @@ mais abaixo.
 ## Tetractys ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-1 + 2 + 3 + 4 = 10
+A *tetractys* é um princípio que fazia parte das harmonias matemáticas
+propostas pelo filósofo grego Pitágoras de Samos (c. 570--c. 495 a.C.).
+Pitágoras e os seus seguidores consideravam que as relações geométricas
+e aritméticas não só governavam as leis da física, como também davam
+sentido ao universo.
+
+Um dos conjuntos de números mais importantes para a escola pitagórica
+era *tetractys*, formada pelos quatro primeiros números naturais maiores
+que zero (de 1 a 4). A *tetractys* tem algumas propriedades matemáticas
+interessantes, e no sistema de Pitágoras ela é associada a propriedades
+musicais e metafísicas. Algumas propriedades básicas da *tetractys* são
+a soma dos seus elementos, que é igual a 10.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-          ◆
-        ◆   ◆
-      ◆   ◆   ◆
-    ◆   ◆   ◆   ◆
+. . .
+
+$$1 + 2 + 3 + 4 = 10$$
 
 * * * *
 
-| Número | Arquétipo | Qualidade      | Dimensão | Razão | Intervalo   |
+| Número | Princípio | Qualidade      | Dimensão | Razão | Intervalo   |
 |--------|-----------|----------------|----------|-------|-------------|
 | 1      | Mônada    | Unidade        | Ponto    | 1:1   | Fundamental |
 | 2      | Díade     | Multiplicidade | Linha    | 1:2   | Oitava      |
@@ -289,6 +451,30 @@ mais abaixo.
 | 4      | Tétrade   | Forma corpórea | Volume   | 3:4   | Quarta      |
 
 : Interpretações simbólicas da *tetractys* segundo Rachel Fletcher, 2020 {#tbl:tetractys}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Além disso, os números da *tetractys* são associados, no sistema
+pitagórico, a quatro qualidades metafísicas do universo, às quatro
+dimensões (incluindo o ponto, que é a dimensão zero), e a quatro razões
+aritméticas que corresponde aos quatro intervalos musicais mais
+harmônicos ([@tbl:tetractys]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Não por acaso, a *tetractys* também forma a estrutura física do tratado
+de arquitetura de Vitrúvio em dez livros [@mcewen:2003vitruvius]. Na
+Roma antiga, cada livro era um rolo de papiro, e esses livros seriam
+empilhados numa estante formando uma pirâmide:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+. . .
+
+          ◆
+        ◆   ◆
+      ◆   ◆   ◆
+    ◆   ◆   ◆   ◆
 
 ## Ordens clássicas ##
 
@@ -299,7 +485,7 @@ ordens tal como elas têm sido pensadas desde o Renascimento até os dias
 de hoje. Esse cânone clássico define as ordens como um sistema de
 proporções fixas --- relações entre medidas que permanecem constantes
 quando se amplia ou se reduz o desenho. Mais abaixo, vamos ver como as
-ordens podem ser reconstituídas por meio de um sistema dinâmico.
+ordens podem também ser realizadas por meio de um sistema dinâmico.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain" data-background-position="right"}

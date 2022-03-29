@@ -58,6 +58,45 @@ references:
   title: L'arte di costruire presso i Romani
   type: book
 
+- id: adam:1994roman
+  abstract: >-
+    "Roman architecture is extraordinarily rich, both in terms of the techniques
+    and materials used and in the variety of buildings constructed, many of
+    which are still visible today." "This book places emphasis on the technical
+    aspects of that architecture, following the process of building through each
+    stage, from quarry to standing wall, from tree to roof timbers. The author
+    examines the different techniques involved in building in brick, stone and
+    wood, and how these materials were obtained or manufactured. He also
+    discusses interior decoration and looks at the practical aspects of water
+    supply, heating and roads. Each type of building required special tools and
+    these are described, using both surviving examples and modern parallels."
+    "The Romans constructed many spectacular feats of engineering, producing
+    magnificent monuments such as the Pantheon and Pont du Gard. This book looks
+    at these large-scale public buildings but also at more modest homes and
+    shops. The result is a thorough and systematic examination of Roman
+    building, with over 750 illustrations, including photographs and the
+    author's own drawings."--Jacket.
+  accessed:
+    - year: 2021
+      month: 10
+      day: 24
+  author:
+    - family: Adam
+      given: Jean Pierre
+  citation-key: adam:1994roman
+  event-place: London
+  ISBN: 978-0-203-98436-9
+  issued:
+    - year: 1994
+  language: en-GB
+  publisher: Batsford
+  publisher-place: London
+  source: Open WorldCat
+  title: 'Roman building: materials and techniques'
+  title-short: Roman building
+  type: book
+  URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=254202
+
 - id: adams:1998japan
   abstract: >-
     Japan's Ise Shrine is famous for its thirteen-hundred-year-old
@@ -3779,9 +3818,7 @@ references:
   issued:
     - year: 2004
   language: en-US
-  publisher: >-
-    W. W. Norton & Co. in association with the Institute of Classical
-    Architecture and Classical America
+  publisher: W.W. Norton
   publisher-place: New York
   source: Open WorldCat
   title: >-
@@ -8301,6 +8338,34 @@ references:
     - family: Ficher
       given: Sylvia
   type: book
+
+- id: sussman:2021cognitive
+  accessed:
+    - year: 2022
+      month: 2
+      day: 14
+  author:
+    - family: Sussman
+      given: Ann
+    - family: Hollander
+      given: Justin B.
+  citation-key: sussman:2021cognitive
+  edition: '2'
+  event-place: Abingdon, Oxon ; New York
+  ISBN: 978-1-00-040307-7
+  issued:
+    - year: 2021
+  language: en
+  publisher: Routledge
+  publisher-place: Abingdon, Oxon ; New York
+  source: Open WorldCat
+  title: >-
+    Cognitive architecture: designing for how we respond to the built
+    environment
+  title-short: Cognitive architecture
+  type: book
+  URL: >-
+    https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=2914935
 
 - id: tafuri:1979teorias
   author:
