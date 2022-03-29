@@ -84,7 +84,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Proporção e escala",
-        "excerpt":"Proporção e estética Desde o Renascimento, o conceito de proporção tem sido o de uma condição matemática fixa. Falamos na seção áurea e em outras relações geométricas como a perfeição de formas acabadas. Mas, em quase todas as culturas tradicionais, as proporções não são a finalidade da arquitetura e sim...","categories": [],
+        "excerpt":"Proporção e estética Figura 1: Princípios vitruvianos Por que proporções estão sendo tratadas na parte do curso que se dedica aos elementos de composição, e não naquela que trata das teorias da arquitetura? É um equívoco acreditarmos que a “boa forma” de uma construção seja um resultado estético que precisa...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/proporcionar/",
         "teaser": null
