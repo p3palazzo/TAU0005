@@ -58,6 +58,45 @@ references:
   title: L'arte di costruire presso i Romani
   type: book
 
+- id: adam:1994roman
+  abstract: >-
+    "Roman architecture is extraordinarily rich, both in terms of the techniques
+    and materials used and in the variety of buildings constructed, many of
+    which are still visible today." "This book places emphasis on the technical
+    aspects of that architecture, following the process of building through each
+    stage, from quarry to standing wall, from tree to roof timbers. The author
+    examines the different techniques involved in building in brick, stone and
+    wood, and how these materials were obtained or manufactured. He also
+    discusses interior decoration and looks at the practical aspects of water
+    supply, heating and roads. Each type of building required special tools and
+    these are described, using both surviving examples and modern parallels."
+    "The Romans constructed many spectacular feats of engineering, producing
+    magnificent monuments such as the Pantheon and Pont du Gard. This book looks
+    at these large-scale public buildings but also at more modest homes and
+    shops. The result is a thorough and systematic examination of Roman
+    building, with over 750 illustrations, including photographs and the
+    author's own drawings."--Jacket.
+  accessed:
+    - year: 2021
+      month: 10
+      day: 24
+  author:
+    - family: Adam
+      given: Jean Pierre
+  citation-key: adam:1994roman
+  event-place: London
+  ISBN: 978-0-203-98436-9
+  issued:
+    - year: 1994
+  language: en-GB
+  publisher: Batsford
+  publisher-place: London
+  source: Open WorldCat
+  title: 'Roman building: materials and techniques'
+  title-short: Roman building
+  type: book
+  URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=254202
+
 - id: adams:1998japan
   abstract: >-
     Japan's Ise Shrine is famous for its thirteen-hundred-year-old
@@ -113,6 +152,41 @@ references:
   translator:
     - family: Krüger
       given: Mário Júlio Teixeira
+  type: book
+
+- id: alexander:2002nature
+  author:
+    - family: Alexander
+      given: Christopher
+  citation-key: alexander:2002nature
+  event-place: Berkeley, Calif.
+  ISBN: 978-0-9726529-0-2 978-0-9726529-2-6
+  issued:
+    - year: 2002
+  language: en-US
+  number-of-volumes: '4'
+  publisher: Center for Environmental Structure
+  publisher-place: Berkeley, Calif.
+  source: Open WorldCat
+  title: The nature of order
+  type: book
+
+- id: alexander:2002phenomenon
+  author:
+    - family: Alexander
+      given: Christopher
+  citation-key: alexander:2002phenomenon
+  collection-number: '1'
+  collection-title: The nature of order
+  event-place: Berkeley, Calif.
+  ISBN: 978-0-9726529-0-2 978-0-9726529-2-6
+  issued:
+    - year: 2002
+  language: en-US
+  publisher: Center for Environmental Structure
+  publisher-place: Berkeley, Calif.
+  source: Open WorldCat
+  title: The phenomenon of life
   type: book
 
 - id: alonso:2010introducao
@@ -1276,6 +1350,48 @@ references:
   title-short: Buddhist and Hindu periods
   type: book
   URL: http://archive.org/details/in.gov.ignca.18060
+
+- id: brunes:1967secrets1
+  author:
+    - family: Brunés
+      given: Tons
+  citation-key: brunes:1967secrets1
+  event-place: Copenhagen
+  ISBN: 978-0-391-01117-5
+  issued:
+    - year: 1967
+  language: en
+  publisher: Rhodos
+  publisher-place: Copenhagen
+  source: Open WorldCat
+  title: The secrets of ancient geometry, and its use
+  title-short: The secrets of ancient geometry
+  translator:
+    - family: Napier
+      given: Charles M.
+  type: book
+  volume: '1'
+
+- id: brunes:1967secrets2
+  author:
+    - family: Brunés
+      given: Tons
+  citation-key: brunes:1967secrets2
+  event-place: Copenhagen
+  ISBN: 978-0-391-01117-5
+  issued:
+    - year: 1967
+  language: en
+  publisher: Rhodos
+  publisher-place: Copenhagen
+  source: Open WorldCat
+  title: The secrets of ancient geometry, and its use
+  title-short: The secrets of ancient geometry
+  translator:
+    - family: Napier
+      given: Charles M.
+  type: book
+  volume: '2'
 
 - id: bucher:1968design27
   accessed:
@@ -3413,26 +3529,85 @@ references:
   title: History of architecture on the comparative method
   type: book
 
-- id: fletcher:2020introduction
+- id: fletcher:2020introduction1
   accessed:
     - year: 2022
       month: 3
       day: 10
-  citation-key: fletcher:2020introduction
-  dimensions: '1:10:05'
-  director:
+  author:
     - family: Fletcher
       given: Rachel
+  citation-key: fletcher:2020introduction1
+  container-title: Institute for Classical Architecture and Classical America
   issued:
     - year: 2020
       month: 7
       day: 3
   language: en
-  publisher: Institute for Classical Architecture and Classical America
-  title: 'Introduction to Architectural Proportion: Part I'
-  type: motion_picture
+  title: 'Introduction to architectural proportion: part I'
+  type: post-weblog
   URL: >-
     https://www.classicist.org/articles/introduction-to-architectural-proportion-part-i/
+
+- id: fletcher:2020introduction2
+  accessed:
+    - year: 2022
+      month: 3
+      day: 10
+  author:
+    - family: Fletcher
+      given: Rachel
+  citation-key: fletcher:2020introduction2
+  container-title: Institute for Classical Architecture and Classical America
+  issued:
+    - year: 2020
+      month: 7
+      day: 3
+  language: en
+  title: 'Introduction to architectural proportion: part II'
+  type: post-weblog
+  URL: >-
+    https://www.classicist.org/articles/introduction-to-architectural-proportion-part-ii/
+
+- id: fletcher:2020introduction3
+  accessed:
+    - year: 2022
+      month: 3
+      day: 10
+  author:
+    - family: Fletcher
+      given: Rachel
+  citation-key: fletcher:2020introduction3
+  container-title: Institute for Classical Architecture and Classical America
+  issued:
+    - year: 2020
+      month: 7
+      day: 3
+  language: en
+  title: 'Introduction to architectural proportion: part III'
+  type: post-weblog
+  URL: >-
+    https://www.classicist.org/articles/introduction-to-architectural-proportion-part-iii/
+
+- id: fletcher:2020introduction4
+  accessed:
+    - year: 2022
+      month: 3
+      day: 10
+  author:
+    - family: Fletcher
+      given: Rachel
+  citation-key: fletcher:2020introduction4
+  container-title: Institute for Classical Architecture and Classical America
+  issued:
+    - year: 2020
+      month: 7
+      day: 3
+  language: en
+  title: 'Introduction to architectural proportion: part IV'
+  type: post-weblog
+  URL: >-
+    https://www.classicist.org/articles/introduction-to-architectural-proportion-part-iv/
 
 - id: fornes:1857manual
   author:
@@ -3643,9 +3818,7 @@ references:
   issued:
     - year: 2004
   language: en-US
-  publisher: >-
-    W. W. Norton & Co. in association with the Institute of Classical
-    Architecture and Classical America
+  publisher: W.W. Norton
   publisher-place: New York
   source: Open WorldCat
   title: >-
@@ -5162,7 +5335,7 @@ references:
     - family: Langhein
       given: Joachim
   citation-key: langhein:2013proportion
-  container-title: INTBAU Ideas and Opinions
+  container-title: <span class="smallcaps">INTBAU</span> Ideas and Opinions
   issue: '10'
   issued:
     - year: 2013
@@ -7919,7 +8092,7 @@ references:
   ISBN: 978-85-230-0740-9
   issued:
     - year: 2003
-  language: Portuguese
+  language: pt-BR
   publisher: Editora UnB
   publisher-place: Brasília
   source: Open WorldCat
@@ -8165,6 +8338,34 @@ references:
     - family: Ficher
       given: Sylvia
   type: book
+
+- id: sussman:2021cognitive
+  accessed:
+    - year: 2022
+      month: 2
+      day: 14
+  author:
+    - family: Sussman
+      given: Ann
+    - family: Hollander
+      given: Justin B.
+  citation-key: sussman:2021cognitive
+  edition: '2'
+  event-place: Abingdon, Oxon ; New York
+  ISBN: 978-1-00-040307-7
+  issued:
+    - year: 2021
+  language: en
+  publisher: Routledge
+  publisher-place: Abingdon, Oxon ; New York
+  source: Open WorldCat
+  title: >-
+    Cognitive architecture: designing for how we respond to the built
+    environment
+  title-short: Cognitive architecture
+  type: book
+  URL: >-
+    https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=2914935
 
 - id: tafuri:1979teorias
   author:
@@ -9050,7 +9251,7 @@ references:
   event-place: Cambridge, Mass.
   issued:
     - year: 1914
-  language: English
+  language: en
   publisher: Harvard University Press
   publisher-place: Cambridge, Mass.
   source: Internet Archive

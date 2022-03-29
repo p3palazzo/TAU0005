@@ -80,6 +80,8 @@ yandex_site_verification :
 naver_site_verification  :
 head_scripts:
   - https://kit.fontawesome.com/eddf3d9a63.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 # Social Sharing
 twitter:
