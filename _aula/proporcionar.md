@@ -433,8 +433,8 @@ Um dos conjuntos de números mais importantes para a escola pitagórica
 era *tetractys*, formada pelos quatro primeiros números naturais maiores
 que zero (de 1 a 4). A *tetractys* tem algumas propriedades matemáticas
 interessantes, e no sistema de Pitágoras ela é associada a propriedades
-musicais e metafísicas. Algumas propriedades básicas da *tetractys* são
-a soma dos seus elementos, que é igual a 10.
+musicais e metafísicas. Uma propriedade básica da *tetractys* é a soma
+dos seus elementos, que é igual a 10.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 . . .
