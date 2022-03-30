@@ -248,6 +248,19 @@ característica é universal, perpassando todas as culturas edilícias
 tradicionais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+* * * *
+
+![Palácios nazarí, Alhambra, Granada, século [XIV]{.smallcaps}](https://hcommons.org/app/uploads/sites/1002372/2022/03/alhambra-nazari-plan-edificios-importantes.png){#fig:nazari-plan .line .full}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mais importante ainda do que a simetria bilateral da edificação inteira
+são as simetrias localizadas em vãos secundários ou pontos de vista
+específicos [@alexander:2002nature 1:186]. Essas composições simétricas
+menores contribuem para a leitura do edifício em todas as escalas. Isso
+acontece, por exemplo, nos sucessivos pátios e salões dos palácios
+nazarí na Alhambra de Granada ([@fig:nazari-plan]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Antropomorfismo ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -488,9 +501,25 @@ quando se amplia ou se reduz o desenho. Mais abaixo, vamos ver como as
 ordens podem também ser realizadas por meio de um sistema dinâmico.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain" data-background-position="right"}
+* * * *
 
-![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault .align-right .slide-bg}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Elementos das ordens clássicas segundo Jean-François Gabriel
+[-@gabriel:2004classical]:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+- Módulo
+- Contratura
+- Base e capitel
+- Entablamento
+- Frontão
+- Variantes da coluna
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O uso moderno e contemporâneo das proporções acabou seguindo essa mesma
@@ -501,9 +530,9 @@ receitas para ajustar as proporções de colunas, vigas, arcos e pedestais
 entre si e com o edifício como um todo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png" data-background-size="contain" data-background-position="right"}
+* * * *
 
-![Detalhe da ordem dórica segundo Vinhola, edição de 1787](https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png){#fig:vignola .align-right .line .slide-bg}
+![Detalhe da ordem dórica segundo Vinhola, edição de 1787](https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png){#fig:vignola .align-right .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os tratados das ordens, como o do Vinhola no final do século
@@ -512,7 +541,7 @@ série de cotas que medem a dimensão de cada elemento em módulos e partes
 de módulos ([@fig:vignola]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/7c/5e/e1/7c5ee136540dcbb85c2ad97992904e61.jpg" data-background-size="contain" data-background-position="right"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse modo de representar as ordens é muito conveniente para um arquiteto
@@ -524,7 +553,7 @@ da obra, usando uma trena. É um modo moderno de trabalhar por excelência
 [@carpo:2003drawing62].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Detalhes da ordem jônica de Vinhola, em edição de Pierre Esquié, 1922](https://i.pinimg.com/originals/7c/5e/e1/7c5ee136540dcbb85c2ad97992904e61.jpg){#fig:esquie .slide-bg}
+![Detalhes da ordem jônica de Vinhola, em edição de Pierre Esquié, 1922](https://i.pinimg.com/originals/7c/5e/e1/7c5ee136540dcbb85c2ad97992904e61.jpg){#fig:esquie}
 
 * * * *
 
@@ -548,20 +577,69 @@ digital na mão (era a década de 1980), ou mesmo no [CAD]{.smallcaps}
 ([@fig:chitham]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Tripartição e divisões sucessivas ##
+
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Como já vimos, o método canônico de representação das ordens clássicas é
+conveniente quando a disciplina da arquitetura consiste em grande parte
+na produção de desenhos técnicos precisos, que vão ser transpostos para
+o canteiro de obras por meio de cotas métricas. Mas esse não é o caso da
+prática construtiva vernácula, nem da maior parte das tradições
+arquitetônicas não industrializadas. Por isso, também existe um método
+dinâmico de execução das ordens por meio de divisões sucessivas de um
+módulo básico [@carpo:2003drawing62]. Esse método está descrito no
+tratado de Vitrúvio e se baseia em divisões sucessivas por metades ou
+terços.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Elementos das ordens clássicas segundo Jean-François Gabriel
-[-@gabriel:2004classical]:
+Método algorítmico.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-- Módulo
-- Contratura
-- Base e capitel
-- Entablamento
-- Frontão
-- Variantes da coluna
+:::::::::::::::::::::::::::::::::::::::::::::::: {#fig:base-atica .full}
+<div class="r-stack"> ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica01.png){#fig:base-atica01 .line .fragment .current-visible .align-left}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica02.png){#fig:base-atica02 .line .fragment .current-visible .align-left}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica03.png){#fig:base-atica03 .line .fragment .current-visible .align-left}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica04.png){#fig:base-atica04 .line .fragment .current-visible .align-left}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica05.png){#fig:base-atica05 .line .fragment .current-visible .align-left}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica06.png){#fig:base-atica06 .line .fragment .current-visible .align-left}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica07.png){#fig:base-atica07 .line .fragment .current-visible .align-left}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica08.png){#fig:base-atica08 .line .fragment .current-visible .align-left}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica09.png){#fig:base-atica09 .line .fragment .current-visible .align-left}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica10.png){#fig:base-atica10 .line .fragment .current-visible .align-left}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica11.png){#fig:base-atica11 .line .fragment .current-visible .align-left}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica12.png){#fig:base-atica12 .line .fragment .current-visible .align-left}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica13.png){#fig:base-atica13 .line .fragment .current-visible .align-left}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica14.png){#fig:base-atica14 .line .fragment .current-visible .align-left} </div>
+
+Algoritmo de execução da base ática segundo Vitrúvio III:v:ii
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-visibility="hidden"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+## Conclusão ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As proporções fixas são razões numéricas entre dimensões que foram
+escolhidas, num determinado costume cultural ou pessoal, por se
+acreditar que elas estão imbuídas de uma beleza intrínseca. Por isso, as
+proporções fixas são importantes na formação de um cânone estético como
+o das ordens clássicas a partir do Renascimento. A existência desse
+cânone supõe que o processo de se compor e construir edifícios é
+distinto do conhecimento necessário para tornar um edifício *belo*. No
+entanto, as próprias ordens clássicas se desenvolveram numa cultura em
+que essa distinção não existia. O mesmo método iterativo de composição
+que Vitrúvio preconizava para proporcionar os elementos das ordens
+clássicas pode ser aplicado à composição de um edifício como um todo,
+por meio das proporções dinâmicas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Proporções dinâmicas #
@@ -574,12 +652,6 @@ culturas tradicionais, as proporções não são a *finalidade* da
 arquitetura e sim o *meio* de produzir a arquitetura. As proporções são
 mecanismos para planejar o espaço com regularidade em escalas sucessivas
 e ao longo das gerações que constroem uma obra.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Tripartição e divisões sucessivas ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Método vitruviano.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Vesica piscis ##
