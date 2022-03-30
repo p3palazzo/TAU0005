@@ -42,6 +42,8 @@ html {
     background: transparentize($backgroundColor, 0.3);
     backdrop-filter: blur(5px);
     border: none;
+    padding-left: 10px;
+    padding-right: 10px;
   }
   dt, h3, h4, h5 {
     @extend .smallcaps;
@@ -83,6 +85,7 @@ html {
   section {
     &.has-dark-background,
     &#title-slide {
+      // Force full-height to position subtitle and author correctly.
       height: 100vh;
       color: $backgroundColor;
       * {
@@ -119,20 +122,15 @@ html {
         display: none;
       }
     }
-    // Make sure images don't overflow from their containers
+    // Make sure images don't overflow their containers.
+    // Give room for 2-line captions @ 1080p.
+    figure,
     img {
       object-fit: contain;
-      max-height: 85vh;
+      max-height: calc(100vh - 128px);
     }
-    // Hide single images so we can use data-background-image
+    // Images that float over other content
     & > figure {
-      & > img {
-        max-height: 80vh;
-      }
-      & > img:not(.r-stretch):not(.r-stack):not(.overlay-slide),
-      & > video:not(.r-stretch):not(.r-stack):not(.overlay-slide) {
-        visibility: hidden;
-      }
       & > img.overlay-slide,
       & > img.overlay-slide + figcaption {
         float: right;
@@ -140,19 +138,29 @@ html {
         max-width: 25%;
       }
     }
-    & > figure + figcaption,
-    & > div.subfigures > p:last-of-type {
-      position: fixed;
-      bottom: 2.5%;
-      left: 2.5%;
-    }
+    // Hide single images so we can use data-background-image
     .slide-bg,
     .no-slide {
       iframe,
       img,
       video {
         visibility: hidden;
+        height: 100vh;
+        // Height is required so the slide stretches to the full
+        //  viewport size and the caption is properly positioned.
       }
+      & + figcaption {
+        position: fixed;
+        bottom: 2.5%;
+        left: 2.5%;
+      }
+    }
+    img.slide-bg {
+      visibility: hidden;
+      height: 100vh;
+    }
+    .subfigures > p:last-of-type {
+      @extend figcaption;
     }
   }
 
@@ -162,21 +170,11 @@ html {
   .columns {
     margin-top: -20px;
   }
-  .subfigures > p,
   .column figure {
     margin: 0;
     padding: 0;
     height: 100vh;
     width: 100%;
-  }
-  // Subfigures are a nice feature of Pandoc-crossref. We use them
-  // inside column layouts.
-  figcaption,
-  div.subfigures > p:last-of-type {
-    padding: 8px 2.5%; // 2.5% + 45% + 2.5% = 50% column width.
-    height: auto;
-    max-width: 60%;
-    text-align: left;
   }
 
   .epigraph > blockquote > p {
