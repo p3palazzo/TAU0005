@@ -78,7 +78,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Caracterizar",
-        "excerpt":"Estilo, construção e cultura No final da última dinastia imperial chinesa e durante o período republicano, pensadores como Gu Jiegang e Liang Qichao adotaram uma perspectiva intelectualmente reformista e cética com respeito à cronologia histórica tradicional. Esse ceticismo estava alinhado com a visão da história desenvolvida na Europa do século...","categories": [],
+        "excerpt":"Estilo, construção e cultura As análises sobre a questão do contexto na China antiga são retomadas, a partir das referências bibliográficas ocidentais sobre o tema. Nos livros-texto propostos para a disciplina, observa-se uma perspectiva pretensamente neutra e convencional da arquitetura asiática como uma manifestação mais ou menos isolada e estática....","categories": [],
         "tags": [],
         "url": "/tau0005/aula/caracterizar/",
         "teaser": null
