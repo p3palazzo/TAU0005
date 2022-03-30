@@ -58,6 +58,45 @@ references:
   title: L'arte di costruire presso i Romani
   type: book
 
+- id: adam:1994roman
+  abstract: >-
+    "Roman architecture is extraordinarily rich, both in terms of the techniques
+    and materials used and in the variety of buildings constructed, many of
+    which are still visible today." "This book places emphasis on the technical
+    aspects of that architecture, following the process of building through each
+    stage, from quarry to standing wall, from tree to roof timbers. The author
+    examines the different techniques involved in building in brick, stone and
+    wood, and how these materials were obtained or manufactured. He also
+    discusses interior decoration and looks at the practical aspects of water
+    supply, heating and roads. Each type of building required special tools and
+    these are described, using both surviving examples and modern parallels."
+    "The Romans constructed many spectacular feats of engineering, producing
+    magnificent monuments such as the Pantheon and Pont du Gard. This book looks
+    at these large-scale public buildings but also at more modest homes and
+    shops. The result is a thorough and systematic examination of Roman
+    building, with over 750 illustrations, including photographs and the
+    author's own drawings."--Jacket.
+  accessed:
+    - year: 2021
+      month: 10
+      day: 24
+  author:
+    - family: Adam
+      given: Jean Pierre
+  citation-key: adam:1994roman
+  event-place: London
+  ISBN: 978-0-203-98436-9
+  issued:
+    - year: 1994
+  language: en-GB
+  publisher: Batsford
+  publisher-place: London
+  source: Open WorldCat
+  title: 'Roman building: materials and techniques'
+  title-short: Roman building
+  type: book
+  URL: http://public.eblib.com/choice/publicfullrecord.aspx?p=254202
+
 - id: adams:1998japan
   abstract: >-
     Japan's Ise Shrine is famous for its thirteen-hundred-year-old
@@ -115,6 +154,41 @@ references:
       given: Mário Júlio Teixeira
   type: book
 
+- id: alexander:2002nature
+  author:
+    - family: Alexander
+      given: Christopher
+  citation-key: alexander:2002nature
+  event-place: Berkeley, Calif.
+  ISBN: 978-0-9726529-0-2 978-0-9726529-2-6
+  issued:
+    - year: 2002
+  language: en-US
+  number-of-volumes: '4'
+  publisher: Center for Environmental Structure
+  publisher-place: Berkeley, Calif.
+  source: Open WorldCat
+  title: The nature of order
+  type: book
+
+- id: alexander:2002phenomenon
+  author:
+    - family: Alexander
+      given: Christopher
+  citation-key: alexander:2002phenomenon
+  collection-number: '1'
+  collection-title: The nature of order
+  event-place: Berkeley, Calif.
+  ISBN: 978-0-9726529-0-2 978-0-9726529-2-6
+  issued:
+    - year: 2002
+  language: en-US
+  publisher: Center for Environmental Structure
+  publisher-place: Berkeley, Calif.
+  source: Open WorldCat
+  title: The phenomenon of life
+  type: book
+
 - id: alonso:2010introducao
   abstract: >-
     Este livro é uma introdução à história da arquitetura e do urbanismo
@@ -134,7 +208,9 @@ references:
   publisher: Bookman
   publisher-place: Porto Alegre
   source: Amazon
-  title: 'Introdução à história da arquitetura: das origens ao século XXI'
+  title: >-
+    Introdução à história da arquitetura: das origens ao século <span
+    class="smallcaps">XXI</span>
   title-short: Introdução à história da arquitetura
   translator:
     - family: Salvaterra
@@ -167,7 +243,7 @@ references:
   issue: '2'
   issued:
     - year: 1999
-  language: English
+  language: en
   page: 93-100
   source: JSTOR
   title: 'Virtual Cairo: an urban historian''s view of computer simulation'
@@ -411,7 +487,7 @@ references:
   ISBN: 978-0-415-35781-4 978-0-415-35795-1 978-0-203-00386-2
   issued:
     - year: 2006
-  language: en-US
+  language: en
   number-of-pages: '294'
   publisher: Taylor & Francis
   publisher-place: London ; New York
@@ -573,7 +649,7 @@ references:
   ISSN: 0079-0958
   issued:
     - year: 1987
-  language: English
+  language: en
   page: 24-37
   publisher: The MIT Press
   source: JSTOR
@@ -602,7 +678,7 @@ references:
   issued:
     - year: 1989
       month: 12
-  language: English
+  language: en
   page: 447-498
   source: DOI.org (Crossref)
   title: The origins of sedentism and farming communities in the Levant
@@ -784,8 +860,8 @@ references:
   page: 59-75
   source: Zotero
   title: >-
-    Unleashing the Potential of Traditional Construction Technique in the
-    Development of Modern Urban Mass Housing
+    Unleashing the potential of traditional construction technique in the
+    development of modern urban mass housing
   type: article-journal
   volume: '16'
 
@@ -800,7 +876,7 @@ references:
   ISBN: 978-1-4612-7745-3
   issued:
     - year: 1991
-  language: English
+  language: en
   publisher: Springer
   publisher-place: New York
   source: Open WorldCat
@@ -818,7 +894,7 @@ references:
   ISBN: 978-1-4612-7751-4 978-3-540-97187-0 978-0-387-97187-2
   issued:
     - year: 1991
-  language: English
+  language: en
   number-of-pages: '309'
   publisher: Springer
   publisher-place: New York
@@ -1071,7 +1147,7 @@ references:
   ISBN: 978-0-7546-6062-0
   issued:
     - year: 2011
-  language: English
+  language: en
   number-of-pages: '462'
   publisher: Ashgate
   publisher-place: Farnham
@@ -1275,6 +1351,48 @@ references:
   type: book
   URL: http://archive.org/details/in.gov.ignca.18060
 
+- id: brunes:1967secrets1
+  author:
+    - family: Brunés
+      given: Tons
+  citation-key: brunes:1967secrets1
+  event-place: Copenhagen
+  ISBN: 978-0-391-01117-5
+  issued:
+    - year: 1967
+  language: en
+  publisher: Rhodos
+  publisher-place: Copenhagen
+  source: Open WorldCat
+  title: The secrets of ancient geometry, and its use
+  title-short: The secrets of ancient geometry
+  translator:
+    - family: Napier
+      given: Charles M.
+  type: book
+  volume: '1'
+
+- id: brunes:1967secrets2
+  author:
+    - family: Brunés
+      given: Tons
+  citation-key: brunes:1967secrets2
+  event-place: Copenhagen
+  ISBN: 978-0-391-01117-5
+  issued:
+    - year: 1967
+  language: en
+  publisher: Rhodos
+  publisher-place: Copenhagen
+  source: Open WorldCat
+  title: The secrets of ancient geometry, and its use
+  title-short: The secrets of ancient geometry
+  translator:
+    - family: Napier
+      given: Charles M.
+  type: book
+  volume: '2'
+
 - id: bucher:1968design27
   accessed:
     - year: 2021
@@ -1290,7 +1408,7 @@ references:
   issue: '1'
   issued:
     - year: 1968
-  language: English
+  language: en
   page: 49-71
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
@@ -1569,9 +1687,9 @@ references:
   page: 448-469
   source: Crossref
   title: >-
-    Drawing with Numbers: Geometry and Numeracy in Early Modern Architectural
-    Design
-  title-short: Drawing with Numbers
+    Drawing with numbers: geometry and numeracy in early modern architectural
+    design
+  title-short: Drawing with numbers
   type: article-journal
   URL: http://jsah.ucpress.edu/cgi/doi/10.2307/3592497
   volume: '62'
@@ -1699,6 +1817,58 @@ references:
   type: article-journal
   URL: https://www.sciencedirect.com/science/article/pii/S2352728521000130
   volume: '6'
+
+- id: cha:2019reconsidering18
+  abstract: >-
+    The mathematics references in ancient China, the Zhoubi Suanjing and the
+    Jiuzhang Suanshu, present information on formative ideas of ancient people
+    and their perception of objects. The introduction to the Yingzao Fashi
+    mentions mathematical sources, including the Zhoubi Suanjing. Both of these
+    books focus on the philosophical concept of Tianyuan difang (Heaven is round
+    and Earth is square), as well as inscribed and circumscribed circles. The
+    square root of 2(√2), which can be derived from this part, proves to be an
+    essential criterion for building, seen in Korea, China, and Japan. Using the
+    exemplary Koryŏ building, the Muryangsujŏn Hall at Pusŏksa Buddhist
+    Monastery, this thesis shows that the standard ground plan width of the
+    outermost bay has a √2 ratio to the central bay width. Its cross-section,
+    likewise, proves that √2 times or twice the distance or height (relying on
+    the height of the eave columns) are applied to the distance or height
+    between each column and purlin in the application of arithmetic and
+    geometric concepts. In the future, this work will be a reference for the
+    reconstruction design of ancient buildings prior to the Koryŏ period,
+    analogous to the Muryangsujŏn Hall.
+  accessed:
+    - year: 2021
+      month: 7
+      day: 2
+  author:
+    - family: Cha
+      given: Juhwan
+    - family: Kim
+      given: Young Jae
+  citation-key: cha:2019reconsidering18
+  container-title: Journal of Asian Architecture and Building Engineering
+  DOI: 10.1080/13467581.2019.1680376
+  ISSN: 1346-7581
+  issue: '5'
+  issued:
+    - year: 2019
+      month: 9
+      day: 3
+  language: en
+  page: 457-471
+  publisher: Taylor & Francis
+  source: Taylor and Francis+NEJM
+  title: >-
+    Reconsidering a proportional system of timber-frame structures through
+    ancient mathematics books: a case study on the Muryangsujŏn Hall at Pusŏksa
+    Buddhist Monastery
+  title-short: >-
+    Reconsidering a proportional system of timber-frame structures through
+    ancient mathematics books
+  type: article-journal
+  URL: https://doi.org/10.1080/13467581.2019.1680376
+  volume: '18'
 
 - id: chambers:1757designs
   abstract: >-
@@ -1829,7 +1999,7 @@ references:
   ISBN: 978-0-8248-6101-8
   issued:
     - year: 2011
-  language: English
+  language: en
   page: 193-203
   publisher: 'Hawai’i University Press : Hong Kong University Press'
   publisher-place: 'Honolulu : [Hong Kong]'
@@ -1891,7 +2061,7 @@ references:
       given: Vikramaditya
   call-number: NA200 .C493 2011
   citation-key: ching:2011global
-  edition: 2nd ed
+  edition: '2'
   event-place: Hoboken, N.J
   ISBN: 978-0-470-40257-3
   issued:
@@ -1991,7 +2161,7 @@ references:
   event-place: Paris
   issued:
     - year: 1876
-  language: French
+  language: fr
   number-of-pages: '474'
   publisher: Ve A. Morel & cie.
   publisher-place: Paris
@@ -2026,7 +2196,7 @@ references:
   event-place: Paris
   issued:
     - year: 1873
-  language: French
+  language: fr
   publisher: Ducher
   publisher-place: Paris
   source: Open WorldCat
@@ -2042,7 +2212,7 @@ references:
   event-place: Paris
   issued:
     - year: 1873
-  language: French
+  language: fr
   publisher: Ducher
   publisher-place: Paris
   source: Open WorldCat
@@ -2058,7 +2228,7 @@ references:
   event-place: Paris
   issued:
     - year: 1883
-  language: French
+  language: fr
   publisher: Sté Anonyme de Publications Périodiques
   publisher-place: Paris
   source: Open WorldCat
@@ -2074,7 +2244,7 @@ references:
   event-place: Paris
   issued:
     - year: 1883
-  language: French
+  language: fr
   publisher: Sté Anonyme de Publications Périodiques
   publisher-place: Paris
   source: Open WorldCat
@@ -2243,7 +2413,7 @@ references:
   ISBN: 978-0-8248-6101-8
   issued:
     - year: 2011
-  language: English
+  language: en
   publisher: 'Hawai’i University Press : Hong Kong University Press'
   publisher-place: 'Honolulu : [Hong Kong]'
   source: Open WorldCat
@@ -2377,7 +2547,7 @@ references:
   ISBN: 978-0-486-20378-2
   issued:
     - year: 1956
-  language: English
+  language: en
   publisher: Dover
   publisher-place: New York
   source: Open WorldCat
@@ -2506,7 +2676,7 @@ references:
   ISBN: 978-85-60100-08-8
   issued:
     - year: 2007
-  language: Portuguese
+  language: pt-BR
   publisher: UniRitter
   publisher-place: Porto Alegre
   source: Open WorldCat
@@ -2601,7 +2771,7 @@ references:
   event-place: Paris
   issued:
     - year: 1643
-  language: French
+  language: fr-FR
   publisher: Sébastien Cramoisy
   publisher-place: Paris
   source: Internet Archive
@@ -2744,7 +2914,7 @@ references:
     - year: 2019
       month: 1
       day: 5
-  language: English
+  language: en
   page: e0215214
   publisher: Public Library of Science
   source: PLoS Journals
@@ -2817,7 +2987,7 @@ references:
   issued:
     - year: 1802
     - year: 1805
-  language: French
+  language: fr
   number-of-volumes: '2'
   publisher: l'auteur
   publisher-place: Paris
@@ -2834,7 +3004,7 @@ references:
   event-place: Paris
   issued:
     - year: 1821
-  language: French
+  language: fr
   number-of-pages: '36'
   publisher: l'auteur
   publisher-place: Paris
@@ -2872,7 +3042,7 @@ references:
   event-place: Stuttgart
   issued:
     - year: 1905
-  language: German
+  language: de
   number-of-pages: '832'
   publisher: A. Bergsträsser
   publisher-place: Stuttgart
@@ -2924,7 +3094,7 @@ references:
   event-place: Zürich
   issued:
     - year: 1980
-  language: German
+  language: de
   publisher: Eidgenössiche Technische Hochschule
   publisher-place: Zürich
   title: >-
@@ -2941,7 +3111,7 @@ references:
   ISBN: 978-3-905451-02-3
   issued:
     - year: 1994
-  language: English
+  language: en
   number-of-pages: '250'
   publisher: Structura Mundi
   publisher-place: Lausanne
@@ -3157,7 +3327,7 @@ references:
   ISBN: 978-0-8248-3363-3
   issued:
     - year: 2012
-  language: English
+  language: en
   number-of-pages: '304'
   publisher: University of Hawai’i Press ; Hong Kong University Press
   publisher-place: 'Honolulu : [Hong Kong]'
@@ -3238,7 +3408,7 @@ references:
   ISBN: 978-85-7503-420-0
   issued:
     - year: 2006
-  language: Portuguese
+  language: pt-BR
   publisher: Cosac Naify
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3282,7 +3452,7 @@ references:
     - year: 2018
       month: 9
       day: 10
-  language: French
+  language: fr-FR
   number: '2'
   publisher: Ministère de la culture
   source: journals.openedition.org
@@ -3307,7 +3477,7 @@ references:
   ISBN: 978-0-226-25203-2
   issued:
     - year: 1981
-  language: English
+  language: en
   number-of-pages: '382'
   publisher: University of Chicago Press
   publisher-place: Chicago
@@ -3329,7 +3499,7 @@ references:
       given: Banister F.
   call-number: b12340145
   citation-key: fletcher:1905history
-  edition: 5. ed.
+  edition: '5'
   event-place: 'London : New York'
   issued:
     - year: 1905
@@ -3341,6 +3511,7 @@ references:
   title: >-
     A history of architecture on the comparative method for the student,
     craftsman, and amateur
+  title-short: A history of architecture
   type: book
   URL: http://archive.org/details/historyofarchite00flet
 
@@ -3357,6 +3528,86 @@ references:
   publisher-place: London
   title: History of architecture on the comparative method
   type: book
+
+- id: fletcher:2020introduction1
+  accessed:
+    - year: 2022
+      month: 3
+      day: 10
+  author:
+    - family: Fletcher
+      given: Rachel
+  citation-key: fletcher:2020introduction1
+  container-title: Institute for Classical Architecture and Classical America
+  issued:
+    - year: 2020
+      month: 7
+      day: 3
+  language: en
+  title: 'Introduction to architectural proportion: part I'
+  type: post-weblog
+  URL: >-
+    https://www.classicist.org/articles/introduction-to-architectural-proportion-part-i/
+
+- id: fletcher:2020introduction2
+  accessed:
+    - year: 2022
+      month: 3
+      day: 10
+  author:
+    - family: Fletcher
+      given: Rachel
+  citation-key: fletcher:2020introduction2
+  container-title: Institute for Classical Architecture and Classical America
+  issued:
+    - year: 2020
+      month: 7
+      day: 3
+  language: en
+  title: 'Introduction to architectural proportion: part II'
+  type: post-weblog
+  URL: >-
+    https://www.classicist.org/articles/introduction-to-architectural-proportion-part-ii/
+
+- id: fletcher:2020introduction3
+  accessed:
+    - year: 2022
+      month: 3
+      day: 10
+  author:
+    - family: Fletcher
+      given: Rachel
+  citation-key: fletcher:2020introduction3
+  container-title: Institute for Classical Architecture and Classical America
+  issued:
+    - year: 2020
+      month: 7
+      day: 3
+  language: en
+  title: 'Introduction to architectural proportion: part III'
+  type: post-weblog
+  URL: >-
+    https://www.classicist.org/articles/introduction-to-architectural-proportion-part-iii/
+
+- id: fletcher:2020introduction4
+  accessed:
+    - year: 2022
+      month: 3
+      day: 10
+  author:
+    - family: Fletcher
+      given: Rachel
+  citation-key: fletcher:2020introduction4
+  container-title: Institute for Classical Architecture and Classical America
+  issued:
+    - year: 2020
+      month: 7
+      day: 3
+  language: en
+  title: 'Introduction to architectural proportion: part IV'
+  type: post-weblog
+  URL: >-
+    https://www.classicist.org/articles/introduction-to-architectural-proportion-part-iv/
 
 - id: fornes:1857manual
   author:
@@ -3481,7 +3732,7 @@ references:
     - year: 2017
       month: 4
       day: 16
-  language: English
+  language: en
   page: 1-3
   publisher: John Wiley & Sons
   publisher-place: Hoboken, N.J.
@@ -3567,9 +3818,7 @@ references:
   issued:
     - year: 2004
   language: en-US
-  publisher: >-
-    W. W. Norton & Co. in association with the Institute of Classical
-    Architecture and Classical America
+  publisher: W.W. Norton
   publisher-place: New York
   source: Open WorldCat
   title: >-
@@ -3743,7 +3992,7 @@ references:
     - year: 1961
       month: 1
       day: 1
-  language: English
+  language: en
   number-of-pages: '768'
   publisher: Harvard University Press
   publisher-place: Cambridge, Mass.
@@ -3902,16 +4151,16 @@ references:
   citation-key: grabar:2006islamic
   collection-number: '3'
   collection-title: Constructing the Study of Islamic Art
-  event-place: Aldershot, Hampshire, England ; Burlington, VT
+  event-place: Aldershot, Hampshire, England ; Burlington, Ver.
   ISBN: 978-0-86078-926-0
   issued:
     - year: 2006
       month: 4
       day: 28
-  language: English
+  language: en
   number-of-pages: '388'
   publisher: Routledge
-  publisher-place: Aldershot, Hampshire, England ; Burlington, VT
+  publisher-place: Aldershot, Hampshire, England ; Burlington, Ver.
   source: Amazon
   title: Islamic art and beyond
   title-short: Islamic art and beyond
@@ -3932,7 +4181,7 @@ references:
   issue: '1'
   issued:
     - year: 1966
-  language: English
+  language: en
   page: 3-31
   publisher: Classical Association of Canada
   source: JSTOR
@@ -4035,6 +4284,21 @@ references:
   URL: https://doi.org/10.1177/0959683620950449
   volume: '30'
 
+- id: guadet:1901elements
+  author:
+    - family: Guadet
+      given: Julien
+  citation-key: guadet:1901elements
+  event-place: Paris
+  issued:
+    - year: 1901
+  language: fr-FR
+  number-of-volumes: '4'
+  publisher: Aulanier
+  publisher-place: Paris
+  title: Éléments et théorie de l'architecture
+  type: book
+
 - id: guadet:1915elements
   author:
     - family: Guadet
@@ -4066,7 +4330,7 @@ references:
   event-place: Paris
   issued:
     - year: 1915
-  language: French
+  language: fr
   publisher: Construction moderne
   publisher-place: Paris
   source: BnF Catalogue général (http://catalogue.bnf.fr)
@@ -4096,8 +4360,7 @@ references:
   language: en-GB
   page: 1-13
   source: JSTOR
-  title: 'Yingzao Fashi: twelfth-century Chinese building manual'
-  title-short: Yingzao fashi
+  title: '*Yingzao Fashi*: twelfth-century Chinese building manual'
   type: article-journal
   URL: https://www.jstor.org/stable/1568644
   volume: '41'
@@ -4138,7 +4401,7 @@ references:
     - year: 2015
       month: 8
       day: 7
-  language: English
+  language: en
   page: e0130121
   publisher: Public Library of Science
   source: PLoS Journals
@@ -4186,11 +4449,11 @@ references:
   issued:
     - year: 2020
       month: 5
-  language: English
+  language: en
   page: 343-357
   publisher: Cambridge University Press
   source: Cambridge University Press
-  title: Geometry and Architectural Planning at Göbekli Tepe, Turkey
+  title: Geometry and architectural planning at Göbekli Tepe, Turkey
   type: article-journal
   URL: >-
     https://www.cambridge.org/core/journals/cambridge-archaeological-journal/article/geometry-and-architectural-planning-at-gobekli-tepe-turkey/2CBAF416E33AFE6496B73710A2F42FF9
@@ -4369,7 +4632,7 @@ references:
   issue: '4'
   issued:
     - year: 1978
-  language: French
+  language: fr-FR
   page: 309-323
   publisher: Persée - Portail des revues scientifiques en SHS
   source: DOI.org (Crossref)
@@ -4709,7 +4972,7 @@ references:
   issued:
     - year: 1988
       month: 4
-  language: English
+  language: en
   page: 375–388
   source: Crossref
   title: Tradition, innovation, and aesthetic experience
@@ -4791,7 +5054,7 @@ references:
     - year: 2011
       month: 12
       day: 31
-  language: English
+  language: en
   page: 109-118
   source: DOI.org (Crossref)
   title: 'Burial practices and social complexity: Jomon examples'
@@ -4936,7 +5199,7 @@ references:
   ISBN: 978-0-19-503472-1
   issued:
     - year: 1985
-  language: English
+  language: en
   publisher: Oxford University Press
   publisher-place: New York
   source: Open WorldCat
@@ -5062,6 +5325,26 @@ references:
   source: Zotero
   title: Proportion analyses of traditional vernacular architecture
   type: manuscript
+
+- id: langhein:2013proportion
+  accessed:
+    - year: 2013
+      month: 9
+      day: 16
+  author:
+    - family: Langhein
+      given: Joachim
+  citation-key: langhein:2013proportion
+  container-title: <span class="smallcaps">INTBAU</span> Ideas and Opinions
+  issue: '10'
+  issued:
+    - year: 2013
+  language: en-GB
+  title: Proportion and traditional architecture
+  type: article-journal
+  URL: >-
+    https://www.intbau.org/wp-content/uploads/2014/10/ProportionandTraditionalArchitecture.pdf
+  volume: '1'
 
 - id: langhein:sebastiano
   accessed:
@@ -5191,7 +5474,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1977
-  language: Portuguese
+  language: pt-BR
   publisher: Perspectiva
   publisher-place: São Paulo
   source: Open WorldCat
@@ -5309,7 +5592,7 @@ references:
   issue: '1'
   issued:
     - year: 1991
-  language: English
+  language: en
   page: 47-57
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -5357,11 +5640,11 @@ references:
   issue: '5'
   issued:
     - year: 1969
-  language: English
+  language: en
   page: 42-51
   publisher: Scientific American, a division of Nature America, Inc.
   source: JSTOR
-  title: A Paleolithic Camp at Nice
+  title: A Paleolithic camp at Nice
   type: article-journal
   URL: https://www.jstor.org/stable/24926357
   volume: '220'
@@ -5492,7 +5775,7 @@ references:
     - family: Mascarenhas
       given: Jorge
   citation-key: mascarenhas:2019tecnicas
-  collection-number: XVI
+  collection-number: <span class="smallcaps">XVI</span>
   collection-title: Sistemas de construção
   event-place: Lisboa
   ISBN: 978-972-24-1936-9
@@ -5542,8 +5825,8 @@ references:
   ISBN: 978-0-585-48272-9
   issued:
     - year: 2003
-  language: English
-  publisher: MIT Press
+  language: en
+  publisher: <span class="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
   title: 'Vitruvius: writing the body of architecture'
   title-short: Vitruvius
@@ -5831,7 +6114,7 @@ references:
   event-place: Paris
   issued:
     - year: 1852
-  language: French
+  language: fr
   publisher: Normand
   publisher-place: Paris
   source: Open WorldCat
@@ -5878,7 +6161,7 @@ references:
   event-place: London
   issued:
     - year: 1738
-  language: en-GB
+  language: en
   number-of-pages: '549'
   publisher: R. Ware
   publisher-place: London
@@ -5900,7 +6183,7 @@ references:
   ISBN: 978-7-81089-578-1
   issued:
     - year: 2004
-  language: Chinese
+  language: zh
   publisher: 东南大学出版社 [Dong nan da xue chu ban she]
   publisher-place: Nanjing
   source: Library of Congress ISBN
@@ -6213,7 +6496,7 @@ references:
   issued:
     - year: 1997
       month: 10
-  language: English
+  language: en
   page: 208-224
   source: DOI.org (Crossref)
   title: >-
@@ -6877,7 +7160,7 @@ references:
   event-place: Paris
   issued:
     - year: 1812
-  language: French
+  language: fr-FR
   number-of-pages: '482'
   number-of-volumes: '4'
   publisher: Chez l'auteur
@@ -6935,7 +7218,7 @@ references:
     - year: 2020
       month: 1
       day: 22
-  language: English
+  language: en
   page: e0227288
   publisher: Public Library of Science
   source: PLoS Journals
@@ -6983,7 +7266,7 @@ references:
   issue: '2'
   issued:
     - year: 1987
-  language: French
+  language: fr
   page: 711-751
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -7202,7 +7485,7 @@ references:
   issued:
     - year: 2002
       month: 8
-  language: English
+  language: en
   publisher: Foundation for Science, Technology, and Civilisation
   publisher-place: Manchester
   title: Introduction to the Islamic City
@@ -7309,10 +7592,11 @@ references:
   call-number: '72.034.6(45) : 72:4'
   citation-key: schumacher:1987palladio
   container-title: Cornell Journal of Architecture
+  container-title-short: CJA
   issued:
     - year: 1987
       season: 3
-  language: en-US
+  language: en
   page: 12–29
   title: The Palladio variations, on reconciling convention, parti, and space
   title-short: The Palladio variations
@@ -7349,7 +7633,7 @@ references:
   citation-key: semper:1851vier
   issued:
     - year: 1851
-  language: German
+  language: de
   number-of-pages: '126'
   publisher: F. Vieweg
   source: Internet Archive
@@ -7373,7 +7657,7 @@ references:
   event-place: Frankfurt am Main
   issued:
     - year: 1860
-  language: German
+  language: de
   number-of-pages: '626'
   publisher: Verlag für Kunst und Wissenschaft
   publisher-place: Frankfurt am Main
@@ -7486,14 +7770,14 @@ references:
   citation-key: smith:1978dome
   collection-number: '25'
   collection-title: Princeton-monographs in art and archaeology
-  event-place: Princeton, N. J
+  event-place: Princeton, N.J.
   ISBN: 978-0-691-00304-7
   issued:
     - year: 1978
-  language: English
+  language: en
   number-of-pages: '227'
-  publisher: Princeton Univ. Pr
-  publisher-place: Princeton, N. J
+  publisher: Princeton University Press
+  publisher-place: Princeton, N.J.
   source: Gemeinsamer Bibliotheksverbund ISBN
   title: 'The dome: a study in the history of ideas'
   title-short: The dome
@@ -7725,12 +8009,13 @@ references:
   issue: '2'
   issued:
     - year: 2004
-  language: English
+  language: en
   page: 228-254
   source: JSTOR
   title: >-
-    The Tang Architectural Icon and the Politics of Chinese Architectural
-    History
+    The Tang architectural icon and the politics of Chinese architectural
+    history
+  title-short: The Tang architectural icon
   type: article-journal
   URL: http://www.jstor.org/stable/3177416
   volume: '86'
@@ -7807,7 +8092,7 @@ references:
   ISBN: 978-85-230-0740-9
   issued:
     - year: 2003
-  language: Portuguese
+  language: pt-BR
   publisher: Editora UnB
   publisher-place: Brasília
   source: Open WorldCat
@@ -7879,7 +8164,7 @@ references:
     - year: 2011
       month: 11
       day: 8
-  language: English
+  language: en
   publisher: University of Cambridge
   source: www.repository.cam.ac.uk
   title: 'The evolution of shelter: ecology and ethology of chimpanzee nest building'
@@ -8008,11 +8293,11 @@ references:
   ISSN: 1662-8985
   issued:
     - year: 2012
-  language: English
+  language: en
   page: 819-822
   publisher: Trans Tech Publications Ltd
   source: www.scientific.net
-  title: Experimental Study on Stiffness of Dougong in Chinese Ancient Buildings
+  title: Experimental study on stiffness of *dougong* in Chinese ancient buildings
   type: article-journal
   URL: https://www.scientific.net/AMR.368-373.819
   volume: 368-373
@@ -8053,6 +8338,34 @@ references:
     - family: Ficher
       given: Sylvia
   type: book
+
+- id: sussman:2021cognitive
+  accessed:
+    - year: 2022
+      month: 2
+      day: 14
+  author:
+    - family: Sussman
+      given: Ann
+    - family: Hollander
+      given: Justin B.
+  citation-key: sussman:2021cognitive
+  edition: '2'
+  event-place: Abingdon, Oxon ; New York
+  ISBN: 978-1-00-040307-7
+  issued:
+    - year: 2021
+  language: en
+  publisher: Routledge
+  publisher-place: Abingdon, Oxon ; New York
+  source: Open WorldCat
+  title: >-
+    Cognitive architecture: designing for how we respond to the built
+    environment
+  title-short: Cognitive architecture
+  type: book
+  URL: >-
+    https://search.ebscohost.com/login.aspx?direct=true&scope=site&db=nlebk&db=nlabk&AN=2914935
 
 - id: tafuri:1979teorias
   author:
@@ -8569,7 +8882,7 @@ references:
     - year: 2017
       month: 3
       day: 21
-  language: English
+  language: en
   page: 3097-3102
   PMID: '28265058'
   publisher: National Academy of Sciences
@@ -8877,7 +9190,7 @@ references:
   event-place: Como
   issued:
     - year: 1521
-  language: Italian
+  language: it
   number-of-pages: '390'
   publisher: Gottardo da Ponte
   publisher-place: Como
@@ -8938,7 +9251,7 @@ references:
   event-place: Cambridge, Mass.
   issued:
     - year: 1914
-  language: English
+  language: en
   publisher: Harvard University Press
   publisher-place: Cambridge, Mass.
   source: Internet Archive
@@ -9002,11 +9315,11 @@ references:
   issue: 3/4
   issued:
     - year: 1944
-  language: English
+  language: en
   page: 36-42
   publisher: '[University of California Press, Society of Architectural Historians]'
   source: JSTOR
-  title: The Pier in Gothic Architecture Especially in the Ile de France
+  title: The pier in Gothic architecture especially in the Ile de France
   type: article-journal
   URL: https://www.jstor.org/stable/901175
   volume: '4'
@@ -9028,7 +9341,7 @@ references:
   publisher: Weatherhill
   publisher-place: New York
   source: EBSCOhost
-  title: 'Shinto art : Ise and izumo shrines'
+  title: 'Shinto art : Ise and Izumo shrines'
   title-short: Shinto art
   type: book
 
@@ -9061,7 +9374,7 @@ references:
       given: David
   citation-key: wendland:2007traditional1
   container-title: International Journal of Architectural Heritage
-  container-title-short: International Journal of Architectural Heritage
+  container-title-short: IJAH
   DOI: 10.1080/15583050701373803
   ISSN: 1558-3058, 1558-3066
   issue: '4'
@@ -9069,7 +9382,7 @@ references:
     - year: 2007
       month: 11
       day: 20
-  language: English
+  language: en
   page: 311-365
   source: DOI.org (Crossref)
   title: >-
@@ -9149,6 +9462,36 @@ references:
   URL: http://www.jstor.org/stable/40480871
   volume: '61'
 
+- id: wittkower:1962architectural
+  author:
+    - family: Wittkower
+      given: Rudolf
+  citation-key: wittkower:1962architectural
+  event-place: London
+  issued:
+    - year: 1962
+  language: en-GB
+  number-of-pages: '173'
+  publisher: Alec Tiranti
+  publisher-place: London
+  title: Architectural principles in the age of humanism
+  type: book
+
+- id: wittkower:1968arquitectura
+  author:
+    - family: Wittkower
+      given: Rudolf
+  citation-key: wittkower:1968arquitectura
+  event-place: Buenos Aires
+  issued:
+    - year: 1968
+  language: es
+  publisher: Nueva Visión
+  publisher-place: Buenos Aires
+  source: Open WorldCat
+  title: La arquitectura en la edad del humanismo
+  type: book
+
 - id: wright:2000ancient1
   author:
     - family: Wright
@@ -9227,7 +9570,7 @@ references:
   ISBN: 978-3-0346-0685-1
   issued:
     - year: 2012
-  language: English
+  language: en
   number-of-pages: '319'
   publisher: Birkhäuser
   publisher-place: Basel

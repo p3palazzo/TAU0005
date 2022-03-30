@@ -3,9 +3,16 @@ title   : "Composição com volumes"
 subtitle: "Elementos de composição"
 item: "Atividade II"
 date: 2022-03-31
+header:
+  overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/02/29a_Coupe_longitudinale_et_vue_sur_latrium-mirror.jpg
+  caption: "Basílica de Santa Sofia, Constantinopla"
 ---
 
 # Ementa #
+
+![Cesare Cesariano, composição modular em quina, da tradução do [Tratado de arquitetura de Vitrúvio, 1521][]](https://hcommons.org/app/uploads/sites/1002372/2022/02/cesariano-120a1.png){#fig:quina .line .align-right}
+
+[Tratado de arquitetura de Vitrúvio, 1521]: http://archive.org/details/gri_33125008262210
 
 O volume singular da edícula é o elemento de base da arquitetura. A
 articulação entre volumes é a linguagem da composição arquitetônica.
@@ -16,7 +23,26 @@ relacionam por meio de traçados reguladores e transições (passagens)
 para formar um todo coerente, dotado de uma hierarquia espacial
 facilmente apreendida pelo usuário.
 
-A composição espacial decorre dos *sete tipos edilícios fundamentais* e
+A *quina* é um dos modos mais simples de se dispor um certo número de
+volumes interligados, mas ela também permite uma infinita variedade de
+desenvolvimentos arquitetônicos, pela manipulação das proporções e dos
+interstícios entre os seus módulos ([@fig:quina; @fig:gabriel]).
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:gabriel .full}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/02/gabriel-c5.jpg){#fig:gabriel-c5 width="27%"}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/02/gabriel-c28.jpg){#fig:gabriel-c28 width="25%"}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/02/gabriel-c29.jpg){#fig:gabriel-c29 width="43%"}
+
+Exemplos de projetos baseados na quina. Alunos de Jean-François Gabriel, Universidade Notre Dame, South Bend, In., Estados Unidos
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Sete tipos edilícios fundamentais, baseado em Westfall](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:tipos .full .nobg}
+
+Para além da ordem geométrica elementar fornecida pela quina, a
+composição espacial decorre dos *sete tipos edilícios fundamentais*
+([@fig:tipos]) e
 não se prende às minúcias de um programa de necessidades funcionalista,
 porque a função específica muda constantemente, enquanto o caráter geral
 dos edifícios é muito mais duradouro. Vamos, portanto, trabalhar com um
@@ -29,8 +55,6 @@ indicado com clareza pela combinação de volumes e passagens:
 > apropriadas, compor uma edificação refinada, representativa de um dos
 > sete tipos edilícios fundamentais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Sete tipos edilícios fundamentais, baseado em Westfall](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:tipos .full .nobg}
 
 # Objetivo #
 

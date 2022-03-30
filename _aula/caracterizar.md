@@ -1,22 +1,19 @@
 ---
 title   : "Caracterizar"
 subtitle: "Fazer arquitetura"
-item    : "IV"
-author  : "Pedro P. Palazzo"
+item    : "III"
+author  : Pedro P. Palazzo
 date    : 2022-04-26
 toc:
   - Estilo, construção e cultura
-  - Querela do ornamento
-  - Tecnologia e profissão
-  - Espacialidade na pintura gótica italiana
+  - Decoro
+  - Articulação e significado
+  - Economia da construção
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg
   caption: "Thomas Cole, [*O passado*](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Past_1838.jpg), 1838"
-  actions:
-  - label: "Slides"
-    url: "/slides/caracterizar/"
 ---
 
 # Estilo, construção e cultura #
@@ -76,15 +73,15 @@ a Ásia, já que a história mais antiga da China acabava sendo reduzida a
 um mundo tribal e supostamente primitivo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Extensão territorial da [dinastia Xià (c. 2070--1600 a.C.)](https://en.wikipedia.org/wiki/Xia–Shang–Zhou_Chronology_Project). Mapa: [Lamassu Design, 2009](https://commons.wikimedia.org/wiki/File:Xia_dynasty.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png){#fig:xia-map}
+![Extensão territorial da [dinastia Xià (c. 2070--1600 a.C.)](https://en.wikipedia.org/wiki/Xia–Shang–Zhou_Chronology_Project). Mapa: [Lamassu Design, 2009](https://commons.wikimedia.org/wiki/File:Xia_dynasty.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png){#fig:xia-map .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erlitou_map.svg/920px-Erlitou_map.svg.png" data-background-size="contain"}
 
-![Extensão geográfica da [cultura Erlitou](https://en.wikipedia.org/wiki/Erlitou_culture), primeira metade do [II]{.smallcaps} milênio a.C.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erlitou_map.svg/920px-Erlitou_map.svg.png){#fig:erlitou-map}
+![Extensão geográfica da [cultura Erlitou](https://en.wikipedia.org/wiki/Erlitou_culture), primeira metade do [II]{.smallcaps} milênio a.C.](https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erlitou_map.svg/920px-Erlitou_map.svg.png){#fig:erlitou-map .slide-bg}
 
-## {data-background-image="https://live.staticflickr.com/2895/14068360418_dad7f989ab_k_d.jpg"}
+## {data-background-image="https://live.staticflickr.com/2895/14068360418_dad7f989ab_k_d.jpg" data-background-size="contain"}
 
-![*Jue* (tripé para servir vinho), dinastia Xià, século [XVIII]{.smallcaps} a.C., bronze, pés reconstituídos. Museu de Shanghai. Foto: [H. Sondaz, 2013](https://commons.wikimedia.org/wiki/File:Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg/768px-Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg){#fig:xia-jue .align-right}
+![*Jue* (tripé para servir vinho), dinastia Xià, século [XVIII]{.smallcaps} a.C., bronze, pés reconstituídos. Museu de Shanghai. Foto: [H. Sondaz, 2013](https://commons.wikimedia.org/wiki/File:Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg/768px-Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg){#fig:xia-jue .align-right .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mesmo assim, no final das contas, as descobertas arqueológicas feitas
@@ -98,21 +95,21 @@ do início da Idade do Bronze em Erlitou. [@fig:erlitou-gongtian;
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/26/二里头一号宫殿平面图_zh_hant.png" data-background-size="646px 548px"}
 
-![Planta do palácio I em Erlitou, associado à dinastia Xià, c. 1600 a.C. Desenho: [Shibo77, 2011](https://commons.wikimedia.org/wiki/File:二里头一号宫殿平面图_zh_hant.png)](https://upload.wikimedia.org/wikipedia/commons/2/26/二里头一号宫殿平面图_zh_hant.png){#fig:erlitou-gongtian .nobg}
+![Planta do palácio I em Erlitou, associado à dinastia Xià, c. 1600 a.C. Desenho: [Shibo77, 2011](https://commons.wikimedia.org/wiki/File:二里头一号宫殿平面图_zh_hant.png)](https://upload.wikimedia.org/wikipedia/commons/2/26/二里头一号宫殿平面图_zh_hant.png){#fig:erlitou-gongtian .nobg .slide-bg}
 
 ## {data-background-image="https://i.pinimg.com/originals/f1/ee/d9/f1eed9ee99d3fe09099b116de0234eee.jpg"}
 
-![Reconstituição do palácio I em Erlitou, Museu de Erlitou](https://i.pinimg.com/originals/f1/ee/d9/f1eed9ee99d3fe09099b116de0234eee.jpg){#fig:erlitou-diorama}
+![Reconstituição do palácio I em Erlitou, Museu de Erlitou](https://i.pinimg.com/originals/f1/ee/d9/f1eed9ee99d3fe09099b116de0234eee.jpg){#fig:erlitou-diorama .slide-bg}
 
 ## {data-background-image="https://live.staticflickr.com/4085/5066590459_c2b71733c4_k_d.jpg"}
 
-![Reconstituição parcial do palácio da dinastia Shang em Yin, c. 1300 a.C. Foto: [Tak.Wing, 2010](https://www.flickr.com/photos/takwing/5066590459/in/album-72157625131585002/)](https://live.staticflickr.com/4085/5066590459_c2b71733c4_k_d.jpg){#fig:yin}
+![Reconstituição parcial do palácio da dinastia Shang em Yin, c. 1300 a.C. Foto: [Tak.Wing, 2010](https://www.flickr.com/photos/takwing/5066590459/in/album-72157625131585002/)](https://live.staticflickr.com/4085/5066590459_c2b71733c4_k_d.jpg){#fig:yin .slide-bg}
 
 ## Evolução orgânica do estilo ## {data-visibility="hidden"}
 
 ##
 
-![Ieoh Ming Pei, arquiteto, pirâmide do Louvre, Paris, 1984--1989. Foto: [Benh Lieu Song, 2010](https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1280px-Louvre_Museum_Wikimedia_Commons.jpg){#fig:louvre .full}
+![Ieoh Ming Pei, arquiteto, pirâmide do Louvre, Paris, 1984--1989. Foto: [Benh Lieu Song, 2010](https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1280px-Louvre_Museum_Wikimedia_Commons.jpg){#fig:louvre .full .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A teoria ocidental da História fez mais do que exigir
@@ -135,7 +132,7 @@ deles foi Ieoh Ming Pei, famoso pela pirâmide do Louvre ([@fig:louvre]).
 
 ## {data-background-image="https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg"}
 
-![Lin Huiyin e Liang Sicheng numa viagem pela província chinesa de Shanxi, 1934. Foto: [acervo da família Fairbank](https://www.smithsonianmag.com/history/lovers-shanxi-saved-chinas-ancient-architectural-treasures-before-lost-forever-180961424/)](https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg){#fig:liang-lin}
+![Lin Huiyin e Liang Sicheng numa viagem pela província chinesa de Shanxi, 1934. Foto: [acervo da família Fairbank](https://www.smithsonianmag.com/history/lovers-shanxi-saved-chinas-ancient-architectural-treasures-before-lost-forever-180961424/)](https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg){#fig:liang-lin .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A aplicação de interpretações ocidentais ao estudo da arquitetura
@@ -147,7 +144,7 @@ dois tinham estudado na Universidade da Pensilvânia na década de 1920.
 
 ## {data-background-image="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png" data-background-size="contain"}
 
-![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .align-right .line}
+![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .align-right .line .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O que estamos chamando aqui de teoria da "evolução orgânica do estilo"
@@ -192,11 +189,78 @@ intenção dizendo com todas as letras:
 > sinais de velhice, fraqueza e rigidez, a partir do início da dinastia
 > Ming (século [XV]{.smallcaps}). [@liang:1984pictorial, 17]
 
-# Querela do ornamento #
+# Decoro #
+
+## Do diagrama à articulação ##
+
+## Modenatura e dignidade ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Até agora, tentamos enfatizar que os sistemas construtivos determinam a
+forma arquitetônica, desde a sua configuração geral até os detalhes
+ornamentais. Porém, a arquitetura raramente se limita a uma expressão
+estrita de uma necessidade técnica --- até porque julgar se uma solução
+construtiva foi ou não reduzida às suas necessidades mínimas é uma
+tarefa com infinitas variáveis e, no fim das contas, meio arbitrária.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/2560px-Oldest_Healing_Dance.jpg"}
+
+![Comunidade San em volta do lar central de uma aldeia. Foto: [Kgara Kevin Rack, 2017]](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/1280px-Oldest_Healing_Dance.jpg){#fig:san .slide-bg}
+
+[Kgara Kevin Rack, 2017]: https://commons.wikimedia.org/wiki/File:Oldest_Healing_Dance.jpg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Como também vimos desde o início, a expressão simbólica de uma ordem
+social também é uma das atribuições fundamentais da arquitetura.
+[@fig:san]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Assim que certas formas acabam sendo consagradas numa determinada
+tradição construtiva, essas formas adquirem um significado cultural que
+vai além da sua utilidade prática. Essas formas passam a sinalizar a
+identidade cultural e, por extensão, política ou religiosa, da sociedade
+que as produz. Graças a esse valor simbólico, a forma arquitetônica se
+torna um *estilo* que vai ser replicado como reivindicação de uma certa
+identidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Muitos críticos do século [XIX]{.smallcaps} até os dias de hoje se
+arvoraram o direito de julgar se essas identidades culturais eram
+autênticas ou contrafeitas, para poder decidir se os estilos associados
+a elas seriam eles próprios autênticos ou contrafeitos. Essa é a raiz do
+conceito de *pastiche*, que desde o século [XVII]{.smallcaps} tem sido
+usado para desqualificar qualquer coisa que não seja o estilo "da moda".
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7d/Jianzhen_memorial_hall.jpg"}
+
+![Liang Sicheng, arquiteto, Memorial para o monge Jianzhen (Ganjin), Yangzhou, China, 1963. Foto: [Gisling, 2007]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Jianzhen_memorial_hall.jpg/1280px-Jianzhen_memorial_hall.jpg){#fig:liang-ganjin .slide-bg}
+
+[Gisling, 2007]: https://commons.wikimedia.org/wiki/File:Jianzhen_memorial_hall.jpg
+
+## Classes de construções ## {data-visibility="hidden"}
+
+O *Yingzao fashi* prevê oito classes de construções baseadas na
+hierarquia social e nas dimensões necessárias para diferentes
+propósitos. Essa hierarquia se reflete na altura das arquitraves (vigas
+mestras) que determinam o módulo da edificação como um todo.
+
+## Escalas ## {data-visibility="hidden"}
+
+<!-- Inserir aqui as notas da aula de 21/10/2021 -->
+
+## Querela do ornamento ##
 
 ## {data-background-image="https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg"}
 
-![Abadia de Cluny, estágio III, século [XII]{.smallcaps}. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/cluny/) baseada em Kenneth J. Conant](https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg){#fig:cluny}
+![Abadia de Cluny, estágio III, século [XII]{.smallcaps}. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/cluny/) baseada em Kenneth J. Conant](https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg){#fig:cluny .slide-bg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [@rudolph:1988bernard27]
@@ -204,19 +268,51 @@ intenção dizendo com todas as letras:
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg"}
 
-![Nave da igreja da abadia de Fontenay, Borgonha, 1130--1147](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg){#fig:fontenay}
+![Nave da igreja da abadia de Fontenay, Borgonha, 1130--1147](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg){#fig:fontenay .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/1800px-Map_France_Gothic_1180.svg.png" data-background-position="top"}
 
-![Algumas das primeiras igrejas góticas na França, século [XII]{.smallcaps}. Amarelo escuro: extensão territorial do reino da França c. 1180; amarelo claro: domínio real](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/900px-Map_France_Gothic_1180.svg.png){#fig:gothic-1180 .align-right}
+![Algumas das primeiras igrejas góticas na França, século [XII]{.smallcaps}. Amarelo escuro: extensão territorial do reino da França c. 1180; amarelo claro: domínio real](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/900px-Map_France_Gothic_1180.svg.png){#fig:gothic-1180 .align-right .slide-bg}
 
 ## {data-background-image="https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg"}
 
-![Abadia de S. Dionísio (Saint-Denis), igreja concebida pelo abade Suger e construída 1122--1151. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/saint-denis/)](https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg){#fig:sdenis-golvin}
+![Abadia de S. Dionísio (Saint-Denis), igreja concebida pelo abade Suger e construída 1122--1151. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/saint-denis/)](https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg){#fig:sdenis-golvin .slide-bg}
 
-## {data-background-image=""}
+## Interiores ##
 
-# Tecnologia e profissão #
+1. Vestíbulos e escadarias
+2. Salas
+
+## Fachadas ##
+
+1. Composição e articulação
+2. Fachadas como fundo
+3. Fachadas infinitas
+
+# Articulação e significado #
+
+## Pureza e poluição ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Aproximação às arquiteturas do sagrado: capitais móveis na China e no
+Japão, estruturas de culto temporárias ou periodicamente renovadas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Elementos de composição ##
+
+1. Arcadas e colunatas
+2. Massas volumétricas
+   - Cúpulas
+   - Pátios
+3. Frente e fundos
+4. Sequências de composições
+5. Abraçar e enquadrar
+6. Coroamentos
+7. Miudezas
+   - Ornamentos complementares
+   - Rusticação
+
+# Economia da construção #
 
 ## Vocabulário da construção ## {data-visibility="hidden"}
 
@@ -281,7 +377,7 @@ arquiteto e o cliente, ou entre o arquiteto e os pedreiros
 [@branner:1960villard19; @branner:1958drawings17].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Projeto para a fachada da catedral de Estrasburgo, c. 1260. [Museu da obra da catedral de Estrasburgo](http://blog.metmuseum.org/penandparchment/exhibition-images/cat380r2_49f/)](https://i.pinimg.com/originals/29/21/e0/2921e0a5cddcb9c87574995c48c9402a.jpg){#fig:strasbourg}
+![Projeto para a fachada da catedral de Estrasburgo, c. 1260. [Museu da obra da catedral de Estrasburgo](http://blog.metmuseum.org/penandparchment/exhibition-images/cat380r2_49f/)](https://i.pinimg.com/originals/29/21/e0/2921e0a5cddcb9c87574995c48c9402a.jpg){#fig:strasbourg .slide-bg}
 
 ## Execução e obras temporárias ##
 
@@ -289,15 +385,15 @@ arquiteto e o cliente, ou entre o arquiteto e os pedreiros
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/32/Construction.voute.romaine.png" data-background-size="contain"}
 
-![Cimbramento para uma abóbada de berço segundo [Viollet-le-Duc, 1856](https://commons.wikimedia.org/wiki/File:Construction.voute.romaine.png)](https://upload.wikimedia.org/wikipedia/commons/3/32/Construction.voute.romaine.png){#fig:viollet-rome}
+![Cimbramento para uma abóbada de berço segundo [Viollet-le-Duc, 1856](https://commons.wikimedia.org/wiki/File:Construction.voute.romaine.png)](https://upload.wikimedia.org/wikipedia/commons/3/32/Construction.voute.romaine.png){#fig:viollet-rome .slide-bg}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AbbaziaLaLucerneCentinaVolte.JPG/1280px-AbbaziaLaLucerneCentinaVolte.JPG"}
 
-![Cimbramento para a reconstrução das abóbadas da abadia de Sainte-Trinité-de-la-Lucerne. Foto: [MM, 2010](https://commons.wikimedia.org/wiki/File:AbbaziaLaLucerneCentinaVolte.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AbbaziaLaLucerneCentinaVolte.JPG/1280px-AbbaziaLaLucerneCentinaVolte.JPG){#fig:lucerne}
+![Cimbramento para a reconstrução das abóbadas da abadia de Sainte-Trinité-de-la-Lucerne. Foto: [MM, 2010](https://commons.wikimedia.org/wiki/File:AbbaziaLaLucerneCentinaVolte.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AbbaziaLaLucerneCentinaVolte.JPG/1280px-AbbaziaLaLucerneCentinaVolte.JPG){#fig:lucerne .slide-bg}
 
 ## {data-background-image="https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg" data-background-size="contain"}
 
-![Guindaste na carpintaria de uma igreja gótica. Desenho de [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg){#fig:grue}
+![Guindaste na carpintaria de uma igreja gótica. Desenho de [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg){#fig:grue .slide-bg}
 
 ## Processo construtivo, ofícios e a arquitetura gótica ## {data-visibility="hidden"}
 
@@ -327,8 +423,6 @@ também ganha eficiência e previsibilidade [@toker:1985gothic67].
 
 <a href="https://sketchfab.com/3d-models/medieval-cathedral-f0d3f81512cc4e7092325d9225ccead8" target="_blank">Esquema estrutural de uma catedral gótica</a>. Modelo digital por <a href="https://sketchfab.com/mdzhang" target="_blank"> Myles Zhang </a> no <a href="https://sketchfab.com" target="_blank">Sketchfab</a>, 2017
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-# Espacialidade na pintura gótica #
 
 # Bibliografia {- .unlisted .allowframebreaks}
 

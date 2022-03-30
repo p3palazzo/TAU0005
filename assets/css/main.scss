@@ -46,6 +46,8 @@ $footer-background-color: transparentize($background-color, 0);
    Grid
    ========================================================================== */
 
+$x-large: 1440px;
+$max-width: calc(1520px + 3em);
 $right-sidebar-width-narrow: 300px;
 $right-sidebar-width: 300px;
 $right-sidebar-width-wide: 400px;
@@ -65,7 +67,11 @@ $header-font-style: italic;
     "local",
     "revealjs-support";
 
-.masthead,
+a.site-title .site-subtitle {
+    font-variant: normal;
+    font-variant-numeric: oldstyle-nums;
+}
+
 .pagination,
 .page__footer-follow {
     display: none;
