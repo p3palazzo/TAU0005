@@ -323,6 +323,17 @@ identifique o seu objetivo e o percurso para chegar até ele, sem
 depender de placas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Tecnologia e profissão ##
+
+1. Vestíbulos e escadarias
+2. Salas
+
+## Fachadas ##
+
+1. Composição e articulação
+2. Fachadas como fundo
+3. Fachadas infinitas
+
 ## Indicação: a basílica ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
