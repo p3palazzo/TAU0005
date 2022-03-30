@@ -5,7 +5,7 @@ item    : "III"
 author  : Pedro P. Palazzo
 date    : 2022-04-26
 toc:
-  - Estilo, construção e cultura
+  - Cultura arquitetônica
   - Decoro
   - Articulação e significado
   - Economia da construção
@@ -16,7 +16,45 @@ header:
   caption: "Thomas Cole, [*O passado*](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Past_1838.jpg), 1838"
 ---
 
-# Estilo, construção e cultura #
+# Cultura arquitetônica #
+
+## Literacia ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+[@buras:2019art]
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+:::::: {.columns}
+::: {.column width=50%}
+ 1. Tripartição
+ 2. Só apreendemos três tamanhos por vez (na mesma ordem de grandeza)
+ 3. Só exitem três formas de ligações
+ 4. Molduras são o vocabulário da arquitetura
+ 5. Ordens são a gramática da arquitetura
+ 6. Aberturas
+ 7. Complementos
+:::
+::: {.column width=50%}
+ 8. [Proporções](proporcionar.md)
+ 9. Dimensionamento modular, absoluto, e diminuição
+10. Posicionamentos: 
+    - sobreposição
+    - sequência
+    - axialidade
+    - hierarquia
+11. Adequação
+12. Remoção
+:::
+::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Cultura historiográfica na China ##
+
+<!--
+   -Mover esta seção para o início do curso, ou para História 2, onde o
+   -debate historiográfico faça sentido.
+   -->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As análises sobre a questão do contexto na China antiga são retomadas, a
@@ -176,11 +214,7 @@ inclusive, arquitetônica (estilística e visual).
 
 ![Reconstituição parcial do palácio da dinastia Shang em Yin, c. 1300 a.C. Foto: [Tak.Wing, 2010](https://www.flickr.com/photos/takwing/5066590459/in/album-72157625131585002/)](https://live.staticflickr.com/4085/5066590459_c2b71733c4_k_d.jpg){#fig:yin}
 
-## Evolução orgânica do estilo ## {data-visibility="hidden"}
-
-* * * *
-
-![Ieoh Ming Pei, arquiteto, pirâmide do Louvre, Paris, 1984--1989. Foto: [Benh Lieu Song, 2010](https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1280px-Louvre_Museum_Wikimedia_Commons.jpg){#fig:louvre .full}
+## Evolução orgânica do estilo ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A teoria ocidental da História fez mais do que exigir
@@ -190,7 +224,7 @@ viés de uma teoria muito popular na Europa dos séculos [XIX]{.smallcaps}
 e [XX]{.smallcaps}: a teoria da evolução orgânica dos estilos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/66/Louvre_Museum_Wikimedia_Commons.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Assim como no caso do ceticismo arqueológico, a introdução de um modo de
@@ -213,6 +247,8 @@ arquitetura, ou seja, o fato de não se tratar de uma entidade estática
 no tempo, mas evoluir à semelhança de um ser vivo, percebendo também
 transformações construtivas, que não haviam sido notadas pelos europeus.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Ieoh Ming Pei, arquiteto, pirâmide do Louvre, Paris, 1984--1989. Foto: [Benh Lieu Song, 2010](https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1280px-Louvre_Museum_Wikimedia_Commons.jpg){#fig:louvre .full}
 
 * * * *
 
@@ -276,8 +312,8 @@ intenção dizendo com todas as letras:
 ## Conclusão ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No início do século XX, praticamente todos os historiadores da
-arquitetura irão explicar sua história com base nessa analogia orgânica
+No início do século [XX]{.smallcaps}, praticamente todos os historiadores
+da arquitetura explicavam sua história com base nessa analogia orgânica
 ou biológica, analisando as tradições arquitetônicas como seres vivos
 individuais que nascem, crescem, envelhecem e morrem. Então, essa visão
 passa a validar culturalmente a arquitetura chinesa, pois ela funciona
@@ -294,6 +330,25 @@ meio de argumentação em prol de um arquitetura esteticamente moderna.
 # Decoro #
 
 ## Do diagrama à articulação ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Completando a série de elementos e cânones da arquitetura clássica
+segundo J. François Gabriel [-@gabriel:2004classical]:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+1. Colunatas e arcadas (como elementos de dignificação)
+2. Massas
+   - Cúpulas
+   - Pátios
+3. Frente e fundos
+4. Sequências
+5. Abraçar e enquadrar
+6. Coroamento
+7. Miudezas
+   - Elementos complementares
+   - Rusticação
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Modenatura e dignidade ##
 
@@ -346,17 +401,6 @@ usado para desqualificar qualquer coisa que não seja o estilo "da moda".
 ![Liang Sicheng, arquiteto, Memorial para o monge Jianzhen (Ganjin), Yangzhou, China, 1963. Foto: [Gisling, 2007]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Jianzhen_memorial_hall.jpg/1280px-Jianzhen_memorial_hall.jpg){#fig:liang-ganjin}
 
 [Gisling, 2007]: https://commons.wikimedia.org/wiki/File:Jianzhen_memorial_hall.jpg
-
-## Classes de construções ##
-
-O *Yingzao fashi* prevê oito classes de construções baseadas na
-hierarquia social e nas dimensões necessárias para diferentes
-propósitos. Essa hierarquia se reflete na altura das arquitraves (vigas
-mestras) que determinam o módulo da edificação como um todo.
-
-## Escalas ##
-
-<!-- Inserir aqui as notas da aula de 21/10/2021 -->
 
 ## Querela do ornamento ##
 
@@ -474,6 +518,14 @@ decoração, o espaço, a estrutura ou os volumes.
 
 ![Nave da igreja da abadia de Fontenay, Borgonha, 1130--1147](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg){#fig:fontenay}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ressalta-se, nesse ponto, que Vitrúvio falava sobre o que o arquiteto
+precisava saber, possivelmente em uma forma singular de concepção
+arquitetônica, e não a forma correta de se fazer arquitetura, que agora
+se abre a múltiplas possibilidades, não havendo registros de debates
+semelhantes em outras culturas tradicionais. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 * * * *
 
 ![Algumas das primeiras igrejas góticas na França, século [XII]{.smallcaps}. Amarelo escuro: extensão territorial do reino da França c. 1180; amarelo claro: domínio real](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/900px-Map_France_Gothic_1180.svg.png){#fig:gothic-1180 .align-right}
@@ -482,15 +534,7 @@ decoração, o espaço, a estrutura ou os volumes.
 
 ![Abadia de S. Dionísio (Saint-Denis), igreja concebida pelo abade Suger e construída 1122--1151. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/saint-denis/)](https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg){#fig:sdenis-golvin}
 
-## Interiores ##
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Ressalta-se, nesse ponto, que Vitrúvio falava sobre o que o arquiteto
-precisava saber, possivelmente em uma forma singular de concepção
-arquitetônica, e não a forma correta de se fazer arquitetura, que agora
-se abre a múltiplas possibilidades, não havendo registros de debates
-semelhantes em outras culturas tradicionais. 
-
 A partir do questionamento sobre o que se quer da arquitetura, surge uma
 tradição que irá se irradiar principalmente da região de Paris (capital
 da França), através de abadia real de São Dionísio ou Saint-Denis
