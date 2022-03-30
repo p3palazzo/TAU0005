@@ -66,13 +66,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Ordenar",
-        "excerpt":"Reflexões sobre o curso e a disciplina Uma das questões mais diretas e gerais dessa disciplina diz respeito ao equilíbrio entre as abordagens aplicada e teórica. Esse é o dilema atual do seu processo de redesenho ao logo dos últimos anos, que passou por um salto importante recentemente. Nesse contexto,...","categories": [],
+        "excerpt":"Traçado regulador e cosmologia no vāstu śāstra Trata-se de ordenar o espaço em um entendimento mais amplo e de exploração de alternativas, na medida em que ele vai ser o reflexo de uma certa ordem cósmica, eventualmente, metafísica. Na mentalidade materialista do século XXI, essa concepção pode parecer estranha, mas...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/ordenar/",
         "teaser": null
       },{
         "title": "Articular",
-        "excerpt":"Ornamento e geometria Há também outras derivações da forma arquitetônica, em vários casos, menos atreladas a uma visão tão metafísica. Toma-se o processo tipológico do salão de palácios árabe/islâmico como contraponto, por não apresentar uma justificativa cósmica muito marcada. Trata-se simplesmente de uma série de derivações tradicionais oriundas de ajustes...","categories": [],
+        "excerpt":"Ornamento e geometria Mito da cabana primitiva e registro arqueológico: origem da arquitetura nas construções arquitravadas. Porém, é equivocado pensar no templo grego como resultado direto de um antecedente “primitivo”. Essa interpretação afirma uma fantasia da excepcionalidade e originalidade grega que, como vimos, não tem fundamento arqueológico. Grécia antiga se...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/articular/",
         "teaser": null
