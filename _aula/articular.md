@@ -4,11 +4,11 @@ subtitle: "Fazer arquitetura"
 item    : "II"
 author  : Pedro P. Palazzo
 date    : 2022-04-12
-toc:
-  - Procedimentos arquitetônicos
-  - Composições clássicas
-  - Indicação e composição tipológica
-  - Ofícios da construção
+excerpt: >
+  Procedimentos arquitetônicos –
+  Composições clássicas –
+  Indicação e composição –
+  Ofícios da construção
 title-slide-attributes:
   data-background-image: https://hcommons.org/app/uploads/sites/1002372/2021/10/1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends-scaled.jpg
 header:

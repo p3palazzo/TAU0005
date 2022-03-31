@@ -4,11 +4,11 @@ subtitle: "Elementos da construção"
 item    : "II"
 author  : "Pedro P. Palazzo"
 date    : 2022-02-08
-toc:
-  - Tendas e cabanas
-  - Colunas e vigas
-  - Assoalhos e terraços
-  - Da madeira à pedra
+excerpt: >
+  Tendas e cabanas –
+  Colunas e vigas –
+  Assoalhos e terraços –
+  Da madeira à pedra
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg
 header:

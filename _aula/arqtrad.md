@@ -4,13 +4,13 @@ subtitle: "Arquitetura tradicional"
 item    : "II"
 author  : Pedro P. Palazzo
 date    : 2022-01-25
-toc:
-  - História ou arquitetura
-  - Continuidade e ruptura
-  - Arquitetura é construção
-  - Construção tradicional e construção moderna
-  - O que não é arquitetura tradicional
-  - "Adendo: problemas com outras definições de arquitetura"
+excerpt: >
+  História ou arquitetura –
+  Continuidade e ruptura –
+  Arquitetura é construção –
+  Construção tradicional e construção moderna –
+  O que não é arquitetura tradicional –
+  Adendo: problemas com outras definições de arquitetura
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg/1280px-Thomas_Cole\_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg
 header:

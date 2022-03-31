@@ -4,11 +4,11 @@ subtitle: "Fazer arquitetura"
 item    : "III"
 author  : Pedro P. Palazzo
 date    : 2022-04-26
-toc:
-  - Cultura arquitetônica
-  - Literacia
-  - Decoro
-  - Economia da construção
+excerpt: >
+  Cultura arquitetônica –
+  Literacia –
+  Decoro –
+  Economia da construção
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg/2560px-Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg
 header:

@@ -4,11 +4,11 @@ subtitle: "Elementos da construção"
 item    : "I"
 author  : "Pedro P. Palazzo"
 date    : 2022-02-01
-toc:
-  - Materiais da construção tradicional
-  - Construções semienterradas
-  - Plataformas e terraplenos
-  - Fundações
+excerpt: >
+  Materiais da construção tradicional –
+  Construções semienterradas –
+  Plataformas e terraplenos –
+  Fundações
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg
 header:

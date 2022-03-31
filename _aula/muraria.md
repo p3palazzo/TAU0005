@@ -4,11 +4,11 @@ subtitle: "Elementos da construção"
 item    : "III"
 author  : "Pedro P. Palazzo"
 date    : 2022-02-15
-toc:
-  - Princípios da construção murária
-  - Arquitetura subtrativa
-  - Materiais naturais e cozidos
-  - Aparelhos de alvenaria
+excerpt: >
+  Princípios da construção murária –
+  Arquitetura subtrativa –
+  Materiais naturais e cozidos –
+  Aparelhos de alvenaria
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Giovanni_Paolo_Panini\_–_Ancient_Rome.jpg/994px-Giovanni_Paolo_Panini\_–_Ancient_Rome.jpg
 header:

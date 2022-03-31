@@ -4,16 +4,16 @@ subtitle: "Elementos da construção"
 item: "IV"
 author: "Pedro P. Palazzo"
 date: 2022-02-22
-toc:
-  - Geometria e forças
-  - Estruturas lineares
-  - Estruturas espaciais
-  - "Quando termina a Antiguidade?"
+excerpt: >
+  Geometria e forças –
+  Estruturas lineares –
+  Estruturas espaciais –
+  Quando termina a Antiguidade?
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hubert_Robert_Colonnade.jpg/2560px-Hubert_Robert_Colonnade.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hubert_Robert_Colonnade.jpg/2560px-Hubert_Robert_Colonnade.jpg
-  caption: "Hubert Robert (1733–1808), *Colunata*"
+  caption: "Hubert Robert (1733–1808), [Colunata](https://commons.wikimedia.org/wiki/File:Hubert_Robert_Colonnade.jpg)"
 ---
 
 # Geometria e forças #

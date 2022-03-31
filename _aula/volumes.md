@@ -4,11 +4,11 @@ subtitle: "Elementos de composição"
 item    : "III"
 author  : "Pedro P. Palazzo"
 date    : 2022-03-22
-toc:
-  - Volume ou espaço
-  - Volumetria e cultura
-  - Tipos distributivos
-  - Elementos de composição
+excerpt: >
+  Volume ou espaço –
+  Volumetria e cultura –
+  Tipos distributivos –
+  Elementos de composição
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
   caption: "Thomas Cole, [*Decurso do império: desolação*](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg), 1836"
