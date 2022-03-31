@@ -4,15 +4,16 @@ subtitle: "Elementos de composição"
 item    : "IV"
 author  : Pedro P. Palazzo
 date    : 2022-03-29
-toc:
-  - Proporção e estética
-  - Proporções fixas
-  - Proporções dinâmicas
-  - Escala humana
+excerpt: >
+  Proporção e estética –
+  Proporções fixas –
+  Proporções dinâmicas –
+  Escala humana
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG/2560px-1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG/2560px-1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG
+  image_description: "Pintura a óleo de uma paisagem com uma cidade em torno de um rio. Uma grande catedral gótica aparece no primeiro plano."
   caption: "Karl Friedrich Schinkel, [Cidade medieval ao longo de um rio](https://commons.wikimedia.org/wiki/File:1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG), 1815"
 ---
 
@@ -993,6 +994,12 @@ ou seja, dez vezes ([@fig:krier-detail]).
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mais tripartição: três tamanhos que podem ser apreendidos de uma vez
 pela observação e experiência do espaço [@buras:2019art].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Alexander.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Fractais ##

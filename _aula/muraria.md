@@ -13,7 +13,7 @@ title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Giovanni_Paolo_Panini\_–_Ancient_Rome.jpg/994px-Giovanni_Paolo_Panini\_–_Ancient_Rome.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Giovanni_Paolo_Panini_–_Ancient_Rome.jpg/994px-Giovanni_Paolo_Panini_–_Ancient_Rome.jpg
-  caption: "Giovanni Paolo Pannini, *Galeria de vistas da Roma antiga,* 1757"
+  caption: "Giovanni Paolo Pannini, [Galeria de vistas da Roma antiga](https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Panini_–_Ancient_Rome.jpg), 1757"
 ---
 
 # Princípios da construção murária #

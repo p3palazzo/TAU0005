@@ -13,7 +13,7 @@ title-slide-attributes:
   data-background-image: https://hcommons.org/app/uploads/sites/1002372/2021/10/1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends-scaled.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg/2560px-1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg
-  caption: "Lawrence Alma-Tadema, [*Fídias e o friso do Partenon*](https://commons.wikimedia.org/wiki/File:1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg), 1868"
+  caption: "Lawrence Alma-Tadema, [Fídias e o friso do Partenon](https://commons.wikimedia.org/wiki/File:1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg), 1868"
 ---
 
 # Procedimentos arquitetônicos #

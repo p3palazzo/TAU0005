@@ -29,7 +29,7 @@ baseurl                  : "/tau0005"
 repository               : "p3palazzo/tau0005"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : "Arquitetura tradicional"
+masthead_title           : 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -329,7 +329,6 @@ defaults:
     values:
       layout: single
       show_date: true
-      toc: true
   # _posts
   - scope:
       path: ""
