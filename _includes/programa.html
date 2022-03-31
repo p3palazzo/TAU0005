@@ -18,6 +18,9 @@
             {{ aula.date | date: "%d/%m" }}<br />
           </div>
           <p>
+            {%- unless aula.toc[0] -%}
+              {{ aula.excerpt }}
+            {%- endunless -%}
             {%- for topic in aula.toc -%}
               {{ topic }} {% unless forloop.last %} &mdash; {% endunless %}
             {%- endfor -%}

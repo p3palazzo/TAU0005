@@ -8934,7 +8934,8 @@ references:
       day: 10
   author:
     - family: Vignola
-      given: 1507-1573
+      given: Giacomo Barozzi
+      dropping-particle: da
     - family: Esquié
       given: Pierre
   citation-key: vignola:1890five

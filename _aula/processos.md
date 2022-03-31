@@ -4,16 +4,15 @@ subtitle: "Arquitetura tradicional"
 item    : "I"
 author  : Pedro P. Palazzo
 date    : 2022-01-18
-toc:
-  - Ordem e lugar
-  - Proporção e escala
-  - Preferência temporal e preferência local
-  - Alegoria da cabana primitiva
+excerpt: >
+  Ordem e lugar –
+  Preferência temporal e preferência local –
+  Alegoria da cabana primitiva
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
-  caption: "Thomas Cole, *The Course of Empire: The Savage State*, 1834"
+  caption: "Thomas Cole, Decurso do império: [Estado selvagem](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg), 1834"
 ---
 
 # Ordem e lugar #

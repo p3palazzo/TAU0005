@@ -4,11 +4,11 @@ subtitle: "Elementos de composição"
 item    : "I"
 author  : Pedro P. Palazzo
 date    : 2022-03-08
-toc:
-  - Arquitetura em climas extremos
-  - Estratégias de ventilação
-  - "Índia: unidade na diversidade"
-  - Civilizações hidráulicas
+excerpt: >
+  Arquitetura em climas extremos –
+  Estratégias de ventilação –
+  Índia: unidade na diversidade –
+  Civilizações hidráulicas
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
   caption: "Edwin Lord Weeks. [*Vista do espelho d'água para o templo Dourado em Amritsar*](https://commons.wikimedia.org/wiki/File:Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg), 1883"

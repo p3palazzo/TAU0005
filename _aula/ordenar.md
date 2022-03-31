@@ -4,198 +4,47 @@ subtitle: "Fazer arquitetura"
 item    : "I"
 author  : Pedro P. Palazzo
 date    : 2022-04-05
-toc:
-  - Traçado regulador e cosmologia no vāstu śāstra
-  - Princípios da arquitetura clássica
-  - Outras ordens
-  - Saberes da arquitetura
+excerpt: >
+  Propriedades arquitetônicas –
+  Princípios da arquitetura clássica –
+  Outras ordens –
+  Saberes da arquitetura
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Prayer_in_the_Mosque.jpg/1733px-Prayer_in_the_Mosque.jpg
-  caption: "Jean Léon Gérôme, [Oração numa mesquita, 1871](https://commons.wikimedia.org/wiki/File:Prayer_in_the_Mosque.jpg)"
+  caption: "Jean Léon Gérôme, [Oração numa mesquita](https://commons.wikimedia.org/wiki/File:Prayer_in_the_Mosque.jpg), 1871"
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Prayer_in_the_Mosque.jpg/1733px-Prayer_in_the_Mosque.jpg
 ---
 
-# Traçado regulador e cosmologia no vāstu śāstra #
+# Propriedades arquitetônicas #
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Trata-se de ordenar o espaço em um entendimento mais amplo e de
-exploração de alternativas, na medida em que ele vai ser o reflexo de
-uma certa ordem cósmica, eventualmente, metafísica. Na mentalidade
-materialista do século [XXI]{.smallcaps}, essa concepção pode parecer
-estranha, mas era comum na maioria das sociedades tradicionais. Elas
-enxergavam a unidade entre uma certa imagem do universo, a visão da
-ordem religiosa na qual estavam inseridas e a forma do espaço físico ao
-redor. 
+## Níveis de escala ##
 
-Dessa forma, uma arquitetura tradicional é cosmológica ao se colocar
-como reflexo do entendimento de como o universo está organizado. Isso
-pode ser traduzido de modo muito literal, sendo uma característica
-marcante da arquitetura religiosa. Os templos de várias sociedades
-religiosas, em geral, buscam espelhar um certo entendimento do
-funcionamento do universo visual e geometricamente. 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Padrões fortes ##
 
-## {data-background-image="https://i.redd.it/9u46fzdhcdly.jpg"}
+## Contorno ##
 
-![Apolodoro de Damasco, arquiteto, Pantheon, Roma, 113--125 d.C. Corte longitudinal por Giovanni Battista Piranesi](https://i.redd.it/9u46fzdhcdly.jpg){#fig:pantheon-sec .slide-bg}
+## Repetição alternada ##
 
-[Wright, 1905]: https://commons.wikimedia.org/wiki/File:A_history_of_all_nations_from_the_earliest_times;_being_a_universal_historical_library_(1905)_(14777313544).jpg
+## Espaço positivo ##
 
-<!--_,-->
+## Boa forma ##
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O caso mais evidente disso é o Panteão de Roma, que tem o formato
-esférico, pois os gregos e romanos antigos concebiam o universo como uma
-esfera ([@fig:pantheon-sec]). Em geral, formas centralizadas vão ser
-muito características de sociedades tradicionais, sempre que essa
-reflexão sobre a imagem do universo e da sociedade como um espelho de
-sua configuração vai ser importante.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Simetrias locais ##
 
-## {data-background-image="https://i.pinimg.com/originals/5a/4d/4e/5a4d4e523063b122e3bc96c7c22eb537.jpg"}
+## Interligação e ambiguidade ##
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Isso também pode ser observado na própria forma urbana, a exemplo de
-comunidades indo-europeias antigas, que são os antepassados genéticos,
-mas sobretudo linguísticos e culturais, de quase todos os povos europeus
-e de grande parte do centro-sul asiático. Na aldeia indo-europeia de
-Arkaim, temos um plano centralizado com uma forma rigidamente regulada,
-ainda que ao preço de uma circulação pouco conveniente ([@fig:arkaim]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Contraste ##
 
-![Reconstituição do assentamento de Arkaim, sul dos montes Urais, c. 2000 a.C. Desenho: [Jvtrplzz](https://www.heritagedaily.com/2020/04/arkaim/127669)](https://i.pinimg.com/originals/5a/4d/4e/5a4d4e523063b122e3bc96c7c22eb537.jpg){#fig:arkaim}
+## Gradientes ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png" data-background-size="contain"}
+## Imperfeição ##
 
-![Esquemas conceituais de aldeias indo-arianas. Desenho em [E.B. Havell, 1918](https://commons.wikimedia.org/wiki/File:Indo-Aryan_village_plans.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png){#fig:havell .align-right .line .nobg}
+## Vazio ##
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Esses formatos centralizados também remetem à compacidade e à capacidade
-de defesa, além dessa visão cosmológica de universo esférico e de uma
-sociedade central, assim como, a Terra supostamente estaria em seu
-centro como possivelmente acreditavam. Algumas comunidades do norte da
-Índia na Idade do Bronze, os povos arianos, também podem ilustrar essa
-questão. Elas apresentam uma imagem centralizada em cruz, marcando o
-lugar do qual se apossam, o qual se torna o centro de uma espécie de
-redemoinho, que funciona em uma rotação. Esse local pode assumir o
-formato de um percurso, de uma procissão religiosa ou da posição das
-ruas que podem aparecer rotacionas de um módulo para o outro, como no
-desenho de E. B. Havell de 1918 ([@fig:havell]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Simplicidade e repouso ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1280px-Brown-18060_0021-1.jpg" data-background-size="contain"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Tal concepção de girar, mudar de direção e dar a volta é algo que também
-irá compor e enriquecer essa visão do universo centralizado, que agora
-não aparece mais de modo estático. Ele surge, então, em um movimento em
-certa direção, que irá espelhar o sentido de rotação da abóbada celeste
-e dos astros ([@fig:brown-vedic]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Aldeia védica com cerca e portal. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0021-1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1280px-Brown-18060_0021-1.jpg){#fig:brown-vedic}
-
-## Do texto à construção ## {data-visibility="hidden"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Tudo isso acaba se desdobrando em um sistema altamente elaborado e
-codificado, que é o *vāstu śāstra* da cultura indiana tradicional.
-Trata-se de uma sistemática cosmológica de organização do espaço para se
-atingir objetivos auspiciosos, sendo conhecido atualmente como uma
-espécie de *Feng Shui* da Índia. Ele se apropria da ideia de
-vislumbrar-se como um espelho do universo, recomendando como a casa ou
-qualquer outra construção também podem seguir esse padrão.
-Acaba assumindo o papel de um certo receituário, que é muito abstrato e
-voltado para as formas de pensar sobre diferentes necessidades e papéis
-sociais das edificações ou do espaço urbano.
-
-A teoria da arquitetura na Índia se desdobra então nos
-[*vāstu śāstra*](https://en.wikipedia.org/wiki/Vastu_shastra), que são
-tratados de arquitetura, e nos [*śilpa
-śāstra*](https://en.wikipedia.org/wiki/Shilpa_Shastras)ou tratados
-artísticos, compreendendo 64 ofícios não restritos a castas específicas.
-Dentre os *śilpa śāstra* os mais famosos são o *Mānasāra śilpa* e o
-[*Brahmāṇḍa Purāṇa*](https://pt.wikipedia.org/wiki/Brahmanda_Purana).
-
-Iluminação recíproca entre textos e construções: não se pode construir
-sem um sistema; não se pode estabelecer um sistema sem práticas
-construtivas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg/1024px-64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg.png" data-background-size="contain"}
-
-![Manduka mandala de 64 casas para o projeto de templos hinduístas. Desenho: [Mark Muesse, 2014](https://commons.wikimedia.org/wiki/File:64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg/1024px-64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg.png){#fig:manduka-mandala}
-
-<!--_,-->
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O *vāstu śāstra* seria a filosofia básica e fundamental, que se
-apresenta em termos de geometria na forma de duas mandalas principais no
-caso da tradição indiana. A primeira delas é a *manduka mandala* (mais
-abstrata e voltada para a ordem cósmica, [@fig:manduka-mandala]) e a
-outra é a *vāstu puruṣa mandala* (uma alegoria dos membros de um homem
-cósmico primordial, com cabeças, braços, tronco, etc, associados a
-diferentes setores da edificação, conforme seus papeis sociais).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/39/bd/90/39bd90af04072a4d03da58b399da5333.jpg" data-background-size="contain"}
-
-![Charles Correa, arquiteto, Jawahar Kala Kendra, Jaipur, 1986, planta](https://i.pinimg.com/originals/39/bd/90/39bd90af04072a4d03da58b399da5333.jpg){#fig:jkk-plan}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Contemporaneamente, existem arquitetos indianos que vão
-continuar a usar referências do *vāstu śāstra* em suas obras, como no
-caso do pós-moderno Charles Correa em seu centro cultural Jawahar Kala
-Kendra no norte da Índia, que busca valorizar a arquitetura tradicional
-local. 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Destacam-se alguns princípios fundamentais, como o da cabana ou a
-consideração do documento geral da geometria como o ponto de partida de
-tudo, a exemplo do que pode ser visto em outras culturas,
-principalmente, europeias. No norte da Índia, a mandala seria o "sol"
-(local em que irá se plantar) e a cabana seria a "semente" (origem dos
-diferentes elementos da construção).
-
-*Kuṭikā* (cabana ou célula) como arquétipo rural à semelhança do
-classicismo ([@fig:brown-032; @fig:brown-050]); a palavra se refere à
-curvatura das coberturas feitas de galhos, juncos ou folhagens
-[@coomaraswamy:1992essays, 106].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Representações de cabanas em mosteiros escavados na rocha. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0032.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Brown-18060_0032.jpg/614px-Brown-18060_0032.jpg){#fig:brown-032}
-:::
-::: {.column width=50%}
-![Representações de santuários em cabanas nos relevos antigos. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0050.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brown-18060_0050.jpg/623px-Brown-18060_0050.jpg){#fig:brown-050}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-visibility="hidden"}
-
-* * * *
-
-##
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=50%}
-![Construção em madeira reconstituída a partir de espaços escavados na rocha. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0026.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Brown-18060_0026.jpg/666px-Brown-18060_0026.jpg){#fig:brown-026}
-:::
-::: {.column width=50%}
-![Origens formais dos tipos de templos. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0125.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Brown-18060_0125.jpg/622px-Brown-18060_0125.jpg){#fig:brown-125}
-:::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-* * * *
-
-Construção originária em teca [@brown:1959indiana, 6].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Não-separação ##
 
 # Princípios da arquitetura clássica #
 
@@ -208,7 +57,9 @@ apresenta um sistema altamente estruturado e repleto de regras.
 Entretanto, destaca-se nela uma diferença principal, que é a associação
 de tais regramentos a uma noção mais ampla do que seja uma boa
 arquitetura, como aquela que atende a uma série de questões de decoro,
-propriedade e eficiência. Em contraposição, a arquitetura clássica do
+propriedade e eficiência.
+
+Em contraposição, a arquitetura clássica do
 Mediterrâneo acaba sendo associada, sobretudo, com os aspectos estéticos
 por vários motivos culturais, ideológicos e políticos, como reforçado
 pelos tratados do Renascimento. Ao comparar os sistemas ocidental e
@@ -218,23 +69,49 @@ objetivando também refletir sobre o lugar desse edifício na sociedade, a
 que papeis ele atende, quem irá utilizá-lo, etc. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Elementos das ordens clássicas ##
+## Arquitetura clássica e o microcosmo perfeito ##
+
+![Capa do livro *Classical Architecture* por Tzonis e Lefaivre](https://images-na.ssl-images-amazon.com/images/P/026270031X.01._SX360_SCLZZZZZZZ_.jpg){#fig:tzonis .align-right}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Elementos das ordens clássicas segundo Jean-François Gabriel
+Para os teóricos contemporâneos Alexander Tzonis e Liane Lefaivre
+([@fig:tzonis]), a razão de ser da arquitetura clássica é criar um
+universo regrado, um *temenos* [@tzonis:1986classical] --- essa palavra
+em grego quer dizer "abóbada celeste" e indica que o edifício clássico é
+um microcosmo, ou seja, um espelho em miniatura da ordem universal do
+macrocosmo, e especialmente um reflexo da perfeição divina.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A característica fundamental da arquitetura clássica é a ordem (em
+grego, *táxis*). É por causa dela que o sistema de elementos
+construtivos e iconográficos do classicismo ficou conhecido como as
+"ordens clássicas".
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Propriedades fundamentais ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Propriedades da arquitetura clássica segundo J. François Gabriel
 [-@gabriel:2004classical]:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-1. Módulo
-2. Contratura
-3. Base e capitel
-4. Entablamento
-5. Frontão
-6. Variantes da coluna
+ 1. Simetria bilateral
+ 2. Antropomorfismo
+ 3. Clareza e simplicidade
+ 4. Espaço bem definido
+ 5. Justaposição de elementos separados
+ 6. Centro, extremidades, alas
+ 7. Inventário restrito de elementos formais
+ 8. Hierarquias formais intrínsecas
+ 9. Tripartição
+10. Regularidade do traçado
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Formação das ordens ## {data-visibility="hidden"}
+## Formação das ordens ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Mito da cabana primitiva e registro arqueológico: origem da
@@ -249,16 +126,12 @@ Elementos das ordens clássicas segundo Jean-François Gabriel
 
 * * * *
 
-::::::::::::::::::::::::::::::::::::::::::: {#fig:deriva .r-stack .full}
-![*mégarōn* rural da Idade do Bronze](){#fig:derivaA .fragment .current-visible .align-left .line}
-
+::::::::::::::::::::::::::::::::::::::::::: {#fig:deriva .full}
+<div class="r-stack">![*mégarōn* rural da Idade do Bronze](){#fig:derivaA .fragment .current-visible .align-left .line}
 ![*mérgarōn* palaciano da Idade do Bronze](){#fig:derivaB .fragment .current-visible .align-left .line}
-
 ![templo do período geométrico](){#fig:derivaC .fragment .current-visible .align-left .line}
-
 ![templo próstilo do período arcaico](){#fig:derivaD .fragment .current-visible .align-left .line}
-
-![templo períptero do período arcaico](){#fig:derivaE .fragment .current-visible .align-left .line}
+![templo períptero do período arcaico](){#fig:derivaE .fragment .current-visible .align-left .line}</div>
 
 Processo tipológico reconstituído do templo grego clássico, baseado em
 Barbara Barletta
@@ -278,23 +151,6 @@ Barbara Barletta
   (mas nem sempre), nas suas proporções (sempre) e até os últimos
   detalhes (sobretudo da fachada e de espaços importantes).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Desdobramento, não projeto ##
-
-::::::::::::::::::::::::::::::::::::::::::: {#fig:divide .r-stack}
-![determinação da altura e projeção totais](){#fig:divideA .fragment .current-visible .align-left .line}
-
-![plinto](){#fig:divideB .fragment .current-visible .align-left .line}
-
-![toro superior](){#fig:divideC .fragment .current-visible .align-left .line}
-
-![tróquilo e toro inferior](){#fig:divideD .fragment .current-visible .align-left .line}
-
-Desdobramento de uma base ática pelo método das divisões sucessivas,
-segundo Vitrúvio III.[v]{.smallcaps}.ii
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
 
 ## Obra grossa e acabamento ##
 
@@ -403,7 +259,7 @@ escola de Belas-Artes de Paris, passou a ser o método hegemônico para o
 estudo e a pesquisa da arquitetura no Ocidente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## Leitura da arquitetura chinesa pelo prisma historiográfico ocidental ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nessa época, vários jovens chineses estavam se formando em universidades
@@ -455,7 +311,7 @@ Harbeson.
 
 <!--_-->
 
-* * * *
+## Linguagem clássica da arquitetura chinesa ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No caso da China, as *gramáticas normativas* são dois tratados
@@ -624,6 +480,181 @@ característica mais chamativa), pulando-se abruptamente para os detalhes
 construtivos em uma escala muito pequena, permanecendo um vazio entre
 essas duas escalas.
 
+## Traçado regulador e cosmologia no vāstu śāstra ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Trata-se de ordenar o espaço em um entendimento mais amplo e de
+exploração de alternativas, na medida em que ele vai ser o reflexo de
+uma certa ordem cósmica, eventualmente, metafísica. Na mentalidade
+materialista do século [XXI]{.smallcaps}, essa concepção pode parecer
+estranha, mas era comum na maioria das sociedades tradicionais. Elas
+enxergavam a unidade entre uma certa imagem do universo, a visão da
+ordem religiosa na qual estavam inseridas e a forma do espaço físico ao
+redor. 
+
+Dessa forma, uma arquitetura tradicional é cosmológica ao se colocar
+como reflexo do entendimento de como o universo está organizado. Isso
+pode ser traduzido de modo muito literal, sendo uma característica
+marcante da arquitetura religiosa. Os templos de várias sociedades
+religiosas, em geral, buscam espelhar um certo entendimento do
+funcionamento do universo visual e geometricamente. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Apolodoro de Damasco, arquiteto, Pantheon, Roma, 113--125 d.C. Corte longitudinal por Giovanni Battista Piranesi](https://i.redd.it/9u46fzdhcdly.jpg){#fig:pantheon-sec}
+
+[Wright, 1905]: https://commons.wikimedia.org/wiki/File:A_history_of_all_nations_from_the_earliest_times;_being_a_universal_historical_library_(1905)_(14777313544).jpg
+
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O caso mais evidente disso é o Panteão de Roma, que tem o formato
+esférico, pois os gregos e romanos antigos concebiam o universo como uma
+esfera ([@fig:pantheon-sec]). Em geral, formas centralizadas vão ser
+muito características de sociedades tradicionais, sempre que essa
+reflexão sobre a imagem do universo e da sociedade como um espelho de
+sua configuração vai ser importante.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Isso também pode ser observado na própria forma urbana, a exemplo de
+comunidades indo-europeias antigas, que são os antepassados genéticos,
+mas sobretudo linguísticos e culturais, de quase todos os povos europeus
+e de grande parte do centro-sul asiático. Na aldeia indo-europeia de
+Arkaim, temos um plano centralizado com uma forma rigidamente regulada,
+ainda que ao preço de uma circulação pouco conveniente ([@fig:arkaim]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Reconstituição do assentamento de Arkaim, sul dos montes Urais, c. 2000 a.C. Desenho: [Jvtrplzz](https://www.heritagedaily.com/2020/04/arkaim/127669)](https://i.pinimg.com/originals/5a/4d/4e/5a4d4e523063b122e3bc96c7c22eb537.jpg){#fig:arkaim}
+
+* * * *
+
+![Esquemas conceituais de aldeias indo-arianas. Desenho em [E.B. Havell, 1918](https://commons.wikimedia.org/wiki/File:Indo-Aryan_village_plans.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png){#fig:havell .align-right .line .nobg}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esses formatos centralizados também remetem à compacidade e à capacidade
+de defesa, além dessa visão cosmológica de universo esférico e de uma
+sociedade central, assim como, a Terra supostamente estaria em seu
+centro como possivelmente acreditavam. Algumas comunidades do norte da
+Índia na Idade do Bronze, os povos arianos, também podem ilustrar essa
+questão. Elas apresentam uma imagem centralizada em cruz, marcando o
+lugar do qual se apossam, o qual se torna o centro de uma espécie de
+redemoinho, que funciona em uma rotação. Esse local pode assumir o
+formato de um percurso, de uma procissão religiosa ou da posição das
+ruas que podem aparecer rotacionas de um módulo para o outro, como no
+desenho de E. B. Havell de 1918 ([@fig:havell]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Tal concepção de girar, mudar de direção e dar a volta é algo que também
+irá compor e enriquecer essa visão do universo centralizado, que agora
+não aparece mais de modo estático. Ele surge, então, em um movimento em
+certa direção, que irá espelhar o sentido de rotação da abóbada celeste
+e dos astros ([@fig:brown-vedic]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Aldeia védica com cerca e portal. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0021-1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1280px-Brown-18060_0021-1.jpg){#fig:brown-vedic}
+
+## Do texto à construção ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Tudo isso acaba se desdobrando em um sistema altamente elaborado e
+codificado, que é o *vāstu śāstra* da cultura indiana tradicional.
+Trata-se de uma sistemática cosmológica de organização do espaço para se
+atingir objetivos auspiciosos, sendo conhecido atualmente como uma
+espécie de *Feng Shui* da Índia. Ele se apropria da ideia de
+vislumbrar-se como um espelho do universo, recomendando como a casa ou
+qualquer outra construção também podem seguir esse padrão.
+Acaba assumindo o papel de um certo receituário, que é muito abstrato e
+voltado para as formas de pensar sobre diferentes necessidades e papéis
+sociais das edificações ou do espaço urbano.
+
+A teoria da arquitetura na Índia se desdobra então nos
+[*vāstu śāstra*](https://en.wikipedia.org/wiki/Vastu_shastra), que são
+tratados de arquitetura, e nos [*śilpa
+śāstra*](https://en.wikipedia.org/wiki/Shilpa_Shastras)ou tratados
+artísticos, compreendendo 64 ofícios não restritos a castas específicas.
+Dentre os *śilpa śāstra* os mais famosos são o *Mānasāra śilpa* e o
+[*Brahmāṇḍa Purāṇa*](https://pt.wikipedia.org/wiki/Brahmanda_Purana).
+
+Iluminação recíproca entre textos e construções: não se pode construir
+sem um sistema; não se pode estabelecer um sistema sem práticas
+construtivas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Manduka mandala de 64 casas para o projeto de templos hinduístas. Desenho: [Mark Muesse, 2014](https://commons.wikimedia.org/wiki/File:64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg/1024px-64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg.png){#fig:manduka-mandala}
+
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O *vāstu śāstra* seria a filosofia básica e fundamental, que se
+apresenta em termos de geometria na forma de duas mandalas principais no
+caso da tradição indiana. A primeira delas é a *manduka mandala* (mais
+abstrata e voltada para a ordem cósmica, [@fig:manduka-mandala]) e a
+outra é a *vāstu puruṣa mandala* (uma alegoria dos membros de um homem
+cósmico primordial, com cabeças, braços, tronco, etc, associados a
+diferentes setores da edificação, conforme seus papeis sociais).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Charles Correa, arquiteto, Jawahar Kala Kendra, Jaipur, 1986, planta](https://i.pinimg.com/originals/39/bd/90/39bd90af04072a4d03da58b399da5333.jpg){#fig:jkk-plan}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Contemporaneamente, existem arquitetos indianos que vão
+continuar a usar referências do *vāstu śāstra* em suas obras, como no
+caso do pós-moderno Charles Correa em seu centro cultural Jawahar Kala
+Kendra no norte da Índia, que busca valorizar a arquitetura tradicional
+local. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Destacam-se alguns princípios fundamentais, como o da cabana ou a
+consideração do documento geral da geometria como o ponto de partida de
+tudo, a exemplo do que pode ser visto em outras culturas,
+principalmente, europeias. No norte da Índia, a mandala seria o "sol"
+(local em que irá se plantar) e a cabana seria a "semente" (origem dos
+diferentes elementos da construção).
+
+*Kuṭikā* (cabana ou célula) como arquétipo rural à semelhança do
+classicismo ([@fig:brown-032; @fig:brown-050]); a palavra se refere à
+curvatura das coberturas feitas de galhos, juncos ou folhagens
+[@coomaraswamy:1992essays, 106].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Representações de cabanas em mosteiros escavados na rocha. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0032.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Brown-18060_0032.jpg/614px-Brown-18060_0032.jpg){#fig:brown-032}
+:::
+::: {.column width=50%}
+![Representações de santuários em cabanas nos relevos antigos. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0050.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brown-18060_0050.jpg/623px-Brown-18060_0050.jpg){#fig:brown-050}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column width=50%}
+![Construção em madeira reconstituída a partir de espaços escavados na rocha. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0026.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Brown-18060_0026.jpg/666px-Brown-18060_0026.jpg){#fig:brown-026}
+:::
+::: {.column width=50%}
+![Origens formais dos tipos de templos. Desenho em [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Brown-18060_0125.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Brown-18060_0125.jpg/622px-Brown-18060_0125.jpg){#fig:brown-125}
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Construção originária em teca [@brown:1959indiana, 6].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Saberes da arquitetura #
 
 ## Princípios fundamentais ##
@@ -643,7 +674,7 @@ essas duas escalas.
 
 ## Espacialidade na pintura gótica ##
 
-# Formação em arquitetura #
+## Formação em arquitetura ##
 
 ## Ensino de arquitetura na Universidade de Brasília ##
 

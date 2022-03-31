@@ -4,16 +4,16 @@ subtitle: "Elementos da construção"
 item    : "V"
 author  : "Pedro P. Palazzo"
 date    : 2022-03-01
-toc:
-  - Função e estrutura das coberturas
-  - Formas básicas de carpintaria
-  - Carpintaria chinesa
-  - Revestimentos
+excerpt: >
+  Função e estrutura das coberturas –
+  Formas básicas de carpintaria –
+  Carpintaria chinesa –
+  Revestimentos
 title-slide-attributes:
   data-background-image: https://hcommons.org/app/uploads/sites/1002372/2021/08/kawase_hasui_evening_moon_over_temple034333-bg.jpg
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2021/08/kawase_hasui_evening_moon_over_temple034333-bg.jpg
-  caption: "Kawase Hasui, [*Lua cheia sobre um templo*](https://www.christies.com/lot/lot-kawase-hasui-evening-moon-over-temple-6277357/), aquarela sobre papel, segundo quartel do século [XX]{.smallcaps}" 
+  caption: "Kawase Hasui, [Lua cheia sobre um templo](https://www.christies.com/lot/lot-kawase-hasui-evening-moon-over-temple-6277357/), segundo quartel do século [XX]{.smallcaps}" 
 ---
 
 # Função e estrutura das coberturas #
