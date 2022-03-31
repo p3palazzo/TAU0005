@@ -66,19 +66,19 @@ var store = [{
         "teaser": null
       },{
         "title": "Ordenar",
-        "excerpt":"Traçado regulador e cosmologia no vāstu śāstra Trata-se de ordenar o espaço em um entendimento mais amplo e de exploração de alternativas, na medida em que ele vai ser o reflexo de uma certa ordem cósmica, eventualmente, metafísica. Na mentalidade materialista do século XXI, essa concepção pode parecer estranha, mas...","categories": [],
+        "excerpt":"Propriedades arquitetônicas Níveis de escala Padrões fortes Contorno Repetição alternada Espaço positivo Boa forma Simetrias locais Interligação e ambiguidade Contraste Gradientes Imperfeição Vazio Simplicidade e repouso Não-separação Princípios da arquitetura clássica Ao extrapolar os limites da bacia do Mediterrâneo, é possível observar a caracterização das regras de uma arquitetura erudita,...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/ordenar/",
         "teaser": null
       },{
         "title": "Articular",
-        "excerpt":"Ornamento e geometria Mito da cabana primitiva e registro arqueológico: origem da arquitetura nas construções arquitravadas. Porém, é equivocado pensar no templo grego como resultado direto de um antecedente “primitivo”. Essa interpretação afirma uma fantasia da excepcionalidade e originalidade grega que, como vimos, não tem fundamento arqueológico. Grécia antiga se...","categories": [],
+        "excerpt":"Procedimentos arquitetônicos Fractal Repetições de elementos estruturalmente semelhantes, mas não idênticos; Passo a passo generativo; Preserva a estrutura dos estágios anteriores; Quando necessário, replica e colapsa a ideia da passagem do tempo num projeto; Linguagem de padrões é materialista: importa o efeito e o desempenho, não a justificativa teórica; Planejamento...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/articular/",
         "teaser": null
       },{
         "title": "Caracterizar",
-        "excerpt":"Estilo, construção e cultura As análises sobre a questão do contexto na China antiga são retomadas, a partir das referências bibliográficas ocidentais sobre o tema. Nos livros-texto propostos para a disciplina, observa-se uma perspectiva pretensamente neutra e convencional da arquitetura asiática como uma manifestação mais ou menos isolada e estática....","categories": [],
+        "excerpt":"Cultura arquitetônica A cultura arquitetônica é composta por três categorias de elementos ou condicionantes: Literacia Conhecimentos e repertórios existentes numa certa região ou dominados por uma certa categoria profissional, ou por leigos. Este é o nível mais básico que informa o universo de possibilidades da arquitetura. Decoro Convenções sociais e...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/caracterizar/",
         "teaser": null
