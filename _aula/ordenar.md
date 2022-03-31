@@ -11,7 +11,7 @@ excerpt: >
   Saberes da arquitetura
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Prayer_in_the_Mosque.jpg/1733px-Prayer_in_the_Mosque.jpg
-  caption: "Jean Léon Gérôme, [Oração numa mesquita, 1871](https://commons.wikimedia.org/wiki/File:Prayer_in_the_Mosque.jpg)"
+  caption: "Jean Léon Gérôme, [Oração numa mesquita](https://commons.wikimedia.org/wiki/File:Prayer_in_the_Mosque.jpg), 1871"
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Prayer_in_the_Mosque.jpg/1733px-Prayer_in_the_Mosque.jpg
 ---

@@ -11,7 +11,7 @@ excerpt: >
   Parcelamento do solo como matriz
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Louise_Rayner_Chester_Watergate_Street_looking_east.jpg/2560px-Louise_Rayner_Chester_Watergate_Street_looking_east.jpg
-  caption: "Louise Rayner, [Rua Watergate em Chester (Inglaterra)](https://commons.wikimedia.org/wiki/File:Louise_Rayner_Chester_Watergate_Street_looking_east.jpg), anterior a 1876"
+  caption: "Louise Rayner, [Rua Watergate em Chester](https://commons.wikimedia.org/wiki/File:Louise_Rayner_Chester_Watergate_Street_looking_east.jpg) (Inglaterra), anterior a 1876"
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Louise_Rayner_Chester_Watergate_Street_looking_east.jpg/2560px-Louise_Rayner_Chester_Watergate_Street_looking_east.jpg
 ---

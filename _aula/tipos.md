@@ -13,7 +13,7 @@ title-slide-attributes:
   data-background-image: https://i.pinimg.com/originals/c8/cc/e2/c8cce2f9390770ae17105dd79794f6a1.jpg
 header:
   overlay_image: https://i.pinimg.com/originals/c8/cc/e2/c8cce2f9390770ae17105dd79794f6a1.jpg
-  caption: "Edwin Lord Weeks, [Um pátio na Alhambra no tempo dos mouros](https://commons.wikimedia.org/wiki/File:Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg), 1876"
+  caption: "Edwin Lord Weeks, [Pátio na Alhambra no tempo dos mouros](https://commons.wikimedia.org/wiki/File:Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg), 1876"
 ---
 
 # Programa, função e propósito #
