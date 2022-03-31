@@ -219,6 +219,27 @@ Segundo Rachel Fletcher [-@fletcher:2020introduction1]:
       - Proporção dinâmica
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Sistemas proporcionais ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Proporções fundamentais sugeridas por Rachel Fletcher
+[@fletcher:2020introduction1]:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+ 1. Círculo
+ 2. *Vesica piscis* e retângulos √3
+ 3. Simetria e teorema de Pitágoras
+ 4. Teorema de Tales (transposição de proporções) e triângulo retângulo
+    no semicírculo
+ 5. Círculos 6+1, hexágono e estrela de Davi
+ 6. Asa de borboleta (toma diâmetros dos 6+1 como raios de outros)
+ 7. Proporções geométricas (raízes e seção áurea)
+ 8. *Ad quadratum* (quadrados inscritos uns nos outros) e espirais
+ 9. *Tetractys* e "Seção sagrada"
+10. Triângulo áureo e espirais aproximadas
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Simetria ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -336,27 +357,6 @@ proporções fixas emergem da arquitetura europeia a partir do
 Renascimento, baseadas numa teoria de que a forma acabada será mais bela
 se ela respeitar certas relações dimensionais, em parte inspiradas nas
 harmonias musicais [@wittkower:1968arquitectura].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Sistemas proporcionais ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Proporções fundamentais sugeridas por Rachel Fletcher
-[@fletcher:2020introduction1]:
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
- 1. Círculo
- 2. *Vesica piscis* e retângulos √3
- 3. Simetria e teorema de Pitágoras
- 4. Teorema de Tales (transposição de proporções) e triângulo retângulo
-    no semicírculo
- 5. Círculos 6+1, hexágono e estrela de Davi
- 6. Asa de borboleta (toma diâmetros dos 6+1 como raios de outros)
- 7. Proporções geométricas (raízes e seção áurea)
- 8. *Ad quadratum* (quadrados inscritos uns nos outros) e espirais
- 9. *Tetractys* e "Seção sagrada"
-10. Triângulo áureo e espirais aproximadas
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Círculo ##
@@ -489,6 +489,13 @@ empilhados numa estante formando uma pirâmide:
       ◆   ◆   ◆
     ◆   ◆   ◆   ◆
 
+## {data-visibility="hidden"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
 ## Ordens clássicas ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -497,24 +504,7 @@ em arquitetura. Vamos ver primeiro algumas características canônicas das
 ordens tal como elas têm sido pensadas desde o Renascimento até os dias
 de hoje. Esse cânone clássico define as ordens como um sistema de
 proporções fixas --- relações entre medidas que permanecem constantes
-quando se amplia ou se reduz o desenho. Mais abaixo, vamos ver como as
-ordens podem também ser realizadas por meio de um sistema dinâmico.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Elementos das ordens clássicas segundo Jean-François Gabriel
-[-@gabriel:2004classical]:
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-- Módulo
-- Contratura
-- Base e capitel
-- Entablamento
-- Frontão
-- Variantes da coluna
+quando se amplia ou se reduz o desenho.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -526,11 +516,44 @@ O uso moderno e contemporâneo das proporções acabou seguindo essa mesma
 lógica, e prova disso são os tratados das ordens clássicas publicados
 nos últimos quinhentos anos. O que chamamos de as "cinco ordens" da
 arquitetura clássica ([@fig:perrault]) são, de modo muito resumido,
-receitas para ajustar as proporções de colunas, vigas, arcos e pedestais
-entre si e com o edifício como um todo.
+receitas para ajustar as proporções dos elementos construtivos entre si
+e com o edifício como um todo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## Elementos da arquitetura clássica ## {data-visibility="hidden"}
+
+Elementos das ordens clássicas segundo J. François Gabriel
+[-@gabriel:2004classical]:
+
+a. Módulo
+b. Contratura
+c. Base e capitel
+d. Entablamento
+e. Frontão
+f. Variantes da coluna
+
+![Elementos da arquitetura clássica segundo J. François Gabriel. a -- módulo, b -- contratura, c -- base e capitel, d -- entablamento, e -- frontão](https://hcommons.org/app/uploads/sites/1002372/2022/03/vignola-esquie-1922-pl08-fig1-gabriel.png){#fig:elements-gabriel .nobg}
+
+## Elementos da arquitetura clássica ## {.slide-only}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::{.columns}
+::: {.column width=50%}
+- [Módulo]{.fragment .highlight-current-red data-fragment-index="1"}
+- [Contratura]{.fragment .highlight-current-red data-fragment-index="2"}
+- [Base e capitel]{.fragment .highlight-current-red data-fragment-index="3"}
+- [Entablamento]{.fragment .highlight-current-red data-fragment-index="4"}
+- [Frontão]{.fragment .highlight-current-red data-fragment-index="5"}
+:::
+::: {.column width=50%}
+<div class="r-stack">![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vignola-esquie-1922-pl08-fig1-gabriel-module.png){.fragment .current-visible data-fragment-index="1"}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vignola-esquie-1922-pl08-fig1-gabriel-entasis.png){.fragment .current-visible data-fragment-index="2"}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vignola-esquie-1922-pl08-fig1-gabriel-base-cap.png){.fragment .current-visible data-fragment-index="3"}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vignola-esquie-1922-pl08-fig1-gabriel-entablature.png){.fragment .current-visible data-fragment-index="4"}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vignola-esquie-1922-pl08-fig1-gabriel-pediment.png){.fragment .current-visible data-fragment-index="5"}</div>
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Proporções clássicas ##
 
 ![Detalhe da ordem dórica segundo Vinhola, edição de 1787](https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png){#fig:vignola .align-right .line}
 
@@ -559,13 +582,13 @@ da obra, usando uma trena. É um modo moderno de trabalhar por excelência
 
 :::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:chitham}
 ::: {.column width=50%}
-![configuração geral](https://hcommons.org/app/uploads/sites/1001018/2021/06/chitham2005-084-corinthian.png){#fig:chitham084 .line}
+![capitel e entablamento](https://hcommons.org/app/uploads/sites/1002372/2022/03/chitham-154-corinthian-cap.png){#fig:chitham154 .line}
 :::
 ::: {.column width=50%}
-![detalhe da base e pedestal](https://hcommons.org/app/uploads/sites/1001018/2021/06/chitham2005-091-corinthian.png){#fig:chitham091 .line}
+![base e pedestal](https://hcommons.org/app/uploads/sites/1001018/2021/06/chitham2005-091-corinthian.png){#fig:chitham091 .line}
 :::
 
-Ordem coríntia segundo Chitham (2005)
+Detalhes da ordem coríntia segundo Chitham (2005)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -577,8 +600,50 @@ digital na mão (era a década de 1980), ou mesmo no [CAD]{.smallcaps}
 ([@fig:chitham]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Tripartição e divisões sucessivas ##
+## Desenhando uma ordem clássica ## {data-visibility="hidden"}
 
+1. Obter a altura total de cada ordem, dada pela composição de conjunto,
+   observando a diminuição sucessiva de cada ordem sobreposta;
+2. Decidir se a ordem terá ou não pedestal;
+2. Determinar em quantos módulos se divide a altura total com ou sem
+   pedestal, consultando o tratado escolhido (Chitham, Vinhola ou
+   Palladio, por exemplo) ([@fig:chitham057]);
+3. Usando uma regra de três para converter as proporções em dimensões
+   métricas, esboçar a posição e altura de cada elemento (colunas,
+   entablamento, e se for o caso, pedestal e frontão);
+4. Seguir o mesmo procedimento para desenvolver as partes em que se
+   divide cada elemento (base, dado e coroamento do pedestal, base e
+   capitel da coluna, arquitrave, friso e cornija do entablamento,
+   etc.);
+5. Se for o caso, determinar a inclinação do frontão e dimensionar as
+   suas partes;
+6. Completar, conforme o caso, com os elementos acessórios devidamente
+   proporcionados (balaustradas, urnas, aberturas, etc.).
+
+![Composição de uma ordem toscana segundo Chitham. Da esquerda para a direita: divisão da altura total em módulos, dimensionamento das partes, esboço volumétrico da ordem (a), arte-final (b--d)](https://hcommons.org/app/uploads/sites/1002372/2022/03/chitham-057-tuscan-general.png){#fig:chitham057 .line}
+
+## Desenhando uma ordem clássica ## {.slide-only}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+:::::: {.column width=60%}
+::: incremental
+1. Obter a altura total de cada ordem
+2. Decidir se a ordem terá ou não pedestal
+2. Determinar em quantos módulos se divide a altura total
+3. Usando uma regra de três para converter as proporções em dimensões
+   métricas, esboçar a posição e altura de cada elemento
+4. Seguir o mesmo procedimento para desenvolver as partes de cada
+   elemento
+5. Se for o caso, determinar a inclinação do frontão e dimensionar
+6. Completar, conforme o caso, com os elementos acessórios
+:::
+::::::
+:::::: {.column width=40%}
+![](https://hcommons.org/app/uploads/sites/1002372/2022/03/chitham-057-tuscan-general.png)
+::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Tripartição e divisões sucessivas ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Como já vimos, o método canônico de representação das ordens clássicas é
@@ -600,19 +665,13 @@ Método algorítmico.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::: {#fig:base-atica .full}
-<div class="r-stack"> ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica01.png){#fig:base-atica01 .line .fragment .current-visible .align-left}
-![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica02.png){#fig:base-atica02 .line .fragment .current-visible .align-left}
-![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica03.png){#fig:base-atica03 .line .fragment .current-visible .align-left}
+<div class="r-stack"> ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica02.png){#fig:base-atica02 .line .fragment .current-visible .align-left}
 ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica04.png){#fig:base-atica04 .line .fragment .current-visible .align-left}
 ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica05.png){#fig:base-atica05 .line .fragment .current-visible .align-left}
-![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica06.png){#fig:base-atica06 .line .fragment .current-visible .align-left}
-![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica07.png){#fig:base-atica07 .line .fragment .current-visible .align-left}
 ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica08.png){#fig:base-atica08 .line .fragment .current-visible .align-left}
 ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica09.png){#fig:base-atica09 .line .fragment .current-visible .align-left}
-![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica10.png){#fig:base-atica10 .line .fragment .current-visible .align-left}
 ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica11.png){#fig:base-atica11 .line .fragment .current-visible .align-left}
 ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica12.png){#fig:base-atica12 .line .fragment .current-visible .align-left}
-![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica13.png){#fig:base-atica13 .line .fragment .current-visible .align-left}
 ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica14.png){#fig:base-atica14 .line .fragment .current-visible .align-left} </div>
 
 Algoritmo de execução da base ática segundo Vitrúvio III:v:ii
@@ -949,8 +1008,6 @@ escala diferentes.
 Passo-a-passo generativo preserva a estrutura dos estágios anteriores.
 Assim, o projeto colapsa a passagem do tempo num desenho.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Padrões ##
 
 # Bibliografia {- .unlisted .allowframebreaks}
 

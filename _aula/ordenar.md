@@ -57,7 +57,9 @@ apresenta um sistema altamente estruturado e repleto de regras.
 Entretanto, destaca-se nela uma diferença principal, que é a associação
 de tais regramentos a uma noção mais ampla do que seja uma boa
 arquitetura, como aquela que atende a uma série de questões de decoro,
-propriedade e eficiência. Em contraposição, a arquitetura clássica do
+propriedade e eficiência.
+
+Em contraposição, a arquitetura clássica do
 Mediterrâneo acaba sendo associada, sobretudo, com os aspectos estéticos
 por vários motivos culturais, ideológicos e políticos, como reforçado
 pelos tratados do Renascimento. Ao comparar os sistemas ocidental e
@@ -65,6 +67,28 @@ oriental, fica claro que essa lógica de demarcar um ofício da
 arquitetura vai além de simplesmente proporcionar ou embelezar,
 objetivando também refletir sobre o lugar desse edifício na sociedade, a
 que papeis ele atende, quem irá utilizá-lo, etc. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Arquitetura clássica e o microcosmo perfeito ##
+
+![Capa do livro *Classical Architecture* por Tzonis e Lefaivre](https://images-na.ssl-images-amazon.com/images/P/026270031X.01._SX360_SCLZZZZZZZ_.jpg){#fig:tzonis .align-right}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Para os teóricos contemporâneos Alexander Tzonis e Liane Lefaivre
+([@fig:tzonis]), a razão de ser da arquitetura clássica é criar um
+universo regrado, um *temenos* [@tzonis:1986classical] --- essa palavra
+em grego quer dizer "abóbada celeste" e indica que o edifício clássico é
+um microcosmo, ou seja, um espelho em miniatura da ordem universal do
+macrocosmo, e especialmente um reflexo da perfeição divina.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A característica fundamental da arquitetura clássica é a ordem (em
+grego, *táxis*). É por causa dela que o sistema de elementos
+construtivos e iconográficos do classicismo ficou conhecido como as
+"ordens clássicas".
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Propriedades fundamentais ##
@@ -85,22 +109,6 @@ Propriedades da arquitetura clássica segundo J. François Gabriel
  8. Hierarquias formais intrínsecas
  9. Tripartição
 10. Regularidade do traçado
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Elementos das ordens clássicas ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Elementos das ordens clássicas segundo Jean-François Gabriel
-[-@gabriel:2004classical]:
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-1. Módulo
-2. Contratura
-3. Base e capitel
-4. Entablamento
-5. Frontão
-6. Variantes da coluna
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Formação das ordens ##
@@ -143,23 +151,6 @@ Barbara Barletta
   (mas nem sempre), nas suas proporções (sempre) e até os últimos
   detalhes (sobretudo da fachada e de espaços importantes).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Desdobramento, não projeto ##
-
-::::::::::::::::::::::::::::::::::::::::::: {#fig:divide .r-stack}
-![determinação da altura e projeção totais](){#fig:divideA .fragment .current-visible .align-left .line}
-
-![plinto](){#fig:divideB .fragment .current-visible .align-left .line}
-
-![toro superior](){#fig:divideC .fragment .current-visible .align-left .line}
-
-![tróquilo e toro inferior](){#fig:divideD .fragment .current-visible .align-left .line}
-
-Desdobramento de uma base ática pelo método das divisões sucessivas,
-segundo Vitrúvio III.[v]{.smallcaps}.ii
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
 
 ## Obra grossa e acabamento ##
 
