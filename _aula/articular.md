@@ -149,6 +149,31 @@ determinada época.
 9. Ornamentos
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Articulação e significado ##
+
+## Pureza e poluição ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Aproximação às arquiteturas do sagrado: capitais móveis na China e no
+Japão, estruturas de culto temporárias ou periodicamente renovadas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Elementos de composição ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+1. Arcadas e colunatas
+2. Massas volumétricas
+   - Cúpulas
+   - Pátios
+3. Frente e fundos
+4. Sequências de composições
+5. Abraçar e enquadrar
+6. Coroamentos
+7. Miudezas
+   - Ornamentos complementares
+   - Rusticação
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Indicação e composição tipológica #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes

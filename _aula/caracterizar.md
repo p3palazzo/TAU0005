@@ -6,48 +6,44 @@ author  : Pedro P. Palazzo
 date    : 2022-04-26
 toc:
   - Cultura arquitetônica
+  - Literacia
   - Decoro
-  - Articulação e significado
   - Economia da construção
 title-slide-attributes:
-  data-background-image: https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg/2560px-Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/f/ff/Cole_Thomas_The_Past_1838.jpg
-  caption: "Thomas Cole, [*O passado*](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Past_1838.jpg), 1838"
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg/2560px-Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg
+  caption: "Thomas Cole, [Vista de Florença desde San Miniato](https://commons.wikimedia.org/wiki/File:Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg), 1837"
 ---
 
 # Cultura arquitetônica #
 
-## Literacia ##
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[@buras:2019art]
+A cultura arquitetônica é composta por três categorias de elementos ou
+condicionantes:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-:::::: {.columns}
-::: {.column width=50%}
- 1. Tripartição
- 2. Só apreendemos três tamanhos por vez (na mesma ordem de grandeza)
- 3. Só exitem três formas de ligações
- 4. Molduras são o vocabulário da arquitetura
- 5. Ordens são a gramática da arquitetura
- 6. Aberturas
- 7. Complementos
-:::
-::: {.column width=50%}
- 8. [Proporções](proporcionar.md)
- 9. Dimensionamento modular, absoluto, e diminuição
-10. Posicionamentos: 
-    - sobreposição
-    - sequência
-    - axialidade
-    - hierarquia
-11. Adequação
-12. Remoção
-:::
-::::::
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Literacia
+
+: Conhecimentos e repertórios existentes numa certa região ou dominados
+  por uma certa categoria profissional, ou por leigos. Este é o nível
+  mais básico que informa o universo de possibilidades da arquitetura.
+
+Decoro
+
+: Convenções sociais e hierarquias político-econômicas que determinam a
+  liberdade e as obrigações em que incorrem construtores e proprietários
+  ao se relacionarem com a esfera pública. Neste nível, o universo de
+  possibilidades da arquitetura é como que distribuído aos diferentes
+  atores sociais segundo a organização, os valores morais e as crenças
+  dessa sociedade.
+
+Economia
+
+: Processos produtivos, relações de trabalho, sistemas decisórios, e os
+  recursos a serem transformados sob a influência desses elementos. A
+  economia dita o que será efetivamente realizado na prática, dentre
+  tudo o que a literacia e o decoro permitem ou exigem.
 
 ## Cultura historiográfica na China ##
 
@@ -327,6 +323,40 @@ linha de desenvolvimento e decrepitude, mostrando-se claramente com um
 meio de argumentação em prol de um arquitetura esteticamente moderna.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+# Literacia #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nir Haim Buras advoga um conjunto de conhecimentos mínimos para
+constituir uma literacia arquitetônica [@buras:2019art]:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+:::::: {.columns}
+::: {.column width=50%}
+ 1. Tripartição
+ 2. Só apreendemos três tamanhos por vez (na mesma ordem de grandeza)
+ 3. Só exitem três formas de ligações
+ 4. Molduras são o vocabulário da arquitetura
+ 5. Ordens são a gramática da arquitetura
+ 6. Aberturas
+ 7. Complementos
+:::
+::: {.column width=50%}
+ 8. [Proporções](proporcionar.md)
+ 9. Dimensionamento modular, absoluto, e diminuição
+10. Posicionamentos: 
+    - sobreposição
+    - sequência
+    - axialidade
+    - hierarquia
+11. Adequação
+12. Remoção
+:::
+::::::
+
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Decoro #
 
 ## Do diagrama à articulação ##
@@ -401,6 +431,20 @@ usado para desqualificar qualquer coisa que não seja o estilo "da moda".
 ![Liang Sicheng, arquiteto, Memorial para o monge Jianzhen (Ganjin), Yangzhou, China, 1963. Foto: [Gisling, 2007]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Jianzhen_memorial_hall.jpg/1280px-Jianzhen_memorial_hall.jpg){#fig:liang-ganjin}
 
 [Gisling, 2007]: https://commons.wikimedia.org/wiki/File:Jianzhen_memorial_hall.jpg
+
+## Teoria das molduras ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Formulada por C. Howard Walker [-@walker:2007theory] como uma
+classificação funcional em quatro tipos:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+1. Sustentação
+2. Coroamento
+3. Ligação
+4. Separação
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Querela do ornamento ##
 
@@ -562,32 +606,19 @@ técnicos poderiam até parecer neutros, mas também foram muito utilizados
 do ponto de vista ideológico.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Articulação e significado #
-
-## Pureza e poluição ##
+## Leis suntuárias ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Aproximação às arquiteturas do sagrado: capitais móveis na China e no
-Japão, estruturas de culto temporárias ou periodicamente renovadas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Elementos de composição ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-1. Arcadas e colunatas
-2. Massas volumétricas
-   - Cúpulas
-   - Pátios
-3. Frente e fundos
-4. Sequências de composições
-5. Abraçar e enquadrar
-6. Coroamentos
-7. Miudezas
-   - Ornamentos complementares
-   - Rusticação
+Classes de edifícios segundo o *Yingzao fashi*
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Economia da construção #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Economia não apenas no sentido financeiro, mas qualquer alocação de
+recursos materiais, e por extensão as convenções sociais que determinam
+gradações de riqueza ou monumentalidade arquitetônica.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Vocabulário da construção ##
 
