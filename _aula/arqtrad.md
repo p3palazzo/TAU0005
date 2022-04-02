@@ -56,7 +56,7 @@ tradicional.
 ![Thomas Cole, Architect's Dream, detalhe](https://upload.wikimedia.org/wikipedia/commons/b/b2/Thomas_Cole_-_The_Architect's_Dream_(detail)_-_WGA05142.jpg){#fig:cole-detail   .stretch}
 :::
 
-<!--_,-->
+<!--_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Cole, o profissional especializado em questão, de fato detinha a

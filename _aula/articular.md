@@ -235,7 +235,7 @@ depender de placas.
 * * * *
 
 ::: align-right
-![Tipos de base e duplicações na edilícia de base do Mediterrâneo medieval, segundo Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:raddoppi   .line}
+![Tipos de base e duplicações na edilícia de base do Mediterrâneo medieval, segundo Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:raddoppi .line}
 :::
 
 * * * *
