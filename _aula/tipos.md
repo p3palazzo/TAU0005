@@ -24,7 +24,9 @@ header:
 
 * * * *
 
-![Le Corbusier, arquiteto, maquete do plano Voisin com a sua inserção no centro histórico de Paris (1925) ](https://i.pinimg.com/originals/d3/0b/b0/d30bb0b052ef68928e7102de59b6a235.jpg){#fig:voisin .full}
+::: full
+![Le Corbusier, arquiteto, maquete do plano Voisin com a sua inserção no centro histórico de Paris (1925) ](https://i.pinimg.com/originals/d3/0b/b0/d30bb0b052ef68928e7102de59b6a235.jpg){#fig:voisin}
+:::
 
 * * * *
 
@@ -36,7 +38,9 @@ header:
 
 ## Sete tipos edilícios ##
 
-![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types .full .nobg}
+::: full
+![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types   .nobg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os sete tipos edilícios fundamentais ([@fig:7types]) correspondem a sete
@@ -101,7 +105,9 @@ Domus
 
 ## Taberna ##
 
-![Tabernas romanas em Ostia](https://i.pinimg.com/originals/e4/55/64/e45564c769935f31aa6d72d1cf52494f.gif){#fig:tabernae-ostia .align-right .r-stretch}
+::: align-right
+![Tabernas romanas em Ostia](https://i.pinimg.com/originals/e4/55/64/e45564c769935f31aa6d72d1cf52494f.gif){#fig:tabernae-ostia   .r-stretch}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Taberna
@@ -195,7 +201,9 @@ Theatrum
 
 * * * *
 
-![Tholos: Templo do amor, jardins de Versalhes](https://i.pinimg.com/originals/5c/62/72/5c62723678b10a208d7c6116142e9a44.jpg){#fig:tholos-amour .align-right}
+::: align-right
+![Tholos: Templo do amor, jardins de Versalhes](https://i.pinimg.com/originals/5c/62/72/5c62723678b10a208d7c6116142e9a44.jpg){#fig:tholos-amour}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Tholos
@@ -252,7 +260,9 @@ professor na Universidade de Veneza [@muratori:1959studiIX].
 
 * * * *
 
-![Tipos de células base do Mediterrâneo ocidental. Desenho: Pedro P. Palazzo, 2021](https://i.pinimg.com/originals/b6/00/66/b60066a2d03348fa0174e53329776036.png){#fig:cell .full .line}
+::: full
+![Tipos de células base do Mediterrâneo ocidental. Desenho: Pedro P. Palazzo, 2021](https://i.pinimg.com/originals/b6/00/66/b60066a2d03348fa0174e53329776036.png){#fig:cell   .line}
+:::
 
 * * * *
 
@@ -262,11 +272,15 @@ seus alunos, como Gianfranco Caniggia [@caniggia:2008lettura;
 @caniggia:1987progetto] e Giuseppe Strappa [@caniggia:1989permanenze].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Tipos de base e duplicações, levantados na década de 1940 por Gianfranco Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:lettura-11 .align-right .line .nobg}
+::: align-right
+![Tipos de base e duplicações, levantados na década de 1940 por Gianfranco Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:lettura-11   .line .nobg}
+:::
 
 * * * *
 
-![Centuriação romana](https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg){#fig:centuriatio .align-right}
+::: align-right
+![Centuriação romana](https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg){#fig:centuriatio}
+:::
 
 * * * *
 
@@ -319,11 +333,15 @@ romana, a morada grega ou a casa compacta do Crescente fértil
 
 * * * *
 
-![Ammaia, Lusitânia romana](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia .full .nobg}
+::: full
+![Ammaia, Lusitânia romana](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia   .nobg}
+:::
 
 * * * *
 
-![Reconstituição de Ammaia](https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png){#fig:ammaia-aerea .full .r-stretch}
+::: full
+![Reconstituição de Ammaia](https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png){#fig:ammaia-aerea   .r-stretch}
+:::
 
 # Cultura doméstica no Mediterrâneo #
 
@@ -388,7 +406,9 @@ demanda grandes especificidades.
 
 ## {data-background-image="https://journals.openedition.org/gallia/docannexe/image/5147/img-9.jpg" data-background-position="top"}
 
-![Casa absidial no subúrbio de Lattara. Reconstituição: M. Mondou, reproduzida por [Gailledrat e Vacheret, 2020](https://doi.org/10.4000/gallia.5147)](https://journals.openedition.org/gallia/docannexe/image/5147/img-9.jpg){#fig:lattara-absidial .align-right .slide-bg}
+::: align-right
+![Casa absidial no subúrbio de Lattara. Reconstituição: M. Mondou, reproduzida por [Gailledrat e Vacheret, 2020](https://doi.org/10.4000/gallia.5147)](https://journals.openedition.org/gallia/docannexe/image/5147/img-9.jpg){#fig:lattara-absidial   .slide-bg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O gradiente que recebe essa unidade multifuncional não é um espaço único
@@ -453,7 +473,9 @@ na cidade de Priene ([@fig:priene-casas; @fig:priene-cg]) e de outras
 cidades gregas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Casas em Priene, reconstituídas por Whitley, 2001](https://i.pinimg.com/originals/bd/79/93/bd7993471831f9cbb7df636bd15dfb74.jpg){#fig:priene-casas .align-right}
+::: align-right
+![Casas em Priene, reconstituídas por Whitley, 2001](https://i.pinimg.com/originals/bd/79/93/bd7993471831f9cbb7df636bd15dfb74.jpg){#fig:priene-casas}
+:::
 
 * * * *
 
@@ -461,7 +483,9 @@ cidades gregas.
 
 * * * *
 
-![Reconstituição de casas em Olinto](https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg){#fig:olynthus-cutaway .full}
+::: full
+![Reconstituição de casas em Olinto](https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg){#fig:olynthus-cutaway}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A regularidade das construções escavadas em Olinto e em outras cidades
@@ -570,7 +594,9 @@ a sala onde o chefe da família recebia os seus clientes ([@fig:pansa]).
 
 * * * *
 
-![Planta estrutural de um átrio toscano, segundo [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_250)](https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuscan_atrium_in_Pompeii_Mau_fig117.png){#fig:mau117 .line .align-right}
+::: align-right
+![Planta estrutural de um átrio toscano, segundo [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_250)](https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuscan_atrium_in_Pompeii_Mau_fig117.png){#fig:mau117 .line}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O átrio da casa romana é sempre cercado por beirais amplos, geralmente
@@ -587,7 +613,9 @@ sistema deixa o pátio totalmente livre de colunas ([@fig:mau136]).
 
 * * * *
 
-![Esquema de uma cisterna romana](https://i.pinimg.com/originals/9d/82/29/9d82297091f4dd4ca46997fab22659fc.jpg){#fig:cistern .align-right .r-stretch}
+::: align-right
+![Esquema de uma cisterna romana](https://i.pinimg.com/originals/9d/82/29/9d82297091f4dd4ca46997fab22659fc.jpg){#fig:cistern   .r-stretch}
+:::
 
 * * * *
 
@@ -616,7 +644,9 @@ jardim com peristilo. As dimensões desses módulos e dos ambientes que
 faziam parte deles, por outro lado, variavam pouco (exceto a do jardim).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta da casa do Fauno, Pompeia, reformada após 66 d.C. Desenho: [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_288)](https://upload.wikimedia.org/wikipedia/commons/5/54/Plan_of_the_house_of_the_Faun_in_Mau_fig137.png){#fig:mau137 .full .line}
+::: full
+![Planta da casa do Fauno, Pompeia, reformada após 66 d.C. Desenho: [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_288)](https://upload.wikimedia.org/wikipedia/commons/5/54/Plan_of_the_house_of_the_Faun_in_Mau_fig137.png){#fig:mau137   .line}
+:::
 
 ## Variantes sincrônicas ##
 
@@ -661,7 +691,9 @@ variações em cima desse pátio e ambientes voltados para ele, associado
 
 * * * *
 
-![Reconstituição da casa de Maomé em Medina, c. 622 d.C., segundo Leacroft, 1976](https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png){#fig:leacroft1976-2 .full .line}
+::: full
+![Reconstituição da casa de Maomé em Medina, c. 622 d.C., segundo Leacroft, 1976](https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png){#fig:leacroft1976-2   .line}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O tipo originário da casa árabe é, na verdade, uma morada rural. 
@@ -717,7 +749,9 @@ montanhas da Argélia e do Marrocos ([@fig:tighremt]).
 
 * * * *
 
-![Processo tipológico de formação do salão largo na edilícia de base da península Ibérica, séculos [VI]{.smallcaps}--[X]{.smallcaps}, segundo Felix Arnold, 2017. Da esquerda para a direita e de cima para baixo: Cartagena, séculos [VI]{.smallcaps}--[VII]{.smallcaps}; Puig Rom (Girona), séculos [VI]{.smallcaps}--[VII]{.smallcaps}; Vilaclara (Barcelona), século [VII]{.smallcaps}; Gózquez de Arriba (Madri), séculos [VIII]{.smallcaps}--[IX]{.smallcaps}; Castillo de Peñaflor (Jaén), séculos [IX]{.smallcaps}--[X]{.smallcaps}; Pechina (Almería), século [X]{.smallcaps}; Medina Azahara (Córdoba), século [X]{.smallcaps}](https://i.pinimg.com/originals/bc/cc/4a/bccc4a4aaec0eea9dfb5dfe4281fed1d.png){#fig:arnold2017-1.8 .full .line}
+::: full
+![Processo tipológico de formação do salão largo na edilícia de base da península Ibérica, séculos [VI]{.smallcaps}--[X]{.smallcaps}, segundo Felix Arnold, 2017. Da esquerda para a direita e de cima para baixo: Cartagena, séculos [VI]{.smallcaps}--[VII]{.smallcaps}; Puig Rom (Girona), séculos [VI]{.smallcaps}--[VII]{.smallcaps}; Vilaclara (Barcelona), século [VII]{.smallcaps}; Gózquez de Arriba (Madri), séculos [VIII]{.smallcaps}--[IX]{.smallcaps}; Castillo de Peñaflor (Jaén), séculos [IX]{.smallcaps}--[X]{.smallcaps}; Pechina (Almería), século [X]{.smallcaps}; Medina Azahara (Córdoba), século [X]{.smallcaps}](https://i.pinimg.com/originals/bc/cc/4a/bccc4a4aaec0eea9dfb5dfe4281fed1d.png){#fig:arnold2017-1.8   .line}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No início da Idade Média, a casa de tipo romano no Mediterrâneo
@@ -761,7 +795,9 @@ com abside e alcovas laterais da tradição islâmica mais tardia.
 
 * * * *
 
-![Medina Azahara, Córdoba, 953--957. Planta do palácio superior, por Felix Arnold, 2017](https://i.pinimg.com/originals/fe/3b/5d/fe3b5d37ca5d673d3d09e3e7e6ee95ea.png){#fig:arnold2017-2.25 .align-right .line}
+::: align-right
+![Medina Azahara, Córdoba, 953--957. Planta do palácio superior, por Felix Arnold, 2017](https://i.pinimg.com/originals/fe/3b/5d/fe3b5d37ca5d673d3d09e3e7e6ee95ea.png){#fig:arnold2017-2.25   .line}
+:::
 
 * * * *
 

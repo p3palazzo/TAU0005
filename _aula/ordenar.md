@@ -71,7 +71,9 @@ que papeis ele atende, quem irá utilizá-lo, etc.
 
 ## Arquitetura clássica e o microcosmo perfeito ##
 
-![Capa do livro *Classical Architecture* por Tzonis e Lefaivre](https://images-na.ssl-images-amazon.com/images/P/026270031X.01._SX360_SCLZZZZZZZ_.jpg){#fig:tzonis .align-right}
+::: align-right
+![Capa do livro *Classical Architecture* por Tzonis e Lefaivre](https://images-na.ssl-images-amazon.com/images/P/026270031X.01._SX360_SCLZZZZZZZ_.jpg){#fig:tzonis}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para os teóricos contemporâneos Alexander Tzonis e Liane Lefaivre
@@ -307,7 +309,9 @@ Harbeson.
 
 * * * *
 
-![Dinastia Song no seu auge. Mapa: [Mozzan, 2013, traduzido por Rowan Wind Whistler, 2015](https://commons.wikimedia.org/wiki/File:China_-_Song_Dynasty-es.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/China_-_Song_Dynasty-es.svg/1043px-China_-_Song_Dynasty-es.svg.png){#fig:song .align-right}
+::: align-right
+![Dinastia Song no seu auge. Mapa: [Mozzan, 2013, traduzido por Rowan Wind Whistler, 2015](https://commons.wikimedia.org/wiki/File:China_-_Song_Dynasty-es.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/China_-_Song_Dynasty-es.svg/1043px-China_-_Song_Dynasty-es.svg.png){#fig:song}
+:::
 
 <!--_-->
 
@@ -532,7 +536,9 @@ ainda que ao preço de uma circulação pouco conveniente ([@fig:arkaim]).
 
 * * * *
 
-![Esquemas conceituais de aldeias indo-arianas. Desenho em [E.B. Havell, 1918](https://commons.wikimedia.org/wiki/File:Indo-Aryan_village_plans.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png){#fig:havell .align-right .line .nobg}
+::: align-right
+![Esquemas conceituais de aldeias indo-arianas. Desenho em [E.B. Havell, 1918](https://commons.wikimedia.org/wiki/File:Indo-Aryan_village_plans.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png){#fig:havell   .line .nobg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esses formatos centralizados também remetem à compacidade e à capacidade

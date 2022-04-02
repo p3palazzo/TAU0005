@@ -28,32 +28,30 @@ $header-font-family: $garamond;
 $caption-font-family: $garamond;
 $serif: $garamond;
 $sans-serif: $garamond;
-$sans-serif-narrow: $garamond;
+$sans-serif-narrow: $sans-serif;
 
 /*
    Colors
    ========================================================================== */
 
-$lighter-gray: #fffff8;
-$darker-gray: #111;
-$dark-gray: lighten($darker-gray, 10%);
-
-$background-color: $lighter-gray;
-$text-color: $darker-gray;
-$footer-background-color: transparentize($background-color, 0);
+/*
+   Other
+   ========================================================================== */
 
 /*
    Grid
    ========================================================================== */
 
 $x-large: 1440px;
-$max-width: calc(1520px + 3em);
+$max-width: calc(1520px + 2em);
 $right-sidebar-width-narrow: 300px;
-$right-sidebar-width: 300px;
+$right-sidebar-width: 400px;
 $right-sidebar-width-wide: 400px;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+$border-color: $gray;
 
 $meta-font-weight: 500;
 $header-font-weight: 400;
@@ -67,9 +65,8 @@ $header-font-style: italic;
     "local",
     "revealjs-support";
 
-a.site-title .site-subtitle {
-    font-variant: normal;
-    font-variant-numeric: oldstyle-nums;
+.page__footer {
+    background-color: inherit;
 }
 
 .pagination,
@@ -77,20 +74,8 @@ a.site-title .site-subtitle {
     display: none;
 }
 
-.page__hero--overlay .subtitle {
-	font-size: $type-size-8;
-}
-
 a.btn {
-    font-variant: all-small-caps;
-    font-weight: 500;
-}
-
-.page__content {
-    img,
-    iframe {
-        border-radius: 0;
-    }
+    font-weight: $meta-font-weight;
 }
 
 // vim: set shiftwidth=4 tabstop=4 foldmethod=indent :

@@ -37,7 +37,9 @@ estruturais muito semelhantes.
 
 ## {data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="right"}
 
-![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .align-right .slide-bg}
+::: align-right
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier   .slide-bg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Voltemos às teorias da cabana primitiva. Vitrúvio, Laugier e Semper
@@ -59,7 +61,9 @@ habitação contemporânea do povo karib, exibida na exposição universal de
 Londres em 1851 ([@fig:karib]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cabana do povo karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line .align-right .slide-bg}
+::: align-right
+![Cabana do povo karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line   .slide-bg}
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg" data-background-position="top"}
 
@@ -171,7 +175,9 @@ a ser chamados de *caibros* ([@fig:shed]).
 
 ## {data-background-image="https://i.pinimg.com/originals/43/f9/9a/43f99ae9ce5679b28c914c4446a7e78a.png" data-background-position="top"}
 
-![Conexão de caibros com vigas, segundo Ednie, *Carpentry and Joinery*, 1925](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rafter_and_tie-beam_joints_(Carpentry_and_Joinery,_1925).jpg/517px-Rafter_and_tie-beam_joints_(Carpentry_and_Joinery,_1925).jpg){#fig:rafter-join .align-right .slide-bg}
+::: align-right
+![Conexão de caibros com vigas, segundo Ednie, *Carpentry and Joinery*, 1925](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rafter_and_tie-beam_joints_(Carpentry_and_Joinery,_1925).jpg/517px-Rafter_and_tie-beam_joints_(Carpentry_and_Joinery,_1925).jpg){#fig:rafter-join   .slide-bg}
+:::
 
 <!--_,-->
 
@@ -266,7 +272,9 @@ isoladas tem duas ou quatro águas ([@fig:sienicki]).
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-040.2.png" data-background-size="contain"}
 
-![Esquema de uma cobertura de casa tradicional japonesa, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-040.2.png){#fig:engel2020-040.2 .line .full .slide-bg}
+::: full
+![Esquema de uma cobertura de casa tradicional japonesa, segundo Heino Engel, 1985](https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-040.2.png){#fig:engel2020-040.2 .line   .slide-bg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma mais direta de sustentação de uma cobertura consiste em apoiar
@@ -494,7 +502,9 @@ em três tesouras independentes.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-401.png" data-background-size="contain"}
 
-![Escoras mestras numa tesoura alemã. Desenho: Schnell, 1915, reproduzido em Zwerger, *Wood and Wood Joints*](https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-401.png){#fig:zwerger2012-401 .line .align-right .slide-bg}
+::: align-right
+![Escoras mestras numa tesoura alemã. Desenho: Schnell, 1915, reproduzido em Zwerger, *Wood and Wood Joints*](https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-401.png){#fig:zwerger2012-401 .line   .slide-bg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para manter a unidade da tesoura, podemos acrescentar escoras diagonais
@@ -576,7 +586,9 @@ costuma corresponder a uma "fatia" dessa carpintaria
 ([@fig:langhein2012-01-03]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Malha proporcional triangular equilátera, exemplos da arquitetura vernácula alemã: casa rurais das regiões da Vestfália meridional, Francônia superior (Bavária) e casa urbana de Eppingen, Baden, 1471. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg){#fig:langhein2012-01-03 .full .slide-bg}
+::: full
+![Malha proporcional triangular equilátera, exemplos da arquitetura vernácula alemã: casa rurais das regiões da Vestfália meridional, Francônia superior (Bavária) e casa urbana de Eppingen, Baden, 1471. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg){#fig:langhein2012-01-03   .slide-bg}
+:::
 
 ## Conclusão
 
@@ -628,7 +640,9 @@ estilo chinês [@schaeffer:1971chinesicesXXII] ([@fig:sabara]).
 
 ## {data-background-image="https://i.pinimg.com/originals/f2/9f/85/f29f850b4e494b8691b2d056df6719eb.png"}
 
-![Vista da nave da igreja de Nossa Senhora do Ó, Sabará](https://i.pinimg.com/originals/f2/9f/85/f29f850b4e494b8691b2d056df6719eb.png){#fig:sabara-nave .full .slide-bg}
+::: full
+![Vista da nave da igreja de Nossa Senhora do Ó, Sabará](https://i.pinimg.com/originals/f2/9f/85/f29f850b4e494b8691b2d056df6719eb.png){#fig:sabara-nave   .slide-bg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na Carpintaria chinesa, os módulos de fachada são perpendiculares à
@@ -722,7 +736,9 @@ renovação mais rápida ([@fig:liang-order]).
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/atkin2011-3.18.png"}
 
-![Salão principal do templo budista Shanhua, Datong, província de Shanxi, 1060. Levantamento e desenho da fachada por Liang Sicheng e Lin Huiyin, primeira metade do século [XX]{.smallcaps}](https://hcommons.org/app/uploads/sites/1002372/2021/08/atkin2011-3.18.png){#fig:shanhua .full .slide-bg}
+::: full
+![Salão principal do templo budista Shanhua, Datong, província de Shanxi, 1060. Levantamento e desenho da fachada por Liang Sicheng e Lin Huiyin, primeira metade do século [XX]{.smallcaps}](https://hcommons.org/app/uploads/sites/1002372/2021/08/atkin2011-3.18.png){#fig:shanhua   .slide-bg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A linguagem descrita por Lin e Liang [@liang:1984pictorial] é baseada no
@@ -739,7 +755,9 @@ resultado de se conectar uma sequência de pórticos paralelos
 ([@fig:fu-foguang]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Esquema construtivo do salão principal do Fóguāngsǐ, desenho por Fu Xinian](https://i.pinimg.com/originals/2f/bd/fd/2fbdfd63849f527472ef4dadec10df67.jpg){#fig:fu-foguang .full .slide-bg}
+::: full
+![Esquema construtivo do salão principal do Fóguāngsǐ, desenho por Fu Xinian](https://i.pinimg.com/originals/2f/bd/fd/2fbdfd63849f527472ef4dadec10df67.jpg){#fig:fu-foguang   .slide-bg}
+:::
 
 ## Mísulas sobrepostas ## {data-visibility="hidden"}
 
@@ -765,7 +783,9 @@ motivos naturalistas.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.27-1080p.png" data-background-size="contain"}
 
-![Vista de caibros volantes em balanço, segundo Feng](https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.27-1080p.png){#fig:feng2012-4.27 .line .align-right .slide-bg}
+::: align-right
+![Vista de caibros volantes em balanço, segundo Feng](https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.27-1080p.png){#fig:feng2012-4.27 .line   .slide-bg}
+:::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-640.png" data-background-size="contain"}
 
@@ -781,7 +801,9 @@ motivos naturalistas.
 
 ## {data-background-image="http://www.digital-images.net/Images/Japan/Horyuji_Kondo_detail_9972.jpg"}
 
-![Hōryūji, pagode, detalhe das mísulas sustentando uma terça e caibros volantes, foto: [Ron Reznick]](http://www.digital-images.net/Images/Japan/Horyuji_Kondo_detail_9972.jpg){#fig:horyuji-kondo-det .full .slide-bg}
+::: full
+![Hōryūji, pagode, detalhe das mísulas sustentando uma terça e caibros volantes, foto: [Ron Reznick]](http://www.digital-images.net/Images/Japan/Horyuji_Kondo_detail_9972.jpg){#fig:horyuji-kondo-det   .slide-bg}
+:::
 
 [Ron Reznick]: http://www.digital-images.net/Gallery/Scenic/Japan/Temples/Horyuji/horyuji.html
 
@@ -872,7 +894,9 @@ permitir uma boa iluminação e ventilação dos interiores, que são muito
 profundos em geral ([@fig:han-taixie]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Reconstituição do corte longitudinal de um palácio da dinastia Han com fundações do tipo *taixie*, por Steinhardt (2019)](https://i.pinimg.com/originals/a8/52/6f/a8526febba8123bdba4e3c8079cc4c1f.png){#fig:han-taixie .full .slide-bg}
+::: full
+![Reconstituição do corte longitudinal de um palácio da dinastia Han com fundações do tipo *taixie*, por Steinhardt (2019)](https://i.pinimg.com/originals/a8/52/6f/a8526febba8123bdba4e3c8079cc4c1f.png){#fig:han-taixie   .slide-bg}
+:::
 
 # Revestimentos #
 
@@ -892,7 +916,9 @@ profundos em geral ([@fig:han-taixie]).
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7c/Torvtak_5.png" data-background-size="contain"}
 
-![Detalhe de uma cobertura escandinava revestida com grama. Desenho: [Roede, 1989]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Torvtak_5.png/712px-Torvtak_5.png){#fig:torvtak .align-right}
+::: align-right
+![Detalhe de uma cobertura escandinava revestida com grama. Desenho: [Roede, 1989]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Torvtak_5.png/712px-Torvtak_5.png){#fig:torvtak}
+:::
 
 [Roede, 1989]: https://commons.wikimedia.org/wiki/File:Torvtak_5.png
 

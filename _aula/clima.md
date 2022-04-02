@@ -12,9 +12,6 @@ excerpt: >
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
   caption: "Edwin Lord Weeks. [*Vista do espelho d'água para o templo Dourado em Amritsar*](https://commons.wikimedia.org/wiki/File:Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg), 1883"
-  actions:
-  - label: "Slides"
-    url: "/slides/clima/"
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
   data-background-position: "bottom"
@@ -35,7 +32,9 @@ têm sobre a arquitetura:
 
 ## {data-background-image="https://i.redd.it/8phjjylpo7a11.png"}
 
-![Rede de comércio marítimo global. Mapa: [Nicolas Rapp, 2012]](https://i.redd.it/8phjjylpo7a11.png){#fig:trade .full}
+::: full
+![Rede de comércio marítimo global. Mapa: [Nicolas Rapp, 2012]](https://i.redd.it/8phjjylpo7a11.png){#fig:trade}
+:::
 
 [Nicolas Rapp, 2012]: https://nicolasrapp.com/studio/portfolio/the-shipping-news/
 
@@ -60,7 +59,9 @@ acaba sendo um ato de responsabilidade ambiental e social.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/med-trade-scaled.jpeg"}
 
-![Redes comerciais na África, Ásia e Europa nos séculos [XI--XII]{.smallcaps}. Mapa: [Martin Månsson, 2018], v.4](https://hcommons.org/app/uploads/sites/1002372/2021/08/med-trade-scaled.jpeg){#fig:med-trade .full}
+::: full
+![Redes comerciais na África, Ásia e Europa nos séculos [XI--XII]{.smallcaps}. Mapa: [Martin Månsson, 2018], v.4](https://hcommons.org/app/uploads/sites/1002372/2021/08/med-trade-scaled.jpeg){#fig:med-trade}
+:::
 
 [Martin Månsson, 2018]: https://imgur.com/MsXaOdV
 
@@ -193,7 +194,9 @@ abertura zenital, que também servia de exaustor.
 
 ## {data-background-image="https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png"}
 
-![Reconstituição da aldeia de Skara Brae vista desde o pátio de acesso ao corredor](https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png){#fig:skb-art .align-right}
+::: align-right
+![Reconstituição da aldeia de Skara Brae vista desde o pátio de acesso ao corredor](https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png){#fig:skb-art}
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/2560px-Skara_Brae_Beds.jpg"}
 
@@ -224,7 +227,9 @@ proteção contra o vento ([@fig:skb-dark]).
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg" data-background-position="right"}
 
-![Regiões biogeográficas segundo Alfred Rusell Wallace, 1876. A China atravessa a divisa entre as regiões Paleártica e Oriental](https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg){#fig:wallace .full}
+::: full
+![Regiões biogeográficas segundo Alfred Rusell Wallace, 1876. A China atravessa a divisa entre as regiões Paleártica e Oriental](https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg){#fig:wallace}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O universo geográfico e cultural chinês fica no cruzamento entre dois
@@ -244,7 +249,9 @@ recursos naturais, e consequentemente a modos de vida muito variados.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG" data-background-size="contain"}
 
-![Área de influência cultural chinesa no século [VII]{.smallcaps} d.C. Desenho: [Brian Gotts, 2007]](https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG){#fig:tang-influence .align-right}
+::: align-right
+![Área de influência cultural chinesa no século [VII]{.smallcaps} d.C. Desenho: [Brian Gotts, 2007]](https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG){#fig:tang-influence}
+:::
 
 [Brian Gotts, 2007]: https://commons.wikimedia.org/wiki/File:Tang_dynasty1.PNG
 
@@ -279,7 +286,9 @@ Esse tipo continua dominante na habitação rural japonesa, com alguns
 aprimoramentos, até o século [XVI]{.smallcaps} d.C.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Diagrama de uma casa semienterrada, período Jōmon tardio, Japão, últimos séculos a.C. [Kawashima, 2011](https://doi.org/10.4312/dp.38.9)](https://i.pinimg.com/originals/ce/51/bc/ce51bcfc1ca839b7e5f4b5e1f8414288.png){#fig:jomon-diagram .line .align-right}
+::: align-right
+![Diagrama de uma casa semienterrada, período Jōmon tardio, Japão, últimos séculos a.C. [Kawashima, 2011](https://doi.org/10.4312/dp.38.9)](https://i.pinimg.com/originals/ce/51/bc/ce51bcfc1ca839b7e5f4b5e1f8414288.png){#fig:jomon-diagram .line}
+:::
 
 ## {data-background-image="https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png" data-background-size="contain"}
 
@@ -325,7 +334,9 @@ Configuração do modelo dominante da casa chinesa, cujo clima é temperado com 
 
 ## {data-background-image="https://i.pinimg.com/originals/91/ce/a4/91cea462fcb16e57fc8c9545b8bf649c.jpg" data-background-position="left"}
 
-![Trecho da malha urbana de Ur, antiga Suméria, [III]{.smallcaps} milênio a.C.](https://i.pinimg.com/originals/91/ce/a4/91cea462fcb16e57fc8c9545b8bf649c.jpg){#fig:ur-fabric .full}
+::: full
+![Trecho da malha urbana de Ur, antiga Suméria, [III]{.smallcaps} milênio a.C.](https://i.pinimg.com/originals/91/ce/a4/91cea462fcb16e57fc8c9545b8bf649c.jpg){#fig:ur-fabric}
+:::
 
 ##
 
@@ -381,7 +392,9 @@ na cidade de Priene ([@fig:priene-casas; @fig:priene-cg]) e de outras
 cidades gregas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Casas em Priene, reconstituídas por Whitley, 2001](https://i.pinimg.com/originals/bd/79/93/bd7993471831f9cbb7df636bd15dfb74.jpg){#fig:priene-casas .align-right}
+::: align-right
+![Casas em Priene, reconstituídas por Whitley, 2001](https://i.pinimg.com/originals/bd/79/93/bd7993471831f9cbb7df636bd15dfb74.jpg){#fig:priene-casas}
+:::
 
 ## {data-background-image="https://i.pinimg.com/originals/16/6d/2a/166d2a4095ab30414873f55c0dd40906.jpg" data-background-position="bottom"}
 
@@ -389,7 +402,9 @@ cidades gregas.
 
 ## {data-background-image="https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg"}
 
-![Reconstituição de casas em Olinto](https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg){#fig:olynthus-cutaway .full}
+::: full
+![Reconstituição de casas em Olinto](https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg){#fig:olynthus-cutaway}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A regularidade das construções escavadas em Olinto e em outras cidades
@@ -452,7 +467,9 @@ sistema deixa o pátio totalmente livre de colunas ([@fig:mau136]).
 Com um clima mais estável e menos seco que na Grécia, não há tanta preocupação com a orientação do edifício, que, quase sempre, tem um pátio ou átrio central e apresenta o acesso axial direto para a rua. Nas versões mais ricas e luxuosas, pois os romanos são mais tolerantes com disparidades sociais, existem jardins com colunatas (chamados de peristilos). Suas ampliações ocorrem por meio da duplicação dos elementos padrão de um mesmo esquema de forma muito pragmática e diferente das construções monumentais e dos tipos edilícios de base, contando apenas com mais ambientes que não são necessariamente maiores. Com isso, nota-se a segregação social e relações com fortes hierarquias sociais, por exemplo, no caso das salas de jantar separadas para os visitantes mais ricos e próximos. Apresentam vãos livres entre 5 e 10 m, que variam conforme poderio aquisitivo das famílias. Já o paisagismo romano é funcional e ornamental simultaneamente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta estrutural de um átrio toscano, segundo [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_250)](https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuscan_atrium_in_Pompeii_Mau_fig117.png){#fig:mau117 .line .align-right}
+::: align-right
+![Planta estrutural de um átrio toscano, segundo [Mau, 1899](https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42715-h.htm#Page_250)](https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuscan_atrium_in_Pompeii_Mau_fig117.png){#fig:mau117 .line}
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b8/Pompeii_-_its_life_and_art_(1899)_(14750073956).jpg" data-background-size="contain"}
 
@@ -481,7 +498,9 @@ Cisterna romana: a água é recolhida em um espelho d’água, que a refresca no
 
 ## {data-background-image="https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png" data-background-size="contain"}
 
-![Reconstituição da casa de Maomé em Medina, c. 622 d.C., segundo Leacroft, 1976](https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png){#fig:leacroft1976-2 .full .line}
+::: full
+![Reconstituição da casa de Maomé em Medina, c. 622 d.C., segundo Leacroft, 1976](https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png){#fig:leacroft1976-2   .line}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A casa árabe urbana na bacia do Mediterrâneo combina
@@ -509,7 +528,9 @@ Irã: uso das torres de ventilação associadas aos “Qanat”, que são aquedu
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/alberca-alhambra.png"}
 
-![Alhambra, Granada, corte do pátio das murtas olhando para o divã do sultão (elevação norte), anterior ao século [XVI]{.smallcaps}. Levantamento: [Jules Goury, 1842]](https://hcommons.org/app/uploads/sites/1002372/2021/09/alberca-alhambra.png){#fig:alberca .full .line}
+::: full
+![Alhambra, Granada, corte do pátio das murtas olhando para o divã do sultão (elevação norte), anterior ao século [XVI]{.smallcaps}. Levantamento: [Jules Goury, 1842]](https://hcommons.org/app/uploads/sites/1002372/2021/09/alberca-alhambra.png){#fig:alberca   .line}
+:::
 
 [Jules Goury, 1842]: https://library.si.edu/image-gallery/74264
 
@@ -527,7 +548,9 @@ Irã: uso das torres de ventilação associadas aos “Qanat”, que são aquedu
 
 ## {data-background-image="https://i.pinimg.com/originals/6a/e9/61/6ae9618a20621e81c7d12a0640284578.jpg" data-background-size="contain"}
 
-![Hassan Fathy, arquiteto, corte de uma casa em al-Qurna, Egito, 1946--1952. Desenho reproduzido em [TecnoHaus, 2017]](https://i.pinimg.com/originals/6a/e9/61/6ae9618a20621e81c7d12a0640284578.jpg){#fig:qurna-vent .full}
+::: full
+![Hassan Fathy, arquiteto, corte de uma casa em al-Qurna, Egito, 1946--1952. Desenho reproduzido em [TecnoHaus, 2017]](https://i.pinimg.com/originals/6a/e9/61/6ae9618a20621e81c7d12a0640284578.jpg){#fig:qurna-vent}
+:::
 
 [TecnoHaus, 2017]: https://tecnohaus.blogspot.com/2017/03/hassan-fathy-el-arquitecto-de-los.html
 
@@ -561,7 +584,9 @@ Irã: uso das torres de ventilação associadas aos “Qanat”, que são aquedu
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png" data-background-size="contain" data-background-transition="fade-out" data-background-position="left"}
 
-![Arquipélago de Nusantara no auge do império Majapahit, século [XIV]{.smallcaps} [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png){#fig:majapahit .full}
+::: full
+![Arquipélago de Nusantara no auge do império Majapahit, século [XIV]{.smallcaps} [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png){#fig:majapahit}
+:::
 
 ##
 
@@ -602,7 +627,9 @@ verdadeira.
 
 ## {data-background-image="https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg"}
 
-![Percy Brown (1872--1955) com o artista caxemirí D.N. Walli](https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg){#fig:brown-walli .align-right}
+::: align-right
+![Percy Brown (1872--1955) com o artista caxemirí D.N. Walli](https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg){#fig:brown-walli}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa era a opinião do historiador da arte anglo-indiano Percy Brown
@@ -624,7 +651,9 @@ monumental na Índia. Para Brown:
 
 ## {data-background-image="https://i.pinimg.com/originals/27/43/40/274340c0fd8060640d0f6019cfeb6d9c.jpg"}
 
-![Ananda K. Coomaraswamy (1877--1947). Foto: [Alvin Langdon Coburn, 1916](https://commons.wikimedia.org/wiki/File:Coomaraswamy.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Coomaraswamy.jpg/588px-Coomaraswamy.jpg){#fig:coomaraswamy .align-right}
+::: align-right
+![Ananda K. Coomaraswamy (1877--1947). Foto: [Alvin Langdon Coburn, 1916](https://commons.wikimedia.org/wiki/File:Coomaraswamy.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Coomaraswamy.jpg/588px-Coomaraswamy.jpg){#fig:coomaraswamy}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os pesquisadores indianos tratam do tema da espiritualidade na
@@ -682,7 +711,9 @@ Idades do Bronze e do Ferro no subcontinente Indiano.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2f/Shiva_Pashupati.jpg" data-background-size="contain"}
 
-![Selo Paśupati (senhor dos animais), talvez representando uma figura de "Shiva" ou iogue. [Mohenjo-Dāro, 2600--1900 a.C.](https://commons.wikimedia.org/wiki/File:Shiva_Pashupati.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Shiva_Pashupati.jpg){#fig:pasupati .align-right}
+::: align-right
+![Selo Paśupati (senhor dos animais), talvez representando uma figura de "Shiva" ou iogue. [Mohenjo-Dāro, 2600--1900 a.C.](https://commons.wikimedia.org/wiki/File:Shiva_Pashupati.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Shiva_Pashupati.jpg){#fig:pasupati}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma das evidências mais antigas nesse sentido é um carimbo para objetos
@@ -739,7 +770,9 @@ antigamente, e pode ter começado com as primeiras migrações indo-arianas
 por volta de 1800 a.C. ([@fig:migrations]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Migrações na Eurásia da Idade do Bronze Média, c. 1750--1250 a.C. No centro, migração de povos indo-arianos ("Rigvédicos") da Ásia central para o noroeste da Índia. Mapa: [Carlos Quiles, 2021](https://indo-european.eu/maps/middle-bronze-age/)](https://i.pinimg.com/originals/6b/1d/1e/6b1d1e4f03a4e191993052ff3f3e19d6.jpg){#fig:migrations .full}
+::: full
+![Migrações na Eurásia da Idade do Bronze Média, c. 1750--1250 a.C. No centro, migração de povos indo-arianos ("Rigvédicos") da Ásia central para o noroeste da Índia. Mapa: [Carlos Quiles, 2021](https://indo-european.eu/maps/middle-bronze-age/)](https://i.pinimg.com/originals/6b/1d/1e/6b1d1e4f03a4e191993052ff3f3e19d6.jpg){#fig:migrations}
+:::
 
 [^1]: A população pré-histórica do vale do rio Indo provavelmente não
     era dravídica e sim austro-asiática, parte de um substrato que se
@@ -758,7 +791,9 @@ das formas de devoção
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png" data-background-size="contain"}
 
-![Planta dos monumentos na colina de Sāñcī. [Archaeological Survey of India](https://commons.wikimedia.org/wiki/File:Plan_of_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png){#fig:sanci-site-plan .full .line .nobg}
+::: full
+![Planta dos monumentos na colina de Sāñcī. [Archaeological Survey of India](https://commons.wikimedia.org/wiki/File:Plan_of_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png){#fig:sanci-site-plan   .line .nobg}
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png/1280px-Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png" data-background-size="contain"}
 
@@ -834,9 +869,13 @@ o sul da China.
 ##
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:ghats .r-stack}
-![[maio](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointDrySeason.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MatheranPanoramaPointDrySeason.JPG/1280px-MatheranPanoramaPointDrySeason.JPG){#fig:matheran-dry .full .fragment}
+::: full
+![[maio](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointDrySeason.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MatheranPanoramaPointDrySeason.JPG/1280px-MatheranPanoramaPointDrySeason.JPG){#fig:matheran-dry   .fragment}
+:::
 
-![[agosto](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointMonsoon.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MatheranPanoramaPointMonsoon.JPG/1280px-MatheranPanoramaPointMonsoon.JPG){#fig:matheran-wet .full .fragment}
+::: full
+![[agosto](https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointMonsoon.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MatheranPanoramaPointMonsoon.JPG/1280px-MatheranPanoramaPointMonsoon.JPG){#fig:matheran-wet   .fragment}
+:::
 
 Ciclo das monções em Panorama point, Monte Methera, Ghats ocidentais.
 Fotos: Arne Hückelheim, 2010
@@ -895,11 +934,15 @@ sobretudo, do ponto de vista ambiental, social e alimentar.
 
 ## {data-background-image="https://i.pinimg.com/originals/66/45/32/664532deb9ae18436624d6ac60f269a8.jpg"}
 
-![Rochedo e palácio de Sigiriya, Sri Lanka, iniciado 477 d.C.](https://i.pinimg.com/originals/66/45/32/664532deb9ae18436624d6ac60f269a8.jpg){#fig:sigiriya-drone .full}
+::: full
+![Rochedo e palácio de Sigiriya, Sri Lanka, iniciado 477 d.C.](https://i.pinimg.com/originals/66/45/32/664532deb9ae18436624d6ac60f269a8.jpg){#fig:sigiriya-drone}
+:::
 
 ## {data-background-image="https://i.pinimg.com/originals/0e/b2/c8/0eb2c8b48df86a86c202539bc84ea3aa.png" data-background-size="contain"}
 
-![Complexo urbano--paisagístico--palaciano de Sigiriya. Planta: [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/0e/b2/c8/0eb2c8b48df86a86c202539bc84ea3aa.png){#fig:sigiriya-plan .full}
+::: full
+![Complexo urbano--paisagístico--palaciano de Sigiriya. Planta: [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/0e/b2/c8/0eb2c8b48df86a86c202539bc84ea3aa.png){#fig:sigiriya-plan}
+:::
 
 ## {data-background-image="https://i.pinimg.com/originals/fe/a5/e6/fea5e65b5ea935966953bde3854766fe.png" data-background-size="contain"}
 
@@ -919,7 +962,9 @@ sobretudo, do ponto de vista ambiental, social e alimentar.
 
 ## {data-background-image="https://i.pinimg.com/originals/53/02/f2/5302f21acc76cf1053c0cdec50c9fe21.jpg" data-background-size="contain"}
 
-![Planta dos jardins suspensos do rei Kaśyapa no palácio de Sigiriya, após 477. Desenho: [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/53/02/f2/5302f21acc76cf1053c0cdec50c9fe21.jpg){#fig:kasyapa-plan .align-right}
+::: align-right
+![Planta dos jardins suspensos do rei Kaśyapa no palácio de Sigiriya, após 477. Desenho: [Nilsan Cooray, 2012](https://doi.org/10.7480/abe.2012.6)](https://i.pinimg.com/originals/53/02/f2/5302f21acc76cf1053c0cdec50c9fe21.jpg){#fig:kasyapa-plan}
+:::
 
 ## {data-background-image="https://i.pinimg.com/originals/2c/ed/f9/2cedf9ffb64749c980a24015d9a8f12b.png" data-background-size="contain"}
 
@@ -973,7 +1018,9 @@ algodão bengalês --- dois produtos manufaturados que eram exportados
 para toda a Ásia, África e Europa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Antiga rota do chá em Chenyao, China. Foto: [Nekitarc, 2017](https://commons.wikimedia.org/wiki/File:衬腰岩茶马古道照片.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg){#fig:chenyao .align-right}
+::: align-right
+![Antiga rota do chá em Chenyao, China. Foto: [Nekitarc, 2017](https://commons.wikimedia.org/wiki/File:衬腰岩茶马古道照片.jpg)](https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg){#fig:chenyao}
+:::
 
 ## {data-background-image="https://i.pinimg.com/originals/f6/31/2e/f6312e27de421012a29fe99d442055c7.jpg"}
 
@@ -981,7 +1028,9 @@ para toda a Ásia, África e Europa.
 
 ## {data-background-image="https://i.pinimg.com/originals/ae/cb/e5/aecbe5513a24ac16161a0d021d7fbec2.jpg"}
 
-![Plantação de arroz em Wuli, Yunnan. Foto: [Xing Fangyu, 2020](https://news.cgtn.com/news/2020-08-22/Explore-the-ancient-Tea-Horse-Road-in-Wuli-Village-Ta6xRDLvJ6/index.html)](https://i.pinimg.com/originals/ae/cb/e5/aecbe5513a24ac16161a0d021d7fbec2.jpg){#fig:wuli .full}
+::: full
+![Plantação de arroz em Wuli, Yunnan. Foto: [Xing Fangyu, 2020](https://news.cgtn.com/news/2020-08-22/Explore-the-ancient-Tea-Horse-Road-in-Wuli-Village-Ta6xRDLvJ6/index.html)](https://i.pinimg.com/originals/ae/cb/e5/aecbe5513a24ac16161a0d021d7fbec2.jpg){#fig:wuli}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Com o aumento do comércio, a partir do século [IX]{.smallcaps}, a
@@ -1077,7 +1126,9 @@ já existentes na área, que passam a se tornar meio híbridas.
 
 ## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/0/0e/Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm" data-background-video-muted="true"}
 
-![Vista aérea de Angkor Wat. Produção: [[ZDF]{.smallcaps}, 2020](https://commons.wikimedia.org/wiki/File:Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm)](https://upload.wikimedia.org/wikipedia/commons/0/0e/Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm){#fig:angkor-vid .full}
+::: full
+![Vista aérea de Angkor Wat. Produção: [[ZDF]{.smallcaps}, 2020](https://commons.wikimedia.org/wiki/File:Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm)](https://upload.wikimedia.org/wikipedia/commons/0/0e/Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm){#fig:angkor-vid}
+:::
 
 <!--_,-->
 
@@ -1085,7 +1136,9 @@ já existentes na área, que passam a se tornar meio híbridas.
 
 ## {data-background-image="https://i.pinimg.com/originals/22/c1/d5/22c1d558443827a8dc08c5b068ce78ce.jpg" data-background-position="top"}
 
-![Sistema de canais e reservatórios de Angkor no período imperial. National Geographic](https://i.pinimg.com/originals/22/c1/d5/22c1d558443827a8dc08c5b068ce78ce.jpg){#fig:angkor-canals .full}
+::: full
+![Sistema de canais e reservatórios de Angkor no período imperial. National Geographic](https://i.pinimg.com/originals/22/c1/d5/22c1d558443827a8dc08c5b068ce78ce.jpg){#fig:angkor-canals}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A capital khmer em Angkor cumpria ao mesmo tempo todas as
@@ -1104,7 +1157,9 @@ alagando a planície em volta dele ([@fig:tonle-sap]).
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Angkor_Wat_reflejado_en_un_estanque_01.jpg/1280px-Angkor_Wat_reflejado_en_un_estanque_01.jpg"}
 
-![Tanque de água em Angkor Wat. Foto: [Luis Bartolomé Marcos, 2014](https://commons.wikimedia.org/wiki/File:Angkor_Wat_reflejado_en_un_estanque_01.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Angkor_Wat_reflejado_en_un_estanque_01.jpg/1280px-Angkor_Wat_reflejado_en_un_estanque_01.jpg){#fig:angkor-pond .full}
+::: full
+![Tanque de água em Angkor Wat. Foto: [Luis Bartolomé Marcos, 2014](https://commons.wikimedia.org/wiki/File:Angkor_Wat_reflejado_en_un_estanque_01.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Angkor_Wat_reflejado_en_un_estanque_01.jpg/1280px-Angkor_Wat_reflejado_en_un_estanque_01.jpg){#fig:angkor-pond}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A razão de ser da cidade era capturar os benefícios desse alagamento.
@@ -1180,7 +1235,9 @@ território ([@fig:angkor-general]).
 
 ## {data-background-image="https://i.pinimg.com/originals/f9/17/05/f91705dd6fb0131b6673e6c0de54a950.jpg"}
 
-![Plano de conjunto de Angkor, levantado por LiDAR. [Evans e Fletcher, 2015](http://dx.doi.org/10.15184/aqy.2015.157)](https://i.pinimg.com/originals/f9/17/05/f91705dd6fb0131b6673e6c0de54a950.jpg){#fig:angkor-general .full}
+::: full
+![Plano de conjunto de Angkor, levantado por LiDAR. [Evans e Fletcher, 2015](http://dx.doi.org/10.15184/aqy.2015.157)](https://i.pinimg.com/originals/f9/17/05/f91705dd6fb0131b6673e6c0de54a950.jpg){#fig:angkor-general}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse modelo põe em xeque a noção europeia e centro-asiática de cidade,

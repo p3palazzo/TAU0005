@@ -12,9 +12,6 @@ excerpt: >
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
   caption: "Thomas Cole, [Decurso do império: desolação](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg), 1836"
-  actions:
-  - label: "Slides"
-    url: "/slides/volumes/"
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
 ---
@@ -52,7 +49,9 @@ espaço: pilares, lajes, divisórias, mobília, plantas e obras de arte
 diversas ([@fig:on-cn]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Oscar Niemeyer e Departamento de Arquitetura da Novacap, segundo anteprojeto para o andar nobre do Congresso Nacional, Brasília, 1957. Documentado por [Elcio Gomes da Silva e José Manoel Morales Sánchez, 2009](https://mdc.arq.br/2009/03/09/congresso-nacional-da-documentacao-tecnica-a-obra-construida/)](https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png){#fig:on-cn .full .line .slide-bg}
+::: full
+![Oscar Niemeyer e Departamento de Arquitetura da Novacap, segundo anteprojeto para o andar nobre do Congresso Nacional, Brasília, 1957. Documentado por [Elcio Gomes da Silva e José Manoel Morales Sánchez, 2009](https://mdc.arq.br/2009/03/09/congresso-nacional-da-documentacao-tecnica-a-obra-construida/)](https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png){#fig:on-cn   .line .slide-bg}
+:::
 
 ## {data-background-image="https://i.pinimg.com/originals/f0/e2/fd/f0e2fda773ec7a55f7cb009abc8868d9.jpg"}
 
@@ -77,7 +76,9 @@ etc.
 
 ## {data-background-image="https://i.pinimg.com/originals/08/28/1a/08281ab3812d510d57ba634bf7b4cd71.jpg" data-background-size="contain"}
 
-![Planta "humanizada" de apartamento brasileiro contemporâneo](https://i.pinimg.com/originals/27/32/c4/2732c422dc92adb5cada8ca302854ac3.jpg){#fig:humanizada .align-right .slide-bg}
+::: align-right
+![Planta "humanizada" de apartamento brasileiro contemporâneo](https://i.pinimg.com/originals/27/32/c4/2732c422dc92adb5cada8ca302854ac3.jpg){#fig:humanizada   .slide-bg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura moderna corrente também produz volumes claramente
@@ -91,7 +92,9 @@ organização formal ([@fig:humanizada]).
 
 ## {data-background-image="https://opcaoempreendimentos.com.br/wp-content/uploads/2019/09/FINAL-05-TERREO-1.jpg" data-background-position="contain"}
 
-![Planta de apartamento em Uberlândia. [Opção Empreendimentos, 2021](https://opcaoempreendimentos.com.br/empreendimento/residencial-jardim-brasilia/)](https://opcaoempreendimentos.com.br/wp-content/uploads/2019/09/FINAL-05-TERREO-1.jpg){#fig:uberlandia .align-right .slide-bg}
+::: align-right
+![Planta de apartamento em Uberlândia. [Opção Empreendimentos, 2021](https://opcaoempreendimentos.com.br/empreendimento/residencial-jardim-brasilia/)](https://opcaoempreendimentos.com.br/wp-content/uploads/2019/09/FINAL-05-TERREO-1.jpg){#fig:uberlandia   .slide-bg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nota-se, então, um contraste com a arquitetura contemporânea das plantas
@@ -164,7 +167,9 @@ recebeu forma.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg"}
 
-![Miguel Ângelo Buonarroti, arquiteto, Santa Maria degli Angeli e Martiri, Roma, 1562, implantada no tepidário das termas de Diocleciano. Foto: [Pedro P. Palazzo, 2015](https://commons.wikimedia.org/wiki/File:IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg){#fig:angeli .full .slide-bg}
+::: full
+![Miguel Ângelo Buonarroti, arquiteto, Santa Maria degli Angeli e Martiri, Roma, 1562, implantada no tepidário das termas de Diocleciano. Foto: [Pedro P. Palazzo, 2015](https://commons.wikimedia.org/wiki/File:IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg){#fig:angeli   .slide-bg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por isso, no caso da arquitetura tradicional, vamos nos referir mais a
@@ -215,7 +220,9 @@ lados, o que só é permitido pela delimitação espacial.
 
 ## {data-background-image="https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg" data-background-size="contain" data-background-position="left"}
 
-![Sant'Ivo alla Sapienza, corte transversal por [Dominique Barrière, c. 1695](https://commons.wikimedia.org/wiki/File:SantIvo_Drawing_04.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SantIvo_Drawing_04.jpg/664px-SantIvo_Drawing_04.jpg){#fig:sapienza-sec .align-right .slide-bg}
+::: align-right
+![Sant'Ivo alla Sapienza, corte transversal por [Dominique Barrière, c. 1695](https://commons.wikimedia.org/wiki/File:SantIvo_Drawing_04.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SantIvo_Drawing_04.jpg/664px-SantIvo_Drawing_04.jpg){#fig:sapienza-sec   .slide-bg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Já falamos sobre isso antes, mas não custa lembrar: a distinção entre
@@ -254,7 +261,9 @@ seja mantida ([@fig:sapienza-plan]).
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg" data-background-position="bottom"}
 
-![Pátio em frente a Sant'Ivo della Sapienza. Foto: [Vlad Lesnov, 2010](https://commons.wikimedia.org/wiki/File:Archivio_di_stato_di_Roma_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg){#fig:sapienza-cortile .full .slide-bg}
+::: full
+![Pátio em frente a Sant'Ivo della Sapienza. Foto: [Vlad Lesnov, 2010](https://commons.wikimedia.org/wiki/File:Archivio_di_stato_di_Roma_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg){#fig:sapienza-cortile   .slide-bg}
+:::
 
 <!--_,-->
 
@@ -269,7 +278,9 @@ processo favorece.
 
 ## Hegel ##
 
-![G.W.F. Hegel no seu escritório, litografia por [Julius Ludwig Sebbers, 1828][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Georg_Wilhelm_Friedrich_Hegel_by_Julius_Ludwig_Sebbers.jpg/534px-Georg_Wilhelm_Friedrich_Hegel_by_Julius_Ludwig_Sebbers.jpg){#fig:hegel .align-right .overlay-slide}
+::: align-right
+![G.W.F. Hegel no seu escritório, litografia por [Julius Ludwig Sebbers, 1828][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Georg_Wilhelm_Friedrich_Hegel_by_Julius_Ludwig_Sebbers.jpg/534px-Georg_Wilhelm_Friedrich_Hegel_by_Julius_Ludwig_Sebbers.jpg){#fig:hegel   .overlay-slide}
+:::
 
 [Julius Ludwig Sebbers, 1828]: https://commons.wikimedia.org/wiki/File:Georg_Wilhelm_Friedrich_Hegel_by_Julius_Ludwig_Sebbers.jpg
 
@@ -331,11 +342,15 @@ Clássico
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg"}
 
-![Leo von Klenze, Reconstituição da Acrópole de Atenas, 1846. Óleo sobre tela](https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg){#fig:klenze-akro .full .slide-bg}
+::: full
+![Leo von Klenze, Reconstituição da Acrópole de Atenas, 1846. Óleo sobre tela](https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg){#fig:klenze-akro   .slide-bg}
+:::
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm" data-background-video-muted="true"}
 
-![Apolodoro de Damasco, arquiteto, Panteão, Roma, 113--125 d.C. Vista do interior filmada por [Wanderlust Travel Videos, 2021]](https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm){#fig:pantheon-wtv .full .slide-bg}
+::: full
+![Apolodoro de Damasco, arquiteto, Panteão, Roma, 113--125 d.C. Vista do interior filmada por [Wanderlust Travel Videos, 2021]](https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm){#fig:pantheon-wtv   .slide-bg}
+:::
 
 [Wanderlust Travel Videos, 2021]: https://youtu.be/bn6wLKU1XsM
 
@@ -411,7 +426,9 @@ mesmo material representam a terra, onde se movimenta a congregação.
 [@fig:franklin]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Naves das igrejas do mosteiro de São Lucas de Stiris, Grécia, 1011--1012. Filmagem: [René e Sylvie Franklin, 2018]](https://cdn.palazzo.arq.br/utilitas/volumes/Hosios_Loukas-C-YiGCfSyNQ-1080p-30fps.webm){#fig:franklin .full .slide-bg}
+::: full
+![Naves das igrejas do mosteiro de São Lucas de Stiris, Grécia, 1011--1012. Filmagem: [René e Sylvie Franklin, 2018]](https://cdn.palazzo.arq.br/utilitas/volumes/Hosios_Loukas-C-YiGCfSyNQ-1080p-30fps.webm){#fig:franklin   .slide-bg}
+:::
 
 [René e Sylvie Franklin, 2018]: https://youtu.be/C-YiGCfSyNQ
 
@@ -458,7 +475,9 @@ Deus no mosteiro de São Lucas de Stiris, na metade do século
 [@fig:loukas-plans]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Igrejas do mosteiro de São Lucas de Stiris, Grécia, c. 960 e 1011--1012. Planta em [Robert Schultz e Sidney Barnsley, *The Monastery of Saint Luke of Stiris...*, 1901]](https://hcommons.org/app/uploads/sites/1002372/2021/09/schultz-luke-nicholas-pl01-gri_33125007838036_0094.png){#fig:loukas-plans .line .full .slide-bg}
+::: full
+![Igrejas do mosteiro de São Lucas de Stiris, Grécia, c. 960 e 1011--1012. Planta em [Robert Schultz e Sidney Barnsley, *The Monastery of Saint Luke of Stiris...*, 1901]](https://hcommons.org/app/uploads/sites/1002372/2021/09/schultz-luke-nicholas-pl01-gri_33125007838036_0094.png){#fig:loukas-plans .line   .slide-bg}
+:::
 
 ## {data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/Daphni_Medieval_Monastery-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
@@ -504,11 +523,15 @@ esses dois elementos um *Westwerk* --- literalmente "obra ocidental".
 [@fig:centula-plan; @fig:corvey-plan]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta reconstituída da igreja na abadia de São Ricário (Cêntula), França, 790--799. Desenho: [JMaxR, 2009](https://commons.wikimedia.org/wiki/File:Plan_st-riquier_centula.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Plan_st-riquier_centula.svg/1700px-Plan_st-riquier_centula.svg.png){#fig:centula-plan .line .full .slide-bg}
+::: full
+![Planta reconstituída da igreja na abadia de São Ricário (Cêntula), França, 790--799. Desenho: [JMaxR, 2009](https://commons.wikimedia.org/wiki/File:Plan_st-riquier_centula.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Plan_st-riquier_centula.svg/1700px-Plan_st-riquier_centula.svg.png){#fig:centula-plan .line   .slide-bg}
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Plan_abbaye_corvey.svg/2442px-Plan_abbaye_corvey.svg.png" data-background-size="contain"}
 
-![Planta reconstituída da igreja na abadia de Corvey, Alemanha, 873--885. Desenho: [JMaxR, 2009](https://commons.wikimedia.org/wiki/File:Plan_abbaye_corvey.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Plan_abbaye_corvey.svg/2442px-Plan_abbaye_corvey.svg.png){#fig:corvey-plan .line .full .slide-bg}
+::: full
+![Planta reconstituída da igreja na abadia de Corvey, Alemanha, 873--885. Desenho: [JMaxR, 2009](https://commons.wikimedia.org/wiki/File:Plan_abbaye_corvey.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Plan_abbaye_corvey.svg/2442px-Plan_abbaye_corvey.svg.png){#fig:corvey-plan .line   .slide-bg}
+:::
 
 ## {data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/Flying_over_Schloss_Corvey-SIwTyzdS97k-1080p-25fps.webm" data-background-video-muted="true"}
 
@@ -632,11 +655,15 @@ Arquitetura edicular [@hardy:2019kashmiri; @bharne:2012rediscovering].
 
 ## {data-background-image="https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png"}
 
-![Palácios representados em relevos em Sāñchī, Amaravātī e Mathurā, reproduzidos por Coomaraswamy](https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png){#fig:palaces-coo .full .line .nobg .slide-bg}
+::: full
+![Palácios representados em relevos em Sāñchī, Amaravātī e Mathurā, reproduzidos por Coomaraswamy](https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png){#fig:palaces-coo   .line .nobg .slide-bg}
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg" data-background-size="contain"}
 
-![Procissão de Prasenajit de Kosala deixando Saravasti para se encontrar com o Buda, relevo na *toraṇa* norte da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg){#fig:prasenajit-sanci .align-right .slide-bg}
+::: align-right
+![Procissão de Prasenajit de Kosala deixando Saravasti para se encontrar com o Buda, relevo na *toraṇa* norte da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg){#fig:prasenajit-sanci   .slide-bg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Características do palácio indiano:
@@ -654,7 +681,9 @@ Características do palácio indiano:
 
 ## {data-background-image="https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg"}
 
-![Cidade de Kuśināgarā, cena da guerra das relíquias, relevo na *toraṇa* (portada) sul da estupa 1 em Sāñcī, Madhya Pradesh, reinado de Sātakaṇi II, 50--25 a.C. Foto: [Anandajoti Bhikku, 2017](https://www.flickr.com/photos/anandajoti/33813012975/in/photostream/)](https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg){#fig:kusinagara-sanci .full .slide-bg}
+::: full
+![Cidade de Kuśināgarā, cena da guerra das relíquias, relevo na *toraṇa* (portada) sul da estupa 1 em Sāñcī, Madhya Pradesh, reinado de Sātakaṇi II, 50--25 a.C. Foto: [Anandajoti Bhikku, 2017](https://www.flickr.com/photos/anandajoti/33813012975/in/photostream/)](https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg){#fig:kusinagara-sanci   .slide-bg}
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png" data-background-size="contain"}
 
@@ -666,7 +695,9 @@ Características do palácio indiano:
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg" data-background-size="contain"}
 
-![Rei Bimbisara partindo de Rajāgṛha para visitar o Buda, relevo na *toraṇa* sul da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg){#fig:rajagriha-sanci .align-right .slide-bg}
+::: align-right
+![Rei Bimbisara partindo de Rajāgṛha para visitar o Buda, relevo na *toraṇa* sul da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Biswarup Ganguly, 2017](https://commons.wikimedia.org/wiki/File:Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg){#fig:rajagriha-sanci   .slide-bg}
+:::
 
 ## {data-background-image="https://i.pinimg.com/originals/83/56/94/8356949968a0413e38ca504f22a3a184.png"}
 
@@ -678,7 +709,9 @@ Características do palácio indiano:
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG/1280px-Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG"}
 
-![Relevo na passarela elevada da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Photo Dharma, 2017](https://commons.wikimedia.org/wiki/File:Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg){#fig:promenade .align-right .slide-bg}
+::: align-right
+![Relevo na passarela elevada da estupa 1 em Sāñcī, 50--25 a.C. Foto: [Photo Dharma, 2017](https://commons.wikimedia.org/wiki/File:Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg){#fig:promenade   .slide-bg}
+:::
 
 <!--_,-->
 
@@ -712,7 +745,9 @@ não precisam de um amplo espaço interior. A volumetria externa é
 priorizada ([@fig:ajanta-sec]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Gruta n.º 10, Ajanta, Mahārashtra, oeste da Índia, século [I]{.smallcaps} a.C. Corte transversal por [James Fergusson, *Illustrated Handbook of Architecture* v. 1]](https://upload.wikimedia.org/wikipedia/commons/6/6c/Ajanta_cave_10_section-Fergusson-Handbook_01_0094.png){#fig:ajanta-sec .line .align-right .slide-bg}
+::: align-right
+![Gruta n.º 10, Ajanta, Mahārashtra, oeste da Índia, século [I]{.smallcaps} a.C. Corte transversal por [James Fergusson, *Illustrated Handbook of Architecture* v. 1]](https://upload.wikimedia.org/wikipedia/commons/6/6c/Ajanta_cave_10_section-Fergusson-Handbook_01_0094.png){#fig:ajanta-sec .line   .slide-bg}
+:::
 
 [James Fergusson, *Illustrated Handbook of Architecture* v. 1]: https://archive.org/details/illustratedhandb01ferguoft/
 
@@ -769,7 +804,9 @@ Passeio pela gruta hinduísta de Elephanta. Filmagem: [Wonderliv Travel, 2018](h
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/stierlin-50-ellora_templo_16_kailasa.jpg" data-background-size="contain"}
 
-![Plantas e cortes do Kailaśanath em Ellora. Desenho em Henri Stierlin, *Índia hindu*](https://hcommons.org/app/uploads/sites/1002372/2021/09/stierlin-50-ellora_templo_16_kailasa.jpg){#fig:kailas-stierlin .full .slide-bg}
+::: full
+![Plantas e cortes do Kailaśanath em Ellora. Desenho em Henri Stierlin, *Índia hindu*](https://hcommons.org/app/uploads/sites/1002372/2021/09/stierlin-50-ellora_templo_16_kailasa.jpg){#fig:kailas-stierlin   .slide-bg}
+:::
 
 ## {data-background-image="https://i.pinimg.com/originals/73/33/45/733345f3f4f26e076c4e9931771b1020.jpg"}
 
@@ -792,7 +829,9 @@ Templo da orla, Mahaballipuram. Filmagem: [Rajinikanth, My Travelling Chronicles
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/Shore_temple_floor_plan_Mahabalipuram_Tamil_Nadu-2560px.png" data-background-size="contain"}
 
-![Templo da orla, Mahaballipuram, reino Pallava, primeiro quartel do século [VIII]{.smallcaps}. Planta: [Sarah Welch, 2021]](https://hcommons.org/app/uploads/sites/1002372/2021/09/Shore_temple_floor_plan_Mahabalipuram_Tamil_Nadu-2560px-v.png){#fig:shore-plan .line .align-right .slide-bg}
+::: align-right
+![Templo da orla, Mahaballipuram, reino Pallava, primeiro quartel do século [VIII]{.smallcaps}. Planta: [Sarah Welch, 2021]](https://hcommons.org/app/uploads/sites/1002372/2021/09/Shore_temple_floor_plan_Mahabalipuram_Tamil_Nadu-2560px-v.png){#fig:shore-plan .line   .slide-bg}
+:::
 
 [Sarah Welch, 2021]: https://commons.wikimedia.org/wiki/File:Shore_temple_floor_plan,_Mahabalipuram,_Tamil_Nadu.jpg
 
@@ -821,7 +860,9 @@ volume verticalizado muito marcante ([@fig:shore-vid]).
 
 ![o marco é convertido num pequeno oratório](https://hcommons.org/app/uploads/sites/1002372/2021/09/bharne_krusche-rediscovering_the_hindu_temple-2012-023-b.jpg){#fig:metaB .align-left .fragment .current-visible}
 
-![oratório ampliado com cobertura efêmera; o lugar se torna um ponto focal da comunidade](https://hcommons.org/app/uploads/sites/1002372/2021/09/bharne_krusche-rediscovering_the_hindu_temple-2012-023-c.jpg){#fig:metaC .align-right .fragment .current-visible}
+::: align-right
+![oratório ampliado com cobertura efêmera; o lugar se torna um ponto focal da comunidade](https://hcommons.org/app/uploads/sites/1002372/2021/09/bharne_krusche-rediscovering_the_hindu_temple-2012-023-c.jpg){#fig:metaC   .fragment .current-visible}
+:::
 
 ![o oratório é ampliado para se tornar um templo rudimentar](https://hcommons.org/app/uploads/sites/1002372/2021/09/bharne_krusche-rediscovering_the_hindu_temple-2012-023-d.jpg){#fig:metaD .fragment .current-visible}
 
@@ -979,7 +1020,9 @@ as formas tangíveis dos tipos edilícios a sete propósitos sociais
 abstratos ([@fig:7types]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types .full .nobg}
+::: full
+![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types   .nobg}
+:::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/Glossary_Palladio.png" data-background-size="contain"}
 
@@ -1009,7 +1052,9 @@ racionalização dos programas arquitetônicos a partir do conceito de
 
 ## {data-background-image="https://digi.ub.uni-heidelberg.de/diglitData/image/durand1802/1/Planche_54.jpg" data-background-position="top"}
 
-![Comparação de palácios romanos e genoveses dos séculos [XVI--XVIII]{.smallcaps}. Desenhados por [J.N.L. Durand, *Recueil et parallèle des édifices de tout genre...*, pr. 54]](https://digi.ub.uni-heidelberg.de/diglitData/image/durand1802/1/Planche_54.jpg){#fig:durand-rp054 .full}
+::: full
+![Comparação de palácios romanos e genoveses dos séculos [XVI--XVIII]{.smallcaps}. Desenhados por [J.N.L. Durand, *Recueil et parallèle des édifices de tout genre...*, pr. 54]](https://digi.ub.uni-heidelberg.de/diglitData/image/durand1802/1/Planche_54.jpg){#fig:durand-rp054}
+:::
 
 [J.N.L. Durand, *Recueil et parallèle des édifices de tout genre...*, pr. 54]: https://digi.ub.uni-heidelberg.de/diglit/durand1802/0056
 
@@ -1120,7 +1165,9 @@ elementos predefinidos.
 
 ## {data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain" data-background-position="left"}
 
-![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault .align-right}
+::: align-right
+![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esses elementos podem ser físicos, como as cinco *ordens* canônicas da
@@ -1225,7 +1272,9 @@ Rob Krier, *Architectural composition*, 1988
 
 ## {data-background-image="https://www.researchgate.net/profile/Michael-Batty/publication/237710153/figure/fig1/AS:669450969813009@1536620957549/Convex-sets-partitions-and-axial-lines-for-the-basic-T-shape_W640.jpg" data-background-size="contain"}
 
-![(a) Espaços convexos na teoria da sintaxe espacial. Desenho por [Michael Batty e Sanjay Rana]](https://www.researchgate.net/profile/Michael-Batty/publication/237710153/figure/fig1/AS:669450969813009@1536620957549/Convex-sets-partitions-and-axial-lines-for-the-basic-T-shape_W640.jpg){#fig:convex .align-right}
+::: align-right
+![(a) Espaços convexos na teoria da sintaxe espacial. Desenho por [Michael Batty e Sanjay Rana]](https://www.researchgate.net/profile/Michael-Batty/publication/237710153/figure/fig1/AS:669450969813009@1536620957549/Convex-sets-partitions-and-axial-lines-for-the-basic-T-shape_W640.jpg){#fig:convex}
+:::
 
 [Michael Batty e Sanjay Rana]: https://www.researchgate.net/publication/237710153_Environment_and_Planning_B_Planning_and_Design_2004_volume_31_pages_615640
 
