@@ -234,7 +234,9 @@ depender de placas.
 
 * * * *
 
-![Tipos de base e duplicações na edilícia de base do Mediterrâneo medieval, segundo Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:raddoppi .align-right .line}
+::: align-right
+![Tipos de base e duplicações na edilícia de base do Mediterrâneo medieval, segundo Caniggia](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:raddoppi   .line}
+:::
 
 * * * *
 
@@ -261,11 +263,15 @@ mercados, lojas permanentes e oficinas, mas também pode ser usada para
 escritórios administrativos que fiscalizam o dia-a-dia da sociedade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types .full .noborder}
+::: full
+![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types   .noborder}
+:::
 
 * * * *
 
-![Pórtico de Átalo na ágora de Atenas. Reconstituição do original da metade do século [II]{.smallcaps} a.C. segundo projeto de John Travlos e supervisão estrutural de Georgios Biris, 1953--1956. Foto: Pedro P. Palazzo, 2011](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gr-athina-stoa_attalos-110530-pp-4350.jpg/2560px-Gr-athina-stoa_attalos-110530-pp-4350.jpg){#fig:attalos-view .full}
+::: full
+![Pórtico de Átalo na ágora de Atenas. Reconstituição do original da metade do século [II]{.smallcaps} a.C. segundo projeto de John Travlos e supervisão estrutural de Georgios Biris, 1953--1956. Foto: Pedro P. Palazzo, 2011](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gr-athina-stoa_attalos-110530-pp-4350.jpg/2560px-Gr-athina-stoa_attalos-110530-pp-4350.jpg){#fig:attalos-view}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Podemos retroceder até os *stoa*, os pórticos das cidades gregas que
@@ -276,7 +282,9 @@ canônico é o pórtico de Átalo, uma obra do período helenístico.
 
 * * * *
 
-![Pórtico de Átalo. Planta do térreo: acervo da [American School of Classical Studies at Athens, cota 2008.20.0061][]](https://hcommons.org/app/uploads/sites/1002372/2021/10/ascsa-2008.20.0061.png){#fig:attalos-plans .line .full}
+::: full
+![Pórtico de Átalo. Planta do térreo: acervo da [American School of Classical Studies at Athens, cota 2008.20.0061][]](https://hcommons.org/app/uploads/sites/1002372/2021/10/ascsa-2008.20.0061.png){#fig:attalos-plans .line}
+:::
 
 [American School of Classical Studies at Athens, cota 2008.20.0061]: http://agora.ascsa.net/id/Agora/Image/2008.20.0061
 
@@ -303,7 +311,9 @@ península Ibérica no século [I]{.smallcaps}
 
 * * * *
 
-![Basílica de Semprônio, fórum Romano, 169 a.C. Reconstituição digital: [Susanne Muth, 2014][]](https://upload.wikimedia.org/wikipedia/commons/9/93/BasilicaSemproniaReconstruction.jpg){#fig:sempronia .full}
+::: full
+![Basílica de Semprônio, fórum Romano, 169 a.C. Reconstituição digital: [Susanne Muth, 2014][]](https://upload.wikimedia.org/wikipedia/commons/9/93/BasilicaSemproniaReconstruction.jpg){#fig:sempronia}
+:::
 
 [Susanne Muth, 2014]: https://commons.wikimedia.org/wiki/File:BasilicaSemproniaReconstruction.jpg
 

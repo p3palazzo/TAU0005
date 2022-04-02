@@ -21,7 +21,9 @@ header:
 
 . . .
 
-![Princípios vitruvianos](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvius-firmitas-utilitas-venustas.png){#fig:triade .line .align-right}
+::: align-right
+![Princípios vitruvianos](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvius-firmitas-utilitas-venustas.png){#fig:triade .line}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por que proporções estão sendo tratadas na parte do curso que se dedica
@@ -138,7 +140,9 @@ Reconstituição de prumos da Roma antiga segundo Jean-Pierre Adam
 
 * * * *
 
-![Jean-Jacques Lequeu, [Instrumentos de desenho arquitetônico][], 1782](https://gallica.bnf.fr/ark:/12148/btv1b7703014j/f1.highres){#fig:lequeu .align-right}
+::: align-right
+![Jean-Jacques Lequeu, [Instrumentos de desenho arquitetônico][], 1782](https://gallica.bnf.fr/ark:/12148/btv1b7703014j/f1.highres){#fig:lequeu}
+:::
 
 [Instrumentos de desenho arquitetônico]: https://gallica.bnf.fr/ark:/12148/btv1b7703014j/f1.item.r=lequeu
 
@@ -272,7 +276,9 @@ tradicionais.
 
 * * * *
 
-![Palácios nazarí, Alhambra, Granada, século [XIV]{.smallcaps}](https://hcommons.org/app/uploads/sites/1002372/2022/03/alhambra-nazari-plan-edificios-importantes.png){#fig:nazari-plan .line .full}
+::: full
+![Palácios nazarí, Alhambra, Granada, século [XIV]{.smallcaps}](https://hcommons.org/app/uploads/sites/1002372/2022/03/alhambra-nazari-plan-edificios-importantes.png){#fig:nazari-plan .line}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mais importante ainda do que a simetria bilateral da edificação inteira
@@ -379,7 +385,9 @@ do círculo.
 
 * * * *
 
-![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .align-right .line}
+::: align-right
+![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan   .line}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Tudo começa com um círculo. Alguns dos mais antigos abrigos permanentes
@@ -400,11 +408,15 @@ em pequenos depósitos rurais, como este chafurdão no Alentejo
 ([@fig:chafurdao]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Chafurdão no vale de Cales, Castelo de Vide, Alentejo, Portugal. [[ADER--AL]{.smallcaps}, 2014](http://www.outralentejo.org/galeria/castelo-de-vide_chafurdao-do-vale-de-cales/)](https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg){#fig:chafurdao .full}
+::: full
+![Chafurdão no vale de Cales, Castelo de Vide, Alentejo, Portugal. [[ADER--AL]{.smallcaps}, 2014](http://www.outralentejo.org/galeria/castelo-de-vide_chafurdao-do-vale-de-cales/)](https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg){#fig:chafurdao}
+:::
 
 * * * *
 
-![Esquema de proporções na fachada do palácio Farnese, Roma, 1534--1541. Antonio da Sangallo, o novo, e Miguel Ângelo Buonarroti, arquitetos. Croquis: [René Salas, 2018](https://www.instagram.com/p/BpcbxMCFGmh/)](https://i.pinimg.com/originals/c3/c4/35/c3c4352dcfc4ca33a941b7d39581fc00.jpg){#fig:farnese .align-right}
+::: align-right
+![Esquema de proporções na fachada do palácio Farnese, Roma, 1534--1541. Antonio da Sangallo, o novo, e Miguel Ângelo Buonarroti, arquitetos. Croquis: [René Salas, 2018](https://www.instagram.com/p/BpcbxMCFGmh/)](https://i.pinimg.com/originals/c3/c4/35/c3c4352dcfc4ca33a941b7d39581fc00.jpg){#fig:farnese}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O círculo é muito conveniente para organizar geometrias
@@ -510,7 +522,9 @@ quando se amplia ou se reduz o desenho.
 
 * * * *
 
-![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault .align-right}
+::: align-right
+![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O uso moderno e contemporâneo das proporções acabou seguindo essa mesma
@@ -556,7 +570,9 @@ f. Variantes da coluna
 
 ## Proporções clássicas ##
 
-![Detalhe da ordem dórica segundo Vinhola, edição de 1787](https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png){#fig:vignola .align-right .line}
+::: align-right
+![Detalhe da ordem dórica segundo Vinhola, edição de 1787](https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png){#fig:vignola   .line}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os tratados das ordens, como o do Vinhola no final do século
@@ -727,7 +743,9 @@ e ao longo das gerações que constroem uma obra.
 
 ## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm" data-background-video-muted="true"}
 
-![Stonehenge, Inglaterra, c. 2600 a.C., vista aérea. Filmagem: [Chris Ridley, 2015](https://commons.wikimedia.org/wiki/File:Stonehenge_at_Sunrise_-_by_Drone..webm)](https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm){#fig:stonehenge-drone .full .slide-bg}
+::: full
+![Stonehenge, Inglaterra, c. 2600 a.C., vista aérea. Filmagem: [Chris Ridley, 2015](https://commons.wikimedia.org/wiki/File:Stonehenge_at_Sunrise_-_by_Drone..webm)](https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm){#fig:stonehenge-drone   .slide-bg}
+:::
 
 <!--_-->
 
@@ -944,7 +962,9 @@ interpretação transcendental das proporções como espelho da natureza
 [@doczi:2008poder].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Proporções derivadas do quadrado. Acima: um quadrado e meio ou "quinta"; dois quadrados ou "oitava"; abaixo: retângulo gerado pela diagonal do quadrado e seção áurea; centro: proporções da casa kamayurá e traçado gerado pela meia diagonal do quadrado](https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png){#fig:proporcoes .line .full .slide-bg}
+::: full
+![Proporções derivadas do quadrado. Acima: um quadrado e meio ou "quinta"; dois quadrados ou "oitava"; abaixo: retângulo gerado pela diagonal do quadrado e seção áurea; centro: proporções da casa kamayurá e traçado gerado pela meia diagonal do quadrado](https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png){#fig:proporcoes .line   .slide-bg}
+:::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-18-scaled.jpg"}
 
@@ -958,11 +978,15 @@ quadrado, que determina a largura do vão central [@kamayura:2019manual].
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg" data-background-size="contain"}
 
-![Planta de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg){#fig:ok-planta .full .slide-bg}
+::: full
+![Planta de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg){#fig:ok-planta   .slide-bg}
+:::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg" data-background-size="contain"}
 
-![Corte de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg){#fig:ok-corte .full .slide-bg}
+::: full
+![Corte de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg){#fig:ok-corte   .slide-bg}
+:::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg" data-background-size="contain"}
 
@@ -970,7 +994,9 @@ quadrado, que determina a largura do vão central [@kamayura:2019manual].
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg" data-background-size="contain"}
 
-![Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional na Suíça: haus zum Ritter, Schaffhausen, 1487--1580; paço municipal da Basileia, 1504--1513; paço municipal de Lausanne, 1673--1675. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg){#fig:langhein2012-04-06 .full .slide-bg}
+::: full
+![Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional na Suíça: haus zum Ritter, Schaffhausen, 1487--1580; paço municipal da Basileia, 1504--1513; paço municipal de Lausanne, 1673--1675. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg){#fig:langhein2012-04-06   .slide-bg}
+:::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-07-08.jpg" data-background-size="contain"}
 
@@ -980,7 +1006,9 @@ quadrado, que determina a largura do vão central [@kamayura:2019manual].
 
 * * * *
 
-![Distância e detalhe, por Léon Krier](https://hcommons.org/app/uploads/sites/1002372/2022/03/krier-distance-detail.png){#fig:krier-detail .line .align-right}
+::: align-right
+![Distância e detalhe, por Léon Krier](https://hcommons.org/app/uploads/sites/1002372/2022/03/krier-distance-detail.png){#fig:krier-detail .line}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma última consideração importante diz respeito à escala dos elementos

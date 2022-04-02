@@ -100,17 +100,15 @@ arbítrio das intervenções europeias na China de então.
 * * * *
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
-::: {.column width=43%}
+::: {.column width=50%}
 ![Registros do historiador, edição japonesa do século [XIV]{.smallcaps} com pontuação e glosas de leitura (*kambun*). Acervo [Biblioteca Nacional Central de Taiwan](https://catalog.digitalarchives.tw/item/00/07/e9/9d.html)](https://image.digitalarchives.tw/ImageCache/00/07/8d/4a.jpg){#fig:shiji .stretch}
 :::
-::: {.column width=57%}
+::: {.column width=50%}
 ![Sima Qian](https://i.pinimg.com/originals/e2/62/b4/e262b449e066156897137f6414e1f0ed.png){#fig:sima-qian .stretch}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-* * * *
-
 A historiografia chinesa tradicional se baseava no modelo estabelecido
 pelo [*Registros do historiador*][] ([@fig:shiji]), um livro compilado no
 começo do século [I]{.smallcaps} a.C. por Sima Qian ([@fig:sima-qian]).
@@ -173,7 +171,9 @@ um conjunto de comunidades tribais não muito sofisticadas.
 
 * * * *
 
-![*Jue* (tripé para servir vinho), dinastia Xià, século [XVIII]{.smallcaps} a.C., bronze, pés reconstituídos. Museu de Shanghai. Foto: [H. Sondaz, 2013](https://commons.wikimedia.org/wiki/File:Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg/768px-Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg){#fig:xia-jue .align-right}
+::: align-right
+![*Jue* (tripé para servir vinho), dinastia Xià, século [XVIII]{.smallcaps} a.C., bronze, pés reconstituídos. Museu de Shanghai. Foto: [H. Sondaz, 2013](https://commons.wikimedia.org/wiki/File:Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg/768px-Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg){#fig:xia-jue}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mesmo assim, no final das contas, as descobertas arqueológicas feitas
@@ -244,7 +244,9 @@ no tempo, mas evoluir à semelhança de um ser vivo, percebendo também
 transformações construtivas, que não haviam sido notadas pelos europeus.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Ieoh Ming Pei, arquiteto, pirâmide do Louvre, Paris, 1984--1989. Foto: [Benh Lieu Song, 2010](https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1280px-Louvre_Museum_Wikimedia_Commons.jpg){#fig:louvre .full}
+::: full
+![Ieoh Ming Pei, arquiteto, pirâmide do Louvre, Paris, 1984--1989. Foto: [Benh Lieu Song, 2010](https://commons.wikimedia.org/wiki/File:Louvre_Museum_Wikimedia_Commons.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1280px-Louvre_Museum_Wikimedia_Commons.jpg){#fig:louvre}
+:::
 
 * * * *
 
@@ -260,7 +262,9 @@ dois tinham estudado na Universidade da Pensilvânia na década de 1920.
 
 * * * *
 
-![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch .align-right .line}
+::: align-right
+![Banister Fletcher, árvore da arquitetura, em *A History of Architecture on the Comparative Method*, 15.ª ed. (1950) ](https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png){#fig:treearch   .line}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O que estamos chamando aqui de teoria da "evolução orgânica do estilo"
@@ -572,7 +576,9 @@ semelhantes em outras culturas tradicionais.
 
 * * * *
 
-![Algumas das primeiras igrejas góticas na França, século [XII]{.smallcaps}. Amarelo escuro: extensão territorial do reino da França c. 1180; amarelo claro: domínio real](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/900px-Map_France_Gothic_1180.svg.png){#fig:gothic-1180 .align-right}
+::: align-right
+![Algumas das primeiras igrejas góticas na França, século [XII]{.smallcaps}. Amarelo escuro: extensão territorial do reino da França c. 1180; amarelo claro: domínio real](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/900px-Map_France_Gothic_1180.svg.png){#fig:gothic-1180}
+:::
 
 * * * *
 
