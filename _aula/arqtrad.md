@@ -16,9 +16,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg/1280px-Thomas_Cole\_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg
   caption: "Thomas Cole, Sonho do arquiteto, 1840. Fonte e maiores informações: [Google Arts and Culture ](https://artsandculture.google.com/story/thomas-cole-the-architect-s-dream/ggKi4X2yPzzOKw)"
-  actions:
-  - label: "Slides"
-    url: "/slides/arqtrad/"
 ---
 
 # História ou arquitetura #
@@ -1324,8 +1321,8 @@ consideram também o contraventamento para flambagem da própria estrutura
 e para cargas horizontais, como o vento ou terremotos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::: {#fig:sharaman .full .iframe-wrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ipz6u_24e8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+:::::::::::::::::::::::::::::::::::::::::::::: {#fig:sharaman .iframe-wrapper}
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/Ipz6u_24e8k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
 
 Construção de abóbada de tijolos em Puducherry, Índia. [Instituto Auroville, 2017](https://youtu.be/Ipz6u_24e8k)

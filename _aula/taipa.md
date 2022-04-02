@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg
   caption: "Thomas Cole, Decurso do império: [Estado arcádio ou pastoral](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg), 1836"
-  actions:
-  - label: "Slides"
-    url: "/slides/taipa/"
 ---
 
 # Materiais da construção tradicional
@@ -615,8 +612,6 @@ região. Os abrigos sazonais de caçadores-coletores atestados no Levante
 desde 12.800 a.C. [@bar-yosef:1989origins3] logo deram origem a
 assentamentos densos formados por células com estrutura em adobe
 [@rosenberg:2020720015].
-
-* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: full
