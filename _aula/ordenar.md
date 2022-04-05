@@ -216,12 +216,12 @@ Propriedades da arquitetura clássica segundo J. François Gabriel
 
 * * * *
 
-::::::::::::::::::::::::::::::::::::::::::: {#fig:deriva .full}
-<div class="r-stack">![*mégarōn* rural da Idade do Bronze](){#fig:derivaA .fragment .current-visible .align-left .line}
-![*mérgarōn* palaciano da Idade do Bronze](){#fig:derivaB .fragment .current-visible .align-left .line}
-![templo do período geométrico](){#fig:derivaC .fragment .current-visible .align-left .line}
-![templo próstilo do período arcaico](){#fig:derivaD .fragment .current-visible .align-left .line}
-![templo períptero do período arcaico](){#fig:derivaE .fragment .current-visible .align-left .line}</div>
+::::::::::::::::::::::::::::::::::::::::::: {#fig:deriva .full .third}
+<div class="r-stack">![*mégarōn* rural da Idade do Bronze](){#fig:derivaA .fragment .current-visible .line}
+![*mérgarōn* palaciano da Idade do Bronze](){#fig:derivaB .fragment .current-visible .line}
+![templo do período geométrico](){#fig:derivaC .fragment .current-visible .line}
+![templo próstilo do período arcaico](){#fig:derivaD .fragment .current-visible .line}
+![templo períptero do período arcaico](){#fig:derivaE .fragment .current-visible .line}</div>
 
 Processo tipológico reconstituído do templo grego clássico, baseado em
 Barbara Barletta
