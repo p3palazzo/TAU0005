@@ -5,6 +5,13 @@ item: "Atividade III"
 date: 2022-04-28
 header:
   overlay_image: https://i.pinimg.com/originals/87/b8/aa/87b8aa149e0d86c2e1f4f5a32fc755e7.jpg
+excerpt: >
+  Realizar um estudo analítico de uma edícula com um único ambiente
+  interno, compreendendo uma ordem clássica. A edícula será implantada
+  num espaço aberto, e deve ornar e dignificar o espaço público mediante
+  o uso correto e elegante dos elementos da arquitetura clássica. A
+  composição da prancha deve ressaltar as proporções e os detalhes da
+  arquitetura clássica.
 ---
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
