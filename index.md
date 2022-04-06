@@ -8,8 +8,8 @@ excerpt: >
 read_time: false
 toc: false
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg/1280px-Thomas_Cole\_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg
-  caption: "Thomas Cole, Sonho do arquiteto, 1840. Fonte e maiores informações: [Google Arts and Culture ](https://artsandculture.google.com/story/thomas-cole-the-architect-s-dream/ggKi4X2yPzzOKw)"
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
+  caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
 
 intro:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836-crop.jpg
