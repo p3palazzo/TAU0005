@@ -568,5 +568,16 @@ a edificação. Assim, o uso das ordens clássicas permitiria a
 explicitação dessa preocupação, através da resolução de tudo nos mínimos
 detalhes.
 
+## Obra grossa e acabamento ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Mediterrâneo antigo: pedras com talha preliminar são assentadas na sua
+  posição definitiva, e depois o detalhe é esculpido em todas de modo
+  contínuo para disfarçar as juntas: distinção pedreiro vs entalhador.
+- Mediterrâneo medieval: cada pedra é talhada separadamente na sua forma
+  final, às vezes por equipes diferentes, e assentada já na sua forma
+  final: pedreiro é entalhador.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Bibliografia # {- .allowframebreaks .unlisted}
 
