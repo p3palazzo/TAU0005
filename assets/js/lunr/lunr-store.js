@@ -66,7 +66,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Ordenar",
-        "excerpt":"Propriedades arquitetônicas Níveis de escala Padrões fortes Contorno Repetição alternada Espaço positivo Boa forma Simetrias locais Interligação e ambiguidade Contraste Gradientes Imperfeição Vazio Simplicidade e repouso Não-separação Princípios da arquitetura clássica Ao extrapolar os limites da bacia do Mediterrâneo, é possível observar a caracterização das regras de uma arquitetura erudita,...","categories": [],
+        "excerpt":"Propriedades arquitetônicas Segundo Christopher Alexander.The Nature of Order. Níveis de escala Escalas sucessivas com menos de uma ordem de grandeza entre elas. Padrões fortes Desenvolvimento do conceito avançado no livro Linguagem de padrõesAlexander et al., A Pattern Language. para uma avaliação não determinista. Contorno O contorno é um elemento de...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/ordenar/",
         "teaser": null
