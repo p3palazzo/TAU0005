@@ -154,6 +154,31 @@ references:
       given: Mário Júlio Teixeira
   type: book
 
+- id: alexander:1977pattern
+  author:
+    - family: Alexander
+      given: Christopher
+    - family: Ishikawa
+      given: Sara
+    - family: Silverstein
+      given: Murray
+    - family: Jacobson
+      given: Max
+    - family: Fiksdahl-King
+      given: Ingrid
+    - family: Angel
+      given: Shlomo
+  citation-key: alexander:1977pattern
+  event-place: New York
+  issued:
+    - year: 1977
+  language: en-US
+  publisher: Oxford University Press
+  publisher-place: New York
+  title: 'A pattern language: towns, buildings, construction'
+  title-short: A pattern language
+  type: book
+
 - id: alexander:2002nature
   author:
     - family: Alexander

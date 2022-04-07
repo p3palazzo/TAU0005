@@ -18,33 +18,121 @@ title-slide-attributes:
 
 # Propriedades arquitetônicas #
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Segundo Christopher Alexander [-@alexander:2002nature].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Níveis de escala ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Escalas sucessivas com menos de uma ordem de grandeza entre elas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Padrões fortes ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Desenvolvimento do conceito avançado no livro *Linguagem de padrões*
+[@alexander:1977pattern] para uma avaliação não determinista.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Contorno ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O contorno é um elemento de pleno direito. Toda arquitetura tradicional
+marca os elementos extremos --- dos lados, acima e abaixo --- com força.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Repetição alternada ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ambientes construídos tradicionais são tranquilos e interessantes porque
+repetem elementos semelhantes, mas não idênticos, com variações.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Espaço positivo ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Aquilo que chamamos de vazios e volumes espaciais, por oposição ao
+espaço contínuo e indeterminado do modernismo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Boa forma ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Cada elemento e vazio, por menor que seja, deve ser desenvolvido de modo
+a adquirir uma boa forma --- não necessariamente "interessante", muito
+menos inusitada ou agressivamente marcante.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Simetrias locais ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mais importante do que uma simetria bilateral rígida organizando toda a
+planta ou a fachada é uma composição equilibrada de elementos simétricos
+em escalas menores, e de articulações simétricas entre elementos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Interligação e ambiguidade ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Embora a clareza do contorno seja importante, uma transição gradual e
+articulada entre elementos ou espaços também o é. Essas duas
+características não são contraditórias, mas se reforçam mutuamente, uma
+vez que a interligação entre elementos adquire ela própria sua
+identidade como um contorno.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Contraste ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Contrastes tornam os espaços e as composições mais legíveis. Um bom
+contraste é como o das letras escuras de um texto sobre o papel branco:
+forte, mas sem ser escandaloso.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Gradientes ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A boa proporção entre contrastes e gradientes é uma das características
+mais importantes e mais difíceis de se realizar na composição
+arquitetônica.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Imperfeição ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Coisas feitas a mão têm mais "personalidade", costuma-se dizer. O
+cérebro humano tem prazer em identificar o produto de uma mão humana.
+Isso não significa afetar formas desconjuntadas de propósito, mas
+aceitar os pequenos ajustes de forma que resultam do trabalho artesanal.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Vazio ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O vazio é a razão de ser da arquitetura. Assim como o espaço vazio
+permite a realização de atividades (funcionais, simbólicas ou
+contemplativas), respeitar alguns vazios na superfície da construção
+traz repouso para os sentidos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Simplicidade e repouso ##
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A simplicidade é um valor que se atribui à arquitetura desde as teorias
+clássicas. Não significa fazer um minimalismo forçado, eliminando ou
+escondendo elementos importantes da concepção construtiva e da
+funcionalidade dos edifícios.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Não-separação ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O arquiteto moderno Auguste Perret dizia que o maior objetivo da
+arquitetura era produzir um edifício que parecesse sempre ter estado
+ali, pertencendo intimamente ao seu lugar mais do que ao momento
+passageiro em que ele foi produzido.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Princípios da arquitetura clássica #
 
@@ -128,12 +216,12 @@ Propriedades da arquitetura clássica segundo J. François Gabriel
 
 * * * *
 
-::::::::::::::::::::::::::::::::::::::::::: {#fig:deriva .full}
-<div class="r-stack">![*mégarōn* rural da Idade do Bronze](){#fig:derivaA .fragment .current-visible .align-left .line}
-![*mérgarōn* palaciano da Idade do Bronze](){#fig:derivaB .fragment .current-visible .align-left .line}
-![templo do período geométrico](){#fig:derivaC .fragment .current-visible .align-left .line}
-![templo próstilo do período arcaico](){#fig:derivaD .fragment .current-visible .align-left .line}
-![templo períptero do período arcaico](){#fig:derivaE .fragment .current-visible .align-left .line}</div>
+::::::::::::::::::::::::::::::::::::::::::: {#fig:deriva .full .third}
+<div class="r-stack">![*mégarōn* rural da Idade do Bronze](){#fig:derivaA .fragment .current-visible .line}
+![*mérgarōn* palaciano da Idade do Bronze](){#fig:derivaB .fragment .current-visible .line}
+![templo do período geométrico](){#fig:derivaC .fragment .current-visible .line}
+![templo próstilo do período arcaico](){#fig:derivaD .fragment .current-visible .line}
+![templo períptero do período arcaico](){#fig:derivaE .fragment .current-visible .line}</div>
 
 Processo tipológico reconstituído do templo grego clássico, baseado em
 Barbara Barletta
@@ -152,17 +240,6 @@ Barbara Barletta
   parte do processo de configurar a construção no seu sistema estrutural
   (mas nem sempre), nas suas proporções (sempre) e até os últimos
   detalhes (sobretudo da fachada e de espaços importantes).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Obra grossa e acabamento ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-- Mediterrâneo antigo: pedras com talha preliminar são assentadas na sua
-  posição definitiva, e depois o detalhe é esculpido em todas de modo
-  contínuo para disfarçar as juntas: distinção pedreiro vs entalhador.
-- Mediterrâneo medieval: cada pedra é talhada separadamente na sua forma
-  final, às vezes por equipes diferentes, e assentada já na sua forma
-  final: pedreiro é entalhador.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Continuidade ##

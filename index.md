@@ -24,9 +24,11 @@ intro:
     url       : "/aula/arqtrad/"
     btn_label : "25 de janeiro"
     btn_class : "btn btn--inverse btn--small"
+
+intro_atividade:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Киргизские_кибитки_на_реке_Чу-crop.jpg
     title     : "Atividade de nivelamento"
-    excerpt   : "Estudo analítico: a cabana primitiva"
+    excerpt   : "Cabana primitiva"
     url       : "/trabalho/cabana/"
     btn_label : "Entrega 3 de fevereiro"
     btn_class : "btn btn--inverse btn--small"
@@ -56,6 +58,8 @@ firmitas:
     url       : "/aula/arcos"
     btn_label : "22 de fevereiro"
     btn_class : "btn btn--inverse btn--small"
+
+firmitas_atividade:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres_-_NG.M.00426-021_-_National_Museum_of_Art_Architecture_and_Design-crop.jpg
     title     : "Atividade I"
     excerpt   : "Edículas vernáculas"
@@ -88,6 +92,8 @@ utilitas:
     url       : "/aula/proporcionar/"
     btn_label : "29 de março"
     btn_class : "btn btn--inverse btn--small"
+
+utilitas_atividade:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-hagia_sophia-29a_Coupe_longitudinale_et_vue_sur_latrium-crop.jpg
     title     : "Atividade II"
     excerpt   : "Composição com volumes"
@@ -120,6 +126,8 @@ venustas:
     url       : "/aula/urbanismo"
     btn_label : "26 de abril"
     btn_class : "btn btn--inverse btn--small"
+
+venustas_atividade:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/analytique-crop.jpg
     title     : "Atividade III"
     excerpt   : "Analítico com ordens clássicas"
@@ -142,23 +150,31 @@ venustas:
 
 ```{=html}
 {% include feature_row id="intro" %}
+
+{% include feature_row id="intro_atividade" type="right" %}
 ```
 
 # Elementos da construção #
 
 ```{=html}
 {% include feature_row id="firmitas" %}
+
+{% include feature_row id="firmitas_atividade" type="right" %}
 ```
 
 # Elementos de composição #
 
 ```{=html}
 {% include feature_row id="utilitas" %}
+
+{% include feature_row id="utilitas_atividade" type="right" %}
 ```
 
 # Fazer arquitetura #
 
 ```{=html}
 {% include feature_row id="venustas" %}
+
+{% include feature_row id="venustas_atividade" type="right" %}
 ```
 
