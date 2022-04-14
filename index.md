@@ -14,12 +14,12 @@ header:
 intro:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836-crop.jpg
     title     : "Processos da arquitetura"
-    excerpt   : "Ordem e lugar – Preferência temporal e local – Alegoria da cabana primitiva"
+    excerpt   : "Introdução à disciplina – Ordem e lugar – Preferência temporal e local – Alegoria da cabana primitiva"
     url       : "/aula/processos/"
     btn_label : "18 de janeiro"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Thomas_Cole_-_Architects_Dream_-_Google_Art_Project-crop.jpg
-    title     : "História e arquitetura tradicional"
+    title     : "História e arquitetura"
     excerpt   : "História ou arquitetura – Continuidade e ruptura – Arquitetura é construção – Construção tradicional e moderna"
     url       : "/aula/arqtrad/"
     btn_label : "25 de janeiro"
@@ -42,13 +42,13 @@ firmitas:
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836-crop.jpg
     title     : "Construção arquitravada"
-    excerpt   : "Tendas e cabanas – Colunas e vigas – Assoalhos e terraços – Da madeira à pedra"
+    excerpt   : "Tendas e cabanas – Colunas e vigas – Assoalhos e terraços – Transposição da madeira à pedra"
     url       : "/aula/arquitravada/"
     btn_label : "8 de fevereiro"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/994px-Giovanni_Paolo_Panini_–_Ancient_Rome-crop.jpg
     title     : "Construção murária"
-    excerpt   : "Princípios da construção murária – Arquitetura subtrativa – Materiais naturais e cozidos – Aparelhos de alvenaria"
+    excerpt   : "Princípios da construção murária – Arquitetura subtrativa – Materiais naturais e cozidos – Aparelhos"
     url       : "/aula/muraria/"
     btn_label : "15 de fevereiro"
     btn_class : "btn btn--inverse btn--small"
@@ -82,7 +82,7 @@ utilitas:
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Course_of_Empire_Desolation_1836-crop.jpg
     title     : "Volume"
-    excerpt   : "Espaço ou vazio – Volumetria e cultura – Tipos distributivos – Elementos de composição"
+    excerpt   : "Espaço ou vazio – Volumetria e cultura edilícia – Tipos distributivos – Elementos de composição"
     url       : "/aula/volumes/"
     btn_label : "22 de março"
     btn_class : "btn btn--inverse btn--small"
