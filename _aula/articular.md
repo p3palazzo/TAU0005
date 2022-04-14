@@ -95,13 +95,6 @@ propósitos. Essa hierarquia se reflete na altura das arquitraves (vigas
 mestras) que determinam o módulo da edificação como um todo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Pureza e poluição ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Aproximação às arquiteturas do sagrado: capitais móveis na China e no
-Japão, estruturas de culto temporárias ou periodicamente renovadas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ## Escalas ##
 
 <!-- Inserir aqui as notas da aula de 21/10/2021 -->
@@ -264,7 +257,7 @@ escritórios administrativos que fiscalizam o dia-a-dia da sociedade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: full
-![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types   .noborder}
+![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types   .nobg}
 :::
 
 * * * *
