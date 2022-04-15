@@ -3545,14 +3545,19 @@ references:
     - family: Fletcher
       given: Banister F.
   citation-key: fletcher:1961history
-  event-place: London
+  edition: '17'
+  editor:
+    - family: Cordingley
+      given: R. A.
+  event-place: New York
   issued:
     - year: 1961
   language: en-GB
-  publisher: University of London
-  publisher-place: London
+  publisher: Charles Scribner’s Sons
+  publisher-place: New York
   title: History of architecture on the comparative method
   type: book
+  URL: https://archive.org/details/historyofarchite0000flet/
 
 - id: fletcher:2020introduction1
   accessed:
