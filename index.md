@@ -146,7 +146,7 @@ venustas_atividade:
 6. [Que materiais você precisa ter para fazer as atividades ?](_trabalho/materiais.md) <!--_-->
 6. [Como vamos avaliar o seu aproveitamento ?](_plano/avalia.md) <!--_-->
 
-# Arquitetura tradicional #
+# Introdução #
 
 ```{=html}
 {% include feature_row id="intro" %}
