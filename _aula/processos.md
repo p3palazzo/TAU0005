@@ -13,6 +13,11 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
   caption: "Thomas Cole, Decurso do império: [Estado selvagem](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg), 1834"
+sidebar:
+  - title: "Leitura básica"
+    text : "*História da arquitetura mundial* Introdução"
+  - title: "Leitura complementar"
+    text : "Vitrúvio livro I"
 ---
 
 # Ordem e lugar #

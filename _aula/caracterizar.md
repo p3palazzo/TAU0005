@@ -6,8 +6,8 @@ author  : Pedro P. Palazzo
 date    : 2022-04-26
 excerpt: >
   Cultura arquitetônica –
-  Literacia –
-  Decoro –
+  Decoro e convenção –
+  Teoria da arquitetura –
   Economia da construção
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg/2560px-Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg
@@ -327,7 +327,9 @@ linha de desenvolvimento e decrepitude, mostrando-se claramente com um
 meio de argumentação em prol de um arquitetura esteticamente moderna.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Literacia #
+# Decoro e convenção #
+
+## Literacia arquitetônica ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nir Haim Buras advoga um conjunto de conhecimentos mínimos para
@@ -360,8 +362,6 @@ constituir uma literacia arquitetônica [@buras:2019art]:
 
 * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-# Decoro #
 
 ## Do diagrama à articulação ##
 
@@ -450,18 +450,20 @@ classificação funcional em quatro tipos:
 4. Separação
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Querela do ornamento ##
+# Teoria da arquitetura #
+
+## Ornamento e construção românica ##
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:philibert}
 ::: {.column width=49.5%}
-![mau arquiteto](https://i.pinimg.com/originals/e6/a3/20/e6a320b591ac098128177fb2117fd19b.jpg){#fig:philibertA}
+![](https://i.pinimg.com/originals/e6/a3/20/e6a320b591ac098128177fb2117fd19b.jpg)
 :::
 ::: {.column width=50.5%}
-![bom arquiteto](https://i.pinimg.com/originals/84/61/fd/8461fd0351343dc6750786e7872da123.gif){#philibertB}
+![](https://i.pinimg.com/originals/84/61/fd/8461fd0351343dc6750786e7872da123.gif)
 :::
-Philibert De L'Orme, alegorias (1556)
+Philibert De L'Orme, alegorias do mau e do bom arquiteto (1556)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -480,29 +482,105 @@ feito na França do século [XII]{.smallcaps}.
 ![Abadia de Cluny, estágio III, século [XII]{.smallcaps}. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/cluny/) baseada em Kenneth J. Conant](https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg){#fig:cluny}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No século [XII]{.smallcaps}, começam a surgir algumas
+No século [XII]{.smallcaps}, começam a acontecer algumas
 mudanças importantes, com destaque para a afirmação de uma intenção
 arquitetônica, principalmente, nos projetos de igrejas. Alguns abades e
-monges importantes começam a escrever sobre essa temática, como São Bernardo
-de Claraval e Pedro, o venerável (abade de Cluny, na França, uma igreja
-muito rica e com o interior bastante decorado). Bernardo de Claraval
+monges importantes começam a escrever sobre essa temática, como São
+Bernardo de Claraval e Pedro, o venerável. Pedro era abade de Cluny, na
+França, uma igreja muito rica e com o interior bastante decorado
+([@fig:cluny]). Bernardo de Claraval, por sua vez,
 iria fundar a igreja da Abadia de Fontenay (na Borgonha, França), que
 conta com uma arquitetura extremamente despojada e simplificada
-[@rudolph:1988bernard27].
-
-O abade Bernardo argumentava que a ornamentação
-excessiva era ruim, pois chamava a atenção para a riqueza material da
-igreja e distraía os monges de sua devoção. Em contrapartida, Pedro, o
-venerável rebateu essa argumentação, gerando uma disputa estética e
-teológica e criando uma discussão pioneira de como a arquitetura deveria
-ser feita. Assim, a própria Igreja abre esse debate sobre a necessidade
-ou não da ornamentação e sobre o que é mais importante na arquitetura: a
-decoração, o espaço, a estrutura ou os volumes.
+([@fig:fontenay]) [@rudolph:1988bernard27].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
-![Nave da igreja da abadia de Fontenay, Borgonha, 1130--1147](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg){#fig:fontenay}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Vista isométrica ascendente da igreja de Santo Andóquio, Saulieu (Borgonha), final do século [XI]{.smallcaps}. Desenho: [Auguste Choisy, 1899][]](https://hcommons.org/app/uploads/sites/1002372/2022/04/Histoire_de_larchitecture_Tome_2_Choisy_Auguste_bpt6k6584016q_232.png){#fig:saulieu .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As duas igrejas são representativas da arquitetura que conhecemos hoje
+em dia como românica. Essa arquitetura tem como principais
+características o uso de abóbadas de berço ou ogivais na nave central,
+reforçadas com nervuras transversais, e abóbadas de aresta nas naves
+laterais ([@fig:saulieu]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os pilares e as nervuras das construções românicas geralmente são
+formados por feixes, como na nave da Sé de Lisboa ([@fig:lx-nave]).
+Esses feixes correspondem às diferentes direções nas quais as cargas se
+distribuem. Além disso, os arcos compostos permitem fazer um cimbramento
+mais econômico.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Nave central da Sé de Lisboa, iniciada 1147. Foto: [Robert Scarth, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lisboa_IMG_2578_(27497607573).jpg/2560px-Lisboa_IMG_2578_(27497607573).jpg){#fig:lx-nave}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Robert Scarth, 2016]: https://commons.wikimedia.org/wiki/File:Lisboa_IMG_2578_(27497607573).jpg
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Claustro da abadia de Fontenay (Borgonha), século [XII]{.smallcaps}. Foto: [Zairon, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Marmagne_Abtei_Fontenay_Kreuzgang_6.jpg/1024px-Marmagne_Abtei_Fontenay_Kreuzgang_6.jpg){#fig:fontenay-cloitre}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Zairon, 2016]: https://commons.wikimedia.org/wiki/File:Marmagne_Abtei_Fontenay_Kreuzgang_6.jpg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Como já vimos no caso da arquitetura bizantina, os exteriores dos
+edifícios românicos são em geral bastante austeros e pouco rígidos
+ponto de vista da regularidade formal e da simetria
+([@fig:fontenay-cloitre]). A preocupação maior dos arquitetos do período
+românico era com a regularidade e a ornamentação dos interiores.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Querela do ornamento ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mas, para o abade Bernardo de Claraval, até mesmo a ornamentação
+excessiva nos interiores era ruim, pois chamava a atenção para a riqueza
+material da igreja e distraía os monges de sua devoção. Por isso, ele
+defendia que os mosteiros fossem muito despojados. Bernardo pôs a sua
+ideologia em prática na abadia de Fontenay, que ele fundou no começo do
+século [XII]{.smallcaps} ([@fig:fontenay]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Nave da igreja da abadia de Fontenay (Borgonha), 1130--1147. Foto: [Myrabella, 2014][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg){#fig:fontenay}
+
+[Myrabella, 2014]: https://commons.wikimedia.org/wiki/File:Abbaye_Fontenay_eglise_interieur.jpg
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::: {#fig:chapiteaux .columns}
+::: {.column width=50%}
+![Cluny. Foto: [Andrzej Otrębski, 2018][]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cluny_opactwo_27.jpg/512px-Cluny_opactwo_27.jpg){#fig:chapiteauxA}
+:::
+::: {.column width=50%}
+![Fontenay. Foto: [GO69, 2020][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Marmagne_(21)_Abbaye_de_Fontenay_-_Abbatiale_-_Chapiteau_-_04.jpg/512px-Marmagne_(21)_Abbaye_de_Fontenay_-_Abbatiale_-_Chapiteau_-_04.jpg){#fig:chapiteauxB}
+:::
+Capitéis nas igrejas das abadias da Borgonha, século [XII]{.smallcaps}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Andrzej Otrębski, 2018]: https://commons.wikimedia.org/wiki/File:Cluny_opactwo_27.jpg
+
+[GO69, 2020]: https://commons.wikimedia.org/wiki/File:Marmagne_(21)_Abbaye_de_Fontenay_-_Abbatiale_-_Chapiteau_-_04.jpg
+
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em contrapartida, Pedro, o venerável rebateu essa argumentação, gerando
+uma disputa estética e teológica e criando uma discussão pioneira de
+como a arquitetura deveria ser feita. Assim, a própria Igreja abre esse
+debate sobre a necessidade ou não da ornamentação e sobre o que é mais
+importante na arquitetura: a decoração, o espaço, a estrutura ou os
+volumes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
@@ -510,9 +588,31 @@ decoração, o espaço, a estrutura ou os volumes.
 ![Algumas das primeiras igrejas góticas na França, século [XII]{.smallcaps}. Amarelo escuro: extensão territorial do reino da França c. 1180; amarelo claro: domínio real](https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/900px-Map_France_Gothic_1180.svg.png){#fig:gothic-1180}
 :::
 
-* * * *
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O debate entre os abades Bernardo e Pedro é um dos primeiros registros
+que temos de discussão sobre o *conteúdo* de uma teoria da arquitetura,
+em vez de uma simples preocupação com a qualidade da sua *execução*.
+Essa mudança sinaliza um novo modo de pensar a disciplina da arquitetura
+--- não só como um trabalho técnico que pode ser bem ou mal feito, mas
+como uma disciplina intelectual que tem um conteúdo teórico sujeito a
+discussões e desavenças entre pensadores. Não custa lembrar que nem São
+Bernardo, nem Pedro, o venerável eram arquitetos, mas isso não os
+impediu de formularem posicionamentos críticos sobre a arquitetura.
 
-![Abadia de S. Dionísio (Saint-Denis), igreja concebida pelo abade Suger e construída 1122--1151. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/saint-denis/)](https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg){#fig:sdenis-golvin}
+Essa visão da arquitetura como disciplina teórica foi ganhando força com
+o desenvolvimento da arquitetura que hoje em dia conhecemos como gótica.
+A arquitetura gótica é um dos primeiro movimentos arquitetônicos com uma
+genealogia conhecida; ela se formou na região de Paris durante a
+primeira metade do século [XII]{.smallcaps} e, daí, se espalhou pela
+Europa nos séculos [XIII]{.smallcaps} e [XIV]{.smallcaps}
+[@choisy:1899histoire2] ([@fig:gothic-1180]).
+
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Luz e arquitetura gótica ##
+
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A partir do questionamento sobre o que se quer da arquitetura, surge uma
@@ -522,24 +622,60 @@ da França), através de abadia real de São Dionísio ou Saint-Denis
 inclinações arquitetônicas e literárias, sendo contemporâneo de Bernardo
 de Claraval. Por conseguinte, também entra no debate sobre o ornamento,
 tentando resolvê-lo de uma forma muito interessante para o
-desenvolvimento da arquitetura daí em diante. Argumenta que seria
-necessário reduzir a quantidade de ornamentação física na igreja, pois
-esculturas, pinturas, etc. são elementos materiais que prendem o
-espírito a tudo o que é terreno. Porém, isso não se aplica ao vidro,
-pois ele transmite uma imagem por meio da luz, que é divina, tornando
-esse artifício imune ou presente em um plano superior aos ornamentos
-pintados ou esculpidos. 
+desenvolvimento da arquitetura daí em diante.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Ressalta-se que, essa forma de pensamento só é possível, pois os
-franceses haviam desenvolvido uma tecnologia para construir grandes
-vitrais (janelas de vidro colorido) nesse período. Utilizavam uma
-caixilharia feita de chumbo para segurar os vidros, que oferecia uma
-estrutura suficientemente flexível para evitar rachaduras, mesmo em
-grandes extensões. Outro fator que contribuiu para o processo foi o
-desenvolvimento de uma tecnologia, que permitia a construção de janelas
-mais amplas nas paredes. Destaca-se, por fim, que tais desenvolvimentos
-técnicos poderiam até parecer neutros, mas também foram muito utilizados
-do ponto de vista ideológico.
+![Abadia de S. Dionísio (Saint-Denis), igreja concebida pelo abade Suger e construída 1122--1151. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/saint-denis/)](https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg){#fig:sdenis-golvin}
+
+* * * *
+
+![Anunciação com retrato do abade Suger prostrado, basílica de S. Dionísio, século [XII]{.smallcaps}. Foto: [Vassil, 2010][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Vitraux_Saint-Denis_190110_19.jpg/704px-Vitraux_Saint-Denis_190110_19.jpg){#fig:suger}
+
+[Vassil, 2010]: https://commons.wikimedia.org/wiki/File:Vitraux_Saint-Denis_190110_19.jpg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Suger ([@fig:suger]) concordava com São Bernardo no sentido de que as
+igrejas não deveriam ter muita ornamentação esculpida e pintada, já que
+essas figuras são elementos materiais que prendem o espírito a tudo o
+que é terreno. Porém, isso não se aplica ao vidro, pois ele transmite
+uma imagem por meio da luz. Suger seguia uma teoria de que Deus era luz,
+já que a luz foi o primeiro elemento da Criação bíblica. Por isso, a luz
+do sol era divina, tornando esse artifício imune ou presente em um plano
+superior aos ornamentos pintados ou esculpidos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Imperador em majestade, dito Carlos Magno, num vitral da catedral de Estrasburgo, século [XII]{.smallcaps}. Foto: [Rama, 2006][]](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Musee-de-l-Oeuvre-Notre-Dame-Strasbourg-IMG_1465_crop.JPG/392px-Musee-de-l-Oeuvre-Notre-Dame-Strasbourg-IMG_1465_crop.JPG){#fig:charlemagne}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Rama, 2006]: https://commons.wikimedia.org/wiki/File:Musee-de-l-Oeuvre-Notre-Dame-Strasbourg-IMG_1465_crop.JPG
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Usar a luz como ornamento era possível desde que a tecnologia do vitral
+colorido e translúcido tinha sido aprimorada na Itália do século
+[IX]{.smallcaps} e, de lá, sido difundida para a França no século
+[XI]{.smallcaps}. Os vitrais dessa época eram feitos com algumas
+esquadrias em ferro, mas as peças de vidro eram separadas por caixilhos
+em chumbo. O chumbo é um metal com um coeficiente de expansão térmica
+muito menor do que a do ferro, mas muito mais flexível que o ferro.
+Graças aos caixilhos em chumbo, os vitrais podiam se acomodar no
+assentamento da edificação sem estourar os vidros. Várias igrejas
+românicas já usavam vitrais ([@fig:charlemagne]) quando Suger propôs que
+as figuras em vitrais poderiam substituir a decoração esculpida ou
+pintada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Quando assumiu a abadia de S. Dionísio em 1122, Suger já tinha,
+portanto, a tecnologia do vitral para realizar o seu ideal de uma
+ornamentação inteiramente baseada na luz. Ele juntou essa tecnologia com
+o desenvolvimento estrutural das abóbadas nervuradas para poder fazer
+janelas cada vez maiores e eliminar, assim, a maior parte das
+superfícies pintadas e esculpidas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Leis suntuárias ##
@@ -787,4 +923,6 @@ também ganha eficiência e previsibilidade [@toker:1985gothic67].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Bibliografia {- .unlisted .allowframebreaks}
+
+[Auguste Choisy, 1899]: https://gallica.bnf.fr/ark:/12148/bpt6k6584016q/
 
