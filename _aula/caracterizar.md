@@ -452,91 +452,27 @@ classificação funcional em quatro tipos:
 
 ## Querela do ornamento ##
 
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:philibert}
+::: {.column width=49.5%}
+![mau arquiteto](https://i.pinimg.com/originals/e6/a3/20/e6a320b591ac098128177fb2117fd19b.jpg){#fig:philibertA}
+:::
+::: {.column width=50.5%}
+![bom arquiteto](https://i.pinimg.com/originals/84/61/fd/8461fd0351343dc6750786e7872da123.gif){#philibertB}
+:::
+Philibert De L'Orme, alegorias (1556)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Atualmente, o que se tende a estudar da tradição europeia, em uma
-perspectiva cada vez mais histórica de sua arquitetura, é uma série de
-ideias e de modos de fazê-la e suas formas de transformação no tempo,
-sem a necessidade do estabelecimento de um percurso pré-determinado. 
-
-Isso conduz o olhar para algumas questões específicas da arquitetura
-europeia medieval, que oferecem interessantes perspectivas para a
-compreensão de como se atingiu uma certa cultura arquitetônica moderna.
-Esta, inclusive, está na origem da cultura arquitetônica brasileira
-atual, reforçando seu valor para estudo. Tal cultura da arquitetura
-medieval na Europa interessa também por uma série de soluções
-tecnológicas e construtivas e por certas ideias e maneiras de organizar
-a produção arquitetônica surgidas nesse período. Reforça-se ainda que é
-fundamental abandonar a concepção dessa arquitetura como resultado da
-morte daquela que foi realizada anteriormente (no período clássico),
-pois existe uma série de transformações graduais em sua produção. 
-
-Um exemplo disso é mudança das chamadas "basílicas", que podem ser
-enquadradas na tipologia das tabernas de Westfall. Trata-se de uma forma
-essencialmente voltada para o bem-estar econômico da sociedade, que pode
-abrigar um mercado ou edifício administrativo cotidiano da cidade (como
-os pórticos gregos), funcionando quase que como um diagrama. Esse
-conceito de pórtico grego vai dar origem ou relacionar-se a um tipo
-similar, que é o da basílica romana. Nos fóruns do Império Romano, por
-exemplo, haverá configurações muito semelhantes a uma grande taberna,
-que abriga um espaçoso pórtico de mercado de um lado e, do outro, um
-edifício alongado com colunas internas.
-
-Esse último é a basílica
-destinada à reunião de público em aglomerações organizadas ou não, mas
-em uma perspectiva muito distante da visão funcionalista moderna. Ela
-funcionaria como uma espécie de centro de convenções contemporâneo, mas
-que não depende da colocação ou retirada de divisórias e mobiliários
-para ser utilizada de diferentes maneiras. A associação da basílica com
-a taberna vai se tornar uma espécie de padrão no mundo romano, através
-da confirmação desse grande salão de congregação com espaços comerciais,
-a exemplo da Basílica Ulpia no Fórum de Trajano, formando um complexo de
-vários edifícios polivalentes. 
-
-A partir do século [IV]{.smallcaps}, esse propósito social da basílica
-começa a se transformar. Assim, um edifício como esse vai se tornar um
-tipo de salão do trono no período do imperador Constantino, por exemplo,
-quando este começa a ser visto como uma semi-divindade com autoridade
-absoluta. Desse modo, o que era um espaço de congregação livre, passa a
-ter um propósito único: estar na presença do imperador. A partir daí,
-sua forma vai ser cooptada pela arquitetura cristã, pois suas funções de
-reunir pessoas e ter uma destinação singular tornam-na ideal para seu
-culto. Ainda que a prática religiosa cristã seja diferente da romana
-tradicional, alguns de seus templos serão convertidos em igrejas, sendo
-a basílica sua forma preferencial. 
-
-Desse modo, encontra-se uma configuração relativamente padrão nesse
-grande salão com colunatas e um espaço central mais alto, que vai se
-transformar na sua axialidade, passando a ser acessado pelo lado mais
-curto e a ter uma perspectiva dominante voltada para o santuário ou
-altar. Essa forma vai acabar desdobrando-se em edificações mais sumárias
-e simples, que vão acompanhar a difusão do cristianismo em todas as
-comunidades da Europa medieval, inclusive rurais. 
-
-Destaca-se que esse não é um processo guiado por um objetivo histórico
-de desenvolvimento das soluções construtivas ou de uma certa
-funcionalidade, reforçando-se também que ele não irá implicar em
-transformações súbitas na configuração arquitetônica. Sua função muda
-rapidamente, mas sua forma vai se transformando muito lentamente.
-Ressalta-se ainda que existirão elementos remanescentes nesse ínterim,
-como a configuração da basílica com três naves (uma central mais alta e
-as laterais mais baixas), o uso eventual de abóbadas e a adoção de
-soluções arquitetônicas e construtivas romanas clássicas, que vão se
-transformando paulatinamente, conforme mudanças de gosto e localização
-geográfica. 
-
-Nas proximidades da península Ibérica, na igreja da abadia de Sant
-Miquel de Cuixà, por exemplo, mantém-se uma lógica muito elementar da
-basílica com três naves, arcadas e colunas romanas, com uma construção
-quase inteiramente feita em pedra (cantaria e aparelhada). 
-
-O mesmo processo é observado na arquitetura residencial, que também vai
-se transformando a partir do modelo da casa ou da fazenda romanas para
-atingir soluções como a casa salão (Europa do norte) e a casa geminada
-(na Europa ocidental mediterrânea).
-
-Essas transformações não dizem respeito ao fim da arquitetura clássica,
-sendo necessário criar algo para substituí-la, mas sim a um processo que
-vai se desenrolando gradualmente sem grande intencionalidade. 
+O conhecimento disciplinar da arquitetura no mundo antigo era um corpo
+de saberes mais ou menos definido. Quando Vitrúvio distinguia os bons
+arquitetos dos maus ([@fig:philibert]), ele estava se referindo ao
+domínio de competências técnicas, científicas e literárias, ou à falta
+desse domínio. Nem Vitrúvio, nem outros autores antigos como Varrão ou
+Plínio, o velho, pensavam em debater o *conteúdo* desse conhecimento
+disciplinar. Pois é exatamente esse debate de conteúdo que começa a ser
+feito na França do século [XII]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -544,17 +480,19 @@ vai se desenrolando gradualmente sem grande intencionalidade.
 ![Abadia de Cluny, estágio III, século [XII]{.smallcaps}. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/cluny/) baseada em Kenneth J. Conant](https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg){#fig:cluny}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Entretanto, no século [XII]{.smallcaps}, começam a surgir algumas
+No século [XII]{.smallcaps}, começam a surgir algumas
 mudanças importantes, com destaque para a afirmação de uma intenção
 arquitetônica, principalmente, nos projetos de igrejas. Alguns abades e
-monges importantes começam a escrever sobre essa temática, como Bernardo
+monges importantes começam a escrever sobre essa temática, como São Bernardo
 de Claraval e Pedro, o venerável (abade de Cluny, na França, uma igreja
-muito rica e com o interior bastante decorado). Já Bernardo de Claraval
-irá fundar a igreja da Abadia de Fontenay (na Borgonha, França), que
+muito rica e com o interior bastante decorado). Bernardo de Claraval
+iria fundar a igreja da Abadia de Fontenay (na Borgonha, França), que
 conta com uma arquitetura extremamente despojada e simplificada
-[@rudolph:1988bernard27]. O abade argumentava que a ornamentação
+[@rudolph:1988bernard27].
+
+O abade Bernardo argumentava que a ornamentação
 excessiva era ruim, pois chamava a atenção para a riqueza material da
-igreja e distraia os monges de sua devoção. Em contrapartida, Pedro, o
+igreja e distraía os monges de sua devoção. Em contrapartida, Pedro, o
 venerável rebateu essa argumentação, gerando uma disputa estética e
 teológica e criando uma discussão pioneira de como a arquitetura deveria
 ser feita. Assim, a própria Igreja abre esse debate sobre a necessidade
@@ -565,14 +503,6 @@ decoração, o espaço, a estrutura ou os volumes.
 * * * *
 
 ![Nave da igreja da abadia de Fontenay, Borgonha, 1130--1147](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg){#fig:fontenay}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Ressalta-se, nesse ponto, que Vitrúvio falava sobre o que o arquiteto
-precisava saber, possivelmente em uma forma singular de concepção
-arquitetônica, e não a forma correta de se fazer arquitetura, que agora
-se abre a múltiplas possibilidades, não havendo registros de debates
-semelhantes em outras culturas tradicionais. 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 

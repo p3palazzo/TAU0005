@@ -238,12 +238,30 @@ depender de placas.
 ## Composição: a basílica ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Um bom exemplo para se entender a importância da indicação é a basílica.
-Na Itália antiga, mais ou menos do século [VI]{.smallcaps} a.C. até o
-século [III]{.smallcaps} d.C., a basílica é um tipo de edifício cívico
-com várias funções administrativas e econômicas. Mas, a partir do século
-[IV]{.smallcaps} d.C., o tipo da basílica começa a ser usado também para
-construir os edifícios de culto do cristianismo.
+Atualmente, o que se tende a estudar da tradição europeia, em uma
+perspectiva cada vez mais histórica de sua arquitetura, é uma série de
+ideias e de modos de fazê-la e suas formas de transformação no tempo,
+sem a necessidade do estabelecimento de um percurso pré-determinado. 
+
+Isso conduz o olhar para algumas questões específicas da arquitetura
+europeia medieval, que oferecem interessantes perspectivas para a
+compreensão de como se atingiu uma certa cultura arquitetônica moderna.
+Esta, inclusive, está na origem da cultura arquitetônica brasileira
+atual, reforçando seu valor para estudo. Tal cultura da arquitetura
+medieval na Europa interessa também por uma série de soluções
+tecnológicas e construtivas e por certas ideias e maneiras de organizar
+a produção arquitetônica surgidas nesse período. Reforça-se ainda que é
+fundamental abandonar a concepção dessa arquitetura como resultado da
+morte daquela que foi realizada anteriormente (no período clássico),
+pois existe uma série de transformações graduais em sua produção. 
+
+Um bom exemplo para se entender a importância da associação entre
+indicação e composição é a basílica. Na Itália antiga, mais ou menos do
+século [VI]{.smallcaps} a.C. até o século [III]{.smallcaps} d.C., a
+basílica é um tipo de edifício cívico com várias funções administrativas
+e econômicas. Mas, a partir do século [IV]{.smallcaps} d.C., o tipo da
+basílica começa a ser usado também para construir os edifícios de culto
+do cristianismo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -254,6 +272,16 @@ representa o propósito social de suster a comunidade por meio da
 atividade econômica [@westfall:1991building]: ela abriga, por exemplo,
 mercados, lojas permanentes e oficinas, mas também pode ser usada para
 escritórios administrativos que fiscalizam o dia-a-dia da sociedade.
+
+Trata-se de uma forma
+essencialmente voltada para o bem-estar econômico da sociedade, que pode
+abrigar um mercado ou edifício administrativo cotidiano da cidade (como
+os pórticos gregos), funcionando quase que como um diagrama. Esse
+conceito de pórtico grego vai dar origem ou relacionar-se a um tipo
+similar, que é o da basílica romana. Nos fóruns do Império Romano, por
+exemplo, haverá configurações muito semelhantes a uma grande taberna,
+que abriga um espaçoso pórtico de mercado de um lado e, do outro, um
+edifício alongado com colunas internas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: full
@@ -310,7 +338,39 @@ península Ibérica no século [I]{.smallcaps}
 
 [Susanne Muth, 2014]: https://commons.wikimedia.org/wiki/File:BasilicaSemproniaReconstruction.jpg
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A basílica romana clássica é
+destinada à reunião de público em aglomerações organizadas ou não, mas
+em uma perspectiva muito distante da visão funcionalista moderna. Ela
+funcionaria como uma espécie de centro de convenções contemporâneo, mas
+que não depende da colocação ou retirada de divisórias e mobiliários
+para ser utilizada de diferentes maneiras.
+
+Começando com as basílicas Emília e Semprônia, no século
+[II]{.smallcaps} a.C., vemos uma nova dinâmica dar forma a esse tipo
+edilício. Mais do que responder a necessidades materiais e utilitárias
+da sociedade romana, as basílicas começam a ser construídas como
+instrumentos de propaganda. Os políticos da República romana faziam
+essas obras públicas como forma de demonstrar beneficência; a
+monumentalidade das naves da basílica passa então a ser cada vez mais
+importante do que a utilidade das tabernas acopladas, como é o caso na
+basílica Semprônia ([@fig:sempronia]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A associação da basílica com a taberna, mas mais ainda a preeminência da
+basílica sobre a taberna,
+vai se tornar uma espécie de padrão no mundo romano, através
+da confirmação desse grande salão de congregação com espaços comerciais,
+a exemplo da Basílica Ulpia no Fórum de Trajano ([@fig:ulpia-elv]),
+formando um complexo de vários edifícios polivalentes
+([@fig:traiano-plan]). A *indicação* visual da importância da basílica
+se associa cada vez mais à complexidade da *composição* espacial para
+compatibilizar vários edifícios e propósitos num mesmo conjunto
+monumental.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Basílica Úlpia no fórum de Trajano, Roma, 105--107 d.C. Desenho: [Julien Guadet, 1867][]](https://upload.wikimedia.org/wikipedia/commons/6/62/Basilica_Ulpia_J_Guadet_1867.jpg){#fig:ulpia-elv}
 
@@ -324,6 +384,14 @@ península Ibérica no século [I]{.smallcaps}
 
 * * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A importância política que tem a monumentalidade da basílica cresce em
+paralelo com o papel da *indicação*. O que a indicação faz é articular
+plasticamente a importância do edifício no espaço público, por meio da
+riqueza das ordens clássicas e do programa escultórico associado
+([@fig:ulpia-sec]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ![Corte perspectivado da basílica Úlpia](https://i.pinimg.com/originals/bc/bc/3b/bcbc3b5685a9633bcd74c2ed003c642d.jpg){#fig:ulpia-sec}
 
 * * * *
@@ -332,7 +400,27 @@ península Ibérica no século [I]{.smallcaps}
 
 [Berthold Werner, 2008]: https://commons.wikimedia.org/wiki/File:Trier_Konstantinbasilika_BW_4.JPG
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A partir do século [IV]{.smallcaps}, esse propósito social da basílica
+começa a se transformar. Assim, um edifício como esse vai se tornar um
+tipo de salão do trono no período do imperador Constantino
+([@fig:aula-int]), por exemplo, quando este começa a ser visto como uma
+semi-divindade com autoridade absoluta. Desse modo, o que era um espaço
+de congregação livre, passa a ter um propósito único: estar na presença
+do imperador.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A partir daí, sua forma vai ser cooptada pela arquitetura
+cristã, pois suas funções de reunir pessoas e ter uma destinação
+singular tornam-na ideal para seu culto. Ainda que a prática religiosa
+cristã seja diferente da romana tradicional, alguns de seus templos
+serão convertidos em igrejas, sendo a basílica sua forma preferencial. O
+exemplo canônico é a antiga basílica de São Pedro, iniciada ainda
+durante o reinado do imperador Constantino ([@fig:oldspete]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Reconstituição digital da basílica primitiva de S. Pedro, Roma, c. 330](https://i.pinimg.com/originals/dd/89/05/dd8905ce83f44e7e01ce9b2d6bc18518.jpg){#fig:oldspete}
 
@@ -346,6 +434,18 @@ península Ibérica no século [I]{.smallcaps}
 ![basílica de São Pedro](https://upload.wikimedia.org/wikipedia/commons/a/a6/Old_Saint_Peters-historyofarchite00flet_0261.png){#fig:ulpia-stpetesB .line}
 :::
 Basílica romana clássica e paleocristã, plantas por Banister Fletcher
+(sem escala)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Desse modo, encontra-se uma configuração relativamente padrão nesse
+grande salão com colunatas e um espaço central mais alto, que vai se
+transformar na sua axialidade, passando a ser acessado pelo lado mais
+curto e a ter uma perspectiva dominante voltada para o santuário ou
+altar ([@fig:ulpia-stpetes]). Essa forma vai acabar desdobrando-se em
+edificações mais sumárias e simples, que vão acompanhar a difusão do
+cristianismo em todas as comunidades da Europa medieval, inclusive
+rurais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -373,6 +473,21 @@ basílicas com naves muito estreitas ([@fig:comba-plan]).
 
 * * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Destaca-se que esse não é um processo guiado por um objetivo histórico
+de desenvolvimento das soluções construtivas ou de uma certa
+funcionalidade, reforçando-se também que ele não irá implicar em
+transformações súbitas na configuração arquitetônica. Sua função muda
+rapidamente, mas sua forma vai se transformando muito lentamente.
+Ressalta-se ainda que existirão elementos remanescentes nesse ínterim,
+como a configuração da basílica com três naves (uma central mais alta e
+as laterais mais baixas), como em Valdediós ([@fig:valde-vista;
+@fig:valde-plan]) o uso eventual de abóbadas e a adoção de soluções
+arquitetônicas e construtivas romanas clássicas, que vão se
+transformando paulatinamente, conforme mudanças de gosto e localização
+geográfica.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ![Igreja de San Salvador, Valdediós (Leão, Espanha), 893. Foto: [Ángel M. Felicísimo, 2008][]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Valdediós_(revisitado)_(12566036363).jpg/1024px-Valdediós_(revisitado)_(12566036363).jpg){#fig:valde-vista}
 
 [Ángel M. Felicísimo, 2008]: https://commons.wikimedia.org/wiki/File:Valdediós_(revisitado)_(12566036363).jpg
@@ -386,6 +501,23 @@ basílicas com naves muito estreitas ([@fig:comba-plan]).
 [Ch1902, 2008]: https://commons.wikimedia.org/wiki/File:San_Salvador_de_Valdediós_plan.svg
 
 * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Nas proximidades da península Ibérica, na igreja da abadia de Sant
+Miquel de Cuixà ([@fig:cuxa-plan]), por exemplo, mantém-se uma lógica
+muito elementar da basílica com três naves, arcadas e colunas romanas,
+com uma construção quase inteiramente feita em pedra (cantaria e
+aparelhada). 
+
+O mesmo processo é observado na arquitetura residencial, que também vai
+se transformando a partir do modelo da casa ou da fazenda romanas para
+atingir soluções como a casa salão (Europa do norte) e a casa geminada
+(na Europa ocidental mediterrânea).
+
+Essas transformações não dizem respeito ao fim da arquitetura clássica,
+sendo necessário criar algo para substituí-la, mas sim a um processo que
+vai se desenrolando gradualmente sem grande intencionalidade. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Igreja da abadia de Sant Miquel de Cuixà, condado de Barcelona (atual sul da França), 956--974. Planta: [Jochen Jahnke, 2011][]](https://hcommons.org/app/uploads/sites/1002372/2021/10/abbaye_saint-michel-de-cuxa_grundriss_erdgeschoss_handskizze.jpg){#fig:cuxa-plan}
 
