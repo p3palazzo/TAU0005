@@ -3307,9 +3307,9 @@ references:
   page: 205-216
   source: JSTOR
   title: >-
-    The Culture of Malaysian Urbanization: Malay and Chinese Conceptions of
-    Space
-  title-short: The Culture of Malaysian Urbanization
+    The culture of Malaysian urbanization: Malay and Chinese conceptions of
+    space
+  title-short: The culture of Malaysian urbanization
   type: article-journal
   URL: https://www.jstor.org/stable/40552862
   volume: '6'
@@ -4895,7 +4895,7 @@ references:
   page: 1-12
   publisher: Routledge
   source: Taylor and Francis+NEJM
-  title: Broederstroom and the origins of cattle ‐ keeping in Southern Africa
+  title: Broederstroom and the origins of cattle-keeping in Southern Africa
   type: article-journal
   URL: https://doi.org/10.1080/00020189008707724
   volume: '49'
@@ -5651,8 +5651,8 @@ references:
   publisher: 'Institut Masyarakat : Central Books'
   publisher-place: Pinang
   source: Amazon
-  title: 'The Malay House: Rediscovering Malaysia''s Indigenous Shelter System'
-  title-short: The Malay House
+  title: 'The Malay house: rediscovering Malaysia''s indigenous shelter system'
+  title-short: The Malay house
   type: book
 
 - id: lumley:1969paleolithic220
@@ -5963,7 +5963,7 @@ references:
       day: 18
   language: en
   source: Blogger
-  title: 'The Establishment of ''Air House'' Standard in Tropical Countries : Part 2'
+  title: 'The establishment of ''air house'' standard in tropical countries : part 2'
   type: post-weblog
   URL: >-
     http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html
@@ -6700,7 +6700,7 @@ references:
   language: en
   page: 32-74
   source: JSTOR
-  title: The Architecture of Islam in West Africa
+  title: The architecture of Islam in West Africa
   type: article-journal
   URL: http://www.jstor.org/stable/3334324
   volume: '1'
