@@ -542,6 +542,8 @@ românico era com a regularidade e a ornamentação dos interiores.
 
 ## Querela do ornamento ##
 
+* * * *
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mas, para o abade Bernardo de Claraval, até mesmo a ornamentação
 excessiva nos interiores era ruim, pois chamava a atenção para a riqueza
@@ -704,7 +706,7 @@ das superfícies pintadas e esculpidas.
 
 * * * *
 
-![Basílica de Santo Ambrósio, Milão, c. 1128--1140. Desenho: [Auguste Choisy, 1899][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Histoire_de_l'architecture_Tome_2_Choisy_Auguste_bpt6k6584016q_476_Saint-Ambroise_Milan.png/692px-Histoire_de_l'architecture_Tome_2_Choisy_Auguste_bpt6k6584016q_476_Saint-Ambroise_Milan.png){#fig:choisy-sambrogio .line}
+![Basílica de Santo Ambrósio, Milão, c. 1128--1140. Desenho: [Auguste Choisy, 1899][]](https://upload.wikimedia.org/wikipedia/commons/7/7e/Histoire_de_l'architecture_Tome_2_Choisy_Auguste_bpt6k6584016q_476_Saint-Ambroise_Milan.png){#fig:choisy-sambrogio .line}
 
 * * * *
 
@@ -777,7 +779,7 @@ uma personagem singular (ver [@fig:charlemagne]).
 
 * * * *
 
-![Pierre de Montreuil, arquiteto, Basílica de Saint-Denis, nave central, 1140--1264. Foto: [Ninaras, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Basilica_of_Saint-Denis,_Paris,_France_01.jpg/1024px-Basilica_of_Saint-Denis,_Paris,_France_01.jpg){#fig:sdenis-nef}
+![Pierre de Montreuil, arquiteto, Basílica de Saint-Denis, nave central, 1140--1264. Foto: [Ninaras, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Basilica_of_Saint-Denis,_Paris,_France_01.jpg/2560px-Basilica_of_Saint-Denis,_Paris,_France_01.jpg){#fig:sdenis-nef}
 
 [Ninaras, 2016]: https://commons.wikimedia.org/wiki/File:Basilica_of_Saint-Denis,_Paris,_France_01.jpg
 
