@@ -497,7 +497,7 @@ conta com uma arquitetura extremamente despojada e simplificada
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Vista isométrica ascendente da igreja de Santo Andóquio, Saulieu (Borgonha), final do século [XI]{.smallcaps}. Desenho: [Auguste Choisy, 1899][]](https://hcommons.org/app/uploads/sites/1002372/2022/04/Histoire_de_larchitecture_Tome_2_Choisy_Auguste_bpt6k6584016q_232.png){#fig:saulieu .line}
+![Vista isométrica ascendente da basílica de Santo Andóquio, Saulieu (Borgonha), final do século [XI]{.smallcaps}. Desenho: [Auguste Choisy, 1899][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Saint-Andoche_de_Saulieu-Histoire_de_larchitecture_Tome_2_Choisy_Auguste_bpt6k6584016q_232.png/548px-Saint-Andoche_de_Saulieu-Histoire_de_larchitecture_Tome_2_Choisy_Auguste_bpt6k6584016q_232.png){#fig:saulieu .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -638,10 +638,12 @@ Suger ([@fig:suger]) concordava com São Bernardo no sentido de que as
 igrejas não deveriam ter muita ornamentação esculpida e pintada, já que
 essas figuras são elementos materiais que prendem o espírito a tudo o
 que é terreno. Porém, isso não se aplica ao vidro, pois ele transmite
-uma imagem por meio da luz. Suger seguia uma teoria de que Deus era luz,
-já que a luz foi o primeiro elemento da Criação bíblica. Por isso, a luz
-do sol era divina, tornando esse artifício imune ou presente em um plano
-superior aos ornamentos pintados ou esculpidos.
+uma imagem por meio da luz. Suger seguia uma teoria de que Deus era luz
+[@stanley:2006original65], já que a luz foi o primeiro elemento da
+Criação bíblica e podia ser compreendida como um símbolo da
+transcendência da materialidade física. Por isso, a luz do sol era
+divina, tornando esse artifício imune ou presente em um plano superior
+aos ornamentos pintados ou esculpidos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -667,6 +669,8 @@ as figuras em vitrais poderiam substituir a decoração esculpida ou
 pintada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Pacote tecnológico gótico ##
+
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -684,7 +688,7 @@ das superfícies pintadas e esculpidas.
 
 * * * *
 
-![Planta da basílica de Saint-Denis. Edição de [Jacques Chevillard, 1705][]](https://upload.wikimedia.org/wikipedia/commons/8/86/Plan_de_l%27église_royale_de_St_Denis_en_France,_sépulture_de_nos_Roys.jpg){#fig:chevillard}
+![Planta da basílica de Saint-Denis. Edição de [Jacques Chevillard, 1705][]](https://upload.wikimedia.org/wikipedia/commons/8/86/Plan_de_l'église_royale_de_St_Denis_en_France,_sépulture_de_nos_Roys.jpg){#fig:chevillard}
 
 [Jacques Chevillard, 1705]: https://gallica.bnf.fr/ark:/12148/btv1b55002319z
 
@@ -696,7 +700,48 @@ das superfícies pintadas e esculpidas.
 
 * * * *
 
-![Abóbada nervurada. a -- com arco transversal pleno, b -- com arco diagonal pleno. Desenho por [Auguste Choisy, 1899][]](){#fig:ogives .line}
+![Abóbadas de aresta românicas com reforços transversais nervurados. Desenho: [Auguste Choisy, 1899][]](https://upload.wikimedia.org/wikipedia/commons/c/c7/Histoire_de_larchitecture_Tome_2_Choisy_Auguste_bpt6k6584016q_212_Voûtes_romanes_Bourgogne_et_Rhin.png){#fig:choisy-aretes .line}
+
+* * * *
+
+![Basílica de Santo Ambrósio, Milão, c. 1128--1140. Desenho: [Auguste Choisy, 1899][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Histoire_de_l'architecture_Tome_2_Choisy_Auguste_bpt6k6584016q_476_Saint-Ambroise_Milan.png/692px-Histoire_de_l'architecture_Tome_2_Choisy_Auguste_bpt6k6584016q_476_Saint-Ambroise_Milan.png){#fig:choisy-sambrogio .line}
+
+* * * *
+
+![Basílica de Santo Ambrósio. Corte longitudinal da nave e coro em [Charles Cummings, 1901][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/A_history_of_architecture_in_Italy_from_the_time_of_Constantine_to_the_dawn_of_the_renaissance_(1901)_(14597406179).jpg/1024px-A_history_of_architecture_in_Italy_from_the_time_of_Constantine_to_the_dawn_of_the_renaissance_(1901)_(14597406179).jpg){#fig:cummings-sambrogio}
+
+<!--_-->
+
+* * * *
+
+![Abóbada nervurada em cruzaria, com arco diagonal pleno e arco transversal ogival. Desenho por [Auguste Choisy, 1899][]](https://upload.wikimedia.org/wikipedia/commons/c/c6/Histoire_de_l'architecture_Tome_2_Choisy_Auguste_bpt6k6584016q_284_Voûte_gothique.png){#fig:ogives .line}
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Os arquitetos do século [XII]{.smallcaps} compreendem melhor o percurso
+da força resultante do empuxo das abóbadas pelos contrafortes
+([@fig:choisy-contrefort] [R]{.smallcaps}). Assim, eles percebem que é
+possível abrir galerias de circulação [(G)]{.smallcaps} entre a parede
+externa das naves e os contrafortes. Pouco a pouco, os contrafortes vão
+sendo totalmente descolados da parede [(X)]{.smallcaps}.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Separação progressiva do contraforte e da parede, segundo [Auguste Choisy, 1899][]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Histoire_de_l'architecture_Tome_2_Choisy_Auguste_bpt6k6584016q_313_Contreforts_gothiques.png/918px-Histoire_de_l'architecture_Tome_2_Choisy_Auguste_bpt6k6584016q_313_Contreforts_gothiques.png){#fig:choisy-contrefort .line}
+
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Arcos-botantes góticos. [A]{.smallcaps} -- esquema conceitual, [B]{.smallcaps} -- catedral de Soissons, 1212--1230, [C]{.smallcaps} -- basílica de Saint-Denis, 1231--1264. Desenho: [Auguste Choisy, 1899][]](https://upload.wikimedia.org/wikipedia/commons/3/30/Histoire_de_l'architecture_Tome_2_Choisy_Auguste_bpt6k6584016q_323_Arcs-boutants_Soissons_Saint-Denis.png){#fig:choisy-arcboutant .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essa separação acaba por resultar no arcobotante que liga a parede da
+nave a um contraforte distante dela, em geral por cima de uma nave menor
+([@fig:choisy-arcboutant]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Iconografia, exegese e escolástica ##
 
 * * * *
 
@@ -713,6 +758,18 @@ das superfícies pintadas e esculpidas.
 <!--_-->
 
 * * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O programa iconográfico nos vitrais de Saint-Denis se baseava na
+teologia de Hugo de São Vítor, um contemporâneo de Suger. O ideal
+teológico de Hugo enfatizava a narração da história bíblica como meio
+para a explicação do seu conteúdo moral [@stanley:2006original65]. A
+partir daí se desenvolveu a prática de realizar vitrais muito complexos
+com episódios sucessivos de uma estória religiosa, ou vários atributos
+de uma personagem bíblica ([@fig:sdenis-rosace]). Nisso, os vitrais
+góticos divergem dos românicos, que se concentravam na representação de
+uma personagem singular (ver [@fig:charlemagne]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Basílica de Saint-Denis, rosácea do transepto sul, século [XII]{.smallcaps}. Foto: [G. Freihalter, 2011][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Saint-Denis_Cathedral3481.JPG/2560px-Saint-Denis_Cathedral3481.JPG){#fig:sdenis-rosace}
 
@@ -918,7 +975,7 @@ feito na arquitetura, o desenho ganha relevância para comunicar a
 intenção do que deve ser construído, para registrar a aprovação do
 cliente à solução arquitetônica proposta e para guiar a execução da obra
 ou contratualizar uma certa demanda, ainda que não se chegue às minúcias
-dos atuais projetos executivos. O conhecimento técnico se volta, então,
+dos atuais projetos executivos ([@fig:strasbourg-dwg]). O conhecimento técnico se volta, então,
 para a adequada e segura execução do edifício e para as etapas de sua
 elaboração (que vão se tornando cada vez mais formalizadas), juntamente
 com o estabelecimento do desenho como principal instrumento da obra
@@ -927,7 +984,7 @@ que faz esse desenho, tornando seu papel cada vez mais de planejamento
 da construção, tanto em seu processo executivo, quanto na sua aparência.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Projeto para a fachada da catedral de Estrasburgo, c. 1260. [Museu da obra da catedral de Estrasburgo](http://blog.metmuseum.org/penandparchment/exhibition-images/cat380r2_49f/)](https://i.pinimg.com/originals/29/21/e0/2921e0a5cddcb9c87574995c48c9402a.jpg){#fig:strasbourg}
+![Projeto para a fachada da catedral de Estrasburgo, c. 1260. [Museu da obra da catedral de Estrasburgo](http://blog.metmuseum.org/penandparchment/exhibition-images/cat380r2_49f/)](https://i.pinimg.com/originals/29/21/e0/2921e0a5cddcb9c87574995c48c9402a.jpg){#fig:strasbourg-dwg .line}
 
 ## Execução e obras temporárias ##
 
@@ -937,7 +994,7 @@ da construção, tanto em seu processo executivo, quanto na sua aparência.
 
 * * * *
 
-![Cimbramento para uma abóbada de berço segundo [Viollet-le-Duc, 1856](https://commons.wikimedia.org/wiki/File:Construction.voute.romaine.png)](https://upload.wikimedia.org/wikipedia/commons/3/32/Construction.voute.romaine.png){#fig:viollet-rome}
+![Cimbramento para uma abóbada de berço segundo [Viollet-le-Duc, 1856](https://commons.wikimedia.org/wiki/File:Construction.voute.romaine.png)](https://upload.wikimedia.org/wikipedia/commons/3/32/Construction.voute.romaine.png){#fig:viollet-rome .line}
 
 * * * *
 
@@ -982,3 +1039,4 @@ também ganha eficiência e previsibilidade [@toker:1985gothic67].
 
 [Auguste Choisy, 1899]: https://gallica.bnf.fr/ark:/12148/bpt6k6584016q/
 
+[Charles Cummings, 1901]: https://commons.wikimedia.org/wiki/Category:A_history_of_architecture_in_Italy_(1901)_-_Plans_of_churches

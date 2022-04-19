@@ -9,7 +9,7 @@ vpath %.yaml . _spec _data
 PANDOC_VERSION  := 2.16.1
 JEKYLL_VERSION  := 4.2.0
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
-	-u "`id -u`:`id -g`" pandoc/core:2.17.1.1
+	-u "`id -u`:`id -g`" pandoc/core:2.18
 JEKYLL := palazzo/jekyll-tufte:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
 
 ASSETS  = $(wildcard assets/*)
