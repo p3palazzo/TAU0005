@@ -625,11 +625,11 @@ tentando resolvê-lo de uma forma muito interessante para o
 desenvolvimento da arquitetura daí em diante.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Abadia de S. Dionísio (Saint-Denis), igreja concebida pelo abade Suger e construída 1122--1151. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/saint-denis/)](https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg){#fig:sdenis-golvin}
+![Abadia de S. Dionísio (Saint-Denis), igreja concebida pelo abade Suger e construída 1135--1151. Reconstituição de [Jean-Claude Golvin](https://jeanclaudegolvin.com/saint-denis/)](https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg){#fig:sdenis-golvin}
 
 * * * *
 
-![Anunciação com retrato do abade Suger prostrado, basílica de S. Dionísio, século [XII]{.smallcaps}. Foto: [Vassil, 2010][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Vitraux_Saint-Denis_190110_19.jpg/704px-Vitraux_Saint-Denis_190110_19.jpg){#fig:suger}
+![Anunciação com retrato do abade Suger prostrado, basílica de Saint-Denis, século [XII]{.smallcaps}. Foto: [Vassil, 2010][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Vitraux_Saint-Denis_190110_19.jpg/704px-Vitraux_Saint-Denis_190110_19.jpg){#fig:suger}
 
 [Vassil, 2010]: https://commons.wikimedia.org/wiki/File:Vitraux_Saint-Denis_190110_19.jpg
 
@@ -670,13 +670,69 @@ pintada.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Quando assumiu a abadia de S. Dionísio em 1122, Suger já tinha,
-portanto, a tecnologia do vitral para realizar o seu ideal de uma
-ornamentação inteiramente baseada na luz. Ele juntou essa tecnologia com
-o desenvolvimento estrutural das abóbadas nervuradas para poder fazer
-janelas cada vez maiores e eliminar, assim, a maior parte das
-superfícies pintadas e esculpidas.
+Quando assumiu a abadia de S. Dionísio em 1122 ([@fig:sdenis-caro]),
+Suger já tinha, portanto, a tecnologia do vitral para realizar o seu
+ideal de uma ornamentação inteiramente baseada na luz. Ele juntou essa
+tecnologia com o desenvolvimento estrutural das abóbadas nervuradas para
+poder fazer janelas cada vez maiores e eliminar, assim, a maior parte
+das superfícies pintadas e esculpidas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Saint-Denis, reconstituição da igreja do século [IX]{.smallcaps} sobreposta à implantação da atual basílica. Desenho: [J. Chancerel, 2017][]](https://upload.wikimedia.org/wikipedia/commons/1/12/SaintDenisCarolingienne.png){#fig:sdenis-caro .nobg}
+
+[J. Chancerel, 2017]: https://commons.wikimedia.org/wiki/File:SaintDenisCarolingienne.png
+
+* * * *
+
+![Planta da basílica de Saint-Denis. Edição de [Jacques Chevillard, 1705][]](https://upload.wikimedia.org/wikipedia/commons/8/86/Plan_de_l%27église_royale_de_St_Denis_en_France,_sépulture_de_nos_Roys.jpg){#fig:chevillard}
+
+[Jacques Chevillard, 1705]: https://gallica.bnf.fr/ark:/12148/btv1b55002319z
+
+* * * *
+
+![Basílica de Saint-Denis, coro e transepto, 1140--1144. Foto: [Zairon, 2022][]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Saint-Denis,_Kathedrale,_Innenansicht_(12).jpg/2560px-Saint-Denis,_Kathedrale,_Innenansicht_(12).jpg){#fig:sdenis-choeur}
+
+[Zairon, 2022]: https://commons.wikimedia.org/wiki/File:Saint-Denis,_Kathedrale,_Innenansicht_(12).jpg
+
+* * * *
+
+![Abóbada nervurada. a -- com arco transversal pleno, b -- com arco diagonal pleno. Desenho por [Auguste Choisy, 1899][]](){#fig:ogives .line}
+
+* * * *
+
+![Antiga igreja de Saint-Denis, século [IX]{.smallcaps}, capitel historiado da prisão de S. Dionísio. Foto: [Vassil, 2019][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Musée_de_Cluny_Naissance_de_la_sculpture_gothique_Chapiteau_Trois_saints_Abbatiale_Saint-Denis_05012019_2.jpg/2306px-Musée_de_Cluny_Naissance_de_la_sculpture_gothique_Chapiteau_Trois_saints_Abbatiale_Saint-Denis_05012019_2.jpg){#fig:sisinnius}
+
+[Vassil, 2019]: https://commons.wikimedia.org/wiki/File:Musée_de_Cluny_Naissance_de_la_sculpture_gothique_Chapiteau_Trois_saints_Abbatiale_Saint-Denis_05012019_2.jpg
+
+* * * *
+
+![Basílica de Saint-Denis, capitéis nos feixes de pilares ao norte do cruzeiro, anterior a 1140. Foto: [P. Poschadel, 2013][]](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Saint-Denis_(93),_basilique_Saint-Denis,_pilier_des_grandes_arcades_au_nord_de_la_nef.jpg/1024px-Saint-Denis_(93),_basilique_Saint-Denis,_pilier_des_grandes_arcades_au_nord_de_la_nef.jpg){#fig:sdenis-chapit}
+
+[P. Poschadel, 2013]: https://commons.wikimedia.org/wiki/File:Saint-Denis_(93),_basilique_Saint-Denis,_pilier_des_grandes_arcades_au_nord_de_la_nef.jpg
+
+<!--_-->
+
+* * * *
+
+![Basílica de Saint-Denis, rosácea do transepto sul, século [XII]{.smallcaps}. Foto: [G. Freihalter, 2011][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Saint-Denis_Cathedral3481.JPG/2560px-Saint-Denis_Cathedral3481.JPG){#fig:sdenis-rosace}
+
+[G. Freihalter, 2011]: https://commons.wikimedia.org/wiki/File:Saint-Denis_Cathedral3481.JPG
+
+* * * *
+
+![Pierre de Montreuil, arquiteto, Basílica de Saint-Denis, nave central, 1140--1264. Foto: [Ninaras, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Basilica_of_Saint-Denis,_Paris,_France_01.jpg/1024px-Basilica_of_Saint-Denis,_Paris,_France_01.jpg){#fig:sdenis-nef}
+
+[Ninaras, 2016]: https://commons.wikimedia.org/wiki/File:Basilica_of_Saint-Denis,_Paris,_France_01.jpg
+
+<!--_-->
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Pierre de Montreuil, arquiteto, basílica de Saint-Denis, intradorso das abóbadas da nave central, 1231--1264. Foto: [Guilhem Vellut, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ceiling_%40_Basilique_de_Saint-Denis_%40_Saint-Denis_(30595835712).jpg/2560px-Ceiling_%40_Basilique_de_Saint-Denis_%40_Saint-Denis_(30595835712).jpg){#fig:sdenis-intrados}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Guilhem Vellut, 2016]: https://commons.wikimedia.org/wiki/File:Ceiling_@_Basilique_de_Saint-Denis_@_Saint-Denis_(30595835712).jpg
 
 ## Leis suntuárias ##
 
