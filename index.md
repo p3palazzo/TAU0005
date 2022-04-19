@@ -116,7 +116,7 @@ venustas:
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_View_of_Florence_from_San_Miniato_1837-crop.jpg
     title     : "Caracterizar"
-    excerpt   : "Cultura arquitetônica – Literacia visual – Decoro e convenção – Economia da construção"
+    excerpt   : "Cultura arquitetônica – Decoro e convenção – Teoria da arquitetura – Economia da construção"
     url       : "/aula/caracterizar"
     btn_label : "19 de abril"
     btn_class : "btn btn--inverse btn--small"
@@ -146,7 +146,7 @@ venustas_atividade:
 6. [Que materiais você precisa ter para fazer as atividades ?](_trabalho/materiais.md) <!--_-->
 6. [Como vamos avaliar o seu aproveitamento ?](_plano/avalia.md) <!--_-->
 
-# Arquitetura tradicional #
+# Introdução #
 
 ```{=html}
 {% include feature_row id="intro" %}

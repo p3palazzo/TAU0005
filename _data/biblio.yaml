@@ -3307,9 +3307,9 @@ references:
   page: 205-216
   source: JSTOR
   title: >-
-    The Culture of Malaysian Urbanization: Malay and Chinese Conceptions of
-    Space
-  title-short: The Culture of Malaysian Urbanization
+    The culture of Malaysian urbanization: Malay and Chinese conceptions of
+    space
+  title-short: The culture of Malaysian urbanization
   type: article-journal
   URL: https://www.jstor.org/stable/40552862
   volume: '6'
@@ -3545,14 +3545,19 @@ references:
     - family: Fletcher
       given: Banister F.
   citation-key: fletcher:1961history
-  event-place: London
+  edition: '17'
+  editor:
+    - family: Cordingley
+      given: R. A.
+  event-place: New York
   issued:
     - year: 1961
   language: en-GB
-  publisher: University of London
-  publisher-place: London
+  publisher: Charles Scribner’s Sons
+  publisher-place: New York
   title: History of architecture on the comparative method
   type: book
+  URL: https://archive.org/details/historyofarchite0000flet/
 
 - id: fletcher:2020introduction1
   accessed:
@@ -4890,7 +4895,7 @@ references:
   page: 1-12
   publisher: Routledge
   source: Taylor and Francis+NEJM
-  title: Broederstroom and the origins of cattle ‐ keeping in Southern Africa
+  title: Broederstroom and the origins of cattle-keeping in Southern Africa
   type: article-journal
   URL: https://doi.org/10.1080/00020189008707724
   volume: '49'
@@ -5646,8 +5651,8 @@ references:
   publisher: 'Institut Masyarakat : Central Books'
   publisher-place: Pinang
   source: Amazon
-  title: 'The Malay House: Rediscovering Malaysia''s Indigenous Shelter System'
-  title-short: The Malay House
+  title: 'The Malay house: rediscovering Malaysia''s indigenous shelter system'
+  title-short: The Malay house
   type: book
 
 - id: lumley:1969paleolithic220
@@ -5958,7 +5963,7 @@ references:
       day: 18
   language: en
   source: Blogger
-  title: 'The Establishment of ''Air House'' Standard in Tropical Countries : Part 2'
+  title: 'The establishment of ''air house'' standard in tropical countries : part 2'
   type: post-weblog
   URL: >-
     http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html
@@ -6388,7 +6393,7 @@ references:
   event-place: Paris
   issued:
     - year: 1898
-  language: French
+  language: fr
   publisher: Hachette
   publisher-place: Paris
   source: Internet Archive
@@ -6407,8 +6412,8 @@ references:
   ISBN: 978-1-941806-77-7
   issued:
     - year: 2020
-  language: English
-  publisher: ORO
+  language: en
+  publisher: <span class="smallcaps">ORO</span>
   publisher-place: Novato, Cal.
   source: Open WorldCat
   title: 'Space & anti-space: the fabric of place, city and architecture'
@@ -6614,7 +6619,7 @@ references:
   ISBN: 978-1-84217-984-0
   issued:
     - year: 2011
-  language: English
+  language: en
   publisher: Oxbow Books
   source: JSTOR
   title: 'Pompeii: Art, Industry and Infrastructure'
@@ -6634,7 +6639,7 @@ references:
   ISBN: 978-90-04-35633-7
   issued:
     - year: 2018
-  language: English
+  language: en
   number-of-pages: '1'
   publisher: Brill
   publisher-place: Leiden ; Boston
@@ -6695,7 +6700,7 @@ references:
   language: en
   page: 32-74
   source: JSTOR
-  title: The Architecture of Islam in West Africa
+  title: The architecture of Islam in West Africa
   type: article-journal
   URL: http://www.jstor.org/stable/3334324
   volume: '1'
@@ -6722,7 +6727,7 @@ references:
   event-place: Paris
   issued:
     - year: 2012
-  language: English
+  language: en
   page: 45-52
   publisher: Picard
   publisher-place: Paris
@@ -6769,7 +6774,7 @@ references:
   event-place: Paris
   issued:
     - year: 1825
-  language: French
+  language: fr
   number-of-pages: '664'
   publisher: Veuve Agasse
   publisher-place: Paris
@@ -6795,7 +6800,7 @@ references:
   event-place: Paris
   issued:
     - year: 1825
-  language: French
+  language: fr
   page: 543-545
   publisher: Panckouke
   publisher-place: Paris
@@ -6803,7 +6808,7 @@ references:
   type: chapter
   volume: '3'
 
-- id: quintanafrias:2005cal5
+- id: quintana:2005cal5
   abstract: >-
     In the last century the exploitation of carbonate rocks for the lime´s
     handmade manufacture has disappeared in most cases of our territory. In fact
@@ -6822,13 +6827,13 @@ references:
   author:
     - family: Quintana Frías
       given: Ignacio
-  citation-key: quintanafrias:2005cal5
+  citation-key: quintana:2005cal5
   container-title: De Re Metallica
   ISSN: 1577-9033
   issued:
     - year: 2005
       month: 12
-  language: Spanish
+  language: es
   page: 95-100
   source: Zotero
   title: 'Una de cal y otra de historia: los hornos de cal de Ituero y Lama (Segovia)'
@@ -6848,7 +6853,7 @@ references:
   ISBN: 978-3-932565-30-4
   issued:
     - year: 2012
-  language: English
+  language: en
   number-of-pages: '296'
   publisher: Menges
   publisher-place: Stuttgart
@@ -6925,7 +6930,7 @@ references:
   issue: '3'
   issued:
     - year: 2009
-  language: English
+  language: en
   page: 393-402
   source: JSTOR
   title: >-
@@ -6993,7 +6998,7 @@ references:
   event-place: Cambridge, England
   issued:
     - year: 1929
-  language: English
+  language: en
   publisher: Cambridge University Press
   publisher-place: Cambridge, England
   source: Internet Archive
@@ -7027,13 +7032,13 @@ references:
       given: Noel
   citation-key: robertson:1998city
   container-title: 'Hesperia: The Journal of the American School of Classical Studies at Athens'
-  container-title-short: 'Hesperia: The Journal of the American School of Classical Studies at Athens'
+  container-title-short: Hesperia
   DOI: 10.2307/2668475
   ISSN: 0018-098X
   issue: '3'
   issued:
     - year: 1998
-  language: English
+  language: en
   page: 283-302
   source: JSTOR
   title: The city center of archaic Athens
@@ -7156,15 +7161,15 @@ references:
     - year: 2018
       month: 4
       day: 3
-  language: English
+  language: en
   page: 409-431
   publisher: Taylor & Francis
   source: Taylor and Francis+NEJM
   title: >-
-    A Fully Graphical Approach for Limit State Analysis of Existing Structures:
-    Application to Plane Elastic-Plastic Bended Structures and to Plane Masonry
-    Arches
-  title-short: A Fully Graphical Approach for Limit State Analysis of Existing Structures
+    A fully graphical approach for limit state analysis of existing structures:
+    application to plane elastic-plastic bended structures and to plane masonry
+    arches
+  title-short: A fully graphical approach for limit state analysis of existing structures
   type: article-journal
   URL: https://doi.org/10.1080/15583058.2017.1323252
   volume: '12'
@@ -7377,15 +7382,15 @@ references:
     - family: Rowe
       given: Colin
   citation-key: rowe:1976mathematics
-  container-title: The Mathematics of the Ideal Villa and Other Essays
+  container-title: The mathematics of the ideal villa and other essays
   event-place: Cambridge, Mass.
   issued:
     - year: 1976
-  language: English
+  language: en
   page: 1–28
-  publisher: M.I.T. Press
+  publisher: <span class="smallcaps">MIT</span> Press
   publisher-place: Cambridge, Mass.
-  title: The Mathematics of the Ideal Villa
+  title: The mathematics of the ideal villa
   type: chapter
 
 - id: rudolph:1988bernard27
@@ -7420,13 +7425,14 @@ references:
   issue: 1/2
   issued:
     - year: 1988
-  language: English
+  language: en
   page: 125-132
   publisher: '[University of Chicago Press, International Center of Medieval Art]'
   source: JSTOR
   title: >-
-    Bernard of Clairvaux's Apologia as a Description of Cluny, and the
-    Controversy over Monastic Art
+    Bernard of Clairvaux's apologia as a description of Cluny, and the
+    controversy over monastic art
+  title-short: Bernard of Clairvaux's apologia
   type: article-journal
   URL: https://www.jstor.org/stable/767000
   volume: '27'
@@ -7454,14 +7460,14 @@ references:
   issue: '4'
   issued:
     - year: 2011
-  language: English
+  language: en
   page: 399-422
   publisher: '[Taylor & Francis, Ltd., CAA]'
   source: JSTOR
   title: >-
-    Inventing the Exegetical Stained-Glass Window: Suger, Hugh, and a New Elite
-    Art
-  title-short: Inventing the Exegetical Stained-Glass Window
+    Inventing the exegetical stained-glass window: Suger, Hugh, and a new elite
+    art
+  title-short: Inventing the exegetical stained-glass window
   type: article-journal
   URL: https://www.jstor.org/stable/23208267
   volume: '93'
@@ -7478,7 +7484,7 @@ references:
   event-place: New York
   issued:
     - year: 1849
-  language: English
+  language: en
   number-of-pages: '244'
   publisher: John Wiley
   publisher-place: New York
@@ -7555,7 +7561,7 @@ references:
   container-title: Anais do Museu Histórico Nacional
   issued:
     - year: 1971
-  language: Portuguese
+  language: pt
   page: 33–49
   title: Chinesices no Brasil
   type: article-journal
@@ -7577,7 +7583,7 @@ references:
   title: Romanesque art
   type: book
 
-- id: schultz:1901monasterya
+- id: schultz:1901monastery
   abstract: >-
     Half-title: British school at Athens: Byzantine architecture in Greece;
     "Published for the Committee of the school."; Bibliography: p. [73]-74
@@ -7591,11 +7597,11 @@ references:
     - family: Barnsley
       given: Sidney
   call-number: '9930273850001551'
-  citation-key: schultz:1901monasterya
+  citation-key: schultz:1901monastery
   event-place: London
   issued:
     - year: 1901
-  language: English
+  language: en
   number-of-pages: '247'
   publisher: 'MacMillan : British School at Athens'
   publisher-place: London
@@ -7752,7 +7758,7 @@ references:
   issued:
     - year: 2016
       month: 1
-  language: English
+  language: en
   page: 53-89
   source: DOI.org (Crossref)
   title: The development and function of serpentine/sinusoidal walls
@@ -7781,7 +7787,7 @@ references:
     - year: 2009
       month: 3
       day: 9
-  language: Portuguese
+  language: pt
   title: 'Congresso Nacional : da documentação técnica à obra construída'
   title-short: Congresso Nacional
   type: post-weblog
@@ -7842,7 +7848,7 @@ references:
   issue: '3'
   issued:
     - year: 1984
-  language: English
+  language: en
   page: 195-208
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
@@ -7862,7 +7868,7 @@ references:
   event-place: Porto Alegre
   issued:
     - year: 1997
-  language: Portuguese
+  language: pt
   publisher: EdiPUCRS
   publisher-place: Porto Alegre
   source: Open WorldCat
@@ -7884,7 +7890,7 @@ references:
   ISBN: 978-81-7305-632-1
   issued:
     - year: 2019
-  language: English
+  language: en
   number-of-pages: '444'
   publisher: Aryan Books International
   publisher-place: New Delhi
@@ -7923,16 +7929,17 @@ references:
       given: David J.
   citation-key: stanley:2006original65
   container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/25068292
   ISSN: 0037-9808
   issue: '3'
   issued:
     - year: 2006
-  language: English
+  language: en
   page: 334-355
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
-  title: The Original Buttressing of Abbot Suger's Chevet at the Abbey of Saint-Denis
+  title: The original buttressing of abbot Suger's chevet at the abbey of Saint-Denis
   type: article-journal
   URL: https://www.jstor.org/stable/25068292
   volume: '65'
@@ -7961,13 +7968,13 @@ references:
       given: Nancy Shatzman
   citation-key: steinhardt:1988definition
   container-title: Journal of the Society of Architectural Historians
-  container-title-short: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/990256
   ISSN: 0037-9808
   issue: '1'
   issued:
     - year: 1988
-  language: English
+  language: en
   page: 57-73
   source: JSTOR
   title: Toward the definition of a Yuan dynasty hall
@@ -8403,7 +8410,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1979
-  language: Portuguese
+  language: pt
   number-of-pages: '293'
   publisher: Presença
   publisher-place: Lisboa
@@ -8440,7 +8447,7 @@ references:
   issue: '4'
   issued:
     - year: 1982
-  language: English
+  language: en
   page: 579-587
   source: JSTOR
   title: >-
@@ -8492,7 +8499,7 @@ references:
   issue: '1'
   issued:
     - year: 1996
-  language: English
+  language: en
   page: 66-78
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
@@ -8622,7 +8629,7 @@ references:
   issue: '1'
   issued:
     - year: 1985
-  language: English
+  language: en
   page: 67-95
   publisher: '[Taylor & Francis, Ltd., College Art Association]'
   source: JSTOR
@@ -8670,7 +8677,7 @@ references:
   issue: '2'
   issued:
     - year: 2000
-  language: English
+  language: en
   page: 183-205
   publisher: '[University of Chicago Press, International Center of Medieval Art]'
   source: JSTOR
@@ -8736,7 +8743,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1980
-  language: Portuguese
+  language: pt
   publisher: Difel
   publisher-place: São Paulo
   source: Open WorldCat
@@ -9056,7 +9063,7 @@ references:
   event-place: Paris
   issued:
     - year: 1858
-  language: French
+  language: fr
   publisher: Impr. impériale
   publisher-place: Paris
   source: Gallica
@@ -9085,7 +9092,7 @@ references:
   event-place: Paris
   issued:
     - year: 1858
-  language: French
+  language: fr
   number-of-pages: '542'
   number-of-volumes: '10'
   publisher: B. Bance
@@ -9112,7 +9119,7 @@ references:
   issue: '1'
   issued:
     - year: 1903
-  language: French
+  language: fr
   page: 515-561
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -9363,7 +9370,7 @@ references:
   event-place: New York
   issued:
     - year: 1974
-  language: English
+  language: en
   publisher: Weatherhill
   publisher-place: New York
   source: EBSCOhost
@@ -9530,7 +9537,7 @@ references:
   ISBN: 978-90-04-14007-3
   issued:
     - year: 2000
-  language: English
+  language: en
   publisher: Brill
   publisher-place: Leiden ; Boston
   source: Library of Congress ISBN
@@ -9550,7 +9557,7 @@ references:
   ISBN: 978-90-04-14007-3
   issued:
     - year: 2000
-  language: English
+  language: en
   publisher: Brill
   publisher-place: Leiden ; Boston
   source: Library of Congress ISBN
