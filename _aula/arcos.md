@@ -336,6 +336,49 @@ Association la Voûte Nubienne, construção de abóbadas núbias, Sudão. Produ
 Construção de abóbadas núbias, segundo Choisy, *Histoire de l'architecture*
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Estruturas parabólicas ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Apesar dessa descoberta, a parábola de Galileu continua sendo útil,
+porque ela descreve a forma de uma corrente uniformemente carregada ---
+por exemplo, os cabos ou cordas que sustentam o tabuleiro de uma ponte
+suspensa, por exemplo as pontes tradicionais dos Andes ([@fig:qeswachaka]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Trecho do filme <em><a href="https://vimeo.com/140923607">Weaving the Bridge at Q&rsquo;eswachaka</a></em>. Produção: <a href="https://vimeo.com/user17621929"><span class="smallcaps">NMAI</span> Media Group</a>](https://cdn.palazzo.arq.br/firmitas/arcos/weaving_the_bridge_at_qeswachaka-140923607.webm){#fig:qeswachaka}
+
+* * * *
+
+::: align-right
+![Planta da igreja da Sagrada Família. [Acervo da fundação Templo Expiatório da Sagrada Família] via ArchDaily](https://images.adsttc.com/media/images/5255/a0e8/e8e4/4e67/bf00/06ee/slideshow/Planta-general-7-Model2.jpg?1381343447){#fig:gaudi-plan .line}
+:::
+
+[Acervo da fundação Templo Expiatório da Sagrada Família]: https://www.archdaily.com.br/br/787647/classicos-da-arquitetura-la-sagrada-familia-antoni-gaudi
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::: align-right
+![Corte longitudinal da igreja da Sagrada Família, Barcelona](https://images.adsttc.com/media/images/5255/a0fd/e8e4/4ecb/1700/0702/slideshow/SECCIO_2011_neta.jpg?1381343451){#fig:gaudi-sec .line}
+:::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Antoni Gaudí, arquiteto, maquete de cargas nas abóbadas do templo expiatório da Sagrada Família, Barcelona, último quartel do século [XIX]{.smallcaps}. Foto: [David Clay, 2013]](https://3.bp.blogspot.com/-oQ3LMOL9U58/UfkDQY3JDdI/AAAAAAAAAX4/IT43XNeoSlE/s1600/SagradaWeightModel.jpg){#fig:gaudi-model}
+
+[David Clay, 2013]: https://davidclayphotography.blogspot.com/2013/07/gaudis-weight-bearing-model-of-sagrada.html
+
+* * * *
+
+![Vista da igreja da Sagrada Família em construção, 2002](https://images.adsttc.com/media/images/5254/43b3/e8e4/4ecb/1700/066a/slideshow/2002.jpg?1381254039){#fig:familia-2002}
+
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Persia-Taq_Kasra_Wonder_of_Architecture.webm"}
 
 ::::::::::::::::::::::::::::::::::::::::::: {#fig:kasra .iframe-wrapper .slide-bg}
@@ -349,11 +392,16 @@ O arco catenário ou parabólico quase nunca é usado como uma abertura
 simples na parede. Ele é ideal como gerador de uma abóbada linear para
 cobrir um ambiente ou uma construção inteira ([@fig:kasra]).
 
-Sustentam cargas além do próprio peso, tendo a vantagem de quase não consumirem madeira, usando apenas adobe. Tornam-se ideais para regiões semiáridas e com pouco madeiramento, resultando em espaços amplos e elegantes.
+Sustentam cargas além do próprio peso, tendo a vantagem de quase não
+consumirem madeira, usando apenas adobe. Tornam-se ideais para regiões
+semiáridas e com pouco madeiramento, resultando em espaços amplos e
+elegantes.
 
-Essa tecnologia espalha-se pelo Egito e talvez Mesopotâmia, partindo do antigo Sudão.
+Essa tecnologia espalha-se pelo Egito e talvez Mesopotâmia, partindo do
+antigo Sudão.
 
-São feitos de tijolos cozidos relativamente leves, sustentados entre si apenas pelo atrito entre tijolo e argamassa. 
+São feitos de tijolos cozidos relativamente leves, sustentados entre si
+apenas pelo atrito entre tijolo e argamassa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ##
