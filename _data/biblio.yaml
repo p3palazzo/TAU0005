@@ -652,7 +652,7 @@ references:
   event-place: Sao Paulo
   issued:
     - year: 1975
-  language: Portuguese
+  language: pt
   publisher: Perspectiva
   publisher-place: Sao Paulo
   source: Open WorldCat
@@ -6566,7 +6566,7 @@ references:
   citation-key: pinon:2006teoria
   collection-number: '24'
   collection-title: Col·lecció d'Arquitectura
-  edition: 1. ed
+  edition: '1'
   event-place: Barcelona
   ISBN: 978-84-8301-847-7
   issued:

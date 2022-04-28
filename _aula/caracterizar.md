@@ -1007,7 +1007,7 @@ da construção, tanto em seu processo executivo, quanto na sua aparência.
 
 ![Guindaste na carpintaria de uma igreja gótica. Desenho de [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg){#fig:grue}
 
-## Processo construtivo, ofícios e a arquitetura gótica ## {data-visibility="hidden"}
+## Processo construtivo, ofícios e a arquitetura gótica ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Relação entre a organização do trabalho no canteiro de obras da Europa
