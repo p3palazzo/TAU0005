@@ -641,7 +641,7 @@ igrejas não deveriam ter muita ornamentação esculpida e pintada, já que
 essas figuras são elementos materiais que prendem o espírito a tudo o
 que é terreno. Porém, isso não se aplica ao vidro, pois ele transmite
 uma imagem por meio da luz. Suger seguia uma teoria de que Deus era luz
-[@stanley:2006original65], já que a luz foi o primeiro elemento da
+[@rudolph:2011inventing93], já que a luz foi o primeiro elemento da
 Criação bíblica e podia ser compreendida como um símbolo da
 transcendência da materialidade física. Por isso, a luz do sol era
 divina, tornando esse artifício imune ou presente em um plano superior
@@ -679,9 +679,10 @@ pintada.
 Quando assumiu a abadia de S. Dionísio em 1122 ([@fig:sdenis-caro]),
 Suger já tinha, portanto, a tecnologia do vitral para realizar o seu
 ideal de uma ornamentação inteiramente baseada na luz. Ele juntou essa
-tecnologia com o desenvolvimento estrutural das abóbadas nervuradas para
-poder fazer janelas cada vez maiores e eliminar, assim, a maior parte
-das superfícies pintadas e esculpidas.
+tecnologia com o desenvolvimento estrutural das abóbadas nervuradas e
+dos arcobotantes [@stanley:2006original65] para poder fazer janelas cada
+vez maiores e eliminar, assim, a maior parte das superfícies pintadas e
+esculpidas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Saint-Denis, reconstituição da igreja do século [IX]{.smallcaps} sobreposta à implantação da atual basílica. Desenho: [J. Chancerel, 2017][]](https://upload.wikimedia.org/wikipedia/commons/1/12/SaintDenisCarolingienne.png){#fig:sdenis-caro .nobg}
@@ -765,7 +766,7 @@ nave a um contraforte distante dela, em geral por cima de uma nave menor
 O programa iconográfico nos vitrais de Saint-Denis se baseava na
 teologia de Hugo de São Vítor, um contemporâneo de Suger. O ideal
 teológico de Hugo enfatizava a narração da história bíblica como meio
-para a explicação do seu conteúdo moral [@stanley:2006original65]. A
+para a explicação do seu conteúdo moral [@rudolph:2011inventing93]. A
 partir daí se desenvolveu a prática de realizar vitrais muito complexos
 com episódios sucessivos de uma estória religiosa, ou vários atributos
 de uma personagem bíblica ([@fig:sdenis-rosace]). Nisso, os vitrais
@@ -1006,7 +1007,7 @@ da construção, tanto em seu processo executivo, quanto na sua aparência.
 
 ![Guindaste na carpintaria de uma igreja gótica. Desenho de [Jean-Claude Golvin](https://jeanclaudegolvin.com/images-darchitecture/)](https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg){#fig:grue}
 
-## Processo construtivo, ofícios e a arquitetura gótica ## {data-visibility="hidden"}
+## Processo construtivo, ofícios e a arquitetura gótica ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Relação entre a organização do trabalho no canteiro de obras da Europa
