@@ -411,6 +411,8 @@ passo, gradual e descentralizado. Nele são encontrados basicamente três
 elementos que vão constituir sucessivamente a cidade: 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+. . .
+
 Traçado
 
 : Trata-se da forma e da posição de suas ruas e praças, configurando-se
@@ -714,7 +716,7 @@ comunitária.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::: {#fig:bali .iframe-wrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QrRB1vxWYQU?start=719" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/QrRB1vxWYQU?start=719" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Kampung* em Bali, Indonésia. Produção: [OmniHour, 2019](https://youtu.be/QrRB1vxWYQU?t=719)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
