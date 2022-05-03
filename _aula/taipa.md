@@ -18,13 +18,15 @@ header:
 
 # Materiais da construção tradicional
 
+## Mitos de origem e determinismo histórico ##
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os mitos de origem exercem uma atração especial sobre as teorias da
 arquitetura. A visão de mundo na qual os primórdios de algum modo
 explicam, e por que não justificam, o desenvolvimento histórico da
 cultura é recorrente não só em sociedades tradicionais, mas inclusive em
 movimentos intelectuais modernos como o Iluminismo e o Romantismo. É
-essa premissa que está por trás da série de pinturas [*O decurso do
+essa premissa que está por trás da série de pinturas [*Decurso do
 império*], que Thomas Cole, um artista romântico americano, realizou na
 década de 1830. Essa série começa retratando uma comunidade de
 caçadores-coletores que vivem em tendas ([@fig:cole-savage]); a premissa
@@ -32,15 +34,15 @@ da sequência é a de que os estágios sucessivos estão predestinados na
 origem da civilização.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[*O decurso do império*]: https://pt.wikipedia.org/wiki/O_Curso_do_Império
+[*Decurso do império*]: https://pt.wikipedia.org/wiki/O_Curso_do_Império
 
 ::: full
-![Thomas Cole, The Course of Empire: The Savage State, 1834](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg){#fig:cole-savage}
+![Thomas Cole, Decurso do império: The Savage State, 1834](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg){#fig:cole-savage}
 :::
 
 * * * *
 
-![Thomas Cole, The Course of Empire: The Arcadian or Pastoral State, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian}
+![Thomas Cole, Decurso do império: The Arcadian or Pastoral State, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O contato com a Natureza justifica a racionalidade da técnica em
@@ -71,7 +73,7 @@ sistemas --- esqueleto e parede --- são um critério válido para fazer
 essa classificação. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9c/Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg" data-background-position="top"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A premissa de que existe uma sequência no desenvolvimento da
@@ -87,11 +89,11 @@ entre 1568 e 1583 ([@fig:se1568]).
 
 ![Edgar de Oliveira da Fonseca (construção) e Pe. Paulo Lachen Maier (interior), catedral metropolitana de São Sebastião do Rio de Janeiro, 1979. Foto: [Diego Baravelli, 2016](https://commons.wikimedia.org/wiki/File:Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg/1280px-Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg){#fig:se1979}
 
-## {data-background-image="https://i.pinimg.com/originals/5a/dd/0a/5add0ad0201f86d7bf89d9a01e44863c.jpg" data-background-position="top"}
+* * * *
 
 ![Igreja de São Sebastião da antiga Sé, Rio de Janeiro, 1568--1583. Foto da saída da última missa antes da demolição da igreja e do morro do Castelo, por Augusto Malta, 1922](https://i.pinimg.com/originals/5a/dd/0a/5add0ad0201f86d7bf89d9a01e44863c.jpg){#fig:se1568}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5f/Long_Waves_of_Social_Evolution.jpg"}
+* * * *
 
 ![Martin Hilbert, esquema do "progresso" tecnológico humano. [Curso Digital Technology and Social Change, Universidade da Califórnia, [s.d.]](https://commons.wikimedia.org/wiki/File:Long_Waves_of_Social_Evolution.jpg#/media/File:Long_Waves_of_Social_Evolution.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Long_Waves_of_Social_Evolution.jpg/1280px-Long_Waves_of_Social_Evolution.jpg){#fig:progress}
 
@@ -106,7 +108,7 @@ das origens *primitivas* da humanidade às sociedades que antigamente
 eram chamadas de *civilizadas*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/d9/cf/6d/d9cf6d6f6ae3d38e2bd76d9d09bf9bf8.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por isso, a regra geral que podemos usar para uma taxonomia da
@@ -124,7 +126,7 @@ articula em culturas construtivas infinitamente diversas.
 
 ![Captura de tela do jogo Civilization VI](https://i.pinimg.com/originals/d9/cf/6d/d9cf6d6f6ae3d38e2bd76d9d09bf9bf8.jpg){#fig:civ6-classical}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/84/Extracting_clay_to_produce_bricks.jpg"}
+* * * *
 
 ![Extração de argila para olaria em Mlala, Dwangwa, Malawi. Foto: [Bibiloucapetown, 2017](https://commons.wikimedia.org/wiki/File:Extracting_clay_to_produce_bricks.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extracting_clay_to_produce_bricks.jpg/1280px-Extracting_clay_to_produce_bricks.jpg){#fig:claypit}
 
@@ -139,16 +141,18 @@ ao alcance geográfico, técnico e econômico de uma determinada sociedade.
 [@fig:claypit]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Arquitetura comparada ##
+
 ## {data-background-image="https://i.pinimg.com/originals/80/60/f5/8060f5e6ab9e2f5611b7db0f0e13a449.jpg" data-background-position="bottom"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[O estudo da arquitetura tradicional]{.newthought} começa necessariamente pelo estudo
+O estudo da arquitetura tradicional começa necessariamente pelo estudo
 dos materiais de construção que cada cultura tem ao seu alcance. Esse
 estudo forma a base daquilo que tem sido chamado, desde o século
 [XIX]{.smallcaps}, de *arquitetura comparada*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/5a/f7/8c/5af78ce175489724eeb76342caff71b3.jpg" data-background-size="contain" data-background-position="left"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
 ![Sir Banister Fletcher e Banister F. Fletcher, *A History of Architecture on the Comparative Method*, folha de rosto da 1.ª edição, 1896](https://i.pinimg.com/originals/5a/f7/8c/5af78ce175489724eeb76342caff71b3.jpg){#fig:fletcher-cover}
@@ -169,7 +173,7 @@ arquitetônicas deixaram para trás. Nesses registros, alguns aspectos
 *comparáveis* da construção ficam evidentes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/ad/66/c5/ad66c5782454670e378614af674f9d1b.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A ordem em que os materiais são apresentados nos tratados
@@ -181,11 +185,13 @@ técnico e administrativo chinês do século [XI]{.smallcaps}
 italiano nos séculos [XV]{.smallcaps} e [XVI]{.smallcaps}: eles começam
 com as fundações, seguem para as estruturas em madeira, e daí para
 alvenarias e acabamentos.
+
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Li Jie, *Yingzao fashi*, reedição da década de 1920](https://i.pinimg.com/originals/ad/66/c5/ad66c5782454670e378614af674f9d1b.jpg){#fig:yzfs1920}
 
-## {data-background-image="https://i.pinimg.com/originals/65/a2/11/65a21194ab8bcb228f951a30f0768160.jpg"}
+* * * *
 
 ::: full
 ![Restauro do telhado no salão principal do mosteiro budista Chion-in, Higashiyama, Quioto, 1234, reconstruído em 1633. Foto: [Jeffrey Friedl, 2014](http://regex.info/blog/2014-03-10/2397)](https://i.pinimg.com/originals/65/a2/11/65a21194ab8bcb228f951a30f0768160.jpg){#fig:chion-in}
@@ -206,14 +212,14 @@ variedade de condições técnicas e econômicas multiplica a diversidade de
 linguagens arquitetônicas tradicionais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
+## Paradigmas construtivos ##
 
 ::: align-right
 ![Cabanas primitivas segundo William Chambers, *A Treatise on Civil Architecture*, 1759](https://i.pinimg.com/originals/cf/1a/f5/cf1af57c2e6422122e18196f92629e29.jpg){#fig:huts}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Reconhecendo essa diversidade de aplicações]{.newthought} dos
+Reconhecendo essa diversidade de aplicações dos
 materiais, podemos agrupar as tradições arquitetônicas em três tipos
 genéricos de acordo com o sistema estrutural dominante que resulta
 desses materiais e das tecnologias usadas ([@fig:huts]):
@@ -237,7 +243,7 @@ desses materiais e das tecnologias usadas ([@fig:huts]):
    portantes maciças com abóbadas.  
    ![](https://i.pinimg.com/originals/bd/1d/5d/bd1d5d1e92e67705dbdad67cf81e309f.jpg)
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esses tipos foram idealizados por dois arquitetos do final do século
@@ -256,7 +262,7 @@ alegóricos de tenda, cabana e caverna [@chambers:1759treatise;
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/27/Font-de-Gaume.jpg"}
+* * * *
 
 ![Charles R. Knight, Artistas Cro-Magnon pintando mamutes na caverna de Font-de-Gaume, oeste da França, 1920](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Font-de-Gaume.jpg/1280px-Font-de-Gaume.jpg){#fig:cavemen}
 
@@ -289,7 +295,7 @@ aplicável a todas as tradições arquitetônicas sem as hierarquizar.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg"}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Cabane_de_Terra_Amata_2.jpg"}
+* * * *
 
 ::: align-right
 ![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata}
@@ -308,7 +314,7 @@ apoiados nas suas extremidades. Essa interpretação dos vestígios de
 Terra Amata é questionada por alguns arqueólogos [@pettitt:1997high29].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c1/Dwelling_made_with_mammoth_bones.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Outros restos de tendas, desta vez obra de humanos modernos, feitas de
@@ -318,11 +324,13 @@ tendas, como as yurtas da Ásia central ([@fig:yurt]), têm uma construção
 semipermanente. Fora esses casos especiais, a tenda é um tipo
 predominantemente temporário, e não vai nos ocupar mais neste curso.
 Nosso percurso segue, portanto, para o tipo da *cabana*.
+
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Reconstituição de tenda em ossos e peles de mamute de Mezhyrich, Ucrânia, 15.000 a.p., no Museu Nacional de Tóquio Foto: [Momotarou2012, 2013](https://commons.wikimedia.org/wiki/File:Dwelling_made_with_mammoth_bones.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dwelling_made_with_mammoth_bones.jpg/1280px-Dwelling_made_with_mammoth_bones.jpg){#fig:mezhyrich}
 
-## {data-background-image="https://i.pinimg.com/originals/e6/3d/c4/e63dc40df530a89928a8b9c2b4c2c572.jpg"}
+* * * *
 
 ![Yurta contemporânea. Foto: [Anton Starikov, 2011](https://www.pond5.com/pt/stock-images/photos/item/32541060-yurt)](https://i.pinimg.com/originals/e6/3d/c4/e63dc40df530a89928a8b9c2b4c2c572.jpg){#fig:yurt}
 
@@ -350,7 +358,7 @@ organiza o espaço indefinido numa malha. Já a caverna é um paradigma
 entre as massas de paredes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain"}
+* * * *
 
 ::: align-right
 ![Reconstituição de abrigo do período Natufiano em ain-Mallaha, Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .line}
@@ -366,7 +374,7 @@ contenção em pedra lavrada que dá abrigo para uma cabana de planta
 circular encaixada contra a encosta.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-iframe="https://www.youtube-nocookie.com/embed/z8A0LpX7_yM?start=1464"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No noroeste da península Arábica, um conjunto curioso de cercados
@@ -375,26 +383,22 @@ retangulares foi construído a partir do [VI]{.smallcaps} milênio a.C
 construtiva constante, usando blocos de pedra lavrada fincados
 verticalmente no solo e preenchimento com cascalho
 [@groucutt:2020monumental30].
+
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::: {#fig:alula .iframe-wrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/z8A0LpX7_yM?start=1464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/z8A0LpX7_yM?start=1464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Mustatil* (cercado retangular) próximo a al-Ula, Arábia Saudita, c.
 5000 a.C.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-visibility="hidden"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 * * * *
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/30/64/fb/3064fb0fb0487eeabef2f0ea63dd88d1.jpg"}
 
 ![*Mustatil* visto desde uma das extremidades](https://i.pinimg.com/originals/30/64/fb/3064fb0fb0487eeabef2f0ea63dd88d1.jpg){#fig:mustatil}
 
-## {data-background-image="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20210526192136801-0073:S0003598X2100051X:S0003598X2100051X_fig3.png"}
+* * * *
 
 ![Câmara semienterrada na extremidade de um *mustatil*. Fotos: [Agência de Arqueologia do Reino da Arábia Saudita](https://www.cambridge.org/core/journals/antiquity/article/mustatils-cult-and-monumentality-in-neolithic-northwestern-arabia/80E2AD8B538C268E7CA5C3C29CB4EC52)](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20210526192136801-0073:S0003598X2100051X:S0003598X2100051X_fig3.png){#fig:musta-chamber}
 
@@ -406,14 +410,14 @@ câmaras podiam ser abrigos temporários e, quem sabe, cerimoniais onde as
 pessoas cozinhavam e consumiam a caça [@thomas:2021mustatils95].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"}
+## Construções semienterradas ##
 
 ::: full
 ![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[As construções semienterradas]{.newthought} são, de toda a arquitetura,
+As construções semienterradas são, de toda a arquitetura,
 as que definem com maior clareza os seus espaços interiores. Elas
 necessariamente são construídas com alguma
 combinação de escavação, aterro e muros de arrimo em pedra. Esses
@@ -421,7 +425,7 @@ arrimos vão desde pedra lavrada, blocos simplesmente recolhidos e
 empilhados, até grandes lajes megalíticas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/6b/f8/67/6bf8674353e270e052c3e571526de747.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O conceito de uma arquitetura feita de espaços como que *escavados* na
@@ -436,13 +440,17 @@ caso, a semelhança com cavernas seria ainda mais marcante.
 
 ![Construção dos recintos de Göbekli Tepe, c. 9600 a.C. Desenho: [Fernando Baptista, 2016](https://www.nationalgeographic.com/travel/article/150120-gobekli-tepe-oldest-monument-turkey-archaeology)](https://i.pinimg.com/originals/6b/f8/67/6bf8674353e270e052c3e571526de747.jpg){#fig:gt-natgeo}
 
-## {data-background-image="https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg"}
+* * * *
 
 ::: align-right
 ![Vista aérea dos templos megalíticos de Ħal Tarxien, Malta, 3250--3000 a.C.](https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg){#fig:tarxien-aer}
 :::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg/1280px-Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg"}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
 
 ![Vista do templo central de Ħal Tarxien, ao longo do eixo que vai do portal principal ao altar, c. 3100 a.C. Foto: [Ethan Doyle White, 2017](https://commons.wikimedia.org/wiki/File:Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg/1280px-Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg){#fig:tarxien-axis}
 
@@ -458,10 +466,10 @@ cada vez mais restritos, dando um senso de reclusão crescente até que se
 alcançava um altar no fundo da construção ([@fig:tarxien-axis]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anta_orca_de_pendilhe_0486.JPG/1280px-Anta_orca_de_pendilhe_0486.JPG"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[As construções semienterradas]{.newthought} se aclimatam até as
+As construções semienterradas se aclimatam até as
 extremidades úmidas da Eurásia, onde elas são usadas tanto como
 sepulturas quanto como habitações --- às vezes ao mesmo tempo. As
 construções monumentais muitas vezes são delimitadas com imensas lajes
@@ -483,6 +491,8 @@ rituais: desde sacrifícios religiosos até sepultamentos humanos.
 ![Cortes do túmulo de Maeshowe. [Fantoman400, 2006](https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif){#fig:maeshowe-sec .line}
 :::
 
+* * * *
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nas ilhas Órcades, o túmulo neolítico de Maeshowe, de c. 2800 a.C., tem
 uma câmara central quadrada, com 4 metros de lado, debaixo de um
@@ -493,20 +503,28 @@ mais importante é a célula que fica diante do eixo do corredor
 ([@fig:maeshowe-sec]), pelo qual a luz do sol entra no dia do solstício de
 inverno.
 
-![Planta do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 a.C. Desenho: F.W.I. Thomas, após 1861](https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg){#fig:maeshowe-plan}
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Planta do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 a.C. Desenho: F.W.I. Thomas, após 1861](https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg){#fig:maeshowe-plan}
 
 ## {data-background-iframe="https://www.youtube.com/watch?v=Rlkjf-i5_Qw&t=11s"}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+
 ::: align-right
 ![Reconstituição da aldeia de Skara Brae vista desde o pátio de acesso ao corredor](https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png){#fig:skb-art}
 :::
 
-![Câmara de uma casa em Skara Brae, com lar central e três plataformas contra as paredes, célula satélie ao fundo. Foto: [Archaeology Scotland, 2013](https://commons.wikimedia.org/wiki/File:Skara_Brae_Beds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/1280px-Skara_Brae_Beds.jpg){#fig:skb-int}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg"}
+* * * *
+
+![Câmara de uma casa em Skara Brae, com lar central e três plataformas contra as paredes, célula satélie ao fundo. Foto: [Archaeology Scotland, 2013](https://commons.wikimedia.org/wiki/File:Skara_Brae_Beds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/1280px-Skara_Brae_Beds.jpg){#fig:skb-int}
+
+* * * *
 
 ![Planta da aldeia neolítica de Skara Brae, ilhas Órcades, Escócia, 3100--2800 a.C. Desenho adaptado de V. Gordon Childe, 1930](https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg){#fig:skb-plan}
 
@@ -523,7 +541,7 @@ dentro das próprias casas, debaixo das plataformas que serviam de bancos
 e camas ([@fig:skb-int]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/ce/51/bc/ce51bcfc1ca839b7e5f4b5e1f8414288.png"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No Japão, as casas semienterradas aparecem desde o final do Paleolítico
@@ -537,11 +555,15 @@ aprimoramentos, até o século [XVI]{.smallcaps} d.C.
 ![Diagrama de uma casa semienterrada, período Jōmon tardio, Japão, últimos séculos a.C. [Kawashima, 2011](https://doi.org/10.4312/dp.38.9)](https://i.pinimg.com/originals/ce/51/bc/ce51bcfc1ca839b7e5f4b5e1f8414288.png){#fig:jomon-diagram .line}
 :::
 
-## {data-background-image="https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png" data-background-size="contain"}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
 
 ![Detalhe da estrutura de uma casa semienterrada, período Jōmon tardio](https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png){#fig:jomon-detail .line}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/fc/Tomba_dei_Rilievi_(Banditaccia).jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A solução espacial da câmara com células acopladas reaparece nas
@@ -558,8 +580,6 @@ irradiam as células para os sarcófagos.
 
 # Plataformas e terraplenos
 
-##
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O abrigo aconchegante num espaço escavado na terra ou adossado a um
 talude é uma das mais antigas formas de construção humana. Sempre que as
@@ -570,7 +590,7 @@ solo escavado ou do talude, ou então, pelo contrário, colocar uma
 construção em evidência acima do nível do terreno à sua volta.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O conceito de *plataforma* vem da alegoria da cabana primitiva na forma
@@ -599,10 +619,10 @@ nas origens da humanidade.
 ![Taipal segundo Jean-Baptiste Rondelet, *Traité de l'art de bâtir*, livro I:ii, 1812](https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg){#fig:rondelet}
 :::
 
-## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm"}
+## Espaço subtrativo ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[A espacialidade da arquitetura na terra]{.newthought} e, particularmente,
+A espacialidade da arquitetura na terra e, particularmente,
 o tipo da câmara com células anexas, é um paradigma que pode ser
 adaptado a uma gama muito variada de necessidades arquitetônicas, da
 habitação a grandes edifícios públicos. Na bacia do Mediterrâneo, a
@@ -618,7 +638,7 @@ assentamentos densos formados por células com estrutura em adobe
 ![Reconstituição do tecido construído de Çatal Höyük, Anatólia, 7100--5700 a.C. [[ZDF]{.smallcaps}, 2020](https://commons.wikimedia.org/wiki/File:Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm)](https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm){#fig:catalhoyuk-vid}
 :::
 
-## {data-background-image="https://i.pinimg.com/originals/b4/7c/91/b47c9135a83f1695150a0214ad5204bf.png"}
+* * * *
 
 ![Planta da aldeia neolítica de Çatal Höyük. Contorno pontilhado: pátios externos](https://i.pinimg.com/originals/b4/7c/91/b47c9135a83f1695150a0214ad5204bf.png){#fig:catalhoyuk-plan .line}
 
@@ -631,7 +651,7 @@ construído muito compacto, com poucos pátios internos e nenhuma rua.
 [@fig:catalhoyuk-plan]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png" data-background-position="top"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As células eram construídas com uma estrutura portante mista de madeira
@@ -641,10 +661,10 @@ organizado com uma área central cercada por plataformas.
 
 ![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
 
-## {data-background-image=""}
+## Taipas ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Além da alvenaria de blocos]{.newthought}, há outro modo tradicional de
+Além da alvenaria de blocos, há outro modo tradicional de
 construir paredes: as taipas. Esse termo designa uma grande variedade de
 métodos de construção com terra. Alguns, como a taipa de mão,
 pau-a-pique ou tabicado, consistem numa armação em madeira ou fibras
@@ -652,18 +672,14 @@ vegetais, sobre a qual se coloca uma camada de terra; nesses casos, a
 parede tem uma resistência estrutural baixa. Por isso, esses tipos de
 taipa são usados sobretudo para paredes de vedação, ou em construções
 muito pequenas e simples.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Quando se fala em taipa como sistema estrutural, é a taipa de pilão que
 vem à mente: uma série de camadas de terra compactada, geralmente
 assentadas dentro de uma forma temporária (o taipal) ou como um
 terrapleno entre paredes de alvenaria.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse procedimento, na sua forma tradicional, foi descrito e ilustrado
@@ -683,17 +699,19 @@ seguinte.
 ![Esquema do processo de construção com taipa de pilão. [Jean-Baptiste Rondelet, 1802](https://gallica.bnf.fr/ark:/12148/bpt6k6555321j/f20.item)](https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg){#fig:taipal}
 :::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/92/Ramming_Earth.JPG"}
+* * * *
 
 ::: align-right
 ![Compactando manualmente uma parede em taipa de pilão. Sinai, Egito. Foto: [Moshirah, 2008](https://commons.wikimedia.org/wiki/File:Ramming_Earth.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ramming_Earth.JPG/1280px-Ramming_Earth.JPG){#fig:ram}
 :::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg"}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
 
 ![Mesquita maior em Djenné, Mali, século [XIV]{.smallcaps}, reconstruída 1906--1907. Foto: [Gilles Mairet, 1972](https://commons.wikimedia.org/wiki/File:La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg/1280px-La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg){#fig:djenne}
-
-<!--_,-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O taipal geralmente é uma forma móvel em madeira, apoiada en tirantes
@@ -704,11 +722,7 @@ da parede para dar mais estabilidade e facilitar o acesso para
 manutenção. Esse costume é tradicional na região do Sael, ao sul do
 deserto do Saara, por exemplo nas cidades históricas do delta do rio
 Níger, como Djenné ([@fig:djenne]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na teoria, a taipa de pilão poderia se prestar a formas totalmente
 orgânicas, já que ela não depende do módulo mínimo de um bloco. Na
 prática, ela é usada sobretudo em grandes paredes retilíneas, para
@@ -717,10 +731,10 @@ espessura das paredes em taipa de pilão faz com que elas, em geral, não
 precisem de contraventamento.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## Terraplenos ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[O conceito de terrapleno se realiza]{.newthought} de fato com uma
+O conceito de terrapleno se realiza de fato com uma
 construção um pouco mais complexa. Ela consiste nalguma espécie de
 terrapleno entre contenções em alvenaria. Ao contrário da taipa de
 pilão, que usa formas removíveis, o terrapleno fica permanentemente
@@ -729,9 +743,7 @@ usados sobretudo para edifícios grandes, com coberturas pesadas e onde
 se busca um aspecto monumental a partir da aparência da massa edificada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ziggarut_of_Ur_-_M.Lubinski.jpg/1280px-Ziggarut_of_Ur_-_M.Lubinski.jpg"}
-
-<!--_,-->
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A antiga Mesopotâmia tem alguns dos mais antigos exemplos de parede
@@ -747,7 +759,7 @@ um terrapleno com 30 metros de altura.
 
 ![Zigurate, antigo reino de Ur, atual Iraque, c. 2050--1980 a.C. Foto: [Michael Lubinski, 2006](https://commons.wikimedia.org/wiki/File:Ziggarut_of_Ur_-_M.Lubinski.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ziggarut_of_Ur_-_M.Lubinski.jpg/1280px-Ziggarut_of_Ur_-_M.Lubinski.jpg){#fig:ziggurat}
 
-## {data-background-image="https://i.pinimg.com/originals/a9/25/45/a925451f15346eca6d7d517c08836520.png"}
+* * * *
 
 ![Reconstituição do Zigurate de Eanna, Uruk, século [XXI]{.smallcaps} a.C. Modelo: [Artefacts](http://www.artefacts-berlin.de/portfolio-item/the-ur-iii-period/)](https://i.pinimg.com/originals/a9/25/45/a925451f15346eca6d7d517c08836520.png){#fig:eanna}
 
@@ -760,7 +772,7 @@ sistema, portanto, e elas apresentam variações sobre o tema da estrutura
 em adobe, de acordo com a espessura de cada uma.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png"}
+* * * *
 
 ::: align-right
 ![Corte de uma parede em adobe típica da antiga Mesopotâmia. (a) parede, (b) baldrame ou soco, (c) fundação em sapata corrida, (bondstone) bloco juntouro ou perpianho. Anastasio, 2020](https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png){#fig:adobe-foundations}
@@ -793,6 +805,8 @@ compactado --- terra, entulho de construção e outros resíduos.
 
 ## {data-background-iframe="https://www.youtube.com/watch?v=0h_YGXsMBUo&t=26"}
 
+* * * *
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Com o tempo, essas faces em tijolos cozidos seriam vistas como uma
 superfície ideal para ornamentar a construção. Na Babilônia, os tijolos
@@ -805,11 +819,19 @@ sucessão de pátios cada vez mais restritos, até chegar na porta
 propriamente dita. Esse enclausuramento dos volumes é a função
 primordial dessas estruturas monumentais, seja por motivos militares ou
 simbólicos.
+
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: align-right
 ![Templo de Enki em Eridu, nível VII, c. 4000--3800 a.C. Modelo: [Cush 2016](https://commons.wikimedia.org/wiki/File:Eridu_temple_7.png)](https://upload.wikimedia.org/wikipedia/commons/6/68/Eridu_temple_7.png){#fig:eridu}
 :::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
 
 ![Porta de Ishtar, Babilônia, 575 a.C., atualmente no museu Pergamon, Berlim](https://i.pinimg.com/originals/d5/83/2c/d5832cea9db6c2723d2ff99226e4b400.jpg){#fig:ishtar}
 
@@ -824,7 +846,7 @@ arquitetura, visível acima da superfície do solo, e ajudando a dar uma
 impressão de solidez para o edifício.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/99/11/a3/9911a3e0d03eb5628fde9bc5ce76e161.jpg" data-background-position="bottom"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As fundações existem para distribuir a carga do edifício no solo de modo
@@ -841,7 +863,7 @@ mais grosseiramente e encaixadas sem um aparelho regular.
 
 ![Interpretação das fundações de muralhas descritas por Vitrúvio, na tradução de [Claude Perrault, 1673](http://archive.org/details/gri_33125008503100)](https://i.pinimg.com/originals/99/11/a3/9911a3e0d03eb5628fde9bc5ce76e161.jpg){#fig:vitruve-pl4}
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/funda-solos-1.png" data-background-size="contain"}
+* * * *
 
 ![Fundações em solo raso e em solo profundo](https://hcommons.org/app/uploads/sites/1002372/2021/07/funda-solos-1.png){#fig:cargas-funda .line}
 
@@ -856,11 +878,7 @@ encontrada perto da superfície, as fundações podem se apoiar diretamente
 sobre essa camada. Já nos solos profundos, a terra funciona como um
 material muito viscoso, que vai resistir à carga transmitida pelas
 fundações ([@fig:cargas-funda]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nesse caso, duas precauções são muito
 importantes: primeiro, a carga do edifício precisa ser equilibrada entre
 todas as fundações, para evitar o assentamento diferencial, que é quando
@@ -869,7 +887,7 @@ fundações precisam estar comprimidas em todas as direções --- a carga
 não pode ser distribuída onde houver esforços de tração ou corte.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/33/52/f5/3352f5c1459c5625fe8ff68ca3c36abc.png" data-background-position="top"}
+* * * *
 
 ![Civilização do vale do rio Indo, fase inicial (3300--2600 a.C.). Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization,_Early_Phase_(3300-2600_BCE).png)](https://i.pinimg.com/originals/33/52/f5/3352f5c1459c5625fe8ff68ca3c36abc.png){#fig:indus-early}
 
@@ -880,7 +898,7 @@ de Mehrgarh, uma cidade neolítica no vale do rio Indo.
 [@fig:indus-early]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/52/bb/7c/52bb7c1e9efe132df5fc5e661d8ccd35.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mehrgarh foi construída mais de cinco mil anos atrás numa planície
@@ -894,7 +912,7 @@ importante com a homogeneidade do assentamento no solo.
 
 ![Fundações escavadas no sítio arqueológico de Mehrgarh, vale do rio Indo, c. 5500--3500 a.C. Foto: Catherine Jarrigue, Mission Archéologique de l'Indus](https://i.pinimg.com/originals/52/bb/7c/52bb7c1e9efe132df5fc5e661d8ccd35.jpg){#fig:mehrgarh}
 
-## {data-background-video="https://cdn.palazzo.arq.br/firmitas/taipa/Rubble_trench_foundation_for_a_Cob_Building.webm" data-background-video-muted="true" data-background-video-loop="true"}
+## Dimensionamento ##
 
 :::::::::::::::::::::::::::::::::::::::::: {#fig:rubble .iframe-wrapper .slide-bg}
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/eNN7T4fBQo4?start=240" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -904,7 +922,7 @@ pique. [House Alive, 2016](https://youtu.be/eNN7T4fBQo4?t=240)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Por causa das diferenças]{.newthought} enormes entre tipos de solos, as regras de
+Por causa das diferenças enormes entre tipos de solos, as regras de
 dimensionamento das fundações são só indicações preliminares. Mais do
 que em qualquer outra parte da arquitetura tradicional, a solidez das
 fundações depende da experiência dos mestres de obras de cada lugar, que
@@ -930,7 +948,7 @@ impede o contato do oxigênio com a madeira, que demora mais para
 apodrecer.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/epcc14-05.png" data-background-size="contain"}
+* * * *
 
 ![Sistemas convencionais de fundações -- (a) cascalho, (b) concreto ou argamassa com agregados, (c) sapata corrida em alvenaria, (d) baldrame, (e) escavação a ser preenchida com aterro. Pereira da Costa, *Enciclopédia prática da construção civil* v. 14](https://hcommons.org/app/uploads/sites/1002372/2021/07/epcc14-05.png){#fig:epcc14-05 .line}
 
@@ -946,12 +964,12 @@ nos mostra o manual de Francisco Pereira da Costa
 meados do século [XX]{.smallcaps} ([@fig:epcc14-05]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/epcc14-04.png" data-background-size="contain"}
+## Assentamento de fundações ##
 
 ![Escavação e preenchimento de fundações -- (a) vala, (b) escoramento para terrenos instáveis, (c) preenchimento com fundo de concreto e baldrame em pedra lavrada. Pereira da Costa, *Enciclopédia prática da construção civil* v. 14](https://hcommons.org/app/uploads/sites/1002372/2021/07/epcc14-04.png){#fig:epcc14-04 .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Agora que já sabemos]{.newthought} quais são os principais tipos e as
+Agora que já sabemos quais são os principais tipos e as
 dimensões das fundações tradicionais, precisamos saber como assentá-las.
 Isso se faz escavando uma vala, que pode ser um pouco mais larga do que
 a espessura das fundações ([@fig:epcc14-05]). Em terreno movediço, é
@@ -977,26 +995,18 @@ exceções em regiões sujeitas a terremotos ([@fig:adobe-funda]).
 Construção de fundações mistas para paredes em adobe. [Arquitectura sin Fronteras Galicia, 2014](https://youtu.be/9kZaq5SwBxo?t=371)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
-::::::::::::::::::::::::::::::::::::::::::::::::::: {.r-stack #fig:absc}
-![vista exterior](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-003-1.png){#fig:abscB .align-left .line .fragment .fade-in-then-out}
-
-![engaste do esteio no alicerce em pedra aparelhada](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-002-1.png){#fig:abscA .align-left .line .fragment .fade-in-then-out}
-
-![encaixe dos baldrames e frechais no esteio](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-013.png){#fig:abscD .align-left .line .fragment .fade-in-then-out}
-
-![elevação com corte do terreno](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-021b-1.png){#fig:abscC .align-left .line .fragment .fade-in-then-out}
+::::::::::::::::::::::::::::::::::::::::::::::::::: {.half #fig:absc}
+<div class="r-stack">![vista exterior](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-003-1.png){#fig:abscB .line .fragment .fade-in-then-out}
+![engaste do esteio no alicerce em pedra aparelhada](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-002-1.png){#fig:abscA .line .fragment .fade-in-then-out}
+![encaixe dos baldrames e frechais no esteio](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-013.png){#fig:abscD .line .fragment .fade-in-then-out}
+![elevação com corte do terreno](https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-021b-1.png){#fig:abscC .line .fragment .fade-in-then-out}</div>
 
 Esquema de montagem das fundações mistas de madeira sobre pedra lavrada na arquitetura vernácula no Brasil, segundo Vasconcellos, *Arquitetura no Brasil: sistemas construtivos*
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-::: {.columns}
-:::
-
-* * * *
-
 As estruturas mistas de alvenaria e madeira são muito comuns nessas
 regiões do mundo, e especialmente no leste da Ásia e na península
 Ibérica --- e também, por extensão da cultura ibérica, na América
@@ -1011,7 +1021,7 @@ queimado e fincado diretamente no solo, mas esse tipo de construção
 tende a apodrecer com facilidade ([@fig:abscC]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png" data-background-size="contain" data-background-position="left"}
+* * * *
 
 ::: align-right
 ![Corte esquemático de uma parede da antiga Mesopotâmia construída em adobe com fundação em pedra, segundo Anastasio, *Building Between the Two Rivers*, 59](https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png){#fig:anastasio59}
@@ -1030,19 +1040,23 @@ especialmente sensível ao risco de umidade ascendente
 [@anastasio:2020building, 59].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/ed/15/c5/ed15c515c38988f1997f70bf7df8b1c5.jpg" data-background-size="contain" data-background-position="left"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Quando se usam pisos em madeira, esse sistema também garante uma boa
 ventilação entre o chão e o assoalho do térreo, o que também ajuda a
 reduzir o acúmulo de umidade ([@fig:valpa]).
+
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Esquema de fundações tradicionais em Valparaíso, Chile, segundo Barros e Sarabia, *Sistemas constructivos básicos*](https://i.pinimg.com/originals/ed/15/c5/ed15c515c38988f1997f70bf7df8b1c5.jpg){#fig:valpa}
 
+## Silharia ##
+
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/taipa/Seleucid_Bit_Resh-Anu-Antum_Temple-Detail_and_Reconstruction-62772222-720p-30fps.mp4" data-background-video-muted="true" data-background-video-loop="true"}
 
-::::::::::::::::::::::::::::::::::::::::::::: {#fig:bitresh .iframe-wrapper .full .slide-bg}
+::::::::::::::::::::::::::::::::::::::::::::: {#fig:bitresh .iframe-wrapper .slide-bg}
 <iframe src="https://player.vimeo.com/video/62772222?autoplay=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 Bit Resh, o templo de Anu e Antum em Uruk. Iniciado no século
@@ -1052,7 +1066,7 @@ século [III]{.smallcaps} a.C.:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[O efeito arquitetônico]{.newthought} do alicerce sobrelevado sempre foi
+O efeito arquitetônico do alicerce sobrelevado sempre foi
 bastante explorado para dar uma impressão de monumentalidade em
 construções importantes. Quando essa elevação é especialmente exagerada
 para além dos requisitos práticos, e ganha uma superfície diferenciada
@@ -1063,13 +1077,17 @@ Mesopotâmia. Essa construção do século [XV]{.smallcaps} a.C.
 alvenaria.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vorderasiatisches_Museum_Berlin_038.jpg/2560px-Vorderasiatisches_Museum_Berlin_038.jpg"}
+* * * *
 
 ::: align-right
 ![Silharia do templo de Anu e Antum em Uruk, século [XV]{.smallcaps} a.C., fragmento no Vorderasiatisches Museum em Berlim. Foto: [Einsamer Schütze, 2011](https://commons.wikimedia.org/wiki/File:Vorderasiatisches_Museum_Berlin_038.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vorderasiatisches_Museum_Berlin_038.jpg/1280px-Vorderasiatisches_Museum_Berlin_038.jpg){#fig:vorderasiatisches}
 :::
 
-## {data-background-image="https://i0.wp.com/www.artefacts-berlin.de/wp-content/uploads/2018/06/uruk_seleucid_003.png"}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
 
 ![Templo de Kara-in-dash dedicado a Anu e Antum em Uruk, iniciado no século [XV]{.smallcaps} a.C. Reconstituição do estado no período selêucida, século [III]{.smallcaps} a.C.: [Artefacts, 2010](http://www.artefacts-berlin.de/portfolio-item/uruk-visualisation-project-the-seleucid-period/)](https://i0.wp.com/www.artefacts-berlin.de/wp-content/uploads/2018/06/uruk_seleucid_003.png){#fig:karaindash}
 
@@ -1079,7 +1097,7 @@ articula a elevação do templo com uma impressão de solidez e textura
 rústica na base ([@fig:karaindash]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/19/69/ea/1969eab3ab4eb5190d700219722b3167.jpg" data-background-size="contain" data-background-position="left"}
+* * * *
 
 ::: align-right
 ![Reconstituição do pódio e *apadana* no palácio imperial de Persépolis, por Charles Chipiez](https://i.pinimg.com/originals/19/69/ea/1969eab3ab4eb5190d700219722b3167.jpg){#fig:persepolis}
@@ -1090,11 +1108,7 @@ Uma versão ainda mais monumental desse mesmo expediente é o *pódio*
 usado em muitos edifícios da Antiguidade. Em geral, como aqui no palácio
 de Persépolis, do século [V]{.smallcaps} a.C. ([@fig:persepolis]), o pódio
 é uma combinação do terrapleno com a silharia.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma última ameaça para a durabilidade das fundações tradicionais é
 colocar sistemas construtivos modernos em contato com elas,
 especialmente concreto armado e impermeabilizantes. Já vimos como as
@@ -1116,6 +1130,8 @@ ascender por dentro da estrutura das muralhas e a escoar para fora da
 parede logo acima do chão. Isso causou a destruição da camada mais
 superficial dos tijolos, que foi sendo lavada ao longo dos anos por essa
 circulação da água.
+
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::: {#fig:ishtar-model .iframe-wrapper .slide-bg}
@@ -1127,7 +1143,7 @@ Universidade da Flórida e World Monuments Fund,
 2016](https://youtu.be/d23S8P-H0lM)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## Conclusão ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As fundações tradicionais são, portanto, soluções eficientes e adaptadas
