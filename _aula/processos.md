@@ -1,19 +1,23 @@
 ---
-title: "Processos da arquitetura"
+title   : "Processos da arquitetura"
 subtitle: "Arquitetura tradicional"
-item: "I"
-author: "Pedro P. Palazzo"
-date: 2022-01-18
-toc:
-  - Ordem e lugar
-  - Proporção e escala
-  - Preferência temporal e preferência local
-  - Alegoria da cabana primitiva
+item    : "I"
+author  : Pedro P. Palazzo
+date    : 2022-01-18
+excerpt: >
+  Ordem e lugar –
+  Preferência temporal e preferência local –
+  Alegoria da cabana primitiva
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
-  caption: "Thomas Cole, *The Course of Empire: The Savage State*, 1834"
+  caption: "Thomas Cole, Decurso do império: [Estado selvagem](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg), 1834"
+sidebar:
+  - title: "Leitura básica"
+    text : "*História da arquitetura mundial* Introdução"
+  - title: "Leitura complementar"
+    text : "Vitrúvio livro I"
 ---
 
 # Ordem e lugar #
@@ -87,13 +91,17 @@ posição de reconhecimento da paisagem e de controle sobre o território
 ([@fig:olduvai]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista panorâmica da garganta do Olduvai, vale do Rift, norte da Tanzânia. Foto: [Noel Feans, 2009][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Olduvai_Gorge_or_Oldupai_Gorge.jpg/1280px-Olduvai_Gorge_or_Oldupai_Gorge.jpg){#fig:rift .full}
+::: full
+![Vista panorâmica da garganta do Olduvai, vale do Rift, norte da Tanzânia. Foto: [Noel Feans, 2009][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Olduvai_Gorge_or_Oldupai_Gorge.jpg/1280px-Olduvai_Gorge_or_Oldupai_Gorge.jpg){#fig:rift}
+:::
 
 [Noel Feans, 2009]: https://commons.wikimedia.org/wiki/File:Olduvai_Gorge_or_Oldupai_Gorge.jpg
 
 ## Percursos ## {data-background-video="https://cdn.palazzo.arq.br/arqtrad/processos/olduvai-landscape.webm" data-background-video-muted="true"}
 
-![Garganta do Olduvai. Filme: [David Gutiérrez e Ignacio Zapico, 2016](https://youtu.be/8To3-9ZecnU)](https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/processos/olduvai-landscape.webm){#fig:olduvai .full}
+::: full
+![Garganta do Olduvai. Filme: [David Gutiérrez e Ignacio Zapico, 2016](https://youtu.be/8To3-9ZecnU)](https://cdn.palazzo.arq.br/arqtrad/processos/olduvai-landscape.webm){#fig:olduvai}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A linha de cumeada é um percurso eficiente para as pessoas se orientarem
@@ -131,7 +139,9 @@ cuidadosa do sítio onde a povoação vai se estabelecer.
 
 ## {data-background-video="https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4" data-background-video-muted="true"}
 
-![Kostyonki, Rússia. Fonte: Google Earth](https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4){#fig:kostyonki-google .full}
+::: full
+![Kostyonki, Rússia. Fonte: Google Earth](https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4){#fig:kostyonki-google}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No sítio de Kostyonki, no atual sudoeste da Rússia,
@@ -157,7 +167,9 @@ vale ([@fig:kostyonki-model]).
 
 ## {data-background-transition="fade-out" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png"}
 
-![Localização no contexto das sociedades pré-históricas com habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-locator.png){#fig:kostyonki-loc .nobg .align-right .overlay-slide}
+::: align-right
+![Localização no contexto das sociedades pré-históricas com habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-locator.png){#fig:kostyonki-loc .nobg   .overlay-slide}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Cada acampamento era formado por algumas cabanas
@@ -168,11 +180,15 @@ acampamentos não eram longe da água e dos campos de caça e coleta no
 fundo do vale ([@fig:kostyonki-site]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia, ocupação c. 14.000 a.p. Desenho com base em Jarzombek (2013) e Grigor'ev (1967), curvas de nível a cada 5 metros. Linha tracejada grossa: percurso estruturante de cumeada; linha tracejada fina: percursos de cumeada secundários; linha pontilhada: percurso de contra-cumeada](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png){#fig:kostyonki-site .full}
+::: full
+![Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia, ocupação c. 14.000 a.p. Desenho com base em Jarzombek (2013) e Grigor'ev (1967), curvas de nível a cada 5 metros. Linha tracejada grossa: percurso estruturante de cumeada; linha tracejada fina: percursos de cumeada secundários; linha pontilhada: percurso de contra-cumeada](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png){#fig:kostyonki-site}
+:::
 
 ## {data-background-transition="fade-in" data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg"}
 
-![Kostyonki na atualidade. Mapa de base: OpenStreetMap](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg){#fig:kostyonki-osm .full}
+::: full
+![Kostyonki na atualidade. Mapa de base: OpenStreetMap](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg){#fig:kostyonki-osm}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A organização do território pelos primeiros habitantes humanos no
@@ -197,7 +213,9 @@ I d.C. Hoje em dia, é uma trilha de caminhada bastante popular.
 
 ##
 
-![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg){#fig:bronzo .align-right .r-stretch}
+::: align-right
+![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg){#fig:bronzo   .r-stretch}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Já em regiões muito montanhosas, como a Itália, os percursos de cumeada
@@ -240,7 +258,9 @@ florestal intensivo ou agricultura.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png" data-background-size="contain"}
 
-![Área Kuikuro do alto Xingu indicando sítios arqueológicos c. 1250--1450, segundo Heckenberger (2003). Círculos com estrela: povoações fortificadas e com terreiro; círculos pontuados: povoações com terreiro; pontos: aldeias](https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png){#fig:kuikuro .align-right .line}
+::: align-right
+![Área Kuikuro do alto Xingu indicando sítios arqueológicos c. 1250--1450, segundo Heckenberger (2003). Círculos com estrela: povoações fortificadas e com terreiro; círculos pontuados: povoações com terreiro; pontos: aldeias](https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png){#fig:kuikuro   .line}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse é o caso do território kuikuro no alto rio Xingu desde o século
@@ -262,7 +282,9 @@ floresta manejada no seu entorno imediato [@araujo:2016logica10;
 @soares:1997guarani].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Diagrama do teko'á guarani, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-souza-2016-tekoha.png){#fig:tekoa .align-right .r-stretch}
+::: align-right
+![Diagrama do teko'á guarani, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-souza-2016-tekoha.png){#fig:tekoa   .r-stretch}
+:::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png" data-background-size="auto"}
 
@@ -311,288 +333,6 @@ assentamentos, construções e detalhes, mais o uso de traçados
 reguladores e proporções ganha importância.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Proporção e escala #
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Desde o Renascimento, o conceito de proporção tem sido o de uma
-condição matemática fixa. Falamos na seção áurea e em outras relações
-geométricas como a perfeição de formas acabadas. Mas, em quase todas as
-culturas tradicionais, as proporções não são a *finalidade* da
-arquitetura e sim o *meio* de produzir a arquitetura. As proporções são
-mecanismos para planejar o espaço com regularidade em escalas sucessivas
-e ao longo das gerações que constroem uma obra.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Proporções e estética ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-As proporções são o primeiro instrumento da arquitetura tradicional.
-Hoje em dia, os projetos arquitetônicos são condicionados por medidas
-numéricas: normas que exigem dimensões métricas de ambientes, o cálculo
-estrutural que estipula quantidades de materiais, o desempenho de
-componentes que é medido em patamares numéricos... Por isso, as cotas de
-dimensão e os quadros quantitativos são os elementos mais importantes de
-um projeto arquitetônico na atualidade.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain" data-background-position="right"}
-
-![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault .align-right}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O uso moderno e contemporâneo das proporções acabou seguindo essa mesma
-lógica, e prova disso são os tratados das ordens clássicas publicados
-nos últimos quinhentos anos. O que chamamos de as "cinco ordens" da
-arquitetura clássica ([@fig:perrault]) são, de modo muito resumido,
-receitas para ajustar as proporções de colunas, vigas, arcos e pedestais
-entre si e com o edifício como um todo.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png" data-background-size="contain" data-background-position="right"}
-
-![Detalhe da ordem dórica segundo Vinhola, edição de 1787](https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png){#fig:vignola .align-right .line}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Os tratados das ordens, como o do Vinhola no final do século
-[XVI]{.smallcaps}, ensinam essas proporções quase sempre na forma de uma
-série de cotas que medem a dimensão de cada elemento em módulos e partes
-de módulos ([@fig:vignola]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/7c/5e/e1/7c5ee136540dcbb85c2ad97992904e61.jpg" data-background-size="contain" data-background-position="right"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Esse modo de representar as ordens é muito conveniente para um arquiteto
-que está na sua prancheta, com escalímetro na mão, precisando fazer um
-desenho de uma ordem clássica como parte de um projeto mais ou menos
-acabado ([@fig:esquie]). O projeto vai então ser ele próprio cotado e
-entregue a um construtor que vai transferir essas cotas para as medidas
-da obra, usando uma trena. É um modo moderno de trabalhar por excelência
-[@carpo:2003drawing62].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Detalhes da ordem jônica de Vinhola, em edição de Pierre Esquié, 1922](https://i.pinimg.com/originals/7c/5e/e1/7c5ee136540dcbb85c2ad97992904e61.jpg){#fig:esquie}
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:chitham}
-::: {.column width=51.5%}
-![configuração geral](https://hcommons.org/app/uploads/sites/1001018/2021/06/chitham2005-084-corinthian.png){#fig:chitham084 .line}
-:::
-::: {.column width=48.5%}
-![detalhe da base e pedestal](https://hcommons.org/app/uploads/sites/1001018/2021/06/chitham2005-091-corinthian.png){#fig:chitham091 .line}
-:::
-
-Ordem coríntia segundo Chitham (2005)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-No final do século [XX]{.smallcaps}, essa preferência numérica entrou na
-era digital com o sistema de proporções decimais nas ordens clássicas de
-Robert Chitham [@chitham:2005classical]. As cotas de Chitham são,
-literalmente, frações decimais para serem usadas com uma calculadora
-digital na mão (era a década de 1980), ou mesmo no [CAD]{.smallcaps}.
-[@fig:chitham]
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-As ordens clássicas são o exemplo mais consagrado do uso de proporções
-fixas na arquitetura, mas nem de longe são o único. Desde a segunda
-metade do século [XIX]{.smallcaps}, a queridinha dos arquitetos é mais
-abstrata: a seção áurea. Adolf Zeising, um psicólogo alemão, escreveu um
-livro defendendo que as proporções matemáticas em geral, e a seção áurea
-em particular, eram estruturas centrais na natureza e na arte
-[@zeising:1854neue]. Foi a partir daí que a mania da seção áurea e a
-teoria das "geometrias sagradas" [@bonell:1999divina; @doczi:2008poder]
-se desenvolveu.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/le-corbusier-villa-stein-golden.png" data-background-size="contain"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A seção áurea foi especialmente atraente para os modernistas porque ela
-oferecia um sistema de proporção suficientemente abstrato e flexível
-para se adaptar ou, no fim das contas, justificar retroativamente
-qualquer projeto ([@fig:corb]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Le Corbusier, arquiteto, seção áurea nas fachadas norte e sul da villa Stein, Garches, 1927](https://hcommons.org/app/uploads/sites/1001018/2021/06/le-corbusier-villa-stein-golden.png){#fig:corb .line}
-
-## Proporções como modo de fazer ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Tudo isso é muito interessante, mas não tem nada a ver
-com o uso das proporções na arquitetura tradicional. Essa maneira de
-*pintar* as proporções como objetos de uma beleza acabada e imutável tem
-uma longa história na teoria da arte desde o Renascimento. Só que essa
-história representa só uma linhagem artística, que é especificamente
-erudita, europeia e moderna. Em praticamente todas as outras culturas
-tradicionais, as proporções não são um *resultado* da obra de
-arquitetura e sim um *modo de fazer* construções.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png" data-background-size="contain"}
-
-![Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. [Haklay e Gopher, 2015](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0130121)](https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png){#fig:eynan .align-right .line}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Tudo começa com um círculo. Alguns dos mais antigos abrigos permanentes
-são cabanas de planta circular. É o caso do sítio arqueológico de Eynan,
-em Israel, que data de 15 a 12 mil anos atrás (@fig:eynan)
-[@haklay:2015new10]. O traçado circular permite determinar todas as
-dimensões da construção usando praticamente só uma corda, portanto não é
-de espantar que essas cabanas pré-históricas sejam circulares.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A planta circular é uma solução prática e eficiente para encerrar a
-maior quantidade de espaço com o menor consumo de material e uma
-estrutura que estabiliza a si mesma. Por isso, ela continua a ser usada
-em pequenos depósitos rurais, como este chafurdão no Alentejo.
-[@fig:chafurdao]
-
-* * * *
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Chafurdão no vale de Cales, Castelo de Vide, Alentejo, Portugal. [[ADER--AL]{.smallcaps}, 2014](http://www.outralentejo.org/galeria/castelo-de-vide_chafurdao-do-vale-de-cales/)](https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg){#fig:chafurdao .full}
-
-## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm" data-background-video-muted="true"}
-
-![Stonehenge, Inglaterra, c. 2600 a.C., vista aérea. Filmagem: [Chris Ridley, 2015](https://commons.wikimedia.org/wiki/File:Stonehenge_at_Sunrise_-_by_Drone..webm)](https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm){#fig:stonehenge-drone .full}
-
-<!--_,-->
-
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/67/Stonehenge_render.jpg"}
-
-![Reconstituição tridimensional de Stonehenge. [Joseph Lertola, 2007](https://commons.wikimedia.org/wiki/File:Stonehenge_render.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stonehenge_render.jpg/1280px-Stonehenge_render.jpg){#fig:lertola}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A planta circular é quase sinônimo de grandes composições megalíticas em
-algumas das mais antigas sociedades agrárias. O exemplo mais emblemático
-é Stonehenge, no sul da Inglaterra ([@fig:stonehenge-drone]). Esse
-complexo foi construído por uma sociedade neolítica para observar os
-solstícios ([@fig:lertola]), e com isso, provavelmente, ajustar o
-calendário agrícola.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/86/88/9d/86889d42e51395ac63ae2b4e543085b6.jpg" data-background-size="contain" data-background-position="left"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O traçado geométrico de Stonehenge, que foi reconstituído na primeira
-metade do século [XVIII]{.smallcaps} por William Stukeley e Roger Gale
-([@fig:stonehenge-gale]), não está diretamente relacionado com a
-orientação astronômica do monumento. Ele é um expediente para dar a
-regularidade que um observador postado no centro do círculo precisa para
-avaliar corretamente o alinhamento do sol e das estrelas.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Planta do círculo megalítico de Stonehenge, Inglaterra, c. 2600 a.C., com proporções reconstituídas por William Stukeley e desenhadas por Roger Gale, 1723](https://hcommons.org/app/uploads/sites/1002372/2021/07/stonehenge-gale.png){#fig:stonehenge-gale .line}
-
-## Quadrados e diagonais ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O círculo é muito conveniente para organizar geometrias
-precisas e de grandes dimensões, economizando material e esforço. Só
-que, em várias sociedades, as construções humanas vão ganhando funções
-mais complexas e mais equipamentos e mobiliário permanentes ao longo do
-tempo. Nesses casos, a planta circular passa a ser um inconveniente por
-não ter superfícies retas nem espaço alongados. Nesses casos, o quadrado
-acaba por ser a forma mais prática.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png" data-background-size="contain"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O quadrado pode se desdobrar numa variedade de retângulos com proporções
-convenientes ([@fig:proporcoes]). Os mais básicos desses retângulos são o
-de um quadrado e meio e dois quadrados; essas proporções são análogas a
-harmonias musicais --- a quinta e a oitava --- e, por isso, foram muito
-apreciadas em culturas que atribuíam um significado transcendental às
-proporções, como a Grécia antiga e o Renascimento [@bonell:1999divina].
-
-Na vida real, duas outras relações proporcionais são bastante úteis. Uma
-delas é o retângulo gerado a partir da diagonal do quadrado, que é uma
-medida muito fácil de demarcar num canteiro de obra; esse retângulo tem
-outra propriedade interessante, que é a possibilidade de ser dividido em
-duas metades com a mesma proporção do retângulo original --- essa
-propriedade está na origem das folhas de papel da série `A`, que foi
-desenvolvida no início do século [XX]{.smallcaps} pensando na economia
-do corte de folhas. Outra proporção muito conveniente na construção é
-aquela que é gerada pela metade da diagonal do quadrado; é uma boa
-relação entre a largura de um espaço monumental e a espessura das suas
-paredes --- ela foi bastante usada na Europa medieval
-[@conant:1968after-life27].
-
-Como já vimos, a seção áurea é uma relação proporcional um tanto
-badalada desde a segunda metade do século [XIX]{.smallcaps}
-[@zeising:1854neue]. Acontece que ela é menos conveniente de se executar
-num canteiro de obra; as suas vantagens dizem mais respeito a uma
-interpretação transcendental das proporções como espelho da natureza
-[@doczi:2008poder].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Proporções derivadas do quadrado. Acima: um quadrado e meio ou "quinta"; dois quadrados ou "oitava"; abaixo: retângulo gerado pela diagonal do quadrado e seção áurea; centro: proporções da casa kamayurá e traçado gerado pela meia diagonal do quadrado](https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png){#fig:proporcoes .line .full}
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-18-scaled.jpg"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A casa tradicional Kamayurá ([@fig:kamayura; @fig:ok-planta;
-@fig:ok-corte]) é baseada no retângulo formado pela diagonal do
-quadrado, que determina a largura do vão central [@kamayura:2019manual].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![’Ok eté (casa tradicional) kamayurá, corte segundo [Salkuman Kamayurá, 2019](https://issuu.com/annajubs/docs/190812_casakamayurasingles)](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-18-scaled.jpg){#fig:kamayura}
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg" data-background-size="contain"}
-
-![Planta de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg){#fig:ok-planta .full}
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg" data-background-size="contain"}
-
-![Corte de uma ’ok eté kamayurá](https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg){#fig:ok-corte .full}
-
-## {data-background-image="https://i.pinimg.com/originals/c3/c4/35/c3c4352dcfc4ca33a941b7d39581fc00.jpg" data-background-size="contain"}
-
-![Esquema de proporções na fachada do palácio Farnese, Roma, 1534--1541. Antonio da Sangallo, o novo, e Miguel Ângelo Buonarroti, arquitetos. Croquis: [René Salas, 2018](https://www.instagram.com/p/BpcbxMCFGmh/)](https://i.pinimg.com/originals/c3/c4/35/c3c4352dcfc4ca33a941b7d39581fc00.jpg){#fig:farnese}
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg" data-background-size="contain"}
-
-![Malha proporcional triangular equilátera, exemplos da arquitetura vernácula alemã: casa rurais das regiões da Vestfália meridional, Francônia superior (Bavária) e casa urbana de Eppingen, Baden, 1471. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg){#fig:langhein2012-01-03}
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg" data-background-size="contain"}
-
-![Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional na Suíça: haus zum Ritter, Schaffhausen, 1487--1580; paço municipal da Basileia, 1504--1513; paço municipal de Lausanne, 1673--1675. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg){#fig:langhein2012-04-06 .full}
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-07-08.jpg" data-background-size="contain"}
-
-![Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional do Mediterrâneo: Oppède-la-Neuf, Luberon, sul da França, e palazzetto Spada, Roma, atribuído a Baldassare Peruzzi e Giacomo Barozzi da Vignola. [Joachim Langhein, 2012](http://proportions.de)](https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-07-08.jpg){#fig:langhein2012-07-08}
-
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-distance-detail.jpg" data-background-size="640px 666px" data-background-position="2.5% 5%"}
-
-![Distância e detalhe, por Léon Krier](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-distance-detail.png){#fig:krier-detail .line .align-right}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Uma última consideração importante diz respeito à escala dos elementos
-da arquitetura. Numa composição equilibrada, a diferença de escala entre
-elementos maiores e menores nunca é mais do que uma ordem de grandeza,
-ou seja, dez vezes ([@fig:krier-detail]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-As proporções na arquitetura tradicional são expedientes
-práticos para se compor e executar uma construção ou um complexo
-espacial. Elas podem ser interpretadas *a posteriori* desde um ponto de
-vista transcendental, mas isso não tem necessariamente a ver com o modo
-como as proporções são usadas de fato no processo produtivo do ambiente
-construído.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 # Preferência temporal #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -610,7 +350,9 @@ sociedades.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg" data-background-size="458px 458px" data-background-position="2.5% 5%"}
 
-![Arquitetura do pico do petróleo. Léon Krier, 2008](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg){#fig:krier-oil .align-right}
+::: align-right
+![Arquitetura do pico do petróleo. Léon Krier, 2008](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg){#fig:krier-oil}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A arquitetura tradicional consome muito trabalho manual e um pouco do
@@ -630,7 +372,9 @@ local*.
 
 ## {data-background-image="https://i.pinimg.com/originals/e7/83/e6/e783e61df6c6534e45f61ac400ad53f2.jpg" data-background-size="contain" data-background-position="left"}
 
-![Barnabas Calder. Foto: [Helen @ Gingerbread Design](https://www.unitedagents.co.uk/barnabas-calder)](https://i.pinimg.com/originals/01/bd/e9/01bde9f28c2eccdaa1eb4e35bfe80a1e.jpg){#fig:calder-trombine .align-right .overlay-slide}
+::: align-right
+![Barnabas Calder. Foto: [Helen @ Gingerbread Design](https://www.unitedagents.co.uk/barnabas-calder)](https://i.pinimg.com/originals/01/bd/e9/01bde9f28c2eccdaa1eb4e35bfe80a1e.jpg){#fig:calder-trombine   .overlay-slide}
+:::
 
 ![© Pelican Books, 2021](https://i.pinimg.com/originals/e7/83/e6/e783e61df6c6534e45f61ac400ad53f2.jpg){#fig:calder-book}
 
@@ -803,7 +547,9 @@ investir não só no conforto imediato, mas sobretudo na qualidade de vida
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gaston_Bachelard_1965.jpg" data-background-size="contain" data-background-position="left"}
 
-![Gaston Bachelard. Acervo do [Arquivo Nacional dos Países Baixos](https://commons.wikimedia.org/wiki/File:Gaston_Bachelard_1965.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gaston_Bachelard_1965.jpg/763px-Gaston_Bachelard_1965.jpg){#fig:bachelard .align-right}
+::: align-right
+![Gaston Bachelard. Acervo do [Arquivo Nacional dos Países Baixos](https://commons.wikimedia.org/wiki/File:Gaston_Bachelard_1965.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gaston_Bachelard_1965.jpg/763px-Gaston_Bachelard_1965.jpg){#fig:bachelard}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Outra consequência da arquitetura com preferência temporal de longo
@@ -822,11 +568,15 @@ Tuan ([@fig:tuan]) [@tuan:1980topofilia].
 
 ## {data-background-image="https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg" data-background-size="contain" data-background-position="right"}
 
-![Yi-Fu Tuan](https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg){#fig:tuan .align-right}
+::: align-right
+![Yi-Fu Tuan](https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg){#fig:tuan}
+:::
 
 ## Responsabilidade ambiental ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain" data-background-position="right"}
 
-![Léon Krier, Edifícios (da Universidade de Yale) --- idade e primeira campanha significativa de reformas, 1990](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png){#fig:krier-1990 .line .align-right}
+::: align-right
+![Léon Krier, Edifícios (da Universidade de Yale) --- idade e primeira campanha significativa de reformas, 1990](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png){#fig:krier-1990 .line}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mas, se construir com preferência temporal baixa é
@@ -855,7 +605,9 @@ importa tanto, a questão é a tendência.
 
 ## {data-background-image="https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980" data-background-size="contain"}
 
-![Léon Krier, custo de construção e custo de manutenção comparados](https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980){#fig:krier-maintenance .align-right}
+::: align-right
+![Léon Krier, custo de construção e custo de manutenção comparados](https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980){#fig:krier-maintenance}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ora, mas se a construção está cada vez mais industrializada, por que ela
@@ -872,7 +624,9 @@ organização da cadeia produtiva.
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png" data-background-size="contain" data-background-position="left"}
 
-![Emissões de CO~2~ da cadeia produtiva da construção, segundo [Victoria Luise Schulz-Daubas, 2021](https://osf.io/ea5hf)](https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png){#fig:schulz .align-right}
+::: align-right
+![Emissões de CO~2~ da cadeia produtiva da construção, segundo [Victoria Luise Schulz-Daubas, 2021](https://osf.io/ea5hf)](https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png){#fig:schulz}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 E onde entra o discurso da sustentabilidade nessa lógica de preferência
@@ -941,7 +695,9 @@ milhões atrás, ao último ancestral comum dos hominídeos
 [@fruth:2017great].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Orangotango construindo ninho em Bornéu. Foto: [John Fuller, 2013 ](http://johnfuller3048.blogspot.com/2013/06/borneo-3.html) ](https://i.pinimg.com/originals/7e/ac/0f/7eac0fad2c7dc3ff0a7471354e2bbdea.jpg){#fig:orang .align-right}
+::: align-right
+![Orangotango construindo ninho em Bornéu. Foto: [John Fuller, 2013 ](http://johnfuller3048.blogspot.com/2013/06/borneo-3.html) ](https://i.pinimg.com/originals/7e/ac/0f/7eac0fad2c7dc3ff0a7471354e2bbdea.jpg){#fig:orang}
+:::
 
 ## {data-background-image="https://i.pinimg.com/originals/e8/5f/c8/e85fc8c962e1545901b556978c636218.jpg"}
 
@@ -949,7 +705,9 @@ milhões atrás, ao último ancestral comum dos hominídeos
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Cabane_de_Terra_Amata_2.jpg"}
 
-![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata .align-right}
+::: align-right
+![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata}
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c1/Dwelling_made_with_mammoth_bones.jpg"}
 
@@ -976,7 +734,9 @@ agrárias, é bastante comum as pessoas trabalharem e mesmo descansarem ao
 relento ([@fig:gauchos]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Jean-Baptiste Henri Durand-Brager, Gaúchos preparando mate (acampamento do exército de Juan Manuel de Rosas). [*L'Illustration* [VII]{.smallcaps} (177), 1846](https://commons.wikimedia.org/wiki/File:Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg/1280px-Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg){#fig:gauchos .full}
+::: full
+![Jean-Baptiste Henri Durand-Brager, Gaúchos preparando mate (acampamento do exército de Juan Manuel de Rosas). [*L'Illustration* [VII]{.smallcaps} (177), 1846](https://commons.wikimedia.org/wiki/File:Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg/1280px-Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg){#fig:gauchos}
+:::
 
 <!--_,-->
 
@@ -1088,7 +848,9 @@ coletivo e que, portanto, só poderia existir em volta do lar --- da
 fogueira familiar ou comunitária.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Piero di Cosimo, Cena de caçada, c. 1494--1500, têmpera e óleo sobre madeira. [Metropolitan Museum of Art ](https://commons.wikimedia.org/wiki/File:A_Hunting_Scene_MET_DT6.jpg) ](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/A_Hunting_Scene_MET_DT6.jpg/1280px-A_Hunting_Scene_MET_DT6.jpg){#fig:cosimo-hunt .full}
+::: full
+![Piero di Cosimo, Cena de caçada, c. 1494--1500, têmpera e óleo sobre madeira. [Metropolitan Museum of Art ](https://commons.wikimedia.org/wiki/File:A_Hunting_Scene_MET_DT6.jpg) ](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/A_Hunting_Scene_MET_DT6.jpg/1280px-A_Hunting_Scene_MET_DT6.jpg){#fig:cosimo-hunt}
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg" data-background-position="top"}
 
@@ -1098,7 +860,9 @@ fogueira familiar ou comunitária.
 
 ## {data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left"}
 
-![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .align-right}
+::: align-right
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A origem social da construção foi sendo esquecida aos
@@ -1132,7 +896,9 @@ estritamente individual.
 
 ## {data-background-image="https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg"}
 
-![Leo von Klenze, Templo da Concórdia em Agrigento, 1857 ](https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg){#fig:klenze-concordia .full}
+::: full
+![Leo von Klenze, Templo da Concórdia em Agrigento, 1857 ](https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg){#fig:klenze-concordia}
+:::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salon_de_la_princesse_hotel_de_soubise.jpg/1280px-Salon_de_la_princesse_hotel_de_soubise.jpg"}
 
@@ -1160,7 +926,9 @@ arquitetura.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"}
 
-![Caspar David Friedrich, Andarilho sobre o mar de névoa, 1817](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg){#fig:friedrich .align-right}
+::: align-right
+![Caspar David Friedrich, Andarilho sobre o mar de névoa, 1817](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg){#fig:friedrich}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As implicações políticas do individualismo iluminista são bem
@@ -1193,7 +961,9 @@ desdobra ao longo do tempo vai ser revisitado, e deformado, na segunda
 metade do século [XIX]{.smallcaps}.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vincenzo Camuccini, A morte de César, 1804--1805](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/1280px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg){#fig:caesar .full}
+::: full
+![Vincenzo Camuccini, A morte de César, 1804--1805](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/1280px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg){#fig:caesar}
+:::
 
 ## Arquitetura e antropologia ##
 
@@ -1225,7 +995,9 @@ nas origens da humanidade.
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg"}
 
-![Henri Labrouste, arquiteto, biblioteca Sainte-Geneviève, sala de leitura, Paris, 1842. Foto: [Marie-Lan Nguyen, 2011](https://commons.wikimedia.org/wiki/File:Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg){#fig:bsg .full}
+::: full
+![Henri Labrouste, arquiteto, biblioteca Sainte-Geneviève, sala de leitura, Paris, 1842. Foto: [Marie-Lan Nguyen, 2011](https://commons.wikimedia.org/wiki/File:Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg){#fig:bsg}
+:::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No século [XIX]{.smallcaps}, esse pressuposto colonialista era
@@ -1344,7 +1116,9 @@ especialmente para partilhar uma refeição com a deusa do Sol Amaterasu
 (representada por três objetos sagrados e um pilar também em madeira).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cabanas rituais diversas no xintoísmo contemporâneo, Japão, registradas por Nold Egenter, 1980](https://i.pinimg.com/originals/b2/65/ea/b265ea66acf8b08695a2b71ce1ef1912.png){#fig:egenter .full .line}
+::: full
+![Cabanas rituais diversas no xintoísmo contemporâneo, Japão, registradas por Nold Egenter, 1980](https://i.pinimg.com/originals/b2/65/ea/b265ea66acf8b08695a2b71ce1ef1912.png){#fig:egenter   .line}
+:::
 
 ## {data-background-image="https://i.pinimg.com/originals/35/d6/a0/35d6a066bf7ec19c629dfec1c2381891.jpg"}
 

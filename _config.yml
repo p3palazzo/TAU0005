@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "pt-BR"
-title                    : "TAU 0005 História da Arquitetura e da Arte I"
+title                    : "TAU 0005"
 title_separator          : "-"
-subtitle                 : "1.º/2021"
+subtitle                 : "História da Arquitetura e da Arte I · 2.º/2021"
 name                     : "Pedro P. Palazzo"
 description: >-
   História do urbanismo, da arquitetura e da arte no contexto de seus
@@ -29,7 +29,7 @@ baseurl                  : "/tau0005"
 repository               : "p3palazzo/tau0005"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : #
+masthead_title           : 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -80,6 +80,8 @@ yandex_site_verification :
 naver_site_verification  :
 head_scripts:
   - https://kit.fontawesome.com/eddf3d9a63.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
 
 # Social Sharing
 twitter:
@@ -107,7 +109,7 @@ analytics:
 # Site Author
 author:
   name             : "Pedro P. Palazzo"
-  avatar           : "https://avatars.githubusercontent.com/u/8295666?v=4"
+  avatar           : "https://avatars.githubusercontent.com/u/8295666?s=400&u=874bd9ba623ae5ceb9cd1b559bab3479fcda9a30&v=4"
   bio              : "Professor Associado"
   location         : "FAU–UnB"
   email            :
@@ -327,7 +329,6 @@ defaults:
     values:
       layout: single
       show_date: true
-      toc: true
   # _posts
   - scope:
       path: ""
