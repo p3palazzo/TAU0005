@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Taipas e fundações",
-        "excerpt":"Materiais da construção tradicional Os mitos de origem exercem uma atração especial sobre as teorias da arquitetura. A visão de mundo na qual os primórdios de algum modo explicam, e por que não justificam, o desenvolvimento histórico da cultura é recorrente não só em sociedades tradicionais, mas inclusive em movimentos...","categories": [],
+        "excerpt":"Materiais da construção tradicional Mitos de origem e determinismo histórico Os mitos de origem exercem uma atração especial sobre as teorias da arquitetura. A visão de mundo na qual os primórdios de algum modo explicam, e por que não justificam, o desenvolvimento histórico da cultura é recorrente não só em...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/taipa/",
         "teaser": null
