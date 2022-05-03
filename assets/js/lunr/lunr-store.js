@@ -60,7 +60,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Urbanizar",
-        "excerpt":"Princípios da forma urbana Tradição e modernidade Mesmo nas construções mais modernas e industrializadas, processos tradicionais de urbanização continuam vigentes, tanto em áreas mais formalizadas, quanto nas mais vernaculares e tradicionais. Dinâmica urbana: as transformações da cidade, geralmente, contam com processos e ações que seguem lógicas tradicionais. Ressalta-se que processo...","categories": [],
+        "excerpt":"Princípios da forma urbana Tradição e modernidade Mesmo nas construções mais modernas e industrializadas, processos tradicionais de urbanização continuam vigentes, tanto em áreas mais formalizadas, quanto nas mais vernaculares e tradicionais. Dinâmica urbana as transformações da cidade, geralmente, contam com processos e ações que seguem lógicas tradicionais. Ressalta-se que processo...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/urbanismo/",
         "teaser": null
