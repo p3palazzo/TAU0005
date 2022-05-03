@@ -711,9 +711,7 @@ seguinte.
 
 * * * *
 
-![Mesquita maior em Djenné, Mali, século [XIV]{.smallcaps}, reconstruída 1906--1907. Foto: [Gilles Mairet, 1972](https://commons.wikimedia.org/wiki/File:La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg/1280px-La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg){#fig:djenne .r-stretch}
-
-<!--_,-->
+![Mesquita maior em Djenné, Mali, século [XIV]{.smallcaps}, reconstruída 1906--1907. Foto: [Gilles Mairet, 1972](https://commons.wikimedia.org/wiki/File:La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg/1280px-La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg){#fig:djenne}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O taipal geralmente é uma forma móvel em madeira, apoiada en tirantes
@@ -759,7 +757,7 @@ um imenso terraço em degraus, com muros de arrimo em adobe que enquadram
 um terrapleno com 30 metros de altura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Zigurate, antigo reino de Ur, atual Iraque, c. 2050--1980 a.C. Foto: [Michael Lubinski, 2006](https://commons.wikimedia.org/wiki/File:Ziggarut_of_Ur_-_M.Lubinski.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ziggarut_of_Ur_-_M.Lubinski.jpg/1280px-Ziggarut_of_Ur_-_M.Lubinski.jpg){#fig:ziggurat .r-stretch}
+![Zigurate, antigo reino de Ur, atual Iraque, c. 2050--1980 a.C. Foto: [Michael Lubinski, 2006](https://commons.wikimedia.org/wiki/File:Ziggarut_of_Ur_-_M.Lubinski.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ziggarut_of_Ur_-_M.Lubinski.jpg/1280px-Ziggarut_of_Ur_-_M.Lubinski.jpg){#fig:ziggurat}
 
 * * * *
 
