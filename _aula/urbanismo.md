@@ -25,7 +25,9 @@ Mesmo nas construções mais modernas e industrializadas, processos
 tradicionais de urbanização continuam vigentes, tanto em áreas mais
 formalizadas, quanto nas mais vernaculares e tradicionais.
 
-**Dinâmica urbana**: as transformações da cidade, geralmente, contam com
+Dinâmica urbana
+
+: as transformações da cidade, geralmente, contam com
 processos e ações que seguem lógicas tradicionais. Ressalta-se que
 processo de urbanização em si é tradicional, o fator de modernidade está
 naquelas intervenções mais "unitárias", pontuais e de grande porte. Como
@@ -36,17 +38,21 @@ Janeiro). Plano Piloto de Brasília e os diversos condomínio fechados
 encontrados por todo o país (murados, porém com características mais
 orgânicas) também podem ilustrar essa questão. 
 
-**"Urbanismo moderno"**: caracteriza-se por processos de urbanização
+Urbanismo moderno
+
+: caracteriza-se por processos de urbanização
 mais contemporâneos, que pretendem "pensar a cidade como um produto
 fixo". Em geral, contam com desenvolvimento urbano planejado e visam
 retorno financeiro, a partir de uma sistemática com começo, meio e fim.
 
-Contemporaneamente, há uma visão de que a lei cria a realidade,
+: Contemporaneamente, há uma visão de que a lei cria a realidade,
 inclusive o próprio processo de elaborá-la é suscetível a interesses
 diversos, tornando-se algo mais complexo, que demanda a participação de
 diferentes agentes.
 
-**Planejamento urbano**: forma de conter a ação mais espontânea de parte
+Planejamento urbano
+
+: forma de conter a ação mais espontânea de parte
 dos agentes que atuam na cidade, estando relacionada a um maior controle
 e poder dos grupos econômicos. Há também a participação de outros
 indivíduos relacionados com os corpos técnicos, agentes da comunidade,
@@ -65,9 +71,9 @@ crescimento entre esses tipos, sendo encontrados em uma configuração que
 é semelhante ao diagrama conceitual criando por Léon Krier em 1983.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-res-publica.png" data-background-size="contain"}
+* * * *
 
-![Léon Krier, *Civitas*, 1983](https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-res-publica.png){#fig:lk-civitas .line .slide-bg}
+![Léon Krier, *Civitas*, 1983](https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-res-publica.png){#fig:lk-civitas .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Léon Krier fala sobre certas sínteses relacionadas à compreensão do
@@ -223,10 +229,10 @@ serviços de alguma maneira. Isso acaba levando aos processos de
 planejamento urbano e zoneamento modernos. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/1b/fc/e4/1bfce44161d5cc5664e755285eece3a2.jpg" data-background-size="contain"}
+* * * *
 
 ::: full
-![Transecto urbano, por Duany, Plater-Zyberk & Co.](https://i.pinimg.com/originals/1b/fc/e4/1bfce44161d5cc5664e755285eece3a2.jpg){#fig:transect-dpz   .slide-bg}
+![Transecto urbano, por Duany, Plater-Zyberk & Co.](https://i.pinimg.com/originals/1b/fc/e4/1bfce44161d5cc5664e755285eece3a2.jpg){#fig:transect-dpz}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -242,7 +248,7 @@ plano diretor, que configure uma cidade tradicional e, principalmente,
 um processo de urbanização tradicional. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/f8/79/72/f8797296c13dc5f771e743e054115039.jpg" data-background-size="contain"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Então, concebem o conceito de "transecto" ([@fig:transect-dpz]),
@@ -257,13 +263,13 @@ característica mais gradual.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: full
-![Transecto natural, por [DPZ]{.smallcaps}](https://i.pinimg.com/originals/f8/79/72/f8797296c13dc5f771e743e054115039.jpg){#fig:transect-natural   .slide-bg}
+![Transecto natural, por [DPZ]{.smallcaps}](https://i.pinimg.com/originals/f8/79/72/f8797296c13dc5f771e743e054115039.jpg){#fig:transect-natural .nobg}
 :::
 
-## {data-background-image="https://i.pinimg.com/originals/95/f0/ee/95f0ee5aa71518677561cb2d5f8307a4.jpg" data-background-size="contain"}
+* * * *
 
 ::: full
-![Transecto urbano, baseado em [DPZ]{.smallcaps}](https://i.pinimg.com/originals/95/f0/ee/95f0ee5aa71518677561cb2d5f8307a4.jpg){#fig:transect-3d   .slide-bg}
+![Transecto urbano, baseado em [DPZ]{.smallcaps}](https://i.pinimg.com/originals/95/f0/ee/95f0ee5aa71518677561cb2d5f8307a4.jpg){#fig:transect-3d .nobg}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -335,9 +341,9 @@ escala, que ajuda a compreender como o conjunto do processo de
 urbanização está funcionando no tempo e no espaço. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-tuning.png" data-background-size="contain"}
+* * * *
 
-![Léon Krier, ajuste da arquitetura urbana, 2003](https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-tuning.png){#fig:lk-tua .line .slide-bg}
+![Léon Krier, ajuste da arquitetura urbana, 2003](https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-tuning.png){#fig:lk-tua .line}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O nosso já conhecido Léon Krier descreve as formas urbanas numa matriz
@@ -354,7 +360,7 @@ populares e eruditas com um traçado urbano mais espontâneo, menos
 controlado ou planejado de maneira central.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Lugar tem precedência sobre o tempo
@@ -405,7 +411,9 @@ passo, gradual e descentralizado. Nele são encontrados basicamente três
 elementos que vão constituir sucessivamente a cidade: 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-*Traçado*
+. . .
+
+Traçado
 
 : Trata-se da forma e da posição de suas ruas e praças, configurando-se
   como o elemento mais suscetível ao controle sem grandes choques contra
@@ -418,7 +426,7 @@ elementos que vão constituir sucessivamente a cidade:
 
 . . .
 
-*Parcelamento do solo*
+Parcelamento do solo
 
 : Aradicionalmente, refere-se a tudo o que não é espaço público (rua ou
   praça) e configura-se como lote de certo modo, indo de uma grande
@@ -439,40 +447,41 @@ elementos que vão constituir sucessivamente a cidade:
 
 . . .
 
-*Construção*
+Construção
 
 : A ser realizada no lote.
 
 # Tipos de urbanização #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Tipos de urbanização
+Existem cinco tipos de urbanização atestados em todas as culturas ao
+longo da história.
+Tais formações não são necessariamente exclusivas, podendo haver
+combinações entre elas e aplicações em diferentes escalas urbanas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
 - Cidadela
 - Aldeia--rua
 - Castrense ou *wangcheng* 王城
 - *Kampong*
 - Cidade difusa
-
-A partir dos processos de urbanização que existiram e continuam
-existindo ao longo do tempo e por todo o mundo, são propostas quatro
-formas básicas de urbanização, conforme bibliografia analisada sobre o
-tema. Tais formações não são necessariamente exclusivas, podendo haver
-combinações entre elas e aplicações em diferentes escalas urbanas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Cidadela ##
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-plot-boundary.png" data-background-size="contain"}
+* * * *
 
-![Léon Krier, modos suburbano e urbano de definição de limites](https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-plot-boundary.png){#fig:lk-boundary .line .slide-bg}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Léon Krier, modos suburbano e urbano de definição de limites](https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-plot-boundary.png){#fig:lk-boundary .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Origina-se da formação de um recinto ou perímetro protegido, que sendo
 gradualmente preenchido internamente ([@fig:lk-boundary]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/2b/08/a5/2b08a5daa0207e9def5b7e54797a68d7.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Muitas cidades tradicionais vão seguir essa forma, tanto na escala do
@@ -486,19 +495,19 @@ uma forma mais compacta ([@fig:mykines; @fig:tyrins]). Tal crescimento
 não ocorre em um sentido cronológico estrito, no qual a última coisa a
 ser definida seria o espaço interno, já que essa poderia ser a primeira
 a ser estabelecida em muitos casos.
+
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cidadela de Micenas, Grécia heládica (Idade do Bronze), c. 1250 a.C.](https://i.pinimg.com/originals/2b/08/a5/2b08a5daa0207e9def5b7e54797a68d7.jpg){#fig:mykines .slide-bg}
+![Cidadela de Micenas, Grécia heládica (Idade do Bronze), c. 1250 a.C.](https://i.pinimg.com/originals/2b/08/a5/2b08a5daa0207e9def5b7e54797a68d7.jpg){#fig:mykines}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/60/Tiryns_Tafel_I.jpg"}
+* * * *
 
 ::: full
-![Planta da cidadela de Tirinto, Grécia heládica, baseada nas escavações de Heinrich Schliemann em 1884. Desenho: [Wilhelm Dörpfeld](https://commons.wikimedia.org/wiki/File:Tiryns_Tafel_I.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/60/Tiryns_Tafel_I.jpg){#fig:tyrins   .slide-bg}
+![Planta da cidadela de Tirinto, Grécia heládica, baseada nas escavações de Heinrich Schliemann em 1884. Desenho: [Wilhelm Dörpfeld](https://commons.wikimedia.org/wiki/File:Tiryns_Tafel_I.jpg)](https://upload.wikimedia.org/wikipedia/commons/6/60/Tiryns_Tafel_I.jpg){#fig:tyrins}
 :::
 
 ## Aldeia--rua ##
-
-## {data-background-image="https://i.pinimg.com/originals/05/70/63/057063136892db0d028f8992f8756b36.gif"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Trata-se, possivelmente, da forma de urbanização mais simples, evidente
@@ -509,9 +518,32 @@ agentes e construtores (proprietários ou ocupantes), principalmente,
 tende a seguir essa lógica em geral.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Burton-upon-Trent, Inglaterra, *burgage plots* medievais no levantamento cartográfico de 1760](https://i.pinimg.com/originals/05/70/63/057063136892db0d028f8992f8756b36.gif){#fig:but1760 .slide-bg}
+* * * *
 
-##
+::: full
+![Daniel-Charles Trudaine, coordenador, Atlas das estradas da França dito Atlas Trudaine, 1745--1780. Volume da circunscrição de Ruão, fl. 17, Le Vaudreuil. Arquivo Nacional da França [cota CP/F/14/8502](http://www2.culture.gouv.fr/public/mistral/caran_fr?ACTION=CHERCHER&FIELD_98=REF&VALUE_98=ZZ001273)](https://i.pinimg.com/originals/a3/9b/1c/a39b1c784a74b19486a731bafb578ed4.jpg){#fig:trudaine}
+:::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Isso é visto negativamente pela teoria do urbanismo modernista
+geralmente, pois ela não está preocupada com o processo, mas sim com a
+imagem de um produto fixo e finalizado. Por essa razão, esse é o
+processo de urbanização por excelência na maior parte do mundo e da
+história da humanidade. Começa com uma subdivisão inicial por meio da
+formação de um traçado estruturante ([@fig:trudaine]), a ocupação deste
+com o parcelamento do solo e vai se consolidando com o adensamento do
+espaço que está atrás desse traçado, em geral, pela abertura de ruas
+secundárias (a "rua de trás"), ligadas entre si por "travessas". Estão
+muito presentes em todos os lugares, inclusive, na tradição urbanística
+luso-brasileira, apresentando uma longa e venerável genealogia,
+continuando em vigor de certo modo até hoje.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+![Burton-upon-Trent, Inglaterra, *burgage plots* medievais no levantamento cartográfico de 1760](https://i.pinimg.com/originals/05/70/63/057063136892db0d028f8992f8756b36.gif){#fig:but1760}
+
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No Distrito Federal, pode ser encontrada no Céu Azul, na Cidade
@@ -527,7 +559,7 @@ extensão de suas glebas ou de originarem-se de um grande lote
 reparcelado).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/50/61/45/506145ecded84e4dad92714ba04aeecd.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Seriam uma espécie de meio termo entre a lógica do processo de
@@ -547,35 +579,14 @@ edifícios, pois maximiza a exposição à rua para um maior número de
 pessoas ([@fig:westley]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Birmingham, Inglaterra, segundo o levantamento de 1731 por William Westley](https://i.pinimg.com/originals/50/61/45/506145ecded84e4dad92714ba04aeecd.jpg){#fig:westley .slide-bg}
-
-## {data-background-image="https://i.pinimg.com/originals/a3/9b/1c/a39b1c784a74b19486a731bafb578ed4.jpg" data-background-position=top}
-
-::: full
-![Daniel-Charles Trudaine, coordenador, Atlas das estradas da França dito Atlas Trudaine, 1745--1780. Volume da circunscrição de Ruão, fl. 17, Le Vaudreuil. Arquivo Nacional da França [cota CP/F/14/8502](http://www2.culture.gouv.fr/public/mistral/caran_fr?ACTION=CHERCHER&FIELD_98=REF&VALUE_98=ZZ001273)](https://i.pinimg.com/originals/a3/9b/1c/a39b1c784a74b19486a731bafb578ed4.jpg){#fig:trudaine   .slide-bg}
-:::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Isso é visto negativamente pela teoria do urbanismo modernista
-geralmente, pois ela não está preocupada com o processo, mas sim com a
-imagem de um produto fixo e finalizado. Por essa razão, esse é o
-processo de urbanização por excelência na maior parte do mundo e da
-história da humanidade. Começa com uma subdivisão inicial por meio da
-formação de um traçado estruturante ([@fig:trudaine]), a ocupação deste
-com o parcelamento do solo e vai se consolidando com o adensamento do
-espaço que está atrás desse traçado, em geral, pela abertura de ruas
-secundárias (a "rua de trás"), ligadas entre si por "travessas". Estão
-muito presentes em todos os lugares, inclusive, na tradição urbanística
-luso-brasileira, apresentando uma longa e venerável genealogia,
-continuando em vigor de certo modo até hoje.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Birmingham, Inglaterra, segundo o levantamento de 1731 por William Westley](https://i.pinimg.com/originals/50/61/45/506145ecded84e4dad92714ba04aeecd.jpg){#fig:westley}
 
 ## Plano castrense ##
 
-## {data-background-image="https://i.pinimg.com/originals/37/6a/12/376a1285766305c402f6bcb210ab06ef.jpg" data-background-size="contain"}
+* * * *
 
 ::: align-right
-![Planta da cidade de Mileto, Ásia menor grega, replanejada no século [V]{.smallcaps} a.C.](https://i.pinimg.com/originals/37/6a/12/376a1285766305c402f6bcb210ab06ef.jpg){#fig:mileto   .slide-bg}
+![Planta da cidade de Mileto, Ásia menor grega, replanejada no século [V]{.smallcaps} a.C.](https://i.pinimg.com/originals/37/6a/12/376a1285766305c402f6bcb210ab06ef.jpg){#fig:mileto}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -593,12 +604,12 @@ por um processo de urbanização, a exemplo de Priene, uma cidade grega
 localizada na Ásia Menor. Nela, observa-se um traçado teórico, mas a
 cidade vai sendo ocupada onde há interesse em gerar uma malha urbana.
 Transforma-se, assim, de um xadrez totalmente indiferenciado a uma
-aldeia-rua, que tem essa forma em grelha porque o traçado das vias está
+aldeia--rua, que tem essa forma em grelha porque o traçado das vias está
 pré-definido, mas a cidade só cresce ao longo dos eixos principais de
 fato.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/2c/70/52/2c7052c309972c4f4b27aaa39efd9280.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O uso da malha viária em retícula se generaliza na Grécia do período
@@ -609,13 +620,13 @@ construções.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: full
-![Priene, cidade grega na Ásia menor. Reconstituição por [Rocío Espín Piñar](https://rocioespin.artstation.com/projects/1nGxEo)](https://i.pinimg.com/originals/2c/70/52/2c7052c309972c4f4b27aaa39efd9280.jpg){#fig:priene   .slide-bg}
+![Priene, cidade grega na Ásia menor. Reconstituição por [Rocío Espín Piñar](https://rocioespin.artstation.com/projects/1nGxEo)](https://i.pinimg.com/originals/2c/70/52/2c7052c309972c4f4b27aaa39efd9280.jpg){#fig:priene}
 :::
 
-## {data-background-image="https://i.pinimg.com/originals/1c/f1/0e/1cf10eff6b7810a8f4d9b13d11ff6c2b.jpg" data-background-size="contain"}
+* * * *
 
 ::: align-right
-![Planta reconstituída do *castrum* (forte romano) permanente de Iciniacum, próximo a Theilenhofen, atual Alemanha. Desenho: [Mediatus](https://commons.wikimedia.org/wiki/File:Kastell_Theilenhofen_Iciniacum_(English).png)](https:upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kastell_Theilenhofen_Iciniacum_(English).png/747px-Kastell_Theilenhofen_Iciniacum_(English).png){#fig:theilenhofen   .slide-bg}
+![Planta reconstituída do *castrum* (forte romano) permanente de Iciniacum, próximo a Theilenhofen, atual Alemanha. Desenho: [Mediatus](https://commons.wikimedia.org/wiki/File:Kastell_Theilenhofen_Iciniacum_(English).png)](https:upload.wikimedia.org/wikipedia/commons/thumb/0/01/Kastell_Theilenhofen_Iciniacum_(English).png/747px-Kastell_Theilenhofen_Iciniacum_(English).png){#fig:theilenhofen}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -624,49 +635,55 @@ com um desenho de conjunto estritamente controlado, porém cada um terá
 sua propriedade do solo (lotes) para construir em cima dele. Destaca-se,
 por fim, que a densidade e o processo de ocupação irão variar ao longo
 do tempo.
+
+* * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/da/90/13/da90133689af7874b61ec709e0007226.gif" data-background-size="contain"}
+* * * *
 
-![Acampamento militar temporário de uma legião romana](https://i.pinimg.com/originals/da/90/13/da90133689af7874b61ec709e0007226.gif){#fig:castrum .slide-bg}
+![Acampamento militar temporário de uma legião romana](https://i.pinimg.com/originals/da/90/13/da90133689af7874b61ec709e0007226.gif){#fig:castrum .line}
 
-## {data-background-image="https://i.pinimg.com/originals/90/06/75/9006756158f52110185ba284fccaefee.jpg"}
-
-::: full
-![Argentorate, forte romano permanente, atual Estrasburgo, França. Reconstituição: [Jean-Claude Golvin](https://jeanclaudegolvin.com/argentorate-strasbourg/)](https://i.pinimg.com/originals/90/06/75/9006756158f52110185ba284fccaefee.jpg){#fig:argentorate   .slide-bg}
-:::
-
-## {data-background-image="https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png"}
-
-![Ammaia, Lusitânia romana](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia .slide-bg}
-
-## {data-background-image="https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png"}
+* * * *
 
 ::: full
-![Reconstituição de Ammaia](https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png){#fig:ammaia-aerea   .slide-bg}
+![Argentorate, forte romano permanente, atual Estrasburgo, França. Reconstituição: [Jean-Claude Golvin](https://jeanclaudegolvin.com/argentorate-strasbourg/)](https://i.pinimg.com/originals/90/06/75/9006756158f52110185ba284fccaefee.jpg){#fig:argentorate}
 :::
 
-## {data-background-image="https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg" data-background-size="contain"}
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Ammaia, Lusitânia romana](https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png){#fig:ammaia .nobg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::: full
+![Reconstituição de Ammaia](https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png){#fig:ammaia-aerea}
+:::
+
+* * * *
+
+![Esquema da centuriação romana](https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg){#fig:centuriatio}
+
+* * * *
 
 ::: align-right
-![Esquema da centuriação romana](https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg){#fig:centuriatio   .slide-bg}
+![*Ager centuriatus* romano](https://i.pinimg.com/originals/69/ad/a1/69ada128dab3549fee10d65cfe1e76a8.jpg){#fig:ager}
 :::
 
-## {data-background-image="https://i.pinimg.com/originals/69/ad/a1/69ada128dab3549fee10d65cfe1e76a8.jpg" data-background-size="contain"}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: align-right
-![*Ager centuriatus* romano](https://i.pinimg.com/originals/69/ad/a1/69ada128dab3549fee10d65cfe1e76a8.jpg){#fig:ager   .slide-bg}
-:::
+* * * *
 
-## {data-background-image="https://i.pinimg.com/originals/46/76/b1/4676b1ac3e68270c1559a4851b742782.jpg"}
+![Remanescentes da centuriação romana na planície Padana, norte da Itália. Foto de satélite do acervo do [Museo della Centuriazione Romana](https://www.centroculturalealdorossi.it/museo-della-centuriazione-romana/)](https://i.pinimg.com/originals/46/76/b1/4676b1ac3e68270c1559a4851b742782.jpg){#fig:borgoricco}
 
-![Remanescentes da centuriação romana na planície Padana, norte da Itália. Foto de satélite do acervo do [Museo della Centuriazione Romana](https://www.centroculturalealdorossi.it/museo-della-centuriazione-romana/)](https://i.pinimg.com/originals/46/76/b1/4676b1ac3e68270c1559a4851b742782.jpg){#fig:borgoricco .slide-bg}
+* * * *
 
-## {data-background-image="https://i.pinimg.com/originals/78/97/a2/7897a2c3cf1a26fe80fc19b55ad8d312.jpg"}
+![Cidade romana de Lambaesis, na atual Argélia. Desenho por [Jean-Claude Golvin]()](https://i.pinimg.com/originals/78/97/a2/7897a2c3cf1a26fe80fc19b55ad8d312.jpg){#fig:lambaesis}
 
-![Cidade romana de Lambaesis, na atual Argélia. Desenho por [Jean-Claude Golvin]()](https://i.pinimg.com/originals/78/97/a2/7897a2c3cf1a26fe80fc19b55ad8d312.jpg){#fig:lambaesis .slide-bg}
-
-## {data-background-image="https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg" data-background-size="contain"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Um exemplo muito conhecido é o xadrez das cidades chinesas, que aparece
@@ -674,29 +691,38 @@ muitos anos antes do Império Romano, sendo uma das características mais
 icônicas do urbanismo chinês ([@fig:wangcheng]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C.](https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg){#fig:wangcheng .slide-bg}
+![Wangcheng, Kaogongji, *Zhouli*, xilografia século IX a partir de um original do século V a.C.](https://i.pinimg.com/originals/8c/38/b0/8c38b0f00af9056c5b9d282a02f7dc60.jpg){#fig:wangcheng}
 
-## {data-background-image="https://i.pinimg.com/originals/c6/62/b0/c662b07a4d4dd37e9eb414810f74a859.jpg" data-background-size="contain"}
+* * * *
 
-![Módulos urbanísticos da cidade ideal chinesa. [Wang Weijen, 2010](http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i.html)](https://i.pinimg.com/originals/c6/62/b0/c662b07a4d4dd37e9eb414810f74a859.jpg){#fig:zh-modulos .slide-bg}
+![Módulos urbanísticos da cidade ideal chinesa. [Wang Weijen, 2010](http://wwjchinesecities.blogspot.com/2010/09/imperial-chinese-cities-i.html)](https://i.pinimg.com/originals/c6/62/b0/c662b07a4d4dd37e9eb414810f74a859.jpg){#fig:zh-modulos}
 
 ## Kampong ##
 
-## {data-background-video="https://cdn.palazzo.arq.br/utilitas/urbanismo/Bali_from_Above_1.webm" data-background-video-muted="true"}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No Sudeste asiático, a matriz geradora do urbanismo é o *kampung*: uma
+gleba agrícola e residencial associada a uma família estendida ou a uma
+pequena comunidade política. As principais cidades mercantes se formam
+pelo adensamento gradual de vários *kampung* ao longo de caminhos
+estruturantes e à volta de templos e palácios fortificados ([@fig:bali]).
+Este é um termo originário do Sudeste asiático (malaio e indonésio), mas serve
+para descrever formas urbanas em todo o mundo. Pode ser entendido como o
+inverso da cidadela, sendo que, ao invés de se preencher internamente um
+limite, ele vai crescendo em todas as direções a partir de um núcleo,
+que poderia ser uma rua, um palácio, uma edificação ou uma plantação
+comunitária.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::: {#fig:bali .iframe-wrapper .full}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/QrRB1vxWYQU?start=719" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* * * *
+
+:::::::::::::::::::::::::::::::::::::: {#fig:bali .iframe-wrapper}
+<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/QrRB1vxWYQU?start=719" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Kampung* em Bali, Indonésia. Produção: [OmniHour, 2019](https://youtu.be/QrRB1vxWYQU?t=719)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Termo originário do Sudeste asiático (malaio e indonésio), mas serve
-para descrever formas urbanas em todo o mundo. Pode ser entendido como o
-inverso da cidadela, sendo que, ao invés de se preencher internamente um
-limite, ele vai crescendo em todas as direções a partir de um núcleo,
-que poderia ser uma rua, um palácio, uma edificação ou uma plantação
-comunitária. Ele se desenvolve através da expansão, não longo de um
+Ele se desenvolve através da expansão, não longo de um
 traçado como na aldeia-rua ou por subdivisão de lotes, mas pela simples
 ocupação do espaço disponível. Não há a necessidade de um parcelamento
 do solo anterior, pois este se torna uma consequência do processo de
@@ -709,15 +735,9 @@ praticamente qualquer lugar. É característica de ocupações
 predominantemente rurais e familiares, coletivas, muito voltadas para
 respostas a condições climáticas específicas, que demandam baixa
 concentração de edificações para uma ventilação ampla. 
-
-No Sudeste asiático, a matriz geradora do urbanismo é o *kampung*: uma
-gleba agrícola e residencial associada a uma família estendida ou a uma
-pequena comunidade política. As principais cidades mercantes se formam
-pelo adensamento gradual de vários *kampung* ao longo de caminhos
-estruturantes e à volta de templos e palácios fortificados ([@fig:bali]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Srivijaya_Empire-pt.svg/1007px-Srivijaya_Empire-pt.svg.png" data-background-size="contain" data-background-position="left" data-background-transition="slide-in fade-out"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os reinos do Sudeste asiático se destacam pela sua diversidade étnica e
@@ -731,7 +751,7 @@ urbano e de construir perfeitamente adaptados ao clima equatorial.
 
 ![Império de Srivijaya, séculos [VIII]{.smallcaps} e [IX]{.smallcaps}. Mapa: [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Srivijaya_Empire-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Srivijaya_Empire-pt.svg/1007px-Srivijaya_Empire-pt.svg.png){#fig:srivijaya}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png" data-background-position="left" data-transition="fade-in slide-out"}
+* * * *
 
 ::: full
 ![Nusantara (arquipélago indonésio) no auge do império Majapahit, século [XIV]{.smallcaps}. Mapa: [Gunawan Kartapranata, 2009](https://commons.wikimedia.org/wiki/File:Majapahit_Empire-pt.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png){#fig:majapahit}
@@ -748,7 +768,7 @@ assentamentos muito densos encontrados na Europa, no mundo Árabe, na
 Índia e no "extremo Oriente".
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *kampung* é muito diferente do paradigma urbanístico chinês e europeu,
@@ -761,12 +781,12 @@ segregaram as cidades malaias em bairros ocidentais, chineses e
 "nativos" ([@fig:singapore1839]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Mapa da cidade de Cingapura [G.D. Coleman, 1839](https://commons.wikimedia.org/wiki/File:Singapore_Environs_1839.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839 .stretch .slide-bg}
+![Mapa da cidade de Cingapura [G.D. Coleman, 1839](https://commons.wikimedia.org/wiki/File:Singapore_Environs_1839.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg){#fig:singapore1839 .stretch}
 
-## {data-background-image="http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png" data-background-size="360px auto" data-background-position="10px 10px"}
+* * * *
 
 ::: align-right
-![Hans-Dieter Evers](http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png){#fig:evers   .slide-bg}
+![Hans-Dieter Evers](http://ijaps.usm.my/wp-content/uploads/2012/11/Hans-Dieter-Evers.png){#fig:evers}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -778,9 +798,9 @@ malaio como um paradigma alternativo ao do urbanismo chinês, e
 igualmente legítimo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Banaue_Philippines_Batad-Rice-Terraces-02.jpg/1280px-Banaue_Philippines_Batad-Rice-Terraces-02.jpg"}
+* * * *
 
-![Arrozal em terraços em Batad, Banaue, Filipinas Foto: [Uwe Aranas, 2008](https://commons.wikimedia.org/wiki/File:Banaue_Philippines_Batad-Rice-Terraces-02.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Banaue_Philippines_Batad-Rice-Terraces-02.jpg/1280px-Banaue_Philippines_Batad-Rice-Terraces-02.jpg){#fig:arrozal .stretch .slide-bg}
+![Arrozal em terraços em Batad, Banaue, Filipinas Foto: [Uwe Aranas, 2008](https://commons.wikimedia.org/wiki/File:Banaue_Philippines_Batad-Rice-Terraces-02.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Banaue_Philippines_Batad-Rice-Terraces-02.jpg/1280px-Banaue_Philippines_Batad-Rice-Terraces-02.jpg){#fig:arrozal .stretch}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 [*Kampung* significa "povoado"]{.newthought} em malaio e em indonésio. A
@@ -790,7 +810,7 @@ caminho estruturante ou de um ponto focal importante, como um templo,
 uma mesquita ou um complexo palaciano.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Singapore_Environs_1839.jpg/1280px-Singapore_Environs_1839.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *kampung* resulta diretamente da distribuição dos arrozais
@@ -801,7 +821,7 @@ estreitos ao longo das gerações, como aconteceria no leste da Ásia e na
 Europa [@mohd:2012establishment].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/78/ff/8c/78ff8c3b608f0a22f045991f36d19597.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Além disso, Evers  mostrou que as divisas geométricas entre glebas do
@@ -815,15 +835,15 @@ ambientes modulares ([@fig:lim-malay]) [@lim:1991malay; *ap.*
 @beng:2015unleashing16].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Esquema de um *kampung* rural simples. Desenho reproduzido em [Mohd Sahabuddin, 2012](http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html)](https://i.pinimg.com/originals/78/ff/8c/78ff8c3b608f0a22f045991f36d19597.jpg){#fig:kampung-sahabuddin-1 .slide-bg}
+![Esquema de um *kampung* rural simples. Desenho reproduzido em [Mohd Sahabuddin, 2012](http://lensahijau.blogspot.com/2012/10/the-establishment-of-air-house-standard.html)](https://i.pinimg.com/originals/78/ff/8c/78ff8c3b608f0a22f045991f36d19597.jpg){#fig:kampung-sahabuddin-1}
 
-## {data-background-image="https://i.pinimg.com/originals/77/71/be/7771be8ed1ac93da93eac60da140ffbf.jpg" data-background-size="contain"}
+* * * *
 
 ::: full
-![Sequência tipológica da casa malaia. Lin, 1991, *ap.* Beng *et al.*, 2015](https://i.pinimg.com/originals/77/71/be/7771be8ed1ac93da93eac60da140ffbf.jpg){#fig:lim-malay   .slide-bg}
+![Sequência tipológica da casa malaia. Lin, 1991, *ap.* Beng *et al.*, 2015](https://i.pinimg.com/originals/77/71/be/7771be8ed1ac93da93eac60da140ffbf.jpg){#fig:lim-malay}
 :::
 
-## {data-background-image="https://i.pinimg.com/originals/2c/89/9c/2c899c391c5d122d4240ee60b1ac3c40.png" data-background-size="contain"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Do mesmo modo, o *kampung* como um todo também se adensa até virar um
@@ -833,9 +853,9 @@ como num projeto da década de 1990 para um *kampung* nas Filipinas pela
 firma americana Duany, Plater-Zyberk & co ([@fig:dpz1997]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![*Kampung* contemporâneo nas Filipinas, por Duany, Plater-Zyberk & co., 1997](https://i.pinimg.com/originals/2c/89/9c/2c899c391c5d122d4240ee60b1ac3c40.png){#fig:dpz1997 .slide-bg}
+![*Kampung* contemporâneo nas Filipinas, por Duany, Plater-Zyberk & co., 1997](https://i.pinimg.com/originals/2c/89/9c/2c899c391c5d122d4240ee60b1ac3c40.png){#fig:dpz1997 .line}
 
-## {data-background-image="https://i.pinimg.com/originals/e3/1a/b5/e31ab589311612437411f5fa5f03a90a.png" data-background-size="contain"}
+* * * *
 
 ![Rede central de atividades religiosas e políticas em torno de Trowulan, capital do império Majapahit, no século [XIV]{.smallcaps}. Hall, 1996, 97](https://i.pinimg.com/originals/e3/1a/b5/e31ab589311612437411f5fa5f03a90a.png){#fig:hall-java}
 
@@ -847,7 +867,7 @@ poder político e religioso no império Majapahit é sinalizado pela
 construção de um *pura* ou templo hinduísta.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/87/10/f2/8710f235899bfa2089a24b8702526c78.png" data-background-size="contain"}
+* * * *
 
 ::: align-right
 ![*Pura* de Trowulan, século [XIV]{.smallcaps}. Hall, 1996, 99](https://i.pinimg.com/originals/87/10/f2/8710f235899bfa2089a24b8702526c78.png){#fig:hall-trowulan}
@@ -873,94 +893,91 @@ traçado estruturante de aldeias--rua.
 
 ## Traçado estruturante e traçado de implantação ##
 
-## {data-background-transition="fade-out" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png"}
+* * * *
 
 ::: full
-![Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia, ocupação c. 14.000 a.p. Desenho com base em Jarzombek (2013) e Grigor'ev (1967), curvas de nível a cada 5 metros. Linha tracejada grossa: percurso estruturante de cumeada; linha tracejada fina: percursos de cumeada secundários; linha pontilhada: percurso de contra-cumeada](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png){#fig:kostyonki-site   .slide-bg}
+![Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia, ocupação c. 14.000 a.p. Desenho com base em Jarzombek (2013) e Grigor'ev (1967), curvas de nível a cada 5 metros. Linha tracejada grossa: percurso estruturante de cumeada; linha tracejada fina: percursos de cumeada secundários; linha pontilhada: percurso de contra-cumeada](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png){#fig:kostyonki-site}
 :::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-52-53.png" data-background-position="top"}
+* * * *
 
 ::: full
-![Modelo teórico de estabelecimento de traçados estruturantes na Itália da Idade do Bronze, segundo Gianfranco Caniggia e Gian Luigi Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-52-53.png){#fig:caniggia-maffei-1-52-53 .line   .slide-bg}
+![Modelo teórico de estabelecimento de traçados estruturantes na Itália da Idade do Bronze, segundo Gianfranco Caniggia e Gian Luigi Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-52-53.png){#fig:caniggia-maffei-1-52-53 .line}
 :::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-56-57.png" data-background-position="top"}
+* * * *
 
-![Interação entre processos espontâneos e planejados de formação de traçados, segundo Caniggia e Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-56-57.png){#fig:caniggia-maffei-1-56-57 .line .slide-bg}
+![Interação entre processos espontâneos e planejados de formação de traçados, segundo Caniggia e Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-56-57.png){#fig:caniggia-maffei-1-56-57 .line}
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-23.png" data-background-position="top"}
+* * * *
 
-![Modelo de formação dos tecidos urbanos segundo Gianfranco Caniggia e Gian Luigi Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-23.png){#fig:caniggia-maffei-1-23 .line .slide-bg}
+![Modelo de formação dos tecidos urbanos segundo Gianfranco Caniggia e Gian Luigi Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-23.png){#fig:caniggia-maffei-1-23 .line}
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-24.png" data-background-size="contain"}
+* * * *
 
-![Modelo de ocupação de quarteirão urbano sobre traçado estruturante, de implantação e de ligação, segundo Caniggia e Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-24.png){#fig:caniggia-maffei-1-24 .line .slide-bg}
+![Modelo de ocupação de quarteirão urbano sobre traçado estruturante, de implantação e de ligação, segundo Caniggia e Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-24.png){#fig:caniggia-maffei-1-24 .line}
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-35.png" data-background-size="contain"}
+* * * *
 
-![Narai, Japão, parcelamento edilício de base sobre traçado estruturante, segundo Caniggia e Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-35.png){#fig:caniggia-maffei-1-35 .line .slide-bg}
+![Narai, Japão, parcelamento edilício de base sobre traçado estruturante, segundo Caniggia e Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-35.png){#fig:caniggia-maffei-1-35 .line}
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-29.png" data-background-size="contain"}
+* * * *
 
-![Formação de tecido urbano num arrabalde de Florença, segundo Caniggia e Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-29.png){#fig:caniggia-maffei-1-29 .line .slide-bg}
+![Formação de tecido urbano num arrabalde de Florença, segundo Caniggia e Maffei](https://hcommons.org/app/uploads/sites/1002372/2021/08/caniggia_maffei-1-29.png){#fig:caniggia-maffei-1-29 .line}
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/pt-coimbra-baixa-4000.jpg"}
+* * * *
 
 ::: full
 ![Urbanização planejada de geometria orgânica: traçados estruturante e de implantação na cidade baixa de Coimbra, século [XIV]{.smallcaps}, em mapa de 1934](https://hcommons.org/app/uploads/sites/1002372/2021/08/pt-coimbra-baixa-4000.jpg){#fig:baixa}
 :::
 
-##
+* * * *
 
-::::::::: {#fig:casdevide .r-stack .full}
-![desenvolvimento do traçado estruturante da aldeia--rua, anterior ao século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Castelo_de_Vide_plan_13c_en_01.png/1280px-Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA .fragment .align-left}
-
+::::::::: {#fig:casdevide .full .half}
+<div class="r-stack">![desenvolvimento do traçado estruturante da aldeia--rua, anterior ao século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Castelo_de_Vide_plan_13c_en_01.png/1280px-Castelo_de_Vide_plan_13c_en_01.png){#fig:casdevideA .fragment .align-left}
 ![ruas estruturantes secundárias e traçado de implantação, final do século [XIII]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Castelo_de_Vide_plan_14c_en.png/1280px-Castelo_de_Vide_plan_14c_en.png){#fig:casdevideB .fragment .align-left}
-
 ![ocupação das ruas de trás e formação dos quarteirões perimetrais, século [XIV]{.smallcaps}](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Castelo_de_Vide_plan_15c_en.png/1280px-Castelo_de_Vide_plan_15c_en.png){#fig:casdevideC .fragment .align-left}
-
-![abertura dos quarteirões perimetrais com servidões (ruas de ligação), século [XV]{.smallcaps} ou anterior](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Castelo_de_Vide_plan_16c_en.png/1280px-Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD .fragment .align-left}
+![abertura dos quarteirões perimetrais com servidões (ruas de ligação), século [XV]{.smallcaps} ou anterior](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Castelo_de_Vide_plan_16c_en.png/1280px-Castelo_de_Vide_plan_16c_en.png){#fig:casdevideD .fragment .align-left}</div>
 
 Reconstituição do processo urbanístico de Castelo de Vide, Alentejo
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Goad-Insurance-Cairo-1905-10-11-12-13.jpg/1280px-Goad-Insurance-Cairo-1905-10-11-12-13.jpg"}
+* * * *
 
 ::: full
-![Mousky, Cairo, baseado na planta de [Goad, 1905](https://commons.wikimedia.org/wiki/File:Goad-Insurance-Cairo-1905-10-11-12-13.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Goad-Insurance-Cairo-1905-10-11-12-13.jpg/1280px-Goad-Insurance-Cairo-1905-10-11-12-13.jpg){#fig:goad   .slide-bg}
+![Mousky, Cairo, baseado na planta de [Goad, 1905](https://commons.wikimedia.org/wiki/File:Goad-Insurance-Cairo-1905-10-11-12-13.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Goad-Insurance-Cairo-1905-10-11-12-13.jpg/1280px-Goad-Insurance-Cairo-1905-10-11-12-13.jpg){#fig:goad}
 :::
 
-## {data-background-image="https://i.pinimg.com/originals/1b/f5/3c/1bf53c56aca9810281bcc60691f1eb01.png" data-background-position="left"}
+* * * *
 
 ::: full
-![Comunidade cristã no arrabalde norte de Alepo, Síria, sob o império Otomano, c. 1900. David, 2008](https://i.pinimg.com/originals/1b/f5/3c/1bf53c56aca9810281bcc60691f1eb01.png){#fig:alep-xr .line   .slide-bg}
+![Comunidade cristã no arrabalde norte de Alepo, Síria, sob o império Otomano, c. 1900. David, 2008](https://i.pinimg.com/originals/1b/f5/3c/1bf53c56aca9810281bcc60691f1eb01.png){#fig:alep-xr .line}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O arrabalde costuma ter um traçado viário radioconcêntrico. A separação
 de comunidades é menos marcada do que na medina.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 *Waqf* (mãos-mortas) --- amortização e desamortização.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Portos do Sael ##
 
-## {data-background-image="https://i.pinimg.com/originals/56/c2/b2/56c2b2e7e55d315e8a60f0c1aa607236.jpg" data-background-position="left"}
+* * * *
 
 ::: full
-![Impérios do ouro e sal e rotas comerciais na Idade Média. [Smithsonian Institution National Museum of African Art, 2020](https://africa.si.edu/exhibitions/current-exhibitions/caravans-of-gold-fragments-in-time-art-culture-and-exchange-across-medieval-saharan-africa/video/)](https://i.pinimg.com/originals/56/c2/b2/56c2b2e7e55d315e8a60f0c1aa607236.jpg){#fig:si   .slide-bg}
+![Impérios do ouro e sal e rotas comerciais na Idade Média. [Smithsonian Institution National Museum of African Art, 2020](https://africa.si.edu/exhibitions/current-exhibitions/caravans-of-gold-fragments-in-time-art-culture-and-exchange-across-medieval-saharan-africa/video/)](https://i.pinimg.com/originals/56/c2/b2/56c2b2e7e55d315e8a60f0c1aa607236.jpg){#fig:si}
 :::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mali.A2001291.1045.250m.jpg/1280px-Mali.A2001291.1045.250m.jpg"}
+* * * *
 
 ![Delta interior do rio Níger no final da estação das chuvas. Foto do satélite [MODIS]{.smallcaps}, [[NASA]{.smallcaps}, 2001](https://commons.wikimedia.org/wiki/File:Mali.A2001291.1045.250m.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Mali.A2001291.1045.250m.jpg/1280px-Mali.A2001291.1045.250m.jpg){#fig:delta}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Mali_Empire.jpg/1280px-The_Mali_Empire.jpg" data-background-size="contain"}
+* * * *
 
-![Império do Mali no final do reinado de Mansa Musa (1337). Mapa: [Gabriel Moss, 2016](https://commons.wikimedia.org/wiki/File:The_Mali_Empire.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Mali_Empire.jpg/1280px-The_Mali_Empire.jpg){#fig:mali .slide-bg}
+![Império do Mali no final do reinado de Mansa Musa (1337). Mapa: [Gabriel Moss, 2016](https://commons.wikimedia.org/wiki/File:The_Mali_Empire.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Mali_Empire.jpg/1280px-The_Mali_Empire.jpg){#fig:mali}
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::: {.columns .full #fig:zaria}
 ::: {.column width=50%}
@@ -972,25 +989,24 @@ de comunidades é menos marcada do que na medina.
 Zaria, atual Nigéria, agrupamento de complexos domésticos
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/2e/74/c0/2e74c0e0c9b6cb3f54e90ba7ad8fa32b.png" data-background-size="contain"}
+* * * *
 
-![Zaria, atual Nigéria, complexo doméstico e percurso de acesso segundo Hakim & Ahmed, 2008](https://hcommons.org/app/uploads/sites/1002372/2021/09/hakim-ahmed2008-04-zaria.png){#fig:zaria-compound .line .slide-bg}
+![Zaria, atual Nigéria, complexo doméstico e percurso de acesso segundo Hakim & Ahmed, 2008](https://hcommons.org/app/uploads/sites/1002372/2021/09/hakim-ahmed2008-04-zaria.png){#fig:zaria-compound .line}
 
 ## Rua e praça ##
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 * * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Léon Krier, rua de passagem e rua--lugar](https://i.pinimg.com/originals/2e/bc/c7/2ebcc75cf728d362a1387c80b43d4eff.jpg){#fig:lk-street .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em suma, destacam-se três principais pontos sobre a urbanização
 tradicional: é um processo e não um produto ou imagem resultante; é
 baseada em três elementos (traçado viário, parcelamento do solo e
-edificações); apresenta, em geral, quatro formas: cidadela, aldeia-rua,
-castrense e Kampung.
+edificações).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/2e/bc/c7/2ebcc75cf728d362a1387c80b43d4eff.jpg" data-background-size="contain"}
-
-![Léon Krier, rua de passagem e rua--lugar](https://i.pinimg.com/originals/2e/bc/c7/2ebcc75cf728d362a1387c80b43d4eff.jpg){#fig:lk-street .slide-bg}
 
 # Parcelamento do solo como matriz #
 
@@ -1025,10 +1041,10 @@ Trata-se de uma visão fadada ao fracasso, pois não é possível prever o
 futuro em uma escala temporal milenar quanto a das cidades.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/panerai2012-31.png" data-background-size="contain"}
+* * * *
 
 ::: align-right
-![Escalas de parcelamento do solo segundo Philippe Panerai: pequenos lotes urbanos; várias casas num lote; quarteirão inteiro como lote único](https://hcommons.org/app/uploads/sites/1002372/2021/08/panerai2012-31.png){#fig:panerai-lots .line   .slide-bg}
+![Escalas de parcelamento do solo segundo Philippe Panerai: pequenos lotes urbanos; várias casas num lote; quarteirão inteiro como lote único](https://hcommons.org/app/uploads/sites/1002372/2021/08/panerai2012-31.png){#fig:panerai-lots .line}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -1044,25 +1060,25 @@ pesadamente submetidos a mudanças.
 
 ## Transformações do traçado ##
 
-##
-
-::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:coelho2015}
-::: {.column width=50%}
-![acima: adição elementar; meio: adição por extensão; abaixo: justaposição](https://i.pinimg.com/originals/39/36/f3/3936f3691145bd6e2ba5392ec91423a8.png){#fig:coelho2015-abc}
-:::
-::: {.column width=50%}
-![acima: sobreposição; meio: sedimentação por deformação; abaixo: sedimentação por regularização](https://i.pinimg.com/originals/3d/bb/e4/3dbbe4f548650628472888c0d98113a3.png){#fig:coelho2015-def}
-:::
-Modos de evolução do tecido urbano, segundo Carlos Dias Coelho (2015)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+* * * *
+
+::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:coelho2015}
+::: {.column width=50%}
+![acima: adição elementar; meio: adição por extensão; abaixo: justaposição](https://i.pinimg.com/originals/39/36/f3/3936f3691145bd6e2ba5392ec91423a8.png){#fig:coelho2015-abc .line}
+:::
+::: {.column width=50%}
+![acima: sobreposição; meio: sedimentação por deformação; abaixo: sedimentação por regularização](https://i.pinimg.com/originals/3d/bb/e4/3dbbe4f548650628472888c0d98113a3.png){#fig:coelho2015-def .line}
+:::
+Modos de evolução do tecido urbano, segundo Carlos Dias Coelho (2015)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Adição ##
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::: {.columns #fig:muratori-operante}
 ::: {.column width=50%}
@@ -1081,7 +1097,7 @@ Saverio Muratori, processo de urbanização do bairro Rialto, Veneza.
 
 ## Justaposição ##
 
-## {data-background-image="https://i.pinimg.com/originals/3e/c1/a4/3ec1a49e1d0edaacce2e83fefb4a3ec2.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A justaposição é rara nos tecidos construídos tradicionais. Geralmente,
@@ -1100,30 +1116,28 @@ da França ([@fig:carcassonne]).
 
 ## Sedimentação ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/1024px-Evora_-_Roman_town_over_present_urban_fabric.svg.png" data-background-size="contain"}
+* * * *
 
-<!--_,-->
+![Évora, traçado romano sobreposto à planta urbanística atual. Desenho: [Pedro P. Palazzo, 2019](https://commons.wikimedia.org/wiki/File:Evora_-_Roman_town_over_present_urban_fabric.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/1024px-Evora_-_Roman_town_over_present_urban_fabric.svg.png){#fig:evora}
 
-![Évora, traçado romano sobreposto à planta urbanística atual. Desenho: [Pedro P. Palazzo, 2019](https://commons.wikimedia.org/wiki/File:Evora_-_Roman_town_over_present_urban_fabric.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Evora_-_Roman_town_over_present_urban_fabric.svg/1024px-Evora_-_Roman_town_over_present_urban_fabric.svg.png){#fig:evora .slide-bg}
+* * * *
 
-## {data-background-image="https://i.pinimg.com/originals/85/9c/ca/859ccaa45f361cac1c2c3414659dbaaa.png"}
-
-![Como, Itália, II fase da ocupação romana. Levantamento por Gianfranco Caniggia, 1965](https://i.pinimg.com/originals/85/9c/ca/859ccaa45f361cac1c2c3414659dbaaa.png){#fig:como-2fase .slide-bg}
+![Como, Itália, II fase da ocupação romana. Levantamento por Gianfranco Caniggia, 1965](https://i.pinimg.com/originals/85/9c/ca/859ccaa45f361cac1c2c3414659dbaaa.png){#fig:como-2fase}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Fechamento de via com lote na Europa medieval ([@fig:como-2fase]). Também
 pode ocorrer, inversamente, a abertura de uma via onde antes ficava um
-espaço cívico cercado, como um fórum, ou mesmo coberto, como um mercado.
-[@fig:campomarzio]
+espaço cívico cercado, como um fórum, ou mesmo coberto, como um mercado
+([@fig:campomarzio]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/66/85/fc/6685fce724deb4f52fa3e91b5cdc1864.jpg"}
+* * * *
 
 ::: full
-![Área do campo de Marte em Roma; vermelho: traçado atual; preto: traçado antigo reconstituído](https://i.pinimg.com/originals/66/85/fc/6685fce724deb4f52fa3e91b5cdc1864.jpg){#fig:campomarzio   .slide-bg}
+![Área do campo de Marte em Roma; vermelho: traçado atual; preto: traçado antigo reconstituído](https://i.pinimg.com/originals/66/85/fc/6685fce724deb4f52fa3e91b5cdc1864.jpg){#fig:campomarzio}
 :::
 
-## {data-background-image="https://i.pinimg.com/originals/f5/cc/38/f5cc389bddef42276982c120dbdb0b63.jpg" data-background-size="contain"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Sedimentação por desvio das testadas para dentro da caixa da via na China
@@ -1131,14 +1145,14 @@ medieval ([@fig:imperial-way; @fig:song-market]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: full
-![Esquema da via imperial numa capital chinesa](https://i.pinimg.com/originals/f5/cc/38/f5cc389bddef42276982c120dbdb0b63.jpg){#fig:imperial-way   .slide-bg}
+![Esquema da via imperial numa capital chinesa](https://i.pinimg.com/originals/f5/cc/38/f5cc389bddef42276982c120dbdb0b63.jpg){#fig:imperial-way}
 :::
 
-## {data-background-image="https://i.pinimg.com/originals/b7/ab/d7/b7abd7a66b1187c4c40fe27a447dc22c.jpg" data-background-size="contain"}
+* * * *
 
-![Transição do distrito do mercado na dinastia Tang para a rua do mercado na dinastia Song, por meio da construção de lojas permanentes no espaço público das avenidas](https://i.pinimg.com/originals/b7/ab/d7/b7abd7a66b1187c4c40fe27a447dc22c.jpg){#fig:song-market .slide-bg}
+![Transição do distrito do mercado na dinastia Tang para a rua do mercado na dinastia Song, por meio da construção de lojas permanentes no espaço público das avenidas](https://i.pinimg.com/originals/b7/ab/d7/b7abd7a66b1187c4c40fe27a447dc22c.jpg){#fig:song-market}
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Conversão de estruturas temporárias em permanentes: mercados nas cidades
@@ -1146,15 +1160,15 @@ chinesas ([@fig:tangshi; @fig:changandongshi]) e europeias.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
-::: {.column width=53%}
+::: {.column width=53.7%}
 ![Esquema de um mercado num dos nove distritos de uma cidade planejada na China da dinastia Tang](https://i.pinimg.com/originals/cc/15/36/cc153630c87b80feb7c2f2a2522475d7.jpg){#fig:tangshi}
 :::
-::: {.column width=47%}
+::: {.column width=46.3%}
 ![Distrito do mercado oriental em Chang'an durante a dinastia Tang](https://i.pinimg.com/originals/25/19/92/251992290a4dfed25ae316aebd01a918.jpg){#fig:changandongshi}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/05/09/4e/05094e4e8c134f990f5c13ae79dca19e.png" data-background-size="contain"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 * * * *
@@ -1163,11 +1177,11 @@ Conversão de um *temenos* (recinto especializado) em tecido urbano mediante
 sedimentação e sobreposição de novas ruas ([@fig:firenze]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Anfiteatro romano de Florença e tecido urbano resultante](https://i.pinimg.com/originals/05/09/4e/05094e4e8c134f990f5c13ae79dca19e.png){#fig:firenze .slide-bg}
+![Anfiteatro romano de Florença e tecido urbano resultante](https://i.pinimg.com/originals/05/09/4e/05094e4e8c134f990f5c13ae79dca19e.png){#fig:firenze}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plan_mediaeval_manor.jpg/693px-Plan_mediaeval_manor.jpg" data-background-size="contain"}
+* * * *
 
-![Esquema de um feudo medieval, em [William R. Shepherd, *Historical Atlas*, 1923](https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plan_mediaeval_manor.jpg/693px-Plan_mediaeval_manor.jpg){#fig:manor .slide-bg}
+![Esquema de um feudo medieval, em [William R. Shepherd, *Historical Atlas*, 1923](https://commons.wikimedia.org/wiki/File:Plan_mediaeval_manor.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Plan_mediaeval_manor.jpg/693px-Plan_mediaeval_manor.jpg){#fig:manor}
 
 # Boma #
 
@@ -1179,7 +1193,7 @@ complexos agropastoris familiares formando redes mais ou menos densas no
 território.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O arqueólogo americano Thomas Huffman ([@fig:huffman]) definiu, nos anos
@@ -1204,7 +1218,7 @@ tem a sua própria casa perto desse espaço central.
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Entre os bètemmeribè, na África ocidental, o complexo agropastoril é
@@ -1233,9 +1247,9 @@ Tata somba
 
 ## Redes políticas no território: grande Zimbábue ##
 
-## {data-background-image="https://i.pinimg.com/originals/f1/3c/dc/f13cdc11d527ca7beb3486fbcda7a84b.jpg"}
+* * * *
 
-![Boma de uMgungundlovu, Dingane, reino Zulu, 1829](https://i.pinimg.com/originals/f1/3c/dc/f13cdc11d527ca7beb3486fbcda7a84b.jpg){#fig:dingane .slide-bg}
+![Boma de uMgungundlovu, Dingane, reino Zulu, 1829](https://i.pinimg.com/originals/f1/3c/dc/f13cdc11d527ca7beb3486fbcda7a84b.jpg){#fig:dingane}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O sistema espacial do *boma* é a unidade mínima de estratificação
@@ -1247,7 +1261,7 @@ capital, Dingane, chegou a ter 7000 habitantes com um cercado vasto
 (ikhanda) além dos currais de gado.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O grande Zimbábue ([@fig:zimbabwe]) é uma rede territorial que
@@ -1265,11 +1279,11 @@ na cabeceira da rede, e não no centro --- a mesma situação da casa
 dominante num *boma* individual.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista aérea do Zimbábue. Foto: [Janice Bell, 2015](https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe .slide-bg}
+![Vista aérea do Zimbábue. Foto: [Janice Bell, 2015](https://commons.wikimedia.org/wiki/File:Great-zim-aerial-looking-West.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Great-zim-aerial-looking-West.JPG/1280px-Great-zim-aerial-looking-West.JPG){#fig:zimbabwe}
 
 ## Adensamento do boma e malha viária ##
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O traçado estruturante de um caminho é a base para a formação do tecido
@@ -1281,7 +1295,7 @@ densidade, os cercados se aproximam de formas retangulares. O espaço
 entre eles começa, então, a tomar a forma de rua--corredor.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista aérea de Niamey, Chade. Foto: [Walter Mittelholzer, 1930, arquivo da Escola Politécnica Federal de Zurique](https://commons.wikimedia.org/wiki/File:ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey .slide-bg}
+![Vista aérea de Niamey, Chade. Foto: [Walter Mittelholzer, 1930, arquivo da Escola Politécnica Federal de Zurique](https://commons.wikimedia.org/wiki/File:ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif/lossy-page1-1280px-ETH-BIB-Niamey-Tschadseeflug_1930-31-LBS_MH02-08-0093.tif.jpg){#fig:niamey}
 
 # Bibliografia {- .unlisted .allowframebreaks}
 
