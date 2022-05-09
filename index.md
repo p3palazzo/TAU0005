@@ -16,13 +16,13 @@ intro:
     title     : "Processos da arquitetura"
     excerpt   : "Introdução à disciplina – Ordem e lugar – Preferência temporal e local – Alegoria da cabana primitiva"
     url       : "/aula/processos/"
-    btn_label : "18 de janeiro"
+    btn_label : "7 de junho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Thomas_Cole_-_Architects_Dream_-_Google_Art_Project-crop.jpg
     title     : "História e arquitetura"
     excerpt   : "História ou arquitetura – Continuidade e ruptura – Arquitetura é construção – Construção tradicional e moderna"
     url       : "/aula/arqtrad/"
-    btn_label : "25 de janeiro"
+    btn_label : "14 de junho"
     btn_class : "btn btn--inverse btn--small"
 
 intro_atividade:
@@ -30,7 +30,7 @@ intro_atividade:
     title     : "Atividade de nivelamento"
     excerpt   : "Cabana primitiva"
     url       : "/trabalho/cabana/"
-    btn_label : "Entrega 3 de fevereiro"
+    btn_label : "Entrega 21 de junho"
     btn_class : "btn btn--inverse btn--small"
 
 firmitas:
@@ -38,25 +38,31 @@ firmitas:
     title     : "Taipas e fundações"
     excerpt   : "Materiais tradicionais – Construções semienterradas – Plataformas e terraplenos – Fundações"
     url       : "/aula/taipa/"
-    btn_label : "1.º de fevereiro"
+    btn_label : "21 de junho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836-crop.jpg
     title     : "Construção arquitravada"
     excerpt   : "Tendas e cabanas – Colunas e vigas – Assoalhos e terraços – Transposição da madeira à pedra"
     url       : "/aula/arquitravada/"
-    btn_label : "8 de fevereiro"
+    btn_label : "28 de junho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/994px-Giovanni_Paolo_Panini_–_Ancient_Rome-crop.jpg
     title     : "Construção murária"
     excerpt   : "Princípios da construção murária – Arquitetura subtrativa – Materiais naturais e cozidos – Aparelhos"
     url       : "/aula/muraria/"
-    btn_label : "15 de fevereiro"
+    btn_label : "5 de julho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Hubert_Robert_Colonnade-crop.jpg
     title     : "Arcos e abóbadas"
     excerpt   : "Geometria e forças – Estruturas lineares – Estruturas espaciais – Quando termina a Antiguidade?"
-    url       : "/aula/arcos"
-    btn_label : "22 de fevereiro"
+    url       : "/aula/arcos/"
+    btn_label : "12 de julho"
+    btn_class : "btn btn--inverse btn--small"
+  - image_path:
+    title     : "Coberturas e superfícies"
+    excerpt   : "Função e estrutura das coberturas – Formas básicas de carpintaria – Carpintaria chinesa – Revestimentos"
+    url       : "/aula/coberturas/"
+    btn_label : "19 de julho"
     btn_class : "btn btn--inverse btn--small"
 
 firmitas_atividade:
@@ -64,7 +70,7 @@ firmitas_atividade:
     title     : "Atividade I"
     excerpt   : "Edículas vernáculas"
     url       : "/trabalho/vernacular/"
-    btn_label : "Entrega 3 de março"
+    btn_label : "Entrega 26 de julho"
     btn_class : "btn btn--inverse btn--small"
 
 utilitas:
@@ -72,25 +78,25 @@ utilitas:
     title     : "Ambiente"
     excerpt   : "Arquitetura em climas extremos – Estratégias de ventilação – Unidade na diversidade – Civilizações hidráulicas"
     url       : "/aula/clima/"
-    btn_label : "8 de março"
+    btn_label : "26 de julho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors-crop.jpg
     title     : "Propósito"
     excerpt   : "Programa, função e propósito – Morfologia e tipologia – Tipologia processual – Cultura doméstica no Mediterrâneo"
     url       : "/aula/tipos/"
-    btn_label : "15 de março"
+    btn_label : "2 de agosto"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Course_of_Empire_Desolation_1836-crop.jpg
-    title     : "Volume"
+    title     : "Espaço"
     excerpt   : "Espaço ou vazio – Volumetria e cultura edilícia – Tipos distributivos – Elementos de composição"
     url       : "/aula/volumes/"
-    btn_label : "22 de março"
+    btn_label : "9 de agosto"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria-crop.jpg
     title     : "Proporção e escala"
     excerpt   : "Teorias estéticas – Proporções fixas – Proporções dinâmicas – Escala humana"
     url       : "/aula/proporcionar/"
-    btn_label : "29 de março"
+    btn_label : "16 de agosto"
     btn_class : "btn btn--inverse btn--small"
 
 utilitas_atividade:
@@ -98,7 +104,7 @@ utilitas_atividade:
     title     : "Atividade II"
     excerpt   : "Composição com volumes"
     url       : "/trabalho/volumes"
-    btn_label : "Entrega 6 de abril"
+    btn_label : "Entrega 23 de agosto"
     btn_class : "btn btn--inverse btn--small"
 
 venustas:
@@ -106,25 +112,25 @@ venustas:
     title     : "Ordenar"
     excerpt   : "Propriedades arquitetônicas – Princípios do classicismo – Outros cânones – Saberes da arquitetura"
     url       : "/aula/ordenar/"
-    btn_label : "5 de abril"
+    btn_label : "23 de agosto"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends-crop.jpg
     title     : "Articular"
     excerpt   : "Procedimentos arquitetônicos – Composições clássicas – Indicação e composição – Ofícios da construção"
     url       : "/aula/articular"
-    btn_label : "12 de abril"
+    btn_label : "6 de setembro"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_View_of_Florence_from_San_Miniato_1837-crop.jpg
     title     : "Caracterizar"
     excerpt   : "Cultura arquitetônica – Decoro e convenção – Teoria da arquitetura – Economia da construção"
     url       : "/aula/caracterizar"
-    btn_label : "19 de abril"
+    btn_label : "13 de setembro"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Louise_Rayner_Chester_Watergate_Street_looking_east-crop.jpg
     title     : "Urbanizar"
     excerpt   : "Princípios de morfologia – Tipos de urbanização – Bairro e arrabalde – Parcelamento do solo como matriz"
     url       : "/aula/urbanismo"
-    btn_label : "26 de abril"
+    btn_label : "20 de setembro"
     btn_class : "btn btn--inverse btn--small"
 
 venustas_atividade:
@@ -132,7 +138,7 @@ venustas_atividade:
     title     : "Atividade III"
     excerpt   : "Analítico com ordens clássicas"
     url       : "/trabalho/classico/"
-    btn_label : "Entrega 28 de abril"
+    btn_label : "Entrega 20 de setembro"
     btn_class : "btn btn--inverse btn--small"
 ---
 

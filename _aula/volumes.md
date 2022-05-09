@@ -1,5 +1,5 @@
 ---
-title   : "Volumes"
+title   : "Espaço"
 subtitle: "Elementos de composição"
 item    : "III"
 author  : "Pedro P. Palazzo"
@@ -16,7 +16,7 @@ title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
 ---
 
-# Espaço ou volume #
+# Espaço ou vazio #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma das principais diferenças entre a arquitetura tradicional e a
