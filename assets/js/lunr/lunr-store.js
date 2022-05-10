@@ -53,8 +53,8 @@ var store = [{
         "url": "/tau0005/aula/tipos/",
         "teaser": null
       },{
-        "title": "Volumes",
-        "excerpt":"Espaço ou volume Uma das principais diferenças entre a arquitetura tradicional e a moderna se refere aos processos construtivos, sua industrialização e consumo de uma quantidade muito maior de energia (no segundo caso). Isso faz com que esses processos se tornem deslocalizados e com cadeias produtivas extremamente profundas e concentradas...","categories": [],
+        "title": "Espaço",
+        "excerpt":"Espaço ou vazio Uma das principais diferenças entre a arquitetura tradicional e a moderna se refere aos processos construtivos, sua industrialização e consumo de uma quantidade muito maior de energia (no segundo caso). Isso faz com que esses processos se tornem deslocalizados e com cadeias produtivas extremamente profundas e concentradas...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/volumes/",
         "teaser": null
