@@ -1,6 +1,7 @@
 ---
 title: "Plano de ensino"
 author_profile: true
+classes: wide
 excerpt: >
   História do urbanismo, da arquitetura e da arte no contexto de seus
   condicionantes sociais, econômicos e políticos, desde os primórdios da
@@ -58,7 +59,7 @@ firmitas:
     url       : "/aula/arcos/"
     btn_label : "12 de julho"
     btn_class : "btn btn--inverse btn--small"
-  - image_path:
+  - image_path: https://cdn.palazzo.arq.br/firmitas/coberturas/640px-kawase_hasui_evening_moon_over_temple034333-bg.jpg
     title     : "Coberturas e superfícies"
     excerpt   : "Função e estrutura das coberturas – Formas básicas de carpintaria – Carpintaria chinesa – Revestimentos"
     url       : "/aula/coberturas/"
@@ -67,7 +68,7 @@ firmitas:
 
 firmitas_atividade:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres_-_NG.M.00426-021_-_National_Museum_of_Art_Architecture_and_Design-crop.jpg
-    title     : "Atividade I"
+    title     : "Trabalho I"
     excerpt   : "Edículas vernáculas"
     url       : "/trabalho/vernacular/"
     btn_label : "Entrega 26 de julho"
@@ -101,7 +102,7 @@ utilitas:
 
 utilitas_atividade:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-hagia_sophia-29a_Coupe_longitudinale_et_vue_sur_latrium-crop.jpg
-    title     : "Atividade II"
+    title     : "Trabalho II"
     excerpt   : "Composição com volumes"
     url       : "/trabalho/volumes"
     btn_label : "Entrega 23 de agosto"
@@ -135,11 +136,25 @@ venustas:
 
 venustas_atividade:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/analytique-crop.jpg
-    title     : "Atividade III"
+    title     : "Trabalho III"
     excerpt   : "Analítico com ordens clássicas"
     url       : "/trabalho/classico/"
     btn_label : "Entrega 20 de setembro"
     btn_class : "btn btn--inverse btn--small"
+
+sidebar:
+- text: |
+    <div itemscope="" itemtype="https://schema.org/Person">
+    <div class="author__avatar">
+    <img src="" alt="Giselle Chaim" itemprop="image" />
+    </div>
+    <div class="author__content">
+    <h3 class="author__name" itemprop="name">Giselle Chaim</h3>
+    <div class="author__bio" itemprop="description">
+    <p>Professora substituta</p>
+    </div>
+    </div>
+    </div>
 ---
 
 # Antes de começar #
@@ -157,7 +172,9 @@ venustas_atividade:
 ```{=html}
 {% include feature_row id="intro" %}
 
+{% comment %}
 {% include feature_row id="intro_atividade" type="right" %}
+{% endcomment %}
 ```
 
 # Elementos da construção #

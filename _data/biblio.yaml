@@ -3263,7 +3263,7 @@ references:
   issued:
     - year: 2015
       month: 12
-  language: English
+  language: en
   page: 1402-1419
   source: DOI.org (Crossref)
   title: The landscape of Angkor Wat redefined
@@ -4921,7 +4921,6 @@ references:
       given: Thomas N.
   citation-key: huffman:2009mapungubwe28
   container-title: Journal of Anthropological Archaeology
-  container-title-short: Journal of Anthropological Archaeology
   DOI: 10.1016/j.jaa.2008.10.004
   ISSN: 0278-4165
   issue: '1'
@@ -6691,7 +6690,6 @@ references:
       given: Labelle
   citation-key: prussin:1968architecture
   container-title: African Arts
-  container-title-short: African Arts
   DOI: 10.2307/3334324
   ISSN: 0001-9933
   issue: '2'
