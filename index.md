@@ -59,7 +59,7 @@ firmitas:
     url       : "/aula/arcos/"
     btn_label : "12 de julho"
     btn_class : "btn btn--inverse btn--small"
-  - image_path: https://cdn.palazzo.arq.br/firmitas/coberturas/640px-kawase_hasui_evening_moon_over_temple034333-bg.jpg
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/05/640px-kawase_hasui_evening_moon_over_temple034333-bg.jpg
     title     : "Coberturas e superfícies"
     excerpt   : "Função e estrutura das coberturas – Formas básicas de carpintaria – Carpintaria chinesa – Revestimentos"
     url       : "/aula/coberturas/"
