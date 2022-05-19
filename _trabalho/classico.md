@@ -156,7 +156,7 @@ As referências indicadas abaixo devem ser usadas como ponto de partida
 para uma pesquisa mais aprofundada.
 
 ```{=html}
-{% bibliography --query @*[keywords ~= tau0005-classico] %}
+{% include trabalho-3.html %}
 ```
 
 # Exemplos de composição de prancha #

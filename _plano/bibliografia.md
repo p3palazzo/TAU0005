@@ -1,19 +1,28 @@
 ---
 title: "Leitura e estudo"
-date: 2021-07-20
+date: 2022-06-07
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
+  caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
+excerpt: >
+  Notas de aula –
+  Livro-texto –
+  Tratados de arquitetura tradicional e clássica –
+  Manuais de desenho e maquete –
+  Bibliografia básica –
+  Bibliografia complementar
 ---
 
-<section>
-
-Como estamos trabalhando a distância, a leitura e o estudo individual
+::::::::::::::::::::::::::::::::::::::::::::::::::::: {.notice--warning}
+<i class="fas fa-exclamation-triangle"></i> A leitura e o estudo individual
 são componentes centrais da nossa disciplina. Não espere que a
-videoconferência vá suprir todo o conteúdo do qual você precisa para
-adquirir as competências e realizar as atividades! Antes, a
-videoconferência é uma ocasião para esclarecer dúvidas sobre pontos do
+aula expositiva vá suprir todo o conteúdo do qual você precisa para
+adquirir as competências e realizar os trabalhos! Antes, o encontro
+em aula é uma ocasião para esclarecer dúvidas sobre pontos do
 conteúdo e sobre a aplicação desse conhecimento nas tarefas. Por isso,
-trate sempre de fazer as leituras com antecedência.
-
-</section>
+trate sempre de fazer as leituras com antecedência e de trazer
+o seu trabalho em andamento para orientação.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Notas de aula #
 
@@ -31,7 +40,9 @@ compreender o que esperamos de você nas atividades.
 
 # Livro-texto #
 
-> {% reference fazio:2011historia %}
+> Michael Fazio, Marian Moffett, e Lawrence Wodehouse, *A história da
+> arquitetura mundial*, trad. Alexandre Salvaterra (Porto Alegre:
+> Bookman, 2011).
 
 O livro-texto oferece um panorama de diferentes culturas arquitetônicas
 do mundo antigo e medieval, cada uma no seu respectivo capítulo. Assim,
@@ -41,14 +52,16 @@ problemas que estaremos abordando.
 
 ## Leitura recomendada ##
 
-> {% reference ching:2016historia %}
+> Francis D. K. Ching, Mark M. Jarzombek, e Vikramāditya Prakāsh,
+> *História global da arquitetura*, trad. Alexandre Salvaterra, 3.ª ed.
+> (São Paulo: Senac São Paulo, 2016).
 
-Além do livro-texto, indicamos também este sobrevoo introdutório dos temas históricos
-tratados ao longo do semestre. As páginas relevantes para cada tópico
-estão indicadas nas notas de aula, e vão ser discutidas nas
-videoconferências de cada semana.
+Além do livro-texto, indicamos também este sobrevoo introdutório dos
+temas históricos tratados ao longo do semestre. As páginas relevantes
+para cada tópico estão indicadas nas notas de aula, e vão ser discutidas
+nas aulas de cada semana.
 
-[]{.fas .fa-info-circle}
+<i class="fas fa-info-circle"></i>
 : Como acessar os e-books da nossa bibliografia?
 
 <!-- -->
@@ -65,11 +78,11 @@ c. No canto superior direito, digite os termos de busca e localize o
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:bce .full}
 ![Página principal da [BCE]{.smallcaps}](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-a.jpg){#fig:bce-a}
 
-* * * *
+::: half
+![Tela de login](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-b.jpg){#fig:bce-b}
 
-![Tela de login](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-b.jpg){#fig:bce-b .align-left}
-
-![Pesquisa](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-c.jpg){#fig:bce-c .align-left style="max-width: 720px"}
+![Pesquisa](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-c.jpg){#fig:bce-c}
+::::::::
 
 Acesso à base de e-books Minha Biblioteca
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -77,7 +90,7 @@ Acesso à base de e-books Minha Biblioteca
 # Tratados de arquitetura tradicional e clássica #
 
 As obras indicadas abaixo são os pontos de partida mais indicados para a
-elaboração das atividades, e devem ser estudadas com afinco. Elas estão
+elaboração dos trabalhos, e devem ser estudadas com afinco. Elas estão
 disponíveis na área de arquivos do [Aprender 3][] ou no link indicado.
 
 ```{=latex}
@@ -85,7 +98,7 @@ disponíveis na área de arquivos do [Aprender 3][] ou no link indicado.
 ```
 
 ```{=html}
-{% bibliography --query @*[keywords ~= tau0005-tratado] %}
+{% include tratados.html %}
 ```
 
 <i class="fas fa-check-circle"></i>
@@ -106,7 +119,7 @@ disponíveis na área de arquivos do [Aprender 3][] ou no link indicado.
   (betão), aço e outros materiais. Exerça o seu discernimento ao
   consultar essa referência!
 
-# Manuais de desenho arquitetônico #
+# Manuais de desenho e maquete #
 
 Você deve aprender muitas convenções de representação na disciplina
 Desenho Arquitetônico. Em qualquer caso, as indicações de leitura abaixo
@@ -119,7 +132,7 @@ eletrônico pela [BCE]{.smallcaps}.
 ```
 
 ```{=html}
-{% bibliography --query @*[keywords ~= tau0005-desenho] %}
+{% include manuais.html %}
 ```
 
 # Bibliografia básica #
@@ -138,7 +151,7 @@ na área de arquivos do [Aprender 3][].
 ```
 
 ```{=html}
-{% bibliography --query @*[keywords ~= tau0005-basica] %}
+{% include basica.html %}
 ```
 
 # Bibliografia complementar #
@@ -155,7 +168,7 @@ do [Aprender 3][].
 ```
 
 ```{=html}
-{% bibliography --query @*[keywords ~= tau0005-complementar] %}
+{% include complementar.html %}
 ```
 
 [[BCE]{.smallcaps}]: https://bce.unb.br

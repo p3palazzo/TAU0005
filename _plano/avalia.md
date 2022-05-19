@@ -1,60 +1,32 @@
 ---
 title: "Avaliação"
 date: 2021-07-20
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
+  caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
+excerpt: >
+  Orientações gerais –
+  As suas atividades avaliativas –
+  Sobre criatividade e originalidade
 ---
 
-<section>
+# Orientações gerais #
 
 Nesta disciplina, você vai trabalhar em ritmo semanal. Cada semana
-corresponde a um tópico do conteúdo e pede a realização de uma tarefa
-assíncrona (ou seja, sem hora marcada), que conta como presença. Essas
-atividades semanais contribuem para a atividade avaliativa de cada
-Unidade, que vale nota. Para obter aprovação na disciplina, você precisa
+corresponde a um tópico do conteúdo.
+Para obter aprovação na disciplina, você precisa
 atender a *todos* os requisitos seguintes:
 
 <i class="fas fa-check-circle"></i>
-~ Somar 12 presenças semanais, que correspondem à frequência mínima de
-  75 % da carga horária da disciplina ([@tbl:freq, abaixo]).
+~ Somar 23 presenças, que correspondem à frequência mínima de
+  75 % da carga horária da disciplina.
 
 <i class="fas fa-check-circle"></i>
-~ Entregar todas as quatro atividades avaliativas ([@tbl:atividades,
-  abaixo]).
+~ Entregar todos os trabalhos ([@tbl:atividades, abaixo]).
 
 <i class="fas fa-check-circle"></i>
-~ Obter 50 pontos no total das atividades avaliativas do semestre, que
+~ Obter 50 pontos no total dos trabalhos do semestre, que
   correspondem à menção [MM]{.smallcaps}.
-
-</section>
-
-# A sua frequência #
-
-Cada semana tem uma tarefa correspondente, indicada no Moodle. Essa
-tarefa pode ser uma breve pesquisa ou o desenvolvimento de uma parte da
-atividade avaliativa da unidade, ou ainda a própria entrega final de
-cada atividade avaliativa. Para *marcar presença* na respectiva semana,
-você precisa entregar o resultado dessa tarefa no Moodle dentro do prazo
-previsto na [@tbl:freq]. A sua frequência total no semestre será a soma
-numérica de todas as frequências semanais.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: fullwidth
-: Frequência por entrega de tarefas {#tbl:freq}
-
-|                                         |                                          |
-|-----------------------------------------|------------------------------------------|
-| Entrega até as 23h^59^ da segunda-feira | 4,0 horas (presença integral da semana)  |
-| Entrega até as 23h^59^ da sexta-feira   | 2,0 horas (metade da presença da semana) |
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-<i class="fas fa-check-circle"></i> 
-~ Nas semanas de entrega de atividade avaliativa, você vai obter a
-  presença integral sempre que entregar a tarefa até a data prevista no
-  Moodle, independentemente do dia da semana em que ela cair.
-
-<i class="fas fa-exclamation-triangle"></i> 
-~ Após a sexta-feira não é mais permitido entregar a atividade para
-  obter a presença da semana em andamento.
-  Todas as atividades devem ser entregues na respectiva tarefa no
-  Moodle. *Não há exceções*.
 
 <i class="fas fa-exclamation-circle"></i> 
 ~ Se acontecer algum impedimento prolongado e justificado que impeça
@@ -64,7 +36,7 @@ numérica de todas as frequências semanais.
 
 # As suas atividades avaliativas #
 
-Cada atividade representa uma aplicação do conteúdo do respectivo
+Cada trabalho representa uma aplicação do conteúdo do respectivo
 módulo, demandando compreensão dos princípios arquitetônicos e
 urbanísticos abordados, para além da simples repetição das aulas. Por
 isso, os trabalhos e seus critérios de avaliação estão alinhados aos

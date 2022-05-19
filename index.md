@@ -161,13 +161,16 @@ sidebar:
 
 1. [Por que estudar história da arquitetura ?](_plano/por-que-historia.md) <!--_-->
 2. [Como estudamos história na FAU–UnB ?](_plano/sobre-disciplina.md) <!--_-->
-3. [O que você vai aprender nesta disciplina ?](_plano/objetivos.md) <!--_-->
-4. [Como vamos trabalhar a distância ?](_plano/metodologia.md) <!--_-->
-5. [O que você precisa ler ?](_plano/bibliografia.md) <!--_-->
-6. [Que materiais você precisa ter para fazer as atividades ?](_trabalho/materiais.md) <!--_-->
-6. [Como vamos avaliar o seu aproveitamento ?](_plano/avalia.md) <!--_-->
 
-# Introdução #
+# Para começar #
+
+1. [O que você vai aprender nesta disciplina ?](_plano/objetivos.md) <!--_-->
+2. [Como vamos trabalhar no retorno presencial ?](_plano/metodologia.md) <!--_-->
+3. [O que você precisa ler ?](_plano/bibliografia.md) <!--_-->
+4. [O que você precisa fazer ?](_plano/avalia.md) <!--_-->
+5. [Que materiais você precisa ter para fazer os trabalhos ?](_trabalho/materiais.md) <!--_-->
+
+# Introdução à arquitetura tradicional #
 
 ```{=html}
 {% include feature_row id="intro" %}

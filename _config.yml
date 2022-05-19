@@ -225,11 +225,6 @@ pandoc:
 relative_links:
   enabled: true
   collections: true
-scholar:
-  locale: pt-BR
-  sort_by: author,editor,year
-  order: ascending,ascending,descending
-  style: "chicago-fullnote-bibliography-with-ibid"
 
 
 # Sass/SCSS
@@ -256,7 +251,6 @@ plugins:
   - jekyll-data
   - jekyll-pandoc
   - jekyll-relative-links
-  - jekyll-scholar
   - jekyll-seo-tag
   - jekyll-sitemap
 

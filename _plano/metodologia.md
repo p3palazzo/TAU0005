@@ -1,6 +1,13 @@
 ---
 title: "Como vamos trabalhar"
-date: 2021-07-20
+date: 2022-06-07
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
+  caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
+excerpt: >
+  Nossas ferramentas –
+  Como acompanhar o programa –
+  Alterações no programa
 ---
 
 # Nossas ferramentas #
@@ -36,27 +43,6 @@ acessando `Este curso > Notas` na barra superior da janela. Você
 encontrará o link para a área da disciplina no Moodle nos
 [ícones no topo desta página](#).
 
-## Microsoft Teams ##
-
-A plataforma [Microsoft Teams][] faz parte do pacote [Office 365][]
-subscrito pela UnB. Você deve fazer login usando o seu endereço de
-`email@aluno.unb.br` e a senha global dos serviços da UnB (webmail e
-[SIGAA]{.smallcaps}). Em caso de dificuldades com esse acesso, contate o
-[suporte\@unb.br][].
-
-Toda terça e quinta-feira, no horário normal da aula (20h50--22h30),
-temos um encontro ao vivo usando a ferramenta de videoconferência do
-Teams. Sempre que puder, participe ao vivo para tirar dúvidas e receber
-orientação sobre as atividades. Quando não puder participar, você poderá
-ver a gravação em até duas semanas depois da aula. Você encontrará o
-link para a videoconferência no mural da turma no Teams, e também nos
-[ícones no topo desta página](#).
-
-Você pode usar o mural da disciplina no Teams para conversar com os
-professores e colegas da turma, ou enviar mensagens em chat privado para
-qualquer pessoa da UnB. Porém, *não recebemos entregas de trabalhos pelo
-Teams*.
-
 ## Biblioteca ##
 
 O [livro-texto da disciplina](bibliografia.md) está disponível em
@@ -74,7 +60,7 @@ compreender o conteúdo com a profundidade necessária, e fazer a sua
 própria pesquisa bibliográfica de modo autônomo é uma parte importante
 do processo de aprendizagem.
 
-## SIGAA ##
+## <span class="smallcaps">SIGAA</span> ##
 
 O [Sistema Integrado de Gestão Acadêmica][] é o registro centralizado
 das disciplinas na UnB. Você deve acessar usando o seu [CPF]{.smallcaps}
@@ -87,12 +73,12 @@ Portanto, não espere encontrar informações sobre o andamento do semestre
 ## Na sua casa ##
 
 Todas as atividades de [TAU 0005]{.smallcaps} são aplicadas, e consistem
-em produzir uma ou mais folhas desenhadas. Por isso, você vai precisar
+em produzir uma ou mais folhas desenhadas ou maquetes. Por isso, você vai precisar
 de instrumentos e materiais para desenho técnico. A maior parte é
 semelhante ao que você vai usar na disciplina Desenho Arquitetônico, mas
-há algumas diferenças importantes. [Veja aqui](../_trab/materiais.md) os
+há algumas diferenças importantes. [Veja aqui](../_trabalho/materiais.md) os
 principais requisitos de materiais e instrumentos na nossa disciplina, e
-depois [como digitalizar](../_trab/digitalizar.md) a sua entrega com a
+depois como digitalizar a sua entrega com a
 melhor qualidade possível.
 
 # Como acompanhar o programa? #
@@ -111,7 +97,7 @@ O [programa](../index.md) do nosso semestre se divide num breve ciclo
 introdutório e três unidades principais de conteúdo. Cada um desses
 quatro ciclos e unidades está associado a um
 [objetivo de aprendizagem](objetivos.md) e a uma atividade que conta
-para a nota final. Ao final do ciclo de Introdução e ao final de cada
+para a nota final. Ao final do ciclo de Introdução e de cada
 Unidade, você vai ter:
 
 1. Estudado a competência que você precisa adquirir nessa unidade,
@@ -120,41 +106,41 @@ Unidade, você vai ter:
    videoconferência semanal.
 2. Entregue uma atividade valendo nota, demonstrando o seu domínio dessa
    competência, respeitando a data de entrega prevista.
-3. Participado ativamente das demais atividades propostas para atingir a
-   frequência obrigatória de 75 % da carga horária, conforme detalhado
-   abaixo.
+3. Atingido a frequência obrigatória de 75 % da carga horária.
 
 <i class="fas fa-exclamation-triangle"></i>
-~ Você precisa *entregar* todas as quatro atividades que valem nota,
+~ Você precisa *entregar* todas as atividades que valem nota,
   além de obter 50 pontos no total do semestre. Se deixar de entregar
   algum dos trabalhos, você receberá automaticamente a menção `SR`,
   *mesmo que tenha pontuação total suficiente*.
 
 ## A semana ##
 
+<!--
+   -A semana é o nosso bloco
+   -mínimo de trabalho: o conteúdo, o controle de frequência e a entrega de
+   -atividades, por exemplo, são programados *por semana* e não por *dia* de
+   -aula.
+   -->
+
 Cada semana corresponde a um tópico de conteúdo específico que contribui
-para o objetivo de aprendizagem da sua Unidade. A semana é o nosso bloco
-mínimo de trabalho: o conteúdo, o controle de frequência e a entrega de
-atividades, por exemplo, são programados *por semana* e não por *dia* de
-aula. Ao final de cada semana, você vai ter:
+para o objetivo de aprendizagem da sua Unidade.
+Ao final de cada semana, você vai ter:
 
 1. Lido as notas de aula escritas *ou* assistido às respectivas
    videoaulas, ao vivo ou gravadas;
 2. Lido as páginas do livro-texto indicadas;
 3. Tirado suas dúvidas sobre o conteúdo e o desenvolvimento do trabalho
-   da Unidade, fazendo perguntas e comentários nos fóruns do Moodle ou
-   na videoconferência;
-4. Realizado uma tarefa valendo presença, respeitando a data de entrega
-   prevista.
+   da Unidade;
+4. Participado ativamente da aula presencial, discutindo o conteúdo e
+   orientando a produção do trabalho da Unidade em andamento.
 
 <i class="fas fa-check-circle"></i>
-~ A carga horária desta disciplina é de 60 horas divididas em 15
-  semanas, mais uma semana de "bônus". Portanto, você precisa somar
-  45 "horas" para cumprir a carga horária mínima. Cada resenha vale 4
-  "horas" quando entregue até a segunda-feira da respectiva semana, e 2
-  "horas" quando entregue até a sexta-feira seguinte. A presença da
-  primeira semana do semestre vai ser automaticamente atribuída a
-  todos, já que não há entrega prevista.
+~ A carga horária total desta disciplina é de 60 horas, divididas em 30
+  períodos de 2 horas cada. Em cada aula, a presença será verificada no
+  início do primeiro período e no final do segundo período da noite.
+  Você precisa estar presente em 23 períodos para atingir a frequência
+  mínima de 75 % da carga horária.
 
 ## O trabalho em casa ##
 
@@ -172,10 +158,7 @@ dedicar, por exemplo, a cada semana:
 
 ## O dia de aula ##
 
-Às terças e quintas-feiras às 19h (horário de Brasília) você poderá
-encontrar professores e colegas ao vivo numa videoconferência na
-plataforma [Microsoft Teams][] da UnB. Os
-nossos encontros por videoconferência serão sempre aulas *invertidas*. O
+Os nossos encontros presenciais serão sempre aulas *invertidas*. O
 que queremos dizer com isso? No ensino *normal*, o horário da aula é
 usado para transmissão do conteúdo, geralmente na forma expositiva, e os
 alunos desenvolvem os trabalhos fora do horário da aula. Já numa aula
@@ -186,24 +169,6 @@ outras dinâmicas interativas. Nesse sistema, a aula é conduzida *por
 vocês* --- pelas suas demandas e necessidades na elaboração dos
 trabalhos e na compreensão do conteúdo.
 
-<i class="fas fa-exclamation-triangle"></i> 
-~ Na videoconferência da terça-feira, vamos tirar dúvidas
-  prioritariamente sobre as atividades que tiverem sido entregues até as
-  23h59 da segunda-feira. Dúvidas referentes a tarefas não entregues, ou
-  entregues após esse prazo, serão atendidas na sequência, conforme haja
-  tempo.
-
-<i class="fas fa-check-circle"></i>
-~ Participar da videoconferência *não é obrigatório*. Se, por qualquer
-  motivo ou sem motivo nenhum, não puder ou não quiser participar da
-  videoconferência, você poderá assistir à gravação que ficará
-  disponível durante duas semanas no mural do Microsoft Teams.
-
-<i class="fas fa-exclamation-triangle"></i> 
-~ A participação na videoconferência *não garante presença* na semana.
-  Para marcar presença, entregue a atividade prevista no Moodle dentro
-  do prazo.
-
 # Alterações no programa #
 
 Dadas as circunstâncias atuais, o cronograma pode sofrer alterações
@@ -211,12 +176,7 @@ seguindo eventuais decisões da [FAU]{.smallcaps} ou dos órgãos superiores da 
 
 [Aprender 3]: https://aprender3.unb.br/course/view.php?id=8552
 
-[Microsoft Teams]: https://teams.microsoft.com/l/team/19%3aUsJdAp730q1MDQwmuqPX1xrVCzihj-ZgM2WnodRSnmw1%40thread.tacv2/conversations?groupId=d022e11c-3e61-4d38-a5e3-e4e1e8590e32&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059
-
 [suporte\@unb.br]: mailto:suporte@unb.br
-
-[Office 365]: https://office.com
 
 [Sistema Integrado de Gestão Acadêmica]: https://sig.unb.br/sigaa/
 
-[[GIMP]{.smallcaps}]: https://www.gimp.org/

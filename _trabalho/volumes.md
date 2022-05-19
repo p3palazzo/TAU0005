@@ -1,5 +1,5 @@
 ---
-title   : "Composição com volumes"
+title   : "Composição espacial"
 subtitle: "Elementos de composição"
 item: "Atividade II"
 date: 2022-03-31
@@ -122,6 +122,6 @@ As referências indicadas abaixo devem ser usadas como ponto de partida
 para uma pesquisa mais aprofundada.
 
 ```{=html}
-{% bibliography --query @*[keywords ~= tau0005-volumes] %}
+{% include trabalho-2.html %}
 ```
 
