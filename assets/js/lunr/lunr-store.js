@@ -114,7 +114,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Avaliação",
-        "excerpt":"Os trabalhos Cada trabalho representa uma aplicação do conteúdo do respectivo módulo, demandando compreensão dos princípios arquitetônicos e urbanísticos abordados, para além da simples repetição das aulas. Por isso, os trabalhos e seus critérios de avaliação estão alinhados aos objetivos de aprendizagem de cada módulo. No entanto, o conhecimento e...","categories": [],
+        "excerpt":"Critérios para aprovação na disciplina O que esperamos de todas as entregas é atenção ao que foi pedido, pesquisa e leitura criteriosa do material necessário à realização do trabalho, reflexão crítica, clareza e capricho na execução. Para obter aprovação na disciplina, você precisa atender a todos os três requisitos seguintes:...","categories": [],
         "tags": [],
         "url": "/tau0005/plano/avalia/",
         "teaser": null
