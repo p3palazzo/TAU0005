@@ -196,8 +196,6 @@ arquivos do [Aprender 3][].
 
 [Aprender 3]: https://aprender3.unb.br/course/view.php?id=13869
 
-[Microsoft Teams]: https://teams.microsoft.com/l/team/19%3aUsJdAp730q1MDQwmuqPX1xrVCzihj-ZgM2WnodRSnmw1%40thread.tacv2/conversations?groupId=d022e11c-3e61-4d38-a5e3-e4e1e8590e32&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059
-
 [Cesare Cesariano (1521)]: http://archive.org/details/gri_33125008262210
 
 [Claude Perrault (1673)]: http://archive.org/details/gri_33125008503100

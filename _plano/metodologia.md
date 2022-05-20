@@ -95,6 +95,7 @@ Unidade, você vai ter:
    aula presencial;
 2. Entregue um trabalho valendo nota, demonstrando o seu domínio dessa
    competência, respeitando a data de entrega prevista.
+3. Participado ativamente das demais atividades propostas.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--warning
 <i class="fas fa-exclamation-triangle"></i>
