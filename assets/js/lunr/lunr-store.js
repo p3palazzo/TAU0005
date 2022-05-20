@@ -12,7 +12,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Taipas e fundações",
-        "excerpt":"Materiais da construção tradicional Mitos de origem e determinismo histórico Os mitos de origem exercem uma atração especial sobre as teorias da arquitetura. A visão de mundo na qual os primórdios de algum modo explicam, e por que não justificam, o desenvolvimento histórico da cultura é recorrente não só em...","categories": [],
+        "excerpt":"Materiais da construção tradicional Os mitos de origem exercem uma atração especial sobre as teorias da arquitetura. A visão de mundo na qual os primórdios de algum modo explicam, e por que não justificam, o desenvolvimento histórico da cultura é recorrente não só em sociedades tradicionais, mas inclusive em movimentos...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/taipa/",
         "teaser": null
@@ -102,31 +102,25 @@ var store = [{
         "teaser": null
       },{
         "title": "O que você vai aprender",
-        "excerpt":"O objetivo da disciplina é conferir um domínio operativo da arquitetura tradicional em geral, e da linguagem clássica em particular, enquanto ferramentas de análise e produção sustentável e resiliente do ambiente construído. Este propósito se desdobra em quatro aspectos que correspondem a cada uma das unidades do Programa: Introdução à...","categories": [],
+        "excerpt":"Objetivo geral O objetivo da disciplina é conferir um domínio operativo da arquitetura tradicional em geral, e da linguagem clássica em particular, enquanto ferramentas de análise e produção sustentável e resiliente do ambiente construído. Este propósito se desdobra em quatro aspectos que correspondem a cada uma das unidades do Programa:...","categories": [],
         "tags": [],
         "url": "/tau0005/plano/objetivos/",
         "teaser": null
       },{
-        "title": "Como vamos trabalhar",
-        "excerpt":"Nossas ferramentas Moodle Neste semestre, você vai continuar estudando em modo remoto. Todo o conteúdo e as atividades da disciplina estão no ambiente virtual de aprendizagem Aprender 3. Esse ambiente usa um sistema livre de ensino a distância chamado Moodle (pronuncia-se “múdou”). Por isso, na maioria das vezes vamos nos referir...","categories": [],
+        "title": "Metodologia e recursos de apoio",
+        "excerpt":"Moodle Todo o conteúdo e as ementas dos trabalhos da disciplina estão no ambiente virtual de aprendizagem Aprender 3. Esse ambiente usa um sistema livre de ensino a distância chamado Moodle (pronuncia-se “múdou”). Por isso, na maioria das vezes vamos nos referir à plataforma virtual como o Moodle. O login do...","categories": [],
         "tags": [],
         "url": "/tau0005/plano/metodologia/",
         "teaser": null
       },{
-        "title": "Apoio ao aluno",
-        "excerpt":"O conteúdo e as atividades da disciplina estão disponíveis no ambiente virtual de aprendizagem Aprender 3. A equipe de TAU 0005 — o professor, a estagiária docente e as monitoras — estará disponível ao vivo, por videoconferência no sistema Microsoft Teams da UnB, às terças e quintas-feiras no horário da aula....","categories": [],
-        "tags": [],
-        "url": "/tau0005/plano/apoio/",
-        "teaser": null
-      },{
         "title": "Avaliação",
-        "excerpt":"Nesta disciplina, você vai trabalhar em ritmo semanal. Cada semana corresponde a um tópico do conteúdo e pede a realização de uma tarefa assíncrona (ou seja, sem hora marcada), que conta como presença. Essas atividades semanais contribuem para a atividade avaliativa de cada Unidade, que vale nota. Para obter aprovação...","categories": [],
+        "excerpt":"Os trabalhos Cada trabalho representa uma aplicação do conteúdo do respectivo módulo, demandando compreensão dos princípios arquitetônicos e urbanísticos abordados, para além da simples repetição das aulas. Por isso, os trabalhos e seus critérios de avaliação estão alinhados aos objetivos de aprendizagem de cada módulo. No entanto, o conhecimento e...","categories": [],
         "tags": [],
         "url": "/tau0005/plano/avalia/",
         "teaser": null
       },{
         "title": "Leitura e estudo",
-        "excerpt":"Como estamos trabalhando a distância, a leitura e o estudo individual são componentes centrais da nossa disciplina. Não espere que a videoconferência vá suprir todo o conteúdo do qual você precisa para adquirir as competências e realizar as atividades! Antes, a videoconferência é uma ocasião para esclarecer dúvidas sobre pontos...","categories": [],
+        "excerpt":"A leitura e o estudo individual são componentes centrais da nossa disciplina. Não espere que a aula expositiva vá suprir todo o conteúdo do qual você precisa para adquirir as competências e realizar os trabalhos! Antes, o encontro em aula é uma ocasião para esclarecer dúvidas sobre pontos do conteúdo...","categories": [],
         "tags": [],
         "url": "/tau0005/plano/bibliografia/",
         "teaser": null
@@ -143,14 +137,14 @@ var store = [{
         "url": "/tau0005/trabalho/vernacular/",
         "teaser": null
       },{
-        "title": "Composição com volumes",
+        "title": "Composição espacial",
         "excerpt":"Ementa Figura 1: Cesare Cesariano, composição modular em quina, da tradução do Tratado de arquitetura de Vitrúvio, 1521 O volume singular da edícula é o elemento de base da arquitetura. A articulação entre volumes é a linguagem da composição arquitetônica. Numa composição arquitetônica tradicional, cada volume é claramente delimitado, tem...","categories": [],
         "tags": [],
         "url": "/tau0005/trabalho/volumes/",
         "teaser": null
       },{
         "title": "Analítico com ordens clássicas",
-        "excerpt":"Projetar é compor, mas para compor é preciso ter objetos a serem compostos: para os arquitetos, estes são os “elementos da arquitetura”. Harbeson, The study of architectural design, 1926, p. 27. Ementa O estudo analítico tem sido a porta de entrada no estudo do classicismo desde a organização do ensino na...","categories": [],
+        "excerpt":"Projetar é compor, mas para compor é preciso ter objetos a serem compostos: para os arquitetos, estes são os “elementos da arquitetura”. Harbeson, The study of architectural design, 1926, p. 27. Ementa Figura 1: Léon Krier, Elementos da construção vernácula e elementos da arquitetura clássica O estudo analítico tem sido a...","categories": [],
         "tags": [],
         "url": "/tau0005/trabalho/classico/",
         "teaser": null
