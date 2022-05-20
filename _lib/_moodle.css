@@ -1,0 +1,7 @@
+/* Oculta resumo porque repete header das notas de aula */
+.single-section .summary { display: none; }
+/* div.content > div.summary > div.no-overflow > h3 {display: none; } */
+/* Amplia iframe das notas de aula */
+iframe.notas { border: 0; width: 100%; height: 90vh; }
+/* Limita tamanho do iframe na tela de edit */
+a.editing_move + div iframe.notas { height: 30vh; }

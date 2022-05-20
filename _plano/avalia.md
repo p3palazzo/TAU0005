@@ -10,7 +10,63 @@ header:
 excerpt: >
   As suas atividades avaliativas –
   Sobre criatividade e originalidade
+
+intro_atividade:
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Киргизские_кибитки_на_реке_Чу-crop.jpg
+    title     : "Atividade de nivelamento"
+    excerpt: |
+      Cabana primitiva
+
+      Peso: 10 pontos
+    url       : "/trabalho/cabana/"
+    btn_label : "Entrega 21 de junho"
+    btn_class : "btn btn--inverse btn--small"
+
+trabalhos:
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres_-_NG.M.00426-021_-_National_Museum_of_Art_Architecture_and_Design-crop.jpg
+    title     : "Trabalho I"
+    excerpt: |
+      Edículas vernáculas
+
+      Peso: 30 pontos
+    url       : "/trabalho/vernacular/"
+    btn_label : "Entrega 26 de julho"
+    btn_class : "btn btn--inverse btn--small"
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-hagia_sophia-29a_Coupe_longitudinale_et_vue_sur_latrium-crop.jpg
+    title     : "Trabalho II"
+    excerpt: |
+      Composição espacial
+
+      Peso: 30 pontos
+    url       : "/trabalho/volumes"
+    btn_label : "Entrega 23 de agosto"
+    btn_class : "btn btn--inverse btn--small"
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/analytique-crop.jpg
+    title     : "Trabalho III"
+    excerpt: |
+      Analítico com ordens clássicas
+
+      Peso: 40 pontos
+    url       : "/trabalho/classico/"
+    btn_label : "Entrega 20 de setembro"
+    btn_class : "btn btn--inverse btn--small"
 ---
+
+# Critérios para aprovação na disciplina #
+
+O que esperamos de todas as
+entregas é atenção ao que foi pedido, pesquisa e leitura criteriosa do
+material necessário à realização do trabalho, reflexão crítica, clareza
+e capricho na execução. Para obter aprovação na disciplina, você precisa
+atender a *todos* os três requisitos seguintes:
+
+<i class="fas fa-tasks"></i>
+
+: Entregar *todos* trabalhos das Unidades;
+
+: Obter a pontuação total 50, correspondendo à menção [MM]{.smallcaps};
+
+: Cumprir a frequência mínima de 75 % da carga horária.
 
 # Os trabalhos #
 
@@ -23,33 +79,16 @@ as competências a serem aplicadas em cada trabalho são *cumulativos:*
 você precisará ter dominado os requisitos de um trabalho para ter
 sucesso no trabalho seguinte!
 
-Não recebemos, *sob hipótese alguma*, trabalhos por e-mail.
+```{=html}
+{% include feature_row id="trabalhos" %}
+```
 
-| Unidade | Trabalho                | Pontuação |
-|:-------:|:------------------------|----------:|
-|    I    | [Edícula vernácula][]   |        30 |
-|    II   | [Composição espacial][] |        30 |
-|   III   | [Analítico][]           |        40 |
-|         | **Total do semestre**   |   **100** |
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--danger
+<i class="fas fa-inbox"></i>
 
-: Atividades avaliativas da disciplina e respectiva pontuação {#tbl:atividades}
-
-[Cabana primitiva]: ../_trabalho/analitico.md
-
-[Edícula vernácula]: ../_trabalho/vernacular.md
-
-[Composição com volumes]: ../_trabalho/volumes.md
-
-[Analítico]: ../_trabalho/classico.md
-
-<!--_,-->
-
-<i class="fas fa-exclamation-triangle"></i>
-
-~ Você precisa *entregar* todas as três atividades que valem nota,
-  além de obter 50 pontos no total do semestre. Se deixar de entregar
-  alguma das atividades, você receberá automaticamente a menção `SR`,
-  *mesmo que tenha pontuação total suficiente*.
+: Não recebemos, *sob
+hipótese alguma*, trabalhos por e-mail.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Sobre criatividade e originalidade #
 
@@ -85,6 +124,4 @@ Internet --- é uma prática inaceitável e resultará em atribuição da nota
 podemos relatar o ocorrido ao colegiado de graduação da
 [FAU]{.smallcaps}. Além disso, 90 % dos desenhos de arquitetura clássica
 que vocês encontrarem no Google estão *errados!*
-
-[Aprender 3]: https://aprender3.unb.br/course/view.php?id=13869
 
