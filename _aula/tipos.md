@@ -14,6 +14,24 @@ title-slide-attributes:
 header:
   overlay_image: https://i.pinimg.com/originals/c8/cc/e2/c8cce2f9390770ae17105dd79794f6a1.jpg
   caption: "Edwin Lord Weeks, [Pátio na Alhambra no tempo dos mouros](https://commons.wikimedia.org/wiki/File:Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg), 1876"
+  actions:
+  - label: "Slides"
+    url  : /slides/tipos/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    *História da arquitetura mundial*:
+
+    - capítulo 7 "Arquitetura islâmica"
+    - ver também 301–302
+- title: "Leitura sugerida"
+  text: |
+    - *História global* 347–391
+    - Vitrúvio livro [VI]{.smallcaps}
+    - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 1222–1252
+    - Hillenbrand, *Islamic Art and Architecture* 1–60
+    - Grabar, *Islamic Art and Beyond* capítulo 12
 ---
 
 # Programa, função e propósito #

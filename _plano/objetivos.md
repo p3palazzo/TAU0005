@@ -4,6 +4,9 @@ date: 2021-07-20
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
   caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
+  actions:
+  - label: "Voltar ao Plano de ensino"
+    url  : /plano/
 excerpt: >
   Objetivo geral – Objetivos específicos
 ---
@@ -14,7 +17,7 @@ O objetivo da disciplina é conferir um domínio operativo da arquitetura
 tradicional em geral, e da linguagem clássica em particular, enquanto
 ferramentas de análise e produção sustentável e resiliente do ambiente
 construído. Este propósito se desdobra em quatro aspectos que
-correspondem a cada uma das unidades do [Programa](../index.md):
+correspondem a cada uma das unidades do [Programa]({% link index.md %}):
 
 # Objetivos específicos #
 
@@ -34,7 +37,7 @@ I.  Elementos da construção
       arquitravadas e naquelas murárias--arqueadas, bem como a lógica
       intrínseca aos detalhes construtivos de origem vernácula.
 
-[Trabalho I](../_trabalho/vernacular.md) <!--_,-->
+[Trabalho I](../_trabalho/vernacular.md) <!--_-->
 ~ Edícula vernácula
 
 II. Elementos de composição
@@ -43,7 +46,7 @@ II. Elementos de composição
       elementos da construção tradicional e a tipologia edilícia para
       dar forma e caráter a esses espaços.
 
-[Trabalho II](../_trabalho/volumes.md) <!--_,-->
+[Trabalho II](../_trabalho/volumes.md) <!--_-->
 ~ Composição espacial
 
 III. Fazer arquitetura
@@ -53,6 +56,6 @@ III. Fazer arquitetura
        aspectos estéticos assim como sua lógica de representação
        construtiva (disposição, proporções, modenatura).
 
-[Trabalho III](../_trabalho/classico.md) <!--_,-->
+[Trabalho III](../_trabalho/classico.md) <!--_-->
 ~ Analítico com ordens clássicas
 

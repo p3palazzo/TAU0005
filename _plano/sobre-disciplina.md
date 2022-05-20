@@ -4,6 +4,9 @@ date: 2021-07-20
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
   caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
+  actions:
+  - label: "Voltar ao Plano de ensino"
+    url  : /plano/
 ---
 
 <section>

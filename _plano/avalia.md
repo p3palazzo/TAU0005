@@ -4,37 +4,15 @@ date: 2021-07-20
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
   caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
+  actions:
+  - label: "Voltar ao Plano de ensino"
+    url  : /plano/
 excerpt: >
-  Orientações gerais –
   As suas atividades avaliativas –
   Sobre criatividade e originalidade
 ---
 
-# Orientações gerais #
-
-Nesta disciplina, você vai trabalhar em ritmo semanal. Cada semana
-corresponde a um tópico do conteúdo.
-Para obter aprovação na disciplina, você precisa
-atender a *todos* os requisitos seguintes:
-
-<i class="fas fa-check-circle"></i>
-~ Somar 23 presenças, que correspondem à frequência mínima de
-  75 % da carga horária da disciplina.
-
-<i class="fas fa-check-circle"></i>
-~ Entregar todos os trabalhos ([@tbl:atividades, abaixo]).
-
-<i class="fas fa-check-circle"></i>
-~ Obter 50 pontos no total dos trabalhos do semestre, que
-  correspondem à menção [MM]{.smallcaps}.
-
-<i class="fas fa-exclamation-circle"></i> 
-~ Se acontecer algum impedimento prolongado e justificado que impeça
-  você de cumprir as tarefas semanais, nem tudo está perdido! Você
-  poderá ingressar com um pedido de *regime domiciliar*. Informe-se com
-  antecedência junto à secretaria de graduação da [FAU]{.smallcaps}.
-
-# As suas atividades avaliativas #
+# Os trabalhos #
 
 Cada trabalho representa uma aplicação do conteúdo do respectivo
 módulo, demandando compreensão dos princípios arquitetônicos e
@@ -45,18 +23,14 @@ as competências a serem aplicadas em cada trabalho são *cumulativos:*
 você precisará ter dominado os requisitos de um trabalho para ter
 sucesso no trabalho seguinte!
 
-A entrega de todas as atividades da disciplina será feita,
-exclusivamente, por meio eletrônico, na plataforma [Aprender 3][] da
-UnB, nos fóruns e tarefas previstos para esse fim. Não recebemos, *sob
-hipótese alguma*, trabalhos por e-mail.
+Não recebemos, *sob hipótese alguma*, trabalhos por e-mail.
 
-| Unidade | Atividade                          | Entrega | Pontuação |
-|:-------:|:-----------------------------------|:-------:|----------:|
-|  Intro  | [Cabana primitiva][]               |  29/07  |        10 |
-|    I    | [Edícula vernácula][]              |  07/09  |        20 |
-|    II   | [Composição com volumes][]         |  12/10  |        30 |
-|   III   | [Analítico com ordens clássicas][] |  04/11  |        40 |
-|         | **Total do semestre**              |         |   **100** |
+| Unidade | Trabalho                | Pontuação |
+|:-------:|:------------------------|----------:|
+|    I    | [Edícula vernácula][]   |        30 |
+|    II   | [Composição espacial][] |        30 |
+|   III   | [Analítico][]           |        40 |
+|         | **Total do semestre**   |   **100** |
 
 : Atividades avaliativas da disciplina e respectiva pontuação {#tbl:atividades}
 
@@ -66,21 +40,16 @@ hipótese alguma*, trabalhos por e-mail.
 
 [Composição com volumes]: ../_trabalho/volumes.md
 
-[Analítico com ordens clássicas]: ../_trabalho/classico.md
+[Analítico]: ../_trabalho/classico.md
 
 <!--_,-->
 
 <i class="fas fa-exclamation-triangle"></i>
-~ Você precisa *entregar* todas as quatro atividades que valem nota,
+
+~ Você precisa *entregar* todas as três atividades que valem nota,
   além de obter 50 pontos no total do semestre. Se deixar de entregar
   alguma das atividades, você receberá automaticamente a menção `SR`,
   *mesmo que tenha pontuação total suficiente*.
-
-<i class="fas fa-exclamation-circle"></i>
-~ Necessidades especiais na realização das atividades da disciplina e no
-  acompanhamento do semestre devem ser apontadas ao professor da turma o
-  mais cedo possível, e serão analisadas caso a caso à luz das regras em
-  vigor.
 
 # Sobre criatividade e originalidade #
 
@@ -117,5 +86,5 @@ podemos relatar o ocorrido ao colegiado de graduação da
 [FAU]{.smallcaps}. Além disso, 90 % dos desenhos de arquitetura clássica
 que vocês encontrarem no Google estão *errados!*
 
-[Aprender 3]: https://aprender3.unb.br/course/view.php?id=8552
+[Aprender 3]: https://aprender3.unb.br/course/view.php?id=13869
 

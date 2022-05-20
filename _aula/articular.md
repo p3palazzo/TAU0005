@@ -14,6 +14,22 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg/2560px-1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg
   caption: "Lawrence Alma-Tadema, [Fídias e o friso do Partenon](https://commons.wikimedia.org/wiki/File:1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg), 1868"
+  actions:
+  - label: "Slides"
+    url  : /slides/articular/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    *História da arquitetura mundial*:
+
+    - capítulo 10
+      "Arquitetura nativa das Américas e da África"
+    - rever 178–189
+- title: "Leitura sugerida"
+  text: |
+    - *História global* 426–437
+    - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 599–653
 ---
 
 # Procedimentos arquitetônicos #

@@ -9,11 +9,26 @@ excerpt: >
   Princípios da arquitetura clássica –
   Outras ordens –
   Saberes da arquitetura
+title-slide-attributes:
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Prayer_in_the_Mosque.jpg/1733px-Prayer_in_the_Mosque.jpg
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Prayer_in_the_Mosque.jpg/1733px-Prayer_in_the_Mosque.jpg
   caption: "Jean Léon Gérôme, [Oração numa mesquita](https://commons.wikimedia.org/wiki/File:Prayer_in_the_Mosque.jpg), 1871"
-title-slide-attributes:
-  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Prayer_in_the_Mosque.jpg/1733px-Prayer_in_the_Mosque.jpg
+  actions:
+  - label: "Slides"
+    url  : /slides/ordenar/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    Ching, *Arquitetura: forma espaço e ordem*:
+
+    - capítulo 4 "Organização"
+    - capítulo 7 "Princípios"
+- title: "Leitura sugerida"
+  text: |
+    - *História global* 402–425
+    - Vitrúvio livro [IX]{.smallcaps}
 ---
 
 # Propriedades arquitetônicas #

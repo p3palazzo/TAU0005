@@ -14,6 +14,24 @@ header:
   caption: "Thomas Cole, [Decurso do império: desolação](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg), 1836"
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
+  actions:
+  - label: "Slides"
+    url  : /slides/volumes/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    *História da arquitetura mundial*:
+
+    - capítulo 8 "Arquitetura cristã primitiva e românica"
+    - ver também p. 301
+- title: "Leitura sugerida"
+  text: |
+    - *História global* 392–406
+    - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 253–270, 321–364, 379–394
+    - Duby, *História Artística da Europa* t. [I]{.smallcaps} 167–179 e t. [II]{.smallcaps} 64–79, 100–151
+    - Kubach, *Arquitectura Románica*
+    - Schapiro, *Romanesque Art*
 ---
 
 # Espaço ou vazio #

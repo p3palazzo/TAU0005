@@ -16,6 +16,18 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg/1280px-Thomas_Cole\_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg
   caption: "Thomas Cole, Sonho do arquiteto, 1840. Fonte e maiores informações: [Google Arts and Culture ](https://artsandculture.google.com/story/thomas-cole-the-architect-s-dream/ggKi4X2yPzzOKw)"
+  actions:
+  - label: "Slides"
+    url  : /slides/arqtrad/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text : "*História global* v–24"
+- title: "Leitura sugerida"
+  text: |
+    - Rocha-Peixoto, *A estratégia da aranha* 85–98
+    - Bozdoğan, ["Architectural History in Professional Education"](http://www.jstor.org/stable/1425410)
+    - Maass, ["Where Architectural Historians Fear to Tread"](http://www.jstor.org/stable/988523)
 ---
 
 # História ou arquitetura #
