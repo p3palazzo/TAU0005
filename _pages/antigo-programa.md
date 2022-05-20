@@ -1,5 +1,6 @@
 ---
 title : Conteúdo programático
+permalink: /antigo/programa/
 ---
 
 Unidade I: A casa e a cidade

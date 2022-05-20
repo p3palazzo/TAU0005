@@ -14,11 +14,27 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg
   caption: "Thomas Cole, Decurso do império: [Estado arcádio ou pastoral](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg), 1836"
+  actions:
+  - label: "Slides"
+    url  : /slides/taipa/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    *História da arquitetura mundial*:
+
+    - capítulo 1 "Primórdios da arquitetura"
+    - ver também 83–85
+- title: "Leitura sugerida"
+  text: |
+    - *História global* 25–95
+    - Vitrúvio livro II
+    - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 12–75
 ---
 
 # Materiais da construção tradicional
 
-## Mitos de origem e determinismo histórico ##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os mitos de origem exercem uma atração especial sobre as teorias da

@@ -1,15 +1,16 @@
 ---
 title: "Instrumentos e materiais"
-date: 2022-01-18
+date: 2022-06-07
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/lequeu-crop.jpg
+  overlay_filter: 0.5
   caption: "Jean-Jacques Lequeu, [instrumentos de desenho técnico](https://gallica.bnf.fr/ark:/12148/btv1b7703014j/f1.item.r=lequeu), 1782"
-toc:
-  - Desenho à mão
-  - Desenho no computador
-  - Maquetes físicas
-  - Modelagem digital
-  - Digitalização de entregas
+excerpt: >
+  Desenho à mão –
+  Desenho no computador –
+  Maquetes físicas –
+  Modelagem digital –
+  Digitalização de entregas
 ---
 
 Para fazer as atividades da disciplina, você vai precisar de um conjunto
@@ -164,7 +165,7 @@ Table: Convenções gráficas para representação de edifícios {#tbl:desenho-e
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-[]{.fas .fa-info-circle}
+<i class="fas fa-info-circle"></i>
 : O conceito de "corte" se refere a qualquer superfície cortada, seja
   numa projeção de corte vertical ou em planta.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -173,13 +174,19 @@ Table: Convenções gráficas para representação de edifícios {#tbl:desenho-e
 
 ![Planta e corte de um projeto de Jules Hardouin-Mansart para o castelo de Marly, França, final do século [XVII]{.smallcaps}](https://i.pinimg.com/564x/56/92/fd/5692fdff793aced3b1aa8cdf398d35e3.jpg){#fig:marly}
 
-![Isaac Ware, corte transversal de Houghton Hall, Norfolk, Inglaterra, [levantado em 1735](https://www.metmuseum.org/art/collection/search/369061)](https://collectionapi.metmuseum.org/api/collection/v1/iiif/369061/783201/main-image){#fig:ware .full}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Isaac Ware, corte transversal de Houghton Hall, Norfolk, Inglaterra, [levantado em 1735](https://www.metmuseum.org/art/collection/search/369061)](https://collectionapi.metmuseum.org/api/collection/v1/iiif/369061/783201/main-image){#fig:ware}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Desenho de conjuntos urbanos ou paisagísticos ##
 
-![Detalhe da planta de Roma por Giambattista Nolli, 1748](https://i.pinimg.com/564x/b8/29/3c/b8293c19f24adb3218c8ee812f9d0cf3.jpg){#fig:nolli .full}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Detalhe da planta de Roma por Giambattista Nolli, 1748](https://i.pinimg.com/564x/b8/29/3c/b8293c19f24adb3218c8ee812f9d0cf3.jpg){#fig:nolli}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Reconstituição de Bukhara c. 1600](https://64.media.tumblr.com/tumblr_m7s7l9Qs0Y1qdcsdfo1_500.jpg){#fig:bukhara .align-right}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Reconstituição de Bukhara c. 1600](https://64.media.tumblr.com/tumblr_m7s7l9Qs0Y1qdcsdfo1_500.jpg){#fig:bukhara}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Na representação de espaços urbanos ou conjuntos paisagísticos, o
 contraste é a característica essencial das representações. Os cheios
@@ -209,9 +216,13 @@ Table: Convenções gráficas para representação de conjuntos {#tbl:desenho-ur
 
 ![Mapa de seguro contra incêndio de Charles E. Goad em Birmingham, Inglaterra, 1895. [Folha 15](https://commons.wikimedia.org/wiki/File:Insurance_Plan_of_The_City_of_Birmingham_Vol_II;_sheet_15_(BL_147939).tiff)](https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Insurance_Plan_of_The_City_of_Birmingham_Vol_II;_sheet_15_(BL_147939).tiff/lossy-page1-642px-Insurance_Plan_of_The_City_of_Birmingham_Vol_II;_sheet_15_(BL_147939).tiff.jpg){#fig:goad}
 
-![Planta de Belfort, França, 1780](http://www.beaudouin-architectes.fr/wp-content/gallery/belfort/02-plan-de-belfort-1780.jpg){#fig:belfort .full}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Planta de Belfort, França, 1780](http://www.beaudouin-architectes.fr/wp-content/gallery/belfort/02-plan-de-belfort-1780.jpg){#fig:belfort}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Folha da planta de Lisboa por Filipe Folque, 1882](http://fotos.sapo.pt/amnnc/fotos/?uid=TqZ2jTszHMsCaQPcp97z){#fig:folque .full}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Folha da planta de Lisboa por Filipe Folque, 1882](http://fotos.sapo.pt/amnnc/fotos/?uid=TqZ2jTszHMsCaQPcp97z){#fig:folque}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Traçado regulador ##
 
@@ -234,7 +245,9 @@ Reconstituições contemporâneas de traçados reguladores em edifícios erudito
 
 ## Sombras ##
 
-![Guia de projeção de sombras por Henry McGoodwin](https://i.pinimg.com/564x/4f/a4/75/4fa47553d506aeb99c62bd98fa432909.jpg){#fig:mcgoodwin-ped .align-right}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Guia de projeção de sombras por Henry McGoodwin](https://i.pinimg.com/564x/4f/a4/75/4fa47553d506aeb99c62bd98fa432909.jpg){#fig:mcgoodwin-ped}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Em arquitetura, seguimos a convenção de que uma vista sempre será iluminada
 desde o canto superior esquerdo, num ângulo de 45 graus. Isso faz com
@@ -247,7 +260,7 @@ quanto clássicos [@amati:1802regole; @mcgoodwin:1904architectural].
 ![Projeção de sombras na elevação de uma arcada, por Henry McGoodwin](https://i.pinimg.com/564x/52/49/d2/5249d233d2794b1f3f24fb63978cbd55.jpg){#fig:goodwin-porch}
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-[]{.far .fa-grin-beam-sweat}
+<i class=".far .fa-grin-beam-sweat"></i>
 : Se o desenho arquitetônico estiver delineado com capricho e usando os
   pesos de linha corretos, não será preciso representar as sombras. Em
   desenhos em pequena escala, as sombras podem ser indicadas com uma
@@ -299,7 +312,7 @@ permite visualizar, manejar e adaptar a precisão dos perfis segundo a
 escala adotada.
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--warning
-[]{.fas .fa-exclamation-circle}
+<i class="fas fa-exclamation-circle"></i>
 : Proporções precisas e a distinção entre
   perfis retilíneos e curvos são características fundamentais da
   arquitetura tradicional. *Não é admissível* em nenhum dos nossos
@@ -329,7 +342,7 @@ marca ([@tbl:cad]). Para conveniência, oferecemos a seguir uma lista de
 programas equivalentes ([@tbl:freecad]).
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-[]{.fas .fa-info-circle}
+<i class="fas fa-info-circle"></i>
 : Todos os desenhos devem ser entregues em formato [PDF]{.smallcaps},
   portanto fique à vontade para trabalhar no programa que mais lhe
   convier e melhor atender às suas necessidades.
@@ -415,7 +428,7 @@ Papel Paraná
 <!---->
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-[]{.fas .fa-check-circle}
+<i class="fas fa-check-circle"></i>
 : Planeje a sua compra: os lotes de papel Paraná são bastante
   irregulares, mesmo quando vendidos numa mesma loja. Tente estimar a
   quantidade de papel necessária para uma maquete e compre todo de uma
@@ -427,7 +440,7 @@ Papel Paraná
 <!---->
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-[]{.far .fa-meh-rolling-eyes}
+<i class=".far .fa-meh-rolling-eyes"></i>
 : Não me perguntem se o certo é "Paraná" ou "Panamá", ou se cada nome se
   refere a um tipo de papel. Eu compro esse papel há mais de 20 anos e
   também não sei.
@@ -504,7 +517,7 @@ Materiais "realistas"
 <!---->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--warning
-[]{.fas .fa-exclamation-circle}
+<i class="fas fa-exclamation-circle"></i>
 : Esses materiais realistas *não são* recomendáveis para as maquetes de
   estudo em arquitetura, como as que vamos fazer nesta disciplina, pois
   sua textura prejudica a percepção de volumes nas construções. O mesmo
@@ -533,8 +546,8 @@ Madeira compensada ou serrada
 As ferramentas mais importantes para fazer maquetes são o estilete e a
 régua metálica. Economize em todo o resto, menos nesses dois!
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Estilete](https://www.buyolfa.com/media/catalog/product/cache/1/image/b5d5d12178ad056727031a810b630b86/o/l/olf_l-2_1.jpg)
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Estilete](https://www.buyolfa.com/media/catalog/product/cache/1/image/b5d5d12178ad056727031a810b630b86/o/l/olf_l-2_1.jpg){#fig:estilete .nobg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Estilete pesado
@@ -550,21 +563,25 @@ Estilete pesado
 <!---->
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--danger
-[]{.fas .fa-ambulance}
+<i class="fas fa-ambulance"></i>
 : O risco de um estilete de plástico quebrar na sua mão e causar
   ferimentos graves é muito alto e não compensa a economia! Se for
   manuseado e guardado com cuidado, um bom estilete dura a vida toda.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--danger
-[]{.fas .fa-ambulance}
+<i class="fas fa-ambulance"></i>
 : Quebre a ponta da lâmina com frequência durante o uso: lâminas cegas
   são difíceis de manusear e produzem um corte irregular, mas também são
   perigosas pois escorregam com facilidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Régua de corte](https://scribblers.co.uk/wp-content/uploads/2018/06/Aluminium-Cutting-Ruler-40cm-1-2k.jpg)
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Régua de corte](https://scribblers.co.uk/wp-content/uploads/2018/06/Aluminium-Cutting-Ruler-40cm-1-2k.jpg){#fig:regua}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Régua de corte
@@ -593,12 +610,12 @@ Base de corte
 <!---->
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-[]{.fas .fa-check-circle}
+<i class="fas fa-check-circle"></i>
 : A base de corte deve ser sempre guardada na posição horizontal e ao
   abrigo do sol e do calor.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
 ![Compasso de corte](https://i.pinimg.com/564x/a3/73/0e/a3730e065b3e90330edde15add1d46b8.jpg)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -620,7 +637,7 @@ Cola branca PVA líquida
 <!---->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--warning
-[]{.fas .fa-exclamation-circle}
+<i class="fas fa-exclamation-circle"></i>
 : Em quase todos os materiais usados para fazer maquete, a cola branca é
   suficiente. Não use cola quente, cola para madeira, para tapetes ou
   tecidos, nem cola-tudo *(super bonder)* a não ser que esteja lidando
@@ -629,7 +646,7 @@ Cola branca PVA líquida
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-[]{.fas .fa-tape}
+<i class="fas fa-tape"></i>
 : Não cole os elementos da sua maquete com fita adesiva (transparente,
   isolante ou crepe). O resultado ficará frágil e deselegante.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -648,13 +665,14 @@ Estecas
 
 <!---->
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=51.5%}
-![Estecas em alumínio para cortar a argila](https://i.pinimg.com/236x/5f/49/21/5f492132461ca542a23aa5d4173a14d2.jpg)
+:::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:estecas}
+::: {.column width=50%}
+![em alumínio para cortar a argila](https://i.pinimg.com/236x/5f/49/21/5f492132461ca542a23aa5d4173a14d2.jpg)
 :::
-::: {.column width=48.5%}
-![Estecas em madeira para marcar e alisar a argila](https://i.pinimg.com/236x/e8/f2/d8/e8f2d882a57c2514ef51602eb5a2e4f5.jpg)
+::: {.column width=50%}
+![em madeira para marcar e alisar a argila](https://i.pinimg.com/236x/e8/f2/d8/e8f2d882a57c2514ef51602eb5a2e4f5.jpg)
 :::
+Estecas
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -665,10 +683,19 @@ Além das indicações abaixo, a nossa bibliografia oferece referências
 mais aprofundadas sobre a execução de maquetes arquitetônicas
 [@clute:1928drafting; @knoll:2009maquetas; @schilling:2018architecture].
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Folha com acabamentos aplicados antes do corte das peças](https://hcommons.org/app/uploads/sites/1002372/2021/08/draftingroomprac00clut_0074.jpg){#fig:maq-plano}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Planejar, medir e traçar
 
 : Procure, no mínimo, rascunhar a composição de peças que vai cortar
-  para a sua maquete, de modo a ter uma previsão do consumo de material.
+  para a sua maquete, de modo a ter uma previsão do consumo de material
+  ([@fig:maq-plano]).
 
 : Ao desenhar o traçado diretamente no material, use um lápis muito bem
   apontado e trace linhas muito leves, para não marcar a superfície.
@@ -699,25 +726,23 @@ Cortar e colar
   estreitas, e uma pinça para segurar e posicionar essas peças na
   maquete.
 
-![Folha com acabamentos aplicados antes do corte das peças](https://hcommons.org/app/uploads/sites/1002372/2021/08/draftingroomprac00clut_0074.jpg)
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Construção de ângulos](https://hcommons.org/app/uploads/sites/1002372/2021/08/draftingroomprac00clut_0073a.png){.line #fig:maq-angulos}
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Construção de ângulos](https://hcommons.org/app/uploads/sites/1002372/2021/08/draftingroomprac00clut_0073a.png){.line}
-
-![Corte de ângulos em bisel](https://hcommons.org/app/uploads/sites/1002372/2021/08/draftingroomprac00clut_0072b.png){.line}
+![Corte de ângulos em bisel](https://hcommons.org/app/uploads/sites/1002372/2021/08/draftingroomprac00clut_0072b.png){.line #fig:bisel}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Construir
 
 : Ângulos côncavos (reentrantes) devem ser construídos de modo que uma
-  peça cubra a espessura da outra.
+  peça cubra a espessura da outra ([@fig:maq-angulos]).
 
 : Nunca dobre folhas para formar ângulos reentrantes na maquete: o
   acabamento sempre fica meio curvo e sem firmeza. Sempre corte uma
   superfície para cada plano e junte com cola.
 
 : Ângulos convexos devem ser construídos de modo a não deixar a
-  espessura das peças visível no exterior. Corte materiais grossos em
+  espessura das peças visível no exterior ([@fig:bisel]). Corte materiais grossos em
   bisel e faça um vinco *leve* com o estilete na face externa do ângulo
   para dar um acabamento preciso e assertivo. Cuidado ao fazer o vinco
   para não destacar os dois lados da superfície!
@@ -741,7 +766,7 @@ Construir
   ser uma "tampa" no prisma, mas deve ser ligeiramente afundada para
   formar uma platibanda elegante.
 
-![Maquete volumétrica com cobertura plana e platibanda, árvores feitas de flores secas](https://hcommons.org/app/uploads/sites/1002372/2021/08/maquete-5.jpg)
+![Maquete volumétrica com cobertura plana e platibanda, árvores feitas de flores secas](https://hcommons.org/app/uploads/sites/1002372/2021/08/maquete-5.jpg){#fig:platibanda}
 
 Decorar
 
@@ -772,19 +797,19 @@ Decorar
   ainda com uma placa de acrílico sobre essa superfície escura, ou
   pintando a face inferior do acrílico com tinta preta fosca.
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: marginnote
-![Maquete em argila](https://hcommons.org/app/uploads/sites/1002372/2021/08/draftingroomprac00clut_0088b.jpg)
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Maquete em argila](https://hcommons.org/app/uploads/sites/1002372/2021/08/draftingroomprac00clut_0088b.jpg){#fig:argila}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Maquetes em argila
 
 : A argila é um material especialmente adequado para maquetes de
   superfícies, tais como fachadas, e com muitos detalhes de formas
-  orgânicas. Para que seja possível modelar com precisão, é
+  orgânicas ([@fig:argila]). Para que seja possível modelar com precisão, é
   indispensável que a camada de argila esteja firmada sobre uma base
-  sólida (compensado ou Eucatex, por exemplo).
+  sólida (compensado ou Eucatex, por exemplo) ([@fig:argila-box]).
 
-![Sistema para execução de uma maquete profissional em argila](https://hcommons.org/app/uploads/sites/1002372/2021/08/draftingroomprac00clut_0093a.png){.line}
+![Sistema para execução de uma maquete profissional em argila](https://hcommons.org/app/uploads/sites/1002372/2021/08/draftingroomprac00clut_0093a.png){.line #fig:argila-box}
 
 
 # Modelagem digital #
@@ -799,7 +824,7 @@ grande atenção às suas formas, bem como aos seus princípios de
 articulação, montagem, proporção e escala [@aubin:2013renaissance].
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-[]{.fas .fa-check-circle}
+<i class="fas fa-check-circle"></i>
 : Vários tutoriais para programas de modelagem podem ser encontrados no
   YouTube. Veja uma lista não exaustiva para os principais programas
   comerciais no
@@ -932,7 +957,7 @@ se sinta mal por isso!), siga as dicas a seguir:
    esqueça de clicar no botão `Enviar tarefa` depois de concluir o
    upload!
 
-# Referências #
+# Bibliografia #
 
 [Blender]: https://www.blender.org/
 

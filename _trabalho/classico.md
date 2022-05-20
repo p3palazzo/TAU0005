@@ -23,6 +23,10 @@ excerpt: >
 
 # Ementa #
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Léon Krier, Elementos da construção vernácula e elementos da arquitetura clássica](https://i.pinimg.com/564x/8e/38/71/8e3871f9e36821640ceb47adefa98b05.jpg){#fig:krier-classical}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 O estudo analítico tem sido a porta de entrada no estudo do classicismo
 desde a organização do ensino na Academia de Arquitetura em Paris, no
 século [XVIII]{.smallcaps}, difundindo-se para o sistema as Escolas de
@@ -47,6 +51,10 @@ No entanto, elas não são uma "invenção" arbitrária de algumas pessoas,
 mas o resultado da consolidação milenar de práticas construtivas,
 costumes projetuais e refinamentos estéticos.
 
+* * * *
+
+![Ordens clássicas segundo Claude Perrault, 1683](https://i.pinimg.com/originals/3a/c4/61/3ac461cf9ecc2e18cf670dd406c07bff.jpg){#fig:perrault}
+
 As ordens clássicas são elementos de um certo modo tradicional de
 construir, mas elas não são como os modernos componentes construtivos
 industrializados. Cada projeto clássico introduz ligeiras variações, por
@@ -70,8 +78,8 @@ erudita, propondo:
 > interno, compreendendo uma ordem clássica. A edícula será implantada
 > num espaço aberto, e deve ornar e dignificar o espaço público mediante
 > o uso correto e elegante dos elementos da arquitetura clássica. A
->   composição da prancha deve ressaltar as proporções e os detalhes da
->   arquitetura clássica.
+> composição da prancha deve ressaltar as proporções e os detalhes da
+> arquitetura clássica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Objetivos #
@@ -94,10 +102,10 @@ permitir uma variedade de usos. A edícula deve
 ornar e dignificar o espaço público mediante o uso correto e elegante
 dos elementos da arquitetura clássica.
 
-- A edícula deve ser articulada com uma ordem toscana, dórica, jônica,
-  coríntia ou compósita completa (colunas, ou pilastras, e seu
-  entablamento) extraída do tratado de Chitham, do de Vignola, ou do de
-  Perrault;
+- A edícula deve ser articulada no seu exterior ou interior com uma
+  ordem toscana, dórica, jônica, coríntia ou compósita completa
+  (colunas, ou pilastras, e seu entablamento) extraída do tratado de
+  Chitham;
 - A edícula deve ter todas as elevações idênticas;
 - Na planta do ambiente único da edícula deve ser possível inscrever um
   círculo com 2,5 metros de diâmetro, o qual deve tocar a estrutura da
@@ -118,7 +126,7 @@ dos elementos da arquitetura clássica.
 ## Apresentação ##
 
 Uma prancha analítica de uma composição clássica, executada em desenho
-técnico e entregue em formato [PDF]{.smallcaps}, compreendendo:
+técnico arte-finalizado, compreendendo:
 
 1. Detalhe canônico da ordem clássica --- base, capitel e entablamento
    em elevação de canto, mais detalhes em planta, corte e vista inferior
@@ -156,7 +164,7 @@ As referências indicadas abaixo devem ser usadas como ponto de partida
 para uma pesquisa mais aprofundada.
 
 ```{=html}
-{% bibliography --query @*[keywords ~= tau0005-classico] %}
+{% include trabalho-3.html %}
 ```
 
 # Exemplos de composição de prancha #

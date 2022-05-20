@@ -14,6 +14,31 @@ header:
   caption: "Louise Rayner, [Rua Watergate em Chester](https://commons.wikimedia.org/wiki/File:Louise_Rayner_Chester_Watergate_Street_looking_east.jpg) (Inglaterra), anterior a 1876"
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Louise_Rayner_Chester_Watergate_Street_looking_east.jpg/2560px-Louise_Rayner_Chester_Watergate_Street_looking_east.jpg
+  actions:
+  - label: "Slides"
+    url  : /slides/urbanismo/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    *História da arquitetura mundial* rever:
+
+    - 35–38
+    - 78–81
+    - 107–113
+    - 131–150
+    - 180–183
+    - 190–195
+    - 264–268
+    - 298–300
+- title: "Leitura sugerida"
+  text: |
+    - *História global* 455–459
+    - Panerai, *Análise urbana* cap. 1–3
+    - Chueca Goitia, *Breve historia del urbanismo*
+    - Saoud, [*Introduction to the Islamic City*](http://www.muslimheritage.com/article/introduction-islamic-city)
+    - AlSayyad, ["Virtual Cairo"](http://www.jstor.org/stable/1576690)
+    - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 437–489
 ---
 
 # Princípios da forma urbana #

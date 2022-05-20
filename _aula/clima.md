@@ -9,12 +9,29 @@ excerpt: >
   Estratégias de ventilação –
   Índia: unidade na diversidade –
   Civilizações hidráulicas
-header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
-  caption: "Edwin Lord Weeks. [*Vista do espelho d'água para o templo Dourado em Amritsar*](https://commons.wikimedia.org/wiki/File:Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg), 1883"
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
   data-background-position: "bottom"
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/e/e2/Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg
+  caption: "Edwin Lord Weeks. [*Vista do espelho d'água para o templo Dourado em Amritsar*](https://commons.wikimedia.org/wiki/File:Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg), 1883"
+  actions:
+  - label: "Slides"
+    url  : /slides/clima/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    *História da arquitetura mundial*:
+
+    - capítulo 3 "Arquitetura da Índia antiga e do sudeste da Ásia"
+    - ver também 42, 188–189
+- title: "Leitura sugerida"
+  text: |
+    - *História global* 291–346, 416–421
+    - Vitrúvio livro [VIII]{.smallcaps}
+    - Stierlin, *A Índia hindu*
+    - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 1173–1196
 ---
 
 # Arquitetura em climas extremos #

@@ -1,16 +1,22 @@
 ---
-title   : "Composição com volumes"
+title   : "Composição espacial"
 subtitle: "Elementos de composição"
 item: "Atividade II"
-date: 2022-03-31
+date: 2022-07-26
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/02/29a_Coupe_longitudinale_et_vue_sur_latrium-mirror.jpg
   caption: "Basílica de Santa Sofia, Constantinopla"
+excerpt: >
+  Usando cinco volumes bem definidos e as transições espaciais
+  apropriadas, compor uma edificação refinada, representativa de um dos
+  sete tipos edilícios fundamentais.
 ---
 
 # Ementa #
 
-![Cesare Cesariano, composição modular em quina, da tradução do [Tratado de arquitetura de Vitrúvio, 1521][]](https://hcommons.org/app/uploads/sites/1002372/2022/02/cesariano-120a1.png){#fig:quina .line .align-right}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Cesare Cesariano, composição modular em quina, da tradução do [Tratado de arquitetura de Vitrúvio, 1521][]](https://hcommons.org/app/uploads/sites/1002372/2022/02/cesariano-120a1.png){#fig:quina .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Tratado de arquitetura de Vitrúvio, 1521]: http://archive.org/details/gri_33125008262210
 
@@ -38,11 +44,8 @@ interstícios entre os seus módulos ([@fig:quina; @fig:gabriel]).
 Exemplos de projetos baseados na quina. Alunos de Jean-François Gabriel, Universidade Notre Dame, South Bend, In., Estados Unidos
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Sete tipos edilícios fundamentais, baseado em Westfall](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:tipos .full .nobg}
-
 Para além da ordem geométrica elementar fornecida pela quina, a
-composição espacial decorre dos *sete tipos edilícios fundamentais*
-([@fig:tipos]) e
+composição espacial decorre dos *sete tipos edilícios fundamentais* e
 não se prende às minúcias de um programa de necessidades funcionalista,
 porque a função específica muda constantemente, enquanto o caráter geral
 dos edifícios é muito mais duradouro. Vamos, portanto, trabalhar com um
@@ -52,11 +55,11 @@ indicado com clareza pela combinação de volumes e passagens:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
 > Usando cinco volumes bem definidos e as transições espaciais
-> apropriadas, compor uma edificação refinada, representativa de um dos
-> sete tipos edilícios fundamentais.
+> apropriadas, compor uma edificação refinada, organizada com base no
+> princípio distributivo da quina.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Objetivo #
+# Objetivo de aprendizagem #
 
 Articular espaços com formas geométricas definidas, usando os elementos
 da construção tradicional e a tipologia edilícia para dar forma e
@@ -66,8 +69,7 @@ caráter a esses espaços.
 
 ## Conteúdo ##
 
-- O ponto de partida será um dos sete tipos edilícios fundamentais ou,
-  eventualmente, uma combinação entre tipos.
+- O ponto de partida será o princípio distributivo da quina.
 - A composição deve ter caráter refinado e erudito, com pelo menos um
   eixo de simetria.
 - A composição deve ter cinco volumes espaciais bem definidos e, no
@@ -88,12 +90,12 @@ caráter a esses espaços.
 
 ## Apresentação ##
 
-Uma única prancha em desenho técnico, com margem,
+Uma única prancha em desenho técnico arte-finalizado, com margem,
 carimbo, escala gráfica e legendas, mostrando:
 
 1. Planta baixa com indicação tracejada das abóbadas;
-2. Corte mais significativo;
-3. Elevação principal;
+2. Elevação principal;
+3. Corte no eixo perpendicular ao plano da elevação;
 4. Detalhes conforme necessário.
 
 Planta, corte e elevação devem mostrar, tanto quanto necessário para a
@@ -118,10 +120,15 @@ Você também deve atender ao seguinte:
 
 # Bibliografia #
 
+Comece analisando com atenção as edificações ilustradas nos tópicos
+"Arcos e abóbadas", "Clima" e "Propósito", bem como nas respectivas
+leituras obrigatórias e sugeridas, em especial os capítulos 6 e 7 do
+livro-texto *História da arquitetura mundial*.
+
 As referências indicadas abaixo devem ser usadas como ponto de partida
 para uma pesquisa mais aprofundada.
 
 ```{=html}
-{% bibliography --query @*[keywords ~= tau0005-volumes] %}
+{% include trabalho-2.html %}
 ```
 

@@ -14,6 +14,24 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg
   caption: "Thomas Cole, Decurso do império: [Realização](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg), 1836"
+  actions:
+  - label: "Slides"
+    url  : /slides/arquitravada/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    *História da arquitetura mundial*:
+
+    - capítulo 2 "Mundo grego"
+    - rever 39–40
+- title: "Leitura sugerida"
+  text: |
+    - *História global* 96–152
+    - Vitrúvio livros <span class="smallcaps">III–IV</span>
+    - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 75–166
+    - Lawrence, *Arquitetura grega* 57–141
+    - Robertson, *Arquitetura grega e romana* 45–170
 ---
 
 # Tendas e cabanas

@@ -14,6 +14,20 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Giovanni_Paolo_Panini_–_Ancient_Rome.jpg/994px-Giovanni_Paolo_Panini_–_Ancient_Rome.jpg
   caption: "Giovanni Paolo Pannini, [Galeria de vistas da Roma antiga](https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Panini_–_Ancient_Rome.jpg), 1757"
+  actions:
+  - label: "Slides"
+    url  : /slides/muraria/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    *História da arquitetura mundial* capítulo 5 "Mundo romano"
+- title: "Leitura sugerida"
+  text: |
+    - *História global* 153–196
+    - Vitrúvio livro V
+    - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 167–252
+    - Robertson, *Arquitetura grega e romana* 171–314
 ---
 
 # Princípios da construção murária #

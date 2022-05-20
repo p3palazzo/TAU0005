@@ -15,6 +15,19 @@ header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG/2560px-1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG
   image_description: "Pintura a óleo de uma paisagem com uma cidade em torno de um rio. Uma grande catedral gótica aparece no primeiro plano."
   caption: "Karl Friedrich Schinkel, [Cidade medieval ao longo de um rio](https://commons.wikimedia.org/wiki/File:1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG), 1815"
+  actions:
+  - label: "Slides"
+    url  : /slides/proporcionar/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: |
+    - *História da arquitetura mundial* capítulo 9 "Arquitetura gótica"
+    - Ching, *Arquitetura: forma espaço e ordem* capítulo 6 "Proporção e escala"
+- title: "Leitura sugerida"
+  text: |
+    - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 271–320, 365–378, 395–437
+    - Duby, *História Artística da Europa* t. [II]{.smallcaps} 152–157, 220–237, 258–277
 ---
 
 # Proporção e estética #

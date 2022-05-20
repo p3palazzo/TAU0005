@@ -1,37 +1,53 @@
 ---
 title: "Leitura e estudo"
-date: 2021-07-20
+date: 2022-06-07
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
+  caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
+  actions:
+  - label: "Voltar ao Plano de ensino"
+    url  : /plano/
+excerpt: >
+  Leituras semanais –
+  Livro-texto –
+  Tratados de arquitetura tradicional e clássica –
+  Manuais de desenho e maquete –
+  Bibliografia básica –
+  Bibliografia complementar
 ---
 
-<section>
+::::::::::::::::::::::::::::::::::::::::::::::::::::: {.notice--warning}
+<i class="fas fa-exclamation-triangle"></i>
 
-Como estamos trabalhando a distância, a leitura e o estudo individual
+: A leitura e o estudo individual
 são componentes centrais da nossa disciplina. Não espere que a
-videoconferência vá suprir todo o conteúdo do qual você precisa para
-adquirir as competências e realizar as atividades! Antes, a
-videoconferência é uma ocasião para esclarecer dúvidas sobre pontos do
+aula expositiva vá suprir todo o conteúdo do qual você precisa para
+adquirir as competências e realizar os trabalhos! Antes, o encontro
+em aula é uma ocasião para esclarecer dúvidas sobre pontos do
 conteúdo e sobre a aplicação desse conhecimento nas tarefas. Por isso,
-trate sempre de fazer as leituras com antecedência.
+trate sempre de fazer as leituras com antecedência e de trazer
+o seu trabalho em andamento para orientação.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-</section>
+# Leituras semanais #
 
-# Notas de aula #
+## Notas de aula ##
 
 As notas de aula formam o tronco central de [TAU 0005]{.smallcaps}. Elas
 estão precisamente alinhadas com os tópicos de cada semana e com as
-competências de cada Unidade. A cada semana, você encontra no Moodle a
-versão escrita desse conteúdo, assim como um link para as videoaulas
-gravadas. Estude esse conteúdo com atenção, pois ele é essencial para
+competências de cada Unidade. A cada semana, você encontra no Moodle as
+notas de aula escritas e ilustradas que correspondem ao conteúdo das
+aulas expositivas.
+Estude esse conteúdo com atenção, pois ele é essencial para
 compreender o que esperamos de você nas atividades.
 
-<i class="fas fa-check-circle"></i>
-~ As notas escritas e as videoaulas no YouTube têm *exatamente* o mesmo conteúdo.
-  Portanto, fique à vontade para escolher o meio que preferir.
-  No entanto, nem todos os tópicos estão cobertos por videoaulas.
+## Livro-texto ##
 
-# Livro-texto #
-
-> {% reference fazio:2011historia %}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
+```{=html}
+{% include texto.html %}
+```
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 O livro-texto oferece um panorama de diferentes culturas arquitetônicas
 do mundo antigo e medieval, cada uma no seu respectivo capítulo. Assim,
@@ -39,16 +55,26 @@ a cada tópico da disciplina, teremos ênfase na arquitetura tradicional
 de alguma região e época histórica que seja mais relevante para os
 problemas que estaremos abordando.
 
-## Leitura recomendada ##
+## Outras leituras ##
 
-> {% reference ching:2016historia %}
+Além do livro-texto, indicamos regularmente outros textos que aprofundam
+os temas históricos ou teóricos tratados ao longo do semestre. As
+páginas relevantes para cada tópico estão indicadas nas notas de aula, e
+vão ser discutidas nas aulas de cada semana. Os textos que indicamos com
+maior frequência são os títulos abaixo. Eles estão disponíveis em
+formato impresso na [[BCE]{.smallcaps}], na base de eBooks "Minha
+Biblioteca", ou ainda na área de arquivos do Moodle.
 
-Além do livro-texto, indicamos também este sobrevoo introdutório dos temas históricos
-tratados ao longo do semestre. As páginas relevantes para cada tópico
-estão indicadas nas notas de aula, e vão ser discutidas nas
-videoconferências de cada semana.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
+```{=html}
+{% include sugerida.html %}
+```
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-[]{.fas .fa-info-circle}
+## eBooks da "Minha Bilbioteca" ##
+
+<i class="fas fa-info-circle"></i>
+
 : Como acessar os e-books da nossa bibliografia?
 
 <!-- -->
@@ -65,11 +91,11 @@ c. No canto superior direito, digite os termos de busca e localize o
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:bce .full}
 ![Página principal da [BCE]{.smallcaps}](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-a.jpg){#fig:bce-a}
 
-* * * *
+::: half
+![Tela de login](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-b.jpg){#fig:bce-b}
 
-![Tela de login](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-b.jpg){#fig:bce-b .align-left}
-
-![Pesquisa](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-c.jpg){#fig:bce-c .align-left style="max-width: 720px"}
+![Pesquisa](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-c.jpg){#fig:bce-c}
+::::::::
 
 Acesso à base de e-books Minha Biblioteca
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -77,16 +103,18 @@ Acesso à base de e-books Minha Biblioteca
 # Tratados de arquitetura tradicional e clássica #
 
 As obras indicadas abaixo são os pontos de partida mais indicados para a
-elaboração das atividades, e devem ser estudadas com afinco. Elas estão
+elaboração dos trabalhos, e devem ser estudadas com afinco. Elas estão
 disponíveis na área de arquivos do [Aprender 3][] ou no link indicado.
 
 ```{=latex}
 \printbibliography[keyword={tau0005-tratado},heading=none]
 ```
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
 ```{=html}
-{% bibliography --query @*[keywords ~= tau0005-tratado] %}
+{% include tratados.html %}
 ```
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 <i class="fas fa-check-circle"></i>
 
@@ -106,7 +134,7 @@ disponíveis na área de arquivos do [Aprender 3][] ou no link indicado.
   (betão), aço e outros materiais. Exerça o seu discernimento ao
   consultar essa referência!
 
-# Manuais de desenho arquitetônico #
+# Manuais de desenho e maquete #
 
 Você deve aprender muitas convenções de representação na disciplina
 Desenho Arquitetônico. Em qualquer caso, as indicações de leitura abaixo
@@ -118,9 +146,11 @@ eletrônico pela [BCE]{.smallcaps}.
 \printbibliography[keyword={tau0005-desenho},heading=none]
 ```
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
 ```{=html}
-{% bibliography --query @*[keywords ~= tau0005-desenho] %}
+{% include manuais.html %}
 ```
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Bibliografia básica #
 
@@ -137,30 +167,34 @@ na área de arquivos do [Aprender 3][].
 \printbibliography[keyword={tau0005-basica},heading=none]
 ```
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
 ```{=html}
-{% bibliography --query @*[keywords ~= tau0005-basica] %}
+{% include basica.html %}
 ```
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Bibliografia complementar #
 
 A bibliografia complementar oferece um aprofundamento opcional em
 conteúdos mais específicos, bem como discussões teóricas relevantes para
 a abordagem desta disciplina. Vários títulos estão disponíveis em acesso
-livre nos links indicados, ou então em formato eletrônico no [catálogo
-da [BCE]{.smallcaps}](https://bce.unb.br), ou ainda na área de arquivos
-do [Aprender 3][].
+livre nos links indicados, ou então em formato impresso ou eletrônico no
+[catálogo da [BCE]{.smallcaps}](https://bce.unb.br), ou ainda na área de
+arquivos do [Aprender 3][].
 
 ```{=latex}
 \printbibliography[keyword={tau0005-complementar},heading=none]
 ```
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
 ```{=html}
-{% bibliography --query @*[keywords ~= tau0005-complementar] %}
+{% include complementar.html %}
 ```
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [[BCE]{.smallcaps}]: https://bce.unb.br
 
-[Aprender 3]: https://aprender3.unb.br/course/view.php?id=8552
+[Aprender 3]: https://aprender3.unb.br/course/view.php?id=13869
 
 [Microsoft Teams]: https://teams.microsoft.com/l/team/19%3aUsJdAp730q1MDQwmuqPX1xrVCzihj-ZgM2WnodRSnmw1%40thread.tacv2/conversations?groupId=d022e11c-3e61-4d38-a5e3-e4e1e8590e32&tenantId=ec359ba1-630b-4d2b-b833-c8e6d48f8059
 

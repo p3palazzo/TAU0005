@@ -1,6 +1,12 @@
 ---
 title: "Sobre a disciplina"
 date: 2021-07-20
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
+  caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
+  actions:
+  - label: "Voltar ao Plano de ensino"
+    url  : /plano/
 ---
 
 <section>
@@ -14,7 +20,7 @@ construções e das cidades tradicionais desde a Antiguidade até o século
 [XV]{.smallcaps}, vamos desenvolver familiaridade com a análise crítica
 em história e com a teoria e prática da arquitetura tradicional.
 
-O programa de [TAU]{.smallcaps} 0005 foi escrito mais de 30 anos atrás e mudou muito
+O programa de [TAU 0005]{.smallcaps} foi escrito mais de 30 anos atrás e mudou muito
 pouco desde então. Hoje em dia, esse conteúdo parece --- e é ---
 formalista e eurocêntrico. Mas, na sua origem, a cadeia de Teoria e
 História estabelecida em 1989 representou um grande avanço na
@@ -33,15 +39,15 @@ as oportunidades e a atender às diretrizes curriculares nacionais. Ao
 longo desses 30 anos de vigência, a cadeia de Teoria e História foi
 sendo ampliada para atender a mudanças nas diretrizes curriculares e
 para refletir novas preocupações críticas. Nesse processo, a sequência
-original de disciplinas obrigatórias --- [TAU]{.smallcaps} 0005 a
-[TAU]{.smallcaps} 0009 --- não
+original de disciplinas obrigatórias --- [TAU 0005]{.smallcaps} a
+[TAU 0009]{.smallcaps} --- não
 mudou praticamente nada, pelo menos na grade curricular oficial. Como
 sempre, essa aparência de que nada mudou, segundo os registros formais,
 esconde grandes mudanças na prática. Há uma inquietação constante com os
 rumos das disciplinas e muitos ajustes no conteúdo e no enfoque dado
 pelos professores.
 
-[TAU]{.smallcaps} 0005 tem um conteúdo *formal* distante da nossa vivência cotidiana,
+[TAU 0005]{.smallcaps} tem um conteúdo *formal* distante da nossa vivência cotidiana,
 e vocês podem até se perguntar se essa disciplina tem alguma relevância
 para a realidade brasileira. Uma resposta simples e, de certo modo,
 correta é dizer que *todo* estudo de história e toda cultura geral em

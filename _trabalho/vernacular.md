@@ -3,16 +3,15 @@ title: "Edículas vernáculas"
 subtitle: "Elementos da construção"
 item: "Atividade I"
 author: "Pedro P. Palazzo"
-date: 2022-03-03
+date: 2022-06-21
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres-crop.jpg
   caption: "Johan Christian Dahl (1788–1857), [Vista de Hjelle na região de Valdres](https://commons.wikimedia.org/wiki/File:Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres_-_NG.M.00426-021_-_National_Museum_of_Art,_Architecture_and_Design.jpg) (Noruega)"
-toc:
-  - Ementa
-  - Objetivo
-  - Produto
-  - Critérios de avaliação
-  - Referências
+toc: false
+excerpt: >
+  Construir uma edícula de planta centralizada, simétrica, com um único
+  ambiente interno, consoante os princípios universais da construção
+  tradicional.
 ---
 
 # Ementa #
@@ -32,12 +31,17 @@ autogestionado. Nesse espírito, começaremos nossos estudos de
 arquitetura tradicional com a seguinte proposta:
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
-> Construir uma edícula de planta centralizada, simétrica, com um único
-> ambiente interno, consoante os princípios universais da construção
-> tradicional.
+> Construir a maquete de uma edícula de planta centralizada, simétrica,
+> com um único ambiente interno, consoante os princípios universais da
+> construção tradicional.
+>
+> A edícula deve demonstrar fundações, um sistema construtivo de paredes
+> portantes (alvenaria estrutural), um sistema arquitravado (colunas ou
+> esteios e vigas), e um assoalho (cobertura plana com barrotes, terraço
+> e platibanda).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Objetivo #
+# Objetivo de aprendizagem #
 
 Manipular componentes construtivos tradicionais em estruturas
 arquitravadas e naquelas murárias--arqueadas, bem como a lógica
@@ -45,11 +49,19 @@ intrínseca aos detalhes construtivos de origem vernácula.
 
 # Produto #
 
-## Conteúdo ##
+## Apresentação ##
 
-Uma edícula (pequena construção) de planta centralizada, feita com
-paredes portantes em alvenaria e uma cobertura plana, com um único
-ambiente interno.
+Uma maquete física em escala 1:20 mostrando todos os elementos
+construtivos da edícula, inclusive descascando os revestimentos das
+paredes, teto e terraço para mostrar o miolo da construção.
+
+<i class="fas fa-ruler"></i>
+
+: Todo produto deve ter escala gráfica, calunga (figura humana) e, se
+  for relevante para a proposta, o norte. Use a base da maquete para
+  incluir esses elementos.
+
+## Conteúdo ##
 
 - No piso do ambiente único da edícula deve ser possível inscrever um
   círculo com 2,5 metros de diâmetro, o qual deve tocar a estrutura da
@@ -60,6 +72,7 @@ ambiente interno.
   qualquer alvenaria de blocos tradicional,
   tendo uma espessura de 45 centímetros no seu ponto mais estreito,
   revestimentos incluídos;
+- A maquete deve mostrar a amarração da alvenaria;
 - A cobertura será um terraço plano com estrutura em madeira revestida
   externamente com um contrapiso, condizente com o restante da
   construção.
@@ -68,45 +81,14 @@ ambiente interno.
 - A edícula deve ter uma decoração simples, baseada no detalhamento
   construtivo tradicional adequado aos sistemas construtivos escolhidos.
 
-## Apresentação ##
-
-Uma maquete física em escala 1:20 mostrando todos os elementos
-construtivos da edícula, inclusive por trás dos revestimentos. Enviar
-fotografias e/ou vídeos da maquete mostrando todos os ângulos relevantes
-para as exigências deste trabalho:
-
-- No mínimo metade da superfície interior e exterior das paredes deve
-  estar visível, considerando o conjunto das vistas;
-- Mostrar a face externa (telhado ou terraço) e a interna (teto) da
-  cobertura.
-
-Considerando as acomodações previstas no plano de ensino, a maquete
-física poderá ser substituída por:
-
-- Desenhos técnicos na escala 1:20, em projeções ortográficas (planta,
-  corte, elevação) ou em diagramas isométricos equivalentes; ou
-- Uma maquete eletrônica postada numa plataforma de hospedagem de
-  modelos 3D como o [Sketchfab](http://sketchfab.com) (submeter o link
-  na entrega do trabalho), *ou* carregar imagens e vídeos da maquete
-  junto com o arquivo da modelagem.
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--warning
-[]{.fas .fa-exclamation-triangle}
-: As texturas da maquete eletrônica, assim como o acabamento da maquete
-  física ou a arte-final dos desenhos técnicos, devem representar com
-  exatidão as juntas e montagens dos componentes construtivos. Se não
-  souber como mapear texturas numa maquete eletrônica para atingir essa
-  visualização correta, *não faça maquete eletrônica!*
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 # Critérios de avaliação #
 
 | Critério                                                            |  Valor |
 |---------------------------------------------------------------------|-------:|
-| Aplicação correta dos elementos da construção tradicional           |     10 |
-| Precisão e clareza na execução do produto                           |      5 |
+| Aplicação correta dos elementos da construção tradicional           |     15 |
+| Precisão e clareza na execução do produto                           |     10 |
 | Uso correto, elegante e eficaz da base, legendas e escalas gráficas |      5 |
-| **Total**                                                           | **20** |
+| **Total**                                                           | **30** |
 
 Você também deve atender ao seguinte:
 
@@ -118,12 +100,20 @@ Você também deve atender ao seguinte:
 ## Pesquisa de conteúdo ##
 
 As referências indicadas abaixo devem ser usadas como ponto de partida
-para uma pesquisa mais aprofundada.
+para uma pesquisa mais aprofundada. Elas podem ser encontradas no acervo
+físico ou digital das bibliotecas da UnB, nos links indicados na
+referência, ou ainda na área de arquivos do Moodle.
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#refs}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+```{=html}
+{% include vernacular.html %}
+```
+
+* * * *
 
 ## Exemplos de semestres anteriores ##
+
+Os trabalhos abaixo não correspondem exatamente à ementa deste semestre,
+mas podem dar uma boa ideia do nível de dificuldade deste trabalho.
 
 ![Antonio Carlos Ribeiro Viana Junior, 1.º/2021](https://cdn.palazzo.arq.br.ams3.cdn.digitaloceanspaces.com/arqtrad/Edicula_Antonio_Junior_Video.mp4){#fig:antonio}
 

@@ -14,6 +14,20 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg/2560px-Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg
   caption: "Thomas Cole, [Vista de Florença desde San Miniato](https://commons.wikimedia.org/wiki/File:Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg), 1837"
+  actions:
+  - label: "Slides"
+    url  : /slides/caracterizar/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text : "Vitrúvio livro [X]{.smallcaps}"
+- title: "Leitura sugerida"
+  text: |
+    - *História global* 438–454
+    - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 489–598
+    - Conant, ["The Afterlife of Vitruvius in the Middle Ages"](https://www.jstor.org/stable/988426)
+    - Carreira, *Estudos de iconografia medieval*
+    - Panofsky, *Arquitetura gótica e escolástica*
 ---
 
 # Cultura arquitetônica #

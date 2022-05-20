@@ -14,6 +14,21 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hubert_Robert_Colonnade.jpg/2560px-Hubert_Robert_Colonnade.jpg
   caption: "Hubert Robert (1733–1808), [Colunata](https://commons.wikimedia.org/wiki/File:Hubert_Robert_Colonnade.jpg)"
+  actions:
+  - label: "Slides"
+    url  : /slides/arcos/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: >
+    *História da arquitetura mundial*
+    capitulo 6 "Arquitetura paleocristã e bizantina"
+- title: "Leitura sugerida"
+  text: |
+    - *História global* 197–253
+    - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 271–302
+    - Marcantonio, ["Ode to an Ideal Church Building"](http://blog.marcantonioarchitects.com/ode-to-an-ideal-church-building/)
+    - Marcantonio, ["Byzantine Simplicity"](http://blog.marcantonioarchitects.com/byzantine-simplicity/)
 ---
 
 # Geometria e forças #

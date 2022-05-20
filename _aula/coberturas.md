@@ -14,6 +14,20 @@ title-slide-attributes:
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2021/08/kawase_hasui_evening_moon_over_temple034333-bg.jpg
   caption: "Kawase Hasui, [Lua cheia sobre um templo](https://www.christies.com/lot/lot-kawase-hasui-evening-moon-over-temple-6277357/), segundo quartel do século [XX]{.smallcaps}" 
+  actions:
+  - label: "Slides"
+    url  : /slides/coberturas/
+
+sidebar:
+- title: "Leitura obrigatória"
+  text: >
+    *História da arquitetura mundial*
+    capítulo 4 "Arquitetura tradicional da China e do Japão"
+- title: "Leitura sugerida"
+  text: |
+    - *História global* 254–290
+    - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 1197–1221
+    - Fukuyama, *Heian temples: Byodoin and Chusonji*
 ---
 
 # Função e estrutura das coberturas #

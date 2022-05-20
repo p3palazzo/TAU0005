@@ -18,8 +18,8 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "pt-BR"
 title                    : "TAU 0005"
 title_separator          : "-"
-subtitle                 : "História da Arquitetura e da Arte I · 2.º/2021"
-name                     : "Pedro P. Palazzo"
+subtitle                 : "História da Arquitetura e da Arte I · 1.º/2022"
+name                     : "Pedro P. Palazzo e Giselle Chaim"
 description: >-
   História do urbanismo, da arquitetura e da arte no contexto de seus
   condicionantes sociais, econômicos e políticos, desde os primórdios da
@@ -225,11 +225,6 @@ pandoc:
 relative_links:
   enabled: true
   collections: true
-scholar:
-  locale: pt-BR
-  sort_by: author,editor,year
-  order: ascending,ascending,descending
-  style: "chicago-fullnote-bibliography-with-ibid"
 
 
 # Sass/SCSS
@@ -256,7 +251,6 @@ plugins:
   - jekyll-data
   - jekyll-pandoc
   - jekyll-relative-links
-  - jekyll-scholar
   - jekyll-seo-tag
   - jekyll-sitemap
 

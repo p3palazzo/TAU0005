@@ -1,15 +1,33 @@
 ---
-title: "Plano de ensino"
+title    : "Programa e cronograma"
 author_profile: true
+classes: wide
+read_time: false
+toc: false
+header:
+  overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor\'s_Dream_(1848).jpeg
+  caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
+  actions:
+  - label: "Plano de ensino"
+    url  : /plano/
 excerpt: >
   História do urbanismo, da arquitetura e da arte no contexto de seus
   condicionantes sociais, econômicos e políticos, desde os primórdios da
   civilização até o gótico.
-read_time: false
-toc: false
-header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
-  caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
+
+sidebar:
+- text: |
+    <div itemscope="" itemtype="https://schema.org/Person">
+    <div class="author__avatar">
+    <img src="" alt="Giselle Chaim" itemprop="image" />
+    </div>
+    <div class="author__content">
+    <h3 class="author__name" itemprop="name">Giselle Chaim</h3>
+    <div class="author__bio" itemprop="description">
+    <p>Professora substituta</p>
+    </div>
+    </div>
+    </div>
 
 intro:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836-crop.jpg
@@ -58,7 +76,7 @@ firmitas:
     url       : "/aula/arcos/"
     btn_label : "12 de julho"
     btn_class : "btn btn--inverse btn--small"
-  - image_path:
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/05/640px-kawase_hasui_evening_moon_over_temple034333-bg.jpg
     title     : "Coberturas e superfícies"
     excerpt   : "Função e estrutura das coberturas – Formas básicas de carpintaria – Carpintaria chinesa – Revestimentos"
     url       : "/aula/coberturas/"
@@ -67,7 +85,7 @@ firmitas:
 
 firmitas_atividade:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres_-_NG.M.00426-021_-_National_Museum_of_Art_Architecture_and_Design-crop.jpg
-    title     : "Atividade I"
+    title     : "Trabalho I"
     excerpt   : "Edículas vernáculas"
     url       : "/trabalho/vernacular/"
     btn_label : "Entrega 26 de julho"
@@ -101,8 +119,8 @@ utilitas:
 
 utilitas_atividade:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-hagia_sophia-29a_Coupe_longitudinale_et_vue_sur_latrium-crop.jpg
-    title     : "Atividade II"
-    excerpt   : "Composição com volumes"
+    title     : "Trabalho II"
+    excerpt   : "Composição espacial"
     url       : "/trabalho/volumes"
     btn_label : "Entrega 23 de agosto"
     btn_class : "btn btn--inverse btn--small"
@@ -135,32 +153,24 @@ venustas:
 
 venustas_atividade:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/analytique-crop.jpg
-    title     : "Atividade III"
+    title     : "Trabalho III"
     excerpt   : "Analítico com ordens clássicas"
     url       : "/trabalho/classico/"
     btn_label : "Entrega 20 de setembro"
     btn_class : "btn btn--inverse btn--small"
 ---
 
-# Antes de começar #
-
-1. [Por que estudar história da arquitetura ?](_plano/por-que-historia.md) <!--_-->
-2. [Como estudamos história na FAU–UnB ?](_plano/sobre-disciplina.md) <!--_-->
-3. [O que você vai aprender nesta disciplina ?](_plano/objetivos.md) <!--_-->
-4. [Como vamos trabalhar a distância ?](_plano/metodologia.md) <!--_-->
-5. [O que você precisa ler ?](_plano/bibliografia.md) <!--_-->
-6. [Que materiais você precisa ter para fazer as atividades ?](_trabalho/materiais.md) <!--_-->
-6. [Como vamos avaliar o seu aproveitamento ?](_plano/avalia.md) <!--_-->
-
-# Introdução #
+# Introdução à arquitetura tradicional #
 
 ```{=html}
 {% include feature_row id="intro" %}
 
+{% comment %}
 {% include feature_row id="intro_atividade" type="right" %}
+{% endcomment %}
 ```
 
-# Elementos da construção #
+# Unidade I · Elementos da construção #
 
 ```{=html}
 {% include feature_row id="firmitas" %}
@@ -168,7 +178,7 @@ venustas_atividade:
 {% include feature_row id="firmitas_atividade" type="right" %}
 ```
 
-# Elementos de composição #
+# Unidade II · Elementos de composição #
 
 ```{=html}
 {% include feature_row id="utilitas" %}
@@ -176,7 +186,7 @@ venustas_atividade:
 {% include feature_row id="utilitas_atividade" type="right" %}
 ```
 
-# Fazer arquitetura #
+# Unidade III · Fazer arquitetura #
 
 ```{=html}
 {% include feature_row id="venustas" %}
