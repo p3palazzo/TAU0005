@@ -164,33 +164,23 @@ venustas_atividade:
 
 ```{=html}
 {% include feature_row id="intro" %}
-
-{% comment %}
-{% include feature_row id="intro_atividade" type="right" %}
-{% endcomment %}
 ```
 
 # Unidade I · Elementos da construção #
 
 ```{=html}
 {% include feature_row id="firmitas" %}
-
-{% include feature_row id="firmitas_atividade" type="right" %}
 ```
 
 # Unidade II · Elementos de composição #
 
 ```{=html}
 {% include feature_row id="utilitas" %}
-
-{% include feature_row id="utilitas_atividade" type="right" %}
 ```
 
 # Unidade III · Fazer arquitetura #
 
 ```{=html}
 {% include feature_row id="venustas" %}
-
-{% include feature_row id="venustas_atividade" type="right" %}
 ```
 

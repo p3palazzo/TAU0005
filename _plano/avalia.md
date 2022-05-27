@@ -114,7 +114,7 @@ desnecessariamente o processo buscando uma expressão original e
 rebuscada: a sua linguagem pessoal vai aparecer gradual e naturalmente
 do seu modo de resolver o problema proposto.
 
-#### Plágio ####
+#### O que é plágio? ####
 
 Dito isso, integridade e reconhecimento são valores éticos fundamentais
 da cidadania e da profissão. Copiar parte ou tudo do trabalho alheio ---
@@ -123,5 +123,5 @@ Internet --- é uma prática inaceitável e resultará em atribuição da nota
 `0` (zero) à entrega como um todo. Dependendo da gravidade do fato,
 podemos relatar o ocorrido ao colegiado de graduação da
 [FAU]{.smallcaps}. Além disso, 90 % dos desenhos de arquitetura clássica
-que vocês encontrarem no Google estão *errados!*
+que vocês encontrarem no Google ou no Pinterest estão *errados!*
 
