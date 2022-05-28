@@ -40,7 +40,7 @@ intro:
     title     : "História e arquitetura"
     excerpt   : "História ou arquitetura – Continuidade e ruptura – Arquitetura é construção – Construção tradicional e moderna"
     url       : "/aula/arqtrad/"
-    btn_label : "14 de junho"
+    btn_label : "7 de junho"
     btn_class : "btn btn--inverse btn--small"
 
 intro_atividade:
@@ -56,31 +56,31 @@ firmitas:
     title     : "Taipas e fundações"
     excerpt   : "Materiais tradicionais – Construções semienterradas – Plataformas e terraplenos – Fundações"
     url       : "/aula/taipa/"
-    btn_label : "21 de junho"
+    btn_label : "14 de junho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836-crop.jpg
     title     : "Construção arquitravada"
     excerpt   : "Tendas e cabanas – Colunas e vigas – Assoalhos e terraços – Transposição da madeira à pedra"
     url       : "/aula/arquitravada/"
-    btn_label : "28 de junho"
+    btn_label : "21 de junho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/994px-Giovanni_Paolo_Panini_–_Ancient_Rome-crop.jpg
     title     : "Construção murária"
     excerpt   : "Princípios da construção murária – Arquitetura subtrativa – Materiais naturais e cozidos – Aparelhos"
     url       : "/aula/muraria/"
-    btn_label : "5 de julho"
     btn_class : "btn btn--inverse btn--small"
+    btn_label : "28 de junho"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Hubert_Robert_Colonnade-crop.jpg
     title     : "Arcos e abóbadas"
     excerpt   : "Geometria e forças – Estruturas lineares – Estruturas espaciais – Quando termina a Antiguidade?"
     url       : "/aula/arcos/"
-    btn_label : "12 de julho"
+    btn_label : "5 de julho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/05/640px-kawase_hasui_evening_moon_over_temple034333-bg.jpg
     title     : "Coberturas e superfícies"
     excerpt   : "Função e estrutura das coberturas – Formas básicas de carpintaria – Carpintaria chinesa – Revestimentos"
     url       : "/aula/coberturas/"
-    btn_label : "19 de julho"
+    btn_label : "12 de julho"
     btn_class : "btn btn--inverse btn--small"
 
 firmitas_atividade:
@@ -88,7 +88,7 @@ firmitas_atividade:
     title     : "Trabalho I"
     excerpt   : "Edículas vernáculas"
     url       : "/trabalho/vernacular/"
-    btn_label : "Entrega 26 de julho"
+    btn_label : "Entrega 19 de julho"
     btn_class : "btn btn--inverse btn--small"
 
 utilitas:
@@ -96,7 +96,7 @@ utilitas:
     title     : "Ambiente"
     excerpt   : "Arquitetura em climas extremos – Estratégias de ventilação – Unidade na diversidade – Civilizações hidráulicas"
     url       : "/aula/clima/"
-    btn_label : "26 de julho"
+    btn_label : "19 de julho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors-crop.jpg
     title     : "Propósito"

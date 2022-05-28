@@ -23,7 +23,7 @@ firmitas_atividade:
     title     : "Trabalho I"
     excerpt   : "Edículas vernáculas"
     url       : "/trabalho/vernacular/"
-    btn_label : "Entrega 26 de julho"
+    btn_label : "Entrega 19 de julho"
     btn_class : "btn btn--inverse btn--small"
 
 utilitas_atividade:

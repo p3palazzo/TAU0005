@@ -30,7 +30,7 @@ trabalhos:
 
       Peso: 30 pontos
     url       : "/trabalho/vernacular/"
-    btn_label : "Entrega 26 de julho"
+    btn_label : "Entrega 19 de julho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-hagia_sophia-29a_Coupe_longitudinale_et_vue_sur_latrium-crop.jpg
     title     : "Trabalho II"
