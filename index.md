@@ -70,16 +70,16 @@ firmitas:
     url       : "/aula/muraria/"
     btn_class : "btn btn--inverse btn--small"
     btn_label : "28 de junho"
-  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Hubert_Robert_Colonnade-crop.jpg
-    title     : "Arcos e abóbadas"
-    excerpt   : "Geometria e forças – Estruturas lineares – Estruturas espaciais – Quando termina a Antiguidade?"
-    url       : "/aula/arcos/"
-    btn_label : "5 de julho"
-    btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/05/640px-kawase_hasui_evening_moon_over_temple034333-bg.jpg
     title     : "Coberturas e superfícies"
     excerpt   : "Função e estrutura das coberturas – Formas básicas de carpintaria – Carpintaria chinesa – Revestimentos"
     url       : "/aula/coberturas/"
+    btn_label : "5 de julho"
+    btn_class : "btn btn--inverse btn--small"
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Hubert_Robert_Colonnade-crop.jpg
+    title     : "Arcos e abóbadas"
+    excerpt   : "Geometria e forças – Estruturas lineares – Estruturas espaciais – Consumo de trabalho e material"
+    url       : "/aula/arcos/"
     btn_label : "12 de julho"
     btn_class : "btn btn--inverse btn--small"
 

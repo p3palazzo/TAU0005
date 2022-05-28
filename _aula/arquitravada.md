@@ -43,10 +43,19 @@ em madeira é uma concepção *aditiva*, isto é, ela se caracteriza
 estruturalmente e visualmente pela montagem de peças claramente
 distintas entre si. Quase todas as tradições arquitetônicas em madeira
 usam o que chamamos de um sistema arquitravado: vigas que trabalham à
-flexão, simplesmente apoiadas sobre pilares em compressão. Vamos ver
+flexão, simplesmente apoiadas sobre pilares em compressão.
+
+Neste tópico, vamos começar estabelecendo uma distinção fundamental
+entre duas concepções estruturais em madeira, gerando dois grandes
+grupos de tradições arquitravadas: os tipos da "tenda" e da "cabana".
+Vamos nos concentrar sobretudo na concepção estrutural da cabana para
+compreender como uma construção a base de colunas e vigas pode ser
+montada. Na sequência, vamos ver como podemos usar este sistema
+arquitravado para construir pisos contínuos, sem usar nada parecido com
+lajes de concreto. Por fim, vamos ver
 como algumas dessas tradições codificam um cânone da construção
-arquitravada em madeira; na sequência, vamos ver como esse cânone pode
-ser usado como ponto de partida para construções em pedra.
+arquitravada em madeira, e como esse cânone pode ser usado como ponto de
+partida para construções em pedra.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -64,6 +73,9 @@ metade do século [XVIII]{.smallcaps} pelo britânico William Chambers e
 pelo francês Quatremère de Quincy [@chambers:1759treatise;
 @quatremere:1788caractere].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
 
 ## Tenda ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Cabane_de_Terra_Amata_2.jpg"}
 
