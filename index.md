@@ -94,7 +94,7 @@ firmitas_atividade:
 utilitas:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks-crop.jpg
     title     : "Ambiente"
-    excerpt   : "Arquitetura em climas extremos – Estratégias de ventilação – Unidade na diversidade – Civilizações hidráulicas"
+    excerpt   : "Clima como variável independente – Estratégias de ventilação – Civilizações hidráulicas – Urbanismo agroexportador"
     url       : "/aula/clima/"
     btn_label : "19 de julho"
     btn_class : "btn btn--inverse btn--small"

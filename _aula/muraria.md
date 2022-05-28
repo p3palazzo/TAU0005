@@ -7,7 +7,7 @@ date    : 2022-02-15
 excerpt: >
   Princípios da construção murária –
   Arquitetura subtrativa –
-  Desempenho térmico –
+  Isolamento térmico –
   Materiais naturais e cozidos –
   Aparelhos de alvenaria
 title-slide-attributes:
@@ -537,7 +537,7 @@ inverno.
 
 ![Planta do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 a.C. Desenho: F.W.I. Thomas, após 1861](https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg){#fig:maeshowe-plan}
 
-# Desempenho térmico da construção murária #
+# Isolamento térmico #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A espacialidade da arquitetura subtrativa e,
@@ -590,16 +590,32 @@ enraizada.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Todas as casas se articulam em volta de um
 corredor central, e o conjunto é coberto por um terrapleno
-apoiado em vigas de madeira. A única fonte de iluminação direta é uma
-abertura zenital, que também serve como exaustor. Outra semelhança com o
-túmulo de Maeshowe é que alguns corpos foram sepultados dentro das
-próprias casas, debaixo das plataformas que serviam de bancos e camas
-([@fig:skb-art;@fig:skb-int]).
+apoiado em vigas de madeira {[@fig:skb-art]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Outra semelhança com o
+túmulo de Maeshowe é que alguns corpos foram sepultados dentro das
+próprias casas, debaixo das plataformas que serviam de bancos e camas
+([@fig:skb-int]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ![Câmara de uma casa em Skara Brae, com lar central e três plataformas contra as paredes, célula satélite ao fundo. Foto: [Archaeology Scotland, 2013](https://commons.wikimedia.org/wiki/File:Skara_Brae_Beds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/1280px-Skara_Brae_Beds.jpg){#fig:skb-int}
+
+* * * *
+
+![Reconstituição da câmara de uma casa em Skara Brae com a sua cobertura. Foto: [Orkneyology]](https://i.pinimg.com/originals/b2/3d/a4/b23da416cd5201b79654a6fd78a0f280.jpg){#fig:skb-dark}
+
+[Orkneyology]: https://www.orkneyology.com/skara-brae.html
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O interior das casas era bastante escuro já que não havia janelas, só a
+abertura da chaminé no teto. Essa configuração deixa claro que as
+prioridades da arquitetura de Skara Brae eram o isolamento térmico e a
+proteção contra o vento ([@fig:skb-dark]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Clima árido ##
 
@@ -684,17 +700,15 @@ passaram para o latim e daí para as línguas românicas modernas.
 
 ## Conclusão ##
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Basílica de Maxêncio ou de Constantino, Roma, 306--312 d.C.](https://i.pinimg.com/originals/19/0a/4e/190a4e3b97a612d17591f53bef75cc16.jpg){#fig:maxentius .nobg}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Corte esquemático de uma câmara típica de Çatal Höyük e de Skara Brae](){#fig:skb-catal .line .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A construção murária se destaca pela sua capacidade de compor volumes
-espaciais com grande clareza, como se eles fossem escavados na massa
-sólida da alvenaria. Esse modo de delimitar os espaços vai ser a
-característica dominante da construção romana, principalmente nos
-grandes edifícios públicos como a basílica de Maxêncio, do século
-[IV]{.smallcaps} d.C. ([@fig:maxentius]).
+As estratégias construtivas para acumular calor em climas frios são
+semelhantes àquelas usadas para impedir o ganho térmico em climas
+quentes e secos. Essa convergência bioclimática, associada à
+continuidade cultural entre o Oriente Médio e a Europa no Neolítico,
+explicam a semelhança de configuração nos sítios de Çatal Höyük e Skara
+Brae ([@fig:skb-catal]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Materiais naturais e cozidos #
@@ -704,6 +718,16 @@ O ciclo de produção dos materiais da construção murária é geralmente
 mais curto que o da madeira. O aspecto crítico é a extração da
 matéria-prima, e isso vale tanto para a pedra quanto para os blocos
 feitos de barro seco ou cozido.
+
+Já no século [XV]{.smallcaps}, Leon Battista Alberti, o arquiteto e
+tratadista italiano, podia comprar quase todos os componentes
+construtivos de que ele precisasse, prontos para uso [@alberti:2011arte,
+II, xiii]. No entanto, isso não o impediu de descrever, em linhas
+gerais, as características da matéria-prima ou o seu preparo. Esse
+gênero de informação, como se fosse um controle de qualidade ou de
+procedência, aparece desde o tratado de Vitrúvio e em textos do
+Renascimento inspirados por ele, como nos *Quatro livros da arquitetura*
+de Palladio [@palladio:1570quattro, I].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-truck-driving-down-into-a-quarry-20988-medium.mp4" data-background-video-muted="true"}
@@ -907,6 +931,24 @@ usado no revestimento de paredes e mesmo de pisos. O *tadelakt*
 da cal), é um revestimento muito usado na bacia do Mediterrâneo e
 vizinhanças, tanto em paredes quanto em pisos. Ele dá um acabamento
 muito liso e com alguma resistência à umidade.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Conclusão ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O discurso sobre a origem dos materiais tende a desaparecer dos textos
+arquitetônicos a partir do século [XVII]{.smallcaps}. O fim da
+preocupação com a profundidade inteira da cadeia produtiva da construção
+acompanha uma tripla separação de competências no ofício: num vértice
+temos os arquitetos, que se especializam na solução espacial e estética
+das edificações; num segundo vértice, estão os engenheiros calculistas
+que concebem o equilíbrio estático dessas edificações a partir de
+materiais com propriedades já conhecidas; e, no terceiro vértice, temos
+os construtores que se ocupam de comprar e instalar os componentes
+padronizados. Nenhuma dessas três categorias profissionais tem mais o
+domínio da cadeia produtiva como um todo, nem sequer a necessidade ou as
+atribuições para se ocupar de trechos dessa cadeia que estejam fora da
+sua alçada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Aparelhos de alvenaria
@@ -1271,6 +1313,21 @@ na arquitetura monumental ([@fig:guadet1.243]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Cunhais no meio de uma parede, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0243.png){#fig:guadet1.243 .line .outset}
+
+## Conclusão ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Basílica de Maxêncio ou de Constantino, Roma, 306--312 d.C.](https://i.pinimg.com/originals/19/0a/4e/190a4e3b97a612d17591f53bef75cc16.jpg){#fig:maxentius .nobg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A construção murária se destaca pela sua capacidade de compor volumes
+espaciais com grande clareza, como se eles fossem escavados na massa
+sólida da alvenaria. Esse modo de delimitar os espaços vai ser a
+característica dominante da construção romana, principalmente nos
+grandes edifícios públicos como a basílica de Maxêncio, do século
+[IV]{.smallcaps} d.C. ([@fig:maxentius]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Bibliografia {- .unlisted .allowframebreaks}
 
