@@ -116,7 +116,7 @@ A função de uma cobertura é, à primeira vista, simples: ela precisa
 proteger o espaço debaixo dele contra o sol, a chuva e outras
 intempéries ([@fig:chuva]). Para isso, uma das características mais
 importantes da cobertura é poder levar a água da chuva para longe das
-paredes e das fundações do edifício ([@fig:beiral]).
+paredes e das fundações do edifício.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-cabin-on-rainy-day-2738.mp4" data-background-video-muted="true" data-background-video-loop="true"}
@@ -645,7 +645,7 @@ estilo chinês [@schaeffer:1971chinesicesXXII] ([@fig:sabara]).
 * * * *
 
 ::: full
-![Vista da nave da igreja de Nossa Senhora do Ó, Sabará](https://i.pinimg.com/originals/f2/9f/85/f29f850b4e494b8691b2d056df6719eb.png){#fig:sabara-nav}
+![Vista da nave da igreja de Nossa Senhora do Ó, Sabará](https://i.pinimg.com/originals/f2/9f/85/f29f850b4e494b8691b2d056df6719eb.png){#fig:sabara-nave}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
