@@ -30,16 +30,16 @@ sidebar:
     </div>
 
 intro:
-  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836-crop.jpg
-    title     : "Processos da arquitetura"
-    excerpt   : "Introdução à disciplina – Ordem e lugar – Preferência temporal e local – Alegoria da cabana primitiva"
-    url       : "/aula/processos/"
-    btn_label : "7 de junho"
-    btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Thomas_Cole_-_Architects_Dream_-_Google_Art_Project-crop.jpg
     title     : "História e arquitetura"
     excerpt   : "História ou arquitetura – Continuidade e ruptura – Arquitetura é construção – Construção tradicional e moderna"
     url       : "/aula/arqtrad/"
+    btn_label : "7 de junho"
+    btn_class : "btn btn--inverse btn--small"
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836-crop.jpg
+    title     : "Processos da arquitetura"
+    excerpt   : "Introdução à disciplina – Ordem e lugar – Preferência temporal e local – Alegoria da cabana primitiva"
+    url       : "/aula/processos/"
     btn_label : "7 de junho"
     btn_class : "btn btn--inverse btn--small"
 
