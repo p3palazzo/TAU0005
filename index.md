@@ -95,19 +95,19 @@ utilitas:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks-crop.jpg
     title     : "Ambiente"
     excerpt   : "Clima como variável independente – Estratégias de ventilação – Civilizações hidráulicas – Urbanismo agroexportador"
-    url       : "/aula/clima/"
+    url       : "/aula/ambiente/"
     btn_label : "19 de julho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors-crop.jpg
     title     : "Propósito"
     excerpt   : "Programa, função e propósito – Morfologia e tipologia – Tipologia processual – Cultura doméstica no Mediterrâneo"
-    url       : "/aula/tipos/"
+    url       : "/aula/proposito/"
     btn_label : "2 de agosto"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Course_of_Empire_Desolation_1836-crop.jpg
     title     : "Espaço"
     excerpt   : "Espaço ou vazio – Volumetria e cultura edilícia – Tipos distributivos – Elementos de composição"
-    url       : "/aula/volumes/"
+    url       : "/aula/espaco/"
     btn_label : "9 de agosto"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria-crop.jpg

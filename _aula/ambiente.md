@@ -17,7 +17,7 @@ header:
   caption: "Edwin Lord Weeks. [*Vista do espelho d'água para o templo Dourado em Amritsar*](https://commons.wikimedia.org/wiki/File:Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks.jpg), 1883"
   actions:
   - label: "Slides"
-    url  : /slides/clima/
+    url  : /slides/ambiente/
 
 sidebar:
 - title: "Leitura obrigatória"
@@ -35,8 +35,6 @@ sidebar:
 ---
 
 # Clima como variável independente das culturas #
-
-## Arquitetura em climas extremos ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No registro das tradições arquitetônicas ao longo do tempo, a geologia e
@@ -211,10 +209,10 @@ europeus do século [XIX]{.smallcaps} não podiam admitir que ela fosse
 verdadeira.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg"}
+## {data-background-image="https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg" data-background-transition="slide-in fade-out"}
 
 ::: align-right
-![Percy Brown (1872--1955) com o artista caxemirí D.N. Walli](https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg){#fig:brown-walli}
+![Percy Brown (1872--1955) com o artista caxemirí D.N. Walli](https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg){#fig:brown-walli .slide-bg}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -223,7 +221,7 @@ Essa era a opinião do historiador da arte anglo-indiano Percy Brown
 monumental na Índia. Para Brown:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-. . .
+## {data-background-image="https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg" data-background-transition="fade-in slide-out"}
 
 > Em cada um dos principais processos históricos da arquitetura há um
 > princípio básico fundamentando a sua concepção, e que lhe dá a sua
@@ -238,7 +236,7 @@ monumental na Índia. Para Brown:
 ## {data-background-image="https://i.pinimg.com/originals/27/43/40/274340c0fd8060640d0f6019cfeb6d9c.jpg"}
 
 ::: align-right
-![Ananda K. Coomaraswamy (1877--1947). Foto: [Alvin Langdon Coburn, 1916](https://commons.wikimedia.org/wiki/File:Coomaraswamy.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Coomaraswamy.jpg/588px-Coomaraswamy.jpg){#fig:coomaraswamy}
+![Ananda K. Coomaraswamy (1877--1947). Foto: [Alvin Langdon Coburn, 1916](https://commons.wikimedia.org/wiki/File:Coomaraswamy.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Coomaraswamy.jpg/588px-Coomaraswamy.jpg){#fig:coomaraswamy .slide-bg}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -267,11 +265,11 @@ linguístico indo-europeu; eles deram origem às sociedades e aos dialetos
 do norte da Índia e da Pérsia antiga).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/34/f5/76/34f576ebaf453f793f101148a2d841a0.png" data-background-size="contain"}
+* * * *
 
 ![Civilização do vale do rio Indo, fase central. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png){#fig:indus-mature}
 
-##
+* * * *
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
 ::: {.column width=50%}
@@ -295,7 +293,7 @@ mais tende a corroborar uma transição contínua entre as culturas das
 Idades do Bronze e do Ferro no subcontinente Indiano.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/2/2f/Shiva_Pashupati.jpg" data-background-size="contain"}
+* * * *
 
 ::: align-right
 ![Selo Paśupati (senhor dos animais), talvez representando uma figura de "Shiva" ou iogue. [Mohenjo-Dāro, 2600--1900 a.C.](https://commons.wikimedia.org/wiki/File:Shiva_Pashupati.jpg)](https://upload.wikimedia.org/wikipedia/commons/2/2f/Shiva_Pashupati.jpg){#fig:pasupati}
@@ -314,11 +312,11 @@ período e à região das sociedades védicas antigas
 [@kenoyer:1995interaction].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/6b/db/ff/6bdbff8a2fabdfe15917a6deac28b449.png" data-background-size="contain"}
+* * * *
 
-![Cidades da cultura da cêramica cinza pintada, Idade do Ferro inicial. Mapa: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Painted_Grey_Ware_Culture_(1200-600_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/8/8c/Painted_Grey_Ware_Culture_(1200-600_BCE).png){#fig:pgw}
+![Cidades da cultura da cêramica cinza pintada, Idade do Ferro inicial. Mapa: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Painted_Grey_Ware_Culture_(1200-600_BCE).png)](https://upload.wikimedia.org/wikipedia/commons/8/8c/Painted_Grey_Ware_Culture_(1200-600_BCE).png){#fig:pgw .outset}
 
-##
+* * * *
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .full}
 ::: {.column width=47%}
@@ -330,8 +328,6 @@ período e à região das sociedades védicas antigas
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-* * * *
-
 Duas estátuas muito pequenas, escavadas em Mohenjo-Dāro, acabaram se
 tornando o fulcro do debate sobre a unidade da cultura indiana. Uma
 delas ([@fig:dravidian-dancer]) é em bronze não polido, portanto negra, e
@@ -344,7 +340,7 @@ noroeste do subcontinente Indiano. Esta recebeu a alcunha de "sacerdote
 ariano".
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/6b/1d/1e/6b1d1e4f03a4e191993052ff3f3e19d6.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essas e outras evidências descobertas desde a primeira metade do século
@@ -366,24 +362,26 @@ por volta de 1800 a.C. ([@fig:migrations]).
 
 ## Nāgara vs Drāviḍa ## {data-visibility="hidden"}
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Prevenções ocidentais: ênfase no templo como monumento vs diversidade
 das formas de devoção
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c4/Maurya_Empire,_c.250_BCE.png" data-background-size="contain"}
+* * * *
 
-![Império Maurya no seu auge. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Maurya_Empire,_c.250_BCE.png)](https://upload.wikimedia.org/wikipedia/commons/c/c4/Maurya_Empire,_c.250_BCE.png){#fig:maurya}
+![Império Maurya no seu auge. Desenho: [Avantiputra7, 2014](https://commons.wikimedia.org/wiki/File:Maurya_Empire,_c.250_BCE.png)](https://upload.wikimedia.org/wikipedia/commons/c/c4/Maurya_Empire,_c.250_BCE.png){#fig:maurya .outset}
 
 <!--_-->
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png" data-background-size="contain"}
+* * * *
 
 ::: full
-![Planta dos monumentos na colina de Sāñcī. [Archaeological Survey of India](https://commons.wikimedia.org/wiki/File:Plan_of_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png){#fig:sanci-site-plan   .line .nobg}
+![Planta dos monumentos na colina de Sāñcī. [Archaeological Survey of India](https://commons.wikimedia.org/wiki/File:Plan_of_Sanchi_transparent_bg.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png){#fig:sanci-site-plan .line}
 :::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png/1280px-Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png" data-background-size="contain"}
+* * * *
 
-![Estupas e mosteiros na colina de Sanchi, reconstituição nos primeiros séculos d.C. segundo [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png/1280px-Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png){#fig:sanci-rec .line .nobg}
+![Estupas e mosteiros na colina de Sanchi, reconstituição nos primeiros séculos d.C. segundo [Percy Brown, 1959](https://commons.wikimedia.org/wiki/File:Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png/1280px-Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png){#fig:sanci-rec .line .outset}
 
 <!--_-->
 
