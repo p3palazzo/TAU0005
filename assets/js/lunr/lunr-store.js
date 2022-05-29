@@ -1,14 +1,14 @@
 var store = [{
-        "title": "Processos da arquitetura",
-        "excerpt":"Ordem e lugar A arquitetura organiza o ambiente humano por meio da construção. Essa organização não tem a ver com impor uma rigidez geométrica, mas com os princípios de ordem emergente que atendem às expectativas da percepção do ser humano e da socialização nas diferentes culturas. Esse é um processo...","categories": [],
-        "tags": [],
-        "url": "/tau0005/aula/processos/",
-        "teaser": null
-      },{
         "title": "História e arquitetura tradicional",
         "excerpt":"História ou arquitetura Em 1839, o arquiteto americano Ithiel Town encomendou ao seu amigo Thomas Cole uma pequena pintura de paisagem com algumas construções clássicas. Em vez disso, Cole pintou uma imensa alegoria da Arquitetura, intitulada Sonho do arquiteto (fig. 1). A tela representava os principais estilos arquitetônicos do Ocidente, desde...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/arqtrad/",
+        "teaser": null
+      },{
+        "title": "Processos da arquitetura",
+        "excerpt":"Ordem e lugar A arquitetura organiza o ambiente humano por meio da construção. Essa organização não tem a ver com impor uma rigidez geométrica, mas com os princípios de ordem emergente que atendem às expectativas da percepção do ser humano e da socialização nas diferentes culturas. Esse é um processo...","categories": [],
+        "tags": [],
+        "url": "/tau0005/aula/processos/",
         "teaser": null
       },{
         "title": "Taipas e fundações",
@@ -29,40 +29,40 @@ var store = [{
         "url": "/tau0005/aula/muraria/",
         "teaser": null
       },{
-        "title": "Construção arqueada",
-        "excerpt":"Geometria e forças As estruturas tradicionais em alvenaria estrutural sustentam a construção ao mesmo tempo que elas delimitam espaços interiores. No entanto, essas paredes só são úteis se pudermos praticar aberturas nelas para permitir a passagem, iluminação e ventilação. Assim como a concepção estrutural do conjunto, essas aberturas podem ser...","categories": [],
-        "tags": [],
-        "url": "/tau0005/aula/arcos/",
-        "teaser": null
-      },{
         "title": "Coberturas e superfícies",
         "excerpt":"Função e estrutura das coberturas Nem tudo o que a arquitetura produz é espaço coberto, mas cobrir ambientes é uma das tarefas mais diretamente associadas com a arquitetura e a construção. As coberturas não só protegem quem está dentro de uma edificação, mas sobretudo protegem a própria edificação contra a...","categories": [],
         "tags": [],
         "url": "/tau0005/aula/coberturas/",
         "teaser": null
       },{
-        "title": "Ambiente",
-        "excerpt":"Arquitetura em climas extremos No registro das tradições arquitetônicas ao longo do tempo, a geologia e o clima nas diferentes partes do mundo determinam a maior parte dos materiais de construção que podem ser usados num certo lugar. Já numa perspectiva contemporânea, onde as cadeias produtivas podem ser globais, temos...","categories": [],
+        "title": "Construção arqueada",
+        "excerpt":"Geometria e forças As estruturas tradicionais em alvenaria estrutural sustentam a construção ao mesmo tempo que elas delimitam espaços interiores. No entanto, essas paredes só são úteis se pudermos praticar aberturas nelas para permitir a passagem, iluminação e ventilação. Assim como a concepção estrutural do conjunto, essas aberturas podem ser...","categories": [],
         "tags": [],
-        "url": "/tau0005/aula/clima/",
+        "url": "/tau0005/aula/arcos/",
+        "teaser": null
+      },{
+        "title": "Ambiente",
+        "excerpt":"Clima como variável independente das culturas No registro das tradições arquitetônicas ao longo do tempo, a geologia e o clima nas diferentes partes do mundo determinam a maior parte dos materiais de construção que podem ser usados num certo lugar. Já numa perspectiva contemporânea, onde as cadeias produtivas podem ser...","categories": [],
+        "tags": [],
+        "url": "/tau0005/aula/ambiente/",
         "teaser": null
       },{
         "title": "Propósito",
         "excerpt":"Programa, função e propósito Morfologia e tipologia Revisão crítica do projeto modernista Figura 1: Le Corbusier, arquiteto, maquete do plano Voisin com a sua inserção no centro histórico de Paris (1925) Figura 2: West End, Boston, demolição do bairro para construção do novo centro administrativo. Foto: Lawrence Lowry, 1959 Figura...","categories": [],
         "tags": [],
-        "url": "/tau0005/aula/tipos/",
+        "url": "/tau0005/aula/proposito/",
         "teaser": null
       },{
         "title": "Espaço",
         "excerpt":"Espaço ou vazio Uma das principais diferenças entre a arquitetura tradicional e a moderna se refere aos processos construtivos, sua industrialização e consumo de uma quantidade muito maior de energia (no segundo caso). Isso faz com que esses processos se tornem deslocalizados e com cadeias produtivas extremamente profundas e concentradas...","categories": [],
         "tags": [],
-        "url": "/tau0005/aula/volumes/",
+        "url": "/tau0005/aula/espaco/",
         "teaser": null
       },{
-        "title": "Urbanizar",
-        "excerpt":"Princípios da forma urbana Tradição e modernidade Mesmo nas construções mais modernas e industrializadas, processos tradicionais de urbanização continuam vigentes, tanto em áreas mais formalizadas, quanto nas mais vernaculares e tradicionais. Dinâmica urbana as transformações da cidade, geralmente, contam com processos e ações que seguem lógicas tradicionais. Ressalta-se que processo...","categories": [],
+        "title": "Proporção e escala",
+        "excerpt":"Proporção e estética Figura 1: Princípios vitruvianos Por que proporções estão sendo tratadas na parte do curso que se dedica aos elementos de composição, e não naquela que trata das teorias da arquitetura? É um equívoco acreditarmos que a “boa forma” de uma construção seja um resultado estético que precisa...","categories": [],
         "tags": [],
-        "url": "/tau0005/aula/urbanismo/",
+        "url": "/tau0005/aula/proporcionar/",
         "teaser": null
       },{
         "title": "Ordenar",
@@ -83,10 +83,10 @@ var store = [{
         "url": "/tau0005/aula/caracterizar/",
         "teaser": null
       },{
-        "title": "Proporção e escala",
-        "excerpt":"Proporção e estética Figura 1: Princípios vitruvianos Por que proporções estão sendo tratadas na parte do curso que se dedica aos elementos de composição, e não naquela que trata das teorias da arquitetura? É um equívoco acreditarmos que a “boa forma” de uma construção seja um resultado estético que precisa...","categories": [],
+        "title": "Urbanizar",
+        "excerpt":"Princípios da forma urbana Tradição e modernidade Mesmo nas construções mais modernas e industrializadas, processos tradicionais de urbanização continuam vigentes, tanto em áreas mais formalizadas, quanto nas mais vernaculares e tradicionais. Dinâmica urbana as transformações da cidade, geralmente, contam com processos e ações que seguem lógicas tradicionais. Ressalta-se que processo...","categories": [],
         "tags": [],
-        "url": "/tau0005/aula/proporcionar/",
+        "url": "/tau0005/aula/urbanismo/",
         "teaser": null
       },{
         "title": "Por que estudar história da arquitetura",
