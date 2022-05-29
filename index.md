@@ -30,16 +30,16 @@ sidebar:
     </div>
 
 intro:
-  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836-crop.jpg
-    title     : "Processos da arquitetura"
-    excerpt   : "Introdução à disciplina – Ordem e lugar – Preferência temporal e local – Alegoria da cabana primitiva"
-    url       : "/aula/processos/"
-    btn_label : "7 de junho"
-    btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Thomas_Cole_-_Architects_Dream_-_Google_Art_Project-crop.jpg
     title     : "História e arquitetura"
     excerpt   : "História ou arquitetura – Continuidade e ruptura – Arquitetura é construção – Construção tradicional e moderna"
     url       : "/aula/arqtrad/"
+    btn_label : "7 de junho"
+    btn_class : "btn btn--inverse btn--small"
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836-crop.jpg
+    title     : "Processos da arquitetura"
+    excerpt   : "Introdução à disciplina – Ordem e lugar – Preferência temporal e local – Alegoria da cabana primitiva"
+    url       : "/aula/processos/"
     btn_label : "7 de junho"
     btn_class : "btn btn--inverse btn--small"
 
@@ -70,16 +70,16 @@ firmitas:
     url       : "/aula/muraria/"
     btn_class : "btn btn--inverse btn--small"
     btn_label : "28 de junho"
-  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Hubert_Robert_Colonnade-crop.jpg
-    title     : "Arcos e abóbadas"
-    excerpt   : "Geometria e forças – Estruturas lineares – Estruturas espaciais – Quando termina a Antiguidade?"
-    url       : "/aula/arcos/"
-    btn_label : "5 de julho"
-    btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/05/640px-kawase_hasui_evening_moon_over_temple034333-bg.jpg
     title     : "Coberturas e superfícies"
     excerpt   : "Função e estrutura das coberturas – Formas básicas de carpintaria – Carpintaria chinesa – Revestimentos"
     url       : "/aula/coberturas/"
+    btn_label : "5 de julho"
+    btn_class : "btn btn--inverse btn--small"
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Hubert_Robert_Colonnade-crop.jpg
+    title     : "Arcos e abóbadas"
+    excerpt   : "Geometria e forças – Estruturas lineares – Estruturas espaciais – Consumo de trabalho e material"
+    url       : "/aula/arcos/"
     btn_label : "12 de julho"
     btn_class : "btn btn--inverse btn--small"
 
@@ -94,20 +94,20 @@ firmitas_atividade:
 utilitas:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Across_the_Pool_to_the_Golden_Temple_of_Amritsar_by_Edwin_Lord_Weeks-crop.jpg
     title     : "Ambiente"
-    excerpt   : "Arquitetura em climas extremos – Estratégias de ventilação – Unidade na diversidade – Civilizações hidráulicas"
-    url       : "/aula/clima/"
+    excerpt   : "Clima como variável independente – Estratégias de ventilação – Civilizações hidráulicas – Urbanismo agroexportador"
+    url       : "/aula/ambiente/"
     btn_label : "19 de julho"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors-crop.jpg
     title     : "Propósito"
     excerpt   : "Programa, função e propósito – Morfologia e tipologia – Tipologia processual – Cultura doméstica no Mediterrâneo"
-    url       : "/aula/tipos/"
+    url       : "/aula/proposito/"
     btn_label : "2 de agosto"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Course_of_Empire_Desolation_1836-crop.jpg
     title     : "Espaço"
     excerpt   : "Espaço ou vazio – Volumetria e cultura edilícia – Tipos distributivos – Elementos de composição"
-    url       : "/aula/volumes/"
+    url       : "/aula/espaco/"
     btn_label : "9 de agosto"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria-crop.jpg

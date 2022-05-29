@@ -16,7 +16,7 @@ header:
   caption: "Edwin Lord Weeks, [Pátio na Alhambra no tempo dos mouros](https://commons.wikimedia.org/wiki/File:Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg), 1876"
   actions:
   - label: "Slides"
-    url  : /slides/tipos/
+    url  : /slides/proposito/
 
 sidebar:
 - title: "Leitura obrigatória"

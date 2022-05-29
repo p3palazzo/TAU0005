@@ -16,7 +16,7 @@ title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
   actions:
   - label: "Slides"
-    url  : /slides/volumes/
+    url  : /slides/espaco/
 
 sidebar:
 - title: "Leitura obrigatória"

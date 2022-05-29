@@ -44,7 +44,7 @@ espaço pelas sociedades.
 
 ## Ambiente ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/1280px-Spreading_homo_sapiens_la.svg.png"}
 
-![Modelo atualmente vigente da migração do *Homo sapiens*. Desenho: [NordNordWest, 2014](https://commons.wikimedia.org/wiki/File:Spreading_homo_sapiens_la.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/1280px-Spreading_homo_sapiens_la.svg.png){#fig:ooa}
+![Modelo atualmente vigente da migração do *Homo sapiens*. Desenho: [NordNordWest, 2014](https://commons.wikimedia.org/wiki/File:Spreading_homo_sapiens_la.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/1280px-Spreading_homo_sapiens_la.svg.png){#fig:ooa .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Reconhecer, ocupar e organizar um lugar no mundo. Essa é uma das mais
@@ -74,9 +74,9 @@ outras espécies humanas ao longo da sua expansão na África, Ásia e
 Europa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/ff/3b/e1/ff3be128c76432bd6f5ab55e79c490ec.jpg"}
+## 
 
-![Vista da paisagem de savana no parque nacional do Serengeti, Tanzânia. Foto: [Harvey Barrison, 2012](https://commons.wikimedia.org/wiki/File:Balloon_Safari_2012_06_01_3128_(7522677448).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Balloon_Safari_2012_06_01_3128_(7522677448).jpg/1280px-Balloon_Safari_2012_06_01_3128_(7522677448).jpg){#fig:serengeti}
+![Vista da paisagem de savana no parque nacional do Serengeti, Tanzânia. Foto: [Harvey Barrison, 2012](https://commons.wikimedia.org/wiki/File:Balloon_Safari_2012_06_01_3128_(7522677448).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Balloon_Safari_2012_06_01_3128_(7522677448).jpg/1280px-Balloon_Safari_2012_06_01_3128_(7522677448).jpg){#fig:serengeti .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A maneira humana de compreender o ambiente à sua volta e de organizar um
@@ -86,7 +86,7 @@ variada e instável nas savanas do leste da África [@buras:2019art], a
 região de origem do gênero humano ([@fig:serengeti]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Olduvai_Gorge_or_Oldupai_Gorge.jpg/1280px-Olduvai_Gorge_or_Oldupai_Gorge.jpg" data-background-position="bottom"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A evolução biológica transformou a visão no nosso sentido dominante, mas
@@ -120,7 +120,7 @@ principais do território, mas elas estabelecem os seus *assentamentos*
 num nível mais baixo, nas cumeadas secundárias [@strappa:2013lettura].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/a2/93/1e/a2931e9939024cc55979caed1277f1f8.jpg"}
+## 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Alguns dos vestígios arqueológicos mais antigos de habitações humanas
@@ -130,7 +130,7 @@ que se chama informalmente de "idade da pedra lascada" ou ainda de
 "idade das cavernas" ([@fig:bhimbetka]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Pinturas rupestres no abrigo de Bhimbetka, 10 mil anos atrás, atual Madhya Pradesh, Índia. Foto: [PranjalG431, 2016](https://commons.wikimedia.org/wiki/File:A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg/1280px-A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg){#fig:bhimbetka}
+![Pinturas rupestres no abrigo de Bhimbetka, 10 mil anos atrás, atual Madhya Pradesh, Índia. Foto: [PranjalG431, 2016](https://commons.wikimedia.org/wiki/File:A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg/1280px-A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg){#fig:bhimbetka .outset}
 
 ## Sítios ##
 
@@ -161,7 +161,7 @@ para o sul, a uma distância de 2 a 3 quilômetros da borda do vale.
 [@fig:kostyonki-google]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kostenky_model.jpg/1280px-Kostenky_model.jpg"}
+## 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Entre as gargantas dos afluentes, uma série de linhas de cumeada
@@ -171,12 +171,12 @@ acampamentos perto do final dessas cumeadas secundárias, logo acima do
 vale ([@fig:kostyonki-model]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Maquete do sítio no museu arqueológico de Kostyonki. Foto: [Eva Tutin, 2014](https://commons.wikimedia.org/wiki/File:Kostenky_model.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kostenky_model.jpg/1280px-Kostenky_model.jpg){#fig:kostyonki-model}
+![Maquete do sítio no museu arqueológico de Kostyonki. Foto: [Eva Tutin, 2014](https://commons.wikimedia.org/wiki/File:Kostenky_model.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kostenky_model.jpg/1280px-Kostenky_model.jpg){#fig:kostyonki-model .outset}
 
 ## {data-background-transition="fade-out" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png"}
 
 ::: align-right
-![Localização no contexto das sociedades pré-históricas com habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-locator.png){#fig:kostyonki-loc .nobg   .overlay-slide}
+![Localização no contexto das sociedades pré-históricas com habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-locator.png){#fig:kostyonki-loc .nobg .overlay-slide}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -217,12 +217,12 @@ e circulação pelo menos até a construção das estradas romanas no século
 I d.C. Hoje em dia, é uma trilha de caminhada bastante popular.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Ridgeway, um percurso estruturante de cumeada no sul da Inglaterra em uso contínuo desde o Neolítico (c. 3000 a.C.). [Celtic Trails](https://www.celtictrailswalkingholidays.co.uk/walking-holidays/the-ridgeway/)](https://i.pinimg.com/originals/c2/04/d7/c204d703c49c29d5487c1a3ce88abe10.jpg){#fig:ridgeway}
+![Ridgeway, um percurso estruturante de cumeada no sul da Inglaterra em uso contínuo desde o Neolítico (c. 3000 a.C.). [Celtic Trails](https://www.celtictrailswalkingholidays.co.uk/walking-holidays/the-ridgeway/)](https://i.pinimg.com/originals/c2/04/d7/c204d703c49c29d5487c1a3ce88abe10.jpg){#fig:ridgeway .outset}
 
 ##
 
 ::: align-right
-![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg){#fig:bronzo   .r-stretch}
+![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg){#fig:bronzo .r-stretch}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -231,9 +231,9 @@ secundários tendem a se alongar muito. Um desses percursos secundários
 termina nas colinas que formam o sítio de Roma ([@fig:bronzo]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Territórios ## {data-visibility="hidden"}
+## Territórios ##
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-1.png" data-background-size="contain"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na sequência, a implantação do assentamento determina um
@@ -249,9 +249,9 @@ dias, por outro, definem um zoneamento econômico do território
 
 ![Esquema do controle do território por um assentamento caçador--coletor, segundo Binford (1982): zoneamento e alcance de um assentamento semipermanente](https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-1.png){#fig:binford1 .line}
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-2.png" data-background-size="contain"}
+* * * *
 
-![Esquema do controle do território por um assentamento caçador--coletor, segundo Binford (1982): territorialidade e sucessão de assentamentos semipermanentes](https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-2.png){#fig:binford2 .line}
+![Esquema do controle do território por um assentamento caçador--coletor, segundo Binford (1982): territorialidade e sucessão de assentamentos semipermanentes](https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-2.png){#fig:binford2 .line .outset}
 
 ## Escolha do sítio ##
 
@@ -264,10 +264,10 @@ sociedades que estabelecem assentamentos permanentes e praticam manejo
 florestal intensivo ou agricultura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png" data-background-size="contain"}
+* * * *
 
 ::: align-right
-![Área Kuikuro do alto Xingu indicando sítios arqueológicos c. 1250--1450, segundo Heckenberger (2003). Círculos com estrela: povoações fortificadas e com terreiro; círculos pontuados: povoações com terreiro; pontos: aldeias](https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png){#fig:kuikuro   .line}
+![Área Kuikuro do alto Xingu indicando sítios arqueológicos c. 1250--1450, segundo Heckenberger (2003). Círculos com estrela: povoações fortificadas e com terreiro; círculos pontuados: povoações com terreiro; pontos: aldeias](https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png){#fig:kuikuro .line}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -279,7 +279,7 @@ distribuídas a distâncias regulares, com povoações menores entre elas
 largos nas linhas de cumeada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *teko'á* é o território
@@ -291,10 +291,10 @@ floresta manejada no seu entorno imediato [@araujo:2016logica10;
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: align-right
-![Diagrama do teko'á guarani, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-souza-2016-tekoha.png){#fig:tekoa   .r-stretch}
+![Diagrama do teko'á guarani, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-souza-2016-tekoha.png){#fig:tekoa .r-stretch}
 :::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png" data-background-size="auto"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os vários *teko'á* que formam uma aliança política são organizados em
@@ -304,14 +304,12 @@ maiores ([@fig:guara]). Esse território político é chamado de *guará*.
 
 ![Diagrama territorial do Guará, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png){#fig:guara}
 
-## 
+* * * *
 
-::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:kemp .r-stack}
-![aldeias igualitárias](https://hcommons.org/app/uploads/sites/1002372/2022/01/kemp-033a.png){#fig:kempA .line .fragment .fade-out .current-visible}
-
+::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:kemp .outset}
+<div class="r-stack">![aldeias igualitárias](https://hcommons.org/app/uploads/sites/1002372/2022/01/kemp-033a.png){#fig:kempA .line .fragment .fade-out .current-visible}
 ![vilas agrárias](https://hcommons.org/app/uploads/sites/1002372/2022/01/kemp-033b.png){#fig:kempB .line .fragment .current-visible}
-
-![cidades-estado emergentes](https://hcommons.org/app/uploads/sites/1002372/2022/01/kemp-033c.png){#fig:kempC .line .fragment .current-visible}
+![cidades-estado emergentes](https://hcommons.org/app/uploads/sites/1002372/2022/01/kemp-033c.png){#fig:kempC .line .fragment .current-visible}</div>
 
 Diagrama da formação de cidades-estado no Egito neolítico, segundo Kemp
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -329,7 +327,7 @@ pronunciada ([@fig:kemp]). Essa territorialidade é uma característica
 fundamental do processo de urbanização.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Todas as escalas de produção do ambiente tradicional são
@@ -356,10 +354,8 @@ sociedades.
 
 ## Preferência temporal e preferência local ## {data-visibility="hidden"}
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg" data-background-size="458px 458px" data-background-position="2.5% 5%"}
-
 ::: align-right
-![Arquitetura do pico do petróleo. Léon Krier, 2008](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg){#fig:krier-oil}
+![Arquitetura do pico do petróleo. Léon Krier, 2008](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg){#fig:krier-oil .line .r-stretch}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -381,7 +377,7 @@ local*.
 ## {data-background-image="https://i.pinimg.com/originals/e7/83/e6/e783e61df6c6534e45f61ac400ad53f2.jpg" data-background-size="contain" data-background-position="left"}
 
 ::: align-right
-![Barnabas Calder. Foto: [Helen @ Gingerbread Design](https://www.unitedagents.co.uk/barnabas-calder)](https://i.pinimg.com/originals/01/bd/e9/01bde9f28c2eccdaa1eb4e35bfe80a1e.jpg){#fig:calder-trombine   .overlay-slide}
+![Barnabas Calder. Foto: [Helen @ Gingerbread Design](https://www.unitedagents.co.uk/barnabas-calder)](https://i.pinimg.com/originals/01/bd/e9/01bde9f28c2eccdaa1eb4e35bfe80a1e.jpg){#fig:calder-trombine .overlay-slide}
 :::
 
 ![© Pelican Books, 2021](https://i.pinimg.com/originals/e7/83/e6/e783e61df6c6534e45f61ac400ad53f2.jpg){#fig:calder-book}
@@ -394,7 +390,7 @@ foi um dos fatores preponderantes nas transformações nos modos de
 construir ao longo da história [@calder:2021architecture].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/f/f2/Molens-518935.ogv"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Assim como todo o nosso modo de vida contemporâneo, a arquitetura
@@ -408,11 +404,11 @@ ao clima foi substituída pela capacidade de consumir energia para
 aquecer e refrigerar qualquer tipo de espaço em qualquer clima.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Moinhos de vento em Elshout, Países Baixos, 1927. Acervo [Instituto Neerlandês do Som e Imagem](https://commons.wikimedia.org/wiki/File:Molens-518935.ogv)](https://upload.wikimedia.org/wikipedia/commons/f/f2/Molens-518935.ogv){#fig:molens width="100%"}
+![Moinhos de vento em Elshout, Países Baixos, 1927. Acervo [Instituto Neerlandês do Som e Imagem](https://commons.wikimedia.org/wiki/File:Molens-518935.ogv)](https://upload.wikimedia.org/wikipedia/commons/f/f2/Molens-518935.ogv){#fig:molens .r-stretch .outset}
 
-## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/e/ea/Temelin.ogv"}
+* * * *
 
-![Usina nuclear de Temelin, Tchéquia. Filmagem: [R. Kocman, 2019](https://commons.wikimedia.org/wiki/File:Temelin.ogv)](https://upload.wikimedia.org/wikipedia/commons/e/ea/Temelin.ogv){#fig:temelin}
+![Usina nuclear de Temelin, Tchéquia. Filmagem: [R. Kocman, 2019](https://commons.wikimedia.org/wiki/File:Temelin.ogv)](https://upload.wikimedia.org/wikipedia/commons/e/ea/Temelin.ogv){#fig:temelin .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A capacidade de gerar e consumir qualquer quantidade de energia que se
@@ -434,7 +430,7 @@ indústria da construção tem uma certa flexibilidade para acelerar a
 produção sempre que existir uma demanda correspondente.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/3/3e/Water_driven_hammer_mill_-_Arbesbach.ogv" data-background-video-muted="true"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em contraste com a nossa sociedade industrial, nas sociedades
@@ -450,11 +446,11 @@ calor e vapor em trabalho é muito limitada quando não se tem acesso a
 materiais industrializados, como o aço.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Martelo de forja movido por um moinho a água em Arbesbach, Áustria, ativo desde 1802. Filmagem: [H. Raab, 2009](https://commons.wikimedia.org/wiki/File:Water_driven_hammer_mill_-_Arbesbach.ogv)](https://upload.wikimedia.org/wikipedia/commons/3/3e/Water_driven_hammer_mill_-_Arbesbach.ogv){#fig:arbesbach}
+![Martelo de forja movido por um moinho a água em Arbesbach, Áustria, ativo desde 1802. Filmagem: [H. Raab, 2009](https://commons.wikimedia.org/wiki/File:Water_driven_hammer_mill_-_Arbesbach.ogv)](https://upload.wikimedia.org/wikipedia/commons/3/3e/Water_driven_hammer_mill_-_Arbesbach.ogv){#fig:arbesbach .outset}
 
-<!--_,-->
+<!--_-->
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Onde for custoso gerar energia a partir do ambiente, o trabalho vai ser
@@ -497,7 +493,7 @@ vezes como um sinal de inteligência em outros animais
 @beran:2018self-control28].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/01/Habitat_pygmées.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Para além dessa perspectiva centrada no comportamento do indivíduo, o
@@ -514,11 +510,11 @@ tempo, permitindo a regeneração da floresta no local
 [@jarzombek:2013architecture].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cabana do povo Bagyeli, África equatorial. Foto: [Nadnad30, 2015](https://commons.wikimedia.org/wiki/File:Habitat_pygmées.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/01/Habitat_pygmées.jpg){#fig:bagyeli}
+![Cabana do povo Bagyeli, África equatorial. Foto: [Nadnad30, 2015](https://commons.wikimedia.org/wiki/File:Habitat_pygmées.jpg)](https://upload.wikimedia.org/wikipedia/commons/0/01/Habitat_pygmées.jpg){#fig:bagyeli .outset}
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/Plains-Indian-tipi-North-America-Wellcome-V0038483-scaled.jpg"}
+* * * *
 
-![Aldeia nas planícies da América do Norte, c. finais do século [XIX]{.smallcaps}. Acervo [Wellcome collection](https://commons.wikimedia.org/wiki/File:Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg/1280px-Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg){#fig:wellcome}
+![Aldeia nas planícies da América do Norte, c. finais do século [XIX]{.smallcaps}. Acervo [Wellcome collection](https://commons.wikimedia.org/wiki/File:Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg/1280px-Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg){#fig:wellcome .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Pelo contrário, sociedades seminômades que vivem em regiões onde a
@@ -553,7 +549,7 @@ investir não só no conforto imediato, mas sobretudo na qualidade de vida
 *futura* dos filhos e netos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/cb/Gaston_Bachelard_1965.jpg" data-background-size="contain" data-background-position="left"}
+* * * *
 
 ::: align-right
 ![Gaston Bachelard. Acervo do [Arquivo Nacional dos Países Baixos](https://commons.wikimedia.org/wiki/File:Gaston_Bachelard_1965.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gaston_Bachelard_1965.jpg/763px-Gaston_Bachelard_1965.jpg){#fig:bachelard}
@@ -574,13 +570,13 @@ do espaço*, pelo filósofo francês Gaston Bachelard (@fig:bachelard)
 Tuan ([@fig:tuan]) [@tuan:1980topofilia].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg" data-background-size="contain" data-background-position="right"}
+* * * *
 
 ::: align-right
 ![Yi-Fu Tuan](https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg){#fig:tuan}
 :::
 
-## Responsabilidade ambiental ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png" data-background-size="contain" data-background-position="right"}
+## Responsabilidade ambiental ##
 
 ::: align-right
 ![Léon Krier, Edifícios (da Universidade de Yale) --- idade e primeira campanha significativa de reformas, 1990](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png){#fig:krier-1990 .line}
@@ -595,7 +591,7 @@ de cair ([@fig:krier-1990]), mesmo que a indústria venha desenvolvendo
 materiais com desempenhos cada vez melhores (pelo menos no papel).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/5/56/Eco-sustainable_3D_printed_house_-_Tecla_(without_sound).webm"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A qualidade dos materiais industrializados é uma das chaves para
@@ -611,7 +607,7 @@ importa tanto, a questão é a tendência.
 
 ![Impressão [3D]{.smallcaps} de uma casa "sustentável" na Itália, 2021. Projeto: [WASP]{.smallcaps} engenharia e Mario Cucinella Arquitetos. Filmagem: [Alfredo Milano](https://commons.wikimedia.org/wiki/File:Eco-sustainable_3D_printed_house_-_Tecla_(without_sound).webm)](https://upload.wikimedia.org/wikipedia/commons/5/56/Eco-sustainable_3D_printed_house_-_Tecla_(without_sound).webm){#fig:tecla}
 
-## {data-background-image="https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980" data-background-size="contain"}
+* * * *
 
 ::: align-right
 ![Léon Krier, custo de construção e custo de manutenção comparados](https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980){#fig:krier-maintenance}
@@ -630,7 +626,7 @@ os ativos imobiliários no longo prazo não é um fator determinante na
 organização da cadeia produtiva.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png" data-background-size="contain" data-background-position="left"}
+* * * *
 
 ::: align-right
 ![Emissões de CO~2~ da cadeia produtiva da construção, segundo [Victoria Luise Schulz-Daubas, 2021](https://osf.io/ea5hf)](https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png){#fig:schulz}
@@ -691,7 +687,7 @@ mitológica. O mito da cabana primitiva aparece em três versões famosas,
 que vamos analisar junto com o registro arqueológico.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/7e/ac/0f/7eac0fad2c7dc3ff0a7471354e2bbdea.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As árvores são o material de construção por excelência. Todas as
@@ -707,17 +703,17 @@ milhões atrás, ao último ancestral comum dos hominídeos
 ![Orangotango construindo ninho em Bornéu. Foto: [John Fuller, 2013 ](http://johnfuller3048.blogspot.com/2013/06/borneo-3.html) ](https://i.pinimg.com/originals/7e/ac/0f/7eac0fad2c7dc3ff0a7471354e2bbdea.jpg){#fig:orang}
 :::
 
-## {data-background-image="https://i.pinimg.com/originals/e8/5f/c8/e85fc8c962e1545901b556978c636218.jpg"}
+* * * *
 
 ![Chimpanzé no seu ninho na Nigéria. Foto: [Cyril Russo, Minden Pictures / National Geographic, 2018 ](https://www.nationalgeographic.com/news/2018/05/chimpanzee-animals-beds-health/) ](https://i.pinimg.com/originals/e8/5f/c8/e85fc8c962e1545901b556978c636218.jpg){#fig:chimp}
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Cabane_de_Terra_Amata_2.jpg"}
 
 ::: align-right
-![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata}
+![Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: [Véronique Pagnier, 2011](https://commons.wikimedia.org/wiki/File:Cabane_de_Terra_Amata_1.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg){#fig:terra-amata .slide-bg}
 :::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c1/Dwelling_made_with_mammoth_bones.jpg"}
+* * * *
 
 ![Reconstituição de tenda em ossos e peles de mamute de Mezhyrich, Ucrânia, 15.000 a.p., no Museu Nacional de Tóquio Foto: [Momotarou2012, 2013](https://commons.wikimedia.org/wiki/File:Dwelling_made_with_mammoth_bones.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dwelling_made_with_mammoth_bones.jpg/1280px-Dwelling_made_with_mammoth_bones.jpg){#fig:mezhyrich}
 
@@ -731,7 +727,7 @@ reutilizam os mesmos abrigos por, no mínimo, alguns dias a fio
 [@venkataraman:2017hunter-gatherer114].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/Soldiers-Gauchos-preparing-tea-one-of-Juan-Manuel-de-Rosas-army-camps-Argentina-by-Jean-Baptiste-Henri-Durand-Brager.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Além disso, os nossos abrigos muitas vezes são construídos com
@@ -746,11 +742,11 @@ relento ([@fig:gauchos]).
 ![Jean-Baptiste Henri Durand-Brager, Gaúchos preparando mate (acampamento do exército de Juan Manuel de Rosas). [*L'Illustration* [VII]{.smallcaps} (177), 1846](https://commons.wikimedia.org/wiki/File:Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg/1280px-Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg){#fig:gauchos}
 :::
 
-<!--_,-->
+<!--_-->
 
-## Abrigo e comportamento simbólico ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/2560px-Oldest_Healing_Dance.jpg"}
+## Abrigo e comportamento simbólico ##
 
-![Comunidade San em volta do lar central de uma aldeia. Foto: [Kgara Kevin Rack, 2017](https://commons.wikimedia.org/wiki/File:Oldest_Healing_Dance.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/1280px-Oldest_Healing_Dance.jpg){#fig:san}
+![Comunidade San em volta do lar central de uma aldeia. Foto: [Kgara Kevin Rack, 2017](https://commons.wikimedia.org/wiki/File:Oldest_Healing_Dance.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/1280px-Oldest_Healing_Dance.jpg){#fig:san .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nesses casos, as construções servem como depósitos utilitários ou ainda
@@ -779,7 +775,7 @@ origem da arquitetura, como a alegoria da cabana primitiva segundo
 Vitrúvio.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O *grau zero* da arquitetura representado pela estrutura mais simples
@@ -797,30 +793,29 @@ em toras e troncos roliços de carvalho; todas as construções eram
 orientadas aproximadamente na direção leste--oeste.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: {#fig:sannai-site .full}
-::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=30%}
+:::::::::::::::::::::::::::::::::::: {#fig:sannai-site .columns .outset}
+::: {.column width=50%}
 ![Situação no território das sociedades pré-históricas que construíram habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-and-pit-dwellings.png){#fig:sannai-globe .nobg}
 :::
-::: {.column width=30%}
+::: {.column width=50%}
 ![Locação junto à baía de Mutsu, atual município de Aomori, Japão](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-loc.png){#fig:sannai-mutsu}
 :::
+Esquema do sítio arqueológico de Sannai Maruyama, cultura Jōmon, 3900--2300 a.C.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Corte do sítio reconstituído](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-540.png){#fig:sannai-sec}
+* * * *
 
-Esquema do sítio arqueológico de Sannai Maruyama, cultura Jōmon, 3900--2300 a.C.
-:::
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Corte do sítio reconstituído de Sannai-Maruyama](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-540.png){#fig:sannai-sec}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-540.png" data-background-size="contain"}
+* * * *
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg/1280px-140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg"}
+![Vista parcial do sítio arqueológico de Sannai Maruyama, reconstituição 1997--2002. Foto: [663highland, 2014](https://commons.wikimedia.org/wiki/File:140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg/1280px-140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg){#fig:sannai .outset}
 
-![Vista parcial do sítio arqueológico de Sannai Maruyama, reconstituição 1997--2002. Foto: [663highland, 2014](https://commons.wikimedia.org/wiki/File:140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg/1280px-140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg){#fig:sannai}
+* * * *
 
-##
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:6pillar}
+:::::::::::::::::::::::::::::::::::::::: {.columns #fig:6pillar .outset}
 ::: {.column width=50%}
 ![[[Koike]{.smallcaps} Takashi, 2008](https://commons.wikimedia.org/wiki/File:三内丸山遺跡大型掘立柱建物.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/三内丸山遺跡大型掘立柱建物.JPG/682px-三内丸山遺跡大型掘立柱建物.JPG){#fig:6pillarA}
 :::
@@ -831,8 +826,6 @@ Reconstituição de uma estrutura com seis pilares, sítio arqueológico de Sann
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-* * *
-
 A alegoria da cabana primitiva é um expediente para enfatizar o quanto
 a arquitetura tradicional é uma expressão direta da construção. A cabana
 primitiva não tem necessariamente a ver com alguma cultura considerada
@@ -843,7 +836,7 @@ de uma cabana primitiva qualquer é uma boa porta de entrada para a
 prática da arquitetura tradicional.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Arquitetura e sociedade ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/47/A_Hunting_Scene_MET_DT6.jpg"}
+## Arquitetura e sociedade ## 
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Vitrúvio [@vitruvio:2007tratado, II, i] especulava que o domínio sobre o
@@ -860,13 +853,11 @@ fogueira familiar ou comunitária.
 ![Piero di Cosimo, Cena de caçada, c. 1494--1500, têmpera e óleo sobre madeira. [Metropolitan Museum of Art ](https://commons.wikimedia.org/wiki/File:A_Hunting_Scene_MET_DT6.jpg) ](https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/A_Hunting_Scene_MET_DT6.jpg/1280px-A_Hunting_Scene_MET_DT6.jpg){#fig:cosimo-hunt}
 :::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg" data-background-position="top"}
+* * * *
 
-<!--_,-->
+![Piero di Cosimo, Vulcano e Éolo, c. 1490, têmpera e óleo sobre tela. [National Gallery of Canada ](https://commons.wikimedia.org/wiki/File:Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg) ](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg/1072px-Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg){#fig:cosimo-vulcan .outset}
 
-![Piero di Cosimo, Vulcano e Éolo, c. 1490, têmpera e óleo sobre tela. [National Gallery of Canada ](https://commons.wikimedia.org/wiki/File:Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg) ](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg/1072px-Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg){#fig:cosimo-vulcan}
-
-## {data-background-image="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg" data-background-size="contain" data-background-position="left"}
+* * * *
 
 ::: align-right
 ![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier}
@@ -883,7 +874,7 @@ depois da construção solitária é que se forma uma comunidade para
 usufruir do abrigo.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Arquitetura e racionalismo ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/5d/ANICET-CHARLES-GABRIEL_LEMONNIER_A_READING_OF_VOLTAIRE.jpg"}
+## Arquitetura e racionalismo ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A diferença entre o mito da cabana primitiva que Vitrúvio contou no
@@ -902,15 +893,15 @@ estritamente individual.
 
 ![Anicet Charles Gabriel Lemonnier, Leitura da tragédia « L'orpheline de la Chine », de Voltaire, no salão de Madame Geoffrin, óleo sobre tela de 1812](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ANICET-CHARLES-GABRIEL_LEMONNIER_A_READING_OF_VOLTAIRE.jpg/1280px-ANICET-CHARLES-GABRIEL_LEMONNIER_A_READING_OF_VOLTAIRE.jpg){#fig:salon}
 
-## {data-background-image="https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg"}
+* * * *
 
 ::: full
 ![Leo von Klenze, Templo da Concórdia em Agrigento, 1857 ](https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg){#fig:klenze-concordia}
 :::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salon_de_la_princesse_hotel_de_soubise.jpg/1280px-Salon_de_la_princesse_hotel_de_soubise.jpg"}
+* * * *
 
-![Germain Boffrand, salão oval da princesa, hôtel de Soubise, Paris, década de 1730. Foto: [NonOmnisMoriar, 2012](https://commons.wikimedia.org/wiki/File:Salon_de_la_princesse_hotel_de_soubise.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salon_de_la_princesse_hotel_de_soubise.jpg/1280px-Salon_de_la_princesse_hotel_de_soubise.jpg){#fig:soubise}
+![Germain Boffrand, salão oval da princesa, hôtel de Soubise, Paris, década de 1730. Foto: [NonOmnisMoriar, 2012](https://commons.wikimedia.org/wiki/File:Salon_de_la_princesse_hotel_de_soubise.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salon_de_la_princesse_hotel_de_soubise.jpg/1280px-Salon_de_la_princesse_hotel_de_soubise.jpg){#fig:soubise .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A sequência do argumento de Laugier deixa clara a sua semelhança com a
@@ -928,11 +919,11 @@ argumento pela superioridade racional de um retorno às origens da
 arquitetura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Prise_de_la_Bastille_clean.jpg/1280px-Prise_de_la_Bastille_clean.jpg"}
+* * * *
 
-![Jean-Pierre Houël, Tomada da Bastilha, 1789, aquarela sobre papel](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Prise_de_la_Bastille_clean.jpg/1280px-Prise_de_la_Bastille_clean.jpg){#fig:bastille}
+![Jean-Pierre Houël, Tomada da Bastilha, 1789, aquarela sobre papel](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Prise_de_la_Bastille_clean.jpg/1280px-Prise_de_la_Bastille_clean.jpg){#fig:bastille .outset}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"}
+* * * *
 
 ::: align-right
 ![Caspar David Friedrich, Andarilho sobre o mar de névoa, 1817](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg){#fig:friedrich}
@@ -950,9 +941,7 @@ dois casos, o momento de maior pureza de um conceito ou sensação é
 aquele que está na *origem*, tida como mais autêntica ou espontânea.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg"}
-
-<!--_,-->
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O argumento iluminista e romântico ia no sentido oposto ao de Vitrúvio.
@@ -981,7 +970,7 @@ pelo arquiteto alemão Gottfried Semper ([@fig:semper]) num artigo de 1851
 intitulado "Os quatro elementos da arquitetura" [@semper:1851vier].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Semper se inspirou numa cabana de índios karib ([@fig:karib]) que ele
@@ -993,15 +982,15 @@ nas origens da humanidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=53.5%}
+::: {.column width=53%}
 ![Gottfried Semper, fotografia anônima de 1865](https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/ETH-BIB-Semper,_Gottfried_(1803-1879)-Portrait-Portr_11235.tif/lossy-page1-616px-ETH-BIB-Semper,_Gottfried_(1803-1879)-Portrait-Portr_11235.tif.jpg){#fig:semper}
 :::
-::: {.column width=46.5%}
+::: {.column width=47%}
 ![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg"}
+* * * *
 
 ::: full
 ![Henri Labrouste, arquiteto, biblioteca Sainte-Geneviève, sala de leitura, Paris, 1842. Foto: [Marie-Lan Nguyen, 2011](https://commons.wikimedia.org/wiki/File:Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg){#fig:bsg}
@@ -1033,7 +1022,7 @@ separação nos dá dois dos quatro elementos da cabana primitiva na versão
 de Semper.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Henri Labrouste, arquiteto, Biblioteca nacional da França, sala de leitura principal, 1860. Foto: [Émilie Groleau / [INHA]{.smallcaps}, 2017](https://www.inha.fr/fr/bibliotheque.html)](https://i.pinimg.com/originals/ae/0f/ad/ae0fad31b13e85f997d8153f3637e52a.png){#fig:bnf}
+![Henri Labrouste, arquiteto, Biblioteca nacional da França, sala de leitura principal, 1860. Foto: [Émilie Groleau / [INHA]{.smallcaps}, 2017](https://www.inha.fr/fr/bibliotheque.html)](https://i.pinimg.com/originals/ae/0f/ad/ae0fad31b13e85f997d8153f3637e52a.png){#fig:bnf .outset .slide-bg}
 
 ## Os quatro elementos da arquitetura ## {data-background-image="https://i.pinimg.com/originals/ae/0f/ad/ae0fad31b13e85f997d8153f3637e52a.png" data-background-opacity="0.25"}
 
@@ -1053,7 +1042,7 @@ elementos de Semper têm, portanto, uma hierarquia clara:
 4. Vedação
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os quatro elementos se resumem, no fim das contas, às três partes da
@@ -1077,7 +1066,7 @@ Venustas = Vedação
 : Beleza e, mais especificamente, decoro
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa última parte deriva de um jogo de palavras em alemão, que Semper
@@ -1104,7 +1093,7 @@ elaboração tardia, autoconsciente e autoral no ofício erudito da
 arquitetura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Cabanas primitivas e modernas ## {data-background-image="https://i.pinimg.com/originals/b2/65/ea/b265ea66acf8b08695a2b71ce1ef1912.png"}
+## Cabanas primitivas e modernas ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A correspondência direta e necessária entre o sistema construtivo e a
@@ -1125,12 +1114,12 @@ especialmente para partilhar uma refeição com a deusa do Sol Amaterasu
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: full
-![Cabanas rituais diversas no xintoísmo contemporâneo, Japão, registradas por Nold Egenter, 1980](https://i.pinimg.com/originals/b2/65/ea/b265ea66acf8b08695a2b71ce1ef1912.png){#fig:egenter   .line}
+![Cabanas rituais diversas no xintoísmo contemporâneo, Japão, registradas por Nold Egenter, 1980](https://i.pinimg.com/originals/b2/65/ea/b265ea66acf8b08695a2b71ce1ef1912.png){#fig:egenter .line}
 :::
 
-## {data-background-image="https://i.pinimg.com/originals/35/d6/a0/35d6a066bf7ec19c629dfec1c2381891.jpg"}
+* * * *
 
-![Daijōgū, cabanas temporárias onde se realizou o *daijōsai* do imperador Naruhito. Foto: [agência Kyodo, novembro de 2019](https://www.japantimes.co.jp/news/2019/11/14/national/emperor-perform-thanksgiving-ceremony-key-succession-rite/)](https://i.pinimg.com/originals/35/d6/a0/35d6a066bf7ec19c629dfec1c2381891.jpg){#fig:daijogu}
+![Daijōgū, cabanas temporárias onde se realizou o *daijōsai* do imperador Naruhito. Foto: [agência Kyodo, novembro de 2019](https://www.japantimes.co.jp/news/2019/11/14/national/emperor-perform-thanksgiving-ceremony-key-succession-rite/)](https://i.pinimg.com/originals/35/d6/a0/35d6a066bf7ec19c629dfec1c2381891.jpg){#fig:daijogu .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em todas as versões do mito ou do ritual da cabana primitiva, a madeira

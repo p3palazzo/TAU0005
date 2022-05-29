@@ -341,22 +341,22 @@ collections:
     output: true
     permalink: /:collection/:name/
     order:
-      - processos.md
       - arqtrad.md
+      - processos.md
       - taipa.md
       - arquitravada.md
       - muraria.md
-      - arcos.md
       - coberturas.md
-      - clima.md
-      - tipos.md
-      - volumes.md
-      - urbanismo.md
+      - arcos.md
+      - ambiente.md
+      - proposito.md
+      - espaco.md
+      - proporcionar.md
       - completar.md
       - ordenar.md
       - articular.md
       - caracterizar.md
-      - proporcionar.md
+      - urbanismo.md
   plano:
     output: true
     permalink: /:collection/:name/

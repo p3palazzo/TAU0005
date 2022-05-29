@@ -7,6 +7,7 @@ date    : 2022-02-15
 excerpt: >
   Princípios da construção murária –
   Arquitetura subtrativa –
+  Isolamento térmico –
   Materiais naturais e cozidos –
   Aparelhos de alvenaria
 title-slide-attributes:
@@ -42,10 +43,10 @@ processado de recursos minerais, na forma de massas contínuas, blocos
 crus ou cozidos, e argamassas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
+## Tipo da caverna ## {data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg"}
 
 ::: align-right
-![Cabanas primitivas segundo William Chambers](https://hcommons.org/app/uploads/sites/1002372/2021/08/chambers1759-gri_33125011135288_0017.jpg){#fig:chambers-huts}
+![Cabanas primitivas segundo William Chambers](https://hcommons.org/app/uploads/sites/1002372/2021/08/chambers1759-gri_33125011135288_0017.jpg){#fig:chambers-huts .slide-bg}
 :::
 
 ## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/chambers1759-gri_33125011135288_0017a.png" data-background-size="contain"}
@@ -72,13 +73,13 @@ volumes com formas claramente definidas por uma massa de construção que
 parece ter sido escavada por dentro.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
-::: {.column width=52%}
+::: {.column width=51.5%}
 ![Sir William Chambers (1723--1796), retrato pintado por [Joshua Reynolds](https://commons.wikimedia.org/wiki/File:Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg/797px-Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg){#fig:chambers}
 :::
-::: {.column width=48%}
+::: {.column width=48.5%}
 ![Antoine Chrysosthome Quatremère de Quincy (1755--1849), [retrato oficial do Instituto de Belas-Artes, 1820]](https://gallica.bnf.fr/ark:/12148/btv1b8423845w/f1.highres){#fig:4mere}
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -92,27 +93,23 @@ O teórico francês Quatremère de Quincy ([@fig:4mere]), no final do século
 primitivos propostos em 1759 por Chambers.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Segundo Quatremère, a caverna seria o abrigo primitivo das sociedades
 pastorais ([@fig:cole-arcadian]): um abrigo caracterizado pelas suas
 necessidades de espaço, ao contrário da cabana, que era determinada pelo
 desenvolvimento de uma certa lógica construtiva.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Thomas Cole, *Decurso do império: o estado arcádio ou pastoral*, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian}
-
-##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Com esse argumento, Quatremère pretendia relegar a caverna à cultura de
 sociedades muito antigas, como o Egito e a Mesopotâmia. Aqui, vamos
 subverter essa hierarquia e tratar a caverna como o tipo de todas as
 culturas construtivas que se baseiam em massas de alvenaria portante.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png" data-background-size="contain" data-background-position="center"}
+![Thomas Cole, Decurso do império: o estado arcádio ou pastoral, 1836](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg){#fig:cole-arcadian .outset}
+
+
+* * * *
 
 ::: align-right
 ![Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){#fig:karib .line}
@@ -128,7 +125,7 @@ proposto por Semper em 1860, que deriva de uma habitação contemporânea
 dos índios karib ([@fig:karib]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Semper escreveu isso numa época em que estava se tornando comum
@@ -152,7 +149,7 @@ do gesto primário de quem empilha uns seixos na beira do caminho para
 marcar a sua passagem.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/jarzombek2013-01.4a.png" data-background-size="contain"}
+* * * *
 
 ::: align-right
 ![Abrigos contra o vento no sítio arqueológico de Orangia I, África do Sul, Paleolítico médio, c. 130.000 a.p. Desenho: Andrew Ferentinos, baseado em Clavin Garth Sampson, 1968, publicado em Jarzombek, *Architecture of First Societies*](https://hcommons.org/app/uploads/sites/1002372/2021/08/jarzombek2013-01.4a.png){#fig:orangia .line}
@@ -167,10 +164,10 @@ formado por um conjunto de anteparos contra o vento construídos com
 pedra seca, ou seja, pedras empilhadas sem argamassa ([@fig:orangia]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## Compressão pura ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[O princípio estrutural]{.newthought} da construção murária é a
+O princípio estrutural da construção murária é a
 compressão pura. As paredes tradicionais em alvenaria de blocos ou em
 taipa só exercem a força do próprio peso O atrito entre os componentes
 da alvenaria ou taipa oferece um pouco de resistência contra o
@@ -178,7 +175,7 @@ cisalhamento e um mínimo de resistência a pequenos esforços de tração
 lateral, como a força do vento.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/muraria-flambagem.png" data-background-size="contain"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Como a resistência da alvenaria sempre se dá à compressão, a sua
@@ -197,9 +194,9 @@ pequenos --- em geral, adobe ou tijolo cozido.
 ![Resistência de paredes em alvenaria: [(A)]{.smallcaps} compressão axial por cargas permanentes e acidentais; [(B)]{.smallcaps} carga lateral acidental; [(C)]{.smallcaps} resistência lateral por atrito; [(A′)]{.smallcaps} vetor de carga excêntrica causando flambagem](https://hcommons.org/app/uploads/sites/1002372/2021/08/muraria-flambagem.png){#fig:flambagem .line}
 :::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0221.png" data-background-size="contain"}
+## Flambagem e contraventamento ##
 
-![Seção ideal e prática de parede, segundo Julien Guadet, *Éléments et théorie de l'architecture*](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0221.png){#fig:guadet1.221 .line}
+![Seção ideal e prática de parede, segundo Julien Guadet, *Éléments et théorie de l'architecture*](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0221.png){#fig:guadet1.221 .line .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mas, mesmo uma parede relativamente grossa está sujeita à
@@ -216,7 +213,7 @@ sentido estrito, ou seja, ao esmagamento dos blocos. O que ela faz é
 evitar a deformação *horizontal* da parede causada pela flambagem.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg"}
+* * * *
 
 ::: full
 ![Chafurdão no vale de Cales, Castelo de Vide, Alentejo, Portugal. [[ADER--AL]{.smallcaps}, 2014]](https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg){#fig:chafurdao}
@@ -231,7 +228,7 @@ Ibérica ([@fig:chafurdao]). A forma circular oferece uma estabilização
 contínua em todos os pontos da estrutura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg" data-background-size="contain" data-background-position="left"}
+* * * *
 
 ::: align-right
 ![Muro serpenteante, Shaw nature reserve. Foto: [Steve Bougeno, 2015]](https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg){#fig:serpentine}
@@ -249,7 +246,7 @@ aumenta o momento de inércia da parede como um todo, o que evita a
 flambagem e resiste também a cargas horizontais, como a do vento.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/siegel2016-74.png" data-background-size="contain"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O muro serpenteante é usado desde o Egito antigo por ser um modo
@@ -262,11 +259,11 @@ paredes de casas, como na recém-escavada "cidade dourada" de Luxor.
 
 ![Planta e corte das muralhas de Buhen do Médio até o Novo Império. Siegel, "Development and function of serpentine and sinusoidal walls"](https://hcommons.org/app/uploads/sites/1002372/2021/08/siegel2016-74.png){#fig:siegel .line}
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/luxor-1.jpg"}
+* * * *
 
-![Vista das escavações da "cidade dourada" ou "encanto de Aten", próxima a Luxor, datada do reinado de Amenhotep III (1388--1351 a.C.). Foto: Khaled Desouki/[AFP]{.smallcaps}, 2021](https://hcommons.org/app/uploads/sites/1002372/2021/08/luxor-1.jpg){#fig:luxor}
+![Vista das escavações da "cidade dourada" ou "encanto de Aten", próxima a Luxor, datada do reinado de Amenhotep III (1388--1351 a.C.). Foto: Khaled Desouki/[AFP]{.smallcaps}, 2021](https://hcommons.org/app/uploads/sites/1002372/2021/08/luxor-1.jpg){#fig:luxor .outset}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f2/Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG"}
+* * * *
 
 ::: full
 ![Recinto murado do complexo mortuário do faraó Djoser em Saqqara, Egito, c. 2670--2650 a.C., em alvenaria de pedra com ressaltos. Foto: [Maveric149, 2008]](https://upload.wikimedia.org/wikipedia/commons/f/f2/Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG){#fig:saqqara}
@@ -274,7 +271,7 @@ paredes de casas, como na recém-escavada "cidade dourada" de Luxor.
 
 [Maveric149, 2008]: https://commons.wikimedia.org/wiki/File:Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG
 
-<!--_,-->
+<!--_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Apesar disso,
@@ -288,10 +285,10 @@ a largura dos ressaltos permite enquadrar portas e janelas com mais
 firmeza visual, além de oferecer espaço para assentos junto às janelas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0249.png" data-background-size="contain"}
+## Contrafortes ##
 
 ::: align-right
-![Esquema em planta de parede com contrafortes [(A)]{.smallcaps}, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0249.png){#fig:guadet1.249 .line width="30%"}
+![Esquema em planta de parede com contrafortes [(A)]{.smallcaps}, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0249.png){#fig:guadet1.249 .line}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -302,7 +299,7 @@ parede principal. Eles criam pontos de maior resistência às forças não
 axiais e garantem a estabilidade do conjunto ([@fig:flambagem]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif/lossy-page1-4233px-Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Paredes em tijolo, pedra ou mesmo
@@ -315,9 +312,27 @@ forma de pilastras ou colunas "decorativas" na fachada.
 
 [Félix Bonfils]: https://commons.wikimedia.org/wiki/File:Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif
 
-<!--_,-->
+<!--_-->
 
-##
+## Alinhamento vertical ##
+
+::::::::::::::::::::::::::::::::::::::::::: {#fig:porteafaux .full}
+![correto: a estrutura de cima não ultrapassa o alinhamento de baixo](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0252.png){#fig:guadet1.252 .line width="18%"}
+![](){#fig:nil width="0%"}
+![errado: a base da estrutura de cima está em balanço sobre o alinhamento de baixo](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0256.png){#fig:guadet1.256 .line width="77%"}
+
+Alinhamentos estruturais em alvenaria, segundo Julien Guadet
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Para finalizar, é sempre importante lembrar que uma parede de alvenaria
+só funciona à compressão pura. Isso quer dizer que o seu alinhamento
+estrutural precisa sempre ser mais largo em baixo e mais estreito em
+cima, nunca em balanço --- isto é, o elemento de cima projetando-se para
+fora do de baixo ([@fig:porteafaux]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Conclusão ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Assim, a necessidade material de estabilizar as paredes acaba resultando
@@ -367,10 +382,10 @@ dos usuários, mas também verticalmente, compondo ambientes visualmente
 ricos e amplos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/66000251-2CO.jpg/2560px-66000251-2CO.jpg"}
+## Habitações adossadas à rocha ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[É nas regiões pouco arborizadas]{.newthought} que a construção murária assume, pela
+É nas regiões pouco arborizadas que a construção murária assume, pela
 primeira vez, o papel estrutural dominante. Muitas dessas regiões, de
 clima semiárido, ficam na zona tropical e subtropical do hemisfério
 Norte. Alguns dos exemplares mais antigos dessa arquitetura se localizam
@@ -381,14 +396,14 @@ aparentemente começam a ser usadas como arrimo ou acabamento para
 espaços semienterrados ([@fig:mesa-verde]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vestígios arqueológicos da povoação dita Cliff Palace, c. 1100--1300 d.C. Parque nacional Mesa Verde, Colorado, Estados Unidos. Foto: [M.P. Sharwood, 2011]](https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/66000251-2CO.jpg/1280px-66000251-2CO.jpg){#fig:mesa-verde .slide-bg}
+![Vestígios arqueológicos da povoação dita Cliff Palace, c. 1100--1300 d.C. Parque nacional Mesa Verde, Colorado, Estados Unidos. Foto: [M.P. Sharwood, 2011]](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mesa_Verde_National_Park_-_Cliff_Palace.jpg/2560px-Mesa_Verde_National_Park_-_Cliff_Palace.jpg){#fig:mesa-verde .outset}
 
 [M.P. Sharwood, 2011]: https://commons.wikimedia.org/wiki/File:66000251-2CO.jpg
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"}
+* * * *
 
 ::: full
-![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano   .slide-bg}
+![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -401,13 +416,13 @@ quatro espaços semienterrados de planta mais ou menos circular
 talvez sustentassem alguma cobertura, são grandes lajes de pedra.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png"}
+* * * *
 
 ::: align-right
-![Göbekli Tepe, vista aérea das escavações. Foto: [E. Kücuk, Instituto Arqueológico Alemão ([DAI]{.smallcaps}), 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png){#fig:gt-plan   .slide-bg}
+![Göbekli Tepe, vista aérea das escavações. Foto: [E. Kücuk, Instituto Arqueológico Alemão ([DAI]{.smallcaps}), 2019](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0215214)](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png){#fig:gt-plan}
 :::
 
-<!--_,-->
+<!--_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ao contrário do abrigo em Eynan e de quase todas as outras construções
@@ -432,7 +447,7 @@ lavrada, blocos simplesmente recolhidos e empilhados, até grandes lajes
 megalíticas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/6b/f8/67/6bf8674353e270e052c3e571526de747.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O conceito de uma arquitetura feita de espaços como que *escavados* na
@@ -446,19 +461,19 @@ cobertos; se fosse o caso, a semelhança com cavernas seria ainda mais
 marcante.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Construção dos recintos de Göbekli Tepe, c. 9600 a.C. Desenho: [Fernando Baptista, 2016](https://www.nationalgeographic.com/travel/article/150120-gobekli-tepe-oldest-monument-turkey-archaeology)](https://i.pinimg.com/originals/6b/f8/67/6bf8674353e270e052c3e571526de747.jpg){#fig:gt-natgeo .slide-bg}
+![Construção dos recintos de Göbekli Tepe, c. 9600 a.C. Desenho: [Fernando Baptista, 2016](https://www.nationalgeographic.com/travel/article/150120-gobekli-tepe-oldest-monument-turkey-archaeology)](https://i.pinimg.com/originals/6b/f8/67/6bf8674353e270e052c3e571526de747.jpg){#fig:gt-natgeo .outset}
 
-## {data-background-image="https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg"}
+## Antas e túmulos ##
 
 ::: align-right
-![Vista aérea dos templos megalíticos de Ħal Tarxien, Malta, 3250--3000 a.C.](https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg){#fig:tarxien-aer   .slide-bg}
+![Vista aérea dos templos megalíticos de Ħal Tarxien, Malta, 3250--3000 a.C.](https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg){#fig:tarxien-aer}
 :::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/2560px-Entrance_to_apses_of_the_Central_Temple_Tarxien_Temples.jpg"}
+* * * *
 
-![Vista do templo central de Ħal Tarxien, ao longo do eixo que vai do portal principal ao altar, c. 3100 a.C. Foto: [Ethan Doyle White, 2017](https://commons.wikimedia.org/wiki/File:Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg/1280px-Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg){#fig:tarxien-axis .slide-bg}
+![Vista do templo central de Ħal Tarxien, ao longo do eixo que vai do portal principal ao altar, c. 3100 a.C. Foto: [Ethan Doyle White, 2017](https://commons.wikimedia.org/wiki/File:Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg/1280px-Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg){#fig:tarxien-axis}
 
-<!--_,-->
+<!--_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A partir daí, o tipo da construção semienterrada se espalha pelo
@@ -470,7 +485,7 @@ cada vez mais restritos, dando um senso de reclusão crescente até que se
 alcançava um altar no fundo da construção ([@fig:tarxien-axis]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anta_orca_de_pendilhe_0486.JPG/1280px-Anta_orca_de_pendilhe_0486.JPG"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As construções semienterradas se aclimatam até as extremidades úmidas da
@@ -483,11 +498,11 @@ poderiam ser usadas para vários propósitos rituais: desde sacrifícios
 religiosos até sepultamentos humanos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Anta da orca de Pendilhe, Portugal, final do IV milênio a.C. Foto: [João Carvalho, 2005](https://commons.wikimedia.org/wiki/File:Anta_orca_de_pendilhe_0486.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anta_orca_de_pendilhe_0486.JPG/1280px-Anta_orca_de_pendilhe_0486.JPG){#fig:pendilhe .slide-bg}
+![Anta da orca de Pendilhe, Portugal, final do IV milênio a.C. Foto: [João Carvalho, 2005](https://commons.wikimedia.org/wiki/File:Anta_orca_de_pendilhe_0486.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anta_orca_de_pendilhe_0486.JPG/1280px-Anta_orca_de_pendilhe_0486.JPG){#fig:pendilhe .outset}
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/Maeshowe_Chambered_Cairn-Orkney_3D_Scanning-DX-OBFdUTE-1080p-25fps.webm" data-background-video-muted="true"}
 
-::::::::::::::::::::::::::::::::::::::::: {.iframe-wrapper #fig:maes-3d .slide-bg}
+::::::::::::::::::::::::::::::::::::::::: {.iframe-wrapper #fig:maes-3d .slide-bg .outset}
 <iframe width="1280" height="720" class="slide-bg" src="https://www.youtube-nocookie.com/embed/_DX-OBFdUTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Modelo tridimensional do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 a.C. [Historic Environment Scotland, 2012]
@@ -495,7 +510,7 @@ Modelo tridimensional do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 
 [Historic Environment Scotland, 2012]: https://youtu.be/_DX-OBFdUTE
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-<!--_,-->
+<!--_-->
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Nas ilhas Órcades, o túmulo neolítico de Maeshowe, de c. 2800 a.C. ([@fig:maes-3d]), tem
@@ -503,7 +518,7 @@ uma câmara central quadrada, com 4 metros de lado, debaixo de um
 terrapleno artificial.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif" data-background-size="contain"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Um corredor com 11 metros de comprimento mas
@@ -515,20 +530,40 @@ inverno.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: align-right
-![Cortes do túmulo de Maeshowe. [Fantoman400, 2006](https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif){#fig:maeshowe-sec   .slide-bg}
+![Cortes do túmulo de Maeshowe. [Fantoman400, 2006](https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif){#fig:maeshowe-sec}
 :::
 
-## {data-background-image="https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg" data-background-size="contain"}
+* * * *
 
-![Planta do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 a.C. Desenho: F.W.I. Thomas, após 1861](https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg){#fig:maeshowe-plan .slide-bg}
+![Planta do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 a.C. Desenho: F.W.I. Thomas, após 1861](https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg){#fig:maeshowe-plan}
 
-## {data-background-image="https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg"}
+# Isolamento térmico #
 
-![Planta da aldeia neolítica de Skara Brae, ilhas Órcades, Escócia, 3100--2800 a.C. Desenho adaptado de V. Gordon Childe, 1930](https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg){#fig:skb-plan .slide-bg}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A espacialidade da arquitetura subtrativa e,
+particularmente, o tipo da câmara com células anexas, é um paradigma que
+pode ser adaptado a uma gama muito variada de necessidades
+arquitetônicas, da habitação a grandes edifícios públicos. As habitações
+que seguem esse tipo se adaptam bem a vários climas que não pedem
+ventilação cruzada, tanto no frio quanto no calor.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Clima frio ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No norte da Europa, a tipologia da caverna funciona bem para proteger
+contra o frio e o vento. A aldeia neolítica de Skara Brae, também nas
+ilhas Órcades, é contemporânea do túmulo de Maeshowe. Assim como esse
+túmulo, as casas de Skara Brae são formadas por uma câmara central com
+células anexas. A sua estrutura é construída com paredes muito espessas
+de pedra lavrada ([@fig:skb-plan]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Planta da aldeia neolítica de Skara Brae, ilhas Órcades, Escócia, 3100--2800 a.C. Desenho adaptado de V. Gordon Childe, 1930](https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg){#fig:skb-plan .outset}
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/Skara_Brae-Inside_House_7-Rlkjf-i5_Qw-1080p-24fps.webm" data-background-video-muted="true"}
 
-:::::::::::::::::::::::::::::::::::::::: {.iframe-wrapper #fig:skb-scan .slide-bg}
+:::::::::::::::::::::::::::::::::::::::: {.iframe-wrapper #fig:skb-scan .slide-bg .outset}
 <iframe width="1280" height="720" class="slide-bg" src="https://www.youtube-nocookie.com/embed/Rlkjf-i5_Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Modelo tridimensional da casa 7 em Skara Brae, 3100--2800 a.C. [Historic Environment Scotland, 2021]
@@ -537,37 +572,64 @@ Modelo tridimensional da casa 7 em Skara Brae, 3100--2800 a.C. [Historic Environ
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As casas ainda são adossadas umas às outras para reduzir ao mínimo a
+exposição das paredes ao exterior ([@fig:skb-scan]). Isso evita a perda
+de calor e a infiltração de água da chuva na estrutura. Um lar escavado
+no centro da câmara principal de cada casa mantinha o ambiente aquecido
+e ajudava a reduzir a sensação de umidade. Para melhorar o isolamento
+térmico, as pedras são assentadas com troços de terra com a grama ainda
+enraizada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
 ::: align-right
 ![Reconstituição da aldeia de Skara Brae vista desde o pátio de acesso ao corredor](https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png){#fig:skb-art}
 :::
 
-![Câmara de uma casa em Skara Brae, com lar central e três plataformas contra as paredes, célula satélie ao fundo. Foto: [Archaeology Scotland, 2013](https://commons.wikimedia.org/wiki/File:Skara_Brae_Beds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/1280px-Skara_Brae_Beds.jpg){#fig:skb-int}
-
-A configuração desse túmulo se parece bastante com a das habitações em
-Skara Brae, também nas ilhas Órcades e datadas da mesma época.
-Aqui também, cada casa tem uma câmara principal com
-algumas células satélites; todas as casas se articulam em volta de um
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Todas as casas se articulam em volta de um
 corredor central, e o conjunto é coberto por um terrapleno
-apoiado em vigas de madeira. A única fonte de iluminação
-direta era uma abertura zenital, que também servia de exaustor. Outra
-semelhança com o túmulo de Maeshowe é que alguns corpos foram sepultados
-dentro das próprias casas, debaixo das plataformas que serviam de bancos
-e camas ([@fig:skb-plan;@fig:skb-art;@fig:skb-int]).
+apoiado em vigas de madeira {[@fig:skb-art]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[A espacialidade da arquitetura subtrativa]{.newthought} e,
-particularmente, o tipo da câmara com células anexas, é um paradigma que
-pode ser adaptado a uma gama muito variada de necessidades
-arquitetônicas, da habitação a grandes edifícios públicos. Na bacia do
+Outra semelhança com o
+túmulo de Maeshowe é que alguns corpos foram sepultados dentro das
+próprias casas, debaixo das plataformas que serviam de bancos e camas
+([@fig:skb-int]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Câmara de uma casa em Skara Brae, com lar central e três plataformas contra as paredes, célula satélite ao fundo. Foto: [Archaeology Scotland, 2013](https://commons.wikimedia.org/wiki/File:Skara_Brae_Beds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/1280px-Skara_Brae_Beds.jpg){#fig:skb-int}
+
+* * * *
+
+![Reconstituição da câmara de uma casa em Skara Brae com a sua cobertura. Foto: [Orkneyology]](https://i.pinimg.com/originals/b2/3d/a4/b23da416cd5201b79654a6fd78a0f280.jpg){#fig:skb-dark}
+
+[Orkneyology]: https://www.orkneyology.com/skara-brae.html
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O interior das casas era bastante escuro já que não havia janelas, só a
+abertura da chaminé no teto. Essa configuração deixa claro que as
+prioridades da arquitetura de Skara Brae eram o isolamento térmico e a
+proteção contra o vento ([@fig:skb-dark]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Clima árido ##
+
+![Câmara semienterrada na extremidade de um *mustatil*. Fotos: [Agência de Arqueologia do Reino da Arábia Saudita](https://www.cambridge.org/core/journals/antiquity/article/mustatils-cult-and-monumentality-in-neolithic-northwestern-arabia/80E2AD8B538C268E7CA5C3C29CB4EC52)](https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20210526192136801-0073:S0003598X2100051X:S0003598X2100051X_fig3.png){#fig:musta-chamber .outset}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na bacia do
 Mediterrâneo, a câmara com células ou as sequências de células resultam
 em composições que respondem bem ao clima ameno, um pouco seco e muito
-ensolarado da região. Os abrigos sazonais de caçadores-coletores
-atestados no Levante desde 12800 a.C. [@bar-yosef:1989origins3] logo
-deram origem a assentamentos densos formados por células com estrutura
-em adobe [@rosenberg:2020720015].
+ensolarado da região. Os abrigos sazonais semienterrados dos
+caçadores-coletores ([@fig:musta-chamber]) atestados no Levante desde
+12800 a.C. [@bar-yosef:1989origins3] logo deram origem a assentamentos
+densos formados por células com estrutura em adobe
+[@rosenberg:2020720015].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/Catalhoyuk_erste_Groszsiedlung_der_Menschheit.webm" data-background-video-muted="true"}
@@ -581,17 +643,17 @@ construído muito compacto, com poucos pátios internos e nenhuma rua.
 [@fig:catalhoyuk-vid;@fig:catalhoyuk-plan]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Reconstituição do tecido construído de Çatal Höyük, Anatólia, 7100--5700 a.C. [[ZDF]{.smallcaps}, 2020]](https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm){#fig:catalhoyuk-vid}
+![Reconstituição do tecido construído de Çatal Höyük, Anatólia, 7100--5700 a.C. [[ZDF]{.smallcaps}, 2020]](https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm){#fig:catalhoyuk-vid .slide-bg .outset}
 
 [[ZDF]{.smallcaps}, 2020]: https://commons.wikimedia.org/wiki/File:Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm
 
-## {data-background-image="https://i.pinimg.com/originals/b4/7c/91/b47c9135a83f1695150a0214ad5204bf.png" data-background-size="contain"}
+* * * *
 
-![Planta da aldeia neolítica de Çatal Höyük. Contorno pontilhado: pátios externos](https://i.pinimg.com/originals/b4/7c/91/b47c9135a83f1695150a0214ad5204bf.png){#fig:catalhoyuk-plan .line}
+![Planta da aldeia neolítica de Çatal Höyük. Contorno pontilhado: pátios externos](https://i.pinimg.com/originals/b4/7c/91/b47c9135a83f1695150a0214ad5204bf.png){#fig:catalhoyuk-plan .line .outset}
 
 ## {data-background-image="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png" data-background-position="top"}
 
-![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
+![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As células eram construídas com uma estrutura portante mista de madeira
@@ -600,7 +662,7 @@ organizado de modo semelhante ao das casas em Skara Brae, com uma área
 central cercada por plataformas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/fc/Tomba_dei_Rilievi_(Banditaccia).jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A solução espacial da câmara com células acopladas reaparece nas
@@ -612,15 +674,13 @@ a maioria das tumbas da nobreza etrusca, e tem um espaço central de onde
 irradiam as células para os sarcófagos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Interior da tumba dos relevos, necrópole etrusca de Banditaccia, Cisra (atual Cerveteri), Itália, c. 400 a.C. Foto: [Roberto Ferrari, 2009](https://commons.wikimedia.org/wiki/File:Tomba_dei_Rilievi_(Banditaccia).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tomba_dei_Rilievi_(Banditaccia).jpg/1280px-Tomba_dei_Rilievi_(Banditaccia).jpg){#fig:cerveteri}
+![Interior da tumba dos relevos, necrópole etrusca de Banditaccia, Cisra (atual Cerveteri), Itália, c. 400 a.C. Foto: [Roberto Ferrari, 2009](https://commons.wikimedia.org/wiki/File:Tomba_dei_Rilievi_(Banditaccia).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tomba_dei_Rilievi_(Banditaccia).jpg/1280px-Tomba_dei_Rilievi_(Banditaccia).jpg){#fig:cerveteri .outset}
 
-## {data-background-image="https://journals.openedition.org/gallia/docannexe/image/5147/img-5.jpg" data-background-size="contain"}
+* * * *
 
 ::: align-right
 ![Casa com átrio romana](https://i.pinimg.com/originals/40/2e/13/402e13bd5ac00b1e990deb42b8057136.jpg){#fig:atrium .line}
 :::
-
-![Casas na *insula* V3 de Marzabotto, século [IV]{.smallcaps} a.C. [Gailledrat e Vacheret, 2020](https://doi.org/10.4000/gallia.5147)](https://journals.openedition.org/gallia/docannexe/image/5147/img-5.jpg){#fig:marzabotto}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As tumbas etruscas são provavelmente uma representação da edilícia de
@@ -634,18 +694,22 @@ palavras arquitetônicas que se originam na língua etrusca, de onde elas
 passaram para o latim e daí para as línguas românicas modernas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/19/0a/4e/190a4e3b97a612d17591f53bef75cc16.jpg"}
+## {data-visibility="hidden"}
+
+![Casas na *insula* V3 de Marzabotto, século [IV]{.smallcaps} a.C. [Gailledrat e Vacheret, 2020](https://doi.org/10.4000/gallia.5147)](https://journals.openedition.org/gallia/docannexe/image/5147/img-5.jpg){#fig:marzabotto}
+
+## Conclusão ##
+
+![Corte esquemático de uma câmara típica de Çatal Höyük e de Skara Brae](){#fig:skb-catal .line .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A construção murária se destaca pela sua capacidade de compor volumes
-espaciais com grande clareza, como se eles fossem escavados na massa
-sólida da alvenaria. Esse modo de delimitar os espaços vai ser a
-característica dominante da construção romana, principalmente nos
-grandes edifícios públicos como a basílica de Maxêncio, do século
-[IV]{.smallcaps} d.C. ([@fig:maxentius]).
+As estratégias construtivas para acumular calor em climas frios são
+semelhantes àquelas usadas para impedir o ganho térmico em climas
+quentes e secos. Essa convergência bioclimática, associada à
+continuidade cultural entre o Oriente Médio e a Europa no Neolítico,
+explicam a semelhança de configuração nos sítios de Çatal Höyük e Skara
+Brae ([@fig:skb-catal]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Basílica de Maxêncio ou de Constantino, Roma, 306--312 d.C.](https://i.pinimg.com/originals/19/0a/4e/190a4e3b97a612d17591f53bef75cc16.jpg){#fig:maxentius}
 
 # Materiais naturais e cozidos #
 
@@ -654,6 +718,16 @@ O ciclo de produção dos materiais da construção murária é geralmente
 mais curto que o da madeira. O aspecto crítico é a extração da
 matéria-prima, e isso vale tanto para a pedra quanto para os blocos
 feitos de barro seco ou cozido.
+
+Já no século [XV]{.smallcaps}, Leon Battista Alberti, o arquiteto e
+tratadista italiano, podia comprar quase todos os componentes
+construtivos de que ele precisasse, prontos para uso [@alberti:2011arte,
+II, xiii]. No entanto, isso não o impediu de descrever, em linhas
+gerais, as características da matéria-prima ou o seu preparo. Esse
+gênero de informação, como se fosse um controle de qualidade ou de
+procedência, aparece desde o tratado de Vitrúvio e em textos do
+Renascimento inspirados por ele, como nos *Quatro livros da arquitetura*
+de Palladio [@palladio:1570quattro, I].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-truck-driving-down-into-a-quarry-20988-medium.mp4" data-background-video-muted="true"}
@@ -667,11 +741,11 @@ ambiental caracterizada pelo desperdício de recursos e pela destruição e
 contaminação de espaços muito vastos ([@fig:quarry]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Caminhão e maquinário numa pedreira. [Mixkit](https://mixkit.co/free-stock-video/truck-driving-down-into-a-quarry-20988/)](https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-truck-driving-down-into-a-quarry-20988-medium.mp4){#fig:quarry}
+![Caminhão e maquinário numa pedreira. [Mixkit](https://mixkit.co/free-stock-video/truck-driving-down-into-a-quarry-20988/)](https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-truck-driving-down-into-a-quarry-20988-medium.mp4){#fig:quarry .outset .slide-bg}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Trieste_Cattedrale_di_San_Giusto_spolia1.jpg/2560px-Trieste_Cattedrale_di_San_Giusto_spolia1.jpg"}
+* * * *
 
-![Campanário da catedral de Trieste, 1302--1320, incorporando fragmentos do friso dos propileus da cidade romana, século [I]{.smallcaps} d.C. Foto: [Matthias Kabel, 2009]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Trieste_Cattedrale_di_San_Giusto_spolia1.jpg/1280px-Trieste_Cattedrale_di_San_Giusto_spolia1.jpg){#fig:trieste}
+![Campanário da catedral de Trieste, 1302--1320, incorporando fragmentos do friso dos propileus da cidade romana, século [I]{.smallcaps} d.C. Foto: [Matthias Kabel, 2009]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Trieste_Cattedrale_di_San_Giusto_spolia1.jpg/1280px-Trieste_Cattedrale_di_San_Giusto_spolia1.jpg){#fig:trieste .outset}
 
 [Matthias Kabel, 2009]: https://commons.wikimedia.org/wiki/File:Trieste_Cattedrale_di_San_Giusto_spolia1.jpg
 
@@ -684,9 +758,7 @@ a reutilização e preservação das edificações como um todo.
 [@fig:trieste]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/Hagar_Qim_megalit_templom_bejarata.jpg"}
-
-<!--_,-->
+## Pedra ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na maior parte do mundo, as rochas
@@ -705,16 +777,16 @@ leitos ou veios sucessivos, e por isso tem um *grão* linear que precisa
 ser levado em conta no uso estrutural dos blocos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Monumento megalítico de Ħaġar Qim, Malta, 3200 a 2500 a.C., construído em calcário. Foto: [Kiss Tamás, 1999]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ħaġar_Qim,_megalit_templom_bejárata.jpg/1280px-Ħaġar_Qim,_megalit_templom_bejárata.jpg){#fig:hagar}
+![Monumento megalítico de Ħaġar Qim, Malta, 3200 a 2500 a.C., construído em calcário. Foto: [Kiss Tamás, 1999]](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ħaġar_Qim,_megalit_templom_bejárata.jpg/1280px-Ħaġar_Qim,_megalit_templom_bejárata.jpg){#fig:hagar .outset}
 
 [Kiss Tamás, 1999]: https://commons.wikimedia.org/wiki/File:Ħaġar_Qim,_megalit_templom_bejárata.jpg
 
-<!--_,-->
+<!--_-->
 
-##
+## Terra ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[A matéria-prima mais difundida]{.newthought} na construção murária do mundo todo é a
+A matéria-prima mais difundida na construção murária do mundo todo é a
 terra. Nas formas mais rústicas de construção popular, a terra
 naturalmente presente no local da obra pode ser usada. Mas, em qualquer
 aplicação um pouco mais refinada tecnicamente --- mesmo na maior parte
@@ -722,7 +794,7 @@ da construção vernácula ---, o padrão de qualidade é mais exigente que
 isso.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/8/84/Extracting_clay_to_produce_bricks.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Tanto a argila quanto a areia usadas na confecção dos blocos e tijolos
@@ -735,11 +807,11 @@ no Malaui ([@fig:claypit]), e não recolhidas na superfície, da margem de
 rios ou do mar.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Extração de argila para olaria em Mlala, Dwangwa, Malaui. Foto: [Bibiloucapetown, 2017](https://commons.wikimedia.org/wiki/File:Extracting_clay_to_produce_bricks.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extracting_clay_to_produce_bricks.jpg/1280px-Extracting_clay_to_produce_bricks.jpg){#fig:claypit}
+![Extração de argila para olaria em Mlala, Dwangwa, Malaui. Foto: [Bibiloucapetown, 2017](https://commons.wikimedia.org/wiki/File:Extracting_clay_to_produce_bricks.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extracting_clay_to_produce_bricks.jpg/1280px-Extracting_clay_to_produce_bricks.jpg){#fig:claypit .outset}
 
 ## {data-background-video="https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm" data-background-video-loop="true" data-background-video-muted="true"}
 
-![Produção de tijolos numa olaria em Qom, Irã. [Oxlaey, 2015]](https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm){#fig:qom}
+![Produção de tijolos numa olaria em Qom, Irã. [Oxlaey, 2015]](https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm){#fig:qom .outset .slide-bg}
 
 [Oxlaey, 2015]: https://commons.wikimedia.org/wiki/File:BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm
 
@@ -750,11 +822,7 @@ clima úmido, onde se usam sobretudo tijolos cozidos, é preciso deixar
 secar os blocos moldados durante muito mais tempo, talvez até alguns
 meses, antes de os queimar. A queima propriamente dita dura cerca de
 sete dias, a baixa temperatura ([@fig:qom]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em qualquer caso, a relativa facilidade
 de se produzir os blocos de adobe ou os tijolos, e as suas pequenas
 dimensões, fazem com que esses componentes possam ser altamente
@@ -764,11 +832,7 @@ artesanal, também é simples, o que permite resolver elementos especiais
 como colunas e cimalhas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0247.png" data-background-size="contain"}
-
-::: align-right
-![Amarrações de tijolos, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0247.png){#fig:guadet1.247 .line}
-:::
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-building-a-brick-wall-20874-medium.mp4" data-background-video-muted="true" data-background-video-loop="true"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os tijolos têm a vantagem de serem muito regulares e padronizados, o que
@@ -776,32 +840,32 @@ faz com que as medidas da construção sejam tiradas com facilidade. O
 tijolo tem uma boa relação entre o seu peso próprio e a capacidade
 portante, e pode ser usado para formar paredes muito espessas com
 facilidade. O segredo, como sempre, está em desencontrar as juntas
-verticais ([@fig:guadet1.247]).
+verticais ([ver fig. @fig:guadet1.247]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+## Argamassas ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[O assentamento dos blocos com argamassa]{.newthought} é a regra em
+O assentamento dos blocos com argamassa é a regra em
 quase todas as tradições da construção murária. Em muitos casos, o
 material de que é feita a argamassa é o mesmo material dos blocos:
 barro, para assentar blocos em adobe, ou cal e areia, para assentar
 blocos de pedra.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png" data-background-size="contain"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Em sociedades que fazem uso generalizado de tijolos
 cozidos, a argamassa de cal também costuma ser usada na argamassa, já
 que o procedimento de produção dos dois elementos envolve tecnologias
 semelhantes: a queima com redução de oxigênio, como neste forno de cal
-do século [XVIII]{.smallcaps} [@quintanafrias:2005cal5] ([@fig:montesa]).
+do século [XVIII]{.smallcaps} [@quintana:2005cal5] ([@fig:montesa]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Forno de cal de Montesa, Valência, Espanha, século [XVIII]{.smallcaps}. Modelagem: [Pablo Aparicio Reso, 2013](http://hornodemontesa.blogspot.com/2013/05/26-como-era-un-horno-de-cal-tradicional.html)](https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png){#fig:montesa .nobg}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/91/Tufo_Necropoli_della_Banditaccia.JPG" data-background-size="contain"}
+* * * *
 
 ::: align-right
 ![Parede em blocos de tufo na necrópole etrusca de Banditaccia, Itália, c. século [VI]{.smallcaps} a.C. Foto: [Patafisik, 2009](https://commons.wikimedia.org/wiki/File:Tufo_Necropoli_della_Banditaccia.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tufo_Necropoli_della_Banditaccia.JPG/800px-Tufo_Necropoli_della_Banditaccia.JPG){#fig:tufo}
@@ -836,7 +900,7 @@ a pozolana é bastante usada mesmo na construção moderna, como aditivo ao
 cimento.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/17dbb929034927.55dec1733efd3.jpg" data-background-position="bottom"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O sistema construtivo mais difundido na Roma antiga, que muito chamam de
@@ -848,11 +912,11 @@ romanos, que forma uma parede quase monolítica e consegue se sustentar
 até em balanço ([@fig:7bassi]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vestígios de alvenaria romana na villa dei Sette Bassi, sudeste de Roma, 134--160 d.C. Foto do projeto de [Ana Cristina Azevedo, Eduardo Sinegaglia, Gianluca Vassalo Paleologo, Ivy Stefanie Ramos Baclig, Juliana Lisboa, Marina Amaral e Riccardo Vassalo Paleologo, Università degli studi di Roma Tre, 2014--2015](https://www.behance.net/gallery/29034927/Villa-dei-Sette-Bassi-RESTAURO)](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/17dbb929034927.55dec1733efd3.jpg){#fig:7bassi}
+![Vestígios de alvenaria romana na villa dei Sette Bassi, sudeste de Roma, 134--160 d.C. Foto do projeto de [Ana Cristina Azevedo, Eduardo Sinegaglia, Gianluca Vassalo Paleologo, Ivy Stefanie Ramos Baclig, Juliana Lisboa, Marina Amaral e Riccardo Vassalo Paleologo, Università degli studi di Roma Tre, 2014--2015](https://www.behance.net/gallery/29034927/Villa-dei-Sette-Bassi-RESTAURO)](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/17dbb929034927.55dec1733efd3.jpg){#fig:7bassi .outset}
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/tadelakt-el-arte-de-las-caricias.webm" data-background-video-muted="true"}
 
-::::::::::::::::::::::::::::::::::::::::: {.iframe-wrapper #fig:tadelakt}
+:::::::::::::::::::::: {.iframe-wrapper #fig:tadelakt .outset .slide-bg}
 <iframe src="https://www.youtube-nocookie.com/embed/s6zFL6N2byg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Aplicação de *tadelakt* na Espanha. Filmagem: [Frecuencia Tierra, 2020]
@@ -869,6 +933,24 @@ vizinhanças, tanto em paredes quanto em pisos. Ele dá um acabamento
 muito liso e com alguma resistência à umidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Conclusão ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O discurso sobre a origem dos materiais tende a desaparecer dos textos
+arquitetônicos a partir do século [XVII]{.smallcaps}. O fim da
+preocupação com a profundidade inteira da cadeia produtiva da construção
+acompanha uma tripla separação de competências no ofício: num vértice
+temos os arquitetos, que se especializam na solução espacial e estética
+das edificações; num segundo vértice, estão os engenheiros calculistas
+que concebem o equilíbrio estático dessas edificações a partir de
+materiais com propriedades já conhecidas; e, no terceiro vértice, temos
+os construtores que se ocupam de comprar e instalar os componentes
+padronizados. Nenhuma dessas três categorias profissionais tem mais o
+domínio da cadeia produtiva como um todo, nem sequer a necessidade ou as
+atribuições para se ocupar de trechos dessa cadeia que estejam fora da
+sua alçada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 # Aparelhos de alvenaria
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -877,18 +959,23 @@ construídas com blocos. A forma e o modo de apoiar esses blocos é o que
 chamamos de *aparelho*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0222.png" data-background-size="contain"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O objetivo de todo aparelho de alvenaria é dar a maior resistência
 possível para o conjunto, tendo em vista os materiais e técnicas
 disponíveis para formar os blocos. Por isso, a primeira regra em todo
-aparelho é fazer juntas verticais desencontradas ([@fig:guadet1.222]).
+aparelho é fazer juntas verticais desencontradas ([@fig:guadet1.222;
+@fig:guadet1.247]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Aparelhos com [(A)]{.smallcaps} juntas verticais alinhadas (errado) e [(B)]{.smallcaps} desencontradas (correto), segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0222.png){#fig:guadet1.222 .line}
+![Aparelhos com [(A)]{.smallcaps} juntas verticais alinhadas (errado) e [(B)]{.smallcaps} desencontradas (correto), segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0222.png){#fig:guadet1.222 .line .outset}
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg/2560px-Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg" data-background-position="bottom"}
+* * * *
+
+![Amarrações de tijolos, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2022/05/elementsettheori01guad_0247-q.png){#fig:guadet1.247 .line .outset}
+
+## Pedra seca e lavrada ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma mais simples de aparelho é a pedra seca. Nesse aparelho, as
@@ -897,13 +984,13 @@ estado em que foram encontradas. A pedra seca é usada sobretudo para
 construir muretas para cercar pastos ([@fig:reculfoz]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Restauro de um muro em pedra seca, [Reculfoz, França, 2014]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg/1280px-Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg){#fig:reculfoz}
+![Restauro de um muro em pedra seca, [Reculfoz, França, 2014]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg/1280px-Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg){#fig:reculfoz .outset}
 
 [Reculfoz, França, 2014]: https://commons.wikimedia.org/wiki/File:Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg
 
-## {data-background-image="https://i.pinimg.com/originals/2d/e6/da/2de6da73ff2048ad09b5c34d870b750d.jpg" data-bakcground-size="contain"}
+* * * *
 
-![Muro em pedra seca com perpianhos, c. 1780--1820. [Christian Lassure e Catherine Ropert, 1984]](https://i.pinimg.com/originals/2d/e6/da/2de6da73ff2048ad09b5c34d870b750d.jpg){#fig:lassure}
+![Muro em pedra seca com perpianhos, c. 1780--1820. [Christian Lassure e Catherine Ropert, 1984]](https://i.pinimg.com/originals/2d/e6/da/2de6da73ff2048ad09b5c34d870b750d.jpg){#fig:lassure .outset}
 
 [Christian Lassure e Catherine Ropert, 1984]: https://www.pierreseche.com/pierres_saillantes.htm
 
@@ -924,9 +1011,9 @@ simplesmente barro, uma mistura de barro com cal, ou ainda uma argamassa
 de cal e areia ([@fig:lavrada-mixkit]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Muro em pedra lavrada](https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-metal-gate-against-a-stone-wall-15373-medium.mp4){#fig:lavrada-mixkit}
+![Muro em pedra lavrada](https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-metal-gate-against-a-stone-wall-15373-medium.mp4){#fig:lavrada-mixkit .slide-bg}
 
-##
+## Pedra aparelhada ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 As pedras
@@ -938,7 +1025,9 @@ encaixam diretamente em outros blocos ou assentam sobre uma camada fina
 de argamassa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-iframe="https://www.youtube.com/watch?v=2NjcBBcesgc&t=99"}
+## {data-background-iframe="https://www.youtube.com/watch?v=2NjcBBcesgc&t=99" data-visibility="hidden"}
+
+* * * *
 
 ::: align-right
 ![Parede incaica em aparelho poligonal, Cusco. Foto: [McKay Savage, 2012](https://commons.wikimedia.org/wiki/File:Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg/1280px-Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg){#fig:ciclop-cusco}
@@ -951,9 +1040,9 @@ predominantemente convexos, que não formam fiadas regulares.
 [@fig:ciclop-cusco]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Peru_-_Flickr_-_Jarvis-31.jpg/1280px-Peru_-_Flickr_-_Jarvis-31.jpg"}
+* * * *
 
-<!--_,-->
+<!--_-->
 
 ![Saqsaywamán, fortificação em aparelho poligonal perto de Cusco, império inca, 1438. Foto: [Dennis Jarvis, 2009](https://commons.wikimedia.org/wiki/File:Peru_-_Flickr_-_Jarvis-31.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Peru_-_Flickr_-_Jarvis-31.jpg/1280px-Peru_-_Flickr_-_Jarvis-31.jpg){#fig:saqsaywaman}
 
@@ -973,10 +1062,10 @@ mais ou menos horizontais.
 O arquétipo da construção murária é a estrutura em blocos de adobe sobre
 um baldrame em pedra lavrada; o conjunto pode ser reforçado e
 contraventado com esteios, frechais e baldrames em madeira, como nas
-habitações neolíticas de Çatal Höyük ([@fig:catalhoyuk-build]).
+habitações neolíticas de Çatal Höyük ([ver fig. @fig:catalhoyuk-build]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/0/08/Catal_Hüyük_EL.JPG"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O sistema inteiro recebe um reboco feito do mesmo barro que os blocos de
@@ -986,11 +1075,13 @@ revestimento como se fossem molduras decorativas, especialmente
 articulando os cantos, rodapés e coroamentos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Diorama de uma célula em Çatal Höyük. Foto: [Eleicht, 2009](https://commons.wikimedia.org/wiki/File:Catal_Hüyük_EL.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Catal_Hüyük_EL.JPG/1280px-Catal_Hüyük_EL.JPG){#fig:catalhoyuk-dio}
+![Diorama de uma célula em Çatal Höyük. Foto: [Eleicht, 2009](https://commons.wikimedia.org/wiki/File:Catal_Hüyük_EL.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Catal_Hüyük_EL.JPG/1280px-Catal_Hüyük_EL.JPG){#fig:catalhoyuk-dio .outset}
 
-## {data-background-iframe="https://www.youtube.com/watch?v=-7gj4VWtDkI&t=19"}
+## {data-background-iframe="https://www.youtube.com/watch?v=-7gj4VWtDkI&t=19" data-visibility="hidden"}
 
-![Porta dos Leões, cidade heládica de Micenas, Grécia, c. 1350 a.C. Foto: [Andy Hay, 2016](https://commons.wikimedia.org/wiki/File:Path_upto_the_Lion_Gate,_Mycenae_(28693130016).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Path_upto_the_Lion_Gate,_Mycenae_(28693130016).jpg/1280px-Path_upto_the_Lion_Gate,_Mycenae_(28693130016).jpg){#fig:ciclop-lions}
+* * * *
+
+![Porta dos Leões, cidade heládica de Micenas, Grécia, c. 1350 a.C. Foto: [Andy Hay, 2016](https://commons.wikimedia.org/wiki/File:Path_upto_the_Lion_Gate,_Mycenae_(28693130016).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Path_upto_the_Lion_Gate,_Mycenae_(28693130016).jpg/1280px-Path_upto_the_Lion_Gate,_Mycenae_(28693130016).jpg){#fig:ciclop-lions .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Várias tradições construtivas monumentais usam pedras aparelhadas
@@ -1001,7 +1092,7 @@ gregas são chamadas de *ciclópicas*, porque o tamanho das pedras é digno
 desses gigantes mitológicos, os cíclopes ([@fig:ciclop-lions]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://live.staticflickr.com/65535/49523007636_92cab09df1_k_d.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Outra tradição arquitetônica monumental é a dos maias, na Mesoamérica.
@@ -1013,14 +1104,14 @@ amarração das quinas dos pilares e das paredes, e os miolos foram
 preenchidos com pedras menores ([@fig:ciclop-palenque]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Palácio maia no sítio de Palenque, atual México, século [VII]{.smallcaps} d.C. Foto: [Bernard Dupont, 2020](https://commons.wikimedia.org/wiki/File:A-shaped_Corbel_Archs_-_Palenque_Maya_Site,_Feb_2020.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/A-shaped_Corbel_Archs_-_Palenque_Maya_Site,_Feb_2020.jpg/1280px-A-shaped_Corbel_Archs_-_Palenque_Maya_Site,_Feb_2020.jpg){#fig:ciclop-palenque}
+![Palácio maia no sítio de Palenque, atual México, século [VII]{.smallcaps} d.C. Foto: [Bernard Dupont, 2020](https://commons.wikimedia.org/wiki/File:A-shaped_Corbel_Archs_-_Palenque_Maya_Site,_Feb_2020.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/A-shaped_Corbel_Archs_-_Palenque_Maya_Site,_Feb_2020.jpg/1280px-A-shaped_Corbel_Archs_-_Palenque_Maya_Site,_Feb_2020.jpg){#fig:ciclop-palenque .outset}
 
-<!--_,-->
+<!--_-->
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-ancient-mayan-ruins-in-mexico-4467.mp4" data-background-video-muted="true"}
 
 ::: full
-![Palácios maias](https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-ancient-mayan-ruins-in-mexico-4467.mp4){#fig:mayan-mixkit}
+![Palácios maias](https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-ancient-mayan-ruins-in-mexico-4467.mp4){#fig:mayan-mixkit .slide-bg}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -1029,7 +1120,7 @@ pedra: blocos com acabamento retangular e liso em todas as faces.
 [@fig:mayan-mixkit]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0228.png"}
+## Cantaria ##
 
 ::: align-right
 ![Amarração de parede em cantaria, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0228.png){#fig:guadet1.228 .line}
@@ -1043,7 +1134,7 @@ povoação grega. Uma amarração comum de cantaria é alternar fiadas de
 perpianhos com fiadas de blocos ao comprido ([@fig:guadet1.228]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://live.staticflickr.com/65535/50972614793_c11bf0abac_k_d.jpg"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essas pedras permitem esculpir detalhes arquitetônicos
@@ -1055,10 +1146,10 @@ de "aparelho grego" ([@fig:erechtheion]).
 
 ![Mnésicles, arquiteto, Erecteu, Atenas, 421--406 a.C. Parede estrutural em cantaria de pedra simples. Foto: [Pedro P. Palazzo, 2011](https://www.flickr.com/photos/arqpalazzo/50972614793/in/dateposted-public/)](https://live.staticflickr.com/65535/50972614793_c11bf0abac_k_d.jpg){#fig:erechtheion}
 
-##
+## Parede mista ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Quando uma parede]{.newthought} não é só um par de linhas paralelas numa planta?
+Quando uma parede não é só um par de linhas paralelas numa planta?
 Quando ela é uma montagem de elementos que se complementam e reforçam
 uns aos outros. A forma mais tradicional de se atingir essa
 complementaridade é com a chamada *parede mista* ou *espessa*, formada por um miolo
@@ -1085,12 +1176,14 @@ decorativos ou de proteção: seixos rolados, conchas, fragmentos de vidro
 ou cerâmica formando mosaicos, ou ainda ladrilhos vidrados.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/97/ef/74/97ef74a2550ee01847152232c33eb10b.png"}
+## "Concreto" romano ##
+
+## {data-background-image="https://i.pinimg.com/originals/97/ef/74/97ef74a2550ee01847152232c33eb10b.png" data-background-transition="slide-in fade-out"}
 
 ![Parede em obra testácea, segundo Middleton, 1982, *ap.* [Waddell, 2015](https://doi.org/10.1017/CBO9781139015974.006)](https://i.pinimg.com/originals/97/ef/74/97ef74a2550ee01847152232c33eb10b.png){#fig:testaceus}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[O chamado "concreto romano"]{.newthought} é o caso mais emblemático de
+O chamado "concreto romano" é o caso mais emblemático de
 parede espessa no mundo Antigo. Esse sistema tem, na verdade, muito
 pouco a ver com o concreto armado moderno, e muito mais com a parede
 mista da Mesopotâmia. A alvenaria romana é na verdade uma variedade de
@@ -1098,7 +1191,7 @@ sistemas construtivos que envolvem alguma combinação de pedregulhos mais
 ou menos regularizados e tijolos cozidos ([@fig:testaceus]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/97/ef/74/97ef74a2550ee01847152232c33eb10b.png" data-background-opacity="0.25"}
+## {data-background-image="https://i.pinimg.com/originals/97/ef/74/97ef74a2550ee01847152232c33eb10b.png" data-background-opacity="0.25" data-background-transition="fade-in slide-out"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os sistemas construtivos em uso corrente na Itália antes e durante o
@@ -1181,10 +1274,10 @@ respeito, é o seguinte (ver @fig:guadet1.221):
 2. Cada pavimento sucessivo para baixo deve aumentar essa espessura em
    meia vez.
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0235.png" data-background-size="contain"}
+## Cunhais ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Um ponto de fragilidade]{.newthought} especialmente importante para as
+Um ponto de fragilidade especialmente importante para as
 paredes são as extremidades. É raro que uma parede simplesmente termine
 no seu alinhamento; o mais comum é ela formar uma quina com outra
 parede. Essa junção entre paredes, perpendiculares ou não, sempre está
@@ -1192,9 +1285,9 @@ sujeita a que os dois tramos se movimentem separadamente um do outro.
 [@fig:guadet1.235]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Junção entre paredes não solidarizadas, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0235.png){#fig:guadet1.235 .line}
+![Junção entre paredes não solidarizadas, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0235.png){#fig:guadet1.235 .line .outset}
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0268.png" data-background-size="contain"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por causa dessa fragilidade, é importante prever cunhais sobretudo em
@@ -1207,11 +1300,11 @@ no seu ponto de encontro ([@fig:guadet1.236]).
 ![Esquema de cunhais, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0268.png){#fig:guadet1.268 .line}
 :::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0236.png" data-background-size="contain"}
+* * * *
 
 ![Cunhais em cantaria, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0236.png){#fig:guadet1.236 .line}
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0243.png" data-background-size="contain"}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os cunhais também podem ser usados ao longo de uma parede muito alta ou
@@ -1219,22 +1312,22 @@ alongada, para dar maior estabilidade estrutural e visual, especialmente
 na arquitetura monumental ([@fig:guadet1.243]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Cunhais no meio de uma parede, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0243.png){#fig:guadet1.243 .line}
+![Cunhais no meio de uma parede, segundo Julien Guadet](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0243.png){#fig:guadet1.243 .line .outset}
 
-##
+## Conclusão ##
 
-::::::::::::::::::::::::::::::::::::::::::: {#fig:porteafaux .full}
-![correto: a estrutura de cima não ultrapassa o alinhamento de baixo](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0252.png){#fig:guadet1.252 .line width="18%"}
-![](){#fig:nil width="0%"}
-![errado: a base da estrutura de cima está em balanço sobre o alinhamento de baixo](https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0256.png){#fig:guadet1.256 .line width="77%"}
-
-Alinhamentos estruturais em alvenaria, segundo Julien Guadet
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Basílica de Maxêncio ou de Constantino, Roma, 306--312 d.C.](https://i.pinimg.com/originals/19/0a/4e/190a4e3b97a612d17591f53bef75cc16.jpg){#fig:maxentius .nobg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Para concluir, é sempre importante lembrar que uma parede de alvenaria
-só funciona à compressão pura. Isso quer dizer que o seu alinhamento
-estrutural precisa sempre ser mais largo em baixo e mais estreito em
-cima, nunca o contrário ([@fig:porteafaux]).
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A construção murária se destaca pela sua capacidade de compor volumes
+espaciais com grande clareza, como se eles fossem escavados na massa
+sólida da alvenaria. Esse modo de delimitar os espaços vai ser a
+característica dominante da construção romana, principalmente nos
+grandes edifícios públicos como a basílica de Maxêncio, do século
+[IV]{.smallcaps} d.C. ([@fig:maxentius]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 # Bibliografia {- .unlisted .allowframebreaks}
 
