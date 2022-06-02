@@ -29,6 +29,7 @@ sidebar:
     - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 271–302
     - Marcantonio, ["Ode to an Ideal Church Building"](http://blog.marcantonioarchitects.com/ode-to-an-ideal-church-building/)
     - Marcantonio, ["Byzantine Simplicity"](http://blog.marcantonioarchitects.com/byzantine-simplicity/)
+    - *Enciclopédia prática* 15, 16
 ---
 
 # Geometria e forças #

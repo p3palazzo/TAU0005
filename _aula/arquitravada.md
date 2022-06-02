@@ -32,6 +32,7 @@ sidebar:
     - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 75–166
     - Lawrence, *Arquitetura grega* 57–141
     - Robertson, *Arquitetura grega e romana* 45–170
+    - *Enciclopédia prática* 7, 12
 ---
 
 # Tendas e cabanas

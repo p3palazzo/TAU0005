@@ -29,6 +29,7 @@ sidebar:
     - Vitrúvio livro V
     - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 167–252
     - Robertson, *Arquitetura grega e romana* 171–314
+    - *Enciclopédia prática* 13, 14, 16
 ---
 
 # Princípios da construção murária #

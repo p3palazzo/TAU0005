@@ -30,6 +30,7 @@ sidebar:
   text: |
     - *História global* 426–437
     - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 599–653
+    - *Enciclopédia prática* 17
 ---
 
 # Procedimentos arquitetônicos #

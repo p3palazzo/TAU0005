@@ -28,6 +28,7 @@ sidebar:
     - *História global* 254–290
     - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 1197–1221
     - Fukuyama, *Heian temples: Byodoin and Chusonji*
+    - *Enciclopédia prática* 1–3, 8–11, 19–22, 26
 ---
 
 # Função e estrutura das coberturas #

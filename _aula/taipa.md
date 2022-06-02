@@ -30,6 +30,7 @@ sidebar:
     - *História global* 25–95
     - Vitrúvio livro II
     - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 12–75
+    - *Enciclopédia prática* 14, 18
 ---
 
 # Materiais da construção tradicional
