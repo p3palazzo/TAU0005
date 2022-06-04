@@ -1136,5 +1136,109 @@ tradicional. É a partir desse arquétipo que vamos analisar, na
 sequência, a construção arquitravada.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+# Projeto e representação #
+
+## Projeções geométricas ##
+
+------
+
+![Desenho infantil de uma rua com casas, reproduzido por [Kmetová e Lehocká][]](https://i.pinimg.com/1200x/6c/77/0c/6c770c87a24b45a7f17756956d72f51e.jpg){#fig:child .outset}
+
+[Kmetová e Lehocká]: https://doi.org/10.3390/math9182185
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Giuliano da Sangallo (atribuição), Cidade ideal, c. 1480–84, dita [Tábua de Baltimore. Walters Art Museum](https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg){#fig:baltimore}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![Projeção cavaleira: Qiu Ying, Manhã de primavera no palácio Han, original da primeira metade do século [XVI]{.smallcaps}, cópia da segunda metade do século [XVII]{.smallcaps}. [Walters Art Museum](https://commons.wikimedia.org/wiki/File:Qiu_Ying_-_Spring_Morning_in_the_Han_Palace_-_Walters_3548_-_View_I.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/38/Qiu_Ying_-_Spring_Morning_in_the_Han_Palace_-_Walters_3548_-_View_I.jpg){#fig:qiu-ying}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Projeção axonométrica ou planta oblíqua: ilustração da *Lenda de Genji*, artista desconhecido do século [XVII]{.smallcaps}. [Chester Beatty Library 1038.1][]](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Paulownia_Court_%28Kiritsubo%29_from_Tale_of_Genji_%28Genji_monogatari%29_AR_J1038_01-054_56-f-26v.jpg/548px-Paulownia_Court_%28Kiritsubo%29_from_Tale_of_Genji_%28Genji_monogatari%29_AR_J1038_01-054_56-f-26v.jpg){#fig:kiritsubo}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Chester Beatty Library 1038.1]: https://commons.wikimedia.org/wiki/File:Paulownia_Court_(Kiritsubo)_from_Tale_of_Genji_(Genji_monogatari)_AR_J1038_01-054_56-f-26v.jpg
+
+<!--_-->
+
+------
+
+![Planta–elevação: João da Rocha Fragoso, [Mappa architectural do Rio de Janeiro](https://commons.wikimedia.org/w/index.php?title=File:Mappa_architectural_do_Rio_de_Janeiro.pdf), pr. 3, 1874](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mappa_architectural_do_Rio_de_Janeiro.pdf/page3-713px-Mappa_architectural_do_Rio_de_Janeiro.pdf.jpg){#fig:fragoso}
+
+------
+
+![Francis D.K. Ching, projeção ortográfica do terceiro diedro](https://hcommons.org/app/uploads/sites/1002372/2022/06/ching-desenho-146-3diedro.png){#fig:ching-3diedro .line .outset}
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Francis D.K. Ching, esquema da projeção de uma planta baixa](https://hcommons.org/app/uploads/sites/1002372/2022/06/ching-desenho-157.png){#fig:ching-plan .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Escala
+- Desenhos convencionais
+  - Cortes sempre pelo eixo de simetria e passando pelos vãos
+  - No mínimo um corte perpendicular à elevação principal, em geral dois cortes
+  - Os cortes são tratados como elevações interiores
+- Desenho à mão
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Projeto e composição ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O conceito moderno de projeto faz referência à transformação de
+requisitos abstratos (programa de necessidades, ideologias) diretamente
+em forma arquitetônica [@pinon:2006teoria]. Em arquitetura tradicional,
+em vez de projeto preferimos falar em composição: organizar e modificar
+formas ou princípios formais preexistentes [@gabriel:2004classical].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:rkrier-basic}
+<div class="r-stack .half">![tipos primários](https://i.pinimg.com/originals/89/b4/56/89b456c0021b5b85c3a6acd0fb766ee0.png){#fig:rkrier-basicA .fragment .current-visible}
+
+![exemplos históricos](https://i.pinimg.com/originals/43/d7/4d/43d74d3154cd364b8ce2be5061834574.png){#fig:rkrier-basicB .fragment .current-visible} </div>
+
+Rob Krier, arquétipos formais em *Architectural Composition*
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Método acadêmico de projeto e representação ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Esboço, estudo, épura e arte-final
+- Posicionamento dos desenhos
+- Escala gráfica e orientação do norte
+- Simetria e não redundância dos desenhos
+- Onde cortar
+- Proporção de cheios e vazios, poché e mosaico
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Donald M. Kirkpatrick, esboço de uma *loggia*, reproduzido em Harbeson, *Study of Architectural Design*](https://hcommons.org/app/uploads/sites/1002372/2022/06/harbeson-mdp.39015014100054-seq_27.png){#fig:kirpatrick-esquisse .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Estudo analítico ##
+
+:::::::::::::::::::::::::::::::::::: {.half #fig:harbeson-analytique}
+![motivo central para um muro de jardim, por L. Licht](https://i.pinimg.com/originals/a4/35/f6/a435f6ec9ece51124aec3b0539c5e38f.jpg){#fig:harbeson-analytiqueA}
+
+![templo do Amor, por G. Roth](https://i.pinimg.com/originals/63/32/ab/6332ab618716d65d67c3d0ccdeb3aed1.jpg){#fig:harbeson-analytiqueB}
+
+Estudos analíticos reproduzidos em Harbeson, *Study of Architectural Design*
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Importância do detalhe e da volumetria ##
+
 # Bibliografia {- .unlisted .allowframebreaks}
 
