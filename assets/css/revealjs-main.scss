@@ -75,6 +75,11 @@ html {
   td {
     font-variant: tabular-nums;
   }
+  ul {
+    li::marker {
+      content: "› ";
+    }
+  }
 
   // Section and heading modifiers ---------------
   box-shadow: inset 0 0 5em 1em darken($backgroundColor, 0.3);
@@ -97,50 +102,66 @@ html {
         font-weight: $headingFontWeight;
         letter-spacing: $headingLetterSpacing;
         text-shadow: $heading1TextShadow;
-        text-transform: $headingTextTransform;
+        text-transform: uppercase;
       }
       h1 {
         position: fixed;
         left: 0;
         right: 0;
-        bottom: 50%;
+        bottom: 60%;
       }
       p.author,
       p.subtitle {
+        font-family: $mainFont;
         position: fixed;
         left: 0;
         right: 0;
         text-align: center;
       }
       p.subtitle {
-        top: 10%;
+        top: 5%;
       }
       p.author {
-        bottom: 10%;
+        bottom: 20%;
       }
       p.date {
         display: none;
       }
     }
+    &:not(#title-slide) {
+      h1,
+      h2 {
+        letter-spacing: 0;
+      }
+      h2 {
+        font-family: $mainFont;
+        font-style: italic;
+      }
+    }
     // Make sure images don't overflow their containers.
     // Give room for 2-line captions @ 1080p.
+    h2 + figure img,
+    h2 + div img {
+      max-height: calc(100vh - 240px);
+    }
     figure,
     img {
-      object-fit: contain;
       max-height: calc(100vh - 128px);
     }
+    img {
+      object-fit: contain;
+    }
     // Images that float over other content
-    & > figure {
-      & > img.overlay-slide,
-      & > img.overlay-slide + figcaption {
-        float: right;
-        clear: right;
-        max-width: 25%;
-      }
+    img.overlay-slide,
+    img.overlay-slide + figcaption {
+      float: right;
+      clear: right;
+      max-width: 25%;
     }
     // Hide single images so we can use data-background-image
     .slide-bg,
     .no-slide {
+      &,
       iframe,
       img,
       video {
@@ -159,6 +180,11 @@ html {
       visibility: hidden;
       height: 100vh;
     }
+    figcaption {
+      max-width: 1280px;
+      margin-left: auto;
+      margin-right: auto;
+    }
     .subfigures > p:last-of-type {
       @extend figcaption;
     }
@@ -175,6 +201,24 @@ html {
     padding: 0;
     height: 100vh;
     width: 100%;
+  }
+
+  // Minimal-mistakes compatibility ---------------
+  .half > img,
+  .half > figure {
+    max-width: calc(50% - 1em);
+    vertical-align: top;
+  }
+  .third > img,
+  .third > figure {
+    max-width: calc(33% - 1em);
+    vertical-align: top;
+  }
+  .half,
+  .third {
+    & > figure {
+      display: inline;
+    }
   }
 
   .epigraph > blockquote > p {

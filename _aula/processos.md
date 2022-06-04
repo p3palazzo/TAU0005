@@ -3,11 +3,12 @@ title   : "Processos da arquitetura"
 subtitle: "Arquitetura tradicional"
 item    : "I"
 author  : Pedro P. Palazzo
-date    : 2022-01-18
+date    : 2022-06-07
 excerpt: >
   Ordem e lugar –
   Preferência temporal e preferência local –
-  Alegoria da cabana primitiva
+  Alegoria da cabana primitiva –
+  Projeto e representação
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
 header:
@@ -42,7 +43,7 @@ observar a produção de ordem emergente nas várias escalas de ocupação do
 espaço pelas sociedades.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Ambiente ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/1280px-Spreading_homo_sapiens_la.svg.png"}
+## Ambiente ##
 
 ![Modelo atualmente vigente da migração do *Homo sapiens*. Desenho: [NordNordWest, 2014](https://commons.wikimedia.org/wiki/File:Spreading_homo_sapiens_la.svg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/1280px-Spreading_homo_sapiens_la.svg.png){#fig:ooa .outset}
 
@@ -74,7 +75,7 @@ outras espécies humanas ao longo da sua expansão na África, Ásia e
 Europa.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+------
 
 ![Vista da paisagem de savana no parque nacional do Serengeti, Tanzânia. Foto: [Harvey Barrison, 2012](https://commons.wikimedia.org/wiki/File:Balloon_Safari_2012_06_01_3128_(7522677448).jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Balloon_Safari_2012_06_01_3128_(7522677448).jpg/1280px-Balloon_Safari_2012_06_01_3128_(7522677448).jpg){#fig:serengeti .outset}
 
@@ -105,10 +106,10 @@ posição de reconhecimento da paisagem e de controle sobre o território
 
 [Noel Feans, 2009]: https://commons.wikimedia.org/wiki/File:Olduvai_Gorge_or_Oldupai_Gorge.jpg
 
-## Percursos ## {data-background-video="https://cdn.palazzo.arq.br/arqtrad/processos/olduvai-landscape.webm" data-background-video-muted="true"}
+## Percursos ## {data-background-video="https://cdn.palazzo.arq.br/arqtrad/processos/olduvai-landscape.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
 ::: full
-![Garganta do Olduvai. Filme: [David Gutiérrez e Ignacio Zapico, 2016](https://youtu.be/8To3-9ZecnU)](https://cdn.palazzo.arq.br/arqtrad/processos/olduvai-landscape.webm){#fig:olduvai}
+![Garganta do Olduvai. Filme: [David Gutiérrez e Ignacio Zapico, 2016](https://youtu.be/8To3-9ZecnU)](https://cdn.palazzo.arq.br/arqtrad/processos/olduvai-landscape.webm){#fig:olduvai .slide-bg}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -120,7 +121,7 @@ principais do território, mas elas estabelecem os seus *assentamentos*
 num nível mais baixo, nas cumeadas secundárias [@strappa:2013lettura].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Alguns dos vestígios arqueológicos mais antigos de habitações humanas
@@ -145,7 +146,7 @@ máximo alguns anos. Isso implica uma escolha premeditada e muito
 cuidadosa do sítio onde a povoação vai se estabelecer.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-video="https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4" data-background-video-muted="true"}
+------
 
 ::: full
 ![Kostyonki, Rússia. Fonte: Google Earth](https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4){#fig:kostyonki-google}
@@ -161,7 +162,7 @@ para o sul, a uma distância de 2 a 3 quilômetros da borda do vale.
 [@fig:kostyonki-google]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## 
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Entre as gargantas dos afluentes, uma série de linhas de cumeada
@@ -173,7 +174,7 @@ vale ([@fig:kostyonki-model]).
 
 ![Maquete do sítio no museu arqueológico de Kostyonki. Foto: [Eva Tutin, 2014](https://commons.wikimedia.org/wiki/File:Kostenky_model.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kostenky_model.jpg/1280px-Kostenky_model.jpg){#fig:kostyonki-model .outset}
 
-## {data-background-transition="fade-out" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png"}
+## {data-background-transition="slide-in fade-out" data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png"}
 
 ::: align-right
 ![Localização no contexto das sociedades pré-históricas com habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-locator.png){#fig:kostyonki-loc .nobg .overlay-slide}
@@ -189,13 +190,13 @@ fundo do vale ([@fig:kostyonki-site]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: full
-![Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia, ocupação c. 14.000 a.p. Desenho com base em Jarzombek (2013) e Grigor'ev (1967), curvas de nível a cada 5 metros. Linha tracejada grossa: percurso estruturante de cumeada; linha tracejada fina: percursos de cumeada secundários; linha pontilhada: percurso de contra-cumeada](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png){#fig:kostyonki-site}
+![Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia, ocupação c. 14.000 a.p. Desenho com base em Jarzombek (2013) e Grigor'ev (1967), curvas de nível a cada 5 metros. Linha tracejada grossa: percurso estruturante de cumeada; linha tracejada fina: percursos de cumeada secundários; linha pontilhada: percurso de contra-cumeada](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png){#fig:kostyonki-site .slide-bg}
 :::
 
-## {data-background-transition="fade-in" data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg"}
+## {data-background-transition="fade-in slide-out" data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg"}
 
 ::: full
-![Kostyonki na atualidade. Mapa de base: OpenStreetMap](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg){#fig:kostyonki-osm}
+![Kostyonki na atualidade. Mapa de base: OpenStreetMap](https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg){#fig:kostyonki-osm .slide-bg}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -208,7 +209,7 @@ cumeada principal, e a cidade moderna ocupa a mesma área no sopé das
 cumeadas secundárias ([@fig:kostyonki-osm]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/c2/04/d7/c204d703c49c29d5487c1a3ce88abe10.jpg" data-background-position="bottom"}
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No sul da Inglaterra, o Ridgeway ([@fig:ridgeway]) é um percurso de
@@ -219,10 +220,10 @@ I d.C. Hoje em dia, é uma trilha de caminhada bastante popular.
 
 ![Ridgeway, um percurso estruturante de cumeada no sul da Inglaterra em uso contínuo desde o Neolítico (c. 3000 a.C.). [Celtic Trails](https://www.celtictrailswalkingholidays.co.uk/walking-holidays/the-ridgeway/)](https://i.pinimg.com/originals/c2/04/d7/c204d703c49c29d5487c1a3ce88abe10.jpg){#fig:ridgeway .outset}
 
-##
+------
 
 ::: align-right
-![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg){#fig:bronzo .r-stretch}
+![Estruturação territorial na Itália da Idade do Bronze, segundo Strappa](http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg){#fig:bronzo}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -233,13 +234,17 @@ termina nas colinas que formam o sítio de Roma ([@fig:bronzo]).
 
 ## Territórios ##
 
-* * * *
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na sequência, a implantação do assentamento determina um
 raio de ação da comunidade. Ou melhor, vários raios de ação, segundo as
 várias necessidades --- caça, coleta, aquisição de matéria-prima para
-ferramentas e gestão de resíduos, por exemplo. Esses raios de ação foram
+ferramentas e gestão de resíduos, por exemplo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+----
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Esses raios de ação foram
 conceituados nas décadas de 1960 a 80 pelo arqueólogo americano Lewis
 Binford [@binford:1982archaeology1]. Os raios de ação diferenciados da
 coleta cotidiana, por um lado, e das expedições de caça que duram vários
@@ -291,7 +296,7 @@ floresta manejada no seu entorno imediato [@araujo:2016logica10;
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: align-right
-![Diagrama do teko'á guarani, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-souza-2016-tekoha.png){#fig:tekoa .r-stretch}
+![Diagrama do teko'á guarani, por Araujo de Souza *et al.* (2016)](https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-souza-2016-tekoha.png){#fig:tekoa}
 :::
 
 * * * *
@@ -306,7 +311,7 @@ maiores ([@fig:guara]). Esse território político é chamado de *guará*.
 
 * * * *
 
-::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:kemp .outset}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:kemp}
 <div class="r-stack">![aldeias igualitárias](https://hcommons.org/app/uploads/sites/1002372/2022/01/kemp-033a.png){#fig:kempA .line .fragment .fade-out .current-visible}
 ![vilas agrárias](https://hcommons.org/app/uploads/sites/1002372/2022/01/kemp-033b.png){#fig:kempB .line .fragment .current-visible}
 ![cidades-estado emergentes](https://hcommons.org/app/uploads/sites/1002372/2022/01/kemp-033c.png){#fig:kempC .line .fragment .current-visible}</div>
@@ -327,7 +332,7 @@ pronunciada ([@fig:kemp]). Essa territorialidade é uma característica
 fundamental do processo de urbanização.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## Conclusão ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Todas as escalas de produção do ambiente tradicional são
@@ -352,10 +357,10 @@ produtiva e como esse consumo influencia a gestão do tempo em diferentes
 sociedades.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Preferência temporal e preferência local ## {data-visibility="hidden"}
+## Preferência temporal e preferência local ##
 
 ::: align-right
-![Arquitetura do pico do petróleo. Léon Krier, 2008](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg){#fig:krier-oil .line .r-stretch}
+![Arquitetura do pico do petróleo. Léon Krier, 2008](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg){#fig:krier-oil .line}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -374,13 +379,13 @@ nome, mas para efeito de comparação vamos chamá-las de *preferência
 local*.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/e7/83/e6/e783e61df6c6534e45f61ac400ad53f2.jpg" data-background-size="contain" data-background-position="left"}
+------
 
 ::: align-right
 ![Barnabas Calder. Foto: [Helen @ Gingerbread Design](https://www.unitedagents.co.uk/barnabas-calder)](https://i.pinimg.com/originals/01/bd/e9/01bde9f28c2eccdaa1eb4e35bfe80a1e.jpg){#fig:calder-trombine .overlay-slide}
 :::
 
-![© Pelican Books, 2021](https://i.pinimg.com/originals/e7/83/e6/e783e61df6c6534e45f61ac400ad53f2.jpg){#fig:calder-book}
+![Capa do livro © Pelican Books, 2021](https://i.pinimg.com/originals/e7/83/e6/e783e61df6c6534e45f61ac400ad53f2.jpg){#fig:calder-book}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O arquiteto britânico Barnabas Calder, no seu livro recente *Arquitetura
@@ -450,7 +455,7 @@ materiais industrializados, como o aço.
 
 <!--_-->
 
-* * * *
+## Durabilidade da arquitetura ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Onde for custoso gerar energia a partir do ambiente, o trabalho vai ser
@@ -466,11 +471,7 @@ local e, mais ainda, pela capacitação técnica dos profissionais
 especializados. Ou seja, a produção industrial pode ser ampliada tanto
 quanto os recursos econômicos o permitirem; já a produção artesanal tem
 uma capacidade mais ou menos fixa para cada comunidade.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Durabilidade da arquitetura ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa capacidade produtiva fixa faz com que a variável dependente na
 construção tradicional seja o tempo. O tempo que se leva para construir
 um edifício tradicional tende a ser proporcional ao seu tamanho e ao
@@ -578,6 +579,8 @@ Tuan ([@fig:tuan]) [@tuan:1980topofilia].
 
 ## Responsabilidade ambiental ##
 
+------
+
 ::: align-right
 ![Léon Krier, Edifícios (da Universidade de Yale) --- idade e primeira campanha significativa de reformas, 1990](https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png){#fig:krier-1990 .line}
 :::
@@ -610,7 +613,7 @@ importa tanto, a questão é a tendência.
 * * * *
 
 ::: align-right
-![Léon Krier, custo de construção e custo de manutenção comparados](https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980){#fig:krier-maintenance}
+![Léon Krier, custo de construção e custo de manutenção comparados](https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980){#fig:krier-maintenance .line}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -1010,7 +1013,7 @@ independente da vedação das paredes, como nas bibliotecas que Henri
 Labrouste construiu em Paris ([@fig:bsg; @fig:bnf]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/ae/0f/ad/ae0fad31b13e85f997d8153f3637e52a.png"}
+## {data-background-image="https://i.pinimg.com/originals/ae/0f/ad/ae0fad31b13e85f997d8153f3637e52a.png" data-background-transition="slide-in fade-out"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A possibilidade de separar a estrutura da vedação era uma coisa
@@ -1024,7 +1027,7 @@ de Semper.
 
 ![Henri Labrouste, arquiteto, Biblioteca nacional da França, sala de leitura principal, 1860. Foto: [Émilie Groleau / [INHA]{.smallcaps}, 2017](https://www.inha.fr/fr/bibliotheque.html)](https://i.pinimg.com/originals/ae/0f/ad/ae0fad31b13e85f997d8153f3637e52a.png){#fig:bnf .outset .slide-bg}
 
-## Os quatro elementos da arquitetura ## {data-background-image="https://i.pinimg.com/originals/ae/0f/ad/ae0fad31b13e85f997d8153f3637e52a.png" data-background-opacity="0.25"}
+## Os quatro elementos da arquitetura ## {data-background-image="https://i.pinimg.com/originals/ae/0f/ad/ae0fad31b13e85f997d8153f3637e52a.png" data-background-opacity="0.25" data-background-transition="fade-in slide-out"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Só que esses dois elementos, a realização construtiva da cabana, são
@@ -1042,7 +1045,7 @@ elementos de Semper têm, portanto, uma hierarquia clara:
 4. Vedação
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-background-image="https://i.pinimg.com/originals/d2/96/0d/d2960d3e3f3e81b9f5f445011cfd30d0.jpg" data-background-size="contain" data-background-opacity="0.25"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os quatro elementos se resumem, no fim das contas, às três partes da
@@ -1093,6 +1096,12 @@ elaboração tardia, autoconsciente e autoral no ofício erudito da
 arquitetura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+<figure class="third">
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg/1072px-Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg)
+![](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg)
+![](https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png){.line}
+</figure>
+
 ## Cabanas primitivas e modernas ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -1100,7 +1109,13 @@ A correspondência direta e necessária entre o sistema construtivo e a
 aparência arquitetônica é uma justificativa primordial em muitas teorias
 da arquitetura, tradicionais ou modernas. Mais ainda, a cabana
 primordial em madeira é um arquétipo constantemente reatualizado em
-rituais religiosos de várias culturas do mundo todo. Um dos casos mais
+rituais religiosos de várias culturas do mundo todo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Um dos casos mais
 bem documentados é o de rituais xintoístas de fertilidade no Japão;
 comunidades de fazendeiros constroem cabanas com madeira verde, que são
 queimadas ao fim da celebração. Essa prática popular foi documentada
@@ -1201,12 +1216,10 @@ em vez de projeto preferimos falar em composição: organizar e modificar
 formas ou princípios formais preexistentes [@gabriel:2004classical].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-------
+:::::::::::::::::::::::::::::::::::::::::::::: {#fig:rkrier-basic .half}
+![tipos primários](https://i.pinimg.com/originals/89/b4/56/89b456c0021b5b85c3a6acd0fb766ee0.png){#fig:rkrier-basicA}
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:rkrier-basic}
-<div class="r-stack .half">![tipos primários](https://i.pinimg.com/originals/89/b4/56/89b456c0021b5b85c3a6acd0fb766ee0.png){#fig:rkrier-basicA .fragment .current-visible}
-
-![exemplos históricos](https://i.pinimg.com/originals/43/d7/4d/43d74d3154cd364b8ce2be5061834574.png){#fig:rkrier-basicB .fragment .current-visible} </div>
+![exemplos históricos](https://i.pinimg.com/originals/43/d7/4d/43d74d3154cd364b8ce2be5061834574.png){#fig:rkrier-basicB}
 
 Rob Krier, arquétipos formais em *Architectural Composition*
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1215,17 +1228,56 @@ Rob Krier, arquétipos formais em *Architectural Composition*
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Esboço, estudo, épura e arte-final
-- Posicionamento dos desenhos
 - Escala gráfica e orientação do norte
 - Simetria e não redundância dos desenhos
 - Onde cortar
-- Proporção de cheios e vazios, poché e mosaico
+- Contraste de cheios e vazios
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
 ![Donald M. Kirkpatrick, esboço de uma *loggia*, reproduzido em Harbeson, *Study of Architectural Design*](https://hcommons.org/app/uploads/sites/1002372/2022/06/harbeson-mdp.39015014100054-seq_27.png){#fig:kirpatrick-esquisse .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-visibility="hidden"}
+
+No esboço da loggia ao lado e na composição de prancha abaixo
+([@fig:entroncamento]), vemos algumas das características principais da
+apresentação de desenhos no método acadêmico:
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Exemplo de composição de prancha vertical com planta, elevação, margem, escala gráfica e título](https://cdn.palazzo.arq.br/portfolio/1080px-pt-entroncamento-camoes-IB-IA-prancha.jpg){#fig:entroncamento}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+- Desenhos alinhados entre si para facilitar a reconstituição mental da
+  volumetria;
+- Entrada principal do edifício sempre voltada para baixo nas plantas, e
+  para dentro da prancha nos cortes;
+- Escala gráfica posicionada entre os desenhos, para facilitar a
+  referência;
+- Contraste forte entre a hachura dos planos de corte e os vazios dos
+  espaços;
+- Margem da prancha bem assertiva, com espaço generoso para a borda da
+  folha.
+- Carimbo da prancha forma parte da composição.
+
+## {.slide-only}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::: {.column .incremental width=50%}
+- Desenhos alinhados entre si
+- Entrada principal para baixo nas plantas, e
+  para dentro da prancha nos cortes;
+- Escala gráfica posicionada entre os desenhos
+- Contraste forte entre a hachura dos planos de corte e os vazios dos
+  espaços;
+- Margem da prancha bem assertiva, com espaço generoso
+- Carimbo da prancha forma parte da composição;
+:::
+::: {.column width=50%}
+![Exemplo de composição de prancha vertical com planta, elevação, margem, escala gráfica e título](https://cdn.palazzo.arq.br/portfolio/1080px-pt-entroncamento-camoes-IB-IA-prancha.jpg){style="border: 0.5px solid #000;"}
+:::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Estudo analítico ##
