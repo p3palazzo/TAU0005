@@ -1153,6 +1153,47 @@ sequência, a construção arquitravada.
 
 # Projeto e representação #
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Agora que vamos começar um curso de arquitetura tradicional, nós temos
+que manejar as ferramentas próprias da arquitetura tradicional. Já vimos
+que a arquitetura moderna é diferente da tradicional no uso de materiais
+e processos construtivos industrializados. Também vimos como a relação
+entre tempo e lugar é diferente na visão tradicional e na moderna da
+arquitetura.
+
+É claro que tudo isso diz respeito acima de tudo aos materiais da
+construção e ao trabalho manual de construir, mas não é só isso. Para
+fazer arquitetura tradicional, nós temos que *visualizar* o projeto de
+um modo que nos faça prestar atenção aos elementos e aos processos
+construtivos tradicionais, isto é, artesanais. Os instrumentos que nós
+temos para visualizar a arquitetura, tanto a tradicional quanto a
+moderna, são os desenhos e as maquetes.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
+<i class="fas fa-vr-cardboard"></i>
+
+: Não vamos falar aqui sobre a realidade virtual porque essa forma de
+  visualização é ela própria um produto gerado a partir de desenhos e
+  maquetes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+Então, no que a visualização da arquitetura tradicional difere da
+visualização da arquitetura moderna? A principal diferença está em como
+a composição da arquitetura tradicional quer chamar a atenção para a
+materialidade da construção --- as dimensões, as texturas e o peso dos
+materiais ---, enquanto que o projeto arquitetônico moderno em geral
+abstrai essa materialidade e tenta fazer com que a construção pareça um
+conjunto de linhas e superfícies que podem ser manipulados
+arbitrariamente, talvez até à revelia da lei da gravidade.
+
+Essa diferença vai se refletir em algumas convenções ou costumes que
+seguimos para fazer desenhos arquitetônicos ou construir maquetes de
+edifícios, por mais que as técnicas básicas sejam as mesmas. Vocês vão
+aprender essas técnicas básicas de desenho e maquete em outras
+disciplinas, portanto aqui vamos nos concentrar só nas particularidades
+da arquitetura tradicional.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Projeções geométricas ##
 
 ------
@@ -1164,8 +1205,12 @@ sequência, a construção arquitravada.
 ------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Giuliano da Sangallo (atribuição), Cidade ideal, c. 1480–84, dita [Tábua de Baltimore. Walters Art Museum](https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg){#fig:baltimore}
+![Giuliano da Sangallo (atribuição), Cidade ideal, c. 1480–84, dita [Tábua de Baltimore. Walters Art Museum][]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg){#fig:baltimore}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Tábua de Baltimore. Walters Art Museum]: https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg
+
+<!--_-->
 
 ------
 
