@@ -1176,16 +1176,53 @@ moderna, são os desenhos e as maquetes.
   visualização é ela própria um produto gerado a partir de desenhos e
   maquetes.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Então, no que a visualização da arquitetura tradicional difere da
-visualização da arquitetura moderna? A principal diferença está em como
-a composição da arquitetura tradicional quer chamar a atenção para a
+visualização da arquitetura moderna? A principal diferença vem da
+própria diferença, que já vimos, entre a materialidade da construção
+tradicional e a abstração da arquitetura moderna.
+
+A composição da arquitetura tradicional quer chamar a atenção para a
 materialidade da construção --- as dimensões, as texturas e o peso dos
-materiais ---, enquanto que o projeto arquitetônico moderno em geral
+materiais. Neste pavilhão do arquiteto contemporâneo Demetri Porphyrios
+([@fig:porphyrios]), cada elemento construtivo expressa a força do seu
+material: colunas esbeltas em madeira, colunas espessas em tijolo; os
+caibros em madeira têm balanços amplos, já a plataforma em pedra se
+aproxima da forma estável de uma pirâmide.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Demetri Porphyrios, arquiteto, pavilhão no Rockefeller Park, Nova York, 1992. Foto: [Beyond My Ken, 2014][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rockefeller_Park_Pavilion_Battery_Park_City.jpg/1280px-Rockefeller_Park_Pavilion_Battery_Park_City.jpg){#fig:porphyrios .outset}
+
+[Beyond My Ken, 2014]: https://commons.wikimedia.org/wiki/File:Rockefeller_Park_Pavilion_Battery_Park_City.jpg
+
+------
+
+![Ludwig Mies van der Rohe, arquiteto, pavilhão da Alemanha na exposição universal de Barcelona, 1929 (reconstruído em 1984). Foto: [Christian Gänshirt, 2012][]](https://i.pinimg.com/1200x/9f/6e/73/9f6e73e63d25aac03963007b86650bf4.jpg){#fig:barcelona}
+
+[Christian Gänshirt, 2012]: https://commons.wikimedia.org/wiki/File:Barcelona_Pavilion_photo_Christian_Gänshirt_2012.JPG
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O projeto arquitetônico moderno em geral, pelo contrário,
 abstrai essa materialidade e tenta fazer com que a construção pareça um
 conjunto de linhas e superfícies que podem ser manipulados
 arbitrariamente, talvez até à revelia da lei da gravidade.
 
+No famoso pavilhão de Mies van der Rohe em Barcelona ([@fig:barcelona]),
+os materiais são trabalhados de modo a quebrar a percepção da solidez
+construtiva: os pilares são cromados para refletirem a luz e ficarem
+menos visíveis, os blocos de travertino das divisórias formam uma grelha
+em vez de uma amarração de alvenaria, e as coberturas são lajes planas e
+finas que não remetem ao papel normal de um telhado, que é escorrer a
+água da chuva.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Essa diferença vai se refletir em algumas convenções ou costumes que
 seguimos para fazer desenhos arquitetônicos ou construir maquetes de
 edifícios, por mais que as técnicas básicas sejam as mesmas. Vocês vão
