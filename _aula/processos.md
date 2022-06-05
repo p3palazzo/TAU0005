@@ -1224,7 +1224,28 @@ formas ou princípios formais preexistentes [@gabriel:2004classical].
 Rob Krier, arquétipos formais em *Architectural Composition*
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Método acadêmico de projeto e representação ##
+## {data-visibility="hidden"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Donald M. Kirkpatrick, esboço de uma *loggia*, reproduzido em Harbeson, *Study of Architectural Design*](https://hcommons.org/app/uploads/sites/1002372/2022/06/harbeson-mdp.39015014100054-seq_27.png){#fig:kirpatrick-esquisse .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
+1. *Croquis* lança o traçado regulador, a volumetria e as proporções do
+   conjunto, assim como a implantação;
+2. *Esboço* estabelece os elementos de arquitetura e da composição e
+   suas dimensões específicas em planta, corte e fachada;
+3. *Estudo* preliminar resolve os detalhes construtivos, funcionais e
+   plásticos mais aparentes;
+4. *Épura*, se necessário, confirma o dimensionamento e o traçado exato
+   dos elementos construtivos;
+5. Arte-final ou *renderizado* (à mão) prepara o projeto para
+   apresentação ao júri ou ao cliente.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {.slide-only}
+
+## Método acadêmico de representação ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Esboço, estudo, épura e arte-final
@@ -1232,12 +1253,6 @@ Rob Krier, arquétipos formais em *Architectural Composition*
 - Simetria e não redundância dos desenhos
 - Onde cortar
 - Contraste de cheios e vazios
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-------
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Donald M. Kirkpatrick, esboço de uma *loggia*, reproduzido em Harbeson, *Study of Architectural Design*](https://hcommons.org/app/uploads/sites/1002372/2022/06/harbeson-mdp.39015014100054-seq_27.png){#fig:kirpatrick-esquisse .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-visibility="hidden"}
