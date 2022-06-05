@@ -1153,6 +1153,84 @@ sequência, a construção arquitravada.
 
 # Projeto e representação #
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Agora que vamos começar um curso de arquitetura tradicional, nós temos
+que manejar as ferramentas próprias da arquitetura tradicional. Já vimos
+que a arquitetura moderna é diferente da tradicional no uso de materiais
+e processos construtivos industrializados. Também vimos como a relação
+entre tempo e lugar é diferente na visão tradicional e na moderna da
+arquitetura.
+
+É claro que tudo isso diz respeito acima de tudo aos materiais da
+construção e ao trabalho manual de construir, mas não é só isso. Para
+fazer arquitetura tradicional, nós temos que *visualizar* o projeto de
+um modo que nos faça prestar atenção aos elementos e aos processos
+construtivos tradicionais, isto é, artesanais. Os instrumentos que nós
+temos para visualizar a arquitetura, tanto a tradicional quanto a
+moderna, são os desenhos e as maquetes.
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
+<i class="fas fa-vr-cardboard"></i>
+
+: Não vamos falar aqui sobre a realidade virtual porque essa forma de
+  visualização é ela própria um produto gerado a partir de desenhos e
+  maquetes.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Então, no que a visualização da arquitetura tradicional difere da
+visualização da arquitetura moderna? A principal diferença vem da
+própria diferença, que já vimos, entre a materialidade da construção
+tradicional e a abstração da arquitetura moderna.
+
+A composição da arquitetura tradicional quer chamar a atenção para a
+materialidade da construção --- as dimensões, as texturas e o peso dos
+materiais. Neste pavilhão do arquiteto contemporâneo Demetri Porphyrios
+([@fig:porphyrios]), cada elemento construtivo expressa a força do seu
+material: colunas esbeltas em madeira, colunas espessas em tijolo; os
+caibros em madeira têm balanços amplos, já a plataforma em pedra se
+aproxima da forma estável de uma pirâmide.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Demetri Porphyrios, arquiteto, pavilhão no Rockefeller Park, Nova York, 1992. Foto: [Beyond My Ken, 2014][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rockefeller_Park_Pavilion_Battery_Park_City.jpg/1280px-Rockefeller_Park_Pavilion_Battery_Park_City.jpg){#fig:porphyrios .outset}
+
+[Beyond My Ken, 2014]: https://commons.wikimedia.org/wiki/File:Rockefeller_Park_Pavilion_Battery_Park_City.jpg
+
+------
+
+![Ludwig Mies van der Rohe, arquiteto, pavilhão da Alemanha na exposição universal de Barcelona, 1929 (reconstruído em 1984). Foto: [Christian Gänshirt, 2012][]](https://i.pinimg.com/1200x/9f/6e/73/9f6e73e63d25aac03963007b86650bf4.jpg){#fig:barcelona}
+
+[Christian Gänshirt, 2012]: https://commons.wikimedia.org/wiki/File:Barcelona_Pavilion_photo_Christian_Gänshirt_2012.JPG
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O projeto arquitetônico moderno em geral, pelo contrário,
+abstrai essa materialidade e tenta fazer com que a construção pareça um
+conjunto de linhas e superfícies que podem ser manipulados
+arbitrariamente, talvez até à revelia da lei da gravidade.
+
+No famoso pavilhão de Mies van der Rohe em Barcelona ([@fig:barcelona]),
+os materiais são trabalhados de modo a quebrar a percepção da solidez
+construtiva: os pilares são cromados para refletirem a luz e ficarem
+menos visíveis, os blocos de travertino das divisórias formam uma grelha
+em vez de uma amarração de alvenaria, e as coberturas são lajes planas e
+finas que não remetem ao papel normal de um telhado, que é escorrer a
+água da chuva.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essa diferença vai se refletir em algumas convenções ou costumes que
+seguimos para fazer desenhos arquitetônicos ou construir maquetes de
+edifícios, por mais que as técnicas básicas sejam as mesmas. Vocês vão
+aprender essas técnicas básicas de desenho e maquete em outras
+disciplinas, portanto aqui vamos nos concentrar só nas particularidades
+da arquitetura tradicional.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Projeções geométricas ##
 
 ------
@@ -1164,8 +1242,12 @@ sequência, a construção arquitravada.
 ------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-![Giuliano da Sangallo (atribuição), Cidade ideal, c. 1480–84, dita [Tábua de Baltimore. Walters Art Museum](https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg){#fig:baltimore}
+![Giuliano da Sangallo (atribuição), Cidade ideal, c. 1480–84, dita [Tábua de Baltimore. Walters Art Museum][]](https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg){#fig:baltimore}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Tábua de Baltimore. Walters Art Museum]: https://commons.wikimedia.org/wiki/File:Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg
+
+<!--_-->
 
 ------
 
