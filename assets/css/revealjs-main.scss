@@ -46,9 +46,9 @@ html {
     padding-right: 10px;
   }
   dt, h3, h4, h5 {
-    @extend .smallcaps;
+    font-family: $mainFont;
     font-size: $heading2Size;
-    font-weight: 500;
+    font-variant: small-caps;
   }
   dd {
     display: none;
@@ -141,7 +141,9 @@ html {
     // Make sure images don't overflow their containers.
     // Give room for 2-line captions @ 1080p.
     h2 + figure img,
-    h2 + div img {
+    h2 + div img,
+    h2 + aside + figure img,
+    h2 + aside + div img {
       max-height: calc(100vh - 240px);
     }
     figure,
@@ -150,6 +152,7 @@ html {
     }
     img {
       object-fit: contain;
+      max-width: 100%;
     }
     // Images that float over other content
     img.overlay-slide,
@@ -217,7 +220,7 @@ html {
   .half,
   .third {
     & > figure {
-      display: inline;
+      display: inline-block;
     }
   }
 

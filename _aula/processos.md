@@ -27,6 +27,71 @@ sidebar:
     - Ramos e Tourinho, ["O Ensaio sobre a arquitetura, de Marc-Antoine
       Laugier: um tratado da simplicidade"](https://revistaarqurb.com.br/arqurb/article/view/276)
     - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) vi–xi, 1–11
+
+beaux-arts:
+- image_path: https://hcommons.org/app/uploads/sites/1002372/2022/06/1080p-gabriel-classical-01.51-01.52-grids.png
+  title     : 1 Traçado regulador
+  caption: >
+    Traçados reguladores típicos para plantas (esquerda) e elevações
+    (direita), segundo Jean-François Gabriel
+  excerpt: >
+    O croquis lança o traçado regulador com as proporções gerais e a
+    volumetria do conjunto, e conforme o caso a implantação no sítio.
+    Desde já é importate ter um senso da ordem de grandeza dos espaços.
+- image_path: https://hcommons.org/app/uploads/sites/1002372/2022/06/1080p-harbeson-mdp.39015014100054-seq_27.png
+  title     : 2 Esboço
+  caption: >
+    Donald M. Kirkpatrick, esboço de uma galeria. Reproduzido em
+    Harbeson, *Study of Architectural Design*
+  excerpt: >
+    É a etapa mais determinante da sequência; estabelece os elementos de
+    arquitetura e da composição e suas dimensões e proporções
+    específicas em planta, corte e fachada, assim como as proporções
+    entre cheios e vazios e a modenatura que gera o jogo de luz e sombra
+    nas elevações.
+- image_path: https://hcommons.org/app/uploads/sites/1002372/2022/06/1080p-draftingroomprac00clut-0018.png
+  title     : 3 Estudo preliminar
+  caption: >
+    Thomas Hastings, arquiteto, estudo para o portal de um prédio de
+    escritórios. Reproduzido em Clute, *Drafting Room Practice*
+  excerpt: >
+    Define o dimensionamento aproximado da estrutura e, com isso,
+    confirma as relações de cheios e vazios lançadas no esboço. Resolve
+    os detalhes construtivos, funcionais e decorativos do projeto.
+    A paginação de piso e teto precisa ser definida aqui, antes de
+    passar para a arte-final.
+- image_path: https://hcommons.org/app/uploads/sites/1002372/2022/06/1080p-lesconcoursdarch04ecol_0350.jpg
+  title     : 4 Épura
+  caption: >
+    Raymond, projeto estrutural para o saguão de um museu. Escola de
+    Belas Artes de Paris 1909–1910
+  excerpt: >
+    Calcula, confirma e cota as medidas e o traçado exato dos elementos
+    construtivos. Esta etapa só existe em trabalhos de disciplinas
+    técnicas específicas, geralmente acompanhado de memória de cálculo,
+    ou no desenvolvimento de um projeto executivo.
+- image_path: https://hcommons.org/app/uploads/sites/1002372/2022/06/1080p-harbeson-mdp.39015014100054-seq_57-59.png
+  title     : 5 Composição de prancha
+  caption: >
+    Croquis de composição de pranchas em Harbeson, *Study of
+    Architectural Design*
+  excerpt: >
+    Primeiro passo para fazer a arte-final. Nesta etapa se estabelece a
+    escala definitiva de cada desenho. Por meio de croquis ou colagens,
+    se estuda a disposição de todos eles na(s) prancha(s). O objetivo é
+    reunir um conjunto claro e informativo, equilibrado entre vistas
+    gerais e detalhes.
+- image_path: https://hcommons.org/app/uploads/sites/1002372/2022/06/1080p-deglane-palais_beaux_arts-1881.jpg
+  title     : 6 Arte-final
+  caption: >
+    Henri Deglane, fachada do projeto para o palácio das Belas-Artes de
+    Paris (Petit palais), 1881
+  excerpt: >
+    Em geral feita com base no estudo preliminar, passa a limpo e
+    renderiza o projeto para entrega à banca examinadora ou ao cliente.
+    A arte-final de um estudo preliminar *não* usa cotas, apenas escala
+    gráfica e eventualmente calungas. Tradicionalmente, é feita a
+    nanquim com cores e sombras em aquarela. Raramente usa perspectiva.
 ---
 
 # Ordem e lugar #
@@ -1160,7 +1225,11 @@ que a arquitetura moderna é diferente da tradicional no uso de materiais
 e processos construtivos industrializados. Também vimos como a relação
 entre tempo e lugar é diferente na visão tradicional e na moderna da
 arquitetura.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Visualizar a arquitetura ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 É claro que tudo isso diz respeito acima de tudo aos materiais da
 construção e ao trabalho manual de construir, mas não é só isso. Para
 fazer arquitetura tradicional, nós temos que *visualizar* o projeto de
@@ -1195,7 +1264,7 @@ caibros em madeira têm balanços amplos, já a plataforma em pedra se
 aproxima da forma estável de uma pirâmide.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Demetri Porphyrios, arquiteto, pavilhão no Rockefeller Park, Nova York, 1992. Foto: [Beyond My Ken, 2014][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rockefeller_Park_Pavilion_Battery_Park_City.jpg/1280px-Rockefeller_Park_Pavilion_Battery_Park_City.jpg){#fig:porphyrios .outset}
+![Demetri Porphyrios, arquiteto, pavilhão no parque Rockefeller, Nova York, 1992. Foto: [Beyond My Ken, 2014][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rockefeller_Park_Pavilion_Battery_Park_City.jpg/1280px-Rockefeller_Park_Pavilion_Battery_Park_City.jpg){#fig:porphyrios .outset}
 
 [Beyond My Ken, 2014]: https://commons.wikimedia.org/wiki/File:Rockefeller_Park_Pavilion_Battery_Park_City.jpg
 
@@ -1223,19 +1292,49 @@ finas que não remetem ao papel normal de um telhado, que é escorrer a
 ------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Essa diferença vai se refletir em algumas convenções ou costumes que
-seguimos para fazer desenhos arquitetônicos ou construir maquetes de
-edifícios, por mais que as técnicas básicas sejam as mesmas. Vocês vão
-aprender essas técnicas básicas de desenho e maquete em outras
-disciplinas, portanto aqui vamos nos concentrar só nas particularidades
-da arquitetura tradicional.
+Essa diferença vai se refletir em algumas convenções ou costumes
+diferentes que seguimos para fazer desenhos arquitetônicos ou construir
+maquetes de edifícios tradicionais, por mais que as técnicas básicas
+sejam as mesmas do projeto moderno ([@fig:lalive; @fig:mies-brick]).
+Vocês vão aprender essas técnicas básicas de desenho e maquete em outras
+disciplinas, portanto aqui vamos nos concentrar nas particularidades da
+arquitetura tradicional.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Projeções geométricas ##
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.half .full}
+![Vincent Barré, arquiteto, planta do primeiro andar do *hôtel* La Live, Paris, segunda metade do século [XVIII]{.smallcaps}. [Museu Carnavalet D.14938][]](https://hcommons.org/app/uploads/sites/1002372/2022/06/barre_jean-benoit_vincent_plan_du_premier_etage_de_lhotel_la_live_situe_a_langle_de_la_rue_taitbout__446505.jpg){#fig:lalive}
+
+![Mies van der Rohe, projeto para uma casa de campo em tijolos, 1923](https://hcommons.org/app/uploads/sites/1002372/2022/06/mies-1923-brick-country-house.png){#fig:mies-brick .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Museu Carnavalet D.14938]: https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/plan-du-premier-etage-de-l-hotel-la-live-situe-a-l-angle-de-la-rue-taitbout#infos-principales
+
+## {data-visibility="hidden"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+* * * * * *
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Projeções lineares e paralelas ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Toda visualização da arquitetura se baseia em como representar um
+edifício grande e em três dimensões num espaço reduzido e, no caso dos
+desenhos, em duas dimensões.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ------
 
-![Desenho infantil de uma rua com casas, reproduzido por [Kmetová e Lehocká][]](https://i.pinimg.com/1200x/6c/77/0c/6c770c87a24b45a7f17756956d72f51e.jpg){#fig:child .outset}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+*Projeção* é o ato de se representar um objeto tridimensional em duas
+dimensões usando um método consistente. As crianças, por exemplo,
+costumam projetar construções, pessoas e outros objetos sempre mostrando
+uma vista frontal característica, mesmo quando a rua aparece em planta
+([@fig:infantil]). Pode parecer estranho para os adultos, mas é
+consistente.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Desenho infantil de uma rua com casas, reproduzido por [Kmetová e Lehocká][]](https://i.pinimg.com/1200x/6c/77/0c/6c770c87a24b45a7f17756956d72f51e.jpg){#fig:infantil .outset}
 
 [Kmetová e Lehocká]: https://doi.org/10.3390/math9182185
 
@@ -1249,7 +1348,30 @@ da arquitetura tradicional.
 
 <!--_-->
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Uma das formas mais comuns de projeção hoje em dia é a perspectiva. Essa
+forma de representar a terceira dimensão no plano do desenho foi
+inventada várias vezes em diferentes culturas desde a Antiguidade, mas o
+método mais usado hoje em dia, a perspectiva linear com um ou mais
+pontos de fuga, foi inventado no início do século [XV]{.smallcaps} na
+Itália ([@fig:baltimore]). A perspectiva linear é especialmente
+interessante para dar uma boa percepção volumétrica do espaço, mais até
+do que dos objetos; o ponto fraco da perspectiva linear, do ponto de
+vista mais analítico, é que não é possível medir comprimentos reais a
+partir das linhas oblíquas no desenho.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Outras projeções tratam de representar as três dimensões dos objetos no
+desenho, só que mantendo alguma consistência nas medidas e na orientação
+das linhas. Isto é, linhas paralelas entre si na realidade são
+representadas como paralelas entre si no desenho, em vez de convergirem
+para um ponto de fuga. Uma das mais usadas na arte tradicional é a
+projeção cavaleira, que é bastante característica da pintura chinesa
+([@fig:qiu-ying]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
 ![Projeção cavaleira: Qiu Ying, Manhã de primavera no palácio Han, original da primeira metade do século [XVI]{.smallcaps}, cópia da segunda metade do século [XVII]{.smallcaps}. [Walters Art Museum](https://commons.wikimedia.org/wiki/File:Qiu_Ying_-_Spring_Morning_in_the_Han_Palace_-_Walters_3548_-_View_I.jpg)](https://upload.wikimedia.org/wikipedia/commons/3/38/Qiu_Ying_-_Spring_Morning_in_the_Han_Palace_-_Walters_3548_-_View_I.jpg){#fig:qiu-ying}
@@ -1265,81 +1387,222 @@ da arquitetura tradicional.
 
 <!--_-->
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Um método ainda mais consistente de se respeitar medidas de comprimento
+num desenho é a projeção axonométrica com os eixos cartesianos numa
+inclinação de 45° entre si. Esse tipo de projeção é bastante comum na
+pintura japonesa tradicional ([@fig:kiritsubo]) mas também é muito usado
+no desenho de arquitetura contemporâneo. Ele permite tirar medidas
+corretas em todos os três eixos dimensionais.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ------
 
-![Planta–elevação: João da Rocha Fragoso, [Mappa architectural do Rio de Janeiro](https://commons.wikimedia.org/w/index.php?title=File:Mappa_architectural_do_Rio_de_Janeiro.pdf), pr. 3, 1874](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mappa_architectural_do_Rio_de_Janeiro.pdf/page3-713px-Mappa_architectural_do_Rio_de_Janeiro.pdf.jpg){#fig:fragoso}
-
-------
-
-![Francis D.K. Ching, projeção ortográfica do terceiro diedro](https://hcommons.org/app/uploads/sites/1002372/2022/06/ching-desenho-146-3diedro.png){#fig:ching-3diedro .line .outset}
-
-------
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Francis D.K. Ching, esquema da projeção de uma planta baixa](https://hcommons.org/app/uploads/sites/1002372/2022/06/ching-desenho-157.png){#fig:ching-plan .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: slide-only
+![Desenho infantil de uma rua com casas, reproduzido por [Kmetová e Lehocká][]](https://i.pinimg.com/1200x/6c/77/0c/6c770c87a24b45a7f17756956d72f51e.jpg)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-- Escala
-- Desenhos convencionais
-  - Cortes sempre pelo eixo de simetria e passando pelos vãos
-  - No mínimo um corte perpendicular à elevação principal, em geral dois cortes
-  - Os cortes são tratados como elevações interiores
-- Desenho à mão
+O importante é entender que todas essas formas de projetar os objetos
+são convenções, ou seja, costumes. Esses costumes têm a ver tanto com
+tradições culturais quanto com as necessidades específicas de cada caso
+no que diz respeito às informações que precisamos extrair dos desenhos.
+Por exemplo, podemos achar que o desenho infantil da [@fig:infantil] é
+um modo de representação que nós, adultos, temos que superar.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mas essa projeção é perfeitamente válida se a nossa intenção for dar uma
+ideia da paisagem urbana, destacando alguns edifícios principais e
+mostrando a trama de casas em várias ruas ao mesmo tempo. Foi isso que o
+engenheiro militar Rocha Fragoso fez no *Mappa architectural do Rio de
+Janeiro* que ele publicou em 1874 ([@fig:fragoso]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Planta–elevação: João da Rocha Fragoso, [Mappa architectural do Rio de Janeiro](https://commons.wikimedia.org/w/index.php?title=File:Mappa_architectural_do_Rio_de_Janeiro.pdf), pr. 3, 1874](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mappa_architectural_do_Rio_de_Janeiro.pdf/page3-713px-Mappa_architectural_do_Rio_de_Janeiro.pdf.jpg){#fig:fragoso}
+
+## Projeções ortográficas ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Francis D.K. Ching, projeção ortográfica do terceiro diedro](https://hcommons.org/app/uploads/sites/1002372/2022/06/ching-desenho-146-3diedro.png){#fig:ching-3diedro .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Apesar de existir essa grande variedade de projeções possíveis, a
+prática da arquitetura em quase todas as sociedades e culturas ao longo
+da história tende a privilegiar um subconjunto bastante específico de
+projeções. Essas projeções arquitetônicas são aquelas que talvez não
+deem uma ideia tão intuitiva e imediata da forma tridimensional, mas
+elas transmitem informações importantes para o processo construtivo de
+modo preciso, claro e sistemático. Chamamos a essas projeções de
+*ortográficas* porque elas rebatem o volume do objeto em planos
+ortogonais uns aos outros, usando linhas de projeção perpendiculares a
+cada um desses planos [@ching:2012desenho] ([@fig:ching-3diedro]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Para desenhar um edifício seguindo as convenções da arquitetura, podemos
+posicionar os planos ortogonais do lado de fora do edifício, como na
+[@fig:ching-3diedro]; isso vai gerar elevações, ou vistas verticais do
+exterior do edifício, e a planta de cobertura, uma vista horizontal
+tomada de cima. Além desses desenhos, temos duas outras representações
+muito úteis para a arquitetura, onde os planos atravessam o edifício: a
+planta ([@fig:ching-plan]), usando um plano horizontal, e o corte
+([@fig:ching-corte]), usando um plano vertical.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::: {#fig:ching-proje .columns}
+::: {.column width=42%}
+![planta](https://hcommons.org/app/uploads/sites/1002372/2022/06/ching-desenho-157.png){#fig:ching-plan .line}
+:::
+::: {.column width=58%}
+![corte](https://hcommons.org/app/uploads/sites/1002372/2022/06/ching-desenho-181.png){#fig:ching-corte .line}
+:::
+Francis D.K. Ching, esquema de projeções ortográficas com planos de
+projeção
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-visibility="hidden"}
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--info
+<i class="fas fa-pencil-ruler"></i> Jogo rápido!
+
+: Identifique as projeções paralelas dos desenhos que dão origem à
+  planta e ao corte na @fig:ching-proje.
+
+<i class="far fa-eye"></i> Olho vivo!
+
+: Repare como os planos de projeção da planta e do corte estão
+  posicionados de modo a passarem pelos vãos das portas e das janelas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::: {#fig:sumer-plan .half .full}
+![casa em Umma, [Vorderasiatisches Museum, Berlim][]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/House_in_Umma-Ur_III.jpg/866px-House_in_Umma-Ur_III.jpg){#fig:umma}
+
+![templo? [John Rylands Library, Universidade de Manchester [JRL]{.smallcaps} 0930][]](https://hcommons.org/app/uploads/sites/1002372/2022/06/Ur-building-plan-Rylands-P112404-crop.jpg){#fig:jrl0930}
+
+Plantas com cotas em blocos de argila, Suméria, c. 2100–2000 a.C.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[John Rylands Library, Universidade de Manchester [JRL]{.smallcaps} 0930]: https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&ObjectID=P112404
+
+[Vorderasiatisches Museum, Berlim]: https://commons.wikimedia.org/wiki/Category:Vorderasiatisches_Museum_Berlin_-_Sumerian_art
+
+<!--_-->
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A planta é uma das formas de representação mais antigas e difundidas.
+Qualquer edifício complexo, em qualquer cultura, vai ser representado em
+planta antes de ser construído. A planta também é um instrumento
+cadastral muito difundido para documentar edifícios existentes com
+vários propósitos --- não só para intervenções, mas também, por exemplo,
+com finalidades administrativas ou fiscais.
+
+Conhecemos plantas de arquitetura datando de mais de 4 mil anos atrás,
+na antiga Suméria ([@fig:sumer-plan]). Mesmo essas plantas sendo muito
+esquemáticas, elas mostram uma preocupação com a materialidade da
+construção: todas as paredes têm espessura, ainda que essas espessuras e
+os vãos das portas não pareçam muito bem proporcionados ou na escala
+correta.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Projeto e composição ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O senso de proporção e escala vai ser uma das características mais
+importantes do desenho arquitetônico tradicional, à medida que ele vai
+se desenvolvendo e se padronizando na Europa da Idade Média até a Idade
+Moderna. A escala precisa dos desenhos e a percepção da
+proporcionalidade entre as partes do edifício são importantes nesse
+contexto porque a arquitetura tradicional funciona à base de uma
+*composição* de elementos tangíveis, que podem ser tanto a matéria
+física da construção quanto as formas bem definidas dos espaços vazios.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mas o que é *composição*?
 O conceito moderno de projeto faz referência à transformação de
 requisitos abstratos (programa de necessidades, ideologias) diretamente
 em forma arquitetônica [@pinon:2006teoria]. Em arquitetura tradicional,
 em vez de projeto preferimos falar em composição: organizar e modificar
 formas ou princípios formais preexistentes [@gabriel:2004classical].
+
+Ao longo do tempo, os arquitetos pensaram em muitos sistemas para
+classificar e usar essas formas; o arquiteto pós-moderno Rob Krier
+apresenta na @fig:rkrier-basic uma classificação possível baseada nas
+formas geométricas primárias que dão origem aos volumes. Ao longo deste
+curso, vamos ver alguns outros modos de classificar os elementos da
+arquitetura e da composição. Nenhum deles é intrinsecamente mais correto
+que os outros, mas alguns fazem mais sentido em determinados contextos
+culturais ou tecnológicos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::: {#fig:rkrier-basic .half}
-![tipos primários](https://i.pinimg.com/originals/89/b4/56/89b456c0021b5b85c3a6acd0fb766ee0.png){#fig:rkrier-basicA}
-
-![exemplos históricos](https://i.pinimg.com/originals/43/d7/4d/43d74d3154cd364b8ce2be5061834574.png){#fig:rkrier-basicB}
-
-Rob Krier, arquétipos formais em *Architectural Composition*
+::::::::::::::::::::::::::::::::::: {#fig:rkrier-basic .columns .outset}
+::: {.column width="49.5%"}
+![tipos primários](https://i.pinimg.com/originals/89/b4/56/89b456c0021b5b85c3a6acd0fb766ee0.png){#fig:rkrier-basicA .line}
+:::
+::: {.column width="50.5%"}
+![exemplos históricos](https://i.pinimg.com/originals/43/d7/4d/43d74d3154cd364b8ce2be5061834574.png){#fig:rkrier-basicB .line}
+:::
+Rob Krier, arquétipos formais em *Architectural Composition* (1988)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-visibility="hidden"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Donald M. Kirkpatrick, esboço de uma *loggia*, reproduzido em Harbeson, *Study of Architectural Design*](https://hcommons.org/app/uploads/sites/1002372/2022/06/harbeson-mdp.39015014100054-seq_27.png){#fig:kirpatrick-esquisse .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: incremental
-1. *Croquis* lança o traçado regulador, a volumetria e as proporções do
-   conjunto, assim como a implantação;
-2. *Esboço* estabelece os elementos de arquitetura e da composição e
-   suas dimensões específicas em planta, corte e fachada;
-3. *Estudo* preliminar resolve os detalhes construtivos, funcionais e
-   plásticos mais aparentes;
-4. *Épura*, se necessário, confirma o dimensionamento e o traçado exato
-   dos elementos construtivos;
-5. Arte-final ou *renderizado* (à mão) prepara o projeto para
-   apresentação ao júri ou ao cliente.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {.slide-only}
 
 ## Método acadêmico de representação ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-- Esboço, estudo, épura e arte-final
-- Escala gráfica e orientação do norte
-- Simetria e não redundância dos desenhos
-- Onde cortar
-- Contraste de cheios e vazios
+Sobre o modo de fazer arquitetura tradicional, já vimos que ele se
+baseia na manipulação de elementos materiais ou espaciais, e que esses
+elementos precisam ser dispostos com um senso de proporção e escala
+entre si e com as pessoas que estudam o desenho ou que usam o espaço.
+No século [XIX]{.smallcaps}, a Escola de Belas-Artes de Paris consolidou
+um método para projetar e representar a arquitetura que sintetiza esses
+requisitos num passo a passo prático:
+
+```{=html}
+<div class="full">
+  {% include feature_row id="beaux-arts" %}
+</div>
+```
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-visibility="hidden"}
+::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .slide-only}
+::: {.column width=50%}
 
-No esboço da loggia ao lado e na composição de prancha abaixo
+#### Traçado regulador #### {.fragment .fade-in-then-semi-out data-fragment-index="1"}
+
+#### Esboço #### {.fragment .fade-in-then-semi-out data-fragment-index="2"}
+
+#### Estudo preliminar #### {.fragment .fade-in-then-semi-out data-fragment-index="3"}
+
+#### Épura #### {.fragment .fade-in-then-semi-out data-fragment-index="4"}
+
+#### Composição de prancha(s) #### {.fragment .fade-in-then-semi-out data-fragment-index="5"}
+
+#### Arte-final (entrega) #### {.fragment .fade-in data-fragment-index="6"}
+
+:::
+::: {.column width=50%}
+<div class="r-stack"> ![Traçados reguladores de plantas e elevações, J. François Gabriel](https://hcommons.org/app/uploads/sites/1002372/2022/06/1080p-gabriel-classical-01.51-01.52-grids.png){.fragment .current-visible data-fragment-index="1"}
+![Esboço de uma galeria, Donald M. Kirkpatrick](https://hcommons.org/app/uploads/sites/1002372/2022/06/harbeson-mdp.39015014100054-seq_27.png){.fragment .current-visible data-fragment-index="2"}
+![Estudo para um prédio de escritórios, Carrère *&* Hastings](https://hcommons.org/app/uploads/sites/1002372/2022/06/1080p-draftingroomprac00clut-0018.png){.fragment .current-visible data-fragment-index="3"}
+![Épura da estrutura de um museu, Raymond](https://hcommons.org/app/uploads/sites/1002372/2022/06/1080p-lesconcoursdarch04ecol_0350.jpg){.fragment .current-visible data-fragment-index="4"}
+![Composições de prancha em croquis, Harbeson](https://hcommons.org/app/uploads/sites/1002372/2022/06/1080p-harbeson-mdp.39015014100054-seq_57-59.png){.fragment .current-visible data-fragment-index="5"}
+![Arte-final de projeto de museu de belas-artes, Henri Deglane](https://hcommons.org/app/uploads/sites/1002372/2022/06/1080p-deglane-palais_beaux_arts-1881.jpg){.fragment .current-visible data-fragment-index="6"} </div>
+:::
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+No esboço da loggia acima e na composição de prancha abaixo
 ([@fig:entroncamento]), vemos algumas das características principais da
 apresentação de desenhos no método acadêmico:
 
@@ -1358,10 +1621,9 @@ apresentação de desenhos no método acadêmico:
 - Margem da prancha bem assertiva, com espaço generoso para a borda da
   folha.
 - Carimbo da prancha forma parte da composição.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {.slide-only}
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: {.columns}
+::::::::::::::::::::::::::::::::::::::::::::::::: {.columns .slide-only}
 ::: {.column .incremental width=50%}
 - Desenhos alinhados entre si
 - Entrada principal para baixo nas plantas, e
@@ -1377,6 +1639,16 @@ apresentação de desenhos no método acadêmico:
 :::
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## {data-visibility="hidden"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+- Escala gráfica e orientação do norte
+- Desenhos convencionais
+  - Cortes sempre pelo eixo de simetria e passando pelos vãos
+  - No mínimo um corte perpendicular à elevação principal, em geral dois cortes
+  - Os cortes são tratados como elevações interiores
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 ## Estudo analítico ##
 
 :::::::::::::::::::::::::::::::::::: {.half #fig:harbeson-analytique}
@@ -1385,6 +1657,44 @@ apresentação de desenhos no método acadêmico:
 ![templo do Amor, por G. Roth](https://i.pinimg.com/originals/63/32/ab/6332ab618716d65d67c3d0ccdeb3aed1.jpg){#fig:harbeson-analytiqueB}
 
 Estudos analíticos reproduzidos em Harbeson, *Study of Architectural Design*
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O estudo analítico, por sua vez, tem sido a porta de entrada no estudo
+do classicismo desde a organização do ensino na Academia de Arquitetura
+em Paris, no século  [XVIII]{.smallcaps}, difundindo-se para o sistema
+as Escolas de Belas-Artes em dezenas de países, inclusive no Brasil, nos
+séculos [XIX]{.smallcaps} e [XX]{.smallcaps}
+([@fig:harbeson-analytique]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na Escola de Belas-Artes
+de Paris, no final do século [XIX]{.smallcaps}, o analítico era uma das
+provas de seleção para o ingresso no curso de Arquitetura
+[@harbeson:1927study; @guadet:1901elements]. Na do Rio de Janeiro, no
+começo do século [XX]{.smallcaps}, era um dos primeiros exercícios
+desenvolvidos pelos alunos ingressantes ([@fig:exemplos]).
+
+Os principais mestres da
+geração modernista dos anos 1920 --- Le Corbusier, Walter Gropius, Lucio
+Costa e muitos outros --- estudaram sob alguma influência do método
+Belas-Artes. Embora eles tenham instituído teorias e sistemas de ensino
+opostos ao método Belas-Artes, a obra desses arquitetos demonstra a
+disciplina, o rigor gráfico e a atenção para proporções e detalhes,
+derivadas dos seus estudos classicistas [@chitham:2005classical].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::: {.columns #fig:exemplos .full}
+::: {.column width=52.3%}
+![](https://i.pinimg.com/originals/e7/42/19/e74219be5068aa18914b27d4fcc6fdfe.jpg){#fig:exemplosA} 
+:::
+::: {.column width=47.7%}
+![observe a representação das juntas entre os blocos de pedra](https://i.pinimg.com/originals/ee/f8/c1/eef8c161b0968701b3eb91494cc0bcde.jpg){#fig:exemplosB}
+:::
+Exemplos de desenhos analíticos de ordens clássicas, [D.W. Bates](http://www.dwbates.com/fine-art)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Importância do detalhe e da volumetria ##
