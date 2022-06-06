@@ -37,6 +37,8 @@ $sans-serif: $global-font-family;
    Other
    ========================================================================== */
 
+$border-radius: 0px;
+
 /*
    Grid
    ========================================================================== */
@@ -49,8 +51,6 @@ $right-sidebar-width-wide: 400px;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-
-$border-color: $gray;
 
 $meta-font-weight: 500;
 $header-font-weight: 300;
