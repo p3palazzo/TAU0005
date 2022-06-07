@@ -647,7 +647,7 @@ construção arquitravada do Mediterrâneo oriental:
 2. Núcleo rígido
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
+## Redundância estrutural ## {data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A primeira solução é uma certa redundância no dimensionamento da
@@ -677,7 +677,7 @@ proporções das colunatas egípcias, persas e gregas são muito
 verticalizadas ([@fig:chipiez-compare]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## Colunatas e paredes ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Além da redundância no dimensionamento da estrutura arquitravada, as
@@ -719,12 +719,12 @@ as adaptações graduais que o uso da pedra como material de construção
 implica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## Contraventamento por assoalho rígido ##
 
 ![Proporção modular das colunatas no mausoléu de Dario I, século [V] a.C. [Choisy, 1899]](https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0150.png){#fig:choisy-1.137.5 .line .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Na arquitetura monumental da Pérsia antiga,]{.newthought} o método de
+Na arquitetura monumental da Pérsia antiga, o método de
 contraventamento é diferente. Encontramos grandes salões hipostilos ---
 ou seja, pontuados por uma malha bastante cerrada de colunas
 (@fig:choisy-1.137.5) --- onde as paredes contornam o perímetro do
@@ -765,12 +765,12 @@ arquitravadas.
 
 ![Reconstituição dos terraços de Persépolis. [Chipiez, 1876]](https://i.pinimg.com/originals/72/2b/40/722b40cf631a30343be5bbe7a5e4a1a7.png){#fig:chipiez-terrasse .line .outset}
 
-* * * *
+## Contraventamento por pórticos ##
 
 ![Fu Xinian, sistema de pórticos longitudinais no *tingtang* da dinastia Song](https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-9.3.png){#fig:fu2017-9.3 .line .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[Na arquitetura chinesa]{.newthought}, a estratégia de contraventamento
+Na arquitetura chinesa, a estratégia de contraventamento
 é diferente [@fu:2017traditional]. O sistema estrutural chinês é formado
 por pórticos planos dispostos na menor direção da construção
 ([@fig:fu2017-9.3]). Esses pórticos são formados por vigas e caibros
