@@ -587,6 +587,57 @@ em ambos e aprenderá muito sobre como montar uma estrutura arquitravada.
 
 # Assoalhos e terraços
 
+## Assoalhos simples ##
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Estamos pouco a pouco subindo uma estrutura de uma cabana simples. No
+tópico anterior, resolvemos as fundações e um terrapleno para servir
+como piso térreo. Logo acima, levantamos as colunas e as vigas sobre
+essas colunas. Agora, temos que fechar um piso ou teto sobre essas
+vigas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image=""}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Na construção moderna, o método mais comum para se preencher esse piso é
+lançar uma laje em concreto armado, mas essa não é uma opção na
+arquitetura tradicional. Na verdade, a laje é um dos componentes mais
+frágeis da construção moderna: primeiro, porque ela é dimensionada para
+uma previsão específica de carregamento que pode não ser respeitada ao
+longo da vida útil do edifício e das mudanças de uso pelas quais ele
+pode passar; segundo, porque a laje é muito suscetível a defeitos de
+cobrimento durante a execução, e depois a infiltrações durante a vida
+útil, o que pode causar exposição e corrosão da armadura.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Por isso, além de não existir nenhum sistema construtivo tradicional
+diretamente equivalente à laje de concreto armado, o próprio princípio
+de funcionamento da laje moderna é indesejável no contexto da
+arquitetura tradicional. Em vez disso, preferimos construir pisos com
+estruturas a compressão pura (vamos ver em outro tópico mais adiante
+como isso é possível) ou então aproveitar o desempenho da madeira à
+flexão.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A construção de pisos tradicionais em madeira consiste, portanto, em
+preencher uma superfície contínua usando elementos de dimensões finitas
+--- vigas, barrotes e tábuas. A montagem de um assoalho tradicional pode
+funcionar tanto como o piso de um pavimento quanto como o teto do
+pavimento abaixo. A combinação de elementos construtivos para fazer esse
+assoalho, além de ser uma competência estrutural bastante desenvolvida
+em todas as culturas, é um dos recursos mais interessantes de expressão
+plástica nos ambientes interiores da arquitetura.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Contraventamento ##
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Num sistema arquitravado puro, por assim dizer, como nas tradições
 clássica e chinesa, as colunas são simplesmente apoiadas sobre as suas
@@ -594,7 +645,9 @@ bases, e as arquitraves são apoiadas sobre as colunas. Já vimos que
 esses sistemas são bastante resistentes a cargas verticais (ver
 @fig:arqui-for), e agora vamos ver como torná-los resistentes também a
 esforços horizontais como o vento, terremotos ([@fig:toji]), ou mesmo a
-simples irregularidade de distribuição das cargas.
+simples irregularidade de distribuição das cargas. Para isso, vamos
+combinar diferentes sistemas portantes com elementos da construção de
+assoalhos, que conectam e travam esses sistemas entre si.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/Secret_of_the_Pagodas_Earthquake_Resistant_Design-uG37gQSvrf4-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
@@ -621,7 +674,7 @@ terrapleno espesso em terra batida, revestido com cal
 contraventados diretamente pelas paredes em blocos de adobe.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Contraventamento ##
+## Como contraventar ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma característica importante do sistema arquitravado do
