@@ -5,10 +5,10 @@ item    : "II"
 author  : "Pedro P. Palazzo"
 date    : 2022-02-08
 excerpt: >
-  Tendas e cabanas –
-  Colunas e vigas –
-  Assoalhos e terraços –
-  Da madeira à pedra
+  <a href="#tendas-e-cabanas">Tendas e cabanas</a> –
+  <a href="#colunas-e-vigas">Colunas e vigas</a> –
+  <a href="#assoalhos-e-terraços">Assoalhos e terraços</a> –
+  <a href="#da-madeira-à-pedra">Da madeira à pedra</a>
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg
 header:
@@ -184,8 +184,8 @@ Quatremère de Quincy no final do século [XVIII]{.smallcaps}, modos de
 vida e tradições construtivas diferentes. A maioria das sociedades que
 constroem tendas é nômade ou seminômade, em geral caçadores-coletores
 como os que estão representados na pintura de Thomas Cole intitulada *O
-estado selvagem*, parte da série sobre *O decurso do império*.
-[@fig:cole-savage]
+estado selvagem*, parte da série sobre *O decurso do império*
+([@fig:cole-savage]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -257,10 +257,10 @@ estrutural das tendas, onde essa distinção não existe.
 ![Culturas e populações do mesolítico inicial na Eurásia. [Carlos Quiles, 2021](https://indo-european.eu/maps/mesolithic-early/)](https://indo-european.eu/wp-content/uploads/2021/01/4-mesolithic-early.jpg){#fig:mesolithic}
 :::
 
-* * * *
+## Desempenho estrutural da madeira ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-[A construção arquitravada]{.newthought} segundo o tipo tradicional da cabana
+A construção arquitravada segundo o tipo tradicional da cabana
 aproveita as características do desempenho estrutural da madeira. Essas
 características são a *alta* resistência da madeira tanto à compressão
 quanto à flexão --- sempre na direção das fibras --- e a sua *baixa*
@@ -375,8 +375,8 @@ muito esbeltos porque são feitos em madeira de lei da Amazônia.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Os esteios são engastados no chão e a viga de cumeeira é amarrada nos
 esteios. Isso dá uma boa rigidez para o pórtico inteiro, e na casa do
-tipo "gafanhoto", também são usados contraventamentos diagonais.
-[@fig:gafanhoto]
+tipo "gafanhoto", também são usados contraventamentos diagonais
+([@fig:gafanhoto]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Esquema construtivo do tipo de casa "gafanhoto" kamayurá. [*Manual de arquitetura kamayurá*, 2019]](https://images.adsttc.com/media/images/5d5a/ed03/284d/d166/2000/008e/slideshow/190812_CasaKamayuraREV_Page_19.jpg?1566239994){#fig:gafanhoto .outset}
@@ -487,8 +487,8 @@ Mesmo que a evidência histórica dessa genealogia seja frágil, para dizer
 o mínimo, ela é relevante do ponto de vista da lógica de montagem da
 construção arquitravada. O modelo de Chipiez era um esforço sistemático
 para integrar todas as tradições arquitravadas da região, desde a Pérsia
-até a Grécia, passando pela costa do Levante, pelo Egito e pela Anatólia.
-[@fig:medor]
+até a Grécia, passando pela costa do Levante, pelo Egito e pela Anatólia
+([@fig:medor]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png" data-background-size="contain"}
@@ -880,8 +880,8 @@ curva suave, chamado de êntase. Num antigo canteiro de obra grego, foi
 descoberto um diagrama que mostra o método de construção geométrica
 dessa curva, numa escala distorcida verticalmente; esse método já tinha
 sido intuído pelo arquiteto italiano Fra Giocondo no século
-[XVI]{.smallcaps}, muito antes da descoberta desse diagrama.
-[@fig:entasis]
+[XVI]{.smallcaps}, muito antes da descoberta desse diagrama
+([@fig:entasis]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: full

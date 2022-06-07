@@ -5,10 +5,10 @@ item    : "I"
 author  : "Pedro P. Palazzo"
 date    : 2022-02-01
 excerpt: >
-  Materiais da construção tradicional –
-  Construções semienterradas –
-  Plataformas e terraplenos –
-  Fundações
+  <a href="#materiais-da-construção-tradicional">Materiais da construção tradicional</a> –
+  <a href="#construções-semienterradas">Construções semienterradas</a> –
+  <a href="#plataformas-e-terraplenos">Plataformas e terraplenos</a> –
+  <a href="#fundações">Fundações</a>
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg
 header:
@@ -154,8 +154,8 @@ colonialista, mas que ainda assim nos dê um esquema suficientemente
 claro e simples para o nosso estudo da arquitetura tradicional. A
 solução para esse problema está no ponto de partida de qualquer cadeia
 produtiva: os recursos naturais disponíveis, ou seja, aqueles que estão
-ao alcance geográfico, técnico e econômico de uma determinada sociedade.
-[@fig:claypit]
+ao alcance geográfico, técnico e econômico de uma determinada sociedade
+([@fig:claypit]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Arquitetura comparada ##
@@ -647,8 +647,8 @@ O sítio representativo dessa composição de habitações por células
 construídas em adobe é a aldeia neolítica de Çatal Höyük, no sul da
 Anatólia, datada de 7100 a.C ([@fig:catalhoyuk-vid]). Çatal Höyük foi
 ocupada sazonalmente por uma comunidade agropastoril e tinha um tecido
-construído muito compacto, com poucos pátios internos e nenhuma rua.
-[@fig:catalhoyuk-plan]
+construído muito compacto, com poucos pátios internos e nenhuma rua
+([@fig:catalhoyuk-plan]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -825,7 +825,7 @@ simbólicos.
 
 ![Porta de Ishtar, Babilônia, 575 a.C., atualmente no museu Pergamon, Berlim](https://i.pinimg.com/originals/d5/83/2c/d5832cea9db6c2723d2ff99226e4b400.jpg){#fig:ishtar}
 
-# Fundações tradicionais
+# Fundações #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Todas as construções que não são simplesmente escavadas no chão ou
@@ -884,8 +884,8 @@ não pode ser distribuída onde houver esforços de tração ou corte.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 É por isso que alguns dos assentamentos permanentes mais antigos que se
 conhece já eram construídos sobre plantas bastante regulares. É o caso
-de Mehrgarh, uma cidade neolítica no vale do rio Indo.
-[@fig:indus-early]
+de Mehrgarh, uma cidade neolítica no vale do rio Indo
+([@fig:indus-early]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *

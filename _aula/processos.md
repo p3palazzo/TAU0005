@@ -5,10 +5,10 @@ item    : "I"
 author  : Pedro P. Palazzo
 date    : 2022-06-07
 excerpt: >
-  Ordem e lugar –
-  Preferência temporal e preferência local –
-  Alegoria da cabana primitiva –
-  Projeto e representação
+  <a href="#ordem-e-lugar">Ordem e lugar</a> –
+  <a href="#preferência-temporal">Preferência temporal</a> –
+  <a href="#alegoria-da-cabana-primitiva">Alegoria da cabana primitiva</a> –
+  <a href="#projeto-e-representação">Projeto e representação</a>
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
 header:
