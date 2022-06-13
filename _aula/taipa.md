@@ -690,9 +690,6 @@ cantaria ([@fig:taipal]). Essa fundação dá um assentamento mais homogêneo
 para a parede, e que a umidade ascendente comprometa a solidez da
 parede. Do mesmo modo, a taipa deve ser coroada com um ou mais frechais
 em madeira, para regularizar o assentamento da cobertura sobre a parede.
-Ao contrário da melhor prática na concretagem, na taipa cada camada
-comprimida ([@fig:ram]) precisa secar antes de se lançar a camada
-seguinte.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::: full
@@ -705,9 +702,15 @@ seguinte.
 ![Compactando manualmente uma parede em taipa de pilão. Sinai, Egito. Foto: [Moshirah, 2008](https://commons.wikimedia.org/wiki/File:Ramming_Earth.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ramming_Earth.JPG/1280px-Ramming_Earth.JPG){#fig:ram}
 :::
 
-* * * *
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Ao contrário da melhor prática na concretagem, na taipa cada camada
+comprimida ([@fig:ram]) precisa secar antes de se lançar a camada
+seguinte. A largura do taipal, e portanto da parede de taipa como um
+todo, é tradicionalmente determinada pelo espaço que uma pessoa precisa
+ter para se movimentar e pisar a terra.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Mesquita maior em Djenné, Mali, século [XIV]{.smallcaps}, reconstruída 1906--1907. Foto: [Gilles Mairet, 1972](https://commons.wikimedia.org/wiki/File:La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg/1280px-La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg){#fig:djenne}
+* * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O taipal geralmente é uma forma móvel em madeira, apoiada en tirantes
@@ -726,6 +729,8 @@ permitir a reutilização do taipal com mais facilidade. A grande
 espessura das paredes em taipa de pilão faz com que elas, em geral, não
 precisem de contraventamento.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Mesquita maior em Djenné, Mali, século [XIV]{.smallcaps}, reconstruída 1906--1907. Foto: [Gilles Mairet, 1972](https://commons.wikimedia.org/wiki/File:La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg/1280px-La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg){#fig:djenne}
 
 ## Terraplenos ##
 
