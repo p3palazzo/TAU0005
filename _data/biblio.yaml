@@ -399,7 +399,7 @@ references:
     - year: 2013
       month: 5
       day: 27
-  language: Spanish
+  language: es
   title: ¿Cómo era un horno de cal tradicional?
   type: post-weblog
   URL: >-
@@ -440,7 +440,7 @@ references:
     - year: 2016
       month: 9
       day: 29
-  language: Portuguese
+  language: pt-BR
   page: '249'
   source: DOI.org (Crossref)
   title: 'Lógica de organização territorial guarani: concepções do modo de ser'
@@ -473,7 +473,7 @@ references:
     - year: 2008
       month: 1
       day: 1
-  language: English
+  language: en
   page: 491-537
   publisher: Brill
   publisher-place: Leiden
@@ -508,7 +508,7 @@ references:
     - year: 2018
       month: 8
       day: 14
-  language: English
+  language: en
   page: 55-83
   publisher: Brill
   publisher-place: Leiden
@@ -560,7 +560,7 @@ references:
   ISBN: 978-0-19-062456-9
   issued:
     - year: 2017
-  language: English
+  language: en
   publisher: Oxford University Press
   publisher-place: Oxford
   source: Open WorldCat
@@ -634,7 +634,7 @@ references:
   ISSN: 0732-2992
   issued:
     - year: 2010
-  language: English
+  language: en
   page: 31-49
   publisher: Brill
   source: JSTOR
@@ -685,7 +685,7 @@ references:
   ISBN: 978-0-06-115430-0
   issued:
     - year: 2009
-  language: English
+  language: en
   publisher: Harper Perennial
   publisher-place: New York
   source: Open WorldCat
@@ -711,7 +711,7 @@ references:
     - year: 2015
       month: 7
       day: 20
-  language: English
+  language: en
   title: 'Majrit/Mayrit: the Andalusi Muslim heritage of medieval Madrid'
   title-short: Majrit/mayrit
   type: post-weblog
@@ -970,7 +970,7 @@ references:
   language: en
   page: 615-640
   source: DOI.org (Crossref)
-  title: The Automatic Definition and Generation of Axial Lines and Axial Maps
+  title: The automatic definition and generation of axial lines and axial maps
   type: article-journal
   URL: http://journals.sagepub.com/doi/10.1068/b2985
   volume: '31'
@@ -1135,10 +1135,10 @@ references:
     - year: 2018
       month: 2
       day: 19
-  language: English
+  language: en
   page: 574-579.e3
   source: ScienceDirect
-  title: Self-Control in Chimpanzees Relates to General Intelligence
+  title: Self-control in chimpanzees relates to general intelligence
   type: article-journal
   URL: https://www.sciencedirect.com/science/article/pii/S0960982217316767
   volume: '28'
@@ -1164,7 +1164,7 @@ references:
   issued:
     - year: 2007
       month: 11
-  language: English
+  language: en
   page: 482-488
   source: DOI.org (Crossref)
   title: Intertemporal choice – toward an integrative framework
@@ -1200,7 +1200,7 @@ references:
   ISBN: 978-1-4438-4137-5
   issued:
     - year: 2012
-  language: English
+  language: en
   number-of-pages: '295'
   publisher: Cambridge Scholars
   publisher-place: Newcastle upon Tyne
@@ -1242,7 +1242,7 @@ references:
     - year: 1982
       month: 3
       day: 1
-  language: English
+  language: en
   page: 5-31
   source: ScienceDirect
   title: The archaeology of place
@@ -1288,7 +1288,7 @@ references:
   ISBN: 978-0-14-056144-9
   issued:
     - year: 1978
-  language: English
+  language: en
   number-of-pages: '264'
   publisher: Penguin Books
   publisher-place: Harmondsworth, Eng. ; New York
@@ -1445,7 +1445,7 @@ references:
   issue: '3'
   issued:
     - year: 1987
-  language: English
+  language: en
   page: 54-92
   source: JSTOR
   title: The history of the great mosques of Djenné
@@ -1504,12 +1504,13 @@ references:
       given: Robert
   citation-key: branner:1958drawings17
   container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/987945
   ISSN: 0037-9808
   issue: '4'
   issued:
     - year: 1958
-  language: English
+  language: en
   page: 9-21
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
@@ -1529,12 +1530,13 @@ references:
       given: Robert
   citation-key: branner:1960villard19
   container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/988023
   ISSN: 0037-9808
   issue: '3'
   issued:
     - year: 1960
-  language: English
+  language: en
   page: 91-96
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
@@ -1562,7 +1564,7 @@ references:
   issued:
     date-parts:
       - - '1959'
-  language: English
+  language: en
   original-date:
     - year: 1959
   publisher: Taraporevala’s Treasure House of Books
@@ -1591,7 +1593,7 @@ references:
   event-place: Bombay
   issued:
     - year: 1959
-  language: English
+  language: en
   publisher: D.B. Taraporevala Sons
   publisher-place: Bombay
   source: Internet Archive
@@ -1683,14 +1685,14 @@ references:
       given: Nir Haim
   call-number: NA9031 .B875 2019
   citation-key: buras:2019art
-  event-place: Cambridge, Massachusetts
+  event-place: Cambridge, Mass.
   ISBN: 978-0-674-91924-2
   issued:
     - year: 2019
-  language: English
+  language: en
   number-of-pages: '475'
   publisher: The Belknap Press of Harvard University Press
-  publisher-place: Cambridge, Massachusetts
+  publisher-place: Cambridge, Mass.
   source: K10plus ISBN
   title: 'The art of classic planning: building beautiful and enduring communities'
   title-short: The art of classic planning
@@ -1750,7 +1752,7 @@ references:
   ISBN: 978-1-281-93983-8
   issued:
     - year: 2008
-  language: English
+  language: en
   source: Open WorldCat
   title: 'Indian Islamic architecture: forms and typologies, sites and monuments'
   title-short: Indian Islamic architecture
@@ -1768,7 +1770,7 @@ references:
   ISBN: 978-0-300-08495-5
   issued:
     - year: 2002
-  language: English
+  language: en
   number-of-pages: '383'
   publisher: Yale University Press
   publisher-place: New Haven
@@ -1808,7 +1810,7 @@ references:
   issue: 1/2
   issued:
     - year: 1976
-  language: English
+  language: en
   page: 143-150
   source: JSTOR
   title: The Early Gothic Continuous Capital and Its Precursors
@@ -1830,7 +1832,7 @@ references:
   ISBN: 978-0-87661-626-0
   issued:
     - year: 1984
-  language: English
+  language: en
   number-of-pages: '32'
   publisher: American School of Classical Studies at Athens
   publisher-place: Athens
@@ -1984,7 +1986,7 @@ references:
   ISBN: 978-85-230-0464-4
   issued:
     - year: 1997
-  language: Portuguese
+  language: pt-BR
   publisher: Editora UnB
   publisher-place: Brasília
   source: Open WorldCat
@@ -2026,7 +2028,7 @@ references:
   ISSN: 0102-7972, 0102-7972, 1678-7153
   issued:
     - year: 2010
-  language: Portuguese
+  language: pt-BR
   page: 554-561
   publisher: >-
     Curso de Pós-Graduação em Psicologia da Universidade Federal do Rio Grande
@@ -2087,7 +2089,7 @@ references:
     - year: 2021
       month: 1
       day: 1
-  language: English
+  language: en
   page: '100071'
   source: ScienceDirect
   title: >-
@@ -2235,7 +2237,7 @@ references:
   issue: '1'
   issued:
     - year: 1974
-  language: English
+  language: en
   page: 1-14
   source: JSTOR
   title: Urbanism and the king in ancient China
@@ -2252,7 +2254,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1991
-  language: Portuguese
+  language: pt-BR
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: '000602685'
@@ -2359,7 +2361,7 @@ references:
     - family: Ching
       given: Francis D. K.
   citation-key: ching:2012desenho
-  edition: 2.ª ed.
+  edition: '2'
   event-place: Porto Alegre
   ISBN: 978-85-407-0191-5
   issued:
@@ -2414,7 +2416,7 @@ references:
     - family: Ching
       given: Francis D. K.
   citation-key: ching:2017representacao
-  edition: 6.ª ed.
+  edition: '6'
   event-place: Porto Alegre
   ISBN: 978-85-8260-437-3
   issued:
@@ -2609,9 +2611,9 @@ references:
   ISBN: 978-1-84821-495-8
   issued:
     - year: 2014
-  language: English
+  language: en
   number-of-pages: '282'
-  publisher: iSTE ; John Wiley & Sons
+  publisher: <span class="smallcaps">iSTE</span> ; John Wiley & Sons
   publisher-place: 'London : Hoboken, N.J.'
   source: Library of Congress ISBN
   title: 'Sustainable masonry: stability and behavior of structures'
@@ -2672,10 +2674,10 @@ references:
   ISSN: 0068-2462
   issued:
     - year: 1996
-  language: English
+  language: en
   page: 239-259
   source: JSTOR
-  title: Housing in Early Medieval Rome, 500-1000 AD
+  title: Housing in Early Medieval Rome, 500-1000 <span class="smallcaps">AD</span>
   type: article-journal
   URL: http://www.jstor.org/stable/40310936
   volume: '64'
@@ -2712,12 +2714,13 @@ references:
       given: Matthew A.
   citation-key: cohen:2008how67
   container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.1525/jsah.2008.67.1.18
   ISSN: 0037-9808
   issue: '1'
   issued:
     - year: 2008
-  language: English
+  language: en
   page: 18-57
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
@@ -2749,7 +2752,7 @@ references:
     - year: 2002
       month: 4
       day: 25
-  language: English
+  language: en
   number-of-pages: '288'
   publisher: Oxford University Press
   publisher-place: Oxford
@@ -2767,6 +2770,7 @@ references:
       given: Kenneth J.
   citation-key: conant:1968after-life27
   container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/988426
   ISSN: 0037-9808
   issue: '1'
@@ -2775,7 +2779,7 @@ references:
   language: en-US
   page: 33-38
   source: JSTOR
-  title: The after-Life of Vitruvius in the Middle Ages
+  title: The after-life of Vitruvius in the Middle Ages
   type: article-journal
   URL: https://www.jstor.org/stable/988426
   volume: '27'
@@ -2789,7 +2793,7 @@ references:
   ISBN: 978-0-300-05298-5
   issued:
     - year: 1993
-  language: English
+  language: en
   publisher: Yale University Press
   publisher-place: New Haven; London
   source: Open WorldCat
@@ -2849,7 +2853,7 @@ references:
   ISBN: 978-0-19-563094-7
   issued:
     - year: 1992
-  language: English
+  language: en
   number-of-pages: '151'
   publisher: 'Indira Gandhi National Centre for the Arts : Oxford University Press'
   publisher-place: New Delhi
@@ -2883,7 +2887,7 @@ references:
   issue: '2'
   issued:
     - year: 1997
-  language: English
+  language: en
   page: 21-31
   source: JSTOR
   title: >-
@@ -2923,7 +2927,7 @@ references:
   container-title: Revista do Patrimônio Histórico e Artístico Nacional
   issued:
     - year: 1937
-  language: Portuguese
+  language: pt-BR
   page: 31-39
   title: Documentação necessária
   type: article-journal
@@ -2937,7 +2941,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1952
-  language: Portuguese
+  language: pt-BR
   publisher: Ministério da Educação e Saúde
   publisher-place: Rio de Janeiro
   title: Considerações sôbre arte contemporânea
@@ -3018,14 +3022,14 @@ references:
     - family: Santos
       given: Juracilda
   citation-key: dangelis:2014habitacao
-  container-title: Revista Cadernos do CEOM
+  container-title: Revista Cadernos do <span class="smallcaps">CEOM</span>
   ISSN: 2175-0173
   issue: '18'
   issued:
     - year: 2014
       month: 7
       day: 30
-  language: Portuguese
+  language: pt-BR
   page: 213-242
   source: bell.unochapeco.edu.br
   title: Habitação e acampamentos Kaingang hoje e no passado
@@ -3115,7 +3119,7 @@ references:
   event-place: Paris
   issued:
     - year: 1923
-  language: French
+  language: fr
   publisher: Charles Massin et cie.
   publisher-place: Paris
   source: Internet Archive
@@ -3291,7 +3295,7 @@ references:
   ISBN: 978-85-219-0257-7
   issued:
     - year: 1997
-  language: Portuguese
+  language: pt-BR
   publisher: Paz e Terra
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3412,7 +3416,7 @@ references:
   event-place: Leipzig
   issued:
     - year: 1910
-  language: German
+  language: de
   number-of-pages: '602'
   publisher: A. Kröner
   publisher-place: Leipzig
@@ -3469,7 +3473,7 @@ references:
   ISBN: 978-85-336-0218-2
   issued:
     - year: 1993
-  language: Portuguese
+  language: pt-BR
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -3484,14 +3488,14 @@ references:
   citation-key: engel:1985measure
   collection-title: Books to span the East & West
   edition: 1st ed
-  event-place: Rutland, Vt
+  event-place: Rutland, Ver.
   ISBN: 978-0-8048-1492-8
   issued:
     - year: 1985
-  language: English
+  language: en
   number-of-pages: '149'
   publisher: C.E. Tuttle Co
-  publisher-place: Rutland, Vt
+  publisher-place: Rutland, Ver.
   source: Library of Congress ISBN
   title: Measure and construction of the Japanese house
   type: book
@@ -3504,14 +3508,14 @@ references:
   citation-key: engel:2020measure
   collection-title: Books to span the East & West
   edition: '2'
-  event-place: Rutland, Vt
+  event-place: Rutland, Ver.
   ISBN: 978-1-4629-1684-9
   issued:
     - year: 2020
-  language: English
+  language: en
   number-of-pages: '149'
   publisher: C.E. Tuttle Co
-  publisher-place: Rutland, Vt
+  publisher-place: Rutland, Ver.
   source: Library of Congress ISBN
   title: Measure and construction of the Japanese house
   type: book
@@ -3623,6 +3627,28 @@ references:
   type: article-journal
   URL: https://www.jstor.org/stable/40552862
   volume: '6'
+
+- id: fauvelle:2018rinoceronte
+  author:
+    - family: Fauvelle
+      given: François-Xavier
+  citation-key: fauvelle:2018rinoceronte
+  event-place: São Paulo
+  ISBN: 978-85-314-1699-6
+  issued:
+    - year: 2018
+  language: pt-BR
+  publisher: Edusp
+  publisher-place: São Paulo
+  source: Amazon
+  title: 'O rinoceronte de ouro: histórias da Idade Média africana'
+  title-short: O rinoceronte de ouro
+  translator:
+    - family: Campos
+      given: Regina Salgado
+    - family: Poletti
+      given: Iraci D.
+  type: book
 
 - id: fazio:2011historia
   accessed:
@@ -3798,6 +3824,30 @@ references:
   type: article-journal
   URL: http://journals.openedition.org/craup/591
 
+- id: fitchen:1978building
+  accessed:
+    - year: 2016
+      month: 8
+      day: 4
+  author:
+    - family: Fitchen
+      given: John
+  citation-key: fitchen:1978building
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.2307/989311
+  ISSN: 0037-9808
+  issue: '1'
+  issued:
+    - year: 1978
+  language: en
+  page: 3-12
+  source: JSTOR
+  title: Building Cheops' pyramid
+  type: article-journal
+  URL: http://www.jstor.org/stable/989311
+  volume: '37'
+
 - id: fitchen:1981construction
   abstract: 'Bibliography: p. 317-336; Includes indexes'
   accessed:
@@ -3949,6 +3999,37 @@ references:
   URL: >-
     https://www.classicist.org/articles/introduction-to-architectural-proportion-part-iv/
 
+- id: fonseca:1986geometry
+  abstract: >-
+    The Step Pyramid of Zoser at Saqqara is examined from the point of view of
+    constructive geometry and mensuration. The evidence is that it is based on
+    geometric proportion, though this may simply be the outcome of peg-and-chord
+    technology employed in setting out the monument. The procedure that the
+    architect may have followed in setting out the monument is Ad Quadratum in
+    its most elemental form.
+  accessed:
+    - year: 2016
+      month: 8
+      day: 4
+  author:
+    - family: Fonseca
+      given: Rory
+  citation-key: fonseca:1986geometry
+  container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
+  DOI: 10.2307/990205
+  ISSN: 0037-9808
+  issue: '4'
+  issued:
+    - year: 1986
+  language: en
+  page: 333-338
+  source: JSTOR
+  title: The geometry of Zoser's step pyramid at Saqqara
+  type: article-journal
+  URL: http://www.jstor.org/stable/990205
+  volume: '45'
+
 - id: fornes:1857manual
   author:
     - family: Fornés Gurrea
@@ -4006,7 +4087,7 @@ references:
   issued:
     - year: 2002
       month: 6
-  language: English
+  language: en
   page: 351-401
   source: DOI.org (Crossref)
   title: 'Time discounting and time preference: a critical review'
@@ -4193,7 +4274,7 @@ references:
   ISBN: 978-0-8348-1023-5
   issued:
     - year: 1976
-  language: English
+  language: en
   publisher: Weatherhill
   publisher-place: New York
   source: Open WorldCat
@@ -4259,7 +4340,7 @@ references:
     - year: 2020
       month: 12
       day: 10
-  language: French
+  language: fr
   number: '2'
   page: 1-32
   publisher: CNRS Éditions
@@ -4299,7 +4380,7 @@ references:
   issued:
     - year: 2016
       month: 10
-  language: English
+  language: en
   page: 3064-3103
   source: www.aeaweb.org
   title: The agricultural origins of time preference
@@ -4410,7 +4491,7 @@ references:
   citation-key: geymueller:1901baukunst2
   issued:
     - year: 1901
-  language: German
+  language: de
   number-of-pages: '372'
   publisher: Kröner
   source: Internet Archive
@@ -4472,7 +4553,7 @@ references:
   issue: '2'
   issued:
     - year: 2016
-  language: English
+  language: en
   page: 1-22
   publisher: The Construction History Society
   source: JSTOR
@@ -4493,7 +4574,7 @@ references:
   ISBN: 978-84-7595-252-9
   issued:
     - year: 2010
-  language: Spanish
+  language: es
   number-of-pages: '585'
   publisher: >-
     Universidad Nacional Autónoma de México : Junta de Andalucía, Consejería de
@@ -4522,7 +4603,7 @@ references:
   issue: '4'
   issued:
     - year: 1963
-  language: English
+  language: en
   page: 191-198
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
@@ -4547,7 +4628,7 @@ references:
   issue: '1'
   issued:
     - year: 1990
-  language: English
+  language: en
   page: 15-21
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
@@ -4642,7 +4723,7 @@ references:
   issue: '4'
   issued:
     - year: 1967
-  language: English
+  language: en
   page: 344-349
   publisher: >-
     [University of Chicago Press, Wenner-Gren Foundation for Anthropological
@@ -4710,7 +4791,7 @@ references:
     - year: 2020
       month: 12
       day: 1
-  language: English
+  language: en
   page: 1767-1779
   publisher: SAGE Publications Ltd
   source: SAGE Journals
@@ -5003,7 +5084,7 @@ references:
   ISBN: 978-81-7305-632-1
   issued:
     - year: 2019
-  language: English
+  language: en
   page: 261-286
   publisher: Aryan Books International
   publisher-place: New Delhi
@@ -5019,7 +5100,7 @@ references:
   event-place: Campinas
   issued:
     - year: 1990
-  language: Portuguese
+  language: pt-BR
   publisher: Papirus
   publisher-place: Campinas
   source: Open WorldCat
@@ -5046,7 +5127,7 @@ references:
     - year: 2018
       month: 8
       day: 14
-  language: English
+  language: en
   page: 203-232
   publisher: Brill
   publisher-place: Leiden
@@ -5074,7 +5155,7 @@ references:
     - year: 2003
       month: 9
       day: 19
-  language: English
+  language: en
   page: 1710-1714
   source: DOI.org (Crossref)
   title: 'Amazonia 1492: pristine forest or cultural parkland?'
@@ -5091,7 +5172,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 2001
-  language: Portuguese
+  language: pt-BR
   publisher: Edusp
   publisher-place: São Paulo
   title: Cursos de estética
@@ -5163,7 +5244,7 @@ references:
   ISBN: 978-0-8109-1018-8
   issued:
     - year: 1975
-  language: English
+  language: en
   number-of-pages: '336'
   publisher: H. N. Abrams
   publisher-place: New York
@@ -5277,7 +5358,7 @@ references:
   event-place: Paris
   issued:
     - year: 1851
-  language: French
+  language: fr
   number-of-pages: '843'
   publisher: Firmin-Didot frères
   publisher-place: Paris
@@ -5315,7 +5396,7 @@ references:
   ISBN: 978-84-9728-129-4
   issued:
     - year: 2004
-  language: Spanish
+  language: es
   number-of-pages: '623'
   publisher: Inst. Juan de Herrera, Escuela Técnica Superior de Arquitectura
   publisher-place: Madrid
@@ -5400,7 +5481,7 @@ references:
   ISBN: 978-0-8061-1214-5
   issued:
     - year: 1974
-  language: English
+  language: en
   publisher: University of Oklahoma Press
   publisher-place: Norman
   source: Open WorldCat
@@ -5598,12 +5679,14 @@ references:
     - family: Kemp
       given: Barry J.
   citation-key: kemp:1989ancient
+  event-place: 'London : New York'
   ISBN: 978-0-415-01281-2 978-0-415-06346-3
   issued:
     - year: 1989
-  language: English
+  language: en
   number-of-pages: '374'
-  publisher: 'London ; New York : Routledge'
+  publisher: Routledge
+  publisher-place: 'London : New York'
   source: Internet Archive
   title: 'Ancient Egypt : anatomy of a civilization'
   title-short: Ancient Egypt
@@ -5628,7 +5711,7 @@ references:
   ISBN: 978-3-11-014447-5
   issued:
     - year: 1995
-  language: English
+  language: en
   page: 213-257
   publisher: Walter de Gruyter
   publisher-place: Berlin ; New York
@@ -5965,7 +6048,7 @@ references:
   ISBN: 978-0-300-06491-9
   issued:
     - year: 1996
-  language: English
+  language: en
   number-of-pages: '243'
   publisher: Yale University Press
   publisher-place: New Haven
@@ -6020,7 +6103,7 @@ references:
   issued:
     - year: 1979
       month: 5
-  language: English
+  language: en
   title: The plan of the Giza pyramids
   type: article-journal
   URL: http://goodfelloweb.com/giza/jlpamp.html
@@ -6036,13 +6119,13 @@ references:
       given: Phyllis Williams
   citation-key: lehmann:1954setting
   container-title: Journal of the Society of Architectural Historians
-  container-title-short: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/987634
   ISSN: 0037-9808
   issue: '4'
   issued:
     - year: 1954
-  language: English
+  language: en
   page: 15-20
   source: JSTOR
   title: The setting of hellenistic temples
@@ -6062,7 +6145,7 @@ references:
   container-title: Revista do Arquivo Municipal (São Paulo)
   issued:
     - year: 1936
-  language: Portuguese
+  language: pt-BR
   page: 5-80
   title: Contribuição para o estudo da organização social dos índios Bororo
   type: article-journal
@@ -6174,7 +6257,7 @@ references:
   URL: https://www.jstor.org/stable/24926357
   volume: '220'
 
-- id: maass:1969where
+- id: maass:1969where28
   accessed:
     - year: 2012
       month: 12
@@ -6182,7 +6265,7 @@ references:
   author:
     - family: Maass
       given: John
-  citation-key: maass:1969where
+  citation-key: maass:1969where28
   container-title: The Journal of the Society of Architectural Historians
   container-title-short: JSAH
   DOI: 10.2307/988523
@@ -6245,7 +6328,7 @@ references:
   ISBN: 978-968-24-3062-6
   issued:
     - year: 1990
-  language: Spanish
+  language: es
   number-of-pages: '239'
   publisher: Trillas
   publisher-place: México, D.F
@@ -6272,7 +6355,7 @@ references:
     - year: 2011
       month: 8
       day: 15
-  language: English
+  language: en
   title: Byzantine simplicity
   type: post-weblog
   URL: http://blog.marcantonioarchitects.com/byzantine-simplicity/
@@ -6295,7 +6378,7 @@ references:
     - year: 2011
       month: 3
       day: 30
-  language: English
+  language: en
   title: Ode to an ideal church building
   type: post-weblog
   URL: http://blog.marcantonioarchitects.com/ode-to-an-ideal-church-building/
@@ -6366,7 +6449,7 @@ references:
   event-place: Leipzig
   issued:
     - year: 1900
-  language: German
+  language: de
   number-of-pages: '578'
   publisher: Wilhelm Engelmann
   publisher-place: Leipzig
@@ -6480,7 +6563,7 @@ references:
   issued:
     - year: 2020
       month: 1
-  language: English
+  language: en
   page: 71-85
   source: DOI.org (Crossref)
   title: >-
@@ -6581,7 +6664,7 @@ references:
   event-place: Madrid
   issued:
     - year: 1947
-  language: Spanish
+  language: es
   publisher: Ministerio de Fomento
   publisher-place: Madrid
   source: Open WorldCat
@@ -6615,7 +6698,7 @@ references:
   issued:
     - year: 1963
       month: 2
-  language: English
+  language: en
   page: 93–99
   title: The main hall of the Tōshōdai-ji
   type: article-journal
@@ -6870,7 +6953,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1955
-  language: Portuguese
+  language: pt
   publisher: 'Edição do autor : Portugália'
   publisher-place: Lisboa
   title: Enciclopédia prática da construção civil
@@ -6887,7 +6970,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1955
-  language: Portuguese
+  language: pt
   publisher: 'Edição do autor : Portugália'
   publisher-place: Lisboa
   title: Enciclopédia prática da construção civil
@@ -6904,7 +6987,7 @@ references:
   event-place: Lisboa
   issued:
     - year: 1955
-  language: Portuguese
+  language: pt
   publisher: 'Edição do autor : Portugália'
   publisher-place: Lisboa
   title: Enciclopédia prática da construção civil
@@ -7448,6 +7531,46 @@ references:
   title: Traditional domestic architecture of the Arab Region
   type: book
 
+- id: ramos:2015ensaio
+  abstract: >-
+    The paper presents an approach to Abbot Marc-Antoine Laugier thoughts. The
+    Abbot was a French thinker of the eighteenth century who wrote what can be
+    considered the most important treaty or the enlightenment period. The
+    approach, although general, aim to incite the reader to seek work on this
+    important author. Therefore, this article presents a translation of the
+    “Foreword” of the Essai sur l’Architecture, the most important book written
+    by the Abbot, as well as a transcription of the original text, taken from
+    the book published in Paris in 1753. The article also presents a small
+    bibliography on the subject identifying other translations in order to
+    enable the reader compared readings.
+  accessed:
+    - year: 2022
+      month: 5
+      day: 19
+  author:
+    - family: Ramos
+      given: Fernando G. Vázquez
+    - family: Tourinho
+      given: Andréa de Oliveira
+  citation-key: ramos:2015ensaio
+  container-title: arq.urb
+  ISSN: 1984-5766
+  issue: '13'
+  issued:
+    - year: 2015
+      month: 1
+      day: 5
+  language: pt
+  number: '13'
+  page: 171-182
+  source: revistaarqurb.com.br
+  title: >-
+    O Ensaio sobre a arquitetura, de Marc-Antoine Laugier: um tratado da
+    simplicidade
+  title-short: O Ensaio sobre a arquitetura, de Marc-Antoine Laugier
+  type: article-journal
+  URL: https://revistaarqurb.com.br/arqurb/article/view/276
+
 - id: rapoport:1969house
   author:
     - family: Rapoport
@@ -7516,7 +7639,7 @@ references:
   ISBN: 978-0-8018-3533-9
   issued:
     - year: 1988
-  language: English
+  language: en
   publisher: Johns Hopkins University Press
   publisher-place: Baltimore
   source: Open WorldCat
@@ -8283,7 +8406,7 @@ references:
   ISBN: 978-0-8076-0853-1
   issued:
     - year: 1977
-  language: English
+  language: en
   publisher: G. Braziller
   publisher-place: New York
   source: Open WorldCat
@@ -8438,7 +8561,7 @@ references:
   ISBN: 978-1-107-00235-7
   issued:
     - year: 2011
-  language: English
+  language: en
   number-of-pages: '245'
   publisher: Cambridge University Press
   publisher-place: New York
@@ -8460,7 +8583,7 @@ references:
   event-place: Rio de Janeiro
   issued:
     - year: 1984
-  language: Portuguese
+  language: pt-BR
   publisher: Zahar
   publisher-place: Rio de Janeiro
   source: EBSCOhost
@@ -8579,9 +8702,9 @@ references:
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
   title: >-
-    East or West in 11th-Century Pisan Culture: The Dome of the Cathedral and
-    Its Western Counterparts
-  title-short: East or West in 11th-Century Pisan Culture
+    East or west in 11th-century Pisan culture: the dome of the cathedral and
+    its western counterparts
+  title-short: East or west in 11th-century pisan culture
   type: article-journal
   URL: https://www.jstor.org/stable/990001
   volume: '43'
@@ -8855,7 +8978,7 @@ references:
   ISBN: 978-90-04-25180-9
   issued:
     - year: 2013
-  language: English
+  language: en
   number-of-pages: '298'
   publisher: Brill
   publisher-place: Leiden ; Boston
@@ -8962,7 +9085,7 @@ references:
   event-place: Köln
   issued:
     - year: 2002
-  language: Portuguese
+  language: pt
   publisher: Taschen
   publisher-place: Köln
   title: 'O Império Romano: dos etruscos ao declínio do império romano'
@@ -8981,7 +9104,7 @@ references:
   ISBN: 978-3-8228-1772-8
   issued:
     - year: 2002
-  language: Portuguese
+  language: pt
   publisher: Taschen
   publisher-place: Colônia
   title: Índia hindu
@@ -9254,7 +9377,7 @@ references:
   publisher: '[Society of Architectural Historians, University of California Press]'
   source: JSTOR
   title: >-
-    A Literary and Structural Analysis of the First Dome on Justinian's Hagia
+    A literary and structural analysis of the first dome on Justinian's Hagia
     Sophia, Constantinople
   type: article-journal
   URL: https://www.jstor.org/stable/991056
@@ -9564,7 +9687,7 @@ references:
   ISBN: 978-1-4051-9964-3
   issued:
     - year: 2014
-  language: English
+  language: en
   number-of-pages: '589'
   publisher: Wiley Blackwell
   publisher-place: 'Chichester, West Sussex : Malden, Mass.'
@@ -9589,7 +9712,7 @@ references:
   ISBN: 978-0-8248-6101-8
   issued:
     - year: 2011
-  language: English
+  language: en
   page: 23-37
   publisher: 'Hawai’i University Press : Hong Kong University Press'
   publisher-place: 'Honolulu : [Hong Kong]'
@@ -10038,7 +10161,7 @@ references:
   publisher: Harvard University Press
   publisher-place: Cambridge, Mass.
   source: Internet Archive
-  title: The Ten Books On Architecture
+  title: The ten books on architecture
   translator:
     - family: Morgan
       given: Morris H.
@@ -10212,7 +10335,7 @@ references:
   page: 138-167
   publisher: Yale University Press
   publisher-place: New Haven
-  title: Building Types
+  title: Building types
   type: chapter
 
 - id: westfall:2008why
@@ -10314,6 +10437,28 @@ references:
   title: Ancient building technology
   type: book
   volume: '2'
+
+- id: wright:2000ancient3
+  author:
+    - family: Wright
+      given: George R. H.
+  call-number: TH16 .W76 2000
+  citation-key: wright:2000ancient3
+  collection-number: v. 4, 7
+  collection-title: Technology and change in history
+  event-place: Leiden ; Boston
+  ISBN: >-
+    978-90-04-14007-3 978-90-04-09969-2 978-90-04-14488-0 978-90-04-14489-7
+    978-90-04-17746-8 978-90-04-17747-5 978-90-04-17745-1
+  issued:
+    - year: 2000
+  language: en
+  publisher: Brill
+  publisher-place: Leiden ; Boston
+  source: Library of Congress ISBN
+  title: Ancient building technology
+  type: book
+  volume: '3'
 
 - id: zeising:1854neue
   accessed:
