@@ -425,165 +425,20 @@ estilóbata, e também ajudava a regularizar o assentamento da coluna
 sobre o piso.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Origem da arquitetura clássica ##
-
-::: align-right
-![Charlez Chipiez (1835--1901), [Retrato oficial da Academia de Arquitetura da França]](https://conservation.academie-architecture.fr/icono/535/hd_535_013.jpg){#fig:chipiez-acad}
-:::
-
-[Retrato oficial da Academia de Arquitetura da França]: https://conservation.academie-architecture.fr/objet/535
+## Capitéis ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A construção arquitravada do Mediterrâneo oriental se
-origina desse tipo de cabana com esteios em madeira apoiados sobre bases
-em pedra, e vigas em madeira apoiadas sobre os esteios. Nenhuma dessas
-ligações é engastada ou rígida. O arquiteto e professor francês Charles
-Chipiez ([@fig:chipiez-acad]) viajou na segunda metade do século
-[XIX]{.smallcaps} pela Pérsia, Egito, Mesopotâmia e Anatólia para tentar
-reconstituir a origem dessa tradição. Ele aplicou um método arqueológico
-e etnográfico moderno ao mesmo problema sobre o qual tinham se debruçado
-Vitrúvio, Laugier e Semper: explicar a origem da arquitetura clássica
-greco-romana por meio de alguma forma de cabana primitiva.
+Do mesmo modo, o topo da coluna não encosta diretamente na viga, mas
+é coroado com um capitel. Diferentes formas de capitéis correspondem a
+diferentes necessidades estruturais: mãos lineares para um lado ou para
+o outro ajudam a conter o cisalhamento nas extremidades das vigas
+(@fig:chipiez-159); capitéis quadrados servem simplesmente para
+regularizar o contato entre a coluna e a arquitrave; e capitéis em forma
+de U evitam o deslizamento das vigas para os lados, além de facilitar a
+sobreposição de vigas perpendiculares entre si.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Em 1876, Chipiez publicou um livro intitulado *História crítica das
-origens e da formação das ordens gregas* [@chipiez:1876histoire]. Além
-de discutir exemplos canônicos da arquitetura monumental do antigo
-Oriente Médio ([@fig:chipiez-compare]), Chipiez documentou algumas cabanas
-rústicas contemporâneas no interior da Anatólia, na Turquia.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-::: full
-!["Ordens" de colunas egípcias, persas e jônicas gregas. [Chipiez, 1876]. Sem escala](https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png){#fig:chipiez-compare .line}
-:::
-
-* * * *
-
-![Cabana vernácula na Anatólia com colunata dianteira. [Chipiez, 1876]](https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png){#fig:chipiez-208 .line .outset}
-
-[Chipiez, 1876]: https://archive.org/details/histoirecritique00chip/
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-O modelo interpretativo proposto por Chipiez reporta as origens da
-tradição arquitravada do Mediterrâneo oriental a esses tipos de cabanas
-que subsistiam ainda, no século [XIX]{.smallcaps}, na Anatólia
-([@fig:chipiez-208]). Na verdade, a evidência arqueológica não nos permite
-dizer se essas cabanas do século [XIX]{.smallcaps} eram iguais ou mesmo
-parecidas com as formas mais primitivas de cabanas em madeira no
-Mediterrâneo oriental como um todo.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-::: align-right
-![Região de origem da construção arquitravada "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:medor .nobg}
-:::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Mesmo que a evidência histórica dessa genealogia seja frágil, para dizer
-o mínimo, ela é relevante do ponto de vista da lógica de montagem da
-construção arquitravada. O modelo de Chipiez era um esforço sistemático
-para integrar todas as tradições arquitravadas da região, desde a Pérsia
-até a Grécia, passando pela costa do Levante, pelo Egito e pela Anatólia
-([@fig:medor]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## {data-background-image="https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png" data-background-size="contain"}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-As cabanas documentadas por Chipiez demonstram uma aplicação consistente
-de um sistema de colunas com base, fuste e capitel, acompanhadas de um
-entablamento com vigas mestras ou *arquitraves* (daí o nome desse
-sistema), barrotes e platibandas ([@fig:chipiez-209]). Não importa se
-essas cabanas representam a *origem* ou uma *variação* em torno do tema
-da arquitetura clássica: elas demonstram a existência de uma tradição
-difundida e resiliente ao longo de pelo menos três milênios.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-As cabanas de Chipiez também demonstram as proporções limite para
-estruturas com grandes peças de madeira: 1:15 para as colunas e 1:10
-para as vigas. É claro que o cálculo estrutural moderno permite um
-dimensionamento mais preciso de cada elemento, mas essas proporções são
-limites práticos e seguros no conhecimento empírico da construção
-tradicional.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Cabana vernácula na Anatólia com colunata perimetral, segundo [Chipiez, 1876]](https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png){#fig:chipiez-209 .line .outset}
-
-* * * *
-
-![Fustes invertidos das colunas no palácio de Cnossos, c. 1650 a.C., em reconstituição de Arthur Evans, 1922. Foto: [Olaf Tausch, 2016]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Knossos_Westbastion_01.jpg/1280px-Knossos_Westbastion_01.jpg){#fig:knossos-westbastion .outset}
-
-[Olaf Tausch, 2016]: https://commons.wikimedia.org/wiki/File:Knossos_Westbastion_01.jpg
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Uma versão do sistema mediterrâneo usando troncos de madeira mais
-robustos foi experimentada no mundo grego durante a Idade do Bronze.
-Entre 1500 e 1300 a.C., os palácios minoicos e heládicos usavam fustes
-invertidos apoiados sobre bases. Essa forma talvez remetesse a um uso
-primitivo de troncos fincados no chão pela ponta mais estreita. Em
-qualquer caso, eles foram um estilo muito característico de palácios
-como Cnossos ([@fig:knossos-westbastion]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Construção em pedra ##
-
-::: align-right
-![Auguste Choisy (1841--1909) fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eugène_Pirou.jpg){#fig:choisy}
-:::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A construção arquitravada em pedra não deve ser vista como um progresso
-sobre a construção em madeira; edifícios monumentais em pedra podem ser
-tão ou mais antigos quanto outros edifícios monumentais em madeira. A
-diferença, como notou o historiador da arquitetura francês Auguste
-Choisy ([@fig:choisy]) no final do século [XIX]{.smallcaps},
-pode ter tanto a ver com a disponibilidade de materiais quanto com um
-desejo de fazer construções mais duráveis [@choisy:1899histoire1]. É o
-caso do Egito antigo, onde a madeira de qualidade para construir era
-muito escassa, em geral reservada para a construção naval e mesmo assim
-importada.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-As principais diferenças entre a construção com madeira e com pedra
-dizem respeito à baixa resistência da pedra à flexão. Isso implica que
-as construções em pedra não podem ter praticamente nenhum balanço
-estrutural ([@fig:choisy-1.14a]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Pilares e lajes em pedra no Egito antigo. [Choisy, 1899]](https://upload.wikimedia.org/wikipedia/commons/d/d5/Choisy-bnf-bpt6k6417116t_0040.png){#fig:choisy-1.14a .line}
-
-[Choisy, 1899]: https://commons.wikimedia.org/wiki/Category:Histoire_de_l'architecture,_by_Auguste_Choisy_(1899)
-
-<!--_-->
-
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Como os elementos estruturais não podem estar em balanço, as arquitraves
-precisam sempre ter as suas extremidades dentro da projeção vertical das
-colunas que as sustentam. Essa condição foi minuciosamente documentada
-com respeito aos templos da Grécia clássica pelo historiador da
-arquitetura alemão Josef Durm ([@fig:durm-140]).
-
-Os livros de Durm são manuais de construção tradicional exaustivos,
-usando como base as tradições da Grécia clássica e dos etruscos
-[@durm:1910baukunst; @durm:1905baukunst]. Estude com atenção as figuras
-em ambos e aprenderá muito sobre como montar uma estrutura arquitravada.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-![Arquitrave do templo de Zeus Olímpico, Atenas, século [II]{.smallcaps} d.C. [Josef Durm, 1892]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gebalk_des_Zeustempel_in_Athen-Durm_Baukunst_der_Griechen_abb.140.png/1075px-Gebalk_des_Zeustempel_in_Athen-Durm_Baukunst_der_Griechen_abb.140.png){#fig:durm-140 .line .outset}
-
-[Josef Durm, 1892]: https://commons.wikimedia.org/wiki/Category:Handbuch_der_Architektur_(1892)
+![Arquétipo em madeira da ordem toscana, segundo Chipiez, 1876](https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png){#fig:chipiez-159 .line .outset}
 
 # Assoalhos e terraços
 
@@ -597,7 +452,13 @@ essas colunas. Agora, temos que fechar um piso ou teto sobre essas
 vigas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Corrosão da armadura e perda de cobrimento em laje de concreto armado. Foto: Marcos Felix, [Artam Engenharia, 2010][]](https://i.pinimg.com/originals/50/62/0c/50620c027c0cf0af72578fbddf576a2a.jpg){#fig:laje-pato}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Artam Engenharia, 2010]: https://www.artam.com.br/patologia-em-concreto-armado-recuperacao-estrutural/patologia-em-estrutura-concreto-armado-2/
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na construção moderna, o método mais comum para se preencher esse piso é
@@ -608,7 +469,8 @@ uma previsão específica de carregamento que pode não ser respeitada ao
 longo da vida útil do edifício e das mudanças de uso pelas quais ele
 pode passar; segundo, porque a laje é muito suscetível a defeitos de
 cobrimento durante a execução, e depois a infiltrações durante a vida
-útil, o que pode causar exposição e corrosão da armadura.
+útil, o que pode causar exposição e corrosão da armadura
+([@fig:laje-pato]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ------
@@ -625,14 +487,34 @@ flexão.
 
 ------
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Esquema de um assoalho e terraço tradicional segundo Wright, *Ancient Building Technology*. 1 – vigas de madeira serrada, 2 – barroteamento de toras, 3 – ripado de taquara, 4 – vedação de esteira, 5 – terrapleno de barro, 6 – reboco de argila ou argamassa de cal](https://hcommons.org/app/uploads/sites/1002372/2022/06/wright-ancient_building_technology_3-2000-0127.png){#fig:terrace .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A construção de pisos tradicionais em madeira consiste, portanto, em
 preencher uma superfície contínua usando elementos de dimensões finitas
---- vigas, barrotes e tábuas. A montagem de um assoalho tradicional pode
+--- vigas, barrotes e ripados ou tábuas ([@fig:terrace]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A montagem de um assoalho tradicional pode
 funcionar tanto como o piso de um pavimento quanto como o teto do
-pavimento abaixo. A combinação de elementos construtivos para fazer esse
+pavimento abaixo ([@fig:knossos-tomb]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Isométrica seccionada de uma sepultura em Cnossos, Creta, Idade do Bronze tardia, segundo Wright, *Ancient Building Technology*. 1 – arquitrave em madeira serrada, 2 – barrotes em madeira serrada, 3 – ripado de toras, 4 – contrapiso de barro com cal](https://hcommons.org/app/uploads/sites/1002372/2022/06/wright-ancient_building_technology_3-2000-0131.png){#fig:knossos-tomb .line}
+
+------
+
+![Conexões na carpintaria estrutural da Roma antiga, segundo Jean-Pierre Adam](https://hcommons.org/app/uploads/sites/1002372/2022/06/adam-arte_di_costruire_presso_i_romani-1990-231.png){#fig:adam231 .line .outset}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A combinação de elementos construtivos para fazer esse
 assoalho, além de ser uma competência estrutural bastante desenvolvida
-em todas as culturas, é um dos recursos mais interessantes de expressão
+em todas as culturas ([@fig:adam231]), é um dos recursos mais interessantes de expressão
 plástica nos ambientes interiores da arquitetura.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
@@ -652,7 +534,7 @@ assoalhos, que conectam e travam esses sistemas entre si.
 
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/Secret_of_the_Pagodas_Earthquake_Resistant_Design-uG37gQSvrf4-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
-:::::::::::::::::::::::::::: {.iframe-wrapper .full #fig:toji .slide-bg}
+:::::::::::::::::::::::::: {.iframe-wrapper #fig:toji .slide-bg .outset}
 <iframe src="https://www.youtube-nocookie.com/embed/uG37gQSvrf4?start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Comportamento estrutural de um pagode japonês num terremoto. Vídeo: [Science Channel, 2016]
@@ -662,7 +544,7 @@ Comportamento estrutural de um pagode japonês num terremoto. Vídeo: [Science C
 
 * * * *
 
-![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük, c. 6500 a.C.](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build}
+![Diagrama dos sistemas construtivos de uma célula em Çatal Höyük, c. 6500 a.C.](https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png){#fig:catalhoyuk-build .outset .nobg}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A forma mais simples de contraventamento estrutural possível é construir
@@ -700,19 +582,49 @@ construção arquitravada do Mediterrâneo oriental:
 2. Núcleo rígido
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Redundância estrutural ## {data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
+## Redundância estrutural ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A primeira solução é uma certa redundância no dimensionamento da
-estrutura. Essa redundância não é só uma margem de segurança no perfil
+estrutura.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essa redundância não é só uma margem de segurança no perfil
 de cada elemento tomado individualmente --- o diâmetro das colunas ou a
 seção das arquitraves e dos barrotes. Ainda assim, essa margem de
 segurança existe e não é pequena. A gama de proporções canônicas das
 ordens clássicas gregas, ou mesmo a das colunas persas, é um tanto
-conservadora (compare [@fig:chipiez-208; @fig:chipiez-compare]); uma
-parte disso tem a ver com a transposição de materiais da madeira para a
-pedra.
+conservadora (compare [@fig:chipiez-208; @fig:chipiez-compare]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Colunata do fórum de Pompeia, corte transversal segundo Jean-Pierre Adam](https://hcommons.org/app/uploads/sites/1002372/2022/06/adam-arte_di_costruire_presso_i_romani-1990-467.png){#fig:forum-sec .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Uma parte disso tem a ver com a transposição de materiais da madeira
+para a pedra, ou com a combinação de elementos em madeira e pedra na
+arquitetura grega e romana ([@fig:forum-sec]). Não é possível fazer
+conexões rígidas entre elementos de madeira e de pedra, só encaixes
+simplesmente apoiados. Por isso, todo o contraventamento possível nessas
+construções se deve ao excesso de seção estrutural em cada elemento.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Essa transposição já tinha sido feita por completo no Egito antigo,
+sobretudo devido à falta de madeira naquela região. O resultado são as
+famosas estruturas superdimensionadas, com vãos pequenos por causa da
+fraca resistência à flexão das lajes em granito ([@fig:karnak-axon]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Salão principal do templo em Karnak, isométrica seccionada por Perrot e Chipiez](https://hcommons.org/app/uploads/sites/1002372/2022/06/wright-ancient_building_technology_3-2000-0253.png){#fig:karnak-axon .line}
 
 ## {data-background-image="https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png"}
 
@@ -854,22 +766,138 @@ exteriores. O resultado é um esqueleto contraventado em dois planos,
 muito mais estável ([@fig:fu2017-8.8]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Da madeira à pedra
+# Da madeira à pedra #
+
+## {data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/mixkit-ruins-of-ancient-greece-in-the-city-of-athens-30369-medium.mp4" data-background-video-muted="true" data-background-video-loop="true"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A arquitetura clássica é, em última análise, a razão de
+ser dos mitos sobre a cabana primitiva que vimos [antes](processos.md).
+Por isso, não é de surpreender que esses mitos favoreçam a tradição da
+Grécia antiga ([@fig:akroath-drone]) como descendente privilegiada da
+construção arquitravada em madeira, na sua versão primordial imaginária.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Ruínas da acrópole de Atenas](https://cdn.palazzo.arq.br/firmitas/arquitravada/mixkit-ruins-of-ancient-greece-in-the-city-of-athens-30369-medium.mp4){#fig:akroath-drone .slide-bg .outset}
+
+------
 
 ::: align-right
 ![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A arquitetura clássica é, em última análise, a razão de
-ser dos mitos sobre a cabana primitiva que vimos [antes](processos.md).
-Por isso, não é de surpreender que esses mitos
-favoreçam a tradição da Grécia antiga como descendente privilegiada da
-construção arquitravada em madeira, na sua versão primordial imaginária.
 A alegoria iluminista contada por Laugier na metade do século
 [XVIII]{.smallcaps} [@laugier:1753essai] é explícita em associar a
 invenção *racional* da cabana primitiva com a pretensão de superioridade
 da arquitetura clássica e neoclássica ([@fig:laugier]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Origem da arquitetura clássica ##
+
+::: align-right
+![Charlez Chipiez (1835--1901), [Retrato oficial da Academia de Arquitetura da França]](https://conservation.academie-architecture.fr/icono/535/hd_535_013.jpg){#fig:chipiez-acad}
+:::
+
+[Retrato oficial da Academia de Arquitetura da França]: https://conservation.academie-architecture.fr/objet/535
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A construção arquitravada do Mediterrâneo oriental se
+origina desse tipo de cabana com esteios em madeira apoiados sobre bases
+em pedra, e vigas em madeira apoiadas sobre os esteios. Nenhuma dessas
+ligações é engastada ou rígida. O arquiteto e professor francês Charles
+Chipiez ([@fig:chipiez-acad]) viajou na segunda metade do século
+[XIX]{.smallcaps} pela Pérsia, Egito, Mesopotâmia e Anatólia para tentar
+reconstituir a origem dessa tradição. Ele aplicou um método arqueológico
+e etnográfico moderno ao mesmo problema sobre o qual tinham se debruçado
+Vitrúvio, Laugier e Semper: explicar a origem da arquitetura clássica
+greco-romana por meio de alguma forma de cabana primitiva.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Em 1876, Chipiez publicou um livro intitulado *História crítica das
+origens e da formação das ordens gregas* [@chipiez:1876histoire]. Além
+de discutir exemplos canônicos da arquitetura monumental do antigo
+Oriente Médio ([@fig:chipiez-compare]), Chipiez documentou algumas cabanas
+rústicas contemporâneas no interior da Anatólia, na Turquia.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::: full
+!["Ordens" de colunas egípcias, persas e jônicas gregas. [Chipiez, 1876]. Sem escala](https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png){#fig:chipiez-compare .line}
+:::
+
+* * * *
+
+![Cabana vernácula na Anatólia com colunata dianteira. [Chipiez, 1876]](https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png){#fig:chipiez-208 .line .outset}
+
+[Chipiez, 1876]: https://archive.org/details/histoirecritique00chip/
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+O modelo interpretativo proposto por Chipiez reporta as origens da
+tradição arquitravada do Mediterrâneo oriental a esses tipos de cabanas
+que subsistiam ainda, no século [XIX]{.smallcaps}, na Anatólia
+([@fig:chipiez-208]). Na verdade, a evidência arqueológica não nos permite
+dizer se essas cabanas do século [XIX]{.smallcaps} eram iguais ou mesmo
+parecidas com as formas mais primitivas de cabanas em madeira no
+Mediterrâneo oriental como um todo.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::: align-right
+![Região de origem da construção arquitravada "clássica"](https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png){#fig:medor .nobg}
+:::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Mesmo que a evidência histórica dessa genealogia seja frágil, para dizer
+o mínimo, ela é relevante do ponto de vista da lógica de montagem da
+construção arquitravada. O modelo de Chipiez era um esforço sistemático
+para integrar todas as tradições arquitravadas da região, desde a Pérsia
+até a Grécia, passando pela costa do Levante, pelo Egito e pela Anatólia
+([@fig:medor]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png" data-background-size="contain"}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As cabanas documentadas por Chipiez demonstram uma aplicação consistente
+de um sistema de colunas com base, fuste e capitel, acompanhadas de um
+entablamento com vigas mestras ou *arquitraves* (daí o nome desse
+sistema), barrotes e platibandas ([@fig:chipiez-209]). Não importa se
+essas cabanas representam a *origem* ou uma *variação* em torno do tema
+da arquitetura clássica: elas demonstram a existência de uma tradição
+difundida e resiliente ao longo de pelo menos três milênios.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As cabanas de Chipiez também demonstram as proporções limite para
+estruturas com grandes peças de madeira: 1:15 para as colunas e 1:10
+para as vigas. É claro que o cálculo estrutural moderno permite um
+dimensionamento mais preciso de cada elemento, mas essas proporções são
+limites práticos e seguros no conhecimento empírico da construção
+tradicional.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Cabana vernácula na Anatólia com colunata perimetral, segundo [Chipiez, 1876]](https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png){#fig:chipiez-209 .line .outset}
+
+* * * *
+
+![Fustes invertidos das colunas no palácio de Cnossos, c. 1650 a.C., em reconstituição de Arthur Evans, 1922. Foto: [Olaf Tausch, 2016]](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Knossos_Westbastion_01.jpg/1280px-Knossos_Westbastion_01.jpg){#fig:knossos-westbastion .outset}
+
+[Olaf Tausch, 2016]: https://commons.wikimedia.org/wiki/File:Knossos_Westbastion_01.jpg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Uma versão do sistema mediterrâneo usando troncos de madeira mais
+robustos foi experimentada no mundo grego durante a Idade do Bronze.
+Entre 1500 e 1300 a.C., os palácios minoicos e heládicos usavam fustes
+invertidos apoiados sobre bases. Essa forma talvez remetesse a um uso
+primitivo de troncos fincados no chão pela ponta mais estreita. Em
+qualquer caso, eles foram um estilo muito característico de palácios
+como Cnossos ([@fig:knossos-westbastion]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png" data-background-size="contain"}
@@ -903,7 +931,7 @@ arquitetura clássica é quase tão universalmente aceito, e quase tão
 estereotipado, quanto o *milagre* da filosofia grega.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%"}
+## Tradição mediterrânea ## {data-background-image="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png" data-background-size="auto 75%" data-background-position="2.5% 2.5%"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por causa disso, é fácil esquecer que a arquitetura grega faz parte de
@@ -925,36 +953,37 @@ combina um sistema de colunas em madeira com paredes em alvenaria, que
 servem de divisórias no espaço mas também costumam ter função estrutural
 ([@fig:chipiez-208]). As colunas propriamente ditas são, na sua
 origem, troncos de árvores.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Diagrama de êntase das colunas no canteiro do templo de Apolo em Dídima, c. 300 a.C., reproduzido em Wright, *Ancient Building Technology*. 1 – topo do fuste, 2 – eixo da coluna, 3 – moldura da base.](https://hcommons.org/app/uploads/sites/1002372/2022/06/wright-ancient_building_technology_3-2000-0010.1.png){#fig:entasis-didyma .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por causa do uso de troncos nas origens dessa tradição, as colunas têm
 uma contratura elegante, onde o diâmetro superior é ligeiramente menor
 do que o diâmetro inferior. Essa contratura é feita com um perfil em
-curva suave, chamado de êntase. Num antigo canteiro de obra grego, foi
-descoberto um diagrama que mostra o método de construção geométrica
-dessa curva, numa escala distorcida verticalmente; esse método já tinha
-sido intuído pelo arquiteto italiano Fra Giocondo no século
-[XVI]{.smallcaps}, muito antes da descoberta desse diagrama
-([@fig:entasis]).
+curva suave, chamado de êntase. Por volta do ano 300 a.C., os
+pedreiros do templo de Apolo em Dídima, na Grécia, usavam
+um diagrama que mostra o método de construção geométrica
+dessa curva, numa escala distorcida verticalmente
+[@wright:2000ancient3]. A diferença de escala entre os eixos vertical e
+horizontal era pela praticidade de se tirar medidas a partir desse
+diagrama ([@fig:entasis-didyma]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::: full
-![Esquema da êntase de uma coluna clássica, na edição do tratado de Vitrúvio por Fra Giocondo, século [XVI]{.smallcaps} (redesenhado no século [XX]{.smallcaps})](https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png){#fig:entasis .line}
-:::
-
-* * * *
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Do mesmo modo, o topo da coluna não encosta diretamente na viga, mas
-é coroado com um capitel. Diferentes formas de capitéis correspondem a
-diferentes necessidades estruturais: mãos lineares para um lado ou para
-o outro ajudam a conter o cisalhamento nas extremidades das vigas
-(@fig:chipiez-159); capitéis quadrados servem simplesmente para
-regularizar o contato entre a coluna e a arquitrave; e capitéis em forma
-de U evitam o deslizamento das vigas para os lados, além de facilitar a
-sobreposição de vigas perpendiculares entre si.
+Antes da descoberta do canteiro de Dídima pelos arqueólogos do século
+[XX]{.smallcaps}, esse método já tinha
+sido intuído pelo arquiteto italiano Fra Giocondo no século
+[XVI]{.smallcaps} ([@fig:entasis-giocondo]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Arquétipo em madeira da ordem toscana, segundo Chipiez, 1876](https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png){#fig:chipiez-159 .line .outset}
+![Esquema da êntase de uma coluna clássica, na edição do tratado de Vitrúvio por Fra Giocondo, século [XVI]{.smallcaps} (redesenhado no século [XX]{.smallcaps})](https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png){#fig:entasis-giocondo .line}
 
 ## Construção aditiva ##
 
@@ -995,7 +1024,7 @@ estruturais que seguem dimensões e proporções padronizadas.
 
 * * * *
 
-![Regras de carpintaria segundo o *Yingcao fashi*, século [XI]{.smallcaps}, traduzidas e ilustradas por Liang Sicheng no século [XX]{.smallcaps}](https://i.pinimg.com/originals/9d/f8/1a/9df81a21d7cc6f867e223109c33b0277.png){#fig:liang-103 .line .outset}
+![Regras de carpintaria segundo o *Yingzao fashi*, século [XI]{.smallcaps}, traduzidas e ilustradas por Liang Sicheng no século [XX]{.smallcaps}](https://i.pinimg.com/originals/9d/f8/1a/9df81a21d7cc6f867e223109c33b0277.png){#fig:liang-103 .line .outset}
 
 ## {data-background-image=""}
 
@@ -1008,7 +1037,7 @@ medidas nominais, e o desempenho estrutural das armações de esteios e
 barrotes é bem conhecido.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
+## Modularidade ## {data-background-image=""}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A modularidade tem um papel importante na padronização de concepções
@@ -1031,7 +1060,7 @@ topo. Outra possibilidade é o uso de tramos alternados.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Uma das variações mais frequentes em várias tradições de construção
 arquitravada é aumentar a amplitude do vão central e reduzi-la nas
-extremidades da colunata. Esse ajuste está previsto no *Yingcao fashi* e
+extremidades da colunata. Esse ajuste está previsto no *Yingzao fashi* e
 é um dos assim chamados "refinamentos ópticos" bem conhecidos na
 arquitetura clássica greco-romana. Talvez essa prática se origine de uma
 percepção intuitiva de que os cantos da construção precisam ter uma
@@ -1067,6 +1096,75 @@ condições estruturais, funcionais ou estéticas. A forma mais comum é
 enquadrar um vão largo entre dois vãos estreitos, e assim
 sucessivamente, terminando sempre com um vão estreito nas extremidades
 da construção, e tendo de preferência um vão largo no eixo de simetria.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Construção em pedra ##
+
+::: align-right
+![Auguste Choisy (1841--1909) fotografado por Eugène Pirou, 1904](https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eugène_Pirou.jpg){#fig:choisy}
+:::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A construção arquitravada em pedra não deve ser vista como um progresso
+sobre a construção em madeira; edifícios monumentais em pedra podem ser
+tão ou mais antigos quanto outros edifícios monumentais em madeira. A
+diferença, como notou o historiador da arquitetura francês Auguste
+Choisy ([@fig:choisy]) no final do século [XIX]{.smallcaps},
+pode ter tanto a ver com a disponibilidade de materiais quanto com um
+desejo de fazer construções mais duráveis [@choisy:1899histoire1]. É o
+caso do Egito antigo, onde a madeira de qualidade para construir era
+muito escassa, em geral reservada para a construção naval e mesmo assim
+importada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+As principais diferenças entre a construção com madeira e com pedra
+dizem respeito à baixa resistência da pedra à flexão. Isso implica que
+as construções em pedra não podem ter praticamente nenhum balanço
+estrutural ([@fig:choisy-1.14a]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Pilares e lajes em pedra no Egito antigo. [Choisy, 1899]](https://upload.wikimedia.org/wikipedia/commons/d/d5/Choisy-bnf-bpt6k6417116t_0040.png){#fig:choisy-1.14a .line}
+
+[Choisy, 1899]: https://commons.wikimedia.org/wiki/Category:Histoire_de_l'architecture,_by_Auguste_Choisy_(1899)
+
+<!--_-->
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Como os elementos estruturais não podem estar em balanço, as arquitraves
+precisam sempre ter as suas extremidades dentro da projeção vertical das
+colunas que as sustentam. Essa condição foi minuciosamente documentada
+com respeito aos templos da Grécia clássica pelo historiador da
+arquitetura alemão Josef Durm ([@fig:durm-140]).
+
+Os livros de Durm são manuais de construção tradicional exaustivos,
+usando como base as tradições da Grécia clássica e dos etruscos
+[@durm:1910baukunst; @durm:1905baukunst]. Estude com atenção as figuras
+em ambos e aprenderá muito sobre como montar uma estrutura arquitravada.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Arquitrave do templo de Zeus Olímpico, Atenas, século [II]{.smallcaps} d.C. [Josef Durm, 1892]](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gebalk_des_Zeustempel_in_Athen-Durm_Baukunst_der_Griechen_abb.140.png/1075px-Gebalk_des_Zeustempel_in_Athen-Durm_Baukunst_der_Griechen_abb.140.png){#fig:durm-140 .line .outset}
+
+[Josef Durm, 1892]: https://commons.wikimedia.org/wiki/Category:Handbuch_der_Architektur_(1892)
+
+------
+
+![Templo de Hefesto, Atenas, c. 450 a.C., teto com vigas e artesões em pedra. Foto: [Pedro P. Palazzo. 2011](https://commons.wikimedia.org/wiki/File:Gr-athina-hephaisteion-110601-pp-4523.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gr-athina-hephaisteion-110601-pp-4523.jpg/2560px-Gr-athina-hephaisteion-110601-pp-4523.jpg){#fig:coffer-heph .outset}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+A arquitetura clássica em pedra não é uma transposição direta da
+madeira, mas uma recriação das proporções e da estética tradicionais da
+construção em madeira para uma concepção construtiva totalmente nova.
+Uma evidência disso são os tetos artesoados dos templos clássicos do
+século [V]{.smallcaps} a.C. em diante, como o templo de Hefesto em
+Atenas ([@fig:coffer-heph]). Os artesões ou caixotões são sistemas
+formados por grelhas e lajes de pedra que vencem os vãos entre as vigas
+ou barrotes, levando em conta o fato de que a pedra é mais dura que a
+madeira, mas tem menor desempenho à flexão.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Conclusão ##
