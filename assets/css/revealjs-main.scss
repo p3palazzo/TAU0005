@@ -39,8 +39,8 @@ html {
   ol, ul,
   .r-frame,
   .box {
-    background: transparentize($backgroundColor, 0.3);
-    backdrop-filter: blur(5px);
+    -webkit-backdrop-filter: blur(2px);
+            backdrop-filter: blur(2px);
     border: none;
     padding-left: 10px;
     padding-right: 10px;
