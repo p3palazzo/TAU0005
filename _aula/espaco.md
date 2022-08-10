@@ -12,11 +12,11 @@ excerpt: >
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
   caption: "Thomas Cole, [Decurso do império: desolação](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg), 1836"
+  actions:
+    - label: "Slides"
+      url  : /slides/espaco/
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
-  actions:
-  - label: "Slides"
-    url  : /slides/espaco/
 
 sidebar:
 - title: "Leitura obrigatória"
@@ -657,7 +657,7 @@ por ventilação cruzada).
 Arquitetura edicular [@hardy:2019kashmiri; @bharne:2012rediscovering].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Índia antiga: do lugar ao volume ## {data-visibility="hidden"}
+## Índia antiga: do lugar ao volume ##
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png" data-background-size="contain"}
 
@@ -1024,14 +1024,18 @@ destinos principais da circulação dentro dele, etc.
 
 ## Tipologia tradicional, composição clássica e projeto moderno ## {data-visibility="hidden"}
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png"}
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A existência de um certo número de tipos --- ideias de edificações dadas
 *a priori* --- é um dos aspectos que definem uma cultura arquitetônica
 como sendo tradicional [@petruccioli:1998exoteric]. Há vários esquemas
 teóricos que tentam explicar como os tipos se formam e se transformam
-[@muratori:1959studiIX; @moudon:1994getting]. Um desses esquemas,
+[@muratori:1959studiIX; @moudon:1994getting].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Um desses esquemas,
 proposto pelo professor C. William Westfall da Universidade de Notre
 Dame, nos Estados Unidos [@westfall:1991building], propõe reduzir todas
 as formas tangíveis dos tipos edilícios a sete propósitos sociais
@@ -1042,7 +1046,7 @@ abstratos ([@fig:7types]).
 ![Sete tipos edilícios. Baseado em Westfall, 1991](https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png){#fig:7types   .nobg}
 :::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/Glossary_Palladio.png" data-background-size="contain"}
+------
 
 ![Andrea Palladio, arquiteto, esquemas de composição de diferentes *ville* segundo Hersey e Freedam](https://hcommons.org/app/uploads/sites/1002372/2021/09/Glossary_Palladio.png){#fig:palladio-hersey-freedam .line}
 
@@ -1057,18 +1061,14 @@ construções não é a aderência a uma ideia visual predefinida --- que não
 estava consagrada até então --- e sim a exploração de variações num
 esquema de distribuição de salas principais e secundárias
 [@schumacher:1987palladio] ([@fig:palladio-hersey-freedam]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A partir da metade do século [XVIII]{.smallcaps}, vemos uma tentativa de
 racionalização dos programas arquitetônicos a partir do conceito de
 "distribuição" dos ambientes [@etlin:1978dedans;
 @blondel:1737distribution].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://digi.ub.uni-heidelberg.de/diglitData/image/durand1802/1/Planche_54.jpg" data-background-position="top"}
+------
 
 ::: full
 ![Comparação de palácios romanos e genoveses dos séculos [XVI--XVIII]{.smallcaps}. Desenhados por [J.N.L. Durand, *Recueil et parallèle des édifices de tout genre...*, pr. 54]](https://digi.ub.uni-heidelberg.de/diglitData/image/durand1802/1/Planche_54.jpg){#fig:durand-rp054}
@@ -1082,7 +1082,7 @@ arquitetônico reduzindo os programas a princípios gerais com estilos
 intercambiáveis ([@fig:durand-rp054]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/partiegraphiqued00dura_0128-1080p.png" data-background-size="contain"}
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 No sistema de Durand, a composição não é racionalizada segundo programas
@@ -1095,7 +1095,7 @@ de dar um *reset* nos propósitos fundamentais da arquitetura.
 
 [*Partie graphique des cours d'architecture...*]: https://archive.org/details/partiegraphiqued00dura/
 
-## {data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/partiegraphiqued00dura_0060-1080p.png" data-background-size="contain"}
+------
 
 ![J.N.L. Durand, edifícios planejados sobre grelha uniforme. [*Partie graphique des cours d'architecture...*]](https://hcommons.org/app/uploads/sites/1002372/2021/09/partiegraphiqued00dura_0060-1080p.png){#fig:durand-pg060 .line}
 
@@ -1139,7 +1139,7 @@ definidos internamente (ligar ou separar elementos em uma composição).
 
 ## {data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/helio-pinon-modelos-de-ensenanza.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
-![Helio Piñón no [Congresso Internacional [EAUCLM--T]{.smallcaps}, 2011]](https://cdn.palazzo.arq.br/utilitas/volumes/helio-pinon-modelos-de-ensenanza.webm){#fig:pinon}
+![Helio Piñón no [Congresso Internacional [EAUCLM--T]{.smallcaps}, 2011]](https://cdn.palazzo.arq.br/utilitas/volumes/helio-pinon-modelos-de-ensenanza.webm){#fig:pinon .slide-bg}
 
 [Congresso Internacional [EAUCLM--T]{.smallcaps}, 2011]: https://vimeo.com/20146063
 
@@ -1181,7 +1181,7 @@ digamos, *não moderno* de uma arquitetura baseada na composição com
 elementos predefinidos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg" data-background-size="contain" data-background-position="left"}
+------
 
 ::: align-right
 ![Claude Perrault, *Ordem das cinco espécies de colunas segundo o método dos Antigos*, 1683](https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg){#fig:perrault}
@@ -1192,11 +1192,7 @@ Esses elementos podem ser físicos, como as cinco *ordens* canônicas da
 arquitetura clássica, aqui na forma do sistema de proporções
 desenvolvido pelo erudito francês Claude Perrault no final do século
 [XVII]{.smallcaps} ([@fig:perrault]).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-image=""}
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esses elementos também podem ser os *vazios* entre a matéria construída.
 Na arquitetura tradicional, esses vazios quase sempre têm uma forma
 geométrica fácil de apreender e nitidamente delimitada pelos elementos
@@ -1207,9 +1203,7 @@ arquitetura.
 
 # Elementos de composição #
 
-## Formas volumétricas ## {data-visibility="hidden"}
-
-##
+## Formas volumétricas ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Mais cedo, dissemos que arquitetura é construção. Mas para que serve a
@@ -1218,38 +1212,40 @@ cabana primitiva [@semper:1851vier], é cobrir e delimitar os lugares
 onde acontece a vida social.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Formas básicas de construções ## {data-visibility="hidden"}
+## Formas básicas de construções ##
+
+------
 
 ::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-56-57}
 ::: {.column width=50%}
-![Formas arquitetônicas primárias: adaptações do quadrado, triângulo e círculo, exemplos teóricos de tipos edilícios primários, p. 56](https://i.pinimg.com/originals/89/b4/56/89b456c0021b5b85c3a6acd0fb766ee0.png){#fig:rkrier-56 .stretch}
+![Formas arquitetônicas primárias: adaptações do quadrado, triângulo e círculo, exemplos teóricos de tipos edilícios primários, p. 56](https://i.pinimg.com/originals/89/b4/56/89b456c0021b5b85c3a6acd0fb766ee0.png){#fig:rkrier-56 width="100%"}
 :::
 ::: {.column width=50%}
-![Exemplos históricos dos tipos arquitetônicos básicos, p. 57](https://i.pinimg.com/originals/43/d7/4d/43d74d3154cd364b8ce2be5061834574.png){#fig:rkrier-57 .stretch}
-:::
-Rob Krier, *Architectural composition*, 1988
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-* * * *
-
-::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-58-59}
-::: {.column width=50%}
-![Casos teóricos de deformação dos tipos primários, p. 58](https://i.pinimg.com/originals/08/24/97/0824974c5024e4858e37dee24382b334.png){#fig:rkrier-58 .stretch}
-:::
-::: {.column width=50%}
-![Exemplos históricos de edifícios baseados em geometrias deformadas, p. 59](https://i.pinimg.com/originals/db/76/20/db76200ee6592c6a826f790c7c47aa9d.png){#fig:rkrier-59 .stretch}
+![Exemplos históricos dos tipos arquitetônicos básicos, p. 57](https://i.pinimg.com/originals/43/d7/4d/43d74d3154cd364b8ce2be5061834574.png){#fig:rkrier-57 width="100%"}
 :::
 Rob Krier, *Architectural composition*, 1988
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
-::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-60-61}
+::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-58-59 .outset}
 ::: {.column width=50%}
-![Exemplos teóricos de divisão e ruptura em espaços edificados, p. 60](https://i.pinimg.com/originals/01/63/06/016306bdedc16f5ea0483296a774e04a.png){#fig:rkrier-60 .stretch}
+![Casos teóricos de deformação dos tipos primários, p. 58](https://i.pinimg.com/originals/08/24/97/0824974c5024e4858e37dee24382b334.png){#fig:rkrier-58}
 :::
 ::: {.column width=50%}
-![Exemplos históricos de edifícios desconexos, p. 61](https://i.pinimg.com/originals/da/47/13/da47134a44bda76a2d0222c092f89c7f.png){#fig:rkrier-61 .stretch}
+![Exemplos históricos de edifícios baseados em geometrias deformadas, p. 59](https://i.pinimg.com/originals/db/76/20/db76200ee6592c6a826f790c7c47aa9d.png){#fig:rkrier-59}
+:::
+Rob Krier, *Architectural composition*, 1988
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+::::::::::::::::::::::::::::::::::: {.columns .outset #fig:rkrier-60-61}
+::: {.column width=50%}
+![Exemplos teóricos de divisão e ruptura em espaços edificados, p. 60](https://i.pinimg.com/originals/01/63/06/016306bdedc16f5ea0483296a774e04a.png){#fig:rkrier-60}
+:::
+::: {.column width=50%}
+![Exemplos históricos de edifícios desconexos, p. 61](https://i.pinimg.com/originals/da/47/13/da47134a44bda76a2d0222c092f89c7f.png){#fig:rkrier-61}
 :::
 Rob Krier, *Architectural composition*, 1988
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1260,24 +1256,24 @@ Rob Krier, *Architectural composition*, 1988
 
 * * * *
 
-::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-63-65}
+::::::::::::::::::::::::::::::::::: {.columns .outset #fig:rkrier-63-65}
 ::: {.column width=50%}
-![Exemplos teóricos de composições aditivas, p. 63](https://i.pinimg.com/originals/4c/a3/22/4ca3226e5e386d2c04d9167bc3939e56.png){#fig:rkrier-63 .stretch}
+![Exemplos teóricos de composições aditivas, p. 63](https://i.pinimg.com/originals/4c/a3/22/4ca3226e5e386d2c04d9167bc3939e56.png){#fig:rkrier-63}
 :::
 ::: {.column width=50%}
-![Exemplos históricos de edifícios aditivos, p. 65](https://i.pinimg.com/originals/5a/c5/03/5ac503040b587365b90edb2136815044.png){#fig:rkrier-65 .stretch}
+![Exemplos históricos de edifícios aditivos, p. 65](https://i.pinimg.com/originals/5a/c5/03/5ac503040b587365b90edb2136815044.png){#fig:rkrier-65}
 :::
 Rob Krier, *Architectural composition*, 1988
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
 
-::::::::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-66-67}
+::::::::::::::::::::::::::::::::::: {.columns .outset #fig:rkrier-66-67}
 ::: {.column width=50%}
-![Exemplos teóricos de composições intersecantes, p. 66](https://i.pinimg.com/originals/95/53/7d/95537d2224cb8e5bde10764b115fc71c.png){#fig:rkrier-66 .stretch}
+![Exemplos teóricos de composições intersecantes, p. 66](https://i.pinimg.com/originals/95/53/7d/95537d2224cb8e5bde10764b115fc71c.png){#fig:rkrier-66}
 :::
 ::: {.column width=50%}
-![Exemplos históricos de edifícios compostos de interseções de elementos, p. 67](https://i.pinimg.com/originals/ff/18/8c/ff188c7f385582b9e824ec100687cdb7.png){#fig:rkrier-67 .stretch}
+![Exemplos históricos de edifícios compostos de interseções de elementos, p. 67](https://i.pinimg.com/originals/ff/18/8c/ff188c7f385582b9e824ec100687cdb7.png){#fig:rkrier-67}
 :::
 Rob Krier, *Architectural composition*, 1988
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -1286,9 +1282,7 @@ Rob Krier, *Architectural composition*, 1988
 * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Formas básicas de volumes ## {data-visibility="hidden"}
-
-## {data-background-image="https://www.researchgate.net/profile/Michael-Batty/publication/237710153/figure/fig1/AS:669450969813009@1536620957549/Convex-sets-partitions-and-axial-lines-for-the-basic-T-shape_W640.jpg" data-background-size="contain"}
+## Formas básicas de volumes ##
 
 ::: align-right
 ![(a) Espaços convexos na teoria da sintaxe espacial. Desenho por [Michael Batty e Sanjay Rana]](https://www.researchgate.net/profile/Michael-Batty/publication/237710153/figure/fig1/AS:669450969813009@1536620957549/Convex-sets-partitions-and-axial-lines-for-the-basic-T-shape_W640.jpg){#fig:convex}
@@ -1306,7 +1300,7 @@ qualquer onde todos os seus pontos podem ser visto a partir de todos os
 outros.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A sintaxe espacial é um método de *análise* da arquitetura. Já a teoria
@@ -1328,7 +1322,7 @@ claramente articulada [@krier:1988architectural].
 Rob Krier, *Architectural composition*, 1988. Volumes interiores
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+------
 
 ::::::::::::::::::::::::::::::::::::: {.columns #fig:rkrier-74-76 .full}
 ::: {.column width=50%}
@@ -1340,7 +1334,7 @@ Rob Krier, *Architectural composition*, 1988. Volumes interiores
 Rob Krier, *Architectural composition*, 1988
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-##
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Formas geométricas com ângulos ou contornos muito incomuns, como ovais,
@@ -1371,8 +1365,6 @@ Rob Krier, *Architectural composition*, 1988
 Siheyuan (pátio entre 4 alas) e gong (salão central, corredor perimetral
 e passarela coberta de ligação): Zhou em diante
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Curtis ## {data-visibility="hidden"}
 
 ## Vãos e módulos em elevação ## {data-visibility="hidden"}
 
