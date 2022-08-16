@@ -66,7 +66,7 @@ seção áurea e a teoria das "geometrias sagradas" [@bonell:1999divina;
 @doczi:2008poder] se desenvolveu.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::: {#fig:zeising .columns}
+:::::::::::::::::::::::::::::::::::::::: {#fig:zeising .columns .outset}
 ::: {.column width=50%}
 ![corpo humano](https://hcommons.org/app/uploads/sites/1002372/2022/03/neuelehrevondenp00zeis_0089.png){#fig:zeisingA .line}
 :::
@@ -76,6 +76,8 @@ seção áurea e a teoria das "geometrias sagradas" [@bonell:1999divina;
 
 Sistemas proporcionais no tratado de Adolf Zeising, 1854
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-visibility="hidden"}
 
 * * * *
 
@@ -104,17 +106,17 @@ dimensão e os quadros quantitativos são os elementos mais importantes de
 um projeto arquitetônico na atualidade.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Medidas ergonômicas em estabelecimentos de alimentação, da *Arte de projetar em arquitetura* por Ernst e Peter Neufert](https://hcommons.org/app/uploads/sites/1002372/2022/03/neufert-gastronomia-1080p.png){#fig:neufert .line}
+![Medidas ergonômicas em estabelecimentos de alimentação, da *Arte de projetar em arquitetura* por Ernst e Peter Neufert](https://hcommons.org/app/uploads/sites/1002372/2022/03/neufert-gastronomia-1080p.png){#fig:neufert .line .outset}
 
 * * * *
 
-![Reconstituição do procedimento romano de agrimensura com *groma*. [Museu Romano de Nyon][], Suíça](https://hcommons.org/app/uploads/sites/1002372/2022/03/les_arpenteurs_RomainZoom.png){#fig:groma .line}
+![Reconstituição do procedimento romano de agrimensura com *groma*. [Museu Romano de Nyon][], Suíça](https://hcommons.org/app/uploads/sites/1002372/2022/03/les_arpenteurs_RomainZoom.png){#fig:groma .line .outset}
 
 [Museu Romano de Nyon]: https://www.mrn.ch/fr/site-archeologique/presentation-0-36437
 
 * * * *
 
-::::::::::::::::::::::::::::::::::: {#fig:groma-stewart .iframe-wrapper}
+::::::::::::::::::::::::::: {#fig:groma-stewart .iframe-wrapper .outset}
 <iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/-pIUTs2XD50?start=306" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Demonstração do funcionamento de um *groma* da Roma antiga
@@ -132,13 +134,13 @@ para detalhes, molduras e outros elementos pequenos [@adam:1994roman].
 
 * * * *
 
-![Uso de estacas e cordas num canteiro de obras. Foto: [Redline surveys][]](https://www.redlinesurveys.co.uk/wp-content/uploads/2018/01/Setting-Out-Building-Marker.jpg){#fig:corda}
+![Uso de estacas e cordas num canteiro de obras. Foto: [Redline surveys][]](https://www.redlinesurveys.co.uk/wp-content/uploads/2018/01/Setting-Out-Building-Marker.jpg){#fig:corda .outset}
 
 [Redline surveys]: https://www.redlinesurveys.co.uk/setting-out/
 
 * * * *
 
-:::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:prumo .columns}
+:::::::::::::::::::::::::::::::::::::::::: {#fig:prumo .columns .outset}
 ::: {.column width=50%}
 ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/adam-079.png){#fig:prumoA .line}
 :::
@@ -185,7 +187,7 @@ pernas em torno do eixo.
 
 * * * *
 
-![Compassos de redução fixos nas proporções 1:5, 1:2 e 1:6, c. 1580. Acervo do [Zwinger, Dresden][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dresden_Zwinger_Reduction_compasses.JPG/2560px-Dresden_Zwinger_Reduction_compasses.JPG){#fig:fixos}
+![Compassos de redução fixos nas proporções 1:5, 1:2 e 1:6, c. 1580. Acervo do [Zwinger, Dresden][]](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dresden_Zwinger_Reduction_compasses.JPG/2560px-Dresden_Zwinger_Reduction_compasses.JPG){#fig:fixos .outset}
 
 [Zwinger, Dresden]: https://commons.wikimedia.org/wiki/File:Dresden_Zwinger_Reduction_compasses.JPG
 
@@ -272,11 +274,11 @@ de M. Justino Maciel, em 2006 [@vitruvio:2007tratado, I:ii].
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Dentre essas correspondências, o rebatimento entre um lado e outro da
 obra é a forma mais simples, a tal ponto que desde o Renascimento a
-palavra *simetria* em todas as línguas de origem europeia se refere a
+palavra *simetria* em todas as línguas de origem latina se refere a
 esse rebatimento [@vitruve:1673dix].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Diagrama de simetria bilateral](){#fig:simetria .line}
+![Templo de Fortuna, Praeneste, séc. [I]{.smallcaps} a.C. Elevação simétrica documentada por Andrea Palladio, segunda metade do séc. [XVI]{.smallcaps}](https://i.pinimg.com/originals/1e/f4/ca/1ef4cad14f7ada1bfd3c4717c26af34e.jpg){#fig:simetria .outset}
 
 * * * *
 
@@ -290,7 +292,7 @@ tradicionais.
 * * * *
 
 ::: full
-![Palácios nazarí, Alhambra, Granada, século [XIV]{.smallcaps}](https://hcommons.org/app/uploads/sites/1002372/2022/03/alhambra-nazari-plan-edificios-importantes.png){#fig:nazari-plan .line}
+![Palácios nazarís, Alhambra, Granada, século [XIV]{.smallcaps}](https://hcommons.org/app/uploads/sites/1002372/2022/03/alhambra-nazari-plan-edificios-importantes.png){#fig:nazari-plan .line}
 :::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -317,16 +319,20 @@ produção proposta por Marx, cometem esse vício.
 
 * * * *
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Catedral Notre-Dame de Laon, Picardia, França, 1150–1230. Fachada e traçado regulador segundo [Frederick Lund, 1919][]](https://upload.wikimedia.org/wikipedia/commons/8/80/Laon_Cathedral%27s_regulator_lines.jpg){#fig:laon-reg}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Frederick Lund, 1919]: https://commons.wikimedia.org/wiki/File:Laon_Cathedral%27s_regulator_lines.jpg
+
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por outro lado, para a prática da arquitetura o antropomorfismo é um
 trunfo: usar características antropomórficas como a simetria e o vão
 central ajuda a tornar as composições mais claras e reconhecíveis. Isso
 facilita a apreciação e o uso dos edifícios [@sussman:2021cognitive].
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+Por exemplo, a simetria bilateral ajuda a identificar a entrada mais
+importante de um edifício ([@fig:laon-reg])
 
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 O antropomorfismo vai além da simetria, é claro. Podemos reunir sob esse
 rótulo outras características, como uma representação clara da ação da
 gravidade, colocando partes visualmente mais pesadas em baixo e
@@ -337,7 +343,7 @@ posicionamento das aberturas são as suas características mais evidentes.
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-A simetria não precisa ser forçada. Ela emerge naturalmente da busca por
+A simetria não precisa ser forçada ([@fig:lkrier-symm]). Ela emerge naturalmente da busca por
 um assentamento equilibrado das fundações, como
 [já vimos antes](taipa.md), e de uma preferência estética pela clareza e
 simplicidade da forma. Ao mesmo tempo, condições específicas podem
@@ -345,12 +351,18 @@ exigir uma configuração assimétrica, geralmente em grandes complexos
 formados por vários blocos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Diferentes tipos de simetria, segundo [Léon Krier](https://www.archdaily.com/896720/a-different-kind-of-architectural-drawing-leon-kriers-sketches/5b298dd2f197cc4f8a0000fa-a-different-kind-of-architectural-drawing-leon-kriers-sketches-image?next_project=no)](https://images.adsttc.com/media/images/5b29/8dd2/f197/cc4f/8a00/00fa/slideshow/87.jpg?1529449930){#fig:lkrier-symm .line}
+
 ## Proporção e modularidade ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Arquitetura asiática usa proporções controladas por módulos dimensionais
 dados [@cha:2019reconsidering18].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## {data-background-image="https://i.pinimg.com/originals/6e/4a/c5/6e4ac57e18cb9d92e159f910c5237d15.jpg" data-background-position="bottom"}
+
+![Módulos dimensionais de arquitraves segundo Li Jie, *Yingzao fashi*, 1103. Diagrama por Liang Sicheng e Lin Huiyin](https://i.pinimg.com/originals/6e/4a/c5/6e4ac57e18cb9d92e159f910c5237d15.jpg){#fig:yingzao-module .slide-bg .outset .line}
 
 ## Conclusão ##
 
@@ -650,7 +662,7 @@ digital na mão (era a década de 1980), ou mesmo no [CAD]{.smallcaps}
 6. Completar, conforme o caso, com os elementos acessórios devidamente
    proporcionados (balaustradas, urnas, aberturas, etc.).
 
-![Composição de uma ordem toscana segundo Chitham. Da esquerda para a direita: divisão da altura total em módulos, dimensionamento das partes, esboço volumétrico da ordem (a), arte-final (b--d)](https://hcommons.org/app/uploads/sites/1002372/2022/03/chitham-057-tuscan-general.png){#fig:chitham057 .line}
+![Composição de uma ordem toscana segundo Chitham. Da esquerda para a direita: divisão da altura total em módulos, dimensionamento das partes, esboço volumétrico da ordem (a), arte-final (b--d)](https://hcommons.org/app/uploads/sites/1002372/2022/03/chitham-057-tuscan-general.png){#fig:chitham057 .line .outset}
 
 ## Desenhando uma ordem clássica ## {.slide-only}
 
@@ -695,7 +707,7 @@ Método algorítmico.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::: {#fig:base-atica .full}
-<div class="r-stack"> ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica02.png){#fig:base-atica02 .line .fragment .current-visible .align-left}
+<div class="r-stack third"> ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica02.png){#fig:base-atica02 .line .fragment .current-visible .align-left}
 ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica04.png){#fig:base-atica04 .line .fragment .current-visible .align-left}
 ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica05.png){#fig:base-atica05 .line .fragment .current-visible .align-left}
 ![](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica08.png){#fig:base-atica08 .line .fragment .current-visible .align-left}
@@ -764,7 +776,7 @@ e ao longo das gerações que constroem uma obra.
 
 * * * *
 
-![Reconstituição tridimensional de Stonehenge. [Joseph Lertola, 2007](https://commons.wikimedia.org/wiki/File:Stonehenge_render.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stonehenge_render.jpg/1280px-Stonehenge_render.jpg){#fig:lertola}
+![Reconstituição tridimensional de Stonehenge. [Joseph Lertola, 2007](https://commons.wikimedia.org/wiki/File:Stonehenge_render.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stonehenge_render.jpg/1280px-Stonehenge_render.jpg){#fig:lertola .outset}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A planta circular é quase sinônimo de grandes composições megalíticas em
@@ -786,7 +798,7 @@ regularidade que um observador postado no centro do círculo precisa para
 avaliar corretamente o alinhamento do sol e das estrelas.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta do círculo megalítico de Stonehenge, Inglaterra, c. 2600 a.C., com proporções reconstituídas por William Stukeley e desenhadas por Roger Gale, 1723](https://hcommons.org/app/uploads/sites/1002372/2021/07/stonehenge-gale.png){#fig:stonehenge-gale .line}
+![Planta do círculo megalítico de Stonehenge, Inglaterra, c. 2600 a.C., com proporções reconstituídas por William Stukeley e desenhadas por Roger Gale, 1723](https://hcommons.org/app/uploads/sites/1002372/2021/07/stonehenge-gale.png){#fig:stonehenge-gale .line .outset}
 
 ## Retângulos semelhantes ##
 
@@ -795,13 +807,13 @@ Da *vesica piscis* para o retângulo √3: todos os retângulos radicais
 podem ser subdivididos em retângulos semelhantes (de igual proporção).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Retângulo √3](){#fig:sqrt3 .line}
+![Retângulo √3](){#fig:sqrt3 .line .outset}
 
 * * * *
 
-![Templo de Hefesto, Atenas, 449 a.C. Levantamento por James Stuart e Nicholas Revett, 1794](){#fig:hefesto-sr}
+![Templo de Hefesto, Atenas, 449 a.C. Levantamento por James Stuart e Nicholas Revett, 1794](https://i.pinimg.com/originals/78/1c/81/781c817d18ba35037ddbf83ebdade266.jpg){#fig:hefesto-sr .outset}
 
-* * * *
+## {data-visibility="hidden"}
 
 ::::::::::::::::::::::::::::::::::::::::::: {#fig:hefesto-prop .r-stack}
 ![largura do esteróbato dada](){#fig:hefestoA}
@@ -838,7 +850,9 @@ Etapas da construção proporcional do templo de Hefesto:
 
 * * * *
 
-![Catedral Notre-Dame, Paris, rosácea sul](){#fig:rosace}
+![Catedral Notre-Dame, Paris, rosácea sul. Foto: [Gary Todd, 2016][]](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cathedral_Notre_Dame_de_Paris_%2827700943904%29.jpg/1280px-Cathedral_Notre_Dame_de_Paris_%2827700943904%29.jpg){#fig:rosace .outset}
+
+[Gary Todd, 2016]: https://commons.wikimedia.org/wiki/File:Cathedral_Notre_Dame_de_Paris_(27700943904).jpg
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A rosácea sul da catedral Notre-Dame, em Paris, tem 12 lóbulos radiais
@@ -891,7 +905,7 @@ A seção áurea é a proporção para a qual a progressão geométrica é
 idêntica à progressão aritmética [@fletcher:2020introduction3].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::: {#fig:pentagono .r-stack}
 ![encontrar a metade do raio do círculo](){#fig:pentaA .fragment .current-visible}
@@ -915,7 +929,7 @@ semelhante ao maior; o mesmo acontece ao seccionarmos este triângulo
 menor com a outra diagonal.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A espiral áurea é uma boa aproximação visual à espiral logarítmica.
@@ -923,7 +937,7 @@ A espiral áurea é uma boa aproximação visual à espiral logarítmica.
 
 ![Construção de uma espiral áurea a partir dos triângulos áureos](){#fig:phi-spiral .line}
 
-* * * *
+## {data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A seção áurea gera um quadrado e um retângulo áureo a partir de um
@@ -940,7 +954,7 @@ para se adaptar ou, no fim das contas, justificar retroativamente
 qualquer projeto ([@fig:corb]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Le Corbusier, seção áurea nas fachadas norte e sul da villa Stein, Garches, 1927](https://hcommons.org/app/uploads/sites/1001018/2021/06/le-corbusier-villa-stein-golden.png){#fig:corb .line}
+![Le Corbusier, seção áurea nas fachadas norte e sul da villa Stein, Garches, 1927](https://hcommons.org/app/uploads/sites/1001018/2021/06/le-corbusier-villa-stein-golden.png){#fig:corb .line .outset}
 
 ## Quadrados e diagonais ##
 
@@ -1037,22 +1051,12 @@ Mais tripartição: três tamanhos que podem ser apreendidos de uma vez
 pela observação e experiência do espaço [@buras:2019art].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Alexander.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 ## Fractais ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Repetição inexata tanto no mesmo nível de escala quanto entre níveis de
 escala diferentes.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Passo-a-passo generativo preserva a estrutura dos estágios anteriores.
 Assim, o projeto colapsa a passagem do tempo num desenho.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
