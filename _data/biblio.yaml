@@ -140,6 +140,10 @@ references:
     - family: Alberti
       given: Leon Battista
   citation-key: alberti:2011arte
+  contributor:
+    - family: Espírito Santo
+      given: Arnaldo
+      dropping-particle: do
   event-place: Lisboa
   ISBN: 978-972-31-1374-7
   issued:
@@ -816,7 +820,7 @@ references:
   event-place: Sao Paulo
   issued:
     - year: 1975
-  language: pt
+  language: pt-BR
   publisher: Perspectiva
   publisher-place: Sao Paulo
   source: Open WorldCat
@@ -1283,6 +1287,11 @@ references:
   call-number: NA300 .B63 1978
   citation-key: boethius:1978etruscan
   collection-title: The Pelican history of art
+  contributor:
+    - family: Ling
+      given: Roger
+    - family: Rasmussen
+      given: Tom
   edition: 2d integrated ed., rev
   event-place: Harmondsworth, Eng. ; New York
   ISBN: 978-0-14-056144-9
@@ -1350,10 +1359,10 @@ references:
   citation-key: bonini:2021bim
   container-title: Proceedings …
   DOI: 10.4995/arqueologica9.2021.12104
-  event: >-
+  event-place: Valencia
+  event-title: >-
     Arqueológica 2.0 - 9^th^ International Congress & 3^rd^ Geores - Geomatics
     and Preservation
-  event-place: Valencia
   issued:
     - year: 2021
       month: 4
@@ -1484,6 +1493,7 @@ references:
     - year: 1999
       month: 5
   language: en-US
+  license: Copyright © 1999 Association of Collegiate Schools of Architecture, Inc.
   page: 207–215
   source: JSTOR
   title: >-
@@ -1714,6 +1724,8 @@ references:
       given: Robert Scott
   call-number: '39273233'
   citation-key: burn:1856illustrated
+  contributor:
+    - literal: NCSU Libraries
   event-place: London
   issued:
     - year: 1856
@@ -1888,6 +1900,11 @@ references:
   call-number: NA1120 .T73 1989
   citation-key: caniggia:1989permanenze
   container-title: Tradizione e innovazione nell'architettura di Roma capitale, 1870–1930
+  contributor:
+    - family: 'Rome (Italy : Province)'
+      given: ''
+    - family: Università degli studi di Roma "La Sapienza."
+      given: ''
   editor:
     - family: Strappa
       given: Giuseppe
@@ -2360,6 +2377,8 @@ references:
   author:
     - family: Ching
       given: Francis D. K.
+    - family: Juroszek
+      given: Steven P.
   citation-key: ching:2012desenho
   edition: '2'
   event-place: Porto Alegre
@@ -3030,6 +3049,7 @@ references:
       month: 7
       day: 30
   language: pt-BR
+  license: Direitos autorais 2016 Revista Cadernos do Ceom
   page: 213-242
   source: bell.unochapeco.edu.br
   title: Habitação e acampamentos Kaingang hoje e no passado
@@ -3056,6 +3076,7 @@ references:
   issued:
     - year: 1643
   language: fr-FR
+  license: http://creativecommons.org/publicdomain/mark/1.0/
   publisher: Sébastien Cramoisy
   publisher-place: Paris
   source: Internet Archive
@@ -3328,7 +3349,7 @@ references:
     - year: 1805
   language: fr
   number-of-volumes: '2'
-  publisher: l'auteur
+  publisher: Chez l'auteur
   publisher-place: Paris
   source: BnF Catalogue général (http://catalogue.bnf.fr)
   title: Précis des leçons d'architecture données à l'École polytechnique
@@ -3542,7 +3563,7 @@ references:
   language: en-US
   page: 137–147
   title: '"Les dedans," Jacques-François Blondel and the system of the home'
-  title-short: Les Dedans
+  title-short: Les dedans
   type: article-journal
   URL: >-
     http://www.academia.edu/4302235/_Les_Dedans_Jacques-Francois_Blondel_and_the_System_of_the_Home
@@ -3746,6 +3767,7 @@ references:
     - year: 2020
       month: 1
   language: en
+  license: http://creativecommons.org/licenses/by/3.0/
   number: '3'
   page: '624'
   publisher: Multidisciplinary Digital Publishing Institute
@@ -3814,6 +3836,10 @@ references:
       month: 9
       day: 10
   language: fr-FR
+  license: >-
+    Les Cahiers de la recherche architecturale, urbaine et paysagère sont mis à
+    disposition selon les termes de la Licence Creative Commons Attribution -
+    Pas d’Utilisation Commerciale - Pas de Modification 3.0 France.
   number: '2'
   publisher: Ministère de la culture
   source: journals.openedition.org
@@ -3858,6 +3884,8 @@ references:
     - family: Fitchen
       given: John
   citation-key: fitchen:1981construction
+  contributor:
+    - literal: Internet Archive
   event-place: Chicago
   ISBN: 978-0-226-25203-2
   issued:
@@ -4052,6 +4080,15 @@ references:
       given: Manuel de Azevedo
   call-number: '6'
   citation-key: fortes:1728engenheiro
+  contributor:
+    - family: Costa
+      given: Manuel Fernandes
+      dropping-particle: da
+    - family: Rochefort
+      given: Pedro
+      dropping-particle: de
+    - family: Quillard
+      given: Pierre Antoine
   event-place: Lisboa Occidental
   issued:
     - year: 1728
@@ -4119,6 +4156,7 @@ references:
       month: 12
       day: 23
   language: pt-BR
+  license: Copyright (c) 2020 Labor e Engenho
   page: e020019-e020019
   source: periodicos.sbu.unicamp.br
   title: >-
@@ -4341,6 +4379,10 @@ references:
       month: 12
       day: 10
   language: fr
+  license: >-
+    La revue Gallia est mise à disposition selon les termes de la Licence
+    Creative Commons Attribution - Pas d'Utilisation Commerciale - Pas de
+    Modification 4.0 International.
   number: '2'
   page: 1-32
   publisher: CNRS Éditions
@@ -4420,6 +4462,7 @@ references:
     - year: 2015
       month: 12
   language: fr-FR
+  license: Tous droits réservés à l'Association LHA
   number: '30'
   page: 59-68
   publisher: Association Livraisons d'histoire de l'architecture - LHA
@@ -4565,6 +4608,9 @@ references:
 - id: gil:2010mayas
   call-number: F1435.3.A6 M385 2010
   citation-key: gil:2010mayas
+  contributor:
+    - literal: Andalusia (Spain)
+    - literal: Universidad Nacional Autónoma de México
   editor:
     - family: Gil
       given: María Dolores
@@ -4827,7 +4873,7 @@ references:
     - family: Casale
       given: Andrea
   citation-key: guadagnoli:2021parametric14
-  container-title: DISEGNARECON
+  container-title: <span class="smallcaps">DISEGNARECON</span>
   DOI: 10.20365/disegnarecon.26.2021.7
   ISSN: 1828-5961
   issue: '26'
@@ -4836,6 +4882,7 @@ references:
       month: 6
       day: 30
   language: en-GB
+  license: Copyright (c) 2021 Francesca Guadagnoli, Elena Ippoliti, Andrea Casale
   number: '26'
   page: 7-7.12
   source: disegnarecon.univaq.it
@@ -4868,6 +4915,9 @@ references:
       given: Julien
   call-number: Tolbiac - Rez de Jardin - Sciences et technique - Magasin - 4-V-8070 (1)
   citation-key: guadet:1915elements
+  contributor:
+    - family: Pascal
+      given: Jean-Louis
   edition: 3^e^ éd.
   event-place: Paris
   issued:
@@ -4889,6 +4939,9 @@ references:
       given: Julien
   call-number: Tolbiac - Rez de Jardin - Sciences et technique - Magasin - 4-V-8070 (1)
   citation-key: guadet:1915elements1
+  contributor:
+    - family: Pascal
+      given: Jean-Louis
   edition: 3^e^ éd.
   event-place: Paris
   issued:
@@ -5037,6 +5090,7 @@ references:
   issued:
     - year: 1996
   language: en
+  license: free
   page: 95-118
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -5170,6 +5224,7 @@ references:
       given: Georg Wilhelm Friedrich
   citation-key: hegel:2001cursos1
   event-place: São Paulo
+  ISBN: 85-314-0467-3
   issued:
     - year: 2001
   language: pt-BR
@@ -5322,7 +5377,7 @@ references:
   page: 147-185
   publisher: SAGE Publications Ltd STM
   source: SAGE Journals
-  title: Space Syntax
+  title: Space syntax
   type: article-journal
   URL: https://journals.sagepub.com/doi/abs/10.1068/b030147
   volume: '3'
@@ -5766,6 +5821,11 @@ references:
     - family: Hechinger
       given: Martin
   citation-key: knoll:2009maquetas
+  contributor:
+    - family: Heyer
+      given: Hans-Joachim
+    - family: Miklautsch
+      given: Boris
   edition: 5.^a^ ed.
   event-place: Barcelona
   ISBN: 978-84-252-2256-6
@@ -5846,6 +5906,7 @@ references:
       given: Rob
   citation-key: krier:1988architectural
   event-place: New York
+  ISBN: 0-8478-0965-X
   issued:
     - year: 1988
   language: en-US
@@ -6043,6 +6104,9 @@ references:
   call-number: NA270 .L36 1996
   citation-key: lawrence:1996greek
   collection-title: Yale University Press Pelican history of art
+  contributor:
+    - family: Tomlinson
+      given: R. A.
   edition: '5'
   event-place: New Haven
   ISBN: 978-0-300-06491-9
@@ -6157,6 +6221,8 @@ references:
     - family: Liang
       given: Sicheng
   citation-key: liang:1984pictorial
+  contributor:
+    - literal: Lin Huiyin
   editor:
     - family: Fairbank
       given: Wilma
@@ -6201,6 +6267,7 @@ references:
   issued:
     - year: 1991
   language: en
+  license: free
   page: 47-57
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -6276,6 +6343,7 @@ references:
       month: 3
       day: 1
   language: en-US
+  license: Copyright © 1969 Society of Architectural Historians
   page: 3–8
   source: JSTOR
   title: Where architectural historians fear to tread
@@ -6485,6 +6553,8 @@ references:
       given: Henry
   call-number: AAK-3969
   citation-key: mcgoodwin:1904architectural
+  contributor:
+    - literal: Robarts - University of Toronto
   event-place: Boston
   issued:
     - year: 1904
@@ -6513,6 +6583,8 @@ references:
 
 - id: mileto:2018vernacular
   citation-key: mileto:2018vernacular
+  contributor:
+    - literal: SOStierra
   editor:
     - family: Mileto
       given: Camilla
@@ -6894,6 +6966,11 @@ references:
     - family: Panerai
       given: Philippe
   citation-key: panerai:2012analyse
+  contributor:
+    - family: Demorgon
+      given: Marcelle
+    - family: Depaule
+      given: Jean-Charles
   event-place: Marseille
   ISBN: 978-2-86364-603-8
   issued:
@@ -6915,6 +6992,7 @@ references:
   issued:
     - year: 2001
   language: pt-BR
+  number-of-pages: '132'
   publisher: Martins Fontes
   publisher-place: São Paulo
   source: Open WorldCat
@@ -7057,6 +7135,11 @@ references:
     - family: Littenberg
       given: Barbara
   citation-key: peterson:2020space
+  contributor:
+    - family: Dennis
+      given: Michael
+    - family: Barnett
+      given: Jonathan
   event-place: Novato, Cal.
   ISBN: 978-1-941806-77-7
   issued:
@@ -7107,6 +7190,10 @@ references:
       day: 15
   citation-key: petruccioli:1998typological
   collection-title: Procedings of the international symposium ... March 1995
+  contributor:
+    - literal: >-
+        Aga Khan Program for Islamic Architecture at Harvard University and
+        Massachusets Institute of Technology
   editor:
     - family: Petruccioli
       given: Attilio
@@ -7213,6 +7300,19 @@ references:
       given: Luís Serrão
   call-number: 623.1(=1.469)"16"
   citation-key: pimentel:1680methodo
+  contributor:
+    - family: Manuel
+      given: Francisco de Melo
+    - family: Craesbeeck
+      given: António
+    - family: Baptista
+      given: João
+    - family: Bietry
+      given: René
+    - family: Mendes
+      given: Manuel
+    - literal: Ordem de Cister.
+    - literal: Congregação de São Camilo de Lélis
   event-place: Lisboa
   issued:
     - year: 1680
@@ -7561,6 +7661,7 @@ references:
       month: 1
       day: 5
   language: pt
+  license: Copyright (c) 2015 Fernando  G. Vázquez Ramos, Andréa  de Oliveira Tourinho
   number: '13'
   page: 171-182
   source: revistaarqurb.com.br
@@ -7618,6 +7719,7 @@ references:
       month: 2
       day: 14
   language: es-ES
+  license: Copyright (c) 2017 Pablo Aparicio Resco, César Figueiredo
   number: '1'
   page: 235-247
   source: revistas.jasarqueologia.es
@@ -8051,6 +8153,7 @@ references:
   issued:
     - year: 1987
   language: fr
+  license: free
   page: 711-751
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -8084,6 +8187,8 @@ references:
     - family: Roth
       given: Leland M.
   citation-key: roth:1993understanding
+  contributor:
+    - literal: Internet Archive
   event-place: New York
   issued:
     - year: 1993
@@ -8273,6 +8378,8 @@ references:
       given: John
   call-number: '9600'
   citation-key: ruskin:1849seven
+  contributor:
+    - literal: Getty Research Institute
   event-place: New York
   issued:
     - year: 1849
@@ -8534,6 +8641,8 @@ references:
       given: Gottfried
   call-number: '85776'
   citation-key: semper:1860stil
+  contributor:
+    - literal: Getty Research Institute
   event-place: Frankfurt am Main
   issued:
     - year: 1860
@@ -9070,6 +9179,7 @@ references:
       month: 11
       day: 8
   language: en
+  license: 'Attribution-NonCommercial-NoDerivs 2.0 UK: England & Wales'
   publisher: University of Cambridge
   source: www.repository.cam.ac.uk
   title: 'The evolution of shelter: ecology and ethology of chimpanzee nest building'
@@ -9596,6 +9706,28 @@ references:
       month: 6
       day: 20
   language: en-GB
+  license: >-
+    Authors who publish with this journal agree to the following terms:   
+    Authors retain copyright and grant the journal right of first publication
+    with the work simultaneously licensed under a  Creative Commons Attribution
+    License  that allows others to share the work with an acknowledgement of the
+    work's authorship and initial publication in this journal.  Authors are able
+    to enter into separate, additional contractual arrangements for the
+    non-exclusive distribution of the journal's published version of the work
+    (e.g., post it to an institutional repository or publish it in a book), with
+    an acknowledgement of its initial publication in this journal.  Authors are
+    permitted and encouraged to post their work online (e.g., in institutional
+    repositories or on their website) prior to and during the submission
+    process, as it can lead to productive exchanges, as well as earlier and
+    greater citation of published work (See  The Effect of Open Access ).  All
+    third-party images reproduced on this journal are shared under Educational
+    Fair Use. For more information on  Educational Fair Use , please see  this
+    useful checklist prepared by Columbia University Libraries .   All
+    copyright  of third-party content posted here for research purposes belongs
+    to its original owners.  Unless otherwise stated all references to
+    characters and comic art presented on this journal are ©, ® or ™ of their
+    respective owners. No challenge to any owner’s rights is intended or should
+    be inferred.
   number: '1'
   page: Art. 13
   publisher: Ubiquity Press
@@ -9874,6 +10006,8 @@ references:
   author:
     - literal: Vignola
   citation-key: vignola:1902american1
+  contributor:
+    - literal: Cornell University Library
   event-place: Scranton
   issued:
     - year: 1902
@@ -9904,6 +10038,8 @@ references:
   author:
     - literal: Vignola
   citation-key: vignola:1904american2
+  contributor:
+    - literal: University of Michigan
   event-place: Scranton
   issued:
     - year: 1904
@@ -9937,6 +10073,7 @@ references:
   issued:
     - year: 1858
   language: fr
+  license: domaine public
   publisher: Impr. impériale
   publisher-place: Paris
   source: Gallica
@@ -9993,6 +10130,7 @@ references:
   issued:
     - year: 1903
   language: fr
+  license: free
   page: 515-561
   publisher: Persée - Portail des revues scientifiques en SHS
   source: www.persee.fr
@@ -10019,6 +10157,31 @@ references:
     - literal: Vitruve
   call-number: '9927019110001551'
   citation-key: vitruve:1673dix
+  contributor:
+    - family: Scotin
+      given: G. (Gérard)
+    - family: Le Clerc
+      given: Sébastien
+    - family: Banck
+      given: Pieter
+      dropping-particle: van der
+    - family: Edelinck
+      given: Gérard
+    - family: Gantrel
+      given: Etienne
+    - family: Grignon
+      given: Jacques
+    - family: Le Pautre
+      given: Pierre
+    - family: Patigny
+      given: Jean
+    - family: Pitau
+      given: Nicolas
+    - family: Tournier
+      given: Georges
+    - family: Coignard
+      given: Jean Baptiste
+    - literal: Getty Research Institute
   event-place: Paris
   issued:
     - year: 1673
@@ -10119,7 +10282,7 @@ references:
   issued:
     - year: 2006
   language: pt-PT
-  publisher: IST Press
+  publisher: <span class="smallcaps">IST</span> Press
   publisher-place: Lisboa
   title: Tratado de arquitectura
   translator:
