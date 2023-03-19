@@ -61,9 +61,7 @@ Aproximação à arquitetura tradicional
   da sua representação gráfica.
 
 ```{=html}
-{% comment %}
 {% include feature_row id="intro_atividade" type="right" %}
-{% endcomment %}
 ```
 
 ## Unidade I ##

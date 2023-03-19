@@ -11,7 +11,7 @@ excerpt: >
   As suas atividades avaliativas –
   Sobre criatividade e originalidade
 
-intro_atividade:
+trabalhos:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Киргизские_кибитки_на_реке_Чу-crop.jpg
     title     : "Atividade de nivelamento"
     excerpt: |
@@ -22,16 +22,16 @@ intro_atividade:
     btn_label : "Entrega 21 de junho"
     btn_class : "btn btn--inverse btn--small"
 
-trabalhos:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres_-_NG.M.00426-021_-_National_Museum_of_Art_Architecture_and_Design-crop.jpg
     title     : "Trabalho I"
     excerpt: |
       Edículas vernáculas
 
-      Peso: 30 pontos
+      Peso: 20 pontos
     url       : "/trabalho/vernacular/"
     btn_label : "Entrega 19 de julho"
     btn_class : "btn btn--inverse btn--small"
+
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-hagia_sophia-29a_Coupe_longitudinale_et_vue_sur_latrium-crop.jpg
     title     : "Trabalho II"
     excerpt: |
@@ -41,6 +41,7 @@ trabalhos:
     url       : "/trabalho/volumes"
     btn_label : "Entrega 23 de agosto"
     btn_class : "btn btn--inverse btn--small"
+
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/analytique-crop.jpg
     title     : "Trabalho III"
     excerpt: |
