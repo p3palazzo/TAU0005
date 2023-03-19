@@ -12,11 +12,11 @@ excerpt: >
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Louise_Rayner_Chester_Watergate_Street_looking_east.jpg/2560px-Louise_Rayner_Chester_Watergate_Street_looking_east.jpg
   caption: "Louise Rayner, [Rua Watergate em Chester](https://commons.wikimedia.org/wiki/File:Louise_Rayner_Chester_Watergate_Street_looking_east.jpg) (Inglaterra), anterior a 1876"
-title-slide-attributes:
-  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Louise_Rayner_Chester_Watergate_Street_looking_east.jpg/2560px-Louise_Rayner_Chester_Watergate_Street_looking_east.jpg
   actions:
   - label: "Slides"
     url  : /slides/urbanismo/
+title-slide-attributes:
+  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Louise_Rayner_Chester_Watergate_Street_looking_east.jpg/2560px-Louise_Rayner_Chester_Watergate_Street_looking_east.jpg
 
 sidebar:
 - title: "Leitura obrigatória"
@@ -153,20 +153,35 @@ reconhecimento de que as cidades são facilmente reconhecíveis
 visualmente, por serem um daqueles objetos que oferecem um entendimento
 intuitivo muito direto, sem permitir a formulação de uma definição
 precisa e exaustiva necessariamente. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Destacam-se os casos limite, como o questionamento acerca dos subúrbios
 e dos tecidos difusos constituem ou não cidade. Todos esses aspectos e
 casos, inclusive os mais problemáticos do ponto de vista da concepção de
 processos de urbanização, contrastando com as tentativas de controle e
 restrição das possibilidades de transformação urbana, reforçam sua visão
-como um processo que pode ser facilmente identificado. 
+como um processo que pode ser facilmente identificado
+([@fig:constantinopoli]).
 
 Dessa forma, um subúrbio poderia ser compreendido como uma tentativa de
 "congelar" o processo de urbanização, em um determinado momento de
 relativamente baixa densidade. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+![Constantinopla c. 360 d.C., reconstituição por [Rocío Espín Piñar, 2017][]](https://i.pinimg.com/originals/dd/2d/08/dd2d08678b1a2782764681b1eb16c1e9.jpg){#fig:constantinopoli}
+
+[Rocío Espín Piñar, 2017]: https://www.artstation.com/artwork/ZY90N
+
+------
+
+![Tecidos difusos sobre substrato de origem romana na planície padana, norte da Itália. Crédito: Museu Aldo Rossi](https://i.pinimg.com/originals/46/76/b1/4676b1ac3e68270c1559a4851b742782.jpg){#fig:diffusa}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Por outro lado, o que o urbanista italiano Bernardo Secchi entende por
-"cidade difusa" é um processo de consolidação de tecidos urbanos, que
+"cidade difusa" ([@fig:diffusa]) é um processo de consolidação de tecidos urbanos, que
 não pode ser necessariamente previsto. Essa constatação pode contribuir
 para se compreender sua efetiva finalidade, ou seja, se esta seria
 chegar à configuração de uma cidade tradicional adensada. Entretanto,
@@ -198,14 +213,28 @@ ou são intrinsecamente viciados e apresentam resultados indesejáveis.
 
 Não se trata de uma teoria modernista no sentido estrito, já que esse
 tipo de reflexão surge ainda no final do século [XVIII]{.smallcaps} por
-meio de autores como Thomas Jefferson e outros norte-americanos. Eles
+meio de autores como Thomas Jefferson e outros norte-americanos ([@fig:harmony]). Eles
 formulam o conceito da "imoralidade" intrínseca da cidade.
 A partir do final do século [XIX]{.smallcaps}, o processo de urbanização
 vai ser visto como algo que acaba gerando um adensamento descontrolado
 inevitavelmente, resultando na degradação da qualidade de vida urbana.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+![New Harmony, Indiana, Estados Unidos, vista a voo de pássaro por [F. Bates, 1838][]](https://upload.wikimedia.org/wikipedia/commons/e/eb/New_Harmony,_Indiana,_por_F._Bates.jpg){#fig:harmony}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[F. Bates, 1838]: https://commons.wikimedia.org/wiki/File:New_Harmony,_Indiana,_por_F._Bates.jpg
+
+------
+
+![Ebenezer Howards, [diagrama da cidade-jardim, 1902][]](https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Garden_Cities_of_Tomorrow,_No._2.jpg/1024px-Garden_Cities_of_Tomorrow,_No._2.jpg){#fig:gardencity .line}
+
+[diagrama da cidade-jardim, 1902]: https://commons.wikimedia.org/wiki/File:Garden_Cities_of_Tomorrow,_No._2.jpg
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Ebenezer Howard apresenta o conceito de "cidade jardim" na virada do
-século [XIX]{.smallcaps}, quando o processo espontâneo de urbanização
+século [XIX]{.smallcaps} ([@fig:gardencity]), quando o processo espontâneo de urbanização
 atinge um ponto de inflexão, a partir do momento em que haveria se
 descontrolado, precisando ser contido. Isso leva à reflexão sobre os
 mecanismos modernos de gestão e controle do espaço urbano, ou seja, o
@@ -243,7 +272,11 @@ antigas, na China, etc. Sempre que há uma grande concentração de pessoas
 desconhecidas, são necessárias leis para disciplinar sua convivência,
 incluindo a forma como irão construir umas do lado das outras e diante
 do espaço público. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A partir da segunda metade do século [XIX]{.smallcaps}, começam a surgir
 normas cada vez mais específicas sobre o aproveitamento dos lotes, a
 relação das construções com os serviços públicos, os parcelamentos e a
@@ -253,6 +286,10 @@ densidade da construção e a quantidade de demanda por determinados
 serviços de alguma maneira. Isso acaba levando aos processos de
 planejamento urbano e zoneamento modernos. 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Léon Krier, [alegoria do zoneamento funcionalista][]](https://images.adsttc.com/media/images/5b29/8e36/f197/cc4f/8a00/00fe/large_jpg/47.jpg?1529450030){#fig:lk-zoning .line}
+
+[alegoria do zoneamento funcionalista]: https://www.archdaily.com/896720/a-different-kind-of-architectural-drawing-leon-kriers-sketches/5b298e36f197cc4f8a0000fe-a-different-kind-of-architectural-drawing-leon-kriers-sketches-image?next_project=no
 
 * * * *
 
@@ -385,7 +422,7 @@ populares e eruditas com um traçado urbano mais espontâneo, menos
 controlado ou planejado de maneira central.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
+## {data-visibility="hidden"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 - Lugar tem precedência sobre o tempo
@@ -407,7 +444,17 @@ expandindo, ampliando, reformando, adensando. Todas essas são respostas,
 muitas vezes descentralizadas, a demandas essencialmente econômicas,
 comumente observadas ao longo da história da humanidade: habitação,
 aluguel ou venda de imóveis, comércio, etc. 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+------
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Léon Krier, [equilíbrio público/privado, 2003][]](https://images.adsttc.com/media/images/5b29/8e45/f197/cc1f/4500/006f/large_jpg/DrawingsforArchitecture__MIT_Press.jpg?1529450043){#fig:public-private .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[equilíbrio público/privado, 2003]: https://www.archdaily.com/896720/a-different-kind-of-architectural-drawing-leon-kriers-sketches/5b298e45f197cc1f4500006f-a-different-kind-of-architectural-drawing-leon-kriers-sketches-image?next_project=no
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Surge uma certa complexidade na medida em que a escala de poder
 econômico e de capacidade construtiva tende a aumentar a partir da
 industrialização das sociedades. Isso leva a uma distorção do processo
