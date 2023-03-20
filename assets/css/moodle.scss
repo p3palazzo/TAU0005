@@ -4,7 +4,6 @@
 
 @charset "utf-8";
 
-@import url("https://use.typekit.net/hny1sfi.css");
 @import url("https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css");
 
 /* ==========================================================================
@@ -16,18 +15,17 @@
    ========================================================================== */
 
 /* system typefaces */
-$serif: "cormorant-garamond", "eb-garamond", Georgia, Times, serif;
-$sans-serif: "league-gothic", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+$serif: "Lato";
+$sans-serif: "Lato";
 $monospace: "source-code-pro", Consolas, "Liberation Mono", Menlo, Courier, monospace;
 
 /* serif typefaces */
 $garamond: "eb-garamond", "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 
-$global-font-family: $garamond;
-$header-font-family: $serif;
-$caption-font-family: $garamond;
-$sans-serif-narrow: "kepler-std-semicondensed-dis", "league-gothic", "Arial Narrow", sans-serif;
-$sans-serif: $sans-serif-narrow;
+$global-font-family: $sans-serif;
+$header-font-family: $sans-serif;
+$caption-font-family: $sans-serif;
+$sans-serif-narrow: $sans-serif;
 
 /*
    Colors
@@ -61,4 +59,18 @@ $header-font-style: italic;
     "local",
 	"revealjs-support"
 ;
+
+h4 {
+    font-variant: normal;
+}
+
+#main {
+    p,
+    li,
+    dl,
+    dt,
+    dd {
+        font-size: 0.975rem;
+    }
+}
 // vim: set shiftwidth=4 tabstop=4 foldmethod=indent :
