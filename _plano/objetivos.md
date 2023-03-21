@@ -15,7 +15,7 @@ intro_atividade:
     title     : "Atividade de nivelamento"
     excerpt   : "Cabana primitiva"
     url       : "/trabalho/cabana/"
-    btn_label : "Entrega 21 de junho"
+    btn_label : "Entrega 18 de abril"
     btn_class : "btn btn--inverse btn--small"
 
 firmitas_atividade:
@@ -23,7 +23,7 @@ firmitas_atividade:
     title     : "Trabalho I"
     excerpt   : "Edículas vernáculas"
     url       : "/trabalho/vernacular/"
-    btn_label : "Entrega 19 de julho"
+    btn_label : "Entrega 16 de maio"
     btn_class : "btn btn--inverse btn--small"
 
 utilitas_atividade:
@@ -31,7 +31,7 @@ utilitas_atividade:
     title     : "Trabalho II"
     excerpt   : "Composição espacial"
     url       : "/trabalho/volumes"
-    btn_label : "Entrega 23 de agosto"
+    btn_label : "Entrega 13 de junho"
     btn_class : "btn btn--inverse btn--small"
 
 venustas_atividade:
@@ -39,7 +39,7 @@ venustas_atividade:
     title     : "Trabalho III"
     excerpt   : "Analítico com ordens clássicas"
     url       : "/trabalho/classico/"
-    btn_label : "Entrega 20 de setembro"
+    btn_label : "Entrega 11 de julho"
     btn_class : "btn btn--inverse btn--small"
 ---
 
