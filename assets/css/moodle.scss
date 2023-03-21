@@ -39,7 +39,7 @@ $sans-serif-narrow: $sans-serif;
    Grid
    ========================================================================== */
 
-$x-large: 1440px;
+$x-large: 1600px;
 $max-width: calc(1520px + 3em);
 $right-sidebar-width-narrow: 300px;
 $right-sidebar-width: 300px;
@@ -48,7 +48,7 @@ $right-sidebar-width-wide: 400px;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-$meta-font-weight: 500;
+$meta-font-weight: 600;
 $header-font-weight: 300;
 $header-font-style: italic;
 
@@ -60,7 +60,8 @@ $header-font-style: italic;
 	"revealjs-support"
 ;
 
-h4 {
+h4,
+span.smallcaps {
     font-variant: normal;
 }
 
@@ -72,5 +73,44 @@ h4 {
     dd {
         font-size: 0.975rem;
     }
+    table caption {
+        font-size: 0.75em;
+    }
+    .subfigures p {
+        @extend figcaption;
+    }
+}
+
+.page__hero--overlay {
+    * {
+        color: #fff !important;
+    }
+    h1 {
+        font-weight: lighter !important;
+    }
+}
+
+article {
+    @include breakpoint($large) {
+        width: 100% !important;
+    }
+}
+
+.page__content h3 {
+    @include breakpoint($large) {
+        float: none;
+        margin: 2em 0 0 0;
+        width: 100%;
+    }
+}
+
+h2.archive__item-title {
+    font-size: 1em !important;
+    font-weight: 600 !important;
+    font-variant: normal;
+}
+
+a.btn {
+    font-variant: normal;
 }
 // vim: set shiftwidth=4 tabstop=4 foldmethod=indent :
