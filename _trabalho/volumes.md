@@ -2,17 +2,24 @@
 title   : "Composição espacial"
 subtitle: "Elementos de composição"
 item: "Atividade II"
-date: 2022-07-26
+date: 2023-06-13
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/02/29a_Coupe_longitudinale_et_vue_sur_latrium-mirror.jpg
   caption: "Basílica de Santa Sofia, Constantinopla"
-excerpt: >
-  Usando cinco volumes bem definidos e as transições espaciais
-  apropriadas, compor uma edificação refinada, representativa de um dos
-  sete tipos edilícios fundamentais.
+excerpt: |
+  <dl>
+    <dt>Objetivo de aprendizagem</dt>
+    <dd>
+      Articular espaços com formas geométricas definidas, usando os
+      elementos da construção tradicional e a tipologia edilícia para
+      dar forma e caráter a esses espaços.
+    </dd>
+  </dl>
 ---
 
-# Ementa #
+# Contexto #
+
+## Quina ##
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
 ![Cesare Cesariano, composição modular em quina, da tradução do [Tratado de arquitetura de Vitrúvio, 1521][]](https://hcommons.org/app/uploads/sites/1002372/2022/02/cesariano-120a1.png){#fig:quina .line}
@@ -20,21 +27,31 @@ excerpt: >
 
 [Tratado de arquitetura de Vitrúvio, 1521]: http://archive.org/details/gri_33125008262210
 
-O volume singular da edícula é o elemento de base da arquitetura. A
-articulação entre volumes é a linguagem da composição arquitetônica.
+O volume singular da edícula é o *elemento* de base da arquitetura. A
+articulação entre volumes é a *linguagem* da composição arquitetônica.
 Numa composição arquitetônica tradicional, cada volume é claramente
 delimitado, tem uma forma geométrica clara, e é articulado de modo
 autônomo. Ao mesmo tempo, todos os volumes de uma composição se
 relacionam por meio de traçados reguladores e transições (passagens)
 para formar um todo coerente, dotado de uma hierarquia espacial
-facilmente apreendida pelo usuário.
+facilmente apreendida pelo usuário ([@fig:serbistan; @fig:hasht]).
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Planta do palácio sassânida de Serbistan, século [IV]{.smallcaps}, levantada por [Richard Phené Spiers, "Architecture east and west", 1905][]](https://hcommons.org/app/uploads/sites/1002372/2023/03/serbistan-mit-157396_cp.png){#fig:serbistan .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Richard Phené Spiers, "Architecture east and west", 1905]: http://hdl.handle.net/1721.3/63979
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Pavilhão dos Oito Paraísos, Ispaão, Irã, século [XVII]{.smallcaps}, levantado por [Pascal Coste, 1840][]](https://i.pinimg.com/originals/0f/db/30/0fdb3014815ff18f1a46b51256eaac80.jpg){#fig:hasht}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Pascal Coste, 1840]: https://commons.wikimedia.org/wiki/File:Hasht_Behesht,_Plan_and_section_by_Pascal_Coste.jpg
 
 A *quina* é um dos modos mais simples de se dispor um certo número de
 volumes interligados, mas ela também permite uma infinita variedade de
 desenvolvimentos arquitetônicos, pela manipulação das proporções e dos
 interstícios entre os seus módulos ([@fig:quina; @fig:gabriel]).
-
-* * * *
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::: {#fig:gabriel .full}
 ![](https://hcommons.org/app/uploads/sites/1002372/2022/02/gabriel-c5.jpg){#fig:gabriel-c5 width="27%"}
@@ -43,6 +60,29 @@ interstícios entre os seus módulos ([@fig:quina; @fig:gabriel]).
 
 Exemplos de projetos baseados na quina. Alunos de Jean-François Gabriel, Universidade Notre Dame, South Bend, In., Estados Unidos
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Princípios da arquitetura tradicional ##
+
+Antes de começar, reflita sobre os dez princípios universais da
+arquitetura tradicional [Parcialmente inspirado em
+@gabriel:2004classical; @alexander:2002process] e pesquise a sua
+aplicação em exemplos reais de construções tradicionais antigas e
+contemporâneas:
+
+ 1. Antropomorfismo e unidade da composição;
+ 2. Espaço positivo, vazio bem definido;
+ 3. Clareza, simplicidade e repouso visual;
+ 4. Simetrias locais com ênfase no centro e extremidades;
+ 5. Repetição alternada de elementos e regularidade do traçado;
+ 6. Justaposição de elementos com limites claros;
+ 7. Níveis de escala e gradientes;
+ 8. Inventário restrito e canônico de elementos plásticos;
+ 9. Materiais naturais e regionais;
+10. Cadeia produtiva local.
+ 
+# Produto #
+
+# Ementa #
 
 Para além da ordem geométrica elementar fornecida pela quina, a
 composição espacial decorre dos *sete tipos edilícios fundamentais* e
@@ -58,12 +98,6 @@ indicado com clareza pela combinação de volumes e passagens:
 > apropriadas, compor uma edificação refinada, organizada com base no
 > princípio distributivo da quina.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-# Objetivo de aprendizagem #
-
-Articular espaços com formas geométricas definidas, usando os elementos
-da construção tradicional e a tipologia edilícia para dar forma e
-caráter a esses espaços.
 
 # Produto #
 
@@ -90,12 +124,13 @@ caráter a esses espaços.
 
 ## Apresentação ##
 
-Uma única prancha em desenho técnico arte-finalizado, com margem,
-carimbo, escala gráfica e legendas, mostrando:
+Uma única prancha tamanho A3 em desenho técnico arte-finalizado, com
+margem, carimbo, escala gráfica e legendas, mostrando:
 
 1. Planta baixa com indicação tracejada das abóbadas;
 2. Elevação principal;
-3. Corte no eixo perpendicular ao plano da elevação;
+3. Corte no eixo perpendicular ao plano da elevação, passando pelas
+   cúpulas e abóbadas;
 4. Detalhes conforme necessário.
 
 Planta, corte e elevação devem mostrar, tanto quanto necessário para a
@@ -106,7 +141,7 @@ sua compreensão, o entorno imediato onde a composição está implantada.
 | Critério                                                                          |  Valor |
 |-----------------------------------------------------------------------------------|-------:|
 | Senso de espacialidade e tipologia correto e bem expressado                       |     10 |
-| Aplicação correta dos elementos da construção tradicional                         |     10 |
+| Aplicação correta e bem proporcionada dos elementos da construção tradicional     |     10 |
 | Desenho correto e preciso, mostrando o traçado regulador das proporções           |      5 |
 | Prancha composta de modo elegante e legível, com todas as informações necessárias |      5 |
 | **Total**                                                                         | **30** |

@@ -65,6 +65,13 @@ span.smallcaps {
     font-variant: normal;
 }
 
+ol,
+ul,
+section > ol,
+section > ul {
+    padding-left: 1.3rem;
+}
+
 #main {
     p,
     li,
@@ -73,8 +80,15 @@ span.smallcaps {
     dd {
         font-size: 0.975rem;
     }
+    ol,
+    ul {
+        padding-left: 1.3rem;
+    }
     table caption {
         font-size: 0.75em;
+    }
+    figcaption {
+        font-weight: 600;
     }
     .subfigures p {
         @extend figcaption;

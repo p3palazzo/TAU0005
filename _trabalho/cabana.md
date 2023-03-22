@@ -2,7 +2,7 @@
 title: "Cabana primitiva"
 subtitle: "Arquitetura tradicional"
 item: "Atvidade de nivelamento"
-date: 2022-02-03
+date: 2023-04-18
 excerpt: |
   <dl>
     <dt>Objetivo</dt>

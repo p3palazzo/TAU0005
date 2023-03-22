@@ -1,6 +1,6 @@
 ---
 title: "Leitura e estudo"
-date: 2022-06-07
+date: 2023-03-28
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
   caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
