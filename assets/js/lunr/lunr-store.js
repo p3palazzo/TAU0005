@@ -125,20 +125,20 @@ var store = [{
         "url": "/TAU0005/plano/bibliografia/",
         "teaser": null
       },{
-        "title": "Estudo analítico: a cabana primitiva",
-        "excerpt":"[O] propósito [do estudo analítico] é garantir ao estudante, antes de ingressar no estudo da arquitetura propriamente dita, o comando de certo conhecimento das coisas necessárias para representar adequadamente uma edificação proposta. Lloyd Warren, Prefácio in John Harbeson, The Study of Architectural Design, 1927, p. 6. Objetivo Dominar algumas convenções fundamentais...","categories": [],
+        "title": "Cabana primitiva",
+        "excerpt":"[O] propósito [do estudo analítico] é garantir ao estudante, antes de ingressar no estudo da arquitetura propriamente dita, o comando de certo conhecimento das coisas necessárias para representar adequadamente uma edificação proposta. Lloyd Warren, Prefácio in John Harbeson, The Study of Architectural Design, 1927, p. 6. Contexto Cabana primitiva Figura 1:...","categories": [],
         "tags": [],
         "url": "/TAU0005/trabalho/cabana/",
         "teaser": null
       },{
         "title": "Edículas vernáculas",
-        "excerpt":"Ementa Os sistemas construtivos tradicionais de todos os povos do mundo usam materiais predominantemente locais, pouco processados, e saberes empíricos lentamente refinados, privilegiando estruturas portantes à compressão. Esse processo resulta em arquiteturas com marcada identidade local. Dentro de uma ampla gama de variações regionais e culturais, a construção tradicional converge...","categories": [],
+        "excerpt":"Ementa Figura 1: Exemplos de tradições construtivas de diferentes regiões, do livro Inquire Within, c. 1900 Os sistemas construtivos tradicionais de todos os povos do mundo usam materiais predominantemente locais, pouco processados, e saberes empíricos lentamente refinados, privilegiando estruturas portantes à compressão. Esse processo resulta em arquiteturas com marcada identidade local....","categories": [],
         "tags": [],
         "url": "/TAU0005/trabalho/vernacular/",
         "teaser": null
       },{
         "title": "Composição espacial",
-        "excerpt":"Ementa Figura 1: Cesare Cesariano, composição modular em quina, da tradução do Tratado de arquitetura de Vitrúvio, 1521 O volume singular da edícula é o elemento de base da arquitetura. A articulação entre volumes é a linguagem da composição arquitetônica. Numa composição arquitetônica tradicional, cada volume é claramente delimitado, tem...","categories": [],
+        "excerpt":"Contexto Quina Figura 1: Cesare Cesariano, composição modular em quina, da tradução do Tratado de arquitetura de Vitrúvio, 1521 O volume singular da edícula é o elemento de base da arquitetura. A articulação entre volumes é a linguagem da composição arquitetônica. Numa composição arquitetônica tradicional, cada volume é claramente delimitado,...","categories": [],
         "tags": [],
         "url": "/TAU0005/trabalho/volumes/",
         "teaser": null
@@ -150,7 +150,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Instrumentos e materiais",
-        "excerpt":"Para fazer as atividades da disciplina, você vai precisar de um conjunto básico de instrumentos de desenho arquitetônico e modelagem, seja à mão ou digital. Desenho à mão Materiais indicados Uma superfície lisa e macia para desenhar: prancheta portátil ou de pé, mesa de jantar ou tábua em MDF com...","categories": [],
+        "excerpt":"Para fazer as atividades da disciplina, você vai precisar de um conjunto básico de instrumentos de desenho arquitetônico e modelagem à mão. Desenho à mão Materiais indicados Uma superfície lisa e macia para desenhar: prancheta portátil ou de pé, mesa de jantar ou tábua em MDF com bordas retas (para...","categories": [],
         "tags": [],
         "url": "/TAU0005/trabalho/materiais/",
         "teaser": null
