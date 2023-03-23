@@ -9,7 +9,7 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   #gem "jekyll-paginate"
   gem "jekyll-pandoc"
-  gem "jekyll-relative-links", "0.6.1"
+  gem "jekyll-relative-links", "0.7.0"
   gem "jekyll-seo-tag"
   gem "jekyll-sitemap"
 end
