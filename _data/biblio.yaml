@@ -218,6 +218,24 @@ references:
   title: The phenomenon of life
   type: book
 
+- id: alexander:2002process
+  author:
+    - family: Alexander
+      given: Christopher
+  citation-key: alexander:2002process
+  collection-number: '2'
+  collection-title: The nature of order
+  event-place: Berkeley, Calif.
+  ISBN: 978-0-9726529-0-2 978-0-9726529-2-6
+  issued:
+    - year: 2002
+  language: en-US
+  publisher: Center for Environmental Structure
+  publisher-place: Berkeley, Calif.
+  source: Open WorldCat
+  title: The process of creating life
+  type: book
+
 - id: alonso:2010introducao
   abstract: >-
     Este livro é uma introdução à história da arquitetura e do urbanismo
@@ -879,7 +897,7 @@ references:
   URL: http://link.springer.com/10.1007/BF00975111
   volume: '3'
 
-- id: batie:1997incorporation6
+- id: batie:1997incorporation
   abstract: >-
     Current teaching methods for architectural history seldom embrace building
     technology as an essential component of study. Accepting the premise that
@@ -908,7 +926,7 @@ references:
   author:
     - family: Batie
       given: David L.
-  citation-key: batie:1997incorporation6
+  citation-key: batie:1997incorporation
   collection-title: 'Design computation: reasoning and collaboration'
   container-title: Automation in Construction
   container-title-short: Automation in Construction
@@ -924,7 +942,7 @@ references:
   source: ScienceDirect
   title: >-
     The incorporation of construction history in architectural history: the
-    <span class="smallcaps">HISTCON</span> interactive computer program
+    <span smallcaps="smallcaps">histcon</span> interactive computer program
   title-short: The incorporation of construction history in architectural history
   type: article-journal
   URL: http://www.sciencedirect.com/science/article/pii/S0926580597000460
@@ -1561,7 +1579,7 @@ references:
     maintained at the Indira Gandhi National Centre for the Arts.
 
 
-    Place of publication of this book: London
+    Place of publication of this book: Bombay
   accessed:
     - year: 2021
       month: 4
@@ -1570,6 +1588,33 @@ references:
     - family: Brown
       given: Percy
   citation-key: brown:1959indian
+  event-place: Bombay
+  issued:
+    - year: 1959
+  language: en
+  publisher: D.B. Taraporevala Sons
+  publisher-place: Bombay
+  source: Internet Archive
+  title: 'Indian architecture: Buddhist and Hindu periods'
+  title-short: Buddhist and Hindu periods
+  type: book
+  URL: http://archive.org/details/in.gov.ignca.18060
+
+- id: brown:1959indiana
+  abstract: >-
+    From the collection of the esteemed Archaeological Survey of India as
+    maintained at the Indira Gandhi National Centre for the Arts.
+
+
+    Place of publication of this book: London
+  accessed:
+    - year: 2021
+      month: 4
+      day: 4
+  author:
+    - family: Brown
+      given: Percy
+  citation-key: brown:1959indiana
   event-place: Bombay
   issued:
     date-parts:
@@ -1584,33 +1629,6 @@ references:
   title-short: Islamic period
   type: book
   URL: http://archive.org/details/in.gov.ignca.18429
-
-- id: brown:1959indiana
-  abstract: >-
-    From the collection of the esteemed Archaeological Survey of India as
-    maintained at the Indira Gandhi National Centre for the Arts.
-
-
-    Place of publication of this book: Bombay
-  accessed:
-    - year: 2021
-      month: 4
-      day: 4
-  author:
-    - family: Brown
-      given: Percy
-  citation-key: brown:1959indiana
-  event-place: Bombay
-  issued:
-    - year: 1959
-  language: en
-  publisher: D.B. Taraporevala Sons
-  publisher-place: Bombay
-  source: Internet Archive
-  title: 'Indian architecture: Buddhist and Hindu periods'
-  title-short: Buddhist and Hindu periods
-  type: book
-  URL: http://archive.org/details/in.gov.ignca.18060
 
 - id: brunes:1967secrets1
   author:
@@ -1825,7 +1843,7 @@ references:
   language: en
   page: 143-150
   source: JSTOR
-  title: The Early Gothic Continuous Capital and Its Precursors
+  title: The Early Gothic continuous capital and its precursors
   type: article-journal
   URL: http://www.jstor.org/stable/766761
   volume: '15'
@@ -2184,6 +2202,14 @@ references:
       given: William
   call-number: '39088005973763'
   citation-key: chambers:1757designs
+  contributor:
+    - family: Fourdrinier
+      given: P.
+    - family: Grignion
+      given: Charles
+    - family: Sandby
+      given: Paul
+    - literal: Smithsonian Libraries
   event-place: London
   issued:
     - year: 1757
@@ -2696,7 +2722,9 @@ references:
   language: en
   page: 239-259
   source: JSTOR
-  title: Housing in Early Medieval Rome, 500-1000 <span class="smallcaps">AD</span>
+  title: >-
+    Housing in Early Medieval Rome, 500-1000 <span
+    smallcaps="smallcaps">ad</span>
   type: article-journal
   URL: http://www.jstor.org/stable/40310936
   volume: '64'
@@ -3152,7 +3180,7 @@ references:
   URL: http://archive.org/details/in.ernet.dli.2015.213903
   volume: '1'
 
-- id: di:2019low-costXLII-2W17
+- id: di:2019low-costxlii-2w17
   abstract: >-
     Abstract. The paper aims to investigate the potential inherent in a FOSS
     (Free and Open Source Software) approach for the 4D BIM modelling using
@@ -3184,7 +3212,7 @@ references:
       given: D.
     - family: Abita
       given: M.
-  citation-key: di:2019low-costXLII-2W17
+  citation-key: di:2019low-costxlii-2w17
   container-title: >-
     ISPRS - International Archives of the Photogrammetry, Remote Sensing and
     Spatial Information Sciences
@@ -4563,48 +4591,6 @@ references:
   title-short: Space, time and architecture
   type: book
 
-- id: gil-crespo:2016islamic31
-  abstract: >-
-    This paper offers a history of rammed-earth construction through the study
-    of selected examples of Islamic defensive architecture in Spain. While earth
-    construction differs from region to region and time to time during the
-    period of Islamic domination in Spain, various examples share a number of
-    common characteristics. The details of rammed-earth construction techniques
-    in each historical epoch are analysed in terms of the dimensions of the
-    earth boxes and their elements. The processes and the auxiliary elements of
-    the formwork, and the role of putlog holes and beams are also studied. From
-    this analysis a construction typology for Islamic earthworks is proposed.
-    This differs from Medieval Christian rammed-earth construction which
-    comprises a method using boxes and half putlogs which need a bracing system
-    such as wedges, nails, ropes or Saint Andrew crosses. Finally, analysis of
-    the modules and dimensions of the rammed-earth components reveals that two
-    modules were used, one used during Emirate and Caliphate based on a
-    dimension of a raššāší cubit (0.55 cm), the other used during the Almoravid,
-    Almohad and Nasrid kingdoms based on a dimension of a ma’mūní cubit (c. 0.45
-    cm)..
-  accessed:
-    - year: 2020
-      month: 7
-      day: 11
-  archive: JSTOR
-  author:
-    - family: Gil-Crespo
-      given: Ignacio-Javier
-  citation-key: gil-crespo:2016islamic31
-  container-title: Construction History
-  ISSN: 0267-7768
-  issue: '2'
-  issued:
-    - year: 2016
-  language: en
-  page: 1-22
-  publisher: The Construction History Society
-  source: JSTOR
-  title: Islamic fortifications in Spain built with rammed earth
-  type: article-journal
-  URL: https://www.jstor.org/stable/26476233
-  volume: '31'
-
 - id: gil:2010mayas
   call-number: F1435.3.A6 M385 2010
   citation-key: gil:2010mayas
@@ -4632,6 +4618,48 @@ references:
     landscape guide
   title-short: Mayas
   type: book
+
+- id: gilcrespo:2016islamic31
+  abstract: >-
+    This paper offers a history of rammed-earth construction through the study
+    of selected examples of Islamic defensive architecture in Spain. While earth
+    construction differs from region to region and time to time during the
+    period of Islamic domination in Spain, various examples share a number of
+    common characteristics. The details of rammed-earth construction techniques
+    in each historical epoch are analysed in terms of the dimensions of the
+    earth boxes and their elements. The processes and the auxiliary elements of
+    the formwork, and the role of putlog holes and beams are also studied. From
+    this analysis a construction typology for Islamic earthworks is proposed.
+    This differs from Medieval Christian rammed-earth construction which
+    comprises a method using boxes and half putlogs which need a bracing system
+    such as wedges, nails, ropes or Saint Andrew crosses. Finally, analysis of
+    the modules and dimensions of the rammed-earth components reveals that two
+    modules were used, one used during Emirate and Caliphate based on a
+    dimension of a raššāší cubit (0.55 cm), the other used during the Almoravid,
+    Almohad and Nasrid kingdoms based on a dimension of a ma’mūní cubit (c. 0.45
+    cm)..
+  accessed:
+    - year: 2020
+      month: 7
+      day: 11
+  archive: JSTOR
+  author:
+    - family: Gil-Crespo
+      given: Ignacio-Javier
+  citation-key: gilcrespo:2016islamic31
+  container-title: Construction History
+  ISSN: 0267-7768
+  issue: '2'
+  issued:
+    - year: 2016
+  language: en
+  page: 1-22
+  publisher: The Construction History Society
+  source: JSTOR
+  title: Islamic fortifications in Spain built with rammed earth
+  type: article-journal
+  URL: https://www.jstor.org/stable/26476233
+  volume: '31'
 
 - id: grabar:1963islamic22
   accessed:
@@ -4669,6 +4697,7 @@ references:
       given: Oleg
   citation-key: grabar:1990dome49
   container-title: Journal of the Society of Architectural Historians
+  container-title-short: JSAH
   DOI: 10.2307/990496
   ISSN: 0037-9808
   issue: '1'
@@ -5099,6 +5128,23 @@ references:
   URL: https://www.persee.fr/doc/arch_0044-8613_1996_num_52_1_3357
   volume: '52'
 
+- id: hande:2004dougong
+  author:
+    - literal: 潘德華 [Pan Dehua]
+  call-number: TH2060 .P36 2004
+  citation-key: hande:2004dougong
+  edition: 第一番
+  event-place: Nanjing
+  ISBN: 978-7-81089-578-1
+  issued:
+    - year: 2004
+  language: zh
+  publisher: 东南大学出版社 [Dong nan da xue chu ban she]
+  publisher-place: Nanjing
+  source: Library of Congress ISBN
+  title: 斗栱 [Dougong]
+  type: book
+
 - id: harbeson:1927study
   author:
     - family: Harbeson
@@ -5283,7 +5329,7 @@ references:
     building design
   title-short: J.n.l. durand's architectural theory
   type: article-journal
-  URL: https://www.jstor.org/stable/1566963?origin=crossref
+  URL: https://www.jstor.org/stable/1566963
   volume: '12'
 
 - id: heyden:1975pre-columbian
@@ -6049,6 +6095,8 @@ references:
       given: Marc-Antoine
   call-number: '270792'
   citation-key: laugier:1753essai
+  contributor:
+    - literal: Getty Research Institute
   event-place: Paris
   issued:
     - year: 1753
@@ -6084,6 +6132,11 @@ references:
       given: Marc-Antoine
   call-number: '9579'
   citation-key: laugier:1755essai
+  contributor:
+    - family: Duchesne
+      given: Nicolas-Bonaventure
+    - family: Fonbonne
+      given: Anne
   edition: 2^e^ éd.
   event-place: Paris
   issued:
@@ -6197,7 +6250,7 @@ references:
   URL: http://www.jstor.org/stable/987634
   volume: '13'
 
-- id: levi-strauss:1936contribuicaoXXVII
+- id: levi-strauss:1936contribuicaoxxvii
   accessed:
     - year: 2021
       month: 1
@@ -6205,7 +6258,7 @@ references:
   author:
     - family: Lévi-Strauss
       given: Claude
-  citation-key: levi-strauss:1936contribuicaoXXVII
+  citation-key: levi-strauss:1936contribuicaoxxvii
   container-title: Revista do Arquivo Municipal (São Paulo)
   issued:
     - year: 1936
@@ -6463,6 +6516,7 @@ references:
       given: María Josefa
     - family: Ciudad Ruíz
       given: Andrés
+    - literal: Sociedad Española de Estudios Mayas.
   citation-key: martinez:2001reconstruyendo
   collection-number: '6'
   collection-title: Publicaciones de la S.E.E.M.
@@ -6485,7 +6539,7 @@ references:
     - family: Mascarenhas
       given: Jorge
   citation-key: mascarenhas:2019tecnicas
-  collection-number: <span class="smallcaps">XVI</span>
+  collection-number: <span smallcaps="smallcaps">xvi</span>
   collection-title: Sistemas de construção
   event-place: Lisboa
   ISBN: 978-972-24-1936-9
@@ -6581,26 +6635,45 @@ references:
   title: Recording historic buildings
   type: book
 
-- id: mileto:2018vernacular
-  citation-key: mileto:2018vernacular
-  contributor:
-    - literal: SOStierra
+- id: mileto:2015vernacular
+  abstract: >-
+    Sustainability is a concept that has monopolised a large number of the
+    scientific debates in a wide range of spheres connected not only with
+    architecture, urban planning and construction, but also with the product
+    market, tourism, culture, etc. However, sustainability is indissolubly
+    linked to vernacular architecture and the lessons this architecture of the
+    past can teach us for the future. The concept of sustainability as it is
+    presented is wide-reaching and encompasses not only environmental issues but
+    also sociocultural and socioeconomic questions. The lessons we can learn
+    from studying vernacular architecture in these three broad spheres are
+    manifold, and can help us not only to further the conservation and retrieval
+    of this architecture already in existence but to rethink new architecture in
+    the light of what we have learned
+  call-number: NA208 .I584 2015
+  citation-key: mileto:2015vernacular
   editor:
     - family: Mileto
       given: Camilla
     - family: Vegas López-Manzanares
       given: Fernando
     - family: García Soriano
-      given: L
+      given: L.
     - family: Cristini
       given: Valentina
-  ISBN: 978-1-138-03546-1
+  event-place: Leiden
+  ISBN: 978-1-138-02682-7
   issued:
-    - year: 2018
+    - year: 2015
   language: en
-  source: Open WorldCat
-  title: 'Vernacular and earthen architecture: conservation and sustainability'
-  title-short: Vernacular and earthen architecture
+  number-of-pages: '784'
+  publisher: CRC Press/Balkema
+  publisher-place: Leiden
+  source: Library of Congress ISBN
+  title: >-
+    Vernacular architecture: towards a sustainable future: proceedings of the
+    International Conference on Vernacular Heritage, Sustainability and Earthen
+    Architecture, Valencia, Spain, 11-13 September 2014
+  title-short: Vernacular architecture
   type: book
 
 - id: miller:2020delayed23
@@ -6775,12 +6848,12 @@ references:
   title: The main hall of the Tōshōdai-ji
   type: article-journal
 
-- id: muratori:1959studiIX
+- id: muratori:1959studiix
   abstract: Quadro generale dalle origini agli sviluppi attuali
   author:
     - family: Muratori
       given: Saverio
-  citation-key: muratori:1959studiIX
+  citation-key: muratori:1959studiix
   container-title: Palladio
   issue: 3–4
   issued:
@@ -6812,9 +6885,7 @@ references:
   citation-key: noble:2009traditional
   ISBN: 978-0-85773-902-5
   issued:
-    - year: 2009
-      month: 9
-      day: 18
+    - year: 2007
   language: en
   number-of-pages: '340'
   publisher: I.B.Tauris
@@ -6923,23 +6994,6 @@ references:
       given: Isaac
   type: book
   URL: http://archive.org/details/gri_33125011569684
-
-- id: pan:2004Dou
-  author:
-    - literal: 潘德華 [Pan Dehua]
-  call-number: TH2060 .P36 2004
-  citation-key: pan:2004Dou
-  edition: 第一番
-  event-place: Nanjing
-  ISBN: 978-7-81089-578-1
-  issued:
-    - year: 2004
-  language: zh
-  publisher: 东南大学出版社 [Dong nan da xue chu ban she]
-  publisher-place: Nanjing
-  source: Library of Congress ISBN
-  title: 斗栱 [Dougong]
-  type: book
 
 - id: panerai:2006analise
   author:
@@ -7434,6 +7488,10 @@ references:
   author:
     - family: Price
       given: Francis
+    - family: Toms
+      given: W. H. (William Henry)
+    - family: Ackers
+      given: Charles
   call-number: '9926429080001551'
   citation-key: price:1735british
   event-place: London
@@ -7519,6 +7577,9 @@ references:
       non-dropping-particle: d’
   collection-title: Encyclopédie, ou Dictionnaire raisonné des sciences, des arts et des métiers
   container-title: Architecture
+  editor:
+    - family: Quatremère de Quincy
+      given: A.C.
   event-place: Paris
   issued:
     - year: 1788
@@ -8043,6 +8104,8 @@ references:
       given: Jean Baptiste
   call-number: '235551'
   citation-key: rondelet:1812traite1
+  contributor:
+    - literal: Getty Research Institute
   event-place: Paris
   issued:
     - year: 1812
@@ -8490,11 +8553,11 @@ references:
   URL: https://www.jstor.org/stable/23289158
   volume: '24'
 
-- id: schaeffer:1971chinesicesXXII
+- id: schaeffer:1971chinesicesxxii
   author:
     - family: Schaeffer
       given: Enrico
-  citation-key: schaeffer:1971chinesicesXXII
+  citation-key: schaeffer:1971chinesicesxxii
   container-title: Anais do Museu Histórico Nacional
   issued:
     - year: 1971
@@ -9434,9 +9497,9 @@ references:
   page: 579-587
   source: JSTOR
   title: >-
-    The Technology of Transition: Sexpartite to Quadripartite Vaulting in High
-    Gothic Architecture
-  title-short: The Technology of Transition
+    The technology of transition: sexpartite to quadripartite vaulting in High
+    Gothic architecture
+  title-short: The technology of transition
   type: article-journal
   URL: http://www.jstor.org/stable/3050269
   volume: '64'
@@ -9617,9 +9680,9 @@ references:
   publisher: '[Taylor & Francis, Ltd., College Art Association]'
   source: JSTOR
   title: >-
-    Gothic Architecture by Remote Control: An Illustrated Building Contract of
+    Gothic architecture by remote control: an illustrated building contract of
     1340
-  title-short: Gothic Architecture by Remote Control
+  title-short: Gothic architecture by remote control
   type: article-journal
   URL: https://www.jstor.org/stable/3050888
   volume: '67'
@@ -9760,7 +9823,7 @@ references:
       dropping-particle: de
   type: book
 
-- id: tzonis:1972non-oppressive
+- id: tzonis:1972nonoppressive
   abstract: >-
     124 p. ; 21 cm; On spine: Non-oppressive environment; Includes
     bibliographical references
@@ -9771,7 +9834,7 @@ references:
   author:
     - family: Tzonis
       given: Alexander
-  citation-key: tzonis:1972non-oppressive
+  citation-key: tzonis:1972nonoppressive
   event-place: Boston
   issued:
     - year: 1972

@@ -1,15 +1,16 @@
 ---
-title: "Estudo analítico: a cabana primitiva"
+title: "Cabana primitiva"
 subtitle: "Arquitetura tradicional"
 item: "Atvidade de nivelamento"
-date: 2022-02-03
-toc:
-  - Objetivo
-  - Contexto
-  - Ementa
-  - Produto
-  - Cronograma e critérios de avaliação
-  - Referências
+date: 2023-04-18
+excerpt: |
+  <dl>
+    <dt>Objetivo</dt>
+    <dd>
+      Dominar algumas convenções fundamentais da arquitetura
+      tradicional e da sua representação gráfica.
+    </dd>
+  </dl>
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/a/ad/Киргизские_кибитки_на_реке_Чу.jpg
   caption: "Vasily Vereshchagin, [Tenda no rio Chu](https://commons.wikimedia.org/wiki/File:Киргизские_кибитки_на_реке_Чу.jpg), Quirguistão, 1869"
@@ -26,16 +27,13 @@ header:
 > 1927, p. 6.</footer>
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Objetivo #
-
-Dominar algumas convenções fundamentais da arquitetura tradicional e
-da sua representação gráfica.
-
 # Contexto #
 
 ## Cabana primitiva ##
 
-![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier .align-right}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do *Essai sur l'architecture* de Marc-Antoine Laugier, 1755](https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg){#fig:laugier}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Arquitetura é construção. O propósito da arquitetura é, antes de mais
 nada, o de oferecer abrigo e contexto para as atividades humanas.
@@ -59,7 +57,9 @@ montagem simples e racional de elementos em madeira. Por isso, o estudo
 de uma cabana primitiva qualquer é uma boa porta de entrada para a
 prática da arquitetura tradicional.
 
-![Localização do sítio arqueológico de Bànpō na área da cultura Yangshao, atual China. Mapa: [Kanguole, 2015][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Yangshao_map.svg/702px-Yangshao_map.svg.png){#fig:yangshao .align-right}
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Localização do sítio arqueológico de Bànpō na área da cultura Yangshao, atual China. Mapa: [Kanguole, 2015][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Yangshao_map.svg/702px-Yangshao_map.svg.png){#fig:yangshao}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 [Kanguole, 2015]: https://commons.wikimedia.org/wiki/File:Yangshao_map.svg
 
@@ -162,9 +162,10 @@ são ortográficas, ou seja, *sem* perspectiva.
 
 |  Data | Tarefa                             |
 |:-----:|:-----------------------------------|
-| 20/01 | Lançamento da atividade            |
-| 27/01 | Revisão dos trabalhos em andamento |
-| 05/02 | Entrega da atividade               |
+| 28/03 | Lançamento da atividade            |
+| 04/04 | Revisão dos trabalhos em andamento |
+| 11/04 | Revisão dos trabalhos em andamento |
+| 18/04 | Entrega da atividade               |
 
 : Cronograma {#tbl:cronograma}
 

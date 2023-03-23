@@ -14,20 +14,6 @@ header:
   actions:
   - label: "Programa e cronograma"
     url  : "/"
-
-sidebar:
-- text: |
-    <div itemscope="" itemtype="https://schema.org/Person">
-    <div class="author__avatar">
-    <img src="https://hcommons.org/app/uploads/sites/1002372/2022/05/giselle-chaim.jpg" alt="Giselle Chaim" itemprop="image" />
-    </div>
-    <div class="author__content">
-    <h3 class="author__name" itemprop="name">Giselle Chaim</h3>
-    <div class="author__bio" itemprop="description">
-    <p>Professora substituta</p>
-    </div>
-    </div>
-    </div>
 ---
 
 # Antes de começar #

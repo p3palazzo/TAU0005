@@ -4,7 +4,6 @@
 
 @charset "utf-8";
 
-@import url("https://use.typekit.net/hny1sfi.css");
 @import url("https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css");
 
 /* ==========================================================================
@@ -16,18 +15,17 @@
    ========================================================================== */
 
 /* system typefaces */
-$serif: "cormorant-garamond", "eb-garamond", Georgia, Times, serif;
-$sans-serif: "league-gothic", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+$serif: "Lato";
+$sans-serif: "Lato";
 $monospace: "source-code-pro", Consolas, "Liberation Mono", Menlo, Courier, monospace;
 
 /* serif typefaces */
 $garamond: "eb-garamond", "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
 
-$global-font-family: $garamond;
-$header-font-family: $serif;
-$caption-font-family: $garamond;
-$sans-serif-narrow: "kepler-std-semicondensed-dis", "league-gothic", "Arial Narrow", sans-serif;
-$sans-serif: $sans-serif-narrow;
+$global-font-family: $sans-serif;
+$header-font-family: $sans-serif;
+$caption-font-family: $sans-serif;
+$sans-serif-narrow: $sans-serif;
 
 /*
    Colors
@@ -41,7 +39,7 @@ $sans-serif: $sans-serif-narrow;
    Grid
    ========================================================================== */
 
-$x-large: 1440px;
+$x-large: 1600px;
 $max-width: calc(1520px + 3em);
 $right-sidebar-width-narrow: 300px;
 $right-sidebar-width: 300px;
@@ -50,7 +48,7 @@ $right-sidebar-width-wide: 400px;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-$meta-font-weight: 500;
+$meta-font-weight: 600;
 $header-font-weight: 300;
 $header-font-style: italic;
 
@@ -61,4 +59,76 @@ $header-font-style: italic;
     "local",
 	"revealjs-support"
 ;
+
+.course-content {
+    padding: calc(0.5rem + 15px);
+}
+
+h4,
+span.smallcaps {
+    font-variant: normal;
+}
+
+ol,
+ul,
+section > ol,
+section > ul {
+    padding-left: 1.3rem;
+}
+
+#main {
+    p,
+    li,
+    dl,
+    dt,
+    dd {
+        font-size: 0.975rem;
+    }
+    ol,
+    ul {
+        padding-left: 1.3rem;
+    }
+    table caption {
+        font-size: 0.75em;
+    }
+    figcaption {
+        font-weight: 600;
+    }
+    .subfigures p {
+        @extend figcaption;
+    }
+}
+
+.page__hero--overlay {
+    * {
+        color: #fff !important;
+    }
+    h1 {
+        font-weight: lighter !important;
+    }
+}
+
+article {
+    @include breakpoint($large) {
+        width: 100% !important;
+    }
+}
+
+.page__content h3 {
+    @include breakpoint($large) {
+        float: none;
+        margin: 2em 0 0 0;
+        width: 100%;
+    }
+}
+
+h2.archive__item-title {
+    font-size: 1em !important;
+    font-weight: 600 !important;
+    font-variant: normal;
+}
+
+a.btn {
+    font-variant: normal;
+}
 // vim: set shiftwidth=4 tabstop=4 foldmethod=indent :

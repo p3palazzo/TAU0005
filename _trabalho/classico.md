@@ -2,16 +2,19 @@
 title   : "Analítico com ordens clássicas"
 subtitle: "Fazer arquitetura"
 item: "Atividade III"
-date: 2022-04-28
+date: 2023-07-11
 header:
   overlay_image: https://i.pinimg.com/originals/87/b8/aa/87b8aa149e0d86c2e1f4f5a32fc755e7.jpg
-excerpt: >
-  Realizar um estudo analítico de uma edícula com um único ambiente
-  interno, compreendendo uma ordem clássica. A edícula será implantada
-  num espaço aberto, e deve ornar e dignificar o espaço público mediante
-  o uso correto e elegante dos elementos da arquitetura clássica. A
-  composição da prancha deve ressaltar as proporções e os detalhes da
-  arquitetura clássica.
+excerpt: |
+  <dl>
+    <dt>Objetivos</dt>
+    <dd>
+      Dominar as cinco ordens clássicas da arquitetura e ser capaz de as
+      empregar em composições simples, reconhecendo seus aspectos estéticos
+      assim como sua lógica de representação construtiva (disposição,
+      proporções, modenatura).
+    </dd>
+  </dl>
 ---
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
@@ -46,7 +49,7 @@ estudos classicistas.
 
 As "cinco ordens" da arquitetura clássica foram codificadas como um
 cânone relativamente tarde, nos tratados de autores italianos como
-Serlio, Vinhola (Vignola) e Palladio, em torno da metade do século XVI.
+Serlio, Vinhola (Vignola) e Palladio, em torno da metade do século [XVI]{.smallcaps}.
 No entanto, elas não são uma "invenção" arbitrária de algumas pessoas,
 mas o resultado da consolidação milenar de práticas construtivas,
 costumes projetuais e refinamentos estéticos.
@@ -82,13 +85,6 @@ erudita, propondo:
 > arquitetura clássica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Objetivos #
-
-Dominar as cinco ordens clássicas da arquitetura e ser capaz de as
-empregar em composições simples, reconhecendo seus aspectos estéticos
-assim como sua lógica de representação construtiva (disposição,
-proporções, modenatura).
-
 # Produto #
 
 Uma edícula de construção e composição eruditas, com um único volume
@@ -96,11 +92,11 @@ interno, implantada num ambiente público à sua escolha.
 
 A edícula será
 implantada num espaço público aberto, e poderá servir como portal,
-guarita, sala de estar, ou qualquer outra forma de abrigo ou passagem;
-a sua composição deve ser suficientemente genérica para
-permitir uma variedade de usos. A edícula deve
-ornar e dignificar o espaço público mediante o uso correto e elegante
-dos elementos da arquitetura clássica.
+guarita, sala de repouso, recolhimento espiritual, ou qualquer outra
+forma de abrigo ou passagem; a sua composição deve ser suficientemente
+genérica para permitir uma variedade de usos. A edícula deve ornar e
+dignificar o espaço público mediante o uso correto e elegante dos
+elementos da arquitetura clássica.
 
 - A edícula deve ser articulada no seu exterior ou interior com uma
   ordem toscana, dórica, jônica, coríntia ou compósita completa

@@ -1,6 +1,6 @@
 ---
 title: "Instrumentos e materiais"
-date: 2022-06-07
+date: 2023-03-28
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/lequeu-crop.jpg
   overlay_filter: 0.5
@@ -9,13 +9,10 @@ excerpt: >
   Desenho à mão –
   Desenho no computador –
   Maquetes físicas –
-  Modelagem digital –
-  Digitalização de entregas
 ---
 
 Para fazer as atividades da disciplina, você vai precisar de um conjunto
-básico de instrumentos de desenho arquitetônico e modelagem, seja à mão
-ou digital.
+básico de instrumentos de desenho arquitetônico e modelagem à mão.
 
 # Desenho à mão #
 
@@ -289,16 +286,42 @@ construir uma maquete à mão nos obriga a trabalhar desde o início com o
 senso de escala, e só vamos desenhar ou montar elementos até o nível de
 detalhe condizente com a escala que escolhemos para o nosso trabalho.
 
-Mesmo assim, a arquitetura tradicionalista da atualidade também teve que
-se adaptar ao uso de ferramentas digitais por questões comerciais e de
-compatibilidade com a indústria da construção. A representação de
-elementos construtivos tradicionais pode ser feita no computador, mas
-demanda grande atenção à escala e senso de equilíbrio visual. A
-capacidade de representar construções tradicionais com ferramentas
-digitais desenvolve habilidades que se refletem também na melhoria da
-apresentação gráfica e da coerência construtiva em projetos modernistas.
+## O que você pode fazer no computador? ##
 
-## O que não fazer no computador? ##
+Absolutamente nenhum desenho ou maquete de [TAU 0005]{.smallcaps} deve
+ser feito ou entregue no computador.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--warning
+<i class="fas fa-exclamation-circle"></i>
+: Não é permitido fazer nenhuma parte do desenvolvimento ou arte-final
+  dos trabalhos de [TAU 0005]{.smallcaps} no computador.
+
+: Esta regra é para o seu próprio bem. Em 15 anos de
+  [TAU 0005]{.smallcaps} no formato presencial, os trabalhos feitos no
+  computador *sempre* foram os piores das suas turmas.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## O que / por que não fazer no computador? ##
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
+— *Mas professor, eu tenho mais facilidade em projetar no computador do
+que na mão!*
+
+— Não tem não. Nenhum ser humano tem mais facilidade em manejar uma
+interface digital do que em transferir uma ideia da cabeça para o papel
+por meio de um lápis ou de um material de maquete. Quem diz isso está se
+enganando enquanto acha que engana o professor.
+
+Os programas de [CAD]{.smallcaps} ou [BIM]{.smallcaps} apenas dão a
+*ilusão* de um trabalho mais bem-acabado que pode ajudar na sua
+autoconfiança ao projetar. No entanto, a satisfação superficial de olhar
+para linhas aparentemente precisas numa prancha bem impressa não tem
+nada a ver com desenvolver a competência de projetar ou interpretar
+melhor uma edificação ou conjunto urbano. Esta competência só pode ser
+adquirida pela manipulação direta e repetitiva de desenhos e maquetes
+com as suas próprias mãos, sem outros intermediários entre o seu cérebro
+e o produto físico.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Os programas de desenho técnico são ferramentas úteis para fazer
 desenhos compostos, predominantemente, por linhas retas e ortogonais, ou
@@ -317,87 +340,108 @@ escala adotada.
   perfis retilíneos e curvos são características fundamentais da
   arquitetura tradicional. *Não é admissível* em nenhum dos nossos
   trabalhos desenhar linhas retas no lugar de perfis curvos por preguiça
-  ou dificuldade de representar esses perfis no computador.
+  ou dificuldade de representar esses perfis.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## O que fazer no computador? ##
+Na vida real, a arquitetura tradicionalista da atualidade também teve
+que se adaptar ao uso de ferramentas digitais por questões comerciais e
+de compatibilidade com a indústria da construção. A representação de
+elementos construtivos tradicionais pode ser feita no computador, mas
+demanda grande atenção à escala e senso de equilíbrio visual. A
+capacidade de representar construções tradicionais com ferramentas
+digitais desenvolve habilidades que se refletem também na melhoria da
+apresentação gráfica e da coerência construtiva em projetos modernistas.
 
-Mapas de cidades e plantas de edificações existentes são alguns desenhos
-que podem ser feitos com precisão e praticidade num programa de desenho
-técnico, desde que usando como base um desenho existente para que o seu
-traço leve em conta todas as irregularidades e detalhes do objeto
-existente. Se tiver acesso a uma planta já vetorizada do seu objeto de
-estudo, melhor ainda: voce poderá simplesmente editar este desenho
-vetorial para se adequar às suas necessidades e às nossas convenções
-gráficas, bem como para mostrar informações históricas que não
-compareçam nas plantas atuais.
+No entanto, a competência para representar corretamente a arquitetura
+tradicional no [CAD]{.smallcaps} ou [BIM]{.smallcaps} decorre
+diretamente da capacidade de apreender, no papel, as características
+formais e construtivas dessa arquitetura tradicional. Uma vez que o
+propósito do ensino de arquitetura é a formação de competências e não a
+replicação pura e simples do ambiente profissional, todos os trabalhos
+de [TAU 0005]{.smallcaps} devem ser desenvolvidos e entregues
+inteiramente à mão.
 
-## Programas indicados ##
-
-Estamos numa universidade pública e (pelo menos formalmente) gratuita.
-Por isso, parece-nos incoerente indicar ou exigir programas específicos,
-comerciais e pagos, mesmo quando tenham versão educacional gratuita. Por
-isso, vamos falar dos programas segundo a sua função e não seus nomes de
-marca ([@tbl:cad]). Para conveniência, oferecemos a seguir uma lista de
-programas equivalentes ([@tbl:freecad]).
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-<i class="fas fa-info-circle"></i>
-: Todos os desenhos devem ser entregues em formato [PDF]{.smallcaps},
-  portanto fique à vontade para trabalhar no programa que mais lhe
-  convier e melhor atender às suas necessidades.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-<!--a-->
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-Table: Programas de desenho e suas utilidades {#tbl:cad}
-
-+---------------------+-----------------------------------------------+
-| Função              | Uso                                           |
-+=====================+===============================================+
-| Desenho técnico     | - Traçar ou editar plantas e mapas existentes |
-+---------------------+-----------------------------------------------+
-| Geoprocessamento    | - Traçar ou editar mapas urbanos e plantas de |
-|                     | edifícios existentes                          |
-|                     | - Arte-finalizar mapas urbanos                |
-+---------------------+-----------------------------------------------+
-| Ilustração vetorial | - Traçar ou editar plantas e mapas existentes |
-|                     | - Arte-finalizar desenhos vetoriais           |
-|                     | - Fazer diagramas explicativos                |
-|                     | - Paginação de pranchas                       |
-+---------------------+-----------------------------------------------+
-| Arte pixelada       | - Arte-finalizar desenhos digitais ou manuais |
-|                     | - Editar, corrigir e melhorar desenhos        |
-|                     | fotografados                                  |
-+---------------------+-----------------------------------------------+
-
-Table: Equivalência de programas de desenho por função {#tbl:freecad}
-
-+---------------------+--------------------+--------------------------+
-| Função              | Programa comercial | Equivalentes livres      |
-+=====================+====================+==========================+
-| Desenho técnico     | - AutoCAD          | - [LibreCAD][]           |
-|                     |                    | - [[QCAD][]]{.smallcaps} |
-+---------------------+--------------------+--------------------------+
-| Geoprocessamento    | - ArcMap / ArcGIS  | - [[QGIS][]]{.smallcaps} |
-+---------------------+--------------------+--------------------------+
-| Ilustração vetorial | - Illustrator      | - [Inkscape][]           |
-|                     | - InDesign         | - [Scribus][]            |
-+---------------------+--------------------+--------------------------+
-| Arte pixelada       | - Photoshop        | - [[GIMP][]]{.smallcaps} |
-|                     |                    | - [Krita][]              |
-+---------------------+--------------------+--------------------------+
-
-[LibreCAD]: https://librecad.org/
-[QCAD]: https://qcad.org/
-[QGIS]: https://www.qgis.org/pt_BR/site/
-[Inkscape]: https://inkscape.org/
-[Scribus]: https://www.scribus.net/
-[GIMP]: https://www.gimp.org/
-[Krita]: https://krita.org/es/
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+<!--
+   -## O que fazer no computador? ##
+   -
+   -Mapas de cidades e plantas de edificações existentes são alguns desenhos
+   -que podem ser feitos com precisão e praticidade num programa de desenho
+   -técnico, desde que usando como base um desenho existente para que o seu
+   -traço leve em conta todas as irregularidades e detalhes do objeto
+   -existente. Se tiver acesso a uma planta já vetorizada do seu objeto de
+   -estudo, melhor ainda: voce poderá simplesmente editar este desenho
+   -vetorial para se adequar às suas necessidades e às nossas convenções
+   -gráficas, bem como para mostrar informações históricas que não
+   -compareçam nas plantas atuais.
+   -
+   -## Programas indicados ##
+   -
+   -Estamos numa universidade pública e (pelo menos formalmente) gratuita.
+   -Por isso, parece-nos incoerente indicar ou exigir programas específicos,
+   -comerciais e pagos, mesmo quando tenham versão educacional gratuita. Por
+   -isso, vamos falar dos programas segundo a sua função e não seus nomes de
+   -marca ([@tbl:cad]). Para conveniência, oferecemos a seguir uma lista de
+   -programas equivalentes ([@tbl:freecad]).
+   -
+   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
+   -<i class="fas fa-info-circle"></i>
+   -: Todos os desenhos devem ser entregues em formato [PDF]{.smallcaps},
+   -  portanto fique à vontade para trabalhar no programa que mais lhe
+   -  convier e melhor atender às suas necessidades.
+   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+   -
+   -[>a<]
+   -
+   -:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+   -Table: Programas de desenho e suas utilidades {#tbl:cad}
+   -
+   -+---------------------+-----------------------------------------------+
+   -| Função              | Uso                                           |
+   -+=====================+===============================================+
+   -| Desenho técnico     | - Traçar ou editar plantas e mapas existentes |
+   -+---------------------+-----------------------------------------------+
+   -| Geoprocessamento    | - Traçar ou editar mapas urbanos e plantas de |
+   -|                     | edifícios existentes                          |
+   -|                     | - Arte-finalizar mapas urbanos                |
+   -+---------------------+-----------------------------------------------+
+   -| Ilustração vetorial | - Traçar ou editar plantas e mapas existentes |
+   -|                     | - Arte-finalizar desenhos vetoriais           |
+   -|                     | - Fazer diagramas explicativos                |
+   -|                     | - Paginação de pranchas                       |
+   -+---------------------+-----------------------------------------------+
+   -| Arte pixelada       | - Arte-finalizar desenhos digitais ou manuais |
+   -|                     | - Editar, corrigir e melhorar desenhos        |
+   -|                     | fotografados                                  |
+   -+---------------------+-----------------------------------------------+
+   -
+   -Table: Equivalência de programas de desenho por função {#tbl:freecad}
+   -
+   -+---------------------+--------------------+--------------------------+
+   -| Função              | Programa comercial | Equivalentes livres      |
+   -+=====================+====================+==========================+
+   -| Desenho técnico     | - AutoCAD          | - [LibreCAD][]           |
+   -|                     |                    | - [[QCAD][]]{.smallcaps} |
+   -+---------------------+--------------------+--------------------------+
+   -| Geoprocessamento    | - ArcMap / ArcGIS  | - [[QGIS][]]{.smallcaps} |
+   -+---------------------+--------------------+--------------------------+
+   -| Ilustração vetorial | - Illustrator      | - [Inkscape][]           |
+   -|                     | - InDesign         | - [Scribus][]            |
+   -+---------------------+--------------------+--------------------------+
+   -| Arte pixelada       | - Photoshop        | - [[GIMP][]]{.smallcaps} |
+   -|                     |                    | - [Krita][]              |
+   -+---------------------+--------------------+--------------------------+
+   -
+   -[LibreCAD]: https://librecad.org/
+   -[QCAD]: https://qcad.org/
+   -[QGIS]: https://www.qgis.org/pt_BR/site/
+   -[Inkscape]: https://inkscape.org/
+   -[Scribus]: https://www.scribus.net/
+   -[GIMP]: https://www.gimp.org/
+   -[Krita]: https://krita.org/es/
+   -
+   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+   -
+   -->
 
 # Maquetes físicas #
 
@@ -812,152 +856,157 @@ Maquetes em argila
 ![Sistema para execução de uma maquete profissional em argila](https://hcommons.org/app/uploads/sites/1002372/2021/08/draftingroomprac00clut_0093a.png){.line #fig:argila-box}
 
 
-# Modelagem digital #
-
-Onde for possível entregar uma maquete física, também é permitido
-entregar um modelo digital. Valem aqui as mesmas advertências quanto ao
-uso de programas para desenho técnico ou ilustração: não é aceitável
-comprometer a precisão das proporções ou dos perfis devido à dificuldade
-em modelar as suas formas corretamente no computador. A modelagem de
-elementos tradicionais e, principalmente, clássicos deve ser feita com
-grande atenção às suas formas, bem como aos seus princípios de
-articulação, montagem, proporção e escala [@aubin:2013renaissance].
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
-<i class="fas fa-check-circle"></i>
-: Vários tutoriais para programas de modelagem podem ser encontrados no
-  YouTube. Veja uma lista não exaustiva para os principais programas
-  comerciais no
-  [Guia de referência](https://aprender3.unb.br/mod/resource/view.php?id=645365&forceview=1)
-  elaborado pelas nossas monitoras.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Modelagem da arquitetura tradicional ##
-
-A modelagem digital tem várias aplicações no estudo da história da
-arquitetura e da arquitetura tradicional, em especial na reconstituição
-arqueológica ou crítica de ambientes e lugares [@freire:2020uso14;
-@resco:2017grado]. Uma das atuais fronteiras conceituais e tecnológicas
-no estudo da arquitetura tradicional consiste em parametrizar suas
-regras de composição e inventários morfológicos com o uso de ferramentas
-digitais [@machete:2020development; @said:2007digital]. Outro campo de
-estudos relacionado, já em vias de consolidação, é a documentação de
-construções existentes [@andriasyan:2020point12] e a sua conversão em
-modelos de informação de gestão da construção [(BIM)]{.smallcaps}
-[@banfi:2018building; @guadagnoli:2021parametric14]. A parametrização
-não se limita a formas visíveis, mas também abarca relações topológicas
-entre elementos (proximidade e adjacências, por exemplo)
-[@jabi:2013parametric].
-
-As playlists abaixo oferecem tutoriais para modelar elementos artesanais
-ou arquitetônicos tradicionais usando o software livre [Blender][]. As
-técnicas ensinadas podem eventualmente ser adaptadas também para outros
-programas semelhantes.
-
-::::::::::::::::::::::::::::::::::: {#fig:blender-basico .iframe-wrapper}
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLz9I6Ov7zp-0Rc3Dt9bsNQytJnbqCX7gA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Curso básico de Blender. [Koré Formación, 2020](https://youtube.com/playlist?list=PLz9I6Ov7zp-0Rc3Dt9bsNQytJnbqCX7gA)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::: {#fig:blender-jonica .iframe-wrapper}
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4jszuZI9i8vLmrYr2NZarT-kGb3sjsIt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Tutorial de representação de uma coluna jônica no Blender. [Koré Formación, 2019](https://youtube.com/playlist?list=PL4jszuZI9i8vLmrYr2NZarT-kGb3sjsIt)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-## Programas indicados ##
-
-O panorama do software livre para modelagem tridimensional é mais maduro
-que o do desenho técnico. Fluxos de trabalho com o uso de programas
-livres são especialmente difundidos no âmbito da pesquisa em patrimônio
-cultural [@bonini:2021bim; @di:2019low-costXLII-2W17;
-@rupnik:2017micmac2].
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
-Table: Equivalência de programas de modelagem por função {#tbl:freebim}
-
-+--------------------------------+-----------------------+------------------------+
-| Função                         | Programa comercial    | Equivalentes livres    |
-+================================+=======================+========================+
-| Modelagem de formas livres     | - Maya                | - Blender              |
-|                                | - Fusion              |                        |
-+--------------------------------+-----------------------+------------------------+
-| Fotogrametria                  | - ReCap               | - MicMac               |
-|                                | - Metashape           | - MeshLab              |
-|                                | - RealityCapture      | - Alice                |
-+--------------------------------+-----------------------+------------------------+
-| Modelagem arquitetônica        | - SketchUp            | - Blender              |
-+--------------------------------+-----------------------+------------------------+
-| Modelagem de informação da     | - Revit               | - Blender + BlenderBIM |
-| construção [(BIM)]{.smallcaps} | - ArchiCAD            | - FreeCAD              |
-+--------------------------------+-----------------------+------------------------+
-| Parametrização de modelos      | - Rhino + Grasshopper | - Blender + Sverchok   |
-|                                | - Revit + Dynamo      |                        |
-|                                | - ArchiCAD + GDL      |                        |
-+--------------------------------+-----------------------+------------------------+
-| Processamento de informações   | - EnviMet             | - Blender + Topologic  |
-| dos modelos digitais           | - Revit + Topologic   |                        |
-+--------------------------------+-----------------------+------------------------+
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::: {#fig:augusto-sketch .iframe-wrapper}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL-YgB1cUwWX3Yietp-Y3-0A-RpQZM8pYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Dicas de migração de usuários do SketchUp para o Blender. [Augusto Cezar, 2019](https://youtube.com/playlist?list=PL-YgB1cUwWX3Yietp-Y3-0A-RpQZM8pYU)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-# Digitalização de entregas #
-
-Para fazer as entregas, você precisa digitalizar os desenhos e
-carregá-los na respectiva atividade no Moodle. Se você não tiver
-acesso a um scanner tamanho [A3]{.smallcaps} (quase ninguém tem, não
-se sinta mal por isso!), siga as dicas a seguir:
-
-1. A câmera de um *smartphone* ou tablet de boa qualidade, com resolução
-   de pelo menos 6 [MP]{.smallcaps} (megapixels), é suficiente. Se tiver
-   uma câmera digital com resolução maior que isso, melhor ainda, mas
-   não é necessário.
-2. Fotografe durante o dia, num local com abundante luz natural, mas ao
-   abrigo dos raios diretos do sol; posicione a folha de modo que a
-   iluminação seja a mais homogênea possível e veja se não há nada
-   projetando sombra sobre o papel (inclusive a sua mão ou câmera); ou,
-   se tiver acesso a equipamento e iluminação de estúdio fotográfico,
-   siga as boas práticas profissionais.
-3. Para facilitar o pós-processamento, coloque a folha sobre uma
-   superfície escura e lisa.
-4. Segure a câmera a pelo menos 1 metro de distância da folha, tentando
-   manter uma orientação perpendicular ao papel; bata mais de uma foto
-   só por via das dúvidas.
-5. Alguns aplicativos para *smartphone* ou tablet, como o Evernote ou o
-   CamScanner, têm uma função de captura de documentos que já corta,
-   retifica e aprimora a imagem resultante; nesse caso, verifique se a
-   marca d'água do aplicativo não está atrapalhando a leitura do
-   desenho, e se a edição automática não afetou a qualidade das linhas;
-   se preferir não usar esses aplicativos, faça o pós-processamento no
-   computador ou num aplicativo mais especializado do seu celular ou
-   tablet.
-6. Se for fazer o pós-processamento no computador, use um programa de
-   edição de imagens como o [[GIMP][]]{.smallcaps} ou o Photoshop;
-   sirva-se das funções "Curvas" para ajustar o contraste e a brancura
-   do papel, e "Perspectiva" ou "Deformação" para retificar a imagem (o
-   nome e o menu em que essas funções se encontram varia de um programa
-   para o outro); verifique se o resultado final está bem nítido e
-   *preto no branco*.
-7. Exporte o arquivo em formato `jpg`, qualidade 90, um arquivo por
-   folha; a resolução ideal para uma folha [A3]{.smallcaps} é de 150 ppi
-   (pixels por polegada), o que dá cerca de 2500 × 1800 pixels, e
-   procure atingir menos de 20 [MB]{.smallcaps} (megabytes) por arquivo.
-8. Se tiver várias pranchas na mesma entrega, é recomendável combiná-las
-   num único arquivo [PDF]{.smallcaps}. Você pode fazer isso usando um
-   programa de ilustração e paginação vetorial (Illustrator, Inkscape,
-   InDesign ou Scribus).
-9. Carregue o(s) arquivo(s) na respectiva atividade do Moodle, e não se
-   esqueça de clicar no botão `Enviar tarefa` depois de concluir o
-   upload!
+<!--
+   -# Modelagem digital #
+   -
+   -Onde for possível entregar uma maquete física, também é permitido
+   -entregar um modelo digital. Valem aqui as mesmas advertências quanto ao
+   -uso de programas para desenho técnico ou ilustração: não é aceitável
+   -comprometer a precisão das proporções ou dos perfis devido à dificuldade
+   -em modelar as suas formas corretamente no computador. A modelagem de
+   -elementos tradicionais e, principalmente, clássicos deve ser feita com
+   -grande atenção às suas formas, bem como aos seus princípios de
+   -articulação, montagem, proporção e escala [@aubin:2013renaissance].
+   -
+   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
+   -<i class="fas fa-check-circle"></i>
+   -: Vários tutoriais para programas de modelagem podem ser encontrados no
+   -  YouTube. Veja uma lista não exaustiva para os principais programas
+   -  comerciais no
+   -  [Guia de referência](https://aprender3.unb.br/mod/resource/view.php?id=645365&forceview=1)
+   -  elaborado pelas nossas monitoras.
+   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+   -
+   -## Modelagem da arquitetura tradicional ##
+   -
+   -A modelagem digital tem várias aplicações no estudo da história da
+   -arquitetura e da arquitetura tradicional, em especial na reconstituição
+   -arqueológica ou crítica de ambientes e lugares [@freire:2020uso14;
+   -@resco:2017grado]. Uma das atuais fronteiras conceituais e tecnológicas
+   -no estudo da arquitetura tradicional consiste em parametrizar suas
+   -regras de composição e inventários morfológicos com o uso de ferramentas
+   -digitais [@machete:2020development; @said:2007digital]. Outro campo de
+   -estudos relacionado, já em vias de consolidação, é a documentação de
+   -construções existentes [@andriasyan:2020point12] e a sua conversão em
+   -modelos de informação de gestão da construção [(BIM)]{.smallcaps}
+   -[@banfi:2018building; @guadagnoli:2021parametric14]. A parametrização
+   -não se limita a formas visíveis, mas também abarca relações topológicas
+   -entre elementos (proximidade e adjacências, por exemplo)
+   -[@jabi:2013parametric].
+   -
+   -As playlists abaixo oferecem tutoriais para modelar elementos artesanais
+   -ou arquitetônicos tradicionais usando o software livre [Blender][]. As
+   -técnicas ensinadas podem eventualmente ser adaptadas também para outros
+   -programas semelhantes.
+   -
+   -::::::::::::::::::::::::::::::::::: {#fig:blender-basico .iframe-wrapper}
+   -<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/videoseries?list=PLz9I6Ov7zp-0Rc3Dt9bsNQytJnbqCX7gA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   -
+   -Curso básico de Blender. [Koré Formación, 2020](https://youtube.com/playlist?list=PLz9I6Ov7zp-0Rc3Dt9bsNQytJnbqCX7gA)
+   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+   -
+   -:::::::::::::::::::::::::::::::::: {#fig:blender-jonica .iframe-wrapper}
+   -<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL4jszuZI9i8vLmrYr2NZarT-kGb3sjsIt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   -
+   -Tutorial de representação de uma coluna jônica no Blender. [Koré Formación, 2019](https://youtube.com/playlist?list=PL4jszuZI9i8vLmrYr2NZarT-kGb3sjsIt)
+   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+   -
+   -## Programas indicados ##
+   -
+   -O panorama do software livre para modelagem tridimensional é mais maduro
+   -que o do desenho técnico. Fluxos de trabalho com o uso de programas
+   -livres são especialmente difundidos no âmbito da pesquisa em patrimônio
+   -cultural [@bonini:2021bim; @di:2019low-costXLII-2W17;
+   -@rupnik:2017micmac2].
+   -
+   -:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+   -Table: Equivalência de programas de modelagem por função {#tbl:freebim}
+   -
+   -+--------------------------------+-----------------------+------------------------+
+   -| Função                         | Programa comercial    | Equivalentes livres    |
+   -+================================+=======================+========================+
+   -| Modelagem de formas livres     | - Maya                | - Blender              |
+   -|                                | - Fusion              |                        |
+   -+--------------------------------+-----------------------+------------------------+
+   -| Fotogrametria                  | - ReCap               | - MicMac               |
+   -|                                | - Metashape           | - MeshLab              |
+   -|                                | - RealityCapture      | - Alice                |
+   -+--------------------------------+-----------------------+------------------------+
+   -| Modelagem arquitetônica        | - SketchUp            | - Blender              |
+   -+--------------------------------+-----------------------+------------------------+
+   -| Modelagem de informação da     | - Revit               | - Blender + BlenderBIM |
+   -| construção [(BIM)]{.smallcaps} | - ArchiCAD            | - FreeCAD              |
+   -+--------------------------------+-----------------------+------------------------+
+   -| Parametrização de modelos      | - Rhino + Grasshopper | - Blender + Sverchok   |
+   -|                                | - Revit + Dynamo      |                        |
+   -|                                | - ArchiCAD + GDL      |                        |
+   -+--------------------------------+-----------------------+------------------------+
+   -| Processamento de informações   | - EnviMet             | - Blender + Topologic  |
+   -| dos modelos digitais           | - Revit + Topologic   |                        |
+   -+--------------------------------+-----------------------+------------------------+
+   -
+   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+   -
+   -:::::::::::::::::::::::::::::::::: {#fig:augusto-sketch .iframe-wrapper}
+   -<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/videoseries?list=PL-YgB1cUwWX3Yietp-Y3-0A-RpQZM8pYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   -
+   -Dicas de migração de usuários do SketchUp para o Blender. [Augusto Cezar, 2019](https://youtube.com/playlist?list=PL-YgB1cUwWX3Yietp-Y3-0A-RpQZM8pYU)
+   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+   -
+   -# Digitalização de entregas #
+   -
+   -Para fazer as entregas, você precisa digitalizar os desenhos e
+   -carregá-los na respectiva atividade no Moodle. Se você não tiver
+   -acesso a um scanner tamanho [A3]{.smallcaps} (quase ninguém tem, não
+   -se sinta mal por isso!), siga as dicas a seguir:
+   -
+   -1. A câmera de um *smartphone* ou tablet de boa qualidade, com resolução
+   -   de pelo menos 6 [MP]{.smallcaps} (megapixels), é suficiente. Se tiver
+   -   uma câmera digital com resolução maior que isso, melhor ainda, mas
+   -   não é necessário.
+   -2. Fotografe durante o dia, num local com abundante luz natural, mas ao
+   -   abrigo dos raios diretos do sol; posicione a folha de modo que a
+   -   iluminação seja a mais homogênea possível e veja se não há nada
+   -   projetando sombra sobre o papel (inclusive a sua mão ou câmera); ou,
+   -   se tiver acesso a equipamento e iluminação de estúdio fotográfico,
+   -   siga as boas práticas profissionais.
+   -3. Para facilitar o pós-processamento, coloque a folha sobre uma
+   -   superfície escura e lisa.
+   -4. Segure a câmera a pelo menos 1 metro de distância da folha, tentando
+   -   manter uma orientação perpendicular ao papel; bata mais de uma foto
+   -   só por via das dúvidas.
+   -5. Alguns aplicativos para *smartphone* ou tablet, como o Evernote ou o
+   -   CamScanner, têm uma função de captura de documentos que já corta,
+   -   retifica e aprimora a imagem resultante; nesse caso, verifique se a
+   -   marca d'água do aplicativo não está atrapalhando a leitura do
+   -   desenho, e se a edição automática não afetou a qualidade das linhas;
+   -   se preferir não usar esses aplicativos, faça o pós-processamento no
+   -   computador ou num aplicativo mais especializado do seu celular ou
+   -   tablet.
+   -6. Se for fazer o pós-processamento no computador, use um programa de
+   -   edição de imagens como o [[GIMP][]]{.smallcaps} ou o Photoshop;
+   -   sirva-se das funções "Curvas" para ajustar o contraste e a brancura
+   -   do papel, e "Perspectiva" ou "Deformação" para retificar a imagem (o
+   -   nome e o menu em que essas funções se encontram varia de um programa
+   -   para o outro); verifique se o resultado final está bem nítido e
+   -   *preto no branco*.
+   -7. Exporte o arquivo em formato `jpg`, qualidade 90, um arquivo por
+   -   folha; a resolução ideal para uma folha [A3]{.smallcaps} é de 150 ppi
+   -   (pixels por polegada), o que dá cerca de 2500 × 1800 pixels, e
+   -   procure atingir menos de 20 [MB]{.smallcaps} (megabytes) por arquivo.
+   -8. Se tiver várias pranchas na mesma entrega, é recomendável combiná-las
+   -   num único arquivo [PDF]{.smallcaps}. Você pode fazer isso usando um
+   -   programa de ilustração e paginação vetorial (Illustrator, Inkscape,
+   -   InDesign ou Scribus).
+   -9. Carregue o(s) arquivo(s) na respectiva atividade do Moodle, e não se
+   -   esqueça de clicar no botão `Enviar tarefa` depois de concluir o
+   -   upload!
+   -
+   -->
 
 # Bibliografia #
 
 [Blender]: https://www.blender.org/
+
+[GIMP]: https://gimp.org/
 
