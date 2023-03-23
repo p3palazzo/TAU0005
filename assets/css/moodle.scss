@@ -60,6 +60,10 @@ $header-font-style: italic;
 	"revealjs-support"
 ;
 
+.course-content {
+    padding: calc(0.5rem + 15px);
+}
+
 h4,
 span.smallcaps {
     font-variant: normal;
