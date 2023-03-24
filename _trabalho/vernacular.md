@@ -8,7 +8,7 @@ header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres-crop.jpg
   caption: "Johan Christian Dahl (1788–1857), [Vista de Hjelle na região de Valdres](https://commons.wikimedia.org/wiki/File:Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres_-_NG.M.00426-021_-_National_Museum_of_Art,_Architecture_and_Design.jpg) (Noruega)"
 toc: false
-excerpt: |
+tagline: |
   <dl>
     <dt>Objetivo de aprendizagem</dt>
     <dd>

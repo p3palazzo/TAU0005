@@ -4,7 +4,7 @@ subtitle: "Elementos da construção"
 item: "IV"
 author: "Pedro P. Palazzo"
 date: 2022-02-22
-excerpt: >
+tagline: |
   Geometria e forças –
   Estruturas lineares –
   Estruturas espaciais –

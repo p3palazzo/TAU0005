@@ -4,7 +4,7 @@ subtitle: "Arquitetura tradicional"
 item    : "I"
 author  : Pedro P. Palazzo
 date    : 2022-06-07
-excerpt: >
+tagline: |
   <a href="#ordem-e-lugar">Ordem e lugar</a> –
   <a href="#preferência-temporal">Preferência temporal</a> –
   <a href="#alegoria-da-cabana-primitiva">Alegoria da cabana primitiva</a> –

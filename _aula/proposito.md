@@ -4,7 +4,7 @@ subtitle: "Elementos de composição"
 item    : "II"
 author  : Pedro P. Palazzo
 date    : 2022-03-15
-excerpt: >
+tagline: |
   Programa, função e propósito –
   Morfologia e tipologia –
   Tipologia processual –

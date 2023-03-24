@@ -4,7 +4,7 @@ subtitle: "Elementos de composição"
 item    : "IV"
 author  : Pedro P. Palazzo
 date    : 2022-03-29
-excerpt: >
+tagline: |
   Proporção e estética –
   Proporções fixas –
   Proporções dinâmicas –

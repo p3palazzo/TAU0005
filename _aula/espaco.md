@@ -4,7 +4,7 @@ subtitle: "Elementos de composição"
 item    : "III"
 author  : "Pedro P. Palazzo"
 date    : 2022-03-22
-excerpt: >
+tagline: |
   Volume ou espaço –
   Volumetria e cultura –
   Tipos distributivos –

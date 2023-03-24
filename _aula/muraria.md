@@ -4,7 +4,7 @@ subtitle: "Elementos da construção"
 item    : "III"
 author  : "Pedro P. Palazzo"
 date    : 2022-02-15
-excerpt: >
+tagline: |
   Princípios da construção murária –
   Arquitetura subtrativa –
   Isolamento térmico –

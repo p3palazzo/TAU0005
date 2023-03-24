@@ -4,7 +4,7 @@ subtitle: "Fazer arquitetura"
 item    : "I"
 author  : Pedro P. Palazzo
 date    : 2022-04-05
-excerpt: >
+tagline: |
   Propriedades arquitetônicas –
   Princípios da arquitetura clássica –
   Outras ordens –

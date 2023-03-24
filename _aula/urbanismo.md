@@ -4,7 +4,7 @@ subtitle: "Fazer arquitetura"
 item    : "V"
 author  : Pedro P. Palazzo
 date    : 2022-05-03
-excerpt: >
+tagline: |
   Princípios de morfologia urbana –
   Tipos de urbanização –
   Bairro e arrabalde –

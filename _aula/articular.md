@@ -4,7 +4,7 @@ subtitle: "Fazer arquitetura"
 item    : "II"
 author  : Pedro P. Palazzo
 date    : 2022-04-12
-excerpt: >
+tagline: |
   Procedimentos arquitetônicos –
   Composições clássicas –
   Indicação e composição –

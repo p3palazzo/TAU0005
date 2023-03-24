@@ -4,7 +4,7 @@ subtitle: "Elementos de composição"
 item    : "I"
 author  : Pedro P. Palazzo
 date    : 2022-03-08
-excerpt: >
+tagline: |
   Clima como variável independente –
   Estratégias de ventilação –
   Civilizações hidráulicas –

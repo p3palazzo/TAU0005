@@ -4,7 +4,7 @@ subtitle: "Elementos da construção"
 item    : "II"
 author  : "Pedro P. Palazzo"
 date    : 2022-02-08
-excerpt: >
+tagline: |
   <a href="#tendas-e-cabanas">Tendas e cabanas</a> –
   <a href="#colunas-e-vigas">Colunas e vigas</a> –
   <a href="#assoalhos-e-terraços">Assoalhos e terraços</a> –

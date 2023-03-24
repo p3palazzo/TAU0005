@@ -4,7 +4,7 @@ subtitle: "Fazer arquitetura"
 item    : "III"
 author  : Pedro P. Palazzo
 date    : 2022-04-26
-excerpt: >
+tagline: |
   Cultura arquitetônica –
   Decoro e convenção –
   Teoria da arquitetura –

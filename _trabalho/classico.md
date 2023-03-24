@@ -5,7 +5,7 @@ item: "Atividade III"
 date: 2023-07-11
 header:
   overlay_image: https://i.pinimg.com/originals/87/b8/aa/87b8aa149e0d86c2e1f4f5a32fc755e7.jpg
-excerpt: |
+tagline: |
   <dl>
     <dt>Objetivos</dt>
     <dd>

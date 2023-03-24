@@ -4,7 +4,7 @@ subtitle: "Elementos da construção"
 item    : "I"
 author  : "Pedro P. Palazzo"
 date    : 2022-02-01
-excerpt: >
+tagline: |
   <a href="#materiais-da-construção-tradicional">Materiais da construção tradicional</a> –
   <a href="#construções-semienterradas">Construções semienterradas</a> –
   <a href="#plataformas-e-terraplenos">Plataformas e terraplenos</a> –

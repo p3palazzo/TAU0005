@@ -4,7 +4,7 @@ subtitle: "Elementos da construção"
 item    : "V"
 author  : "Pedro P. Palazzo"
 date    : 2022-03-01
-excerpt: >
+tagline: |
   Função e estrutura das coberturas –
   Formas básicas de carpintaria –
   Carpintaria chinesa –

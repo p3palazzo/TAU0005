@@ -2,7 +2,7 @@
 title: "Plano de ensino"
 permalink: /plano/
 author_profile: true
-excerpt: >
+tagline: |
   História do urbanismo, da arquitetura e da arte no contexto de seus
   condicionantes sociais, econômicos e políticos, desde os primórdios da
   civilização até o gótico.

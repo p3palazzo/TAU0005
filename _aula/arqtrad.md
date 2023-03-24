@@ -4,7 +4,7 @@ subtitle: "Arquitetura tradicional"
 item    : "II"
 author  : Pedro P. Palazzo
 date    : 2022-01-25
-excerpt: >
+tagline: |
   <a href="#história-ou-arquitetura">História ou arquitetura</a> –
   <a href="#continuidade-e-ruptura">Continuidade e ruptura</a> –
   <a href="#arquitetura-é-construção">Arquitetura é construção</a> –
