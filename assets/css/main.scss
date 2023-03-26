@@ -27,7 +27,7 @@ $global-font-family: $garamond;
 $header-font-family: $serif;
 $caption-font-family: $garamond;
 $sans-serif-narrow: "kepler-std-semicondensed-dis", "league-gothic", "Arial Narrow", sans-serif;
-$sans-serif: $sans-serif-narrow;
+$sans-serif: $global-font-family;
 
 /*
    Colors
@@ -37,14 +37,16 @@ $sans-serif: $sans-serif-narrow;
    Other
    ========================================================================== */
 
+$border-radius: 0px;
+
 /*
    Grid
    ========================================================================== */
 
-$x-large: 1440px;
-$max-width: calc(1520px + 3em);
+$x-large: 1600px;
+$max-width: calc(1520px + 2em);
 $right-sidebar-width-narrow: 300px;
-$right-sidebar-width: 300px;
+$right-sidebar-width: 400px;
 $right-sidebar-width-wide: 400px;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
@@ -59,6 +61,17 @@ $header-font-style: italic;
     "pandoc",
     "pandoc-solarized",
     "local",
-	"revealjs-support"
-;
+    "revealjs-support";
+
+.site-subtitle {
+    display: inline;
+}
+
+.page__footer {
+    background-color: inherit;
+}
+
+.page__footer-follow {
+    display: none;
+}
 // vim: set shiftwidth=4 tabstop=4 foldmethod=indent :

@@ -39,7 +39,7 @@ social e ambiental, fomentando cadeias locais de técnicos qualificados e
 promovendo um processo produtivo ecológico e autogestionado.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
-![Cabanas primitivas segundo Samir Younés](https://i.pinimg.com/originals/8f/82/d9/8f82d907eb2b68cab0a6ef104511b9f4.jpg){#fig:huts-samir}
+![Cabanas primitivas segundo Samir Younés](https://hcommons.org/app/uploads/sites/1002372/2023/03/younes-huts.png){#fig:huts-samir .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Com respeito à alegoria da cabana primitiva enquanto princípio *teórico*
@@ -117,19 +117,50 @@ paredes, teto e terraço para mostrar o miolo da construção.
 - A edícula deve ter uma decoração simples, baseada no detalhamento
   construtivo tradicional adequado aos sistemas construtivos escolhidos.
 
-# Critérios de avaliação #
+# Avaliação #
 
-| Critério                                                            |  Valor |
-|---------------------------------------------------------------------|-------:|
-| Aplicação correta dos elementos da construção tradicional           |     10 |
-| Precisão, equilíbrio e clareza na execução do produto               |      8 |
-| Uso correto, elegante e eficaz da base, legendas e escalas gráficas |      2 |
-| **Total**                                                           | **20** |
+A avaliação contemplará de forma holística o seu desempenho e evolução
+nos quesitos abaixo, ao longo de todo o processo de elaboração do
+trabalho e de orientação com a equipe docente, enfatizando o resultado
+desse processo no produto final, bem como a sua evolução com respeito
+aos trabalhos anteriores.
 
-Você também deve atender ao seguinte:
+## Pesquisa ##
 
-- [Critérios e normas gerais de avaliação](../_plano/avalia.md);
-- [Materiais, instrumentos e dicas de trabalho](materiais.md).
+- Você estudou as notas de aula e as leituras obrigatórias desta Unidade
+  para compreender os princípios gerais da construção tradicional;
+- Você pesquisou exemplos reais de construções vernaculares
+  pré-modernas, tanto na bibliografia da disciplina (básica e
+  complementar) quanto em outras referências técnicas e acadêmicas com
+  credibilidade;
+- Você escolheu sistemas construtivos arquitravados (assoalho e
+  alpendre) e murários (fundações, paredes e suas aberturas) coerentes
+  entre si e com o propósito desta Unidade e atividade, que é estudar as
+  construções vernáculas tradicionais.
+
+## Conteúdo ##
+
+- Você trabalhou nesta atividade durante todo o horário da aula (exceto
+  durante as aulas expositivas) e pediu orientação à equipe docente
+  sempre que necessário; (oriente pelo menos uma vez por aula, para
+  garantir a presença!)
+- Você demonstrou domínio da realidade construtiva dos sistemas
+  escolhidos, aplicando-os de modo coerente e bem proporcionado,
+  deixando evidente na maquete a sua compreensão de como uma edícula
+  tradicional fica de pé;
+- Você atendeu aos requisitos explícitos desta ementa bem como ao
+  espírito geral desta disciplina.
+
+## Apresentação ##
+
+- Você respeitou a escala e as indicações de materiais e representação
+  pedidas nesta ementa;
+- Você realizou a maquete com capricho e elegância, escolhendo materiais
+  e técnicas apropriados para transmitir as informações necessárias com
+  clareza;
+- Você incluiu a escala gráfica na base;
+- A maquete é sólida e fácil de manipular e de apoiar sobre uma
+  superfície plana.
 
 # Referências #
 
@@ -176,3 +207,4 @@ Vitória Gemeinder Monteiro, 1.º/2021
 :::
 Rodrigo Freire Rodrigues, 1.º/2021
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+

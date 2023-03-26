@@ -44,6 +44,10 @@ construção vão ser acoplados entre si, qual efeito espacial e visual
 resulta dessa montagem, e como ela precisa ser representada nas
 convenções do desenho arquitetônico.
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Cabanas primitivas segundo Samir Younés](https://hcommons.org/app/uploads/sites/1002372/2023/03/younes-huts.png){#fig:samir .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 A alegoria da cabana primitiva é um expediente para enfatizar o quanto
 a arquitetura tradicional é uma expressão direta da construção. Ela
 aparece desde o tratado de Vitrúvio [@vitruvio:2007tratado, livro II
@@ -52,35 +56,81 @@ na metade do século [XVIII]{.smallcaps} ([@fig:laugier]), no ensaio do
 padre francês Marc-Antoine Laugier [@laugier:1755essai]. A cabana
 primitiva não tem necessariamente a ver com alguma cultura considerada
 "primitiva" em particular, e sim com o conceito de uma construção
-reduzida às suas mínimas necessidades. Ela é sempre pensada como uma
+reduzida às suas mínimas necessidades ([@fig:samir]). Ela é sempre pensada como uma
 montagem simples e racional de elementos em madeira. Por isso, o estudo
 de uma cabana primitiva qualquer é uma boa porta de entrada para a
 prática da arquitetura tradicional.
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Localização do sítio arqueológico de Bànpō na área da cultura Yangshao, atual China. Mapa: [Kanguole, 2015][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Yangshao_map.svg/702px-Yangshao_map.svg.png){#fig:yangshao}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-[Kanguole, 2015]: https://commons.wikimedia.org/wiki/File:Yangshao_map.svg
+## Sannai Maruyama ##
 
 O *grau zero* da arquitetura representado pela cabana primitiva
-comparece em várias formas de habitação antiga em madeira
-[@jarzombek:2013architecture]. Uma dessas formas é a dos pavilhões
-quadrados da aldeia neolítica de Bànpō, ocupada entre 4800 e 3600 a.C.
-no atual oeste da China ([@fig:yangshao]). Essas construções eram feitas
-de toras roliças, taipa e casca de árvore [@ching:2016historia, 9]. O
-seu piso interior era escavado cerca de um metro abaixo do nível natural
-do terreno ([@fig:banpo-site]). O dado mais certo que temos sobre a
-superestrutura do pavilhão quadrado maior é a posição dos pilares e das
-paredes, organizados num módulo de aproximadamente 4 metros em todas as
-direções (eixos horizontais e vertical), conforme reconstituído por
-Francis D.K. Ching ([@fig:banpo-ching]).
+comparece num tipo peculiar de construção da cultura Jōmon. Essa
+construção é chamada simplesmente de estrutura com seis pilares, e
+comparece no sítio arqueológico de Sannai Maruyama, no extremo norte da
+ilha de Honxu (@fig:sannai-site) [@jarzombek:2013architecture, 152-158].
+Não é possível determinar, hoje em dia, a função e a configuração
+precisa dessas estruturas. A reconstituição executada no final do século
+[XX]{.smallcaps} ([@fig:sannai; @fig:6pillar]) é uma conjetura baseada
+na posição das fundações e nos vestígios de madeira preservados graças
+ao terreno pantanoso do local. A estrutura dessas construções é
+inteiramente feita em toras e troncos roliços de carvalho; todas as
+construções eram orientadas aproximadamente na direção leste--oeste.
 
-![Sítio arqueológico de Bànpō: os vestígios de um pavilhão quadrado podem ser vistos ao fundo, à esquerda. Foto: [Krister Blomberg, 2014][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Banpo_utgrävning.jpg/1024px-Banpo_utgrävning.jpg){#fig:banpo-site}
+::::::::::::::::::::::::::::::::::::::::::::::: {#fig:sannai-site .full}
+::::::::::::::::::::::::::::::::::::::::::: columns
+::: {.column width=30%}
+![Situação no território das sociedades pré-históricas que construíram habitações semienterradas](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-and-pit-dwellings.png){#fig:sannai-globe .nobg}
+:::
+::: {.column width=30%}
+![Locação junto à baía de Mutsu, atual município de Aomori, Japão](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-loc.png){#fig:sannai-mutsu}
+:::
+:::::::::::::::::::::::::::::::::::::::::::
+![Corte do sítio reconstituído](https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-540.png){#fig:sannai-sec}
 
-[Krister Blomberg, 2014]: https://commons.wikimedia.org/wiki/File:Banpo_utgrävning.jpg
+Esquema do sítio arqueológico de Sannai Maruyama, cultura Jōmon, 3900--2300 a.C.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Vista isométrica cortada do salão principal em Bànpō. Desenho: Francis D.K. Ching, 2007](https://hcommons.org/app/uploads/sites/1002372/2022/01/banpo-ching.png){#fig:banpo-ching .line}
+![Vista parcial do sítio arqueológico de Sannai Maruyama com uma estrutura de seis pilares em primeiro plano, reconstituição 1997--2002. Foto: [663highland, 2014](https://commons.wikimedia.org/wiki/File:140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg/1280px-140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg){#fig:sannai .outset}
+
+:::::::::::::::::::::::::::::::::::::::: {.columns #fig:6pillar .outset}
+::: {.column width=50%}
+![[[Koike]{.smallcaps} Takashi, 2008](https://commons.wikimedia.org/wiki/File:三内丸山遺跡大型掘立柱建物.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/三内丸山遺跡大型掘立柱建物.JPG/682px-三内丸山遺跡大型掘立柱建物.JPG){#fig:6pillarA}
+:::
+::: {.column width=50%}
+![[[Iwanami]{.smallcaps} Riku, 2015](https://commons.wikimedia.org/wiki/File:山内丸山遺跡_-_panoramio.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/山内丸山遺跡_-_panoramio.jpg/685px-山内丸山遺跡_-_panoramio.jpg){#fig:6pillarB}
+:::
+Reconstituição de uma estrutura com seis pilares, sítio arqueológico de Sannai Maruyama, cultura Jōmon, c. 2600 a.C. Fotos:
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+<!--
+   -## Bànpō ##
+   -
+   -:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+   -![Localização do sítio arqueológico de Bànpō na área da cultura Yangshao, atual China. Mapa: [Kanguole, 2015][]](https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Yangshao_map.svg/702px-Yangshao_map.svg.png){#fig:yangshao}
+   -::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+   -
+   -[Kanguole, 2015]: https://commons.wikimedia.org/wiki/File:Yangshao_map.svg
+   -
+   -O *grau zero* da arquitetura representado pela cabana primitiva
+   -comparece em várias formas de habitação antiga em madeira
+   -[@jarzombek:2013architecture]. Uma dessas formas é a dos pavilhões
+   -quadrados da aldeia neolítica de Bànpō, ocupada entre 4800 e 3600 a.C.
+   -no atual oeste da China ([@fig:yangshao]). Essas construções eram feitas
+   -de toras roliças, taipa e casca de árvore [@ching:2016historia, 9]. O
+   -seu piso interior era escavado cerca de um metro abaixo do nível natural
+   -do terreno ([@fig:banpo-site]). O dado mais certo que temos sobre a
+   -superestrutura do pavilhão quadrado maior é a posição dos pilares e das
+   -paredes, organizados num módulo de aproximadamente 4 metros em todas as
+   -direções (eixos horizontais e vertical), conforme reconstituído por
+   -Francis D.K. Ching ([@fig:banpo-ching]).
+   -
+   -![Sítio arqueológico de Bànpō: os vestígios de um pavilhão quadrado podem ser vistos ao fundo, à esquerda. Foto: [Krister Blomberg, 2014][]](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Banpo_utgrävning.jpg/1024px-Banpo_utgrävning.jpg){#fig:banpo-site}
+   -
+   -[Krister Blomberg, 2014]: https://commons.wikimedia.org/wiki/File:Banpo_utgrävning.jpg
+   -
+   -![Vista isométrica cortada do salão principal em Bànpō. Desenho: Francis D.K. Ching, 2007](https://hcommons.org/app/uploads/sites/1002372/2022/01/banpo-ching.png){#fig:banpo-ching .line}
+   -
+   -->
 
 ## Estudo analítico ##
 
@@ -113,15 +163,16 @@ Exemplos de desenhos analíticos de ordens clássicas, [D.W. Bates](http://www.d
 
 # Ementa #
 
-Observe as fotos do pavilhão quadrado no sítio arqueológico de
-Bànpō. Observe, também, as convenções de
-representação exemplificadas na Figura [-@fig:exemplos]. Então,
+Observe as fotos da estrutura com seis pilares no sítio arqueológico de
+Sannai Maruyama.
+Observe, também, as convenções de representação exemplificadas na Figura
+[-@fig:exemplos]. Então,
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
-> Desenhe um estudo analítico da cabana primitiva em elevação, corte e
-> planta de teto projetado, evidenciando a montagem dos seus elementos
-> construtivos.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+<blockquote class="epigraph">
+Desenhe um estudo analítico da cabana primitiva em elevação, corte e
+planta de teto projetado, evidenciando a montagem dos seus elementos
+construtivos.
+</blockquote>
 
 # Produto #
 
@@ -158,7 +209,7 @@ são ortográficas, ou seja, *sem* perspectiva.
   Francisco Pereira da Costa, especialmente os volumes 7 e 8
   [@pereira:1955enciclopedia]. Eles estão disponíveis no Moodle.
 
-# Cronograma e critérios de avaliação #
+# Cronograma #
 
 |  Data | Tarefa                             |
 |:-----:|:-----------------------------------|
@@ -169,14 +220,38 @@ são ortográficas, ou seja, *sem* perspectiva.
 
 : Cronograma {#tbl:cronograma}
 
-| Critério de avaliação                                                        |  Valor |
-|:-----------------------------------------------------------------------------|-------:|
-| Interpretação e proporções corretas dos elementos construtivos               |      4 |
-| Projeção ortográfica correta                                                 |      4 |
-| Uso correto e eficaz de pesos de linha, margens, legendas e escalas gráficas |      2 |
-| **Total**                                                                    | **10** |
+# Avaliação #
 
-: Critérios de avaliação {#tbl:criterios}
+A avaliação contemplará de forma holística o seu desempenho e evolução
+nos quesitos abaixo, ao longo de todo o processo de elaboração do
+trabalho e de orientação com a equipe docente, enfatizando o resultado
+desse processo no produto final.
+
+## Conteúdo ##
+
+- Você trabalhou nesta atividade durante todo o horário da aula (exceto
+  durante as aulas expositivas) e pediu orientação à equipe docente
+  sempre que necessário; (oriente pelo menos uma vez por aula, para
+  garantir a presença!)
+- Você compreendeu as características construtivas e as proporções da
+  cabana primitiva proposta nesta ementa;
+- Você seguiu o procedimento e os critérios indicados na seção Produto
+  desta ementa, bem como as orientações da equipe docente;
+- Os seus desenhos apresentam projeções ortográficas geometricamente
+  corretas e são condizentes com a realidade construtiva da cabana
+  primitiva proposta nesta ementa;
+- Você fez uso eficaz, correto e elegante do traçado regulador e de um
+  sistema de proporções.
+
+## Apresentação ##
+
+- Você respeitou a escala e as indicações de materiais e representação
+  pedidas nesta ementa;
+- O seu desenho usa uma expressão gráfica correta e legível;
+- Você incluiu todas as informações e elementos necessários na prancha,
+  tais como: margem, título e o seu nome, escala gráfica;
+- A prancha está composta de modo equilibrado e aproveitando bem o espaço
+  disponível.
 
 # Referências #
 
