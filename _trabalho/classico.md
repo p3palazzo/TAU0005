@@ -157,23 +157,70 @@ escolhida --- nome da ordem e o seu autor, por exemplo:
 
 > [Analítico com a ordem jônica segundo Palladio]{.smallcaps} 
 
-# Critérios de avaliação #
+# Avaliação #
 
-| Critério                                                                                    |  Valor |
-|---------------------------------------------------------------------------------------------|-------:|
-| Aplicação correta da ordem clássica em suas proporções e detalhes                           |     10 |
-| Senso de espacialidade e de implantação correto e bem expressado                            |     10 |
-| Aplicação correta dos elementos da construção tradicional, em harmonia com a ordem clássica |     10 |
-| Desenho correto e preciso, mostrando o traçado regulador das proporções                     |      5 |
-| Prancha composta de modo elegante e legível, com todas as informações necessárias           |      5 |
-| **Total**                                                                                   | **40** |
+A avaliação contemplará de forma holística o seu desempenho e evolução
+nos quesitos abaixo, ao longo de todo o processo de elaboração do
+trabalho e de orientação com a equipe docente, enfatizando o resultado
+desse processo no produto final, bem como a sua evolução com respeito
+aos trabalhos anteriores.
 
-Você também deve atender ao seguinte:
+Neste trabalho, você terá demonstrado o conhecimento e as habilidades
+adquiridas cumulativamente desde os trabalhos anteriores. Mesmo que a
+ênfase neste trabalho esteja na plástica, não despreze a resolução de
+problemas construtivos ou espaciais!
 
-- [Critérios e normas gerais de avaliação](../_plano/avalia.md);
-- [Materiais, instrumentos e dicas de trabalho](materiais.md).
+## Pesquisa ##
 
-# Bibliografia #
+- Você estudou as notas de aula e as leituras obrigatórias desta Unidade
+  para compreender os princípios gerais da construção tradicional;
+- Você pesquisou exemplos reais de edículas eruditas
+  pré-modernas, tanto na bibliografia da disciplina (básica e
+  complementar) quanto em outras referências técnicas e acadêmicas com
+  credibilidade;
+- Você entendeu o modo de aplicar as ordens clássicas enquanto
+  articulação plástica da construção.
+
+## Conteúdo ##
+
+- Você trabalhou nesta atividade durante todo o horário da aula (exceto
+  durante as aulas expositivas) e pediu orientação à equipe docente
+  sempre que necessário; (oriente pelo menos uma vez por aula, para
+  garantir a presença!)
+- O emprego da ordem clássica está correto e parece cair naturalmente
+  bem à sua edícula;
+- As abóbadas e cúpulas do seu edifício são coerentes com a técnica
+  construtiva e transferem devidamente suas cargas para pilares ou
+  paredes bem dimensionados, e daí para as fundações --- ou seja, o seu
+  edifício ficaria de pé na vida real;
+- Os ambientes interiores e exteriores da sua composição têm dimensões
+  e proporções adequadas e elegantes, e as transições entre eles são
+  resolvidas com apuro;
+- A composição apresenta detalhes construtivos (e eventualmente
+  decorativos) coerentes e suficientes para demonstrar a técnica
+  construtiva adotada bem como para articular superfícies visualmente
+  interessantes;
+- Os seus desenhos apresentam projeções ortográficas geometricamente
+  corretas e são condizentes com a realidade construtiva da arquitetura
+  tradicional;
+- Você fez uso eficaz, correto e elegante do traçado regulador e de um
+  sistema de proporções;
+- Você atendeu aos requisitos explícitos desta ementa bem como ao
+  espírito geral desta disciplina.
+
+## Apresentação ##
+
+- Você respeitou a escala e as indicações de representação pedidas nesta
+  ementa;
+- O seu desenho usa uma expressão gráfica correta e legível, com as
+  técnicas apropriadas para transmitir as informações necessárias com
+  clareza;
+- Você incluiu todas as informações e elementos necessários na prancha,
+  tais como: margem, título e o seu nome, escala gráfica;
+- A prancha está composta de modo equilibrado e aproveitando bem o espaço
+  disponível.
+
+# Referências #
 
 As referências indicadas abaixo devem ser usadas como ponto de partida
 para uma pesquisa mais aprofundada.
