@@ -85,6 +85,25 @@ erudita, propondo:
 > arquitetura clássica.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+## Princípios da arquitetura tradicional ##
+
+Antes de começar, reflita sobre os dez princípios universais da
+arquitetura tradicional [Parcialmente inspirado em
+@gabriel:2004classical; @alexander:2002process] e pesquise a sua
+aplicação em exemplos reais de construções tradicionais antigas e
+contemporâneas:
+
+ 1. Antropomorfismo e unidade da composição;
+ 2. Espaço positivo, vazio bem definido;
+ 3. Clareza, simplicidade e repouso visual;
+ 4. Simetrias locais com ênfase no centro e extremidades;
+ 5. Repetição alternada de elementos e regularidade do traçado;
+ 6. Justaposição de elementos com limites claros;
+ 7. Níveis de escala e gradientes;
+ 8. Inventário restrito e canônico de elementos plásticos;
+ 9. Materiais naturais e regionais;
+10. Cadeia produtiva local.
+ 
 # Produto #
 
 Uma edícula de construção e composição eruditas, com um único volume

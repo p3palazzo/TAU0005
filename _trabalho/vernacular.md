@@ -19,7 +19,7 @@ tagline: |
   </dl>
 ---
 
-# Ementa #
+# Contexto #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
 ![Exemplos de tradições construtivas de diferentes regiões, do livro *Inquire Within*, c. 1900](https://i.pinimg.com/564x/2e/87/30/2e8730f7f9488b03edf17ff565d7bb22.jpg){#fig:inquire .line}
@@ -53,16 +53,18 @@ arquitetura tradicional com a seguinte proposta:
 ![Tipos de edículas e casas unitárias do Mediterrâneo e suas derivações, segundo Caniggia e Maffei, *Lettura dell'edilizia di base*, tav. 11](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:raddoppi .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
-> Construir a maquete de uma edícula de planta centralizada, simétrica,
-> com um único ambiente interno, consoante os princípios universais da
-> construção tradicional.
->
-> A edícula deve demonstrar fundações, um sistema construtivo de paredes
-> portantes (alvenaria estrutural), um sistema arquitravado (colunas ou
-> esteios e vigas), e um assoalho (cobertura plana com barrotes, terraço
-> e platibanda).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+# Ementa #
+
+<blockquote class="epigraph">
+Construa a maquete de uma edícula de planta centralizada, simétrica,
+com um único ambiente interno, consoante os princípios universais da
+construção tradicional.
+
+A edícula deve demonstrar fundações, um sistema construtivo de paredes
+portantes (alvenaria estrutural), um sistema arquitravado (colunas ou
+esteios e vigas), e um assoalho (cobertura plana com barrotes, terraço
+e platibanda).
+</blockquote>
 
 Antes de começar, pesquise exemplos de construções vernaculares antigas
 e contemporâneas, principalmente em referências da bibliografia básica e
