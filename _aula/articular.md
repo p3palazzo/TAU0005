@@ -3,7 +3,7 @@ title   : "Articular"
 subtitle: "Fazer arquitetura"
 item    : "II"
 author  : Pedro P. Palazzo
-date    : 2022-04-12
+date    : 2023-06-27
 tagline: |
   Procedimentos arquitetônicos –
   Composições clássicas –
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg/2560px-1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg
   caption: "Lawrence Alma-Tadema, [Fídias e o friso do Partenon](https://commons.wikimedia.org/wiki/File:1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends.jpg), 1868"
-  actions:
-  - label: "Slides"
-    url  : /slides/articular/
 
 sidebar:
 - title: "Leitura obrigatória"

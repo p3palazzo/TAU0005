@@ -3,7 +3,7 @@ title   : "Caracterizar"
 subtitle: "Fazer arquitetura"
 item    : "III"
 author  : Pedro P. Palazzo
-date    : 2022-04-26
+date    : 2023-07-04
 tagline: |
   Cultura arquitetônica –
   Decoro e convenção –
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg/2560px-Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg
   caption: "Thomas Cole, [Vista de Florença desde San Miniato](https://commons.wikimedia.org/wiki/File:Cole_Thomas_View_of_Florence_from_San_Miniato_1837.jpg), 1837"
-  actions:
-  - label: "Slides"
-    url  : /slides/caracterizar/
 
 sidebar:
 - title: "Leitura obrigatória"

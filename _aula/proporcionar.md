@@ -3,7 +3,7 @@ title   : "Proporção e escala"
 subtitle: "Elementos de composição"
 item    : "IV"
 author  : Pedro P. Palazzo
-date    : 2022-03-29
+date    : 2023-06-13
 tagline: |
   Proporção e estética –
   Proporções fixas –
@@ -15,9 +15,6 @@ header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG/2560px-1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG
   image_description: "Pintura a óleo de uma paisagem com uma cidade em torno de um rio. Uma grande catedral gótica aparece no primeiro plano."
   caption: "Karl Friedrich Schinkel, [Cidade medieval ao longo de um rio](https://commons.wikimedia.org/wiki/File:1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria.JPG), 1815"
-  actions:
-  - label: "Slides"
-    url  : /slides/proporcionar/
 
 sidebar:
 - title: "Leitura obrigatória"
