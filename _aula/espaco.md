@@ -3,7 +3,7 @@ title   : "Espaço"
 subtitle: "Elementos de composição"
 item    : "III"
 author  : "Pedro P. Palazzo"
-date    : 2022-03-22
+date    : 2023-05-23
 tagline: |
   Volume ou espaço –
   Volumetria e cultura –
@@ -12,9 +12,6 @@ tagline: |
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
   caption: "Thomas Cole, [Decurso do império: desolação](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg), 1836"
-  actions:
-    - label: "Slides"
-      url  : /slides/espaco/
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg/2560px-Cole_Thomas_The_Course_of_Empire_Desolation_1836.jpg
 

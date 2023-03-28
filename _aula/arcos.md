@@ -3,7 +3,7 @@ title: "Construção arqueada"
 subtitle: "Elementos da construção"
 item: "IV"
 author: "Pedro P. Palazzo"
-date: 2022-02-22
+date: 2023-05-02
 tagline: |
   Geometria e forças –
   Estruturas lineares –
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Hubert_Robert_Colonnade.jpg/2560px-Hubert_Robert_Colonnade.jpg
   caption: "Hubert Robert (1733–1808), [Colunata](https://commons.wikimedia.org/wiki/File:Hubert_Robert_Colonnade.jpg)"
-  actions:
-  - label: "Slides"
-    url  : /slides/arcos/
 
 sidebar:
 - title: "Leitura obrigatória"

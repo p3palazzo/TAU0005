@@ -3,7 +3,7 @@ title   : "Propósito"
 subtitle: "Elementos de composição"
 item    : "II"
 author  : Pedro P. Palazzo
-date    : 2022-03-15
+date    : 2023-05-16
 tagline: |
   Programa, função e propósito –
   Morfologia e tipologia –
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://i.pinimg.com/originals/c8/cc/e2/c8cce2f9390770ae17105dd79794f6a1.jpg
   caption: "Edwin Lord Weeks, [Pátio na Alhambra no tempo dos mouros](https://commons.wikimedia.org/wiki/File:Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg), 1876"
-  actions:
-  - label: "Slides"
-    url  : /slides/proposito/
 
 sidebar:
 - title: "Leitura obrigatória"
