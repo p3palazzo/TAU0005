@@ -105,7 +105,7 @@ alguma espessura, mesmo onde houver uma franca continuidade entre
 ambientes. Algumas transições são elas próprias espaços importantes,
 como varandas, corredores ou vestíbulos. Sabendo isto,
 
-<blockquote class="epigraph">
+<blockquote class="epigraph notice--primary">
 Proponha uma composição formada por duas edículas idênticas e um espaço
 de transição entre elas. As edículas devem ter um teto em cúpula,
 abóbada de aresta, ou abóbada nervurada.

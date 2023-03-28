@@ -273,7 +273,7 @@ Saverio Muratori, processo de urbanização do bairro Rialto, Veneza.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A tipologia processual é uma metodologia de análise e projeto
 desenvolvida na década de 1950 por Saverio Muratori, quando ele era
-professor na Universidade de Veneza [@muratori:1959studiIX].
+professor na Universidade de Veneza [@muratori:1959studiix].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *

@@ -3,7 +3,7 @@ title   : "Construção murária"
 subtitle: "Elementos da construção"
 item    : "III"
 author  : "Pedro P. Palazzo"
-date    : 2022-02-15
+date    : 2023-04-18
 tagline: |
   Princípios da construção murária –
   Arquitetura subtrativa –
@@ -13,11 +13,8 @@ tagline: |
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Giovanni_Paolo_Panini\_–_Ancient_Rome.jpg/994px-Giovanni_Paolo_Panini\_–_Ancient_Rome.jpg
 header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Giovanni_Paolo_Panini_–_Ancient_Rome.jpg/994px-Giovanni_Paolo_Panini_–_Ancient_Rome.jpg
-  caption: "Giovanni Paolo Pannini, [Galeria de vistas da Roma antiga](https://commons.wikimedia.org/wiki/File:Giovanni_Paolo_Panini_–_Ancient_Rome.jpg), 1757"
-  actions:
-  - label: "Slides"
-    url  : /slides/muraria/
+  overlay_image: https://hcommons.org/app/uploads/sites/1002372/2023/03/gotou-xian-sonraku-zanshou-1989.jpg
+  caption: "[Gotō]{.newthought} Sumio, Última luz do dia num vilarejo de Xian, 1989"
 
 sidebar:
 - title: "Leitura obrigatória"

@@ -3,7 +3,7 @@ title   : "História e arquitetura tradicional"
 subtitle: "Arquitetura tradicional"
 item    : "II"
 author  : Pedro P. Palazzo
-date    : 2022-01-25
+date    : 2023-03-28
 tagline: |
   <a href="#história-ou-arquitetura">História ou arquitetura</a> –
   <a href="#continuidade-e-ruptura">Continuidade e ruptura</a> –
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Thomas_Cole_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg/1280px-Thomas_Cole\_-\_Architect’s_Dream\_-\_Google_Art_Project.jpg
   caption: "Thomas Cole, Sonho do arquiteto, 1840. Fonte e maiores informações: [Google Arts and Culture ](https://artsandculture.google.com/story/thomas-cole-the-architect-s-dream/ggKi4X2yPzzOKw)"
-  actions:
-  - label: "Slides"
-    url  : /slides/arqtrad/
 
 sidebar:
 - title: "Leitura obrigatória"
@@ -1235,7 +1232,7 @@ abstrata:
 ## {data-background-image="https://i.pinimg.com/originals/16/ed/b4/16edb4a4f38ac60ce387e3b3ea0a9084.jpg" data-background-transition="fade-in slide-out" data-background-opacity="0.7"}
 
 > A estrutura morfológica da aldeia exprime imediatamente a organização
-> social. [@levi-strauss:1936contribuicaoXXVII, 10]
+> social. [@levi-strauss:1936contribuicaoxxvii, 10]
 
 ## {data-background-image="https://i.pinimg.com/originals/60/41/ae/6041ae7bec9c96a204bcafb5b86b0f8a.png" data-background-opacity="0.7"}
 

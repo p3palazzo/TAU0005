@@ -3,7 +3,7 @@ title   : "Processos da arquitetura"
 subtitle: "Arquitetura tradicional"
 item    : "I"
 author  : Pedro P. Palazzo
-date    : 2022-06-07
+date    : 2023-03-28
 tagline: |
   <a href="#ordem-e-lugar">Ordem e lugar</a> –
   <a href="#preferência-temporal">Preferência temporal</a> –
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg
   caption: "Thomas Cole, Decurso do império: [Estado selvagem](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg), 1834"
-  actions:
-  - label: "Slides"
-    url  : /slides/processos/
 
 sidebar:
 - title: "Leitura obrigatória"

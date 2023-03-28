@@ -5128,23 +5128,6 @@ references:
   URL: https://www.persee.fr/doc/arch_0044-8613_1996_num_52_1_3357
   volume: '52'
 
-- id: hande:2004dougong
-  author:
-    - literal: 潘德華 [Pan Dehua]
-  call-number: TH2060 .P36 2004
-  citation-key: hande:2004dougong
-  edition: 第一番
-  event-place: Nanjing
-  ISBN: 978-7-81089-578-1
-  issued:
-    - year: 2004
-  language: zh
-  publisher: 东南大学出版社 [Dong nan da xue chu ban she]
-  publisher-place: Nanjing
-  source: Library of Congress ISBN
-  title: 斗栱 [Dougong]
-  type: book
-
 - id: harbeson:1927study
   author:
     - family: Harbeson
@@ -6994,6 +6977,23 @@ references:
       given: Isaac
   type: book
   URL: http://archive.org/details/gri_33125011569684
+
+- id: pan:2004dougong
+  author:
+    - literal: 潘德華 [Pan Dehua]
+  call-number: TH2060 .P36 2004
+  citation-key: pan:2004dougong
+  edition: 第一番
+  event-place: Nanjing
+  ISBN: 978-7-81089-578-1
+  issued:
+    - year: 2004
+  language: zh
+  publisher: 东南大学出版社 [Dong nan da xue chu ban she]
+  publisher-place: Nanjing
+  source: Library of Congress ISBN
+  title: 斗栱 [Dougong]
+  type: book
 
 - id: panerai:2006analise
   author:

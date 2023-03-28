@@ -1029,7 +1029,7 @@ A existência de um certo número de tipos --- ideias de edificações dadas
 *a priori* --- é um dos aspectos que definem uma cultura arquitetônica
 como sendo tradicional [@petruccioli:1998exoteric]. Há vários esquemas
 teóricos que tentam explicar como os tipos se formam e se transformam
-[@muratori:1959studiIX; @moudon:1994getting].
+[@muratori:1959studiix; @moudon:1994getting].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ------
