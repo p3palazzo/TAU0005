@@ -105,7 +105,7 @@ html {
         text-transform: uppercase;
       }
       h1 {
-        position: fixed;
+        position: absolute;
         left: 0;
         right: 0;
         bottom: 60%;
@@ -113,7 +113,7 @@ html {
       p.author,
       p.subtitle {
         font-family: $mainFont;
-        position: fixed;
+        position: absolute;
         left: 0;
         right: 0;
         text-align: center;
@@ -174,7 +174,7 @@ html {
         //  viewport size and the caption is properly positioned.
       }
       & + figcaption {
-        position: fixed;
+        position: absolute;
         bottom: 2.5%;
         left: 2.5%;
       }
