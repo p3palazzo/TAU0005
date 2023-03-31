@@ -3,8 +3,8 @@ title   : "Construção arquitravada"
 subtitle: "Elementos da construção"
 item    : "II"
 author  : "Pedro P. Palazzo"
-date    : 2022-02-08
-excerpt: >
+date    : 2023-04-11
+tagline: |
   <a href="#tendas-e-cabanas">Tendas e cabanas</a> –
   <a href="#colunas-e-vigas">Colunas e vigas</a> –
   <a href="#assoalhos-e-terraços">Assoalhos e terraços</a> –
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg/1024px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg
   caption: "Thomas Cole, Decurso do império: [Realização](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836.jpg), 1836"
-  actions:
-  - label: "Slides"
-    url  : /slides/arquitravada/
 
 sidebar:
 - title: "Leitura obrigatória"

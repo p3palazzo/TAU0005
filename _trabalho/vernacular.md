@@ -7,8 +7,7 @@ date: 2023-05-16
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres-crop.jpg
   caption: "Johan Christian Dahl (1788–1857), [Vista de Hjelle na região de Valdres](https://commons.wikimedia.org/wiki/File:Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres_-_NG.M.00426-021_-_National_Museum_of_Art,_Architecture_and_Design.jpg) (Noruega)"
-toc: false
-excerpt: |
+tagline: |
   <dl>
     <dt>Objetivo de aprendizagem</dt>
     <dd>
@@ -19,7 +18,7 @@ excerpt: |
   </dl>
 ---
 
-# Ementa #
+# Contexto #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
 ![Exemplos de tradições construtivas de diferentes regiões, do livro *Inquire Within*, c. 1900](https://i.pinimg.com/564x/2e/87/30/2e8730f7f9488b03edf17ff565d7bb22.jpg){#fig:inquire .line}
@@ -39,7 +38,7 @@ social e ambiental, fomentando cadeias locais de técnicos qualificados e
 promovendo um processo produtivo ecológico e autogestionado.
 
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
-![Cabanas primitivas segundo Samir Younés](https://i.pinimg.com/originals/8f/82/d9/8f82d907eb2b68cab0a6ef104511b9f4.jpg){#fig:huts-samir}
+![Cabanas primitivas segundo Samir Younés](https://hcommons.org/app/uploads/sites/1002372/2023/03/younes-huts.png){#fig:huts-samir .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Com respeito à alegoria da cabana primitiva enquanto princípio *teórico*
@@ -53,16 +52,18 @@ arquitetura tradicional com a seguinte proposta:
 ![Tipos de edículas e casas unitárias do Mediterrâneo e suas derivações, segundo Caniggia e Maffei, *Lettura dell'edilizia di base*, tav. 11](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:raddoppi .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
-> Construir a maquete de uma edícula de planta centralizada, simétrica,
-> com um único ambiente interno, consoante os princípios universais da
-> construção tradicional.
->
-> A edícula deve demonstrar fundações, um sistema construtivo de paredes
-> portantes (alvenaria estrutural), um sistema arquitravado (colunas ou
-> esteios e vigas), e um assoalho (cobertura plana com barrotes, terraço
-> e platibanda).
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+# Ementa #
+
+<blockquote class="epigraph">
+Construa a maquete de uma edícula de planta centralizada, simétrica,
+com um único ambiente interno, consoante os princípios universais da
+construção tradicional.
+
+A edícula deve demonstrar fundações, um sistema construtivo de paredes
+portantes (alvenaria estrutural), um sistema arquitravado (colunas ou
+esteios e vigas), e um assoalho (cobertura plana com barrotes, terraço
+e platibanda).
+</blockquote>
 
 Antes de começar, pesquise exemplos de construções vernaculares antigas
 e contemporâneas, principalmente em referências da bibliografia básica e
@@ -117,19 +118,50 @@ paredes, teto e terraço para mostrar o miolo da construção.
 - A edícula deve ter uma decoração simples, baseada no detalhamento
   construtivo tradicional adequado aos sistemas construtivos escolhidos.
 
-# Critérios de avaliação #
+# Avaliação #
 
-| Critério                                                            |  Valor |
-|---------------------------------------------------------------------|-------:|
-| Aplicação correta dos elementos da construção tradicional           |     10 |
-| Precisão, equilíbrio e clareza na execução do produto               |      8 |
-| Uso correto, elegante e eficaz da base, legendas e escalas gráficas |      2 |
-| **Total**                                                           | **20** |
+A avaliação contemplará de forma holística o seu desempenho e evolução
+nos quesitos abaixo, ao longo de todo o processo de elaboração do
+trabalho e de orientação com a equipe docente, enfatizando o resultado
+desse processo no produto final, bem como a sua evolução com respeito
+aos trabalhos anteriores.
 
-Você também deve atender ao seguinte:
+## Pesquisa ##
 
-- [Critérios e normas gerais de avaliação](../_plano/avalia.md);
-- [Materiais, instrumentos e dicas de trabalho](materiais.md).
+- Você estudou as notas de aula e as leituras obrigatórias desta Unidade
+  para compreender os princípios gerais da construção tradicional;
+- Você pesquisou exemplos reais de construções vernaculares
+  pré-modernas, tanto na bibliografia da disciplina (básica e
+  complementar) quanto em outras referências técnicas e acadêmicas com
+  credibilidade;
+- Você escolheu sistemas construtivos arquitravados (assoalho e
+  alpendre) e murários (fundações, paredes e suas aberturas) coerentes
+  entre si e com o propósito desta Unidade e atividade, que é estudar as
+  construções vernáculas tradicionais.
+
+## Conteúdo ##
+
+- Você trabalhou nesta atividade durante todo o horário da aula (exceto
+  durante as aulas expositivas) e pediu orientação à equipe docente
+  sempre que necessário; (oriente pelo menos uma vez por aula, para
+  garantir a presença!)
+- Você demonstrou domínio da realidade construtiva dos sistemas
+  escolhidos, aplicando-os de modo coerente e bem proporcionado,
+  deixando evidente na maquete a sua compreensão de como uma edícula
+  tradicional fica de pé;
+- Você atendeu aos requisitos explícitos desta ementa bem como ao
+  espírito geral desta disciplina.
+
+## Apresentação ##
+
+- Você respeitou a escala e as indicações de materiais e representação
+  pedidas nesta ementa;
+- Você realizou a maquete com capricho e elegância, escolhendo materiais
+  e técnicas apropriados para transmitir as informações necessárias com
+  clareza;
+- Você incluiu a escala gráfica na base;
+- A maquete é sólida e fácil de manipular e de apoiar sobre uma
+  superfície plana.
 
 # Referências #
 
@@ -176,3 +208,4 @@ Vitória Gemeinder Monteiro, 1.º/2021
 :::
 Rodrigo Freire Rodrigues, 1.º/2021
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+

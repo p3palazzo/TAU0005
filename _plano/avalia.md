@@ -7,7 +7,7 @@ header:
   actions:
   - label: "Voltar ao Plano de ensino"
     url  : /plano/
-excerpt: >
+tagline: |
   As suas atividades avaliativas –
   Sobre criatividade e originalidade
 

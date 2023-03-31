@@ -59,6 +59,18 @@ $header-font-style: italic;
     "pandoc",
     "pandoc-solarized",
     "local",
-	"revealjs-support"
+    "revealjs-support"
 ;
+
+.site-subtitle {
+    display: inline;
+}
+
+.page__footer {
+    background-color: inherit;
+}
+
+.page__footer-follow {
+    display: none;
+}
 // vim: set shiftwidth=4 tabstop=4 foldmethod=indent :

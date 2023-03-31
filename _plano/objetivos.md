@@ -7,7 +7,7 @@ header:
   actions:
   - label: "Voltar ao Plano de ensino"
     url  : /plano/
-excerpt: >
+tagline: |
   Objetivo geral – Objetivos específicos
 
 intro_atividade:

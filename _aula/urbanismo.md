@@ -3,8 +3,8 @@ title   : "Urbanizar"
 subtitle: "Fazer arquitetura"
 item    : "V"
 author  : Pedro P. Palazzo
-date    : 2022-05-03
-excerpt: >
+date    : 2023-07-11
+tagline: |
   Princípios de morfologia urbana –
   Tipos de urbanização –
   Bairro e arrabalde –
@@ -12,9 +12,6 @@ excerpt: >
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Louise_Rayner_Chester_Watergate_Street_looking_east.jpg/2560px-Louise_Rayner_Chester_Watergate_Street_looking_east.jpg
   caption: "Louise Rayner, [Rua Watergate em Chester](https://commons.wikimedia.org/wiki/File:Louise_Rayner_Chester_Watergate_Street_looking_east.jpg) (Inglaterra), anterior a 1876"
-  actions:
-  - label: "Slides"
-    url  : /slides/urbanismo/
 title-slide-attributes:
   data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Louise_Rayner_Chester_Watergate_Street_looking_east.jpg/2560px-Louise_Rayner_Chester_Watergate_Street_looking_east.jpg
 

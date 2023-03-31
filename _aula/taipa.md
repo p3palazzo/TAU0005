@@ -4,7 +4,7 @@ subtitle: "Elementos da construção"
 item    : "I"
 author  : "Pedro P. Palazzo"
 date    : 2022-02-01
-excerpt: >
+tagline: |
   <a href="#materiais-da-construção-tradicional">Materiais da construção tradicional</a> –
   <a href="#construções-semienterradas">Construções semienterradas</a> –
   <a href="#plataformas-e-terraplenos">Plataformas e terraplenos</a> –
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg
   caption: "Thomas Cole, Decurso do império: [Estado arcádio ou pastoral](https://commons.wikimedia.org/wiki/File:Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg), 1836"
-  actions:
-  - label: "Slides"
-    url  : /slides/taipa/
 
 sidebar:
 - title: "Leitura obrigatória"
@@ -425,7 +422,7 @@ câmaras podiam ser abrigos temporários e, quem sabe, cerimoniais onde as
 pessoas cozinhavam e consumiam a caça [@thomas:2021mustatils95].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Construções semienterradas ##
+## Células escavadas ##
 
 ::: full
 ![Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: [Rolf Cosar, 2010](https://commons.wikimedia.org/wiki/File:Göbekli_Tepe.jpg)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg){#fig:gt-pano}

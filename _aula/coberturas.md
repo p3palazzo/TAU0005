@@ -3,8 +3,8 @@ title   : "Coberturas e superfícies"
 subtitle: "Elementos da construção"
 item    : "V"
 author  : "Pedro P. Palazzo"
-date    : 2022-03-01
-excerpt: >
+date    : 2023-04-25
+tagline: |
   Função e estrutura das coberturas –
   Formas básicas de carpintaria –
   Carpintaria chinesa –
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2021/08/kawase_hasui_evening_moon_over_temple034333-bg.jpg
   caption: "Kawase Hasui, [Lua cheia sobre um templo](https://www.christies.com/lot/lot-kawase-hasui-evening-moon-over-temple-6277357/), segundo quartel do século [XX]{.smallcaps}" 
-  actions:
-  - label: "Slides"
-    url  : /slides/coberturas/
 
 sidebar:
 - title: "Leitura obrigatória"
@@ -638,7 +635,7 @@ Essa imagem se formou nas *chinesices*, pinturas que decoravam
 porcelanas exportadas para a Europa. As chinesices foram especialmente
 populares no império Português. Artistas treinados em Macau circulavam
 por todo o império fazendo pinturas que representavam pavilhões em
-estilo chinês [@schaeffer:1971chinesicesXXII] ([@fig:sabara]).
+estilo chinês [@schaeffer:1971chinesicesxxii] ([@fig:sabara]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Pintura de chinesice na igreja de Nossa Senhora do Ó, Sabará, segunda metade do século [XVIII]{.smallcaps}](https://4.bp.blogspot.com/-udY_CN9QJ3E/WPjzuUZWQsI/AAAAAAAAR5A/Z6E9nw8h5tIT0KeetSWfoT6FXr0B_OGZgCLcB/s1600/sabara o3.JPG){#fig:sabara .outset}
@@ -691,7 +688,7 @@ características que definem a arquitetura tradicional chinesa.
 
 O aspecto mais importante e único da construção chinesa em madeira é a
 armação extremamente elaborada de mísulas e vigas sobrepostas para
-formar a cobertura [@pan:2004Dou]. Esse sistema é usado pelo menos desde
+formar a cobertura [@pan:2004dougong]. Esse sistema é usado pelo menos desde
 a Idade do Bronze, está atestado indiretamente a partir do século
 [II]{.smallcaps} a.C. e codificado num tratado do século
 [XI]{.smallcaps} d.C., o *Yingzao fashi* [@guo:1998yingzao41]

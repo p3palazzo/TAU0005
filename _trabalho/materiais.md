@@ -5,7 +5,7 @@ header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/01/lequeu-crop.jpg
   overlay_filter: 0.5
   caption: "Jean-Jacques Lequeu, [instrumentos de desenho técnico](https://gallica.bnf.fr/ark:/12148/btv1b7703014j/f1.item.r=lequeu), 1782"
-excerpt: >
+tagline: |
   Desenho à mão –
   Desenho no computador –
   Maquetes físicas –

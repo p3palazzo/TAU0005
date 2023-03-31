@@ -3,8 +3,8 @@ title   : "Propósito"
 subtitle: "Elementos de composição"
 item    : "II"
 author  : Pedro P. Palazzo
-date    : 2022-03-15
-excerpt: >
+date    : 2023-05-16
+tagline: |
   Programa, função e propósito –
   Morfologia e tipologia –
   Tipologia processual –
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://i.pinimg.com/originals/c8/cc/e2/c8cce2f9390770ae17105dd79794f6a1.jpg
   caption: "Edwin Lord Weeks, [Pátio na Alhambra no tempo dos mouros](https://commons.wikimedia.org/wiki/File:Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors.jpg), 1876"
-  actions:
-  - label: "Slides"
-    url  : /slides/proposito/
 
 sidebar:
 - title: "Leitura obrigatória"
@@ -273,7 +270,7 @@ Saverio Muratori, processo de urbanização do bairro Rialto, Veneza.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A tipologia processual é uma metodologia de análise e projeto
 desenvolvida na década de 1950 por Saverio Muratori, quando ele era
-professor na Universidade de Veneza [@muratori:1959studiIX].
+professor na Universidade de Veneza [@muratori:1959studiix].
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *

@@ -3,8 +3,8 @@ title   : "Ordenar"
 subtitle: "Fazer arquitetura"
 item    : "I"
 author  : Pedro P. Palazzo
-date    : 2022-04-05
-excerpt: >
+date    : 2023-06-20
+tagline: |
   Propriedades arquitetônicas –
   Princípios da arquitetura clássica –
   Outras ordens –
@@ -14,9 +14,6 @@ title-slide-attributes:
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Prayer_in_the_Mosque.jpg/1733px-Prayer_in_the_Mosque.jpg
   caption: "Jean Léon Gérôme, [Oração numa mesquita](https://commons.wikimedia.org/wiki/File:Prayer_in_the_Mosque.jpg), 1871"
-  actions:
-  - label: "Slides"
-    url  : /slides/ordenar/
 
 sidebar:
 - title: "Leitura obrigatória"

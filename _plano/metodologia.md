@@ -7,7 +7,7 @@ header:
   actions:
   - label: "Voltar ao Plano de ensino"
     url  : /plano/
-excerpt: >
+tagline: |
   Moodle – Bibliotecas –
   Como acompanhar o programa
 ---

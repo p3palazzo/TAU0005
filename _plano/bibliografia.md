@@ -7,7 +7,7 @@ header:
   actions:
   - label: "Voltar ao Plano de ensino"
     url  : /plano/
-excerpt: >
+tagline: |
   Leituras semanais –
   Livro-texto –
   Tratados de arquitetura tradicional e clássica –
