@@ -117,6 +117,10 @@ article {
     }
 }
 
+body #page .page__content section.level2 > h2 {
+    font-weight: lighter;
+}
+
 .page__content h3 {
     @include breakpoint($large) {
         float: none;
@@ -133,5 +137,9 @@ h2.archive__item-title {
 
 a.btn {
     font-variant: normal;
+}
+
+.card {
+    border-radius: 0;
 }
 // vim: set shiftwidth=4 tabstop=4 foldmethod=indent :
