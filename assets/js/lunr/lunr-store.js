@@ -132,13 +132,13 @@ var store = [{
         "teaser": null
       },{
         "title": "Edículas vernáculas",
-        "excerpt":"Ementa Figura 1: Exemplos de tradições construtivas de diferentes regiões, do livro Inquire Within, c. 1900 Os sistemas construtivos tradicionais de todos os povos do mundo usam materiais predominantemente locais, pouco processados, e saberes empíricos lentamente refinados, privilegiando estruturas portantes à compressão. Esse processo resulta em arquiteturas com marcada identidade local....","categories": [],
+        "excerpt":"Contexto Figura 1: Exemplos de tradições construtivas de diferentes regiões, do livro Inquire Within, c. 1900 Os sistemas construtivos tradicionais de todos os povos do mundo usam materiais predominantemente locais, pouco processados, e saberes empíricos lentamente refinados, privilegiando estruturas portantes à compressão. Esse processo resulta em arquiteturas com marcada identidade local....","categories": [],
         "tags": [],
         "url": "/TAU0005/trabalho/vernacular/",
         "teaser": null
       },{
         "title": "Composição espacial",
-        "excerpt":"Contexto Quina Figura 1: Cesare Cesariano, composição modular em quina, da tradução do Tratado de arquitetura de Vitrúvio, 1521 O volume singular da edícula é o elemento de base da arquitetura. A articulação entre volumes é a linguagem da composição arquitetônica. Numa composição arquitetônica tradicional, cada volume é claramente delimitado,...","categories": [],
+        "excerpt":"Contexto Volumes Figura 1: Cesare Cesariano, composição modular em quina, da tradução do Tratado de arquitetura de Vitrúvio, 1521 O volume singular da edícula é o elemento de base da arquitetura. A articulação entre volumes é a linguagem da composição arquitetônica. Numa composição arquitetônica tradicional, cada volume é claramente delimitado,...","categories": [],
         "tags": [],
         "url": "/TAU0005/trabalho/volumes/",
         "teaser": null
