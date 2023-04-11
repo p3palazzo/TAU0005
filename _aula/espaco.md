@@ -497,7 +497,7 @@ Deus no mosteiro de São Lucas de Stiris, na metade do século
 ## {data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/Daphni_Medieval_Monastery-1080p-25fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
 :::::::::::::::::::::::::::::::::::: {#fig:daphni-drone .iframe-wrapper .slide-bg}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/cWRUfjYoTR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/cWRUfjYoTR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Igreja do mosteiro de Dafní, Atenas, reconstruída c. 1050. Filmagem:
 [Yannis Tzitzas, 2019](https://youtu.be/cWRUfjYoTR8)
@@ -805,7 +805,7 @@ volumes externos, que se tornam seu elemento mais importante.
 ## {data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/Elephanta_Caves_Mumbai_Unesco_India-DxIS4uYiq7E-2160p-30fps.webm" data-background-video-muted="true"}
 
 ::::::::::::::::::::::::::::::::::::::: {#fig:eleph-vid .iframe-wrapper .slide-bg}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxIS4uYiq7E?start=34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1600" height="900" src="https://www.youtube.com/embed/DxIS4uYiq7E?start=34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Passeio pela gruta hinduísta de Elephanta. Filmagem: [Wonderliv Travel, 2018](https://youtu.be/DxIS4uYiq7E?t=34)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -837,7 +837,7 @@ mais comuns no sul da Índia, na região tâmil.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::: {#fig:shore-vid .iframe-wrapper .slide-bg}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5vBG-a2e8fo?start=68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1600" height="900" src="https://www.youtube.com/embed/5vBG-a2e8fo?start=68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Templo da orla, Mahaballipuram. Filmagem: [Rajinikanth, My Travelling Chronicles, 2021](https://youtu.be/5vBG-a2e8fo?t=68)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

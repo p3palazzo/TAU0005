@@ -830,7 +830,7 @@ interligação entre águas) para formar conjuntos extremamente complexos
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::: {#fig:3dmax .iframe-wrapper .slide-bg .outset}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/F2H9UbIApYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/F2H9UbIApYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Construções tradicionais chinesas. Modelagem: [Beijing Digital Light Magic Technology Co.](https://youtu.be/F2H9UbIApYs)
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -838,7 +838,7 @@ Construções tradicionais chinesas. Modelagem: [Beijing Digital Light Magic Tec
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/Chinese_Architectural_Brackets-JnB3fQTE1XU-1080p-30fps.webm" data-background-video-muted="true" data-background-video-loop="true"}
 
 :::::::::::::::::::::::: {#fig:wiborg .iframe-wrapper .slide-bg .outset}
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JnB3fQTE1XU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/JnB3fQTE1XU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Construção de um sistema de mísulas chinesas. Carpintaria: [Richard Wiborg, 2018]
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

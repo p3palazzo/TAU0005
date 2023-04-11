@@ -439,7 +439,7 @@ está relacionada com a ocupação do tecido urbano.
 ## {data-background-video="https://cdn.palazzo.arq.br/utilitas/clima/Procedural_Beijing_Courtyard_House-78302430-720p-24fps.mp4" data-background-video-muted="true" data-background-video-loop="true"}
 
 :::::::::::::::::::::::::::::::::::::::: {#fig:liu-ziye .full .slide-bg}
-<iframe src="https://player.vimeo.com/video/78302430?h=61fd011bfb&color=fffff8" width="1280" height="720" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://player.vimeo.com/video/78302430?h=61fd011bfb&color=fffff8" width="1600" height="900" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
 
 <a href="https://vimeo.com/78302430">Modelo paramétrico de casas-pátio em Pequim, China</a>. Modelagem: <a href="https://vimeo.com/ziyeliu">Liu Ziye</a>, 2013
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

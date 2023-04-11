@@ -396,7 +396,7 @@ verticalmente no solo e preenchimento com cascalho
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::::::::::::::::::::::::::: {#fig:alula .iframe-wrapper}
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/z8A0LpX7_yM?start=1464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/z8A0LpX7_yM?start=1464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 *Mustatil* (cercado retangular) próximo a al-Ula, Arábia Saudita, c.
 5000 a.C.
@@ -479,26 +479,45 @@ As construções semienterradas se aclimatam até as
 extremidades úmidas da Eurásia, onde elas são usadas tanto como
 sepulturas quanto como habitações --- às vezes ao mesmo tempo. As
 construções monumentais muitas vezes são delimitadas com imensas lajes
-de pedra em todos os lados: os dolmens ou antas ([@fig:pendilhe]). Essas
-estruturas teriam sido cobertas com um terrapleno por todos os lados,
-formando um túmulo, e poderiam ser usadas para vários propósitos
-rituais: desde sacrifícios religiosos até sepultamentos humanos.
+de pedra em todos os lados: os dolmens ou antas, como a da orca de
+Pendilhe, em Portugal, datada do [IV]{.smallcaps} milênio a.C.
+([@fig:pendilhe]). Essas estruturas teriam sido cobertas com um
+terrapleno por todos os lados, formando um túmulo, e poderiam ser usadas
+para vários propósitos rituais: desde sacrifícios religiosos até
+sepultamentos humanos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ![Anta da orca de Pendilhe, Portugal, final do IV milênio a.C. Foto: [João Carvalho, 2005](https://commons.wikimedia.org/wiki/File:Anta_orca_de_pendilhe_0486.JPG)](https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anta_orca_de_pendilhe_0486.JPG/1280px-Anta_orca_de_pendilhe_0486.JPG){#fig:pendilhe .outset .r-stretch}
 
-## {data-background-iframe="https://www.youtube.com/watch?v=\_DX-OBFdUTE&t=71s"}
+------
+
+::::::::::::::::::::::::::::::: {#fig:maes-scan .iframe-wrapper .outset}
+<iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/_DX-OBFdUTE?start=71" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Túmulo de Maeshowe, ilhas Órcades, c. 2800 a.C. Representação
+tridimensional por [Engine Shed][] para Historic Environment Scotland, 2012
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Engine Shed]: https://www.engineshed.scot/about-us/the-scottish-ten
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Um exemplo de túmulo ainda recoberto pelo seu terraplano é o Maes Howe,
+nas ilhas Órcades, no extremo norte das ilhas Britânicas
+([@fig:maes-scan]), construído c. 2800 a.C., no Neolítico.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif" data-background-size="contain" data-background-position="right"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Cortes do túmulo de Maeshowe. [Fantoman400, 2006](https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif)](https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif){#fig:maeshowe-sec .nobg .slide-bg}
+![Cortes do Maes Howe, desenho: [Fantoman400, 2006][]](https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif){#fig:maeshowe-sec .nobg .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+[Fantoman400, 2006]: https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif
 
 * * * *
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
-Nas ilhas Órcades, o túmulo neolítico de Maeshowe, de c. 2800 a.C., tem
+O Maes Howe tem
 uma câmara central quadrada, com 4 metros de lado, debaixo de um
 terrapleno artificial. Um corredor com 11 metros de comprimento mas
 menos de um metro de pé-direito dá acesso à câmara, de onde se abrem
@@ -508,9 +527,16 @@ mais importante é a célula que fica diante do eixo do corredor
 inverno.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-![Planta do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 a.C. Desenho: F.W.I. Thomas, após 1861](https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg){#fig:maeshowe-plan .r-stretch}
+![Planta do Maes Howe, desenho: F.W.I. Thomas, após 1861](https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg){#fig:maeshowe-plan .r-stretch}
 
-## {data-background-iframe="https://www.youtube.com/watch?v=Rlkjf-i5_Qw&t=11s"}
+## Habitações semienterradas ##
+
+::::::::::::::::::::::::::::::::::: {#fig:skb3d .iframe-wrapper .outset}
+<iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/Rlkjf-i5_Qw?start=11" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Habitações semienterradas em Skara Brae, ilhas Órcades, 3100–2800 a.C.
+Reconstituição digital por Al Rawlinson, 2021
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## {data-background-image="https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png" data-background-size="contain"}
 
@@ -518,23 +544,30 @@ inverno.
 ![Reconstituição da aldeia de Skara Brae vista desde o pátio de acesso ao corredor](https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png){#fig:skb-art .slide-bg}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-* * * *
-
-![Câmara de uma casa em Skara Brae, com lar central e três plataformas contra as paredes, célula satélie ao fundo. Foto: [Archaeology Scotland, 2013](https://commons.wikimedia.org/wiki/File:Skara_Brae_Beds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/1280px-Skara_Brae_Beds.jpg){#fig:skb-int .r-stretch}
-
-* * * *
-
-![Planta da aldeia neolítica de Skara Brae, ilhas Órcades, Escócia, 3100--2800 a.C. Desenho adaptado de V. Gordon Childe, 1930](https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg){#fig:skb-plan .outset .r-stretch}
-
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 A configuração desse túmulo se parece bastante com a das habitações em
 Skara Brae, também nas ilhas Órcades e datadas da mesma época
-([@fig:skb-plan]). Aqui também, cada casa tem uma câmara principal com
+([@fig:skb-plan]).
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Aqui também, cada casa tem uma câmara principal com
 algumas células satélites; todas as casas se articulam em volta de um
 corredor central, e o conjunto é coberto por um terrapleno
 (@fig:skb-art) apoiado em vigas de madeira. A única fonte de iluminação
-direta era uma abertura zenital, que também servia de exaustor. Outra
-semelhança com o túmulo de Maeshowe é que alguns corpos foram sepultados
+direta era uma abertura zenital, que também servia de exaustor.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+![Planta da aldeia neolítica de Skara Brae, desenho adaptado de V. Gordon Childe, 1930](https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg){#fig:skb-plan .outset .r-stretch}
+
+------
+
+![Câmara de uma casa em Skara Brae, com lar central e três plataformas contra as paredes, célula satélie ao fundo. Foto: [Archaeology Scotland, 2013](https://commons.wikimedia.org/wiki/File:Skara_Brae_Beds.jpg)](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/1280px-Skara_Brae_Beds.jpg){#fig:skb-int .r-stretch .r-stretch}
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Outra semelhança com o Maes Howe é que alguns corpos foram sepultados
 dentro das próprias casas, debaixo das plataformas que serviam de bancos
 e camas ([@fig:skb-int]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -784,7 +817,15 @@ e estáveis. Nesse caso, era comum encapar o miolo da parede em adobe com
 uma face de tijolos cozidos em cada lado [@anastasio:2020building, 62].
 Essas faces em tijolo cozido eram tão estruturais quanto o miolo em
 adobe. Elas eram ligadas entre si, em algumas fiadas, com cordas e
-esteiras de palha embutidas na argamassa. Seria esse o sistema
+esteiras de palha embutidas na argamassa.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Templo de Enki em Eridu, nível VII, c. 4000--3800 a.C. Modelo: [Cush 2016](https://commons.wikimedia.org/wiki/File:Eridu_temple_7.png)](https://upload.wikimedia.org/wikipedia/commons/6/68/Eridu_temple_7.png){#fig:eridu .r-stretch}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Seria esse o sistema
 construtivo adotado em grandes edifícios, como o antiquíssimo "templo de
 Enki" em Eridu (e que talvez fosse um palácio), construído por volta de
 4000 a.C. ([@fig:eridu]). E nos grandes terraços que elevam os edifícios
@@ -793,9 +834,7 @@ terrapleno propriamente dito preenchido com qualquer tipo de material
 compactado --- terra, entulho de construção e outros resíduos.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-iframe="https://www.youtube.com/watch?v=0h_YGXsMBUo&t=26"}
-
-* * * *
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Com o tempo, essas faces em tijolos cozidos seriam vistas como uma
@@ -803,21 +842,29 @@ superfície ideal para ornamentar a construção. Na Babilônia, os tijolos
 na superfície externa de algumas muralhas eram decorados com relevos
 pintados e tinha um acabamento vidrado. É o caso da famosa porta de
 Ishtar, atualmente reconstituída a partir de vestígios originais no
-museu Pergamon de Berlim ([@fig:ishtar]). Além dessa decoração, também
-podemos ver como a massa construída do portal enquadra o espaço numa
-sucessão de pátios cada vez mais restritos, até chegar na porta
-propriamente dita. Esse enclausuramento dos volumes é a função
-primordial dessas estruturas monumentais, seja por motivos militares ou
-simbólicos.
+museu Pergamon de Berlim ([@fig:ishtar]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Templo de Enki em Eridu, nível VII, c. 4000--3800 a.C. Modelo: [Cush 2016](https://commons.wikimedia.org/wiki/File:Eridu_temple_7.png)](https://upload.wikimedia.org/wikipedia/commons/6/68/Eridu_temple_7.png){#fig:eridu .r-stretch}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+![Porta de Ishtar, Babilônia, 575 a.C., atualmente no museu Pergamon, Berlim](https://i.pinimg.com/originals/d5/83/2c/d5832cea9db6c2723d2ff99226e4b400.jpg){#fig:ishtar .r-stretch}
 
 * * * *
 
-![Porta de Ishtar, Babilônia, 575 a.C., atualmente no museu Pergamon, Berlim](https://i.pinimg.com/originals/d5/83/2c/d5832cea9db6c2723d2ff99226e4b400.jpg){#fig:ishtar .r-stretch}
+:::::::::::::::::::::::::::::::: {#fig:ishtar3d .iframe-wrapper .outset}
+<iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/fxWocW5m-VI?start=26" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+Porta de Ishtar, reconstituição virtual por Marco Mellace, 2019
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
+Além dessa decoração, também podemos ver na própria porta de Ishtar
+([@fig:ishtar3d])
+como a massa construída do portal enquadra o espaço numa sucessão de
+pátios cada vez mais restritos, até chegar na porta propriamente dita.
+Esse enclausuramento dos volumes é a função primordial dessas estruturas
+monumentais, seja por motivos militares ou simbólicos.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+* * * *
 
 # Fundações #
 
@@ -899,10 +946,10 @@ importante com a homogeneidade do assentamento no solo.
 ## Dimensionamento ##
 
 :::::::::::::::::::::::::::::::::: {#fig:rubble .iframe-wrapper .outset}
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/eNN7T4fBQo4?start=240" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/eNN7T4fBQo4?start=240" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Construção de uma fundação em pedra lavrada para uma casa de pau a
-pique. [House Alive, 2016](https://youtu.be/eNN7T4fBQo4?t=240)
+pique. House Alive, 2016
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
@@ -974,9 +1021,9 @@ exceções em regiões sujeitas a terremotos ([@fig:adobe-funda]).
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ::::::::::::::::::: {#fig:adobe-funda .iframe-wrapper .slide-bg .outset}
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/9kZaq5SwBxo?start=371" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/9kZaq5SwBxo?start=371" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Construção de fundações mistas para paredes em adobe. [Arquitectura sin Fronteras Galicia, 2014](https://youtu.be/9kZaq5SwBxo?t=371)
+Construção de fundações mistas para paredes em adobe. Arquitectura sin Fronteras Galicia, 2014
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 * * * *
@@ -1092,7 +1139,7 @@ que eles fazem em contato com os sistemas construtivos tradicionais é
 impedir a umidade que *já entrou* de *sair* da construção.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## {data-background-video="https://cdn.palazzo.arq.br/firmitas/taipa/Ishtar_Gate_Babylon_Iraq.webm" data-background-video-muted="true" data-background-video-loop="true"}
+------
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Esse tipo de problema ocorreu no sítio arqueológico da antiga Babilônia
@@ -1108,13 +1155,13 @@ circulação da água.
 * * * *
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::: {#fig:ishtar-model .iframe-wrapper .slide-bg .outset}
+:::::::::::::::::::::::::::: {#fig:ishtar-model .iframe-wrapper .outset}
 <iframe src="https://www.youtube-nocookie.com/embed/d23S8P-H0lM?t=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Modelo fotogramétrico da porta de Ishtar, Babilônia, século
-[VI]{.smallcaps} a.C. [Programa de Pós-graduação em Patrimônio da
+[VI]{.smallcaps} a.C. Programa de Pós-graduação em Patrimônio da
 Universidade da Flórida e World Monuments Fund,
-2016](https://youtu.be/d23S8P-H0lM)
+2016
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Conclusão ##

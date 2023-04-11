@@ -114,7 +114,7 @@ um projeto arquitetônico na atualidade.
 * * * *
 
 ::::::::::::::::::::::::::: {#fig:groma-stewart .iframe-wrapper .outset}
-<iframe width="1280" height="720" src="https://www.youtube-nocookie.com/embed/-pIUTs2XD50?start=306" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/-pIUTs2XD50?start=306" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Demonstração do funcionamento de um *groma* da Roma antiga
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::

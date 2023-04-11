@@ -501,7 +501,7 @@ religiosos até sepultamentos humanos.
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/Maeshowe_Chambered_Cairn-Orkney_3D_Scanning-DX-OBFdUTE-1080p-25fps.webm" data-background-video-muted="true"}
 
 ::::::::::::::::::::::::::::::::::::::::: {.iframe-wrapper #fig:maes-3d .slide-bg .outset}
-<iframe width="1280" height="720" class="slide-bg" src="https://www.youtube-nocookie.com/embed/_DX-OBFdUTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1600" height="900" class="slide-bg" src="https://www.youtube-nocookie.com/embed/_DX-OBFdUTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Modelo tridimensional do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 a.C. [Historic Environment Scotland, 2012]
 
@@ -562,7 +562,7 @@ de pedra lavrada ([@fig:skb-plan]).
 ## {data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/Skara_Brae-Inside_House_7-Rlkjf-i5_Qw-1080p-24fps.webm" data-background-video-muted="true"}
 
 :::::::::::::::::::::::::::::::::::::::: {.iframe-wrapper #fig:skb-scan .slide-bg .outset}
-<iframe width="1280" height="720" class="slide-bg" src="https://www.youtube-nocookie.com/embed/Rlkjf-i5_Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1600" height="900" class="slide-bg" src="https://www.youtube-nocookie.com/embed/Rlkjf-i5_Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Modelo tridimensional da casa 7 em Skara Brae, 3100--2800 a.C. [Historic Environment Scotland, 2021]
 
