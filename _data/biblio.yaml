@@ -3333,6 +3333,34 @@ references:
       given: Júlia Bárány
   type: book
 
+- id: domini:2003diminution
+  accessed:
+    - year: 2023
+      month: 4
+      day: 13
+  author:
+    - family: Domini
+      given: David A. Vila
+  citation-key: domini:2003diminution
+  container-title: Nexus Network Journal
+  container-title-short: Nexus Netw J
+  DOI: 10.1007/s00004-002-0006-4
+  ISSN: 1590-5896, 1522-4600
+  issue: '1'
+  issued:
+    - year: 2003
+      month: 4
+  language: en
+  page: 99-124
+  source: DOI.org (Crossref)
+  title: >-
+    The diminution of the classical column: visual sensibility in Antiquity and
+    the Renaissance
+  title-short: The diminution of the classical column
+  type: article-journal
+  URL: http://link.springer.com/10.1007/s00004-002-0006-4
+  volume: '5'
+
 - id: duby:1997historia
   author:
     - family: Duby

@@ -28,6 +28,17 @@ sidebar:
     - Vitrúvio livro II
     - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 12–75
     - *Enciclopédia prática* 14, 18
+
+chambers:
+  - image_path: https://i.pinimg.com/originals/42/e7/61/42e7616e2c97a4ae22575c2c9cdad71f.jpg
+    title     : "Tendas"
+    excerpt   : "Estruturas tensionadas, com peles ou tecidos estendidos sobre armações leves."
+  - image_path: https://i.pinimg.com/originals/bd/1d/5d/bd1d5d1e92e67705dbdad67cf81e309f.jpg
+    title     : "Cavernas"
+    excerpt   : "Estruturas murárias, isto é, paredes portantes maciças com abóbadas."
+  - image_path: https://i.pinimg.com/originals/97/e3/e1/97e3e121068f69e681b1d6ba90c0eddd.jpg
+    title     : "Cabanas"
+    excerpt   : "Estruturas arquitravadas, isto é, que formam pórticos."
 ---
 
 # Materiais da construção tradicional #
@@ -224,36 +235,38 @@ variedade de condições técnicas e econômicas multiplica a diversidade de
 linguagens arquitetônicas tradicionais.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-## Paradigmas construtivos ##
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Cabanas primitivas segundo William Chambers, *A Treatise on Civil Architecture*, 1759](https://i.pinimg.com/originals/cf/1a/f5/cf1af57c2e6422122e18196f92629e29.jpg){#fig:huts}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+## Paradigmas construtivos ## {data-background-image="https://i.pinimg.com/originals/cf/1a/f5/cf1af57c2e6422122e18196f92629e29.jpg" data-background-size="contain"}
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Reconhecendo essa diversidade de aplicações dos
 materiais, podemos agrupar as tradições arquitetônicas em três tipos
 genéricos de acordo com o sistema estrutural dominante que resulta
-desses materiais e das tecnologias usadas ([@fig:huts]):
+desses materiais e das tecnologias usadas:
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-----
+## {data-visibility="hidden"}
+
+```{=html}
+{% include feature_row id="chambers" %}
+```
+
+## {.slide-only}
 
 1. [Tendas]{.smallcaps}: Estruturas tensionadas, com peles ou tecidos
    estendidos sobre armações leves;  
    ![](https://i.pinimg.com/originals/42/e7/61/42e7616e2c97a4ae22575c2c9cdad71f.jpg)
 
-----
+## {.slide-only}
 
-2. [Cabanas]{.smallcaps}: Estruturas arquitravadas, isto é, que formam
+2. [Cavernas]{.smallcaps}: Estruturas murárias, isto é, paredes
+   portantes maciças com abóbadas.
+   ![](https://i.pinimg.com/originals/bd/1d/5d/bd1d5d1e92e67705dbdad67cf81e309f.jpg)
+
+## {.slide-only}
+
+3. [Cabanas]{.smallcaps}: Estruturas arquitravadas, isto é, que formam
    pórticos;
    ![](https://i.pinimg.com/originals/97/e3/e1/97e3e121068f69e681b1d6ba90c0eddd.jpg)
-
-----
-
-3. [Cavernas]{.smallcaps}: Estruturas murárias, isto é, paredes
-   portantes maciças com abóbadas.  
-   ![](https://i.pinimg.com/originals/bd/1d/5d/bd1d5d1e92e67705dbdad67cf81e309f.jpg)
 
 * * * *
 
@@ -1156,7 +1169,7 @@ circulação da água.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 :::::::::::::::::::::::::::: {#fig:ishtar-model .iframe-wrapper .outset}
-<iframe src="https://www.youtube-nocookie.com/embed/d23S8P-H0lM?t=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe widht="1600" height="900" src="https://www.youtube-nocookie.com/embed/d23S8P-H0lM?t=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Modelo fotogramétrico da porta de Ishtar, Babilônia, século
 [VI]{.smallcaps} a.C. Programa de Pós-graduação em Patrimônio da

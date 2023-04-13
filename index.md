@@ -54,7 +54,7 @@ firmitas:
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836-crop.jpg
     title     : "Construção arquitravada"
-    excerpt   : "Tendas e cabanas – Colunas e vigas – Assoalhos e terraços – Transposição da madeira à pedra"
+    excerpt   : "Tendas e cabanas – Colunas e vigas – Assoalhos e terraços – Arquitetura clássica"
     url       : "/aula/arquitravada/"
     btn_label : "18 de abril"
     btn_class : "btn btn--inverse btn--small"
