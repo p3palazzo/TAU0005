@@ -18,7 +18,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Construção arquitravada",
-        "excerpt":"Tendas e cabanas Nos mitos da cabana primitiva e nas culturas da maior parte do mundo, a madeira é o material primordial da arquitetura. A construção tradicional em madeira é uma concepção aditiva, isto é, ela se caracteriza estruturalmente e visualmente pela montagem de peças claramente distintas entre si. Quase...","categories": [],
+        "excerpt":"Tendas e cabanas Figura 1: Cabanas primitivas segundo William Chambers, A Treatise on Civil Architecture, 1759 Nos mitos da cabana primitiva e nas culturas da maior parte do mundo, a madeira é o material primordial da arquitetura. A construção tradicional em madeira é uma concepção aditiva, isto é, ela se...","categories": [],
         "tags": [],
         "url": "/TAU0005/aula/arquitravada/",
         "teaser": null
