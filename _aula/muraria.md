@@ -11,7 +11,7 @@ tagline: |
   Materiais naturais e cozidos –
   Aparelhos de alvenaria
 title-slide-attributes:
-  data-background-image: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Giovanni_Paolo_Panini\_–_Ancient_Rome.jpg/994px-Giovanni_Paolo_Panini\_–_Ancient_Rome.jpg
+  data-background-image: https://hcommons.org/app/uploads/sites/1002372/2023/03/gotou-xian-sonraku-zanshou-1989.jpg
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2023/03/gotou-xian-sonraku-zanshou-1989.jpg
   caption: "[Gotō]{.newthought} Sumio, Última luz do dia num vilarejo de Xian, 1989"
