@@ -9839,7 +9839,7 @@ references:
   event-place: São Paulo
   issued:
     - year: 1980
-  language: pt
+  language: pt-BR
   publisher: Difel
   publisher-place: São Paulo
   source: Open WorldCat
@@ -10431,7 +10431,7 @@ references:
     - family: Walcher
       given: Heidi A.
   citation-key: walcher:1997paradise
-  container-title: Middle Eastern Natural Environments J
+  container-title: Middle Eastern Natural Environments Journal
   issued:
     - year: 1997
   language: en
