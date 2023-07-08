@@ -6,11 +6,11 @@ vpath %.html . _includes _layouts _site
 vpath %.scss _sass slides/reveal.js/css/theme/template
 vpath %.yaml . _spec _data
 
-PANDOC_VERSION  := 3.1.1
-JEKYLL_VERSION  := 4.2.2
-PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
-	-u "`id -u`:`id -g`" pandoc/core:$(PANDOC_VERSION)
-JEKYLL := palazzo/jekyll-pandoc:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
+PANDOC_V  := 3.1.1
+JEKYLL_V  := 4.2.2
+PANDOC := docker run --rm -v "`pwd`:/data" \
+	-u "`id -u`:`id -g`" pandoc/core:$(PANDOC_V)
+JEKYLL := palazzo/jekyll-pandoc:$(JEKYLL_V)-$(PANDOC_V)
 
 ASSETS  = $(wildcard assets/*)
 AULA    = $(wildcard _aula/*.md)
@@ -30,7 +30,7 @@ slides/%/index.html : _aula/%.md revealjs.yaml \
 	revealjs-crossref.yaml biblio.yaml $(SASS) \
 	assets/css/revealjs-main.scss
 	@-mkdir -p $(@D)
-	@$(PANDOC/CROSSREF) -o $@ -d _spec/revealjs.yaml $<
+	@$(PANDOC) -o $@ -d _spec/revealjs.yaml $<
 	@echo $(@D)
 
 .PRECIOUS : assets/css/revealjs-main.scss

@@ -216,12 +216,7 @@ kramdown:
   enable_coderay: false
 pandoc:
   extensions:
-    - defaults: "_spec/html.yaml"
-    - bibliography: "_data/biblio.yaml"
-    - csl: "https://raw.githubusercontent.com/citation-style-language/styles/master/chicago-note-bibliography-with-ibid.csl"
-    - section-divs
-    #- toc
-    #- template: "_lib/default.html5"
+    - defaults: "_data/defaults.yaml"
 relative_links:
   enabled: true
   collections: true
@@ -229,6 +224,7 @@ relative_links:
 
 # Sass/SCSS
 sass:
+  quiet_deps: true
   sass_dir: _sass
   style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 

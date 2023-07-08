@@ -2,6 +2,7 @@ source "https://rubygems.org"
 gem "jekyll", "4.2.2"
 gem "minimal-mistakes-jekyll", "~> 4.24"
 gem "stringex"
+gem "webrick"
 group :jekyll_plugins do
   gem "jekyll-data"
   gem "jekyll-feed"
