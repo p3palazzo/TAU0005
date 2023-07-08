@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -75,11 +80,10 @@ data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f4824017
 data-background-image="https://i.pinimg.com/originals/55/c3/d5/55c3d5f08f48240178c242309dd04255.jpg">Tipo
 da caverna</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:chambers-huts">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/chambers1759-gri_33125011135288_0017.jpg"
-id="fig:chambers-huts" class="slide-bg"
-alt="Cabanas primitivas segundo William Chambers" />
+class="slide-bg" alt="Cabanas primitivas segundo William Chambers" />
 <figcaption aria-hidden="true">Cabanas primitivas segundo William
 Chambers</figcaption>
 </figure>
@@ -128,10 +132,9 @@ escavada por dentro.</p>
 
 <div class="columns">
 <div class="column" style="width:51.5%;">
-<figure>
+<figure id="fig:chambers">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg/797px-Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg"
-id="fig:chambers"
 alt="Sir William Chambers (1723–1796), retrato pintado por Joshua Reynolds" />
 <figcaption aria-hidden="true">Sir William Chambers (1723–1796), retrato
 pintado por <a
@@ -139,10 +142,9 @@ href="https://commons.wikimedia.org/wiki/File:Sir_William_Chambers_by_Sir_Joshua
 Reynolds</a></figcaption>
 </figure>
 </div><div class="column" style="width:48.5%;">
-<figure>
+<figure id="fig:4mere">
 <img
 data-src="https://gallica.bnf.fr/ark:/12148/btv1b8423845w/f1.highres"
-id="fig:4mere"
 alt="Antoine Chrysosthome Quatremère de Quincy (1755–1849), retrato oficial do Instituto de Belas-Artes, 1820" />
 <figcaption aria-hidden="true">Antoine Chrysosthome Quatremère de Quincy
 (1755–1849), <a
@@ -171,10 +173,10 @@ o Egito e a Mesopotâmia. Aqui, vamos subverter essa hierarquia e tratar
 a caverna como o tipo de todas as culturas construtivas que se baseiam
 em massas de alvenaria portante.</p>
 </aside>
-<figure>
+<figure id="fig:cole-arcadian">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg"
-id="fig:cole-arcadian" class="outset"
+class="outset"
 alt="Thomas Cole, Decurso do império: o estado arcádio ou pastoral, 1836" />
 <figcaption aria-hidden="true">Thomas Cole, Decurso do império: o estado
 arcádio ou pastoral, 1836</figcaption>
@@ -183,10 +185,10 @@ arcádio ou pastoral, 1836</figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:karib">
 <img
 data-src="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png"
-id="fig:karib" class="line"
+class="line"
 alt="Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860" />
 <figcaption aria-hidden="true">Cabana dos índios karib em Trinidad e
 Tobago, apresentada na exposição universal de Londres em 1851 e
@@ -214,10 +216,9 @@ natural para ele, talvez até primordial. Mas essa distinção é mais uma
 regressão conceitual do que algo efetivamente atestado na história da
 arquitetura.</p>
 </aside>
-<figure>
+<figure id="fig:bsg">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg"
-id="fig:bsg"
 alt="Henri Labrouste, arquiteto, biblioteca Sainte-Geneviève, sala de leitura, Paris, 1842. Foto: Marie-Lan Nguyen, 2011" />
 <figcaption aria-hidden="true">Henri Labrouste, arquiteto, biblioteca
 Sainte-Geneviève, sala de leitura, Paris, 1842. Foto: <a
@@ -242,10 +243,10 @@ na beira do caminho para marcar a sua passagem.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:orangia">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/jarzombek2013-01.4a.png"
-id="fig:orangia" class="line"
+class="line"
 alt="Abrigos contra o vento no sítio arqueológico de Orangia I, África do Sul, Paleolítico médio, c. 130.000 a.p. Desenho: Andrew Ferentinos, baseado em Clavin Garth Sampson, 1968, publicado em Jarzombek, Architecture of First Societies" />
 <figcaption aria-hidden="true">Abrigos contra o vento no sítio
 arqueológico de Orangia I, África do Sul, Paleolítico médio, c. 130.000
@@ -291,10 +292,10 @@ importante quando a parede é construída com blocos pequenos — em geral,
 adobe ou tijolo cozido.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:flambagem">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/muraria-flambagem.png"
-id="fig:flambagem" class="line"
+class="line"
 alt="Resistência de paredes em alvenaria: (A) compressão axial por cargas permanentes e acidentais; (B) carga lateral acidental; (C) resistência lateral por atrito; (A′) vetor de carga excêntrica causando flambagem" />
 <figcaption aria-hidden="true">Resistência de paredes em alvenaria:
 <span class="smallcaps">(A)</span> compressão axial por cargas
@@ -307,10 +308,10 @@ excêntrica causando flambagem</figcaption>
 </section>
 <section id="flambagem-e-contraventamento" class="slide level2">
 <h2>Flambagem e contraventamento</h2>
-<figure>
+<figure id="fig:guadet1.221">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0221.png"
-id="fig:guadet1.221" class="line outset"
+class="line outset"
 alt="Seção ideal e prática de parede, segundo Julien Guadet, Éléments et théorie de l’architecture" />
 <figcaption aria-hidden="true">Seção ideal e prática de parede, segundo
 Julien Guadet, <em>Éléments et théorie de
@@ -335,10 +336,9 @@ esmagamento dos blocos. O que ela faz é evitar a deformação
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:chafurdao">
 <img
 data-src="https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg"
-id="fig:chafurdao"
 alt="Chafurdão no vale de Cales, Castelo de Vide, Alentejo, Portugal. ADER–AL, 2014" />
 <figcaption aria-hidden="true">Chafurdão no vale de Cales, Castelo de
 Vide, Alentejo, Portugal. <a
@@ -356,10 +356,9 @@ em todos os pontos da estrutura.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:serpentine">
 <img
 data-src="https://i.pinimg.com/originals/23/73/15/237315dd5bd540779b21a81eaa72edfa.jpg"
-id="fig:serpentine"
 alt="Muro serpenteante, Shaw nature reserve. Foto: Steve Bougeno, 2015" />
 <figcaption aria-hidden="true">Muro serpenteante, Shaw nature reserve.
 Foto: <a
@@ -387,10 +386,10 @@ Ele é atestado tanto na infraestrutura pública, como nas muralhas da
 cidade de Buhen (fig. 12), quanto nas paredes de casas, como na
 recém-escavada “cidade dourada” de Luxor. fig. 13</p>
 </aside>
-<figure>
+<figure id="fig:siegel">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/siegel2016-74.png"
-id="fig:siegel" class="line"
+class="line"
 alt="Planta e corte das muralhas de Buhen do Médio até o Novo Império. Siegel, “Development and function of serpentine and sinusoidal walls”" />
 <figcaption aria-hidden="true">Planta e corte das muralhas de Buhen do
 Médio até o Novo Império. Siegel, “Development and function of
@@ -399,10 +398,10 @@ serpentine and sinusoidal walls”</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:luxor">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/luxor-1.jpg"
-id="fig:luxor" class="outset"
+class="outset"
 alt="Vista das escavações da “cidade dourada” ou “encanto de Aten”, próxima a Luxor, datada do reinado de Amenhotep III (1388–1351 a.C.). Foto: Khaled Desouki/AFP, 2021" />
 <figcaption aria-hidden="true">Vista das escavações da “cidade dourada”
 ou “encanto de Aten”, próxima a Luxor, datada do reinado de Amenhotep
@@ -413,10 +412,9 @@ class="smallcaps">AFP</span>, 2021</figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:saqqara">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Saqqara_-_Pyramid_of_Djoser_-_entrance_to_mortuary_temple.JPG"
-id="fig:saqqara"
 alt="Recinto murado do complexo mortuário do faraó Djoser em Saqqara, Egito, c. 2670–2650 a.C., em alvenaria de pedra com ressaltos. Foto: Maveric149, 2008" />
 <figcaption aria-hidden="true">Recinto murado do complexo mortuário do
 faraó Djoser em Saqqara, Egito, c. 2670–2650 a.C., em alvenaria de pedra
@@ -441,10 +439,10 @@ janelas.</p>
 <section id="contrafortes" class="slide level2">
 <h2>Contrafortes</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:guadet1.249">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0249.png"
-id="fig:guadet1.249" class="line"
+class="line"
 alt="Esquema em planta de parede com contrafortes (A), segundo Julien Guadet" />
 <figcaption aria-hidden="true">Esquema em planta de parede com
 contrafortes <span class="smallcaps">(A)</span>, segundo Julien
@@ -466,10 +464,9 @@ garantem a estabilidade do conjunto (fig. 8).</p>
 contrafortes, que eventualmente assumem a forma de pilastras ou colunas
 “decorativas” na fachada. fig. 16</p>
 </aside>
-<figure>
+<figure id="fig:baalbek">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif/lossy-page1-1242px-Fotografi_på_romerska_tempelruiner_i_Balbek_-_Hallwylska_museet_-_104284.tif.jpg"
-id="fig:baalbek"
 alt="Colunas embutidas formando contrafores no interior da cela do templo de Baco, Baalbek, século II d.C. Foto: Félix Bonfils" />
 <figcaption aria-hidden="true">Colunas embutidas formando contrafores no
 interior da cela do templo de Baco, Baalbek, século <span
@@ -481,19 +478,18 @@ Bonfils</a></figcaption>
 </section>
 <section id="alinhamento-vertical" class="slide level2">
 <h2>Alinhamento vertical</h2>
-<div id="fig:porteafaux" class="subfigures full">
+<figure id="fig:porteafaux" class="full">
 <p><img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0252.png"
-title="fig:" id="fig:guadet1.252" class="line" style="width:18.0%" />
-<img data-src="" title="fig:" id="fig:nil" style="width:0.0%" /> <img
+id="fig:guadet1.252" class="line" style="width:18.0%"
+alt="correto: a estrutura de cima não ultrapassa o alinhamento de baixo" />
+<img data-src="" id="fig:nil" style="width:0.0%" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0256.png"
-title="fig:" id="fig:guadet1.256" class="line"
-style="width:77.0%" /></p>
-<p>Alinhamentos estruturais em alvenaria, segundo Julien Guadet.
-a – correto: a estrutura de cima não ultrapassa o alinhamento de baixo,
-c – errado: a base da estrutura de cima está em balanço sobre o
-alinhamento de baixo</p>
-</div>
+id="fig:guadet1.256" class="line" style="width:77.0%"
+alt="errado: a base da estrutura de cima está em balanço sobre o alinhamento de baixo" /></p>
+<figcaption><p>Alinhamentos estruturais em alvenaria, segundo Julien
+Guadet</p></figcaption>
+</figure>
 <aside class="notes">
 <p>Para finalizar, é sempre importante lembrar que uma parede de
 alvenaria só funciona à compressão pura. Isso quer dizer que o seu
@@ -567,10 +563,10 @@ construção murária: as paredes em pedra seca e as encostas rochosas
 aparentemente começam a ser usadas como arrimo ou acabamento para
 espaços semienterrados (fig. 18).</p>
 </aside>
-<figure>
+<figure id="fig:mesa-verde">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Mesa_Verde_National_Park_-_Cliff_Palace.jpg/2560px-Mesa_Verde_National_Park_-_Cliff_Palace.jpg"
-id="fig:mesa-verde" class="outset"
+class="outset"
 alt="Vestígios arqueológicos da povoação dita Cliff Palace, c. 1100–1300 d.C. Parque nacional Mesa Verde, Colorado, Estados Unidos. Foto: M.P. Sharwood, 2011" />
 <figcaption aria-hidden="true">Vestígios arqueológicos da povoação dita
 Cliff Palace, c. 1100–1300 d.C. Parque nacional Mesa Verde, Colorado,
@@ -582,10 +578,9 @@ Sharwood, 2011</a></figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:gt-pano">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"
-id="fig:gt-pano"
 alt="Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: Rolf Cosar, 2010" />
 <figcaption aria-hidden="true">Vista panorâmica parcial do sítio
 arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: <a
@@ -606,10 +601,9 @@ alguma cobertura, são grandes lajes de pedra.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:gt-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png/777px-The_archaeological_site_of_Göbekli_Tepe_-_main_excavation_area.png"
-id="fig:gt-plan"
 alt="Göbekli Tepe, vista aérea das escavações. Foto: E. Kücuk, Instituto Arqueológico Alemão (DAI), 2019" />
 <figcaption aria-hidden="true">Göbekli Tepe, vista aérea das escavações.
 Foto: <a
@@ -658,10 +652,10 @@ Crescente fértil, foram construídos desse modo entre 9600 e 8500 a.C.
 se fosse o caso, a semelhança com cavernas seria ainda mais
 marcante.</p>
 </aside>
-<figure>
+<figure id="fig:gt-natgeo">
 <img
 data-src="https://i.pinimg.com/originals/6b/f8/67/6bf8674353e270e052c3e571526de747.jpg"
-id="fig:gt-natgeo" class="outset"
+class="outset"
 alt="Construção dos recintos de Göbekli Tepe, c. 9600 a.C. Desenho: Fernando Baptista, 2016" />
 <figcaption aria-hidden="true">Construção dos recintos de Göbekli Tepe,
 c. 9600 a.C. Desenho: <a
@@ -672,10 +666,9 @@ Baptista, 2016</a></figcaption>
 <section id="antas-e-túmulos" class="slide level2">
 <h2>Antas e túmulos</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:tarxien-aer">
 <img
 data-src="https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg"
-id="fig:tarxien-aer"
 alt="Vista aérea dos templos megalíticos de Ħal Tarxien, Malta, 3250–3000 a.C." />
 <figcaption aria-hidden="true">Vista aérea dos templos megalíticos de
 Ħal Tarxien, Malta, 3250–3000 a.C.</figcaption>
@@ -684,10 +677,9 @@ alt="Vista aérea dos templos megalíticos de Ħal Tarxien, Malta, 3250–3000 a
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:tarxien-axis">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg/1280px-Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg"
-id="fig:tarxien-axis"
 alt="Vista do templo central de Ħal Tarxien, ao longo do eixo que vai do portal principal ao altar, c. 3100 a.C. Foto: Ethan Doyle White, 2017" />
 <figcaption aria-hidden="true">Vista do templo central de Ħal Tarxien,
 ao longo do eixo que vai do portal principal ao altar, c. 3100 a.C.
@@ -718,10 +710,10 @@ terrapleno por todos os lados, formando um túmulo, e poderiam ser usadas
 para vários propósitos rituais: desde sacrifícios religiosos até
 sepultamentos humanos.</p>
 </aside>
-<figure>
+<figure id="fig:pendilhe">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anta_orca_de_pendilhe_0486.JPG/1280px-Anta_orca_de_pendilhe_0486.JPG"
-id="fig:pendilhe" class="outset"
+class="outset"
 alt="Anta da orca de Pendilhe, Portugal, final do IV milênio a.C. Foto: João Carvalho, 2005" />
 <figcaption aria-hidden="true">Anta da orca de Pendilhe, Portugal, final
 do IV milênio a.C. Foto: <a
@@ -735,13 +727,15 @@ data-background-video-muted="true">
 <h2
 data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/Maeshowe_Chambered_Cairn-Orkney_3D_Scanning-DX-OBFdUTE-1080p-25fps.webm"
 data-background-video-muted="true"></h2>
-<div id="fig:maes-3d" class="subfigures iframe-wrapper slide-bg outset">
+<figure id="fig:maes-3d"
+class="subfigures iframe-wrapper slide-bg outset">
 <iframe width="1600" height="900" class="slide-bg" src="https://www.youtube-nocookie.com/embed/_DX-OBFdUTE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Modelo tridimensional do túmulo de Maeshowe, ilhas Órcades, Escócia,
-c. 2800 a.C. <a href="https://youtu.be/_DX-OBFdUTE">Historic Environment
-Scotland, 2012</a>. </p>
-</div>
+<figcaption><p>Modelo tridimensional do túmulo de Maeshowe, ilhas
+Órcades, Escócia, c. 2800 a.C. <a
+href="https://youtu.be/_DX-OBFdUTE">Historic Environment Scotland,
+2012</a>. </p></figcaption>
+</figure>
 <!--_-->
 <aside class="notes">
 <p>Nas ilhas Órcades, o túmulo neolítico de Maeshowe, de c. 2800 a.C.
@@ -759,10 +753,9 @@ diante do eixo do corredor (fig. 26), pelo qual a luz do sol entra no
 dia do solstício de inverno.</p>
 </aside>
 <div class="align-right">
-<figure>
+<figure id="fig:maeshowe-sec">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif"
-id="fig:maeshowe-sec"
 alt="Cortes do túmulo de Maeshowe. Fantoman400, 2006" />
 <figcaption aria-hidden="true">Cortes do túmulo de Maeshowe. <a
 href="https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif">Fantoman400,
@@ -772,10 +765,9 @@ href="https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif">Fant
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:maeshowe-plan">
 <img
 data-src="https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg"
-id="fig:maeshowe-plan"
 alt="Planta do túmulo de Maeshowe, ilhas Órcades, Escócia, c. 2800 a.C. Desenho: F.W.I. Thomas, após 1861" />
 <figcaption aria-hidden="true">Planta do túmulo de Maeshowe, ilhas
 Órcades, Escócia, c. 2800 a.C. Desenho: F.W.I. Thomas, após
@@ -804,10 +796,10 @@ túmulo, as casas de Skara Brae são formadas por uma câmara central com
 células anexas. A sua estrutura é construída com paredes muito espessas
 de pedra lavrada (fig. 28).</p>
 </aside>
-<figure>
+<figure id="fig:skb-plan">
 <img
 data-src="https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg"
-id="fig:skb-plan" class="outset"
+class="outset"
 alt="Planta da aldeia neolítica de Skara Brae, ilhas Órcades, Escócia, 3100–2800 a.C. Desenho adaptado de V. Gordon Childe, 1930" />
 <figcaption aria-hidden="true">Planta da aldeia neolítica de Skara Brae,
 ilhas Órcades, Escócia, 3100–2800 a.C. Desenho adaptado de V. Gordon
@@ -820,14 +812,14 @@ data-background-video-muted="true">
 <h2
 data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/Skara_Brae-Inside_House_7-Rlkjf-i5_Qw-1080p-24fps.webm"
 data-background-video-muted="true"></h2>
-<div id="fig:skb-scan"
+<figure id="fig:skb-scan"
 class="subfigures iframe-wrapper slide-bg outset">
 <iframe width="1600" height="900" class="slide-bg" src="https://www.youtube-nocookie.com/embed/Rlkjf-i5_Qw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Modelo tridimensional da casa 7 em Skara Brae, 3100–2800 a.C. <a
-href="https://youtu.be/Rlkjf-i5_Qw">Historic Environment Scotland,
-2021</a>. </p>
-</div>
+<figcaption><p>Modelo tridimensional da casa 7 em Skara Brae, 3100–2800
+a.C. <a href="https://youtu.be/Rlkjf-i5_Qw">Historic Environment
+Scotland, 2021</a>. </p></figcaption>
+</figure>
 <aside class="notes">
 <p>As casas ainda são adossadas umas às outras para reduzir ao mínimo a
 exposição das paredes ao exterior (fig. 29). Isso evita a perda de calor
@@ -841,10 +833,9 @@ enraizada.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:skb-art">
 <img
 data-src="https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png"
-id="fig:skb-art"
 alt="Reconstituição da aldeia de Skara Brae vista desde o pátio de acesso ao corredor" />
 <figcaption aria-hidden="true">Reconstituição da aldeia de Skara Brae
 vista desde o pátio de acesso ao corredor</figcaption>
@@ -863,10 +854,9 @@ conjunto é coberto por um terrapleno apoiado em vigas de madeira
 sepultados dentro das próprias casas, debaixo das plataformas que
 serviam de bancos e camas (fig. 31).</p>
 </aside>
-<figure>
+<figure id="fig:skb-int">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/1280px-Skara_Brae_Beds.jpg"
-id="fig:skb-int"
 alt="Câmara de uma casa em Skara Brae, com lar central e três plataformas contra as paredes, célula satélite ao fundo. Foto: Archaeology Scotland, 2013" />
 <figcaption aria-hidden="true">Câmara de uma casa em Skara Brae, com lar
 central e três plataformas contra as paredes, célula satélite ao fundo.
@@ -877,10 +867,9 @@ Scotland, 2013</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:skb-dark">
 <img
 data-src="https://i.pinimg.com/originals/b2/3d/a4/b23da416cd5201b79654a6fd78a0f280.jpg"
-id="fig:skb-dark"
 alt="Reconstituição da câmara de uma casa em Skara Brae com a sua cobertura. Foto: Orkneyology" />
 <figcaption aria-hidden="true">Reconstituição da câmara de uma casa em
 Skara Brae com a sua cobertura. Foto: <a
@@ -895,10 +884,10 @@ proteção contra o vento (fig. 32).</p>
 </section>
 <section id="clima-árido" class="slide level2">
 <h2>Clima árido</h2>
-<figure>
+<figure id="fig:musta-chamber">
 <img
 data-src="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20210526192136801-0073:S0003598X2100051X:S0003598X2100051X_fig3.png"
-id="fig:musta-chamber" class="outset"
+class="outset"
 alt="Câmara semienterrada na extremidade de um mustatil. Fotos: Agência de Arqueologia do Reino da Arábia Saudita" />
 <figcaption aria-hidden="true">Câmara semienterrada na extremidade de um
 <em>mustatil</em>. Fotos: <a
@@ -930,10 +919,10 @@ Anatólia, datada de 7100 a.C. Çatal Höyük foi ocupada sazonalmente por
 uma comunidade agropastoril e tinha um tecido construído muito compacto,
 com poucos pátios internos e nenhuma rua. figs. 34, 35</p>
 </aside>
-<figure>
+<figure id="fig:catalhoyuk-vid">
 <video
 data-src="https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm"
-id="fig:catalhoyuk-vid" class="slide-bg outset" controls=""><a
+class="slide-bg outset" controls=""><a
 href="https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm">Reconstituição
 do tecido construído de Çatal Höyük, Anatólia, 7100–5700 a.C. ZDF,
 2020</a></video>
@@ -945,10 +934,10 @@ class="smallcaps">ZDF</span>, 2020</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:catalhoyuk-plan">
 <img
 data-src="https://i.pinimg.com/originals/b4/7c/91/b47c9135a83f1695150a0214ad5204bf.png"
-id="fig:catalhoyuk-plan" class="line outset"
+class="line outset"
 alt="Planta da aldeia neolítica de Çatal Höyük. Contorno pontilhado: pátios externos" />
 <figcaption aria-hidden="true">Planta da aldeia neolítica de Çatal
 Höyük. Contorno pontilhado: pátios externos</figcaption>
@@ -960,10 +949,10 @@ data-background-position="top">
 <h2
 data-background-image="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png"
 data-background-position="top"></h2>
-<figure>
+<figure id="fig:catalhoyuk-build">
 <img
 data-src="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png"
-id="fig:catalhoyuk-build" class="outset"
+class="outset"
 alt="Diagrama dos sistemas construtivos de uma célula em Çatal Höyük" />
 <figcaption aria-hidden="true">Diagrama dos sistemas construtivos de uma
 célula em Çatal Höyük</figcaption>
@@ -986,10 +975,10 @@ exemplares mais característicos desse tipo (fig. 37). Ela é literalmente
 escavada na rocha, como a maioria das tumbas da nobreza etrusca, e tem
 um espaço central de onde irradiam as células para os sarcófagos.</p>
 </aside>
-<figure>
+<figure id="fig:cerveteri">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tomba_dei_Rilievi_(Banditaccia).jpg/1280px-Tomba_dei_Rilievi_(Banditaccia).jpg"
-id="fig:cerveteri" class="outset"
+class="outset"
 alt="Interior da tumba dos relevos, necrópole etrusca de Banditaccia, Cisra (atual Cerveteri), Itália, c. 400 a.C. Foto: Roberto Ferrari, 2009" />
 <figcaption aria-hidden="true">Interior da tumba dos relevos, necrópole
 etrusca de Banditaccia, Cisra (atual Cerveteri), Itália, c. 400 a.C.
@@ -1001,10 +990,10 @@ Ferrari, 2009</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:atrium">
 <img
 data-src="https://i.pinimg.com/originals/40/2e/13/402e13bd5ac00b1e990deb42b8057136.jpg"
-id="fig:atrium" class="line" alt="Casa com átrio romana" />
+class="line" alt="Casa com átrio romana" />
 <figcaption aria-hidden="true">Casa com átrio romana</figcaption>
 </figure>
 </div>
@@ -1024,10 +1013,9 @@ para as línguas românicas modernas.</p>
 </section>
 <section id="section-10" class="slide level2" data-visibility="hidden">
 <h2 data-visibility="hidden"></h2>
-<figure>
+<figure id="fig:marzabotto">
 <img
 data-src="https://journals.openedition.org/gallia/docannexe/image/5147/img-5.jpg"
-id="fig:marzabotto"
 alt="Casas na insula V3 de Marzabotto, século IV a.C. Gailledrat e Vacheret, 2020" />
 <figcaption aria-hidden="true">Casas na <em>insula</em> V3 de
 Marzabotto, século <span class="smallcaps">IV</span> a.C. <a
@@ -1037,8 +1025,8 @@ href="https://doi.org/10.4000/gallia.5147">Gailledrat e Vacheret,
 </section>
 <section id="conclusão-1" class="slide level2">
 <h2>Conclusão</h2>
-<figure>
-<img data-src="" id="fig:skb-catal" class="line outset"
+<figure id="fig:skb-catal">
+<img data-src="" class="line outset"
 alt="Corte esquemático de uma câmara típica de Çatal Höyük e de Skara Brae" />
 <figcaption aria-hidden="true">Corte esquemático de uma câmara típica de
 Çatal Höyük e de Skara Brae</figcaption>
@@ -1088,10 +1076,10 @@ extração de matérias-primas deixa para trás uma pegada ambiental
 caracterizada pelo desperdício de recursos e pela destruição e
 contaminação de espaços muito vastos (fig. 41).</p>
 </aside>
-<figure>
+<figure id="fig:quarry">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-truck-driving-down-into-a-quarry-20988-medium.mp4"
-id="fig:quarry" class="outset slide-bg" controls=""><a
+class="outset slide-bg" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-truck-driving-down-into-a-quarry-20988-medium.mp4">Caminhão
 e maquinário numa pedreira. Mixkit</a></video>
 <figcaption aria-hidden="true">Caminhão e maquinário numa pedreira. <a
@@ -1100,10 +1088,10 @@ href="https://mixkit.co/free-stock-video/truck-driving-down-into-a-quarry-20988/
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:trieste">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Trieste_Cattedrale_di_San_Giusto_spolia1.jpg/1280px-Trieste_Cattedrale_di_San_Giusto_spolia1.jpg"
-id="fig:trieste" class="outset"
+class="outset"
 alt="Campanário da catedral de Trieste, 1302–1320, incorporando fragmentos do friso dos propileus da cidade romana, século I d.C. Foto: Matthias Kabel, 2009" />
 <figcaption aria-hidden="true">Campanário da catedral de Trieste,
 1302–1320, incorporando fragmentos do friso dos propileus da cidade
@@ -1136,10 +1124,10 @@ matéria-prima do gesso. O calcário geralmente se deposita em leitos ou
 veios sucessivos, e por isso tem um <em>grão</em> linear que precisa ser
 levado em conta no uso estrutural dos blocos.</p>
 </aside>
-<figure>
+<figure id="fig:hagar">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Ħaġar_Qim,_megalit_templom_bejárata.jpg/1280px-Ħaġar_Qim,_megalit_templom_bejárata.jpg"
-id="fig:hagar" class="outset"
+class="outset"
 alt="Monumento megalítico de Ħaġar Qim, Malta, 3200 a 2500 a.C., construído em calcário. Foto: Kiss Tamás, 1999" />
 <figcaption aria-hidden="true">Monumento megalítico de Ħaġar Qim, Malta,
 3200 a 2500 a.C., construído em calcário. Foto: <a
@@ -1171,10 +1159,10 @@ ou seja, extraídas de encostas ou poços, como neste barranco no Malaui
 (fig. 44), e não recolhidas na superfície, da margem de rios ou do
 mar.</p>
 </aside>
-<figure>
+<figure id="fig:claypit">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extracting_clay_to_produce_bricks.jpg/1280px-Extracting_clay_to_produce_bricks.jpg"
-id="fig:claypit" class="outset"
+class="outset"
 alt="Extração de argila para olaria em Mlala, Dwangwa, Malaui. Foto: Bibiloucapetown, 2017" />
 <figcaption aria-hidden="true">Extração de argila para olaria em Mlala,
 Dwangwa, Malaui. Foto: <a
@@ -1189,10 +1177,10 @@ data-background-video-loop="true" data-background-video-muted="true">
 data-background-video="https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm"
 data-background-video-loop="true"
 data-background-video-muted="true"></h2>
-<figure>
+<figure id="fig:qom">
 <video
 data-src="https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm"
-id="fig:qom" class="outset slide-bg" controls=""><a
+class="outset slide-bg" controls=""><a
 href="https://upload.wikimedia.org/wikipedia/commons/8/81/BRICKS_•_Traditional_Craftsmen_•_Qom_•_IRAN.webm">Produção
 de tijolos numa olaria em Qom, Irã. Oxlaey, 2015</a></video>
 <figcaption aria-hidden="true">Produção de tijolos numa olaria em Qom,
@@ -1250,10 +1238,10 @@ semelhantes: a queima com redução de oxigênio, como neste forno de cal
 do século <span class="smallcaps">XVIII</span> <span class="citation"
 data-cites="quintana:2005cal5">(Quintana Frías)</span> (fig. 46).</p>
 </aside>
-<figure>
+<figure id="fig:montesa">
 <img
 data-src="https://i.pinimg.com/originals/ac/8e/55/ac8e55c8f040fb3f87cde0d1bbb80be6.png"
-id="fig:montesa" class="nobg"
+class="nobg"
 alt="Forno de cal de Montesa, Valência, Espanha, século XVIII. Modelagem: Pablo Aparicio Reso, 2013" />
 <figcaption aria-hidden="true">Forno de cal de Montesa, Valência,
 Espanha, século <span class="smallcaps">XVIII</span>. Modelagem: <a
@@ -1264,10 +1252,9 @@ Aparicio Reso, 2013</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:tufo">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tufo_Necropoli_della_Banditaccia.JPG/800px-Tufo_Necropoli_della_Banditaccia.JPG"
-id="fig:tufo"
 alt="Parede em blocos de tufo na necrópole etrusca de Banditaccia, Itália, c. século VI a.C. Foto: Patafisik, 2009" />
 <figcaption aria-hidden="true">Parede em blocos de tufo na necrópole
 etrusca de Banditaccia, Itália, c. século <span
@@ -1322,10 +1309,10 @@ mostram a resistência e durabilidade da argamassa pozolânica dos antigos
 romanos, que forma uma parede quase monolítica e consegue se sustentar
 até em balanço (fig. 48).</p>
 </aside>
-<figure>
+<figure id="fig:7bassi">
 <img
 data-src="https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/17dbb929034927.55dec1733efd3.jpg"
-id="fig:7bassi" class="outset"
+class="outset"
 alt="Vestígios de alvenaria romana na villa dei Sette Bassi, sudeste de Roma, 134–160 d.C. Foto do projeto de Ana Cristina Azevedo, Eduardo Sinegaglia, Gianluca Vassalo Paleologo, Ivy Stefanie Ramos Baclig, Juliana Lisboa, Marina Amaral e Riccardo Vassalo Paleologo, Università degli studi di Roma Tre, 2014–2015" />
 <figcaption aria-hidden="true">Vestígios de alvenaria romana na villa
 dei Sette Bassi, sudeste de Roma, 134–160 d.C. Foto do projeto de <a
@@ -1342,13 +1329,14 @@ data-background-video-muted="true">
 <h2
 data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/tadelakt-el-arte-de-las-caricias.webm"
 data-background-video-muted="true"></h2>
-<div id="fig:tadelakt"
+<figure id="fig:tadelakt"
 class="subfigures iframe-wrapper outset slide-bg">
 <iframe src="https://www.youtube-nocookie.com/embed/s6zFL6N2byg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Aplicação de <em>tadelakt</em> na Espanha. Filmagem: <a
-href="https://youtu.be/s6zFL6N2byg">Frecuencia Tierra, 2020</a>. </p>
-</div>
+<figcaption><p>Aplicação de <em>tadelakt</em> na Espanha. Filmagem: <a
+href="https://youtu.be/s6zFL6N2byg">Frecuencia Tierra, 2020</a>.
+</p></figcaption>
+</figure>
 <aside class="notes">
 <p>O mesmo material usado para o assentamento dos blocos também pode ser
 usado no revestimento de paredes e mesmo de pisos. O <em>tadelakt</em>
@@ -1393,10 +1381,10 @@ possível para o conjunto, tendo em vista os materiais e técnicas
 disponíveis para formar os blocos. Por isso, a primeira regra em todo
 aparelho é fazer juntas verticais desencontradas (figs. 50, 51).</p>
 </aside>
-<figure>
+<figure id="fig:guadet1.222">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0222.png"
-id="fig:guadet1.222" class="line outset"
+class="line outset"
 alt="Aparelhos com (A) juntas verticais alinhadas (errado) e (B) desencontradas (correto), segundo Julien Guadet" />
 <figcaption aria-hidden="true">Aparelhos com <span
 class="smallcaps">(A)</span> juntas verticais alinhadas (errado) e <span
@@ -1406,10 +1394,10 @@ Guadet</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:guadet1.247">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/05/elementsettheori01guad_0247-q.png"
-id="fig:guadet1.247" class="line outset"
+class="line outset"
 alt="Amarrações de tijolos, segundo Julien Guadet" />
 <figcaption aria-hidden="true">Amarrações de tijolos, segundo Julien
 Guadet</figcaption>
@@ -1423,10 +1411,10 @@ pedras são recolhidas na superfície do solo e, em geral, usadas no
 estado em que foram encontradas. A pedra seca é usada sobretudo para
 construir muretas para cercar pastos (fig. 52).</p>
 </aside>
-<figure>
+<figure id="fig:reculfoz">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg/1280px-Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg"
-id="fig:reculfoz" class="outset"
+class="outset"
 alt="Restauro de um muro em pedra seca, Reculfoz, França, 2014" />
 <figcaption aria-hidden="true">Restauro de um muro em pedra seca, <a
 href="https://commons.wikimedia.org/wiki/File:Restauration_de_murs_de_pierres_sèches_DSC_0168.jpg">Reculfoz,
@@ -1435,10 +1423,10 @@ França, 2014</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:lassure">
 <img
 data-src="https://i.pinimg.com/originals/2d/e6/da/2de6da73ff2048ad09b5c34d870b750d.jpg"
-id="fig:lassure" class="outset"
+class="outset"
 alt="Muro em pedra seca com perpianhos, c. 1780–1820. Christian Lassure e Catherine Ropert, 1984" />
 <figcaption aria-hidden="true">Muro em pedra seca com perpianhos,
 c. 1780–1820. <a
@@ -1465,10 +1453,10 @@ costumam ser assentadas com uma argamassa simples, que pode ser
 simplesmente barro, uma mistura de barro com cal, ou ainda uma argamassa
 de cal e areia (fig. 54).</p>
 </aside>
-<figure>
+<figure id="fig:lavrada-mixkit">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-metal-gate-against-a-stone-wall-15373-medium.mp4"
-id="fig:lavrada-mixkit" class="slide-bg" controls=""><a
+class="slide-bg" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-metal-gate-against-a-stone-wall-15373-medium.mp4">Muro
 em pedra lavrada</a></video>
 <figcaption aria-hidden="true">Muro em pedra lavrada</figcaption>
@@ -1495,10 +1483,9 @@ data-visibility="hidden"></h2>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:ciclop-cusco">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg/1280px-Peru_-_Cusco_014b_-_Inca_wall_(7084752541).jpg"
-id="fig:ciclop-cusco"
 alt="Parede incaica em aparelho poligonal, Cusco. Foto: McKay Savage, 2012" />
 <figcaption aria-hidden="true">Parede incaica em aparelho poligonal,
 Cusco. Foto: <a
@@ -1516,10 +1503,9 @@ fig. 55</p>
 <section class="slide level2">
 
 <!--_-->
-<figure>
+<figure id="fig:saqsaywaman">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Peru_-_Flickr_-_Jarvis-31.jpg/1280px-Peru_-_Flickr_-_Jarvis-31.jpg"
-id="fig:saqsaywaman"
 alt="Saqsaywamán, fortificação em aparelho poligonal perto de Cusco, império inca, 1438. Foto: Dennis Jarvis, 2009" />
 <figcaption aria-hidden="true">Saqsaywamán, fortificação em aparelho
 poligonal perto de Cusco, império inca, 1438. Foto: <a
@@ -1559,10 +1545,10 @@ construtivos começam a sobressair por debaixo desse revestimento como se
 fossem molduras decorativas, especialmente articulando os cantos,
 rodapés e coroamentos.</p>
 </aside>
-<figure>
+<figure id="fig:catalhoyuk-dio">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Catal_Hüyük_EL.JPG/1280px-Catal_Hüyük_EL.JPG"
-id="fig:catalhoyuk-dio" class="outset"
+class="outset"
 alt="Diorama de uma célula em Çatal Höyük. Foto: Eleicht, 2009" />
 <figcaption aria-hidden="true">Diorama de uma célula em Çatal Höyük.
 Foto: <a
@@ -1579,10 +1565,10 @@ data-visibility="hidden"></h2>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:ciclop-lions">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Path_upto_the_Lion_Gate,_Mycenae_(28693130016).jpg/1280px-Path_upto_the_Lion_Gate,_Mycenae_(28693130016).jpg"
-id="fig:ciclop-lions" class="outset"
+class="outset"
 alt="Porta dos Leões, cidade heládica de Micenas, Grécia, c. 1350 a.C. Foto: Andy Hay, 2016" />
 <figcaption aria-hidden="true">Porta dos Leões, cidade heládica de
 Micenas, Grécia, c. 1350 a.C. Foto: <a
@@ -1609,10 +1595,10 @@ pedras maiores e mais regulares eram usadas para dar a amarração das
 quinas dos pilares e das paredes, e os miolos foram preenchidos com
 pedras menores (fig. 59).</p>
 </aside>
-<figure>
+<figure id="fig:ciclop-palenque">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/A-shaped_Corbel_Archs_-_Palenque_Maya_Site,_Feb_2020.jpg/1280px-A-shaped_Corbel_Archs_-_Palenque_Maya_Site,_Feb_2020.jpg"
-id="fig:ciclop-palenque" class="outset"
+class="outset"
 alt="Palácio maia no sítio de Palenque, atual México, século VII d.C. Foto: Bernard Dupont, 2020" />
 <figcaption aria-hidden="true">Palácio maia no sítio de Palenque, atual
 México, século <span class="smallcaps">VII</span> d.C. Foto: <a
@@ -1628,10 +1614,10 @@ data-background-video-muted="true">
 data-background-video="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-ancient-mayan-ruins-in-mexico-4467.mp4"
 data-background-video-muted="true"></h2>
 <div class="full">
-<figure>
+<figure id="fig:mayan-mixkit">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-ancient-mayan-ruins-in-mexico-4467.mp4"
-id="fig:mayan-mixkit" class="slide-bg" controls=""><a
+class="slide-bg" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/muraria/mixkit-ancient-mayan-ruins-in-mexico-4467.mp4">Palácios
 maias</a></video>
 <figcaption aria-hidden="true">Palácios maias</figcaption>
@@ -1646,10 +1632,10 @@ fig. 60</p>
 <section id="cantaria" class="slide level2">
 <h2>Cantaria</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:guadet1.228">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0228.png"
-id="fig:guadet1.228" class="line"
+class="line"
 alt="Amarração de parede em cantaria, segundo Julien Guadet" />
 <figcaption aria-hidden="true">Amarração de parede em cantaria, segundo
 Julien Guadet</figcaption>
@@ -1672,10 +1658,9 @@ identidade entre cantaria de pedra e arquitetura clássica grega é tão
 forte que Vitrúvio chama as paredes em cantaria de “aparelho grego”
 (fig. 62).</p>
 </aside>
-<figure>
+<figure id="fig:erechtheion">
 <img
 data-src="https://live.staticflickr.com/65535/50972614793_c11bf0abac_k_d.jpg"
-id="fig:erechtheion"
 alt="Mnésicles, arquiteto, Erecteu, Atenas, 421–406 a.C. Parede estrutural em cantaria de pedra simples. Foto: Pedro P. Palazzo, 2011" />
 <figcaption aria-hidden="true">Mnésicles, arquiteto, Erecteu, Atenas,
 421–406 a.C. Parede estrutural em cantaria de pedra simples. Foto: <a
@@ -1725,10 +1710,9 @@ data-background-transition="slide-in fade-out">
 <h2
 data-background-image="https://i.pinimg.com/originals/97/ef/74/97ef74a2550ee01847152232c33eb10b.png"
 data-background-transition="slide-in fade-out"></h2>
-<figure>
+<figure id="fig:testaceus">
 <img
 data-src="https://i.pinimg.com/originals/97/ef/74/97ef74a2550ee01847152232c33eb10b.png"
-id="fig:testaceus"
 alt="Parede em obra testácea, segundo Middleton, 1982, ap. Waddell, 2015" />
 <figcaption aria-hidden="true">Parede em obra testácea, segundo
 Middleton, 1982, <em>ap.</em> <a
@@ -1798,19 +1782,17 @@ data-background-size="contain">
 data-background-image="https://i.pinimg.com/originals/64/93/78/649378cbdcf844fac97ecda58d316b27.jpg"
 data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:opus">
 <img
 data-src="https://i.pinimg.com/originals/64/93/78/649378cbdcf844fac97ecda58d316b27.jpg"
-id="fig:opus"
 alt="Aparelhos romanos: em elevação, (a) incerto, (b) reticulado; (c) ambos, em planta" />
 <figcaption aria-hidden="true">Aparelhos romanos: em elevação, (a)
 incerto, (b) reticulado; (c) ambos, em planta</figcaption>
 </figure>
 </div>
-<figure>
+<figure id="fig:opus-mix">
 <img
 data-src="https://i.pinimg.com/originals/13/0d/c6/130dc6d70b9028964895db38f8db5582.jpg"
-id="fig:opus-mix"
 alt="Obra testácea associada ao aparelho reticulado e a fiadas de regularização em cantaria de pedra" />
 <figcaption aria-hidden="true">Obra testácea associada ao aparelho
 reticulado e a fiadas de regularização em cantaria de pedra</figcaption>
@@ -1871,10 +1853,10 @@ alinhamento; o mais comum é ela formar uma quina com outra parede. Essa
 junção entre paredes, perpendiculares ou não, sempre está sujeita a que
 os dois tramos se movimentem separadamente um do outro. fig. 66</p>
 </aside>
-<figure>
+<figure id="fig:guadet1.235">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0235.png"
-id="fig:guadet1.235" class="line outset"
+class="line outset"
 alt="Junção entre paredes não solidarizadas, segundo Julien Guadet" />
 <figcaption aria-hidden="true">Junção entre paredes não solidarizadas,
 segundo Julien Guadet</figcaption>
@@ -1889,11 +1871,10 @@ talhados em forma de aspa, T ou cruz que solidarizam as paredes no seu
 ponto de encontro (fig. 68).</p>
 </aside>
 <div class="align-right">
-<figure>
+<figure id="fig:guadet1.268">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0268.png"
-id="fig:guadet1.268" class="line"
-alt="Esquema de cunhais, segundo Julien Guadet" />
+class="line" alt="Esquema de cunhais, segundo Julien Guadet" />
 <figcaption aria-hidden="true">Esquema de cunhais, segundo Julien
 Guadet</figcaption>
 </figure>
@@ -1901,11 +1882,10 @@ Guadet</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:guadet1.236">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0236.png"
-id="fig:guadet1.236" class="line"
-alt="Cunhais em cantaria, segundo Julien Guadet" />
+class="line" alt="Cunhais em cantaria, segundo Julien Guadet" />
 <figcaption aria-hidden="true">Cunhais em cantaria, segundo Julien
 Guadet</figcaption>
 </figure>
@@ -1917,10 +1897,10 @@ Guadet</figcaption>
 ou alongada, para dar maior estabilidade estrutural e visual,
 especialmente na arquitetura monumental (fig. 69).</p>
 </aside>
-<figure>
+<figure id="fig:guadet1.243">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/elementsettheori01guad_0243.png"
-id="fig:guadet1.243" class="line outset"
+class="line outset"
 alt="Cunhais no meio de uma parede, segundo Julien Guadet" />
 <figcaption aria-hidden="true">Cunhais no meio de uma parede, segundo
 Julien Guadet</figcaption>
@@ -1929,10 +1909,10 @@ Julien Guadet</figcaption>
 <section id="conclusão-3" class="slide level2">
 <h2>Conclusão</h2>
 <div class="full">
-<figure>
+<figure id="fig:maxentius">
 <img
 data-src="https://i.pinimg.com/originals/19/0a/4e/190a4e3b97a612d17591f53bef75cc16.jpg"
-id="fig:maxentius" class="nobg"
+class="nobg"
 alt="Basílica de Maxêncio ou de Constantino, Roma, 306–312 d.C." />
 <figcaption aria-hidden="true">Basílica de Maxêncio ou de Constantino,
 Roma, 306–312 d.C.</figcaption>
@@ -1951,26 +1931,23 @@ class="smallcaps">IV</span> d.C. (fig. 70).</p>
 class="title-slide slide level1 unnumbered unlisted allowframebreaks">
 <h1 class="unnumbered unlisted allowframebreaks">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-alberti:2011arte" class="csl-entry" role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-alberti:2011arte" class="csl-entry" role="listitem">
 Alberti, Leon Battista. <em>Da arte edificatória</em>. Traduzido por
 Mário Júlio Teixeira Krüger, Fundação Calouste Gulbenkian, 2011.
 </div>
-<div id="ref-bar-yosef:1989origins3" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-bar-yosef:1989origins3" class="csl-entry" role="listitem">
 Bar-Yosef, Ofer, e Anna Belfer-Cohen. <span>“The Origins of Sedentism
 and Farming Communities in the Levant”</span>. <em>Journal of World
 Prehistory</em>, vol. 3, nº 4, dezembro de 1989, p. 447–98. <em>DOI.org
 (Crossref)</em>, <a
 href="https://doi.org/10.1007/BF00975111">https://doi.org/10.1007/BF00975111</a>.
 </div>
-<div id="ref-boethius:1978etruscan" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-boethius:1978etruscan" class="csl-entry" role="listitem">
 Boëthius, Axel. <em>Etruscan and Early Roman Architecture</em>. 2d
 integrated ed., rev, Penguin Books, 1978.
 </div>
-<div id="ref-chambers:1759treatise" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-chambers:1759treatise" class="csl-entry" role="listitem">
 Chambers, William. <em>A Treatise on Civil Architecture : In Which the
 Principles of That Art Are Laid down, and Illustrated by a Great Number
 of Plates Accurately Designed, and Elegantly Engraved by the Best
@@ -1978,16 +1955,14 @@ Hands</em>. Printed for the author by J. Haberkorn, 1759.
 <em>archive.org</em>, <a
 href="https://archive.org/details/gri_33125011135288">https://archive.org/details/gri_33125011135288</a>.
 </div>
-<div id="ref-gailledrat:2020lattes77" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-gailledrat:2020lattes77" class="csl-entry" role="listitem">
 Gailledrat, Éric, e Ariane Vacheret. <span>“Lattes/Lattara (Hérault),
 comptoir étrusque du littoral languedocien”</span>. <em>Gallia.
 Archéologie des Gaules</em>, vol. 77, nº 77-2, 2, dezembro de 2020, p.
 1–32. <em>journals.openedition.org</em>, <a
 href="https://doi.org/10.4000/gallia.5147">https://doi.org/10.4000/gallia.5147</a>.
 </div>
-<div id="ref-guadet:1915elements1" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-guadet:1915elements1" class="csl-entry" role="listitem">
 Guadet, Julien. <em>Éléments et théorie de l’architecture: cours
 professé à l’École nationale et spéciale des beaux-arts</em>.
 3<sup>e</sup> éd., vol. 1, Construction moderne, 1915. <em>BnF Catalogue
@@ -1995,36 +1970,33 @@ général (http://catalogue.bnf.fr)</em>, <a
 href="https://archive.org/details/elementsettheori01guad">https://archive.org/details/elementsettheori01guad</a>.
 </div>
 <div id="ref-jarzombek:2013architecture" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Jarzombek, Mark. <em>Architecture of First Societies: A Global
 Perspective</em>. Wiley, 2013.
 </div>
 <div id="ref-mascarenhas:2019tecnicas" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Mascarenhas, Jorge. <em>Técnicas para a reabilitação de edifícios</em>.
 Horizonte, 2019.
 </div>
-<div id="ref-palladio:1570quattro" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-palladio:1570quattro" class="csl-entry" role="listitem">
 Palladio, Andrea. <em>I quattro libri dell’architettura</em>. Dominico
 de’ Franceschi, 1570, <a
 href="https://archive.org/details/qvattrolibridel00pall/">https://archive.org/details/qvattrolibridel00pall/</a>.
 </div>
 <div id="ref-quatremere:1788caractere" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Quatremère de Quincy, Antoine Chrysosthome. <span>“Caractère”</span>.
 <em>Architecture</em>, organizado por A.C. Quatremère de Quincy, vol. 1,
 Panckouke, 1788, p. 477–518.
 </div>
-<div id="ref-quintana:2005cal5" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-quintana:2005cal5" class="csl-entry" role="listitem">
 Quintana Frías, Ignacio. <span>“Una de cal y otra de historia: los
 hornos de cal de Ituero y Lama (Segovia)”</span>. <em>De Re
 Metallica</em>, vol. 5, dezembro de 2005, p. 95–100. <em>Zotero</em>, <a
 href="http://www.sedpgym.es/publicaciones/revista-de-re-metallica/indices-resumenes-y-textos-completos-de-re-metallica/17-publicaciones/de-re-metallica/26-de-re-metallica-n-5-diciembre-2005">http://www.sedpgym.es/publicaciones/revista-de-re-metallica/indices-resumenes-y-textos-completos-de-re-metallica/17-publicaciones/de-re-metallica/26-de-re-metallica-n-5-diciembre-2005</a>.
 </div>
-<div id="ref-rosenberg:2020720015" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-rosenberg:2020720015" class="csl-entry" role="listitem">
 Rosenberg, Danny, et al. <span>“7,200 Years Old Constructions and
 Mudbrick Technology: The Evidence from Tel Tsaf, Jordan Valley,
 Israel”</span>. <em><span class="smallcaps">PLOS ONE</span></em>, vol.
@@ -2032,7 +2004,7 @@ Israel”</span>. <em><span class="smallcaps">PLOS ONE</span></em>, vol.
 href="https://doi.org/10.1371/journal.pone.0227288">https://doi.org/10.1371/journal.pone.0227288</a>.
 </div>
 <div id="ref-siegel:2016development52" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Siegel, Oren. <span>“The Development and Function of
 Serpentine/Sinusoidal Walls”</span>. <em>Journal of the American
 Research Center in Egypt</em>, vol. 52, nº 1, janeiro de 2016, p. 53–89.

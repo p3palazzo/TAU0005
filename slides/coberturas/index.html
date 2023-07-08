@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -77,10 +82,9 @@ desempenhos estruturais muito semelhantes.</p>
 <section id="de-volta-à-madeira" class="slide level2">
 <h2>De volta à madeira</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:laugier">
 <img
 data-src="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg"
-id="fig:laugier"
 alt="Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do Essai sur l’architecture de Marc-Antoine Laugier, 1755" />
 <figcaption aria-hidden="true">Charles Eisen, desenhista e gravurista,
 alegoria da cabana primitiva para a 2.ª edição do <em>Essai sur
@@ -98,10 +102,10 @@ cabana primitiva e da sua importância na literatura arquitetônica.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:karib">
 <img
 data-src="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png"
-id="fig:karib" class="line"
+class="line"
 alt="Cabana do povo karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860" />
 <figcaption aria-hidden="true">Cabana do povo karib em Trinidad e
 Tobago, apresentada na exposição universal de Londres em 1851 e
@@ -121,10 +125,9 @@ Londres em 1851 (fig. 2).</p>
 <section class="slide level2">
 
 <!--_-->
-<figure>
+<figure id="fig:cosimo-vulcan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg/1072px-Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg"
-id="fig:cosimo-vulcan"
 alt="Piero di Cosimo, Vulcano e Éolo, c. 1490, têmpera e óleo sobre tela. National Gallery of Canada" />
 <figcaption aria-hidden="true">Piero di Cosimo, Vulcano e Éolo, c. 1490,
 têmpera e óleo sobre tela. <a
@@ -157,10 +160,10 @@ moderna (fig. 4). O princípio de uma superfície inclinada para drenar a
 eficiência e simplicidade insuperável para a maioria das
 construções.</p>
 </aside>
-<figure>
+<figure id="fig:frame">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-wooden-frame-of-a-house-20941-medium.mp4"
-id="fig:frame" class="slide-bg" controls=""><a
+class="slide-bg" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-wooden-frame-of-a-house-20941-medium.mp4">Estrutura
 em madeira numa casa norte-americana moderna</a></video>
 <figcaption aria-hidden="true">Estrutura em madeira numa casa
@@ -174,10 +177,10 @@ data-background-video-muted="true" data-background-video-loop="true">
 data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-storm-water-running-down-a-roof-21212-medium.mp4"
 data-background-video-muted="true"
 data-background-video-loop="true"></h2>
-<figure>
+<figure id="fig:chuva">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-storm-water-running-down-a-roof-21212-medium.mp4"
-id="fig:chuva" class="slide-bg outset" controls=""><a
+class="slide-bg outset" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-storm-water-running-down-a-roof-21212-medium.mp4">Água
 da chuva correndo na superfície de um telhado</a></video>
 <figcaption aria-hidden="true">Água da chuva correndo na superfície de
@@ -216,10 +219,10 @@ barrotes relativamente próximos uns dos outros, apoiados sobre os
 frechais das paredes e, eventualmente, também sobre vigas intermediárias
 (fig. 6).</p>
 </aside>
-<figure>
+<figure id="fig:catalhoyuk-build">
 <img
 data-src="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png"
-id="fig:catalhoyuk-build" class="outset"
+class="outset"
 alt="Diagrama dos sistemas construtivos de uma célula em Çatal Höyük" />
 <figcaption aria-hidden="true">Diagrama dos sistemas construtivos de uma
 célula em Çatal Höyük</figcaption>
@@ -227,10 +230,10 @@ célula em Çatal Höyük</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:timber-roof">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Roof_parts_simplified.svg/1500px-Roof_parts_simplified.svg.png"
-id="fig:timber-roof" class="nobg slide-bg outset"
+class="nobg slide-bg outset"
 alt="Elementos da cobertura. 1 – viga de cumeeira, 2 – terças, 3 – caibros. Desenho: George Ponderevo, 2012" />
 <figcaption aria-hidden="true">Elementos da cobertura. 1 – viga de
 cumeeira, 2 – terças, 3 – caibros. Desenho: <a
@@ -268,10 +271,10 @@ retangular consiste em fazer um frechal mais elevado de um lado, e
 rebaixado do lado oposto. Os barrotes ficam, então, inclinados, e nessa
 forma passam a ser chamados de <em>caibros</em> (fig. 8).</p>
 </aside>
-<figure>
+<figure id="fig:shed">
 <img
 data-src="https://i.pinimg.com/originals/e1/b2/2e/e1b22ee08a42bbb67b121838be2b8e87.jpg"
-id="fig:shed" class="outset"
+class="outset"
 alt="Esquema de uma cobertura inclinada moderna. Modelo: Castorama.fr" />
 <figcaption aria-hidden="true">Esquema de uma cobertura inclinada
 moderna. Modelo: Castorama.fr</figcaption>
@@ -280,10 +283,9 @@ moderna. Modelo: Castorama.fr</figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:rafter-join">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rafter_and_tie-beam_joints_(Carpentry_and_Joinery,_1925).jpg/517px-Rafter_and_tie-beam_joints_(Carpentry_and_Joinery,_1925).jpg"
-id="fig:rafter-join"
 alt="Conexão de caibros com vigas, segundo Ednie, Carpentry and Joinery, 1925" />
 <figcaption aria-hidden="true">Conexão de caibros com vigas, segundo
 Ednie, <em>Carpentry and Joinery</em>, 1925</figcaption>
@@ -331,22 +333,27 @@ obter um acabamento preciso mesmo usando essências mais macias do que as
 usadas na Europa ou na Ásia continental <span class="citation"
 data-cites="zwerger:2012wood">(Zwerger)</span>.</p>
 </aside>
-<div id="fig:engel092-095" class="subfigures columns full">
+<figure id="fig:engel092-095" class="subfigures columns full">
 <div class="column" style="width:46.5%;">
-<figure>
+<figure id="fig:engel2020-092">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-092.png"
-id="fig:engel2020-092" class="line" />
+class="line" alt="juntas colineares" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:53.5%;">
-<figure>
+</div>
+<div class="column" style="width:53.5%;">
+<figure id="fig:engel2020-095">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-095.png"
-id="fig:engel2020-095" class="line" />
+class="line" alt="juntas ortogonais" />
+<figcaption></figcaption>
 </figure>
-</div><p>Juntas comuns na carpintaria japonesa, segundo Heino Engel,
-1985. a – juntas colineares, b – juntas ortogonais</p>
 </div>
+<figcaption><p>Juntas comuns na carpintaria japonesa, segundo Heino
+Engel, 1985. a – juntas colineares, b – juntas
+ortogonais</p></figcaption>
+</figure>
 </section>
 <section id="section-3" class="slide level2"
 data-background-image="https://media.gettyimages.com/illustrations/cross-section-illustration-of-early-wooden-circular-house-with-roof-illustration-id125176581?s=2048x2048"
@@ -368,14 +375,14 @@ frechais na outra extremidade. Essa era a configuração provável das
 cabanas do sítio neolítico de Banpö, na China, por volta de 5 mil anos
 atrás (fig. 11).</p>
 </aside>
-<div id="fig:banpo-cut" class="subfigures iframe-wrapper slide-bg">
+<figure id="fig:banpo-cut" class="subfigures iframe-wrapper slide-bg">
 <iframe src="//embed.gettyimages.com/embed/125176581?et=xATBWGLCSo9h2yL5ULImrw&amp;tld=pt&amp;sig=hCxsx9wsrb_BW8d5zZ8klq6o4qE3Ecbr1ZOxxxhgBdU=&amp;caption=true&amp;ver=1" scrolling="no" frameborder="0">
 </iframe>
-<p>Diagrama de uma casa neolítica com planta circular e cobertura
-cônica, Banpö, noroeste da China. © <a
+<figcaption><p>Diagrama de uma casa neolítica com planta circular e
+cobertura cônica, Banpö, noroeste da China. © <a
 href="http://www.gettyimages.pt/detail/125176581">Dorling
-Kindersley</a>. </p>
-</div>
+Kindersley</a>. </p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -384,10 +391,10 @@ Kindersley</a>. </p>
 <em>água</em>. A maioria das coberturas simples em construções
 retangulares isoladas tem duas ou quatro águas (fig. 12).</p>
 </aside>
-<figure>
+<figure id="fig:sienicki">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Wooden_roof_structure,_132,_ubt.JPG/1024px-Wooden_roof_structure,_132,_ubt.JPG"
-id="fig:sienicki" class="outset"
+class="outset"
 alt="Construção arruinada na Europa central com cobertura de duas águas. Foto: Tomasz Sienicki, 2009" />
 <figcaption aria-hidden="true">Construção arruinada na Europa central
 com cobertura de duas águas. Foto: <a
@@ -405,10 +412,10 @@ class="title-slide slide level1">
 <section id="carpintaria-japonesa" class="slide level2">
 <h2>Carpintaria japonesa</h2>
 <div class="full">
-<figure>
+<figure id="fig:engel2020-040.2">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel2020-040.2.png"
-id="fig:engel2020-040.2" class="line"
+class="line"
 alt="Esquema de uma cobertura de casa tradicional japonesa, segundo Heino Engel, 1985" />
 <figcaption aria-hidden="true">Esquema de uma cobertura de casa
 tradicional japonesa, segundo Heino Engel, 1985</figcaption>
@@ -431,10 +438,10 @@ data-cites="engel:1985measure">(Engel)</span> (fig. 13).</p>
 <p>Pode haver variações nessas combinações, como no caso japonês em que
 se cruzam os caibros para conferir maior rigidez à estrutura.</p>
 </aside>
-<figure>
+<figure id="fig:engel1985-088">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-088.1.png"
-id="fig:engel1985-088" class="line outset"
+class="line outset"
 alt="Coberturas do Japão arcaico, segundo Heino Engel, 1985" />
 <figcaption aria-hidden="true">Coberturas do Japão arcaico, segundo
 Heino Engel, 1985</figcaption>
@@ -442,10 +449,10 @@ Heino Engel, 1985</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:yoshinogari">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg/1024px-Warehouse_and_Market_area_in_Yoshinogari_Historical_Park_9.jpg"
-id="fig:yoshinogari" class="outset"
+class="outset"
 alt="Celeiros no sítio arqueológico de Yoshinogari, sudoeste do Japão, século III a.C., em reconstituição de finais do século XX. Foto: Soramimi, 2017" />
 <figcaption aria-hidden="true">Celeiros no sítio arqueológico de
 Yoshinogari, sudoeste do Japão, século <span
@@ -486,10 +493,10 @@ reentrantes onde se concentra o escoamento da água da chuva. O elemento
 recíproco ao rincão é o <em>espigão</em>, o ângulo convexo que serve
 como divisor de águas.</p>
 </aside>
-<figure>
+<figure id="fig:complicated">
 <img
 data-src="https://i.pinimg.com/originals/34/b3/1c/34b31c5701695e5c5c0354cf8457eb76.jpg"
-id="fig:complicated" class="outset"
+class="outset"
 alt="Planta de cobertura excessivamente complexa devido a uma planta baixa muito rebuscada" />
 <figcaption aria-hidden="true">Planta de cobertura excessivamente
 complexa devido a uma planta baixa muito rebuscada</figcaption>
@@ -501,10 +508,10 @@ data-background-video-muted="true">
 <h2
 data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-drone-flying-over-remote-houses-8168-medium.mp4"
 data-background-video-muted="true"></h2>
-<figure>
+<figure id="fig:ville">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-drone-flying-over-remote-houses-8168-medium.mp4"
-id="fig:ville" class="slide-bg outset" controls=""><a
+class="slide-bg outset" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-drone-flying-over-remote-houses-8168-medium.mp4">Casas
 rurais com coberturas simples de duas e quatro águas</a></video>
 <figcaption aria-hidden="true">Casas rurais com coberturas simples de
@@ -537,28 +544,27 @@ irregularidades, podendo-se optar pela utilização de quatro águas pela
 mesma razão. Muitas construções tradicionais são irregulares, sendo
 cobertas de forma eficiente com as quatros águas (fig. 18).</p>
 </aside>
-<div id="fig:price" class="subfigures">
+<figure id="fig:price">
 <div class="r-stack half">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0045.png"
-title="fig:" id="fig:priceA"
-class="line fragment current-visible align-left" /> <img
+id="fig:priceA" class="line fragment current-visible align-left"
+alt="sobre projeção retangular" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0048.png"
-title="fig:" id="fig:priceB"
-class="line fragment current-visible align-left" />
+id="fig:priceB" class="line fragment current-visible align-left"
+alt="sobre projeção irregular" />
 </div>
-<p>Ajuste de uma cobertura de quatro águas. Desenho: <a
+<figcaption><p>Ajuste de uma cobertura de quatro águas. Desenho: <a
 href="http://archive.org/details/britishcarpenter00pric">Francis Price,
-1735</a>. a – sobre projeção retangular, b – sobre projeção
-irregular</p>
-</div>
+1735</a></p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:engel1985-103.3">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/engel1985-103.3.png"
-id="fig:engel1985-103.3" class="line outset"
+class="line outset"
 alt="Cobertura japonesa sem empena, segundo Heino Engel, 1985" />
 <figcaption aria-hidden="true">Cobertura japonesa sem empena, segundo
 Heino Engel, 1985</figcaption>
@@ -595,10 +601,10 @@ seja mais eficiente <span class="citation"
 data-cites="viollet-le-duc:1858dictionnaire">(Viollet-le-Duc)</span>.
 Esse é o sistema estrutural de cobertura mais difundido na Europa.</p>
 </aside>
-<figure>
+<figure id="fig:boehm">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Kehlbalkendach_nach_Böhm.jpg/1024px-Kehlbalkendach_nach_Böhm.jpg"
-id="fig:boehm" class="line outset"
+class="line outset"
 alt="Tesoura simples. Desenho: Theodor Böhm, 1911" />
 <figcaption aria-hidden="true">Tesoura simples. Desenho: <a
 href="https://commons.wikimedia.org/wiki/File:Kehlbalkendach_nach_Böhm.jpg">Theodor
@@ -607,21 +613,21 @@ Böhm, 1911</a></figcaption>
 </section>
 <section class="slide level2">
 
-<div id="fig:charpente-viollet" class="subfigures outset">
+<figure id="fig:charpente-viollet" class="outset">
 <div class="r-stack half">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/7/70/Charpente.ferme.primitive.png"
-title="fig:" id="fig:charpente-violletA"
-class="line fragment current-visible" /> <img
+id="fig:charpente-violletA" class="line fragment current-visible"
+alt="sem pendural" /> <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Charpente.ferme.primitive.2.png"
-title="fig:" id="fig:charpente-violletB"
-class="line fragment current-visible" />
+id="fig:charpente-violletB" class="line fragment current-visible"
+alt="com pendural (CF)" />
 </div>
-<p>Tesouras simples segundo <a
+<figcaption><p>Tesouras simples segundo <a
 href="https://fr.wikisource.org/wiki/Dictionnaire_raisonné_de_l’architecture_française_du_XIe_au_XVIe_siècle/Charpente">Viollet-le-Duc,
-<em>Dictionnaire raisonné de l’architecture française…</em></a>. a – sem
-pendural, b – com pendural <span class="smallcaps">(CF)</span></p>
-</div>
+<em>Dictionnaire raisonné de l’architecture
+française…</em></a></p></figcaption>
+</figure>
 <aside class="notes">
 <p>Há dois tipos de esforços nas treliças: tração no elemento horizontal
 e compressão nos elementos em diagonal, sendo uma forma muito eficiente
@@ -653,23 +659,28 @@ partir do século <span class="smallcaps">XVIII</span>, essa difusão vai
 se dar inclusive por meio de manuais impressos <span class="citation"
 data-cites="price:1735british">(Price et al.)</span>.</p>
 </aside>
-<div id="fig:price-trusses" class="subfigures columns full">
+<figure id="fig:price-trusses" class="subfigures columns full">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:price-trussesA">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0054.png"
-id="fig:price-trussesA" class="line" />
+class="line" alt="formas isostáticas" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:price-trussesB">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/britishcarpenter00pric_0060.png"
-id="fig:price-trussesB" class="line" />
+class="line" alt="formas hiperestáticas" />
+<figcaption></figcaption>
 </figure>
-</div><p>Esquemas de tesouras segundo <a
-href="http://archive.org/details/britishcarpenter00pric">Francis Price,
-1735</a>. a – formas isostáticas, b – formas hiperestáticas</p>
 </div>
+<figcaption><p>Esquemas de tesouras segundo <a
+href="http://archive.org/details/britishcarpenter00pric">Francis Price,
+1735</a>. a – formas isostáticas, b – formas
+hiperestáticas</p></figcaption>
+</figure>
 </section>
 <section id="da-roma-antiga-à-idade-média" class="slide level2">
 <h2>Da Roma antiga à Idade Média</h2>
@@ -700,10 +711,10 @@ três tesouras independentes.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:zwerger2012-401">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-401.png"
-id="fig:zwerger2012-401" class="line"
+class="line"
 alt="Escoras mestras numa tesoura alemã. Desenho: Schnell, 1915, reproduzido em Zwerger, Wood and Wood Joints" />
 <figcaption aria-hidden="true">Escoras mestras numa tesoura alemã.
 Desenho: Schnell, 1915, reproduzido em Zwerger, <em>Wood and Wood
@@ -722,9 +733,8 @@ diagonais nas duas quinas superiores do retângulo (fig. 23).</p>
 das tesouras. Por isso, essa solução é uma das mais usadas em galpões e
 grandes salões, como os celeiros da Europa medieval (fig. 24).</p>
 </aside>
-<figure>
+<figure id="fig:coxwell">
 <img data-src="https://gcdn.daz3d.com/p/17767/i/render5_1_4.jpg"
-id="fig:coxwell"
 alt="Celeiro do dízimo, Great Coxwell, Inglaterra, século XIII. Modelo digital: Daz Originals e SoulessEmpathy" />
 <figcaption aria-hidden="true">Celeiro do dízimo, Great Coxwell,
 Inglaterra, século <span class="smallcaps">XIII</span>. Modelo digital:
@@ -734,25 +744,30 @@ SoulessEmpathy</a></figcaption>
 </section>
 <section class="slide level2">
 
-<div id="fig:viollet-exemples" class="subfigures columns full">
+<figure id="fig:viollet-exemples" class="subfigures columns full">
 <div class="column" style="width:61%;">
-<figure>
+<figure id="fig:viollet-ndp">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/9/94/Charpente.Notre.Dame.Paris.2.png"
-id="fig:viollet-ndp" class="line" />
+class="line" alt="Notre-Dame de Paris, século XII" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:39%;">
-<figure>
+</div>
+<div class="column" style="width:39%;">
+<figure id="fig:viollet-reims">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/f/f4/Charpente.cathedrale.Reims.png"
-id="fig:viollet-reims" class="line" />
+class="line" alt="Catedral de Remígio, século XIII" />
+<figcaption></figcaption>
 </figure>
-</div><p>Carpintaria de catedrais francesas, em <a
+</div>
+<figcaption><p>Carpintaria de catedrais francesas, em <a
 href="https://fr.wikisource.org/wiki/Dictionnaire_raisonné_de_l’architecture_française_du_XIe_au_XVIe_siècle/Charpente">Viollet-le-Duc,
 <em>Dictionnaire raisonné de l’architecture française…</em></a>.
 a – Notre-Dame de Paris, século <span class="smallcaps">XII</span>,
-b – Catedral de Remígio, século <span class="smallcaps">XIII</span></p>
-</div>
+b – Catedral de Remígio, século <span
+class="smallcaps">XIII</span></p></figcaption>
+</figure>
 <aside class="notes">
 <p>Essa solução vai levando às montagens de tesouras cada vez mais
 elaboradas na Alemanha e no norte da França durante a Idade Média
@@ -768,10 +783,10 @@ acumular neve, o peso da carpintaria ajudava a estabilizar as paredes e
 sobretudo as abóbadas das construções. Além disso, as tesouras serviam
 de apoio para guindastes durante a obra (fig. 26).</p>
 </aside>
-<figure>
+<figure id="fig:grue">
 <img
 data-src="https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg"
-id="fig:grue" class="slide-bg outset"
+class="slide-bg outset"
 alt="Reconstituição de um guindaste na carpintaria da catedral de Remígio. Desenho de Jean-Claude Golvin" />
 <figcaption aria-hidden="true">Reconstituição de um guindaste na
 carpintaria da catedral de Remígio. Desenho de <a
@@ -786,10 +801,10 @@ data-background-video-muted="true" data-background-video-loop="true">
 data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/Rebatir_Notre-Dame_de_Paris-2020-470926263-1080p-25fps.webm"
 data-background-video-muted="true"
 data-background-video-loop="true"></h2>
-<figure>
+<figure id="fig:rndp">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/coberturas/Rebatir_Notre-Dame_de_Paris-2020-470926263-1080p-25fps.webm"
-id="fig:rndp" class="slide-bg outset" controls=""><a
+class="slide-bg outset" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/coberturas/Rebatir_Notre-Dame_de_Paris-2020-470926263-1080p-25fps.webm">Ensaio
 de reconstrução das tesouras de Notre-Dame de Paris nas Jornadas
 Europeias do Patrimônio, 19 e 20 de setembro de 2020. Produção:
@@ -828,10 +843,10 @@ Uma característica marcante desses edifícios europeus é que a fachada
 costuma corresponder a uma “fatia” dessa carpintaria (fig. 28).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:langhein2012-01-03">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg"
-id="fig:langhein2012-01-03" class="slide-bg"
+class="slide-bg"
 alt="Malha proporcional triangular equilátera, exemplos da arquitetura vernácula alemã: casa rurais das regiões da Vestfália meridional, Francônia superior (Bavária) e casa urbana de Eppingen, Baden, 1471. Joachim Langhein, 2012" />
 <figcaption aria-hidden="true">Malha proporcional triangular equilátera,
 exemplos da arquitetura vernácula alemã: casa rurais das regiões da
@@ -876,10 +891,10 @@ data-background-video-muted="true" data-background-video-loop="true">
 data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-asian-temple-roof-decoration-11123-medium.mp4"
 data-background-video-muted="true"
 data-background-video-loop="true"></h2>
-<figure>
+<figure id="fig:mixkit-asian">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-asian-temple-roof-decoration-11123-medium.mp4"
-id="fig:mixkit-asian" class="slide-bg outset" controls=""><a
+class="slide-bg outset" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/coberturas/mixkit-asian-temple-roof-decoration-11123-medium.mp4">Telhado
 em estilo chinês</a></video>
 <figcaption aria-hidden="true">Telhado em estilo chinês</figcaption>
@@ -901,10 +916,10 @@ estilo chinês <span class="citation"
 data-cites="schaeffer:1971chinesicesxxii">(Schaeffer)</span>
 (fig. 30).</p>
 </aside>
-<figure>
+<figure id="fig:sabara">
 <img
 data-src="https://4.bp.blogspot.com/-udY_CN9QJ3E/WPjzuUZWQsI/AAAAAAAAR5A/Z6E9nw8h5tIT0KeetSWfoT6FXr0B_OGZgCLcB/s1600/sabara%20o3.JPG"
-id="fig:sabara" class="outset"
+class="outset"
 alt="Pintura de chinesice na igreja de Nossa Senhora do Ó, Sabará, segunda metade do século XVIII" />
 <figcaption aria-hidden="true">Pintura de chinesice na igreja de Nossa
 Senhora do Ó, Sabará, segunda metade do século <span
@@ -914,10 +929,9 @@ class="smallcaps">XVIII</span></figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:sabara-nave">
 <img
 data-src="https://i.pinimg.com/originals/f2/9f/85/f29f850b4e494b8691b2d056df6719eb.png"
-id="fig:sabara-nave"
 alt="Vista da nave da igreja de Nossa Senhora do Ó, Sabará" />
 <figcaption aria-hidden="true">Vista da nave da igreja de Nossa Senhora
 do Ó, Sabará</figcaption>
@@ -943,10 +957,10 @@ data-cites="chambers:1757designs">(Chambers)</span>. Nessa região, a
 curvatura dos telhados é especialmente acentuada, e o estereótipo do
 beiral pontudo acabou se consagrando (fig. 32).</p>
 </aside>
-<figure>
+<figure id="fig:chambers-chinese">
 <img
 data-src="https://www.bl.uk/britishlibrary/~/media/bl/global/dl%20romantics%20and%20victorians/collection-items-manual/c/h/a/chambers-william-designs-b20144-54.jpg"
-id="fig:chambers-chinese" class="outset"
+class="outset"
 alt="William Chambers, arquiteto, prancha de Designs of Chinese buildings, 1757" />
 <figcaption aria-hidden="true">William Chambers, arquiteto, prancha de
 <a
@@ -956,24 +970,28 @@ of Chinese buildings</em>, 1757</a></figcaption>
 </section>
 <section class="slide level2">
 
-<div id="fig:yzfs" class="subfigures columns full">
+<figure id="fig:yzfs" class="subfigures columns full">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:yzfs13-4b">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/yzfs-shaoding-13-4b-1080p.png"
-id="fig:yzfs13-4b" class="line" />
+class="line" alt="página impressa em edição do século XIII, 13:4b" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:yzfs30-7b">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/yzfs1925-30-7b-1080p.png"
-id="fig:yzfs30-7b" class="line" />
+class="line" alt="sistema dougong 斗供, 30:7b, edição de 1925" />
+<figcaption></figcaption>
 </figure>
-</div><p>Li Jie, <em>Yingzao fashi</em>, originalmente publicado em
-1093. a – página impressa em edição do século <span
-class="smallcaps">XIII</span>, 13:4b, b – sistema <em>dougong</em> 斗供,
-30:7b, edição de 1925</p>
 </div>
+<figcaption><p>Li Jie, <em>Yingzao fashi</em>, originalmente publicado
+em 1093. a – página impressa em edição do século <span
+class="smallcaps">XIII</span>, 13:4b, b – sistema <em>dougong</em> 斗供,
+30:7b, edição de 1925</p></figcaption>
+</figure>
 <aside class="notes">
 <p>Apesar desse estereótipo, a curvatura do telhado é só uma de muitas
 características que definem a arquitetura tradicional chinesa.</p>
@@ -1002,10 +1020,10 @@ Sicheng e pela escritora Lin Huiyin (fig. 34) — tia da arquiteta Maya
 Lin <span class="citation"
 data-cites="liang:1984pictorial">(Liang)</span>.</p>
 </aside>
-<figure>
+<figure id="fig:liang-lin">
 <img
 data-src="https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg"
-id="fig:liang-lin" class="slide-bg outset"
+class="slide-bg outset"
 alt="Lin Huiyin e Liang Sicheng numa viagem pela província chinesa de Shanxi, 1934. Foto: acervo da família Fairbank" />
 <figcaption aria-hidden="true">Lin Huiyin e Liang Sicheng numa viagem
 pela província chinesa de Shanxi, 1934. Foto: <a
@@ -1015,10 +1033,10 @@ da família Fairbank</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:liang-order">
 <img
 data-src="https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png"
-id="fig:liang-order" class="line outset"
+class="line outset"
 alt="“Ordem” chinesa. Liang Sicheng e Lin Huiyin, 1943, publicado em 1984" />
 <figcaption aria-hidden="true">“Ordem” chinesa. Liang Sicheng e Lin
 Huiyin, 1943, publicado em 1984</figcaption>
@@ -1042,10 +1060,10 @@ renovação mais rápida (fig. 35).</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:liang-32">
 <img
 data-src="https://i.pinimg.com/originals/63/39/db/6339db291242961bee44bb90b1d8bc17.png"
-id="fig:liang-32" class="line outset"
+class="line outset"
 alt="Evolução da “ordem chinesa”. Liang Sicheng e Lin Huiyin, 1943, publicado em 1984" />
 <figcaption aria-hidden="true">Evolução da “ordem chinesa”. Liang
 Sicheng e Lin Huiyin, 1943, publicado em 1984</figcaption>
@@ -1057,10 +1075,10 @@ data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/at
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/08/atkin2011-3.18.png">Projetar
 em corte</h2>
 <div class="full">
-<figure>
+<figure id="fig:shanhua">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/atkin2011-3.18.png"
-id="fig:shanhua" class="slide-bg"
+class="slide-bg"
 alt="Salão principal do templo budista Shanhua, Datong, província de Shanxi, 1060. Levantamento e desenho da fachada por Liang Sicheng e Lin Huiyin, primeira metade do século XX" />
 <figcaption aria-hidden="true">Salão principal do templo budista
 Shanhua, Datong, província de Shanxi, 1060. Levantamento e desenho da
@@ -1086,10 +1104,10 @@ al.)</span>. A elevação é o resultado de se conectar uma sequência de
 pórticos paralelos (fig. 38).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:fu-foguang">
 <img
 data-src="https://i.pinimg.com/originals/2f/bd/fd/2fbdfd63849f527472ef4dadec10df67.jpg"
-id="fig:fu-foguang" class="slide-bg"
+class="slide-bg"
 alt="Esquema construtivo do salão principal do Fóguāngsǐ, desenho por Fu Xinian" />
 <figcaption aria-hidden="true">Esquema construtivo do salão principal do
 Fóguāngsǐ, desenho por Fu Xinian</figcaption>
@@ -1109,10 +1127,10 @@ de alto a baixo, sem introduzir fragilidades. Algumas mísulas sustentam
 os caibros, destacando-se a chamada mísula em forma de nuvem, que é
 esculpida com motivos naturalistas.</p>
 </aside>
-<figure>
+<figure id="fig:feng2012-4.12">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.12-1080p.png"
-id="fig:feng2012-4.12" class="line outset"
+class="line outset"
 alt="Metáfora vegetal do dougong, segundo Feng, Chinese architecture and metaphor" />
 <figcaption aria-hidden="true">Metáfora vegetal do <em>dougong</em>,
 segundo Feng, <em>Chinese architecture and metaphor</em></figcaption>
@@ -1120,10 +1138,10 @@ segundo Feng, <em>Chinese architecture and metaphor</em></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:feng2012-4.24">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.24-1080p.png"
-id="fig:feng2012-4.24" class="line outset"
+class="line outset"
 alt="Esquema de contrapesos para estabilização do dougong, segundo Feng" />
 <figcaption aria-hidden="true">Esquema de contrapesos para estabilização
 do <em>dougong</em>, segundo Feng</figcaption>
@@ -1132,11 +1150,10 @@ do <em>dougong</em>, segundo Feng</figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:feng2012-4.27">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/feng2012-4.27-1080p.png"
-id="fig:feng2012-4.27" class="line"
-alt="Vista de caibros volantes em balanço, segundo Feng" />
+class="line" alt="Vista de caibros volantes em balanço, segundo Feng" />
 <figcaption aria-hidden="true">Vista de caibros volantes em balanço,
 segundo Feng</figcaption>
 </figure>
@@ -1144,10 +1161,10 @@ segundo Feng</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:zwerger2012-640">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/zwerger2012-640.png"
-id="fig:zwerger2012-640" class="line"
+class="line"
 alt="Chuzu’an, corte dos dougong e caibros volantes sobre os vãos e sobre as colunas, segundo Liang e Lin" />
 <figcaption aria-hidden="true">Chuzu’an, corte dos <em>dougong</em> e
 caibros volantes sobre os vãos e sobre as colunas, segundo Liang e
@@ -1156,10 +1173,10 @@ Lin</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:horyuji-kondo-ta">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Horyu-ji08s3200.jpg/1024px-Horyu-ji08s3200.jpg"
-id="fig:horyuji-kondo-ta" class="outset"
+class="outset"
 alt="Hōryūji, templo budista em Ikaruga, Nara, Japão. Recinto oeste, kondō (salão dourado) e pagode, após 607 d.C. Foto: 663highland, 2010" />
 <figcaption aria-hidden="true">Hōryūji, templo budista em Ikaruga, Nara,
 Japão. Recinto oeste, <em>kondō</em> (salão dourado) e pagode, após 607
@@ -1170,10 +1187,10 @@ href="https://commons.wikimedia.org/wiki/File:Horyu-ji08s3200.jpg">663highland,
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:horyuji-kondo-upper">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG/1024px-Horyu-ji_National_Treasure_World_heritage_国宝・世界遺産法隆寺90.JPG"
-id="fig:horyuji-kondo-upper" class="outset"
+class="outset"
 alt="Hōryūji, nível superior do kondō mostrando as mísulas do telhado. Foto: Nekosuki, 2011" />
 <figcaption aria-hidden="true">Hōryūji, nível superior do <em>kondō</em>
 mostrando as mísulas do telhado. Foto: <a
@@ -1184,10 +1201,9 @@ href="https://commons.wikimedia.org/wiki/File:Horyu-ji_National_Treasure_World_h
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:horyuji-kondo-det">
 <img
 data-src="http://www.digital-images.net/Images/Japan/Horyuji_Kondo_detail_9972.jpg"
-id="fig:horyuji-kondo-det"
 alt="Hōryūji, pagode, detalhe das mísulas sustentando uma terça e caibros volantes, foto: Ron Reznick" />
 <figcaption aria-hidden="true">Hōryūji, pagode, detalhe das mísulas
 sustentando uma terça e caibros volantes, foto: <a
@@ -1198,10 +1214,10 @@ Reznick</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:yakushiji-toutou">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/薬師寺東塔_-_panoramio.jpg/1024px-薬師寺東塔_-_panoramio.jpg"
-id="fig:yakushiji-toutou" class="outset"
+class="outset"
 alt="Yakushiji, pagode leste, 680–730. Foto: Buzzhiro, 2007" />
 <figcaption aria-hidden="true">Yakushiji, pagode leste, 680–730. Foto:
 <a
@@ -1212,10 +1228,10 @@ href="https://commons.wikimedia.org/wiki/File:薬師寺東塔_-_panoramio.jpg">B
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:yakushiji-toutou-det">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG/1024px-Yakushi-ji_National_Treasure_World_heritage_国宝・世界遺産薬師寺28.JPG"
-id="fig:yakushiji-toutou-det" class="outset"
+class="outset"
 alt="Yakushiji, pagode leste, detalhe das mísulas e caibros. Foto: Nekosuki, 2011" />
 <figcaption aria-hidden="true">Yakushiji, pagode leste, detalhe das
 mísulas e caibros. Foto: <a
@@ -1243,13 +1259,14 @@ transversais também em madeira. Observa-se, então, uma sobreposição de
 águas de telhados (e não uma interligação entre águas) para formar
 conjuntos extremamente complexos (fig. 48).</p>
 </aside>
-<div id="fig:3dmax" class="subfigures iframe-wrapper slide-bg outset">
+<figure id="fig:3dmax"
+class="subfigures iframe-wrapper slide-bg outset">
 <iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/F2H9UbIApYs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Construções tradicionais chinesas. Modelagem: <a
+<figcaption><p>Construções tradicionais chinesas. Modelagem: <a
 href="https://youtu.be/F2H9UbIApYs">Beijing Digital Light Magic
-Technology Co.</a>. </p>
-</div>
+Technology Co.</a>. </p></figcaption>
+</figure>
 </section>
 <section id="section-9" class="slide level2"
 data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/Chinese_Architectural_Brackets-JnB3fQTE1XU-1080p-30fps.webm"
@@ -1258,12 +1275,14 @@ data-background-video-muted="true" data-background-video-loop="true">
 data-background-video="https://cdn.palazzo.arq.br/firmitas/coberturas/Chinese_Architectural_Brackets-JnB3fQTE1XU-1080p-30fps.webm"
 data-background-video-muted="true"
 data-background-video-loop="true"></h2>
-<div id="fig:wiborg" class="subfigures iframe-wrapper slide-bg outset">
+<figure id="fig:wiborg"
+class="subfigures iframe-wrapper slide-bg outset">
 <iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/JnB3fQTE1XU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Construção de um sistema de mísulas chinesas. Carpintaria: <a
-href="https://youtu.be/JnB3fQTE1XU">Richard Wiborg, 2018</a>. </p>
-</div>
+<figcaption><p>Construção de um sistema de mísulas chinesas.
+Carpintaria: <a href="https://youtu.be/JnB3fQTE1XU">Richard Wiborg,
+2018</a>. </p></figcaption>
+</figure>
 <aside class="notes">
 <p>A montagem dessas peças, que são apoiadas umas nas outras e não
 engastadas, ou seja, sem fixações muito rígidas, permite uma maior
@@ -1287,10 +1306,10 @@ Japão é uma região extremamente úmida. Assim, com uma cobertura mais
 rasa, o vão entre as telhas permite um melhor escoamento dessa umidade,
 evitando que ela se acumule dentro do edifício.</p>
 </aside>
-<figure>
+<figure id="fig:yakushiji2014">
 <img
 data-src="https://i.pinimg.com/originals/76/f8/5a/76f85af1f812ad927ea970bb7813ce95.png"
-id="fig:yakushiji2014" class="outset"
+class="outset"
 alt="Telhado do Tōindō, Yakushiji, Nara, século VIII. Maquete parcial executada em 2014, via Designboom, 2021" />
 <figcaption aria-hidden="true">Telhado do Tōindō, Yakushiji, Nara,
 século <span class="smallcaps">VIII</span>. Maquete parcial executada em
@@ -1314,10 +1333,9 @@ para permitir uma boa iluminação e ventilação dos interiores, que são
 muito profundos em geral (fig. 51).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:han-taixie">
 <img
 data-src="https://i.pinimg.com/originals/a8/52/6f/a8526febba8123bdba4e3c8079cc4c1f.png"
-id="fig:han-taixie"
 alt="Reconstituição do corte longitudinal de um palácio da dinastia Han com fundações do tipo taixie, por Steinhardt (2019)" />
 <figcaption aria-hidden="true">Reconstituição do corte longitudinal de
 um palácio da dinastia Han com fundações do tipo <em>taixie</em>, por
@@ -1345,24 +1363,22 @@ data-visibility="hidden">
 <section id="revestimentos-de-coberturas" class="slide level2"
 data-visibility="hidden">
 <h2 data-visibility="hidden">Revestimentos de coberturas</h2>
-<figure>
-<img data-src="" id="fig:niofo"
-alt="Oratório Niofo, Costa do Marfim, século XXI" />
+<figure id="fig:niofo">
+<img data-src="" alt="Oratório Niofo, Costa do Marfim, século XXI" />
 <figcaption aria-hidden="true">Oratório Niofo, Costa do Marfim, século
 <span class="smallcaps">XXI</span></figcaption>
 </figure>
-<figure>
+<figure id="fig:india-shingle">
 <img
 data-src="https://i.pinimg.com/originals/ef/a8/94/efa894fab510409282f9538e06939936.png"
-id="fig:india-shingle"
 alt="Cobertura em bambu com telhas de madeira, Índia" />
 <figcaption aria-hidden="true">Cobertura em bambu com telhas de madeira,
 Índia</figcaption>
 </figure>
-<figure>
+<figure id="fig:choca">
 <img
 data-src="https://i.pinimg.com/originals/0e/31/ee/0e31eec73c2b44ce9fcbade88f1a8c1a.jpg"
-id="fig:choca" alt="Execução de uma cobertura em choça" />
+alt="Execução de uma cobertura em choça" />
 <figcaption aria-hidden="true">Execução de uma cobertura em
 choça</figcaption>
 </figure>
@@ -1374,10 +1390,9 @@ data-background-size="contain">
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7c/Torvtak_5.png"
 data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:torvtak">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Torvtak_5.png/712px-Torvtak_5.png"
-id="fig:torvtak"
 alt="Detalhe de uma cobertura escandinava revestida com grama. Desenho: Roede, 1989" />
 <figcaption aria-hidden="true">Detalhe de uma cobertura escandinava
 revestida com grama. Desenho: <a
@@ -1390,17 +1405,15 @@ href="https://commons.wikimedia.org/wiki/File:Torvtak_5.png">Roede,
 class="title-slide slide level1 unnumbered unlisted allowframebreaks">
 <h1 class="unnumbered unlisted allowframebreaks">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-chambers:1757designs" class="csl-entry"
-role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-chambers:1757designs" class="csl-entry" role="listitem">
 Chambers, William. <em>Designs of Chinese Buildings, Furniture, Dresses,
 Machines, and Utensils</em>. Published for the author, and sold by him
 …, also by Mess. Dodsley …, Mess. Wilson and Durham …, Mr. A. Millar …,
 and Mr. R. Willock …, 1757. <em>Internet Archive</em>, <a
 href="http://archive.org/details/DesignsChineseb00Cham">http://archive.org/details/DesignsChineseb00Cham</a>.
 </div>
-<div id="ref-chen:2011elevation" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-chen:2011elevation" class="csl-entry" role="listitem">
 Chen, Zhao. <span>“Elevation or Façade: A Re-Evaluation of Liang
 Sicheng’s Interpretation of Chinese Timber Architecture in the Light of
 Beaux-Arts Classicism”</span>. <em>Chinese Architecture and the
@@ -1409,38 +1422,34 @@ University Press : Hong Kong University Press, 2011, p. 193–203.
 <em>Open WorldCat</em>, <a
 href="https://ebookcentral.proquest.com/lib/univbrasilia-ebooks/detail.action?docID=3413560">https://ebookcentral.proquest.com/lib/univbrasilia-ebooks/detail.action?docID=3413560</a>.
 </div>
-<div id="ref-cody:2011chinese" class="csl-entry" role="doc-biblioentry">
+<div id="ref-cody:2011chinese" class="csl-entry" role="listitem">
 Cody, Jeffrey W., et al., organizadores. <em>Chinese Architecture and
 the Beaux-Arts</em>. Hawai’i University Press : Hong Kong University
 Press, 2011. <em>Open WorldCat</em>, <a
 href="https://ebookcentral.proquest.com/lib/univbrasilia-ebooks/detail.action?docID=3413560">https://ebookcentral.proquest.com/lib/univbrasilia-ebooks/detail.action?docID=3413560</a>.
 </div>
-<div id="ref-engel:1985measure" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-engel:1985measure" class="csl-entry" role="listitem">
 Engel, Heino. <em>Measure and Construction of the Japanese House</em>.
 1st ed, C.E. Tuttle Co, 1985.
 </div>
-<div id="ref-feng:2012chinese" class="csl-entry" role="doc-biblioentry">
+<div id="ref-feng:2012chinese" class="csl-entry" role="listitem">
 Feng, Jiren. <em>Chinese Architecture and Metaphor: Song Culture in the
 Yingzao Fashi Building Manual</em>. University of Hawai’i Press ; Hong
 Kong University Press, 2012.
 </div>
-<div id="ref-guo:1998yingzao41" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-guo:1998yingzao41" class="csl-entry" role="listitem">
 Guo, Qinghua. <span>“<em>Yingzao Fashi</em>: Twelfth-Century Chinese
 Building Manual”</span>. <em>Architectural History</em>, vol. 41, 1998,
 p. 1–13. JSTOR, <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/1568644">https://doi.org/10.2307/1568644</a>.
 </div>
-<div id="ref-liang:1984pictorial" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-liang:1984pictorial" class="csl-entry" role="listitem">
 Liang, Sicheng. <em>A Pictorial History of Chinese Architecture: A Study
 of the Development of Its Structural System and the Evolution of Its
 Types = 图像中国建筑史</em>. Organizado por Wilma Fairbank, <span
 class="smallcaps">MIT</span> Press, 1984.
 </div>
-<div id="ref-price:1735british" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-price:1735british" class="csl-entry" role="listitem">
 Price, Francis, et al. <em>The British Carpenter, or, A Treatise on
 Carpentry : Containing the Most Concise and Authentick Rules of That
 Art, in a More Useful and Extensive Method, Than Has Been Made
@@ -1449,22 +1458,20 @@ Publick</em>. Printed by C. Ackers … ; and sold by the Author, 1735.
 href="http://archive.org/details/britishcarpenter00pric">http://archive.org/details/britishcarpenter00pric</a>.
 </div>
 <div id="ref-schaeffer:1971chinesicesxxii" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Schaeffer, Enrico. <span>“Chinesices no Brasil”</span>. <em>Anais do
 Museu Histórico Nacional</em>, vol. XXII, 1971, p. 33–49.
 </div>
-<div id="ref-steinhardt:2019chinese" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-steinhardt:2019chinese" class="csl-entry" role="listitem">
 Steinhardt, Nancy Shatzman. <em>Chinese Architecture: A History</em>.
 Princeton University Press, 2019.
 </div>
-<div id="ref-summerson:1997linguagem" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-summerson:1997linguagem" class="csl-entry" role="listitem">
 Summerson, John. <em>A linguagem clássica da arquitetura</em>. Traduzido
 por Sylvia Ficher, Martins Fontes, 1997.
 </div>
 <div id="ref-viollet-le-duc:1858dictionnaire" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Viollet-le-Duc, Eugène-Emmanuel. <em>Dictionnaire raisonné de
 l’architecture française du <span
 class="smallcaps">XI</span><sup>e</sup> au <span
@@ -1472,12 +1479,12 @@ class="smallcaps">XVI</span><sup>e</sup> siècle</em>. B. Bance, 1858.
 <em>Internet Archive</em>, <a
 href="http://archive.org/details/dictionnairerais01viol_1">http://archive.org/details/dictionnairerais01viol_1</a>.
 </div>
-<div id="ref-zwerger:2012wood" class="csl-entry" role="doc-biblioentry">
+<div id="ref-zwerger:2012wood" class="csl-entry" role="listitem">
 Zwerger, Klaus. <em>Wood and Wood Joints: Building Traditions of Europe,
 Japan and China</em>. Second, revised and enlarged edition, Birkhäuser,
 2012.
 </div>
-<div id="ref-pan:2004dougong" class="csl-entry" role="doc-biblioentry">
+<div id="ref-pan:2004dougong" class="csl-entry" role="listitem">
 潘德華 [Pan Dehua]. <em>斗栱 [Dougong]</em>. 第一番, 东南大学出版社
 [Dong nan da xue chu ban she], 2004.
 </div>

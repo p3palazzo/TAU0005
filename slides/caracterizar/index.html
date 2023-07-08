@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -140,10 +145,10 @@ então.</p>
 
 <div class="columns full">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:shiji">
 <img
 data-src="https://image.digitalarchives.tw/ImageCache/00/07/8d/4a.jpg"
-id="fig:shiji" class="stretch"
+class="stretch"
 alt="Registros do historiador, edição japonesa do século XIV com pontuação e glosas de leitura (kambun). Acervo Biblioteca Nacional Central de Taiwan" />
 <figcaption aria-hidden="true">Registros do historiador, edição japonesa
 do século <span class="smallcaps">XIV</span> com pontuação e glosas de
@@ -152,10 +157,10 @@ href="https://catalog.digitalarchives.tw/item/00/07/e9/9d.html">Biblioteca
 Nacional Central de Taiwan</a></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:sima-qian">
 <img
 data-src="https://i.pinimg.com/originals/e2/62/b4/e262b449e066156897137f6414e1f0ed.png"
-id="fig:sima-qian" class="stretch" alt="Sima Qian" />
+class="stretch" alt="Sima Qian" />
 <figcaption aria-hidden="true">Sima Qian</figcaption>
 </figure>
 </div>
@@ -199,10 +204,9 @@ também validavam uma pretensão de superioridade cultural da Europa sobre
 a Ásia, já que a história mais antiga da China acabava sendo reduzida a
 um mundo tribal e supostamente primitivo.</p>
 </aside>
-<figure>
+<figure id="fig:xia-map">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Xia_dynasty.svg/892px-Xia_dynasty.svg.png"
-id="fig:xia-map"
 alt="Extensão territorial da dinastia Xià (c. 2070–1600 a.C.). Mapa: Lamassu Design, 2009" />
 <figcaption aria-hidden="true">Extensão territorial da <a
 href="https://en.wikipedia.org/wiki/Xia–Shang–Zhou_Chronology_Project">dinastia
@@ -213,10 +217,9 @@ Design, 2009</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:erlitou-map">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Erlitou_map.svg/920px-Erlitou_map.svg.png"
-id="fig:erlitou-map"
 alt="Extensão geográfica da cultura Erlitou, primeira metade do II milênio a.C." />
 <figcaption aria-hidden="true">Extensão geográfica da <a
 href="https://en.wikipedia.org/wiki/Erlitou_culture">cultura
@@ -240,10 +243,9 @@ tribais não muito sofisticadas.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:xia-jue">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg/768px-Tubular_spout,_jue._Late_Xia._Erlitou_culture._Shanghai_Museum.jpg"
-id="fig:xia-jue"
 alt="Jue (tripé para servir vinho), dinastia Xià, século XVIII a.C., bronze, pés reconstituídos. Museu de Shanghai. Foto: H. Sondaz, 2013" />
 <figcaption aria-hidden="true"><em>Jue</em> (tripé para servir vinho),
 dinastia Xià, século <span class="smallcaps">XVIII</span> a.C., bronze,
@@ -263,10 +265,10 @@ Idade do Bronze em Erlitou. figs. 6, 7</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:erlitou-gongtian">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/26/二里头一号宫殿平面图_zh_hant.png"
-id="fig:erlitou-gongtian" class="nobg"
+class="nobg"
 alt="Planta do palácio I em Erlitou, associado à dinastia Xià, c. 1600 a.C. Desenho: Shibo77, 2011" />
 <figcaption aria-hidden="true">Planta do palácio I em Erlitou, associado
 à dinastia Xià, c. 1600 a.C. Desenho: <a
@@ -276,10 +278,9 @@ href="https://commons.wikimedia.org/wiki/File:二里头一号宫殿平面图_zh_
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:erlitou-diorama">
 <img
 data-src="https://i.pinimg.com/originals/f1/ee/d9/f1eed9ee99d3fe09099b116de0234eee.jpg"
-id="fig:erlitou-diorama"
 alt="Reconstituição do palácio I em Erlitou, Museu de Erlitou" />
 <figcaption aria-hidden="true">Reconstituição do palácio I em Erlitou,
 Museu de Erlitou</figcaption>
@@ -299,10 +300,9 @@ inclusive, arquitetônica (estilística e visual).</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:yin">
 <img
 data-src="https://live.staticflickr.com/4085/5066590459_c2b71733c4_k_d.jpg"
-id="fig:yin"
 alt="Reconstituição parcial do palácio da dinastia Shang em Yin, c. 1300 a.C. Foto: Tak.Wing, 2010" />
 <figcaption aria-hidden="true">Reconstituição parcial do palácio da
 dinastia Shang em Yin, c. 1300 a.C. Foto: <a
@@ -347,10 +347,9 @@ transformações construtivas, que não haviam sido notadas pelos
 europeus.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:louvre">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Louvre_Museum_Wikimedia_Commons.jpg/1280px-Louvre_Museum_Wikimedia_Commons.jpg"
-id="fig:louvre"
 alt="Ieoh Ming Pei, arquiteto, pirâmide do Louvre, Paris, 1984–1989. Foto: Benh Lieu Song, 2010" />
 <figcaption aria-hidden="true">Ieoh Ming Pei, arquiteto, pirâmide do
 Louvre, Paris, 1984–1989. Foto: <a
@@ -361,10 +360,9 @@ Lieu Song, 2010</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:liang-lin">
 <img
 data-src="https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg"
-id="fig:liang-lin"
 alt="Lin Huiyin e Liang Sicheng numa viagem pela província chinesa de Shanxi, 1934. Foto: acervo da família Fairbank" />
 <figcaption aria-hidden="true">Lin Huiyin e Liang Sicheng numa viagem
 pela província chinesa de Shanxi, 1934. Foto: <a
@@ -382,10 +380,10 @@ estudado na Universidade da Pensilvânia na década de 1920.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:treearch">
 <img
 data-src="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png"
-id="fig:treearch" class="line"
+class="line"
 alt="Banister Fletcher, árvore da arquitetura, em A History of Architecture on the Comparative Method, 15.ª ed. (1950)" />
 <figcaption aria-hidden="true">Banister Fletcher, árvore da arquitetura,
 em <em>A History of Architecture on the Comparative Method</em>, 15.ª
@@ -544,10 +542,9 @@ arbitrária.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:san">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/1280px-Oldest_Healing_Dance.jpg"
-id="fig:san"
 alt="Comunidade San em volta do lar central de uma aldeia. Foto: Kgara Kevin Rack, 2017" />
 <figcaption aria-hidden="true">Comunidade San em volta do lar central de
 uma aldeia. Foto: <a
@@ -586,10 +583,9 @@ desqualificar qualquer coisa que não seja o estilo “da moda”.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:liang-ganjin">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Jianzhen_memorial_hall.jpg/1280px-Jianzhen_memorial_hall.jpg"
-id="fig:liang-ganjin"
 alt="Liang Sicheng, arquiteto, Memorial para o monge Jianzhen (Ganjin), Yangzhou, China, 1963. Foto: Gisling, 2007" />
 <figcaption aria-hidden="true">Liang Sicheng, arquiteto, Memorial para o
 monge Jianzhen (Ganjin), Yangzhou, China, 1963. Foto: <a
@@ -623,20 +619,18 @@ em quatro tipos:</p>
 </section>
 <section class="slide level2">
 
-<div id="fig:philibert" class="subfigures columns">
+<figure id="fig:philibert" class="subfigures columns">
 <div class="column" style="width:49.5%;">
-<figure>
-<img
-data-src="https://i.pinimg.com/originals/e6/a3/20/e6a320b591ac098128177fb2117fd19b.jpg" />
-</figure>
-</div><div class="column" style="width:50.5%;">
-<figure>
-<img
-data-src="https://i.pinimg.com/originals/84/61/fd/8461fd0351343dc6750786e7872da123.gif" />
-</figure>
-</div><p>Philibert De L’Orme, alegorias do mau e do bom arquiteto
-(1556). </p>
+<p><img
+data-src="https://i.pinimg.com/originals/e6/a3/20/e6a320b591ac098128177fb2117fd19b.jpg" /></p>
 </div>
+<div class="column" style="width:50.5%;">
+<p><img
+data-src="https://i.pinimg.com/originals/84/61/fd/8461fd0351343dc6750786e7872da123.gif" /></p>
+</div>
+<figcaption><p>Philibert De L’Orme, alegorias do mau e do bom arquiteto
+(1556). </p></figcaption>
+</figure>
 <aside class="notes">
 <p>O conhecimento disciplinar da arquitetura no mundo antigo era um
 corpo de saberes mais ou menos definido. Quando Vitrúvio distinguia os
@@ -650,10 +644,9 @@ feito na França do século <span class="smallcaps">XII</span>.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:cluny">
 <img
 data-src="https://i.pinimg.com/originals/4a/86/77/4a867774f809b18dc37c04fb5280177c.jpg"
-id="fig:cluny"
 alt="Abadia de Cluny, estágio III, século XII. Reconstituição de Jean-Claude Golvin baseada em Kenneth J. Conant" />
 <figcaption aria-hidden="true">Abadia de Cluny, estágio III, século
 <span class="smallcaps">XII</span>. Reconstituição de <a
@@ -677,10 +670,10 @@ Clairvaux’s Apologia”</span>)</span>.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:saulieu">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Saint-Andoche_de_Saulieu-Histoire_de_larchitecture_Tome_2_Choisy_Auguste_bpt6k6584016q_232.png/548px-Saint-Andoche_de_Saulieu-Histoire_de_larchitecture_Tome_2_Choisy_Auguste_bpt6k6584016q_232.png"
-id="fig:saulieu" class="line"
+class="line"
 alt="Vista isométrica ascendente da basílica de Santo Andóquio, Saulieu (Borgonha), final do século XI. Desenho: Auguste Choisy, 1899" />
 <figcaption aria-hidden="true">Vista isométrica ascendente da basílica
 de Santo Andóquio, Saulieu (Borgonha), final do século <span
@@ -707,10 +700,9 @@ distribuem. Além disso, os arcos compostos permitem fazer um cimbramento
 mais econômico.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:lx-nave">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lisboa_IMG_2578_(27497607573).jpg/2560px-Lisboa_IMG_2578_(27497607573).jpg"
-id="fig:lx-nave"
 alt="Nave central da Sé de Lisboa, iniciada 1147. Foto: Robert Scarth, 2016" />
 <figcaption aria-hidden="true">Nave central da Sé de Lisboa, iniciada
 1147. Foto: <a
@@ -722,10 +714,9 @@ Scarth, 2016</a></figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:fontenay-cloitre">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Marmagne_Abtei_Fontenay_Kreuzgang_6.jpg/1024px-Marmagne_Abtei_Fontenay_Kreuzgang_6.jpg"
-id="fig:fontenay-cloitre"
 alt="Claustro da abadia de Fontenay (Borgonha), século XII. Foto: Zairon, 2016" />
 <figcaption aria-hidden="true">Claustro da abadia de Fontenay
 (Borgonha), século <span class="smallcaps">XII</span>. Foto: <a
@@ -754,10 +745,9 @@ defendia que os mosteiros fossem muito despojados. Bernardo pôs a sua
 ideologia em prática na abadia de Fontenay, que ele fundou no começo do
 século <span class="smallcaps">XII</span> (fig. 19).</p>
 </aside>
-<figure>
+<figure id="fig:fontenay">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Abbaye_Fontenay_eglise_interieur.jpg/1280px-Abbaye_Fontenay_eglise_interieur.jpg"
-id="fig:fontenay"
 alt="Nave da igreja da abadia de Fontenay (Borgonha), 1130–1147. Foto: Myrabella, 2014" />
 <figcaption aria-hidden="true">Nave da igreja da abadia de Fontenay
 (Borgonha), 1130–1147. Foto: <a
@@ -767,26 +757,30 @@ href="https://commons.wikimedia.org/wiki/File:Abbaye_Fontenay_eglise_interieur.j
 </section>
 <section class="slide level2">
 
-<div id="fig:chapiteaux" class="subfigures columns">
+<figure id="fig:chapiteaux" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:chapiteauxA">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Cluny_opactwo_27.jpg/512px-Cluny_opactwo_27.jpg"
-id="fig:chapiteauxA" />
+alt="Cluny. Foto: Andrzej Otrębski, 2018" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:chapiteauxB">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Marmagne_(21)_Abbaye_de_Fontenay_-_Abbatiale_-_Chapiteau_-_04.jpg/512px-Marmagne_(21)_Abbaye_de_Fontenay_-_Abbatiale_-_Chapiteau_-_04.jpg"
-id="fig:chapiteauxB" />
+alt="Fontenay. Foto: GO69, 2020" />
+<figcaption></figcaption>
 </figure>
-</div><p>Capitéis nas igrejas das abadias da Borgonha, século <span
-class="smallcaps">XII</span>. a – Cluny. Foto: <a
+</div>
+<figcaption><p>Capitéis nas igrejas das abadias da Borgonha, século
+<span class="smallcaps">XII</span>. a – Cluny. Foto: <a
 href="https://commons.wikimedia.org/wiki/File:Cluny_opactwo_27.jpg">Andrzej
 Otrębski, 2018</a>, b – Fontenay. Foto: <a
 href="https://commons.wikimedia.org/wiki/File:Marmagne_(21)_Abbaye_de_Fontenay_-_Abbatiale_-_Chapiteau_-_04.jpg">GO69,
-2020</a></p>
-</div>
+2020</a></p></figcaption>
+</figure>
 <!--_-->
 <aside class="notes">
 <p>Em contrapartida, Pedro, o venerável rebateu essa argumentação,
@@ -800,10 +794,9 @@ estrutura ou os volumes.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:gothic-1180">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Map_France_Gothic_1180.svg/900px-Map_France_Gothic_1180.svg.png"
-id="fig:gothic-1180"
 alt="Algumas das primeiras igrejas góticas na França, século XII. Amarelo escuro: extensão territorial do reino da França c. 1180; amarelo claro: domínio real" />
 <figcaption aria-hidden="true">Algumas das primeiras igrejas góticas na
 França, século <span class="smallcaps">XII</span>. Amarelo escuro:
@@ -848,10 +841,9 @@ contemporâneo de Bernardo de Claraval. Por conseguinte, também entra no
 debate sobre o ornamento, tentando resolvê-lo de uma forma muito
 interessante para o desenvolvimento da arquitetura daí em diante.</p>
 </aside>
-<figure>
+<figure id="fig:sdenis-golvin">
 <img
 data-src="https://i.pinimg.com/originals/48/61/78/486178da2dc49222c9073ca6180b4614.jpg"
-id="fig:sdenis-golvin"
 alt="Abadia de S. Dionísio (Saint-Denis), igreja concebida pelo abade Suger e construída 1135–1151. Reconstituição de Jean-Claude Golvin" />
 <figcaption aria-hidden="true">Abadia de S. Dionísio (Saint-Denis),
 igreja concebida pelo abade Suger e construída 1135–1151. Reconstituição
@@ -861,10 +853,9 @@ Golvin</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:suger">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Vitraux_Saint-Denis_190110_19.jpg/704px-Vitraux_Saint-Denis_190110_19.jpg"
-id="fig:suger"
 alt="Anunciação com retrato do abade Suger prostrado, basílica de Saint-Denis, século XII. Foto: Vassil, 2010" />
 <figcaption aria-hidden="true">Anunciação com retrato do abade Suger
 prostrado, basílica de Saint-Denis, século <span
@@ -889,10 +880,9 @@ presente em um plano superior aos ornamentos pintados ou esculpidos.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:charlemagne">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Musee-de-l-Oeuvre-Notre-Dame-Strasbourg-IMG_1465_crop.JPG/392px-Musee-de-l-Oeuvre-Notre-Dame-Strasbourg-IMG_1465_crop.JPG"
-id="fig:charlemagne"
 alt="Imperador em majestade, dito Carlos Magno, num vitral da catedral de Estrasburgo, século XII. Foto: Rama, 2006" />
 <figcaption aria-hidden="true">Imperador em majestade, dito Carlos
 Magno, num vitral da catedral de Estrasburgo, século <span
@@ -931,10 +921,10 @@ data-cites="stanley:2006original65">(Stanley)</span> para poder fazer
 janelas cada vez maiores e eliminar, assim, a maior parte das
 superfícies pintadas e esculpidas.</p>
 </aside>
-<figure>
+<figure id="fig:sdenis-caro">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/1/12/SaintDenisCarolingienne.png"
-id="fig:sdenis-caro" class="nobg"
+class="nobg"
 alt="Saint-Denis, reconstituição da igreja do século IX sobreposta à implantação da atual basílica. Desenho: J. Chancerel, 2017" />
 <figcaption aria-hidden="true">Saint-Denis, reconstituição da igreja do
 século <span class="smallcaps">IX</span> sobreposta à implantação da
@@ -945,10 +935,9 @@ Chancerel, 2017</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:chevillard">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/8/86/Plan_de_l&#39;église_royale_de_St_Denis_en_France,_sépulture_de_nos_Roys.jpg"
-id="fig:chevillard"
 alt="Planta da basílica de Saint-Denis. Edição de Jacques Chevillard, 1705" />
 <figcaption aria-hidden="true">Planta da basílica de Saint-Denis. Edição
 de <a href="https://gallica.bnf.fr/ark:/12148/btv1b55002319z">Jacques
@@ -957,10 +946,9 @@ Chevillard, 1705</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:sdenis-choeur">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Saint-Denis,_Kathedrale,_Innenansicht_(12).jpg/2560px-Saint-Denis,_Kathedrale,_Innenansicht_(12).jpg"
-id="fig:sdenis-choeur"
 alt="Basílica de Saint-Denis, coro e transepto, 1140–1144. Foto: Zairon, 2022" />
 <figcaption aria-hidden="true">Basílica de Saint-Denis, coro e
 transepto, 1140–1144. Foto: <a
@@ -970,10 +958,10 @@ href="https://commons.wikimedia.org/wiki/File:Saint-Denis,_Kathedrale,_Innenansi
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:choisy-aretes">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Histoire_de_larchitecture_Tome_2_Choisy_Auguste_bpt6k6584016q_212_Voûtes_romanes_Bourgogne_et_Rhin.png"
-id="fig:choisy-aretes" class="line"
+class="line"
 alt="Abóbadas de aresta românicas com reforços transversais nervurados. Desenho: Auguste Choisy, 1899" />
 <figcaption aria-hidden="true">Abóbadas de aresta românicas com reforços
 transversais nervurados. Desenho: <a
@@ -983,10 +971,10 @@ href="https://gallica.bnf.fr/ark:/12148/bpt6k6584016q/">Auguste Choisy,
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:choisy-sambrogio">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Histoire_de_l&#39;architecture_Tome_2_Choisy_Auguste_bpt6k6584016q_476_Saint-Ambroise_Milan.png"
-id="fig:choisy-sambrogio" class="line"
+class="line"
 alt="Basílica de Santo Ambrósio, Milão, c. 1128–1140. Desenho: Auguste Choisy, 1899" />
 <figcaption aria-hidden="true">Basílica de Santo Ambrósio, Milão,
 c. 1128–1140. Desenho: <a
@@ -996,10 +984,9 @@ href="https://gallica.bnf.fr/ark:/12148/bpt6k6584016q/">Auguste Choisy,
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:cummings-sambrogio">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/A_history_of_architecture_in_Italy_from_the_time_of_Constantine_to_the_dawn_of_the_renaissance_(1901)_(14597406179).jpg/1024px-A_history_of_architecture_in_Italy_from_the_time_of_Constantine_to_the_dawn_of_the_renaissance_(1901)_(14597406179).jpg"
-id="fig:cummings-sambrogio"
 alt="Basílica de Santo Ambrósio. Corte longitudinal da nave e coro em Charles Cummings, 1901" />
 <figcaption aria-hidden="true">Basílica de Santo Ambrósio. Corte
 longitudinal da nave e coro em <a
@@ -1010,10 +997,10 @@ Cummings, 1901</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:ogives">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Histoire_de_l&#39;architecture_Tome_2_Choisy_Auguste_bpt6k6584016q_284_Voûte_gothique.png"
-id="fig:ogives" class="line"
+class="line"
 alt="Abóbada nervurada em cruzaria, com arco diagonal pleno e arco transversal ogival. Desenho por Auguste Choisy, 1899" />
 <figcaption aria-hidden="true">Abóbada nervurada em cruzaria, com arco
 diagonal pleno e arco transversal ogival. Desenho por <a
@@ -1032,10 +1019,10 @@ class="smallcaps">(G)</span> entre a parede externa das naves e os
 contrafortes. Pouco a pouco, os contrafortes vão sendo totalmente
 descolados da parede <span class="smallcaps">(X)</span>.</p>
 </aside>
-<figure>
+<figure id="fig:choisy-contrefort">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Histoire_de_l&#39;architecture_Tome_2_Choisy_Auguste_bpt6k6584016q_313_Contreforts_gothiques.png/918px-Histoire_de_l&#39;architecture_Tome_2_Choisy_Auguste_bpt6k6584016q_313_Contreforts_gothiques.png"
-id="fig:choisy-contrefort" class="line"
+class="line"
 alt="Separação progressiva do contraforte e da parede, segundo Auguste Choisy, 1899" />
 <figcaption aria-hidden="true">Separação progressiva do contraforte e da
 parede, segundo <a
@@ -1046,10 +1033,10 @@ href="https://gallica.bnf.fr/ark:/12148/bpt6k6584016q/">Auguste Choisy,
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:choisy-arcboutant">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/3/30/Histoire_de_l&#39;architecture_Tome_2_Choisy_Auguste_bpt6k6584016q_323_Arcs-boutants_Soissons_Saint-Denis.png"
-id="fig:choisy-arcboutant" class="line"
+class="line"
 alt="Arcos-botantes góticos. A – esquema conceitual, B – catedral de Soissons, 1212–1230, C – basílica de Saint-Denis, 1231–1264. Desenho: Auguste Choisy, 1899" />
 <figcaption aria-hidden="true">Arcos-botantes góticos. <span
 class="smallcaps">A</span> – esquema conceitual, <span
@@ -1071,10 +1058,9 @@ nave a um contraforte distante dela, em geral por cima de uma nave menor
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:sisinnius">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Musée_de_Cluny_Naissance_de_la_sculpture_gothique_Chapiteau_Trois_saints_Abbatiale_Saint-Denis_05012019_2.jpg/2306px-Musée_de_Cluny_Naissance_de_la_sculpture_gothique_Chapiteau_Trois_saints_Abbatiale_Saint-Denis_05012019_2.jpg"
-id="fig:sisinnius"
 alt="Antiga igreja de Saint-Denis, século IX, capitel historiado da prisão de S. Dionísio. Foto: Vassil, 2019" />
 <figcaption aria-hidden="true">Antiga igreja de Saint-Denis, século
 <span class="smallcaps">IX</span>, capitel historiado da prisão de S.
@@ -1085,10 +1071,9 @@ href="https://commons.wikimedia.org/wiki/File:Musée_de_Cluny_Naissance_de_la_sc
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:sdenis-chapit">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Saint-Denis_(93),_basilique_Saint-Denis,_pilier_des_grandes_arcades_au_nord_de_la_nef.jpg/1024px-Saint-Denis_(93),_basilique_Saint-Denis,_pilier_des_grandes_arcades_au_nord_de_la_nef.jpg"
-id="fig:sdenis-chapit"
 alt="Basílica de Saint-Denis, capitéis nos feixes de pilares ao norte do cruzeiro, anterior a 1140. Foto: P. Poschadel, 2013" />
 <figcaption aria-hidden="true">Basílica de Saint-Denis, capitéis nos
 feixes de pilares ao norte do cruzeiro, anterior a 1140. Foto: <a
@@ -1112,10 +1097,9 @@ personagem bíblica (fig. 36). Nisso, os vitrais góticos divergem dos
 românicos, que se concentravam na representação de uma personagem
 singular (ver fig. 24).</p>
 </aside>
-<figure>
+<figure id="fig:sdenis-rosace">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Saint-Denis_Cathedral3481.JPG/2560px-Saint-Denis_Cathedral3481.JPG"
-id="fig:sdenis-rosace"
 alt="Basílica de Saint-Denis, rosácea do transepto sul, século XII. Foto: G. Freihalter, 2011" />
 <figcaption aria-hidden="true">Basílica de Saint-Denis, rosácea do
 transepto sul, século <span class="smallcaps">XII</span>. Foto: <a
@@ -1125,10 +1109,9 @@ Freihalter, 2011</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:sdenis-nef">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Basilica_of_Saint-Denis,_Paris,_France_01.jpg/2560px-Basilica_of_Saint-Denis,_Paris,_France_01.jpg"
-id="fig:sdenis-nef"
 alt="Pierre de Montreuil, arquiteto, Basílica de Saint-Denis, nave central, 1140–1264. Foto: Ninaras, 2016" />
 <figcaption aria-hidden="true">Pierre de Montreuil, arquiteto, Basílica
 de Saint-Denis, nave central, 1140–1264. Foto: <a
@@ -1140,10 +1123,9 @@ href="https://commons.wikimedia.org/wiki/File:Basilica_of_Saint-Denis,_Paris,_Fr
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:sdenis-intrados">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Ceiling_%40_Basilique_de_Saint-Denis_%40_Saint-Denis_(30595835712).jpg/2560px-Ceiling_%40_Basilique_de_Saint-Denis_%40_Saint-Denis_(30595835712).jpg"
-id="fig:sdenis-intrados"
 alt="Pierre de Montreuil, arquiteto, basílica de Saint-Denis, intradorso das abóbadas da nave central, 1231–1264. Foto: Guilhem Vellut, 2016" />
 <figcaption aria-hidden="true">Pierre de Montreuil, arquiteto, basílica
 de Saint-Denis, intradorso das abóbadas da nave central, 1231–1264.
@@ -1352,10 +1334,10 @@ ser o sinônimo do profissional que faz esse desenho, tornando seu papel
 cada vez mais de planejamento da construção, tanto em seu processo
 executivo, quanto na sua aparência.</p>
 </aside>
-<figure>
+<figure id="fig:strasbourg-dwg">
 <img
 data-src="https://i.pinimg.com/originals/29/21/e0/2921e0a5cddcb9c87574995c48c9402a.jpg"
-id="fig:strasbourg-dwg" class="line"
+class="line"
 alt="Projeto para a fachada da catedral de Estrasburgo, c. 1260. Museu da obra da catedral de Estrasburgo" />
 <figcaption aria-hidden="true">Projeto para a fachada da catedral de
 Estrasburgo, c. 1260. <a
@@ -1372,10 +1354,10 @@ data-cites="arce:2008umayyad">(Arce)</span></p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:viollet-rome">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/3/32/Construction.voute.romaine.png"
-id="fig:viollet-rome" class="line"
+class="line"
 alt="Cimbramento para uma abóbada de berço segundo Viollet-le-Duc, 1856" />
 <figcaption aria-hidden="true">Cimbramento para uma abóbada de berço
 segundo <a
@@ -1385,10 +1367,9 @@ href="https://commons.wikimedia.org/wiki/File:Construction.voute.romaine.png">Vi
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:lucerne">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/AbbaziaLaLucerneCentinaVolte.JPG/1280px-AbbaziaLaLucerneCentinaVolte.JPG"
-id="fig:lucerne"
 alt="Cimbramento para a reconstrução das abóbadas da abadia de Sainte-Trinité-de-la-Lucerne. Foto: MM, 2010" />
 <figcaption aria-hidden="true">Cimbramento para a reconstrução das
 abóbadas da abadia de Sainte-Trinité-de-la-Lucerne. Foto: <a
@@ -1398,10 +1379,9 @@ href="https://commons.wikimedia.org/wiki/File:AbbaziaLaLucerneCentinaVolte.JPG">
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:grue">
 <img
 data-src="https://i.pinimg.com/originals/47/4c/82/474c828978723d676aaf80cba0afefe1.jpg"
-id="fig:grue"
 alt="Guindaste na carpintaria de uma igreja gótica. Desenho de Jean-Claude Golvin" />
 <figcaption aria-hidden="true">Guindaste na carpintaria de uma igreja
 gótica. Desenho de <a
@@ -1439,30 +1419,29 @@ diagonais e uso de ogivas nos arcos transversais</li>
 contrafortes maciços e a introdução dos arcos botantes.</li>
 </ul>
 </aside>
-<div id="fig:cathedral-model"
+<figure id="fig:cathedral-model"
 class="subfigures iframe-wrapper sketchfab-embed-wrapper">
 <iframe title="Medieval Cathedral" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/f0d3f81512cc4e7092325d9225ccead8/embed">
 </iframe>
-<p><a href="https://sketchfab.com/3d-models/medieval-cathedral-f0d3f81512cc4e7092325d9225ccead8" target="_blank">Esquema
+<figcaption><p><a href="https://sketchfab.com/3d-models/medieval-cathedral-f0d3f81512cc4e7092325d9225ccead8" target="_blank">Esquema
 estrutural de uma catedral gótica</a>. Modelo digital por
 <a href="https://sketchfab.com/mdzhang" target="_blank"> Myles Zhang
 </a> no <a href="https://sketchfab.com" target="_blank">Sketchfab</a>,
-2017. </p>
-</div>
+2017. </p></figcaption>
+</figure>
 </section></section>
 <section id="bibliografia"
 class="title-slide slide level1 unnumbered unlisted allowframebreaks">
 <h1 class="unnumbered unlisted allowframebreaks">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-ackerman:1997villard18" class="csl-entry"
-role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-ackerman:1997villard18" class="csl-entry" role="listitem">
 Ackerman, James S. <span>“Villard de Honnecourt’s Drawings of Reims
 Cathedral: A Study in Architectural Representation”</span>. <em>Artibus
 Et Historiae</em>, vol. 18, nº 35, 1997, p. 41–49. <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/1483536">https://doi.org/10.2307/1483536</a>.
 </div>
-<div id="ref-arce:2008umayyad" class="csl-entry" role="doc-biblioentry">
+<div id="ref-arce:2008umayyad" class="csl-entry" role="listitem">
 Arce, Ignacio. <span>“Umayyad Building Techniques and the Merging of
 Roman-Byzantine and Partho-Sassanian Traditions: Continuity and
 Change”</span>. <em>Technology in Transition <span
@@ -1470,101 +1449,88 @@ class="smallcaps">A.D.</span> 300-650</em>, organizado por Luke Lavan et
 al., Brill, 2008, p. 491–537. <em>DOI.org (Crossref)</em>, <a
 href="https://doi.org/10.1163/ej.9789004165496.i-573.168">https://doi.org/10.1163/ej.9789004165496.i-573.168</a>.
 </div>
-<div id="ref-bork:2011geometry" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-bork:2011geometry" class="csl-entry" role="listitem">
 Bork, Robert Odell. <em>The Geometry of Creation: Architectural Drawing
 and the Dynamics of Gothic Design</em>. Ashgate, 2011.
 </div>
-<div id="ref-branner:1958drawings17" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-branner:1958drawings17" class="csl-entry" role="listitem">
 Branner, Robert. <span>“Drawings from a Thirteenth-Century Architect’s
 Shop: The Reims Palimpsest”</span>. <em>Journal of the Society of
 Architectural Historians</em>, vol. 17, nº 4, 1958, p. 9–21.
 <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/987945">https://doi.org/10.2307/987945</a>.
 </div>
-<div id="ref-branner:1960villard19" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-branner:1960villard19" class="csl-entry" role="listitem">
 ---. <span>“Villard de Honnecourt, Archimedes, and Chartres”</span>.
 <em>Journal of the Society of Architectural Historians</em>, vol. 19, nº
 3, 1960, p. 91–96. <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/988023">https://doi.org/10.2307/988023</a>.
 </div>
-<div id="ref-buras:2019art" class="csl-entry" role="doc-biblioentry">
+<div id="ref-buras:2019art" class="csl-entry" role="listitem">
 Buras, Nir Haim. <em>The Art of Classic Planning: Building Beautiful and
 Enduring Communities</em>. The Belknap Press of Harvard University
 Press, 2019.
 </div>
-<div id="ref-carreira:1997estudos" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-carreira:1997estudos" class="csl-entry" role="listitem">
 Carreira, Eduardo, e Villard de Honnecourt. <em>Estudos de iconografia
 medieval: o caderno de Villard de Honnecourt, arquiteto do século <span
 class="smallcaps">XIII</span></em>. Editora UnB, 1997.
 </div>
-<div id="ref-choisy:1899histoire2" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-choisy:1899histoire2" class="csl-entry" role="listitem">
 Choisy, Auguste. <em>Histoire de l’architecture</em>. Gauthier-Villars,
 1899, <a
 href="https://gallica.bnf.fr/ark:/12148/bpt6k6584016q">https://gallica.bnf.fr/ark:/12148/bpt6k6584016q</a>.
 </div>
 <div id="ref-fitchen:1981construction" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Fitchen, John. <em>The Construction of Gothic Cathedrals : A Study of
 Medieval Vault Erection</em>. University of Chicago Press, 1981.
 <em>Internet Archive</em>, <a
 href="http://archive.org/details/constructionofgo00fitc">http://archive.org/details/constructionofgo00fitc</a>.
 </div>
-<div id="ref-fletcher:1905history" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-fletcher:1905history" class="csl-entry" role="listitem">
 Fletcher, Banister, e Banister F. Fletcher. <em>A History of
 Architecture on the Comparative Method for the Student, Craftsman, and
 Amateur</em>. 5º ed, Batsford : Scribner’s sons, 1905. <em>Internet
 Archive</em>, <a
 href="http://archive.org/details/historyofarchite00flet">http://archive.org/details/historyofarchite00flet</a>.
 </div>
-<div id="ref-gabriel:2004classical" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-gabriel:2004classical" class="csl-entry" role="listitem">
 Gabriel, J. François. <em>Classical Architecture for the Twenty-First
 Century: An Introduction to Design</em>. W.W. Norton, 2004.
 </div>
-<div id="ref-liang:1984pictorial" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-liang:1984pictorial" class="csl-entry" role="listitem">
 Liang, Sicheng. <em>A Pictorial History of Chinese Architecture: A Study
 of the Development of Its Structural System and the Evolution of Its
 Types = 图像中国建筑史</em>. Organizado por Wilma Fairbank, <span
 class="smallcaps">MIT</span> Press, 1984.
 </div>
-<div id="ref-rudolph:1988bernard27" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-rudolph:1988bernard27" class="csl-entry" role="listitem">
 Rudolph, Conrad. <span>“Bernard of Clairvaux’s Apologia as a Description
 of Cluny, and the Controversy over Monastic Art”</span>. <em>Gesta</em>,
 vol. 27, nº 1/2, 1988, p. 125–32. <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/767000">https://doi.org/10.2307/767000</a>.
 </div>
-<div id="ref-rudolph:2011inventing93" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-rudolph:2011inventing93" class="csl-entry" role="listitem">
 ---. <span>“Inventing the Exegetical Stained-Glass Window: Suger, Hugh,
 and a New Elite Art”</span>. <em>The Art Bulletin</em>, vol. 93, nº 4,
 2011, p. 399–422. <em>JSTOR</em>, <a
 href="https://www.jstor.org/stable/23208267">https://www.jstor.org/stable/23208267</a>.
 </div>
-<div id="ref-stanley:2006original65" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-stanley:2006original65" class="csl-entry" role="listitem">
 Stanley, David J. <span>“The Original Buttressing of Abbot Suger’s
 Chevet at the Abbey of Saint-Denis”</span>. <em>Journal of the Society
 of Architectural Historians</em>, vol. 65, nº 3, 2006, p. 334–55.
 <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/25068292">https://doi.org/10.2307/25068292</a>.
 </div>
-<div id="ref-toker:1985gothic67" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-toker:1985gothic67" class="csl-entry" role="listitem">
 Toker, Franklin. <span>“Gothic Architecture by Remote Control: An
 Illustrated Building Contract of 1340”</span>. <em>The Art
 Bulletin</em>, vol. 67, nº 1, 1985, p. 67–95. <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/3050888">https://doi.org/10.2307/3050888</a>.
 </div>
-<div id="ref-walker:2007theory" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-walker:2007theory" class="csl-entry" role="listitem">
 Walker, Charles Howard. <em>Theory of Mouldings</em>. W.W. Norton, 2007.
 </div>
 </div>

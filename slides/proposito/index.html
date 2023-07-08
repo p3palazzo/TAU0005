@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -74,10 +79,9 @@ class="slide level2">
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:voisin">
 <img
 data-src="https://i.pinimg.com/originals/d3/0b/b0/d30bb0b052ef68928e7102de59b6a235.jpg"
-id="fig:voisin"
 alt="Le Corbusier, arquiteto, maquete do plano Voisin com a sua inserção no centro histórico de Paris (1925)" />
 <figcaption aria-hidden="true">Le Corbusier, arquiteto, maquete do plano
 Voisin com a sua inserção no centro histórico de Paris
@@ -87,10 +91,9 @@ Voisin com a sua inserção no centro histórico de Paris
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:boston">
 <img
 data-src="https://i.pinimg.com/originals/a3/47/6f/a3476f62ba2541c10242596a727afac9.jpg"
-id="fig:boston"
 alt="West End, Boston, demolição do bairro para construção do novo centro administrativo. Foto: Lawrence Lowry, 1959" />
 <figcaption aria-hidden="true">West End, Boston, demolição do bairro
 para construção do novo centro administrativo. Foto: <a
@@ -100,10 +103,9 @@ Lowry, 1959</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:poelaert">
 <img
 data-src="https://i.pinimg.com/originals/d8/48/c1/d848c1ee4da9aa968257089cc61207cf.jpg"
-id="fig:poelaert"
 alt="Henri Poelaert, arquiteto, palácio de Justiça de Bruxelas. Foto de 1905" />
 <figcaption aria-hidden="true">Henri Poelaert, arquiteto, palácio de
 Justiça de Bruxelas. Foto de 1905</figcaption>
@@ -112,11 +114,10 @@ Justiça de Bruxelas. Foto de 1905</figcaption>
 <section id="sete-tipos-edilícios" class="slide level2">
 <h2>Sete tipos edilícios</h2>
 <div class="full">
-<figure>
+<figure id="fig:7types">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png"
-id="fig:7types" class="nobg"
-alt="Sete tipos edilícios. Baseado em Westfall, 1991" />
+class="nobg" alt="Sete tipos edilícios. Baseado em Westfall, 1991" />
 <figcaption aria-hidden="true">Sete tipos edilícios. Baseado em
 Westfall, 1991</figcaption>
 </figure>
@@ -168,10 +169,9 @@ delimita fisicamente o espaço para conferir um uso que pode ser
 </section>
 <section id="domus" class="slide level2">
 <h2>Domus</h2>
-<figure>
+<figure id="fig:domus-model">
 <img
 data-src="https://i.pinimg.com/originals/20/2d/b6/202db664aff50fae7bb755bbdc8bfa68.jpg"
-id="fig:domus-model"
 alt="Modelo de uma casa romana de classe média alta" />
 <figcaption aria-hidden="true">Modelo de uma casa romana de classe média
 alta</figcaption>
@@ -199,10 +199,12 @@ sendo a da frente aberta e a posterior mais privada.</p>
 <section id="taberna" class="slide level2">
 <h2>Taberna</h2>
 <div class="align-right">
+<figure id="fig:tabernae-ostia">
 <img
 data-src="https://i.pinimg.com/originals/e4/55/64/e45564c769935f31aa6d72d1cf52494f.gif"
-title="fig:" id="fig:tabernae-ostia" class="r-stretch"
-alt="Tabernas romanas em Ostia" />
+class="r-stretch" alt="Tabernas romanas em Ostia" />
+<figcaption aria-hidden="true">Tabernas romanas em Ostia</figcaption>
+</figure>
 </div>
 <aside class="notes">
 <dl>
@@ -231,9 +233,12 @@ o caso das <em>insulae</em> da Roma antiga, muito semelhantes aos
 edifícios de apartamentos com comércio no térreo que encontramos hoje em
 dia nas nossas cidades (fig. 7).</p>
 </aside>
+<figure id="fig:insula">
 <img
 data-src="https://i.pinimg.com/originals/71/52/9b/71529b85b0c089b17295cca68e1ce39d.jpg"
-title="fig:" id="fig:insula" class="r-stretch" alt="Insula em Ostia" />
+class="r-stretch" alt="Insula em Ostia" />
+<figcaption aria-hidden="true">Insula em Ostia</figcaption>
+</figure>
 </section>
 <section id="tipos-cívicos" class="slide level2">
 <h2>Tipos cívicos</h2>
@@ -264,10 +269,9 @@ convencional também tem esse formato com um ponto focal único.</p>
 </dd>
 </dl>
 </aside>
-<figure>
+<figure id="fig:megaron-par">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Acropolis_architectural_model_-2.jpg/1280px-Acropolis_architectural_model_-2.jpg"
-id="fig:megaron-par"
 alt="Mégarōn: Modelo do Partenon na Acrópole de Atenas" />
 <figcaption aria-hidden="true">Mégarōn: Modelo do Partenon na Acrópole
 de Atenas</figcaption>
@@ -275,10 +279,9 @@ de Atenas</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:regia-beijing">
 <img
 data-src="https://i.pinimg.com/originals/ab/4d/ff/ab4dff883ae4e3b18eb388b93ab8c164.jpg"
-id="fig:regia-beijing"
 alt="Régia: Cidade proibida, Pequim, séculos XIII a XIX" />
 <figcaption aria-hidden="true">Régia: Cidade proibida, Pequim, séculos
 <span class="smallcaps">XIII</span> a <span
@@ -317,10 +320,9 @@ objetivo.</p>
 </dd>
 </dl>
 </aside>
-<figure>
+<figure id="fig:theatrum">
 <img
 data-src="https://i.pinimg.com/originals/6f/9b/30/6f9b30a26bfd549f68007469507b7150.jpg"
-id="fig:theatrum"
 alt="Teatro romano em Dougga, atual Tunísia, reconstituição por Jean-Claude Golvin" />
 <figcaption aria-hidden="true">Teatro romano em Dougga, atual Tunísia,
 reconstituição por Jean-Claude Golvin</figcaption>
@@ -329,10 +331,9 @@ reconstituição por Jean-Claude Golvin</figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:tholos-amour">
 <img
 data-src="https://i.pinimg.com/originals/5c/62/72/5c62723678b10a208d7c6116142e9a44.jpg"
-id="fig:tholos-amour"
 alt="Tholos: Templo do amor, jardins de Versalhes" />
 <figcaption aria-hidden="true">Tholos: Templo do amor, jardins de
 Versalhes</figcaption>
@@ -368,10 +369,9 @@ rigor.</p>
 podem ser recombinadas para formar edifícios complexos e conjuntos
 arquitetônicos mais extensos, como no fórum de Trajano (fig. 12).</p>
 </aside>
-<figure>
+<figure id="fig:ulpia">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Foro_de_Trajano-planta.png"
-id="fig:ulpia"
 alt="Fórum de Trajano e Basílica Ulpia, início do século II d.C. Desenho: 3coma14, 2011" />
 <figcaption aria-hidden="true">Fórum de Trajano e Basílica Ulpia, início
 do século <span class="smallcaps">II</span> d.C. Desenho: <a
@@ -389,24 +389,28 @@ href="https://commons.wikimedia.org/wiki/File:Foro_de_Trajano-planta.png">3coma1
 </section>
 <section class="slide level2">
 
-<div id="fig:muratori-operante" class="subfigures columns">
+<figure id="fig:muratori-operante" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:rialto2">
 <img
 data-src="https://i.pinimg.com/originals/83/d7/aa/83d7aaf6b03c227a45dd77834287c0a0.jpg"
-id="fig:rialto2" />
+alt="II Fase, século XIV" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:rialto3">
 <img
 data-src="https://i.pinimg.com/originals/30/6e/06/306e06706a00fbe0fee772344543ecb7.jpg"
-id="fig:rialto3" />
+alt="III Fase, século XVI" />
+<figcaption></figcaption>
 </figure>
-</div><p>Saverio Muratori, processo de urbanização do bairro Rialto,
-Veneza. <em>Studi per una operante storia di Venezia</em>, 1959. a – II
-Fase, século <span class="smallcaps">XIV</span>, b – III Fase, século
-<span class="smallcaps">XVI</span></p>
 </div>
+<figcaption><p>Saverio Muratori, processo de urbanização do bairro
+Rialto, Veneza. <em>Studi per una operante storia di Venezia</em>, 1959.
+a – II Fase, século <span class="smallcaps">XIV</span>, b – III Fase,
+século <span class="smallcaps">XVI</span></p></figcaption>
+</figure>
 <aside class="notes">
 <p>A tipologia processual é uma metodologia de análise e projeto
 desenvolvida na década de 1950 por Saverio Muratori, quando ele era
@@ -417,10 +421,10 @@ data-cites="muratori:1959studiix">(Muratori)</span>.</p>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:cell">
 <img
 data-src="https://i.pinimg.com/originals/b6/00/66/b60066a2d03348fa0174e53329776036.png"
-id="fig:cell" class="line"
+class="line"
 alt="Tipos de células base do Mediterrâneo ocidental. Desenho: Pedro P. Palazzo, 2021" />
 <figcaption aria-hidden="true">Tipos de células base do Mediterrâneo
 ocidental. Desenho: Pedro P. Palazzo, 2021</figcaption>
@@ -440,10 +444,10 @@ Maffei, <em>Lettura dell’edilizia di base</em>; Caniggia e Maffei,
 (1880–1930)”</span>)</span>.</p>
 </aside>
 <div class="align-right">
-<figure>
+<figure id="fig:lettura-11">
 <img
 data-src="https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png"
-id="fig:lettura-11" class="line nobg"
+class="line nobg"
 alt="Tipos de base e duplicações, levantados na década de 1940 por Gianfranco Caniggia" />
 <figcaption aria-hidden="true">Tipos de base e duplicações, levantados
 na década de 1940 por Gianfranco Caniggia</figcaption>
@@ -453,10 +457,10 @@ na década de 1940 por Gianfranco Caniggia</figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:centuriatio">
 <img
 data-src="https://i.pinimg.com/originals/14/da/35/14da35306476616c8e041b5bbda0ed01.jpg"
-id="fig:centuriatio" alt="Centuriação romana" />
+alt="Centuriação romana" />
 <figcaption aria-hidden="true">Centuriação romana</figcaption>
 </figure>
 </div>
@@ -467,10 +471,9 @@ id="fig:centuriatio" alt="Centuriação romana" />
 <p><span class="citation" data-cites="caniggia:1984lettura">(Caniggia,
 <em>Como</em>)</span></p>
 </aside>
-<figure>
+<figure id="fig:como-2fase">
 <img
 data-src="https://i.pinimg.com/originals/85/9c/ca/859ccaa45f361cac1c2c3414659dbaaa.png"
-id="fig:como-2fase"
 alt="Como, Itália, II fase da ocupação romana. Levantamento por Gianfranco Caniggia, 1965" />
 <figcaption aria-hidden="true">Como, Itália, II fase da ocupação romana.
 Levantamento por Gianfranco Caniggia, 1965</figcaption>
@@ -478,10 +481,10 @@ Levantamento por Gianfranco Caniggia, 1965</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:como-processo">
 <img
 data-src="https://i.pinimg.com/originals/ab/3a/78/ab3a78f1ebcac7b42ae32a579e951bc8.png"
-id="fig:como-processo" class="line nobg"
+class="line nobg"
 alt="Processo tipológico em Como, Itália. Levantamento por Gianfranco Caniggia, 1965" />
 <figcaption aria-hidden="true">Processo tipológico em Como, Itália.
 Levantamento por Gianfranco Caniggia, 1965</figcaption>
@@ -489,22 +492,26 @@ Levantamento por Gianfranco Caniggia, 1965</figcaption>
 </section>
 <section class="slide level2">
 
-<div id="fig:diacroniche" class="subfigures columns">
+<figure id="fig:diacroniche" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:lettura-12">
 <img
 data-src="https://i.pinimg.com/originals/af/ee/41/afee4121794179b754ae4d2aaf8246af.png"
-id="fig:lettura-12" />
+alt="Florença, Roma e Gênova" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:lettura-17">
 <img
 data-src="https://i.pinimg.com/originals/f1/4b/4f/f14b4ff392beb8b13d18678010250737.png"
-id="fig:lettura-17" />
+alt="Pienza" />
+<figcaption></figcaption>
 </figure>
-</div><p>Mutações diacrônicas na edilícia de base. Gianfranco Caniggia,
-1977. a – Florença, Roma e Gênova, b – Pienza</p>
 </div>
+<figcaption><p>Mutações diacrônicas na edilícia de base. Gianfranco
+Caniggia, 1977. a – Florença, Roma e Gênova, b – Pienza</p></figcaption>
+</figure>
 </section>
 <section id="processo-tipológico" class="slide level2">
 <h2>Processo tipológico</h2>
@@ -528,10 +535,16 @@ Crescente fértil <span class="citation"
 data-cites="strappa:2016morfologia">(Strappa et al.)</span>
 (fig. 20).</p>
 </aside>
+<figure id="fig:processo">
 <img
 data-src="https://i.pinimg.com/originals/15/5d/f6/155df6a9f3d932e6dc00fcada0f0e9a9.jpg"
-title="fig:" id="fig:processo" class="r-stretch"
+class="r-stretch"
 alt="Processo tipológico da casa de células até a casa-pátio. Desenho: Giuseppe Strappa" />
+<figcaption aria-hidden="true">Processo tipológico da casa de células
+até a casa-pátio. Desenho: <a
+href="http://www.giuseppestrappa.it/?p=1517">Giuseppe
+Strappa</a></figcaption>
+</figure>
 </section>
 <section id="princípios-do-projeto-tipológico" class="slide level2">
 <h2>Princípios do projeto tipológico</h2>
@@ -539,10 +552,10 @@ alt="Processo tipológico da casa de células até a casa-pátio. Desenho: Giuse
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:ammaia">
 <img
 data-src="https://i.pinimg.com/originals/38/53/78/3853787c5bb35c2660725d56b87ad737.png"
-id="fig:ammaia" class="nobg" alt="Ammaia, Lusitânia romana" />
+class="nobg" alt="Ammaia, Lusitânia romana" />
 <figcaption aria-hidden="true">Ammaia, Lusitânia romana</figcaption>
 </figure>
 </div>
@@ -550,10 +563,12 @@ id="fig:ammaia" class="nobg" alt="Ammaia, Lusitânia romana" />
 <section class="slide level2">
 
 <div class="full">
+<figure id="fig:ammaia-aerea">
 <img
 data-src="https://i.pinimg.com/originals/d7/f9/da/d7f9da278b576a7743dd7213d2f42f0f.png"
-title="fig:" id="fig:ammaia-aerea" class="r-stretch"
-alt="Reconstituição de Ammaia" />
+class="r-stretch" alt="Reconstituição de Ammaia" />
+<figcaption aria-hidden="true">Reconstituição de Ammaia</figcaption>
+</figure>
 </div>
 </section></section>
 <section>
@@ -589,10 +604,10 @@ disponíveis).</p>
 <p>No Mediterrâneo ocidental durante o Império Romano são observados
 vários sítios com padrões que variam a cada região.</p>
 </aside>
-<figure>
+<figure id="fig:westmed">
 <img
 data-src="https://i.pinimg.com/originals/15/94/46/159446b303e23e0c10dfa07bd8bf7758.jpg"
-id="fig:westmed" alt="Mediterrâneo ocidental na época romana" />
+alt="Mediterrâneo ocidental na época romana" />
 <figcaption aria-hidden="true">Mediterrâneo ocidental na época
 romana</figcaption>
 </figure>
@@ -602,10 +617,9 @@ romana</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:lattara-urb">
 <img
 data-src="https://journals.openedition.org/gallia/docannexe/image/5147/img-3.jpg"
-id="fig:lattara-urb"
 alt="Sítio arqueológico de Lattara, feitoria etrusca no sul da Gália, séculos VII a.C.—III d.C. Desenho: Gailledrat e Vacheret, 2020" />
 <figcaption aria-hidden="true">Sítio arqueológico de Lattara, feitoria
 etrusca no sul da Gália, séculos <span class="smallcaps">VII</span>
@@ -632,10 +646,9 @@ atualmente), sendo a forma mais básica de construção daquela sociedade.
 Tal casa é pouco especializada e não demanda grandes
 especificidades.</p>
 </aside>
-<figure>
+<figure id="fig:lattara-27">
 <img
 data-src="https://journals.openedition.org/gallia/docannexe/image/5147/img-4.jpg"
-id="fig:lattara-27"
 alt="Macroparcela 27 de Lattara com as fundações de três casas de células etruscas. Desenho: Lebeaupin, 2014, ap. Gailledrat e Vacheret, 2020" />
 <figcaption aria-hidden="true">Macroparcela 27 de Lattara com as
 fundações de três casas de células etruscas. Desenho: Lebeaupin, 2014,
@@ -650,10 +663,10 @@ data-background-position="top">
 data-background-image="https://journals.openedition.org/gallia/docannexe/image/5147/img-9.jpg"
 data-background-position="top"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:lattara-absidial">
 <img
 data-src="https://journals.openedition.org/gallia/docannexe/image/5147/img-9.jpg"
-id="fig:lattara-absidial" class="slide-bg"
+class="slide-bg"
 alt="Casa absidial no subúrbio de Lattara. Reconstituição: M. Mondou, reproduzida por Gailledrat e Vacheret, 2020" />
 <figcaption aria-hidden="true">Casa absidial no subúrbio de Lattara.
 Reconstituição: M. Mondou, reproduzida por <a
@@ -688,10 +701,9 @@ outros por uma servidão muito estreita, com só 5′ de largura, ou 1,20
 metro <span class="citation"
 data-cites="cahill:2002household">(Cahill)</span>.</p>
 </aside>
-<figure>
+<figure id="fig:olynthus-blocks">
 <img
 data-src="https://i.pinimg.com/originals/96/23/5c/96235cdaade74213f55330def2e9c900.png"
-id="fig:olynthus-blocks"
 alt="Quarteirões em Olinto, Grécia, 432–348 a.C. Desenho em Cahill, 2002" />
 <figcaption aria-hidden="true">Quarteirões em Olinto, Grécia, 432–348
 a.C. Desenho em Cahill, 2002</figcaption>
@@ -699,10 +711,10 @@ a.C. Desenho em Cahill, 2002</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:olynthus-a-vii-4">
 <img
 data-src="https://i.pinimg.com/originals/22/dc/c7/22dcc7e8613bad5e3307ab455a701a01.png"
-id="fig:olynthus-a-vii-4" class="line"
+class="line"
 alt="Planta esquemática da casa A vii 4 em Olinto, segundo Cahill, 2002" />
 <figcaption aria-hidden="true">Planta esquemática da casa A vii 4 em
 Olinto, segundo Cahill, 2002</figcaption>
@@ -737,10 +749,9 @@ se encontra nas casas na cidade de Priene (figs. 29, 30) e de outras
 cidades gregas.</p>
 </aside>
 <div class="align-right">
-<figure>
+<figure id="fig:priene-casas">
 <img
 data-src="https://i.pinimg.com/originals/bd/79/93/bd7993471831f9cbb7df636bd15dfb74.jpg"
-id="fig:priene-casas"
 alt="Casas em Priene, reconstituídas por Whitley, 2001" />
 <figcaption aria-hidden="true">Casas em Priene, reconstituídas por
 Whitley, 2001</figcaption>
@@ -749,10 +760,9 @@ Whitley, 2001</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:priene-cg">
 <img
 data-src="https://i.pinimg.com/originals/16/6d/2a/166d2a4095ab30414873f55c0dd40906.jpg"
-id="fig:priene-cg"
 alt="Casas em Priene. Reconstituição por Gabriel Gourdoglou" />
 <figcaption aria-hidden="true">Casas em Priene. Reconstituição por <a
 href="http://gabrielgooo.byethost10.com/?ds-gallery=ancient-priene">Gabriel
@@ -762,10 +772,10 @@ Gourdoglou</a></figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:olynthus-cutaway">
 <img
 data-src="https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg"
-id="fig:olynthus-cutaway" alt="Reconstituição de casas em Olinto" />
+alt="Reconstituição de casas em Olinto" />
 <figcaption aria-hidden="true">Reconstituição de casas em
 Olinto</figcaption>
 </figure>
@@ -783,10 +793,9 @@ mas deixava entrar o sol de inverno, mais baixo.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:olynthus-brunner">
 <img
 data-src="https://i.pinimg.com/originals/73/2f/9d/732f9da38f7f93574423ce150dab9746.jpg"
-id="fig:olynthus-brunner"
 alt="Reconstituição de um pátio em Olinto, segundo Brunner" />
 <figcaption aria-hidden="true">Reconstituição de um pátio em Olinto,
 segundo Brunner</figcaption>
@@ -794,10 +803,9 @@ segundo Brunner</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:many-colors">
 <img
 data-src="https://i.pinimg.com/originals/0b/83/c4/0b83c43c455bf1085fdf4cd31a5a2043.png"
-id="fig:many-colors"
 alt="Olinto, casa das cores, reconstituição por Cahill, 2002" />
 <figcaption aria-hidden="true">Olinto, casa das cores, reconstituição
 por Cahill, 2002</figcaption>
@@ -863,10 +871,9 @@ questões culturais e climáticas, sendo mais axiais em sua configuração
 básica e sem tanto enfoque na orientação solar. Sua ampliação é feita
 através da multiplicação do tipo básico.</p>
 </aside>
-<figure>
+<figure id="fig:domus-cutaway">
 <img
 data-src="https://i.pinimg.com/originals/78/e3/94/78e394dbdb86e38fe1640b8f38a8c07d.jpg"
-id="fig:domus-cutaway"
 alt="Esquema de uma domus romana. Modelo: José Antonio" />
 <figcaption aria-hidden="true">Esquema de uma <em>domus</em> romana.
 Modelo: <a href="https://www.artstation.com/artwork/JlPPlR">José
@@ -875,10 +882,10 @@ Antonio</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:mau115">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Schematic_plan_of_a_Pompeian_house_in_Mau_fig115.png"
-id="fig:mau115" class="line"
+class="line"
 alt="Planta esquemática de uma domus na cidade romana de Pompeia, c. século I a.C.–I d.C. Desenho: August Mau, 1899" />
 <figcaption aria-hidden="true">Planta esquemática de uma <em>domus</em>
 na cidade romana de Pompeia, c. século <span class="smallcaps">I</span>
@@ -889,10 +896,10 @@ Mau, 1899</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:mau134">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/1/10/Plan_of_house_of_Sallustius_in_Mau_fig134.png"
-id="fig:mau134" class="line"
+class="line"
 alt="Planta da casa de Salústio, Pompeia, c. século II a.C.–I d.C. Desenho: August Mau, 1899" />
 <figcaption aria-hidden="true">Planta da casa de Salústio, Pompeia,
 c. século <span class="smallcaps">II</span> a.C.–<span
@@ -915,18 +922,23 @@ chefe da família recebia os seus clientes (fig. 37).</p>
 </section>
 <section class="slide level2">
 
+<figure id="fig:pansa">
 <img
 data-src="https://i.pinimg.com/originals/0c/c6/3e/0cc63e51be87b309970ed2ce18799bcf.gif"
-title="fig:" id="fig:pansa" class="r-stretch"
+class="r-stretch"
 alt="Casa de Pansa, Pompeia, vista do átrio através do tablinum até o peristilo. Reconstituição segundo Mau, 1899" />
+<figcaption aria-hidden="true">Casa de Pansa, Pompeia, vista do átrio
+através do <em>tablinum</em> até o peristilo. Reconstituição segundo
+Mau, 1899</figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:mau117">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuscan_atrium_in_Pompeii_Mau_fig117.png"
-id="fig:mau117" class="line"
+class="line"
 alt="Planta estrutural de um átrio toscano, segundo Mau, 1899" />
 <figcaption aria-hidden="true">Planta estrutural de um átrio toscano,
 segundo <a
@@ -944,10 +956,9 @@ estrutural mais curto e sustentam outras duas vigas secundárias
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:mau136">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Pompeii_-_its_life_and_art_(1899)_(14750073956).jpg"
-id="fig:mau136"
 alt="Corte longitudinal da casa de Salústio, Pompeia, século II a.C., compreendendo fauces, átrio e tablinum. Desenho: Mau, 1899" />
 <figcaption aria-hidden="true">Corte longitudinal da casa de Salústio,
 Pompeia, século <span class="smallcaps">II</span> a.C., compreendendo
@@ -960,18 +971,20 @@ href="https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42
 <section class="slide level2">
 
 <div class="align-right">
+<figure id="fig:cistern">
 <img
 data-src="https://i.pinimg.com/originals/9d/82/29/9d82297091f4dd4ca46997fab22659fc.jpg"
-title="fig:" id="fig:cistern" class="r-stretch"
-alt="Esquema de uma cisterna romana" />
+class="r-stretch" alt="Esquema de uma cisterna romana" />
+<figcaption aria-hidden="true">Esquema de uma cisterna
+romana</figcaption>
+</figure>
 </div>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:aregenua">
 <img
 data-src="https://i.pinimg.com/originals/27/5b/44/275b4456228531bf829a43b056a6c9dc.jpg"
-id="fig:aregenua"
 alt="Cisterna na casa do átrio em U, Aregenua, Gália romana (atual sítio de Vieux-la-Romaine, Normandia)" />
 <figcaption aria-hidden="true">Cisterna na casa do átrio em U, Aregenua,
 Gália romana (atual sítio de Vieux-la-Romaine, Normandia)</figcaption>
@@ -1000,10 +1013,10 @@ dimensões desses módulos e dos ambientes que faziam parte deles, por
 outro lado, variavam pouco (exceto a do jardim).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:mau137">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/5/54/Plan_of_the_house_of_the_Faun_in_Mau_fig137.png"
-id="fig:mau137" class="line"
+class="line"
 alt="Planta da casa do Fauno, Pompeia, reformada após 66 d.C. Desenho: Mau, 1899" />
 <figcaption aria-hidden="true">Planta da casa do Fauno, Pompeia,
 reformada após 66 d.C. Desenho: <a
@@ -1054,10 +1067,10 @@ variações em cima desse pátio e ambientes voltados para ele, associado
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:leacroft1976-2">
 <img
 data-src="https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png"
-id="fig:leacroft1976-2" class="line"
+class="line"
 alt="Reconstituição da casa de Maomé em Medina, c. 622 d.C., segundo Leacroft, 1976" />
 <figcaption aria-hidden="true">Reconstituição da casa de Maomé em
 Medina, c. 622 d.C., segundo Leacroft, 1976</figcaption>
@@ -1082,10 +1095,10 @@ evolução orgânica da cultura edilícia.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:gayer">
 <img
 data-src="https://i.pinimg.com/originals/3e/d6/19/3ed6197597d18576e7403bbc233f9804.png"
-id="fig:gayer" class="line"
+class="line"
 alt="Casa no Cairo, atualmente o Museu Gayer Anderson. Desenho por Leacroft, 1976" />
 <figcaption aria-hidden="true">Casa no Cairo, atualmente o Museu Gayer
 Anderson. Desenho por Leacroft, 1976</figcaption>
@@ -1117,10 +1130,9 @@ relativamente verticalizadas e com muita área útil existem, para abrigar
 uma família estendida. É o caso dos <em>tighremt</em> ou casarões rurais
 dos berberes, nas montanhas da Argélia e do Marrocos (fig. 45).</p>
 </aside>
-<figure>
+<figure id="fig:tighremt">
 <img
 data-src="https://i.pinimg.com/originals/4c/9f/5e/4c9f5ec9db0503e1d19513a3a239153a.png"
-id="fig:tighremt"
 alt="Tipologia dos tighremt berberes no vale do Draa, Marrocos, segundo Arena e Raffa, 2018" />
 <figcaption aria-hidden="true">Tipologia dos <em>tighremt</em> berberes
 no vale do Draa, Marrocos, segundo Arena e Raffa, 2018</figcaption>
@@ -1129,10 +1141,10 @@ no vale do Draa, Marrocos, segundo Arena e Raffa, 2018</figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:arnold2017-1.8">
 <img
 data-src="https://i.pinimg.com/originals/bc/cc/4a/bccc4a4aaec0eea9dfb5dfe4281fed1d.png"
-id="fig:arnold2017-1.8" class="line"
+class="line"
 alt="Processo tipológico de formação do salão largo na edilícia de base da península Ibérica, séculos VI–X, segundo Felix Arnold, 2017. Da esquerda para a direita e de cima para baixo: Cartagena, séculos VI–VII; Puig Rom (Girona), séculos VI–VII; Vilaclara (Barcelona), século VII; Gózquez de Arriba (Madri), séculos VIII–IX; Castillo de Peñaflor (Jaén), séculos IX–X; Pechina (Almería), século X; Medina Azahara (Córdoba), século X" />
 <figcaption aria-hidden="true">Processo tipológico de formação do salão
 largo na edilícia de base da península Ibérica, séculos <span
@@ -1188,10 +1200,9 @@ colunatas laterais. Esse salão com colunatas, por sua vez, deu origem ao
 <em>iwan</em> com abside e alcovas laterais da tradição islâmica mais
 tardia.</p>
 </aside>
-<figure>
+<figure id="fig:arnold2017-1.3">
 <img
 data-src="https://i.pinimg.com/originals/e3/dc/bc/e3dcbc06287703c11aa0b23af28d43b8.png"
-id="fig:arnold2017-1.3"
 alt="Processo tipológico do salão palaciano com colunatas, segundo Felix Arnold, 2017" />
 <figcaption aria-hidden="true">Processo tipológico do salão palaciano
 com colunatas, segundo Felix Arnold, 2017</figcaption>
@@ -1200,10 +1211,10 @@ com colunatas, segundo Felix Arnold, 2017</figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:arnold2017-2.25">
 <img
 data-src="https://i.pinimg.com/originals/fe/3b/5d/fe3b5d37ca5d673d3d09e3e7e6ee95ea.png"
-id="fig:arnold2017-2.25" class="line"
+class="line"
 alt="Medina Azahara, Córdoba, 953–957. Planta do palácio superior, por Felix Arnold, 2017" />
 <figcaption aria-hidden="true">Medina Azahara, Córdoba, 953–957. Planta
 do palácio superior, por Felix Arnold, 2017</figcaption>
@@ -1212,10 +1223,10 @@ do palácio superior, por Felix Arnold, 2017</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:arnold2017-2.26">
 <img
 data-src="https://i.pinimg.com/originals/73/6d/3e/736d3ee19ab6ee338f869085cc1b034d.png"
-id="fig:arnold2017-2.26" class="line"
+class="line"
 alt="Medina Azahara, Córdoba, 953–957. Elevação do salão superior, por Felix Arnold, 2017" />
 <figcaption aria-hidden="true">Medina Azahara, Córdoba, 953–957.
 Elevação do salão superior, por Felix Arnold, 2017</figcaption>
@@ -1223,10 +1234,9 @@ Elevação do salão superior, por Felix Arnold, 2017</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:arnold2017-2.34">
 <img
 data-src="https://i.pinimg.com/originals/3a/bd/d3/3abdd32952d8115364319e8e09b7a60b.png"
-id="fig:arnold2017-2.34"
 alt="Medina Azahara, Córdoba, 953–957. Esquema do cone visual no salão Rico, segundo Felix Arnold, 2017" />
 <figcaption aria-hidden="true">Medina Azahara, Córdoba, 953–957. Esquema
 do cone visual no salão Rico, segundo Felix Arnold, 2017</figcaption>
@@ -1236,63 +1246,53 @@ do cone visual no salão Rico, segundo Felix Arnold, 2017</figcaption>
 class="title-slide slide level1 unnumbered unlisted allowframebreaks">
 <h1 class="unnumbered unlisted allowframebreaks">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-arnold:2017islamic" class="csl-entry"
-role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-arnold:2017islamic" class="csl-entry" role="listitem">
 Arnold, Felix. <em>Islamic Palace Architecture in the Western
 Mediterranean: A History</em>. Oxford University Press, 2017. <em>Open
 WorldCat</em>, <a
 href="https://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=1481501">https://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=1481501</a>.
 </div>
-<div id="ref-cahill:2002household" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-cahill:2002household" class="csl-entry" role="listitem">
 Cahill, Nicholas. <em>Household and City Organization at Olynthus</em>.
 Yale University Press, 2002.
 </div>
-<div id="ref-caniggia:1984lettura" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-caniggia:1984lettura" class="csl-entry" role="listitem">
 Caniggia, Gianfranco. <em>Lettura di una città: Como</em>. Centro Studi
 di Storia Urbanistica, 1984.
 </div>
-<div id="ref-caniggia:1989permanenze" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-caniggia:1989permanenze" class="csl-entry" role="listitem">
 ---. <span>“Permanenze e mutazioni nel tipo edilizio e nei tessuti di
 Roma (1880–1930)”</span>. <em>Tradizione e innovazione nell’architettura
 di Roma capitale, 1870–1930</em>, organizado por Giuseppe Strappa,
 Kappa, 1989, p. 13–25.
 </div>
-<div id="ref-caniggia:1987progetto" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-caniggia:1987progetto" class="csl-entry" role="listitem">
 Caniggia, Gianfranco, e Gian Luigi Maffei. <em>Il progetto nell’edilizia
 di base: composizione architettonica e tipologia edilizia: 2</em>.
 Marsilio, 1987.
 </div>
-<div id="ref-caniggia:2008lettura" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-caniggia:2008lettura" class="csl-entry" role="listitem">
 ---. <em>Lettura dell’edilizia di base</em>. 2º ed, Alinea, 2008.
 </div>
-<div id="ref-graham:1966origins20" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-graham:1966origins20" class="csl-entry" role="listitem">
 Graham, J. Walter. <span>“Origins and Interrelations of the Greek House
 and the Roman House”</span>. <em>Phoenix</em>, vol. 20, nº 1, 1966, p.
 3–31. <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/1086313">https://doi.org/10.2307/1086313</a>.
 </div>
-<div id="ref-muratori:1959studiix" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-muratori:1959studiix" class="csl-entry" role="listitem">
 Muratori, Saverio. <span>“Studi per una operante storia urbana di
 Venezia. I”</span>. <em>Palladio</em>, vol. <span
 class="smallcaps">IX</span>, nº 3–4, julho de 1959, p. 97–209.
 </div>
-<div id="ref-strappa:2016morfologia" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-strappa:2016morfologia" class="csl-entry" role="listitem">
 Strappa, Giuseppe, et al. <em>Morfologia urbana e tessuti storici =
 urban morphology and historical fabrics: il progetto contemporaneo dei
 centri minori del Lazio = contemporary design of small towns in
 Latium</em>. Gangemi Editore, 2016.
 </div>
-<div id="ref-westfall:1991building" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-westfall:1991building" class="csl-entry" role="listitem">
 Westfall, Carroll William. <span>“Building Types”</span>.
 <em>Architectural Principles in the Age of Historicism</em>, organizado
 por Carroll William Westfall e Robert Jan van Pelt, Yale University

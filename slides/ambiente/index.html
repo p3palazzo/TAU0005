@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -72,8 +77,8 @@ cadeias têm sobre a arquitetura:</p>
 <section class="slide level2">
 
 <div class="full">
-<figure>
-<img data-src="https://i.redd.it/8phjjylpo7a11.png" id="fig:trade"
+<figure id="fig:trade">
+<img data-src="https://i.redd.it/8phjjylpo7a11.png"
 alt="Rede de comércio marítimo global. Mapa: Nicolas Rapp, 2012" />
 <figcaption aria-hidden="true">Rede de comércio marítimo global. Mapa:
 <a
@@ -105,10 +110,10 @@ dependente de flutuações financeiras (fig. 2).</li>
 produtivos da arquitetura tradicional acaba sendo um ato de
 responsabilidade ambiental e social.</p>
 </aside>
-<figure>
+<figure id="fig:dubai">
 <video
 data-src="https://cdn.palazzo.arq.br/utilitas/clima/mixkit-skyscapers-roads-and-the-suburbs-in-dubai-28603-medium.mp4"
-id="fig:dubai" class="slide-bg outset" controls=""><a
+class="slide-bg outset" controls=""><a
 href="https://cdn.palazzo.arq.br/utilitas/clima/mixkit-skyscapers-roads-and-the-suburbs-in-dubai-28603-medium.mp4">Arranha-céus
 em construção num subúrbio de Dubai</a></video>
 <figcaption aria-hidden="true">Arranha-céus em construção num subúrbio
@@ -118,10 +123,9 @@ de Dubai</figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:med-trade">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/med-trade-scaled.jpeg"
-id="fig:med-trade"
 alt="Redes comerciais na África, Ásia e Europa nos séculos XI–XII. Mapa: Martin Månsson, 2018, v.4" />
 <figcaption aria-hidden="true">Redes comerciais na África, Ásia e Europa
 nos séculos <span class="smallcaps">XI–XII</span>. Mapa: <a
@@ -169,10 +173,10 @@ data-background-vide-muted="true" data-background-video-loop="true">
 data-background-video="https://upload.wikimedia.org/wikipedia/commons/0/08/Осінь_в_карпатах.webm"
 data-background-vide-muted="true"
 data-background-video-loop="true"></h2>
-<figure>
+<figure id="fig:karpat">
 <video
 data-src="https://upload.wikimedia.org/wikipedia/commons/0/08/Осінь_в_карпатах.webm"
-id="fig:karpat" class="slide-bg outset" controls=""><a
+class="slide-bg outset" controls=""><a
 href="https://upload.wikimedia.org/wikipedia/commons/0/08/Осінь_в_карпатах.webm">Reserva
 da biosfera dos Cárpatos, Ucrânia. Filmagem: Sergij Kovaljov,
 2019</a></video>
@@ -207,10 +211,9 @@ as etapas anteriores.</p>
 <section id="ásia-oriental" class="slide level2">
 <h2>Ásia oriental</h2>
 <div class="full">
-<figure>
+<figure id="fig:wallace">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Wallace03.jpg"
-id="fig:wallace"
 alt="Regiões biogeográficas segundo Alfred Rusell Wallace, 1876. A China atravessa a divisa entre as regiões Paleártica e Oriental" />
 <figcaption aria-hidden="true">Regiões biogeográficas segundo Alfred
 Rusell Wallace, 1876. A China atravessa a divisa entre as regiões
@@ -230,10 +233,10 @@ facilidade a diferentes condições climáticas, de vegetação e outros
 recursos naturais, e consequentemente a modos de vida muito variados.
 fig. 6</p>
 </aside>
-<figure>
+<figure id="fig:cn-koeppen">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/China_Köppen.svg/1152px-China_Köppen.svg.png"
-id="fig:cn-koeppen" class="outset"
+class="outset"
 alt="Biomas de vegetação natural da China. Adam Peterson, 2016. O centro cultural da China, onde foi situada a maior parte das suas capitais históricas, está no limiar entre a região de florestas temperadas, onde se cultiva arroz, e a de estepes semiáridas, onde se cultivam cereais" />
 <figcaption aria-hidden="true">Biomas de vegetação natural da China. <a
 href="https://commons.wikimedia.org/wiki/File:China_Köppen.svg">Adam
@@ -246,10 +249,9 @@ onde se cultivam cereais</figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:tang-influence">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/9/99/Tang_dynasty1.PNG"
-id="fig:tang-influence"
 alt="Área de influência cultural chinesa no século VII d.C. Desenho: Brian Gotts, 2007" />
 <figcaption aria-hidden="true">Área de influência cultural chinesa no
 século <span class="smallcaps">VII</span> d.C. Desenho: <a
@@ -266,23 +268,27 @@ data-cites="liang:1984pictorial">(Liang 21)</span></p>
 </section>
 <section class="slide level2">
 
-<div id="fig:banpo" class="subfigures columns full">
+<figure id="fig:banpo" class="subfigures columns full">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:banpoA">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/cjp01.8a.png"
-id="fig:banpoA" class="line" />
+class="line" alt="vista isométrica seccionada" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:banpoB">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/cjp01.8b.png"
-id="fig:banpoB" class="line" />
+class="line" alt="corte longitudinal" />
+<figcaption></figcaption>
 </figure>
-</div><p>Salão comunal semienterrado em Banpö, oeste da China, c. 4500
-a.C. Desenho: Francis D.K. Ching. a – vista isométrica seccionada,
-b – corte longitudinal</p>
 </div>
+<figcaption><p>Salão comunal semienterrado em Banpö, oeste da China,
+c. 4500 a.C. Desenho: Francis D.K. Ching. a – vista isométrica
+seccionada, b – corte longitudinal</p></figcaption>
+</figure>
 </section>
 <section id="índia-unidade-na-diversidade" class="slide level2">
 <h2>Índia: unidade na diversidade</h2>
@@ -308,10 +314,10 @@ data-background-transition="slide-in fade-out">
 data-background-image="https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg"
 data-background-transition="slide-in fade-out"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:brown-walli">
 <img
 data-src="https://i.pinimg.com/originals/a7/a0/7d/a7a07d45f692ea8ab36525f2735164ea.jpg"
-id="fig:brown-walli" class="slide-bg"
+class="slide-bg"
 alt="Percy Brown (1872–1955) com o artista caxemirí D.N. Walli" />
 <figcaption aria-hidden="true">Percy Brown (1872–1955) com o artista
 caxemirí D.N. Walli</figcaption>
@@ -346,10 +352,10 @@ data-background-image="https://i.pinimg.com/originals/27/43/40/274340c0fd8060640
 <h2
 data-background-image="https://i.pinimg.com/originals/27/43/40/274340c0fd8060640d0f6019cfeb6d9c.jpg"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:coomaraswamy">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Coomaraswamy.jpg/588px-Coomaraswamy.jpg"
-id="fig:coomaraswamy" class="slide-bg"
+class="slide-bg"
 alt="Ananda K. Coomaraswamy (1877–1947). Foto: Alvin Langdon Coburn, 1916" />
 <figcaption aria-hidden="true">Ananda K. Coomaraswamy (1877–1947). Foto:
 <a href="https://commons.wikimedia.org/wiki/File:Coomaraswamy.jpg">Alvin
@@ -384,10 +390,9 @@ do norte da Índia e da Pérsia antiga).</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:indus-mature">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Indus_Valley_Civilization,_Mature_Phase_(2600-1900_BCE).png"
-id="fig:indus-mature"
 alt="Civilização do vale do rio Indo, fase central. Desenho: Avantiputra7, 2014" />
 <figcaption aria-hidden="true">Civilização do vale do rio Indo, fase
 central. Desenho: <a
@@ -399,10 +404,9 @@ href="https://commons.wikimedia.org/wiki/File:Indus_Valley_Civilization,_Mature_
 
 <div class="columns full">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:early-vedic">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/5/57/Early_Vedic_Culture_(1700-1100_BCE).png"
-id="fig:early-vedic"
 alt="Migrações arianas no período védico inicial. Desenho: Avantiputra7, 2014" />
 <figcaption aria-hidden="true">Migrações arianas no período védico
 inicial. Desenho: <a
@@ -410,10 +414,9 @@ href="https://commons.wikimedia.org/wiki/File:Early_Vedic_Culture_(1700-1100_BCE
 2014</a></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:late-vedic">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/5/51/Late_Vedic_Culture_(1100-500_BCE).png"
-id="fig:late-vedic"
 alt="Reinos nāgara do período védico tardio. Os territórios ao sul da área sombreada correspondem em linhas gerais à cultura dravídica. Desenho: Avantiputra7, 2014" />
 <figcaption aria-hidden="true">Reinos nāgara do período védico tardio.
 Os territórios ao sul da área sombreada correspondem em linhas gerais à
@@ -439,10 +442,9 @@ subcontinente Indiano.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:pasupati">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/2f/Shiva_Pashupati.jpg"
-id="fig:pasupati"
 alt="Selo Paśupati (senhor dos animais), talvez representando uma figura de “Shiva” ou iogue. Mohenjo-Dāro, 2600–1900 a.C." />
 <figcaption aria-hidden="true">Selo Paśupati (senhor dos animais),
 talvez representando uma figura de “Shiva” ou iogue. <a
@@ -465,10 +467,10 @@ data-cites="kenoyer:1995interaction">(Kenoyer)</span>.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:pgw">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/8/8c/Painted_Grey_Ware_Culture_(1200-600_BCE).png"
-id="fig:pgw" class="outset"
+class="outset"
 alt="Cidades da cultura da cêramica cinza pintada, Idade do Ferro inicial. Mapa: Avantiputra7, 2014" />
 <figcaption aria-hidden="true">Cidades da cultura da cêramica cinza
 pintada, Idade do Ferro inicial. Mapa: <a
@@ -480,10 +482,9 @@ href="https://commons.wikimedia.org/wiki/File:Painted_Grey_Ware_Culture_(1200-60
 
 <div class="columns full">
 <div class="column" style="width:47%;">
-<figure>
+<figure id="fig:dravidian-dancer">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dancing_girl_of_Mohenjo-daro.jpg/657px-Dancing_girl_of_Mohenjo-daro.jpg"
-id="fig:dravidian-dancer"
 alt="Dançarina dita “dravídica”, Mohenjo-Dāro, 2300–1750 a.C. Bronze, 10,8 cm de altura. Museu Nacional, Nova Déli" />
 <figcaption aria-hidden="true">Dançarina dita “dravídica”, Mohenjo-Dāro,
 2300–1750 a.C. Bronze, 10,8 cm de altura. <a
@@ -491,10 +492,9 @@ href="https://commons.wikimedia.org/wiki/File:Dancing_girl_of_Mohenjo-daro.jpg">
 Nacional, Nova Déli</a></figcaption>
 </figure>
 </div><div class="column" style="width:53%;">
-<figure>
+<figure id="fig:aryan-priest">
 <img
 data-src="https://i.pinimg.com/originals/1e/9e/b3/1e9eb357b7e3488ff55719d1373f3924.jpg"
-id="fig:aryan-priest"
 alt="Estatueta dita do rei–sacerdote ou sacerdote “ariano”, Mohenjo-Dāro, 2400–1900 a.C. Pedra-sabão cozida, 17,5 cm de altura. Museu Nacional do Paquistão, Karachī" />
 <figcaption aria-hidden="true">Estatueta dita do rei–sacerdote ou
 sacerdote “ariano”, Mohenjo-Dāro, 2400–1900 a.C. Pedra-sabão cozida,
@@ -530,10 +530,9 @@ com as primeiras migrações indo-arianas por volta de 1800 a.C.
 (fig. 18).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:migrations">
 <img
 data-src="https://i.pinimg.com/originals/6b/1d/1e/6b1d1e4f03a4e191993052ff3f3e19d6.jpg"
-id="fig:migrations"
 alt="Migrações na Eurásia da Idade do Bronze Média, c. 1750–1250 a.C. No centro, migração de povos indo-arianos (“Rigvédicos”) da Ásia central para o noroeste da Índia. Mapa: Carlos Quiles, 2021" />
 <figcaption aria-hidden="true">Migrações na Eurásia da Idade do Bronze
 Média, c. 1750–1250 a.C. No centro, migração de povos indo-arianos
@@ -553,10 +552,10 @@ das formas de devoção</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:maurya">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Maurya_Empire,_c.250_BCE.png"
-id="fig:maurya" class="outset"
+class="outset"
 alt="Império Maurya no seu auge. Desenho: Avantiputra7, 2014" />
 <figcaption aria-hidden="true">Império Maurya no seu auge. Desenho: <a
 href="https://commons.wikimedia.org/wiki/File:Maurya_Empire,_c.250_BCE.png">Avantiputra7,
@@ -567,10 +566,10 @@ href="https://commons.wikimedia.org/wiki/File:Maurya_Empire,_c.250_BCE.png">Avan
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:sanci-site-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Plan_of_Sanchi_transparent_bg.png/1280px-Plan_of_Sanchi_transparent_bg.png"
-id="fig:sanci-site-plan" class="line"
+class="line"
 alt="Planta dos monumentos na colina de Sāñcī. Archaeological Survey of India" />
 <figcaption aria-hidden="true">Planta dos monumentos na colina de Sāñcī.
 <a
@@ -581,10 +580,10 @@ Survey of India</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:sanci-rec">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png/1280px-Stupas_and_monasteries_at_Sanchi_in_the_early_centuries_of_the_Christian_era.png"
-id="fig:sanci-rec" class="line outset"
+class="line outset"
 alt="Estupas e mosteiros na colina de Sanchi, reconstituição nos primeiros séculos d.C. segundo Percy Brown, 1959" />
 <figcaption aria-hidden="true">Estupas e mosteiros na colina de Sanchi,
 reconstituição nos primeiros séculos d.C. segundo <a
@@ -611,10 +610,10 @@ alguns aprimoramentos, até o século <span class="smallcaps">XVI</span>
 d.C.</p>
 </aside>
 <div class="align-right">
-<figure>
+<figure id="fig:jomon-diagram">
 <img
 data-src="https://i.pinimg.com/originals/ce/51/bc/ce51bcfc1ca839b7e5f4b5e1f8414288.png"
-id="fig:jomon-diagram" class="line"
+class="line"
 alt="Diagrama de uma casa semienterrada, período Jōmon tardio, Japão, últimos séculos a.C. Kawashima, 2011" />
 <figcaption aria-hidden="true">Diagrama de uma casa semienterrada,
 período Jōmon tardio, Japão, últimos séculos a.C. <a
@@ -624,10 +623,10 @@ href="https://doi.org/10.4312/dp.38.9">Kawashima, 2011</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:jomon-detail">
 <img
 data-src="https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png"
-id="fig:jomon-detail" class="line"
+class="line"
 alt="Detalhe da estrutura de uma casa semienterrada, período Jōmon tardio" />
 <figcaption aria-hidden="true">Detalhe da estrutura de uma casa
 semienterrada, período Jōmon tardio</figcaption>
@@ -656,10 +655,10 @@ ventilação (mais direta ou indireta). Essas duas formas diferentes de
 lidar com a ventilação está relacionada com a ocupação do tecido
 urbano.</p>
 </aside>
-<figure>
+<figure id="fig:linxi">
 <img
 data-src="https://live.staticflickr.com/7525/16154891306_914cf237a7_o_d.jpg"
-id="fig:linxi" class="outset"
+class="outset"
 alt="Diorama da cidade de Linxi, dinastia Shang. Foto: 1001 Silk Roads, 2010" />
 <figcaption aria-hidden="true">Diorama da cidade de Linxi, dinastia
 Shang. Foto: <a
@@ -690,20 +689,21 @@ data-background-video-muted="true" data-background-video-loop="true">
 data-background-video="https://cdn.palazzo.arq.br/utilitas/clima/Procedural_Beijing_Courtyard_House-78302430-720p-24fps.mp4"
 data-background-video-muted="true"
 data-background-video-loop="true"></h2>
-<div id="fig:liu-ziye" class="subfigures full slide-bg">
+<figure id="fig:liu-ziye" class="subfigures full slide-bg">
 <iframe src="https://player.vimeo.com/video/78302430?h=61fd011bfb&amp;color=fffff8" width="1600" height="900" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
 </iframe>
-<p><a href="https://vimeo.com/78302430">Modelo paramétrico de
-casas-pátio em Pequim, China</a>. Modelagem:
-<a href="https://vimeo.com/ziyeliu">Liu Ziye</a>, 2013. </p>
-</div>
+<figcaption><p><a href="https://vimeo.com/78302430">Modelo paramétrico
+de casas-pátio em Pequim, China</a>. Modelagem:
+<a href="https://vimeo.com/ziyeliu">Liu Ziye</a>, 2013.
+</p></figcaption>
+</figure>
 </section>
 <section id="casas-pátio-no-mediterrâneo" class="slide level2">
 <h2>Casas-pátio no Mediterrâneo</h2>
-<figure>
+<figure id="fig:lk-suburban">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/lk-urban-suburban.png"
-id="fig:lk-suburban" class="line outset"
+class="line outset"
 alt="Léon Krier, ocupação urbana e suburbana de um lote" />
 <figcaption aria-hidden="true">Léon Krier, ocupação urbana e suburbana
 de um lote</figcaption>
@@ -712,10 +712,9 @@ de um lote</figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:ur-fabric">
 <img
 data-src="https://i.pinimg.com/originals/91/ce/a4/91cea462fcb16e57fc8c9545b8bf649c.jpg"
-id="fig:ur-fabric"
 alt="Trecho da malha urbana de Ur, antiga Suméria, III milênio a.C." />
 <figcaption aria-hidden="true">Trecho da malha urbana de Ur, antiga
 Suméria, <span class="smallcaps">III</span> milênio a.C.</figcaption>
@@ -744,31 +743,30 @@ Mediterrâneo, mas que não se refletem tanto em Portugal e, portanto, no
 Brasil (onde os pátios tendem a ter vocações muito mais ritualísticas
 que bioclimáticas).</p>
 </aside>
-<div id="fig:ur-court" class="subfigures full">
+<figure id="fig:ur-court" class="full">
 <div class="r-stack third">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/clima-ur-chuva.jpg"
-title="fig:" id="fig:ur-courtA" class="fragment current-visible nobg" />
-<img
+id="fig:ur-courtA" class="fragment current-visible nobg"
+alt="coleta de água de chuva" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/clima-ur-sol.jpg"
-title="fig:" id="fig:ur-courtB" class="fragment current-visible nobg" />
-<img
+id="fig:ur-courtB" class="fragment current-visible nobg"
+alt="insolação aquece o piso do pátio…" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/clima-ur-vento.jpg"
-title="fig:" id="fig:ur-courtC" class="fragment current-visible nobg" />
+id="fig:ur-courtC" class="fragment current-visible nobg"
+alt="…o ar quente do pátio sobe, gerando uma zona de baixa pressão que força a ventilação dos ambientes em volta" />
 </div>
-<p>Estratégias bioclimáticas de uma casa em Ur, antiga Suméria, <span
-class="smallcaps">III–II</span> milênios a.C.. a – coleta de água de
-chuva, b – insolação aquece o piso do pátio…, c – …o ar quente do pátio
-sobe, gerando uma zona de baixa pressão que força a ventilação dos
-ambientes em volta</p>
-</div>
+<figcaption><p>Estratégias bioclimáticas de uma casa em Ur, antiga
+Suméria, <span class="smallcaps">III–II</span> milênios
+a.C.</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:olynthus-a-vii-4">
 <img
 data-src="https://i.pinimg.com/originals/22/dc/c7/22dcc7e8613bad5e3307ab455a701a01.png"
-id="fig:olynthus-a-vii-4" class="line outset"
+class="line outset"
 alt="Planta esquemática da casa A vii 4 em Olinto, segundo Cahill, 2002" />
 <figcaption aria-hidden="true">Planta esquemática da casa A vii 4 em
 Olinto, segundo Cahill, 2002</figcaption>
@@ -810,10 +808,9 @@ se encontra nas casas na cidade de Priene (figs. 30, 31) e de outras
 cidades gregas.</p>
 </aside>
 <div class="align-right">
-<figure>
+<figure id="fig:priene-casas">
 <img
 data-src="https://i.pinimg.com/originals/bd/79/93/bd7993471831f9cbb7df636bd15dfb74.jpg"
-id="fig:priene-casas"
 alt="Casas em Priene, reconstituídas por Whitley, 2001" />
 <figcaption aria-hidden="true">Casas em Priene, reconstituídas por
 Whitley, 2001</figcaption>
@@ -822,10 +819,9 @@ Whitley, 2001</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:priene-cg">
 <img
 data-src="https://i.pinimg.com/originals/16/6d/2a/166d2a4095ab30414873f55c0dd40906.jpg"
-id="fig:priene-cg"
 alt="Casas em Priene. Reconstituição por Gabriel Gourdoglou" />
 <figcaption aria-hidden="true">Casas em Priene. Reconstituição por <a
 href="http://gabrielgooo.byethost10.com/?ds-gallery=ancient-priene">Gabriel
@@ -835,10 +831,10 @@ Gourdoglou</a></figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:olynthus-cutaway">
 <img
 data-src="https://i.pinimg.com/originals/a8/e4/a7/a8e4a7f8ccf2f25a986f7d2d14df40c8.jpg"
-id="fig:olynthus-cutaway" alt="Reconstituição de casas em Olinto" />
+alt="Reconstituição de casas em Olinto" />
 <figcaption aria-hidden="true">Reconstituição de casas em
 Olinto</figcaption>
 </figure>
@@ -856,10 +852,10 @@ mas deixava entrar o sol de inverno, mais baixo.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:olynthus-brunner">
 <img
 data-src="https://i.pinimg.com/originals/73/2f/9d/732f9da38f7f93574423ce150dab9746.jpg"
-id="fig:olynthus-brunner" class="outset"
+class="outset"
 alt="Reconstituição de um pátio em Olinto, segundo Brunner" />
 <figcaption aria-hidden="true">Reconstituição de um pátio em Olinto,
 segundo Brunner</figcaption>
@@ -867,10 +863,9 @@ segundo Brunner</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:many-colors">
 <img
 data-src="https://i.pinimg.com/originals/0b/83/c4/0b83c43c455bf1085fdf4cd31a5a2043.png"
-id="fig:many-colors"
 alt="Olinto, casa das cores, reconstituição por Cahill, 2002" />
 <figcaption aria-hidden="true">Olinto, casa das cores, reconstituição
 por Cahill, 2002</figcaption>
@@ -883,10 +878,10 @@ respeito ao lote (fig. 34).</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:mau115">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Schematic_plan_of_a_Pompeian_house_in_Mau_fig115.png"
-id="fig:mau115" class="line outset"
+class="line outset"
 alt="Planta esquemática de uma domus na cidade romana de Pompeia, c. século I a.C.–I d.C. Desenho: August Mau, 1899" />
 <figcaption aria-hidden="true">Planta esquemática de uma <em>domus</em>
 na cidade romana de Pompeia, c. século <span class="smallcaps">I</span>
@@ -897,10 +892,10 @@ Mau, 1899</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:mau134">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/20/Plan_of_house_of_the_Surgeon_in_Mau_fig134.png"
-id="fig:mau134" class="line outset"
+class="line outset"
 alt="Planta da casa de Salústio, Pompeia, c. século II a.C.–I d.C. Desenho: August Mau, 1899" />
 <figcaption aria-hidden="true">Planta da casa de Salústio, Pompeia,
 c. século <span class="smallcaps">II</span> a.C.–<span
@@ -923,10 +918,10 @@ chefe da família recebia os seus clientes (fig. 37).</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:pansa">
 <img
 data-src="https://i.pinimg.com/originals/0c/c6/3e/0cc63e51be87b309970ed2ce18799bcf.gif"
-id="fig:pansa" class="outset"
+class="outset"
 alt="Casa de Pansa, Pompeia, vista do átrio através do tablinum até o peristilo. Reconstituição segundo Mau, 1899" />
 <figcaption aria-hidden="true">Casa de Pansa, Pompeia, vista do átrio
 através do <em>tablinum</em> até o peristilo. Reconstituição segundo
@@ -957,10 +952,10 @@ que variam conforme poderio aquisitivo das famílias. Já o paisagismo
 romano é funcional e ornamental simultaneamente.</p>
 </aside>
 <div class="align-right">
-<figure>
+<figure id="fig:mau117">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/2b/Tuscan_atrium_in_Pompeii_Mau_fig117.png"
-id="fig:mau117" class="line"
+class="line"
 alt="Planta estrutural de um átrio toscano, segundo Mau, 1899" />
 <figcaption aria-hidden="true">Planta estrutural de um átrio toscano,
 segundo <a
@@ -971,10 +966,10 @@ href="https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:mau136">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/b/b8/Pompeii_-_its_life_and_art_(1899)_(14750073956).jpg"
-id="fig:mau136" class="outset"
+class="outset"
 alt="Corte longitudinal da casa de Salústio, Pompeia, século II a.C., compreendendo fauces, átrio e tablinum. Desenho: Mau, 1899" />
 <figcaption aria-hidden="true">Corte longitudinal da casa de Salústio,
 Pompeia, século <span class="smallcaps">II</span> a.C., compreendendo
@@ -986,17 +981,19 @@ href="https://www.mirrorservice.org/sites/gutenberg.org/4/2/7/1/42715/42715-h/42
 </section>
 <section class="slide level2">
 
+<figure id="fig:cistern">
 <img
 data-src="https://i.pinimg.com/originals/9d/82/29/9d82297091f4dd4ca46997fab22659fc.jpg"
-title="fig:" id="fig:cistern" class="outset r-stretch"
-alt="Esquema de uma cisterna romana" />
+class="outset r-stretch" alt="Esquema de uma cisterna romana" />
+<figcaption aria-hidden="true">Esquema de uma cisterna
+romana</figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:aregenua">
 <img
 data-src="https://i.pinimg.com/origi%20.outsetnals/27/5b/44/275b4456228531bf829a43b056a6c9dc.jpg"
-id="fig:aregenua"
 alt="Cisterna na casa do átrio em U, Aregenua, Gália romana (atual sítio de Vieux-la-Romaine, Normandia)" />
 <figcaption aria-hidden="true">Cisterna na casa do átrio em U, Aregenua,
 Gália romana (atual sítio de Vieux-la-Romaine, Normandia)</figcaption>
@@ -1017,10 +1014,10 @@ manual.</p>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:leacroft1976-2">
 <img
 data-src="https://i.pinimg.com/originals/aa/29/53/aa2953c1123269c0ed30598f69899ae2.png"
-id="fig:leacroft1976-2" class="line"
+class="line"
 alt="Reconstituição da casa de Maomé em Medina, c. 622 d.C., segundo Leacroft, 1976" />
 <figcaption aria-hidden="true">Reconstituição da casa de Maomé em
 Medina, c. 622 d.C., segundo Leacroft, 1976</figcaption>
@@ -1066,10 +1063,10 @@ bastante sustentável, tornando-se conhecido por isso.</p>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:alberca">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/alberca-alhambra.png"
-id="fig:alberca" class="line"
+class="line"
 alt="Alhambra, Granada, corte do pátio das murtas olhando para o divã do sultão (elevação norte), anterior ao século XVI. Levantamento: Jules Goury, 1842" />
 <figcaption aria-hidden="true">Alhambra, Granada, corte do pátio das
 murtas olhando para o divã do sultão (elevação norte), anterior ao
@@ -1081,10 +1078,10 @@ href="https://library.si.edu/image-gallery/74264">Jules Goury,
 </section>
 <section id="ventilação-indireta" class="slide level2">
 <h2>Ventilação indireta</h2>
-<figure>
+<figure id="fig:taroni">
 <img
 data-src="https://live.staticflickr.com/3047/2803746741_99c32d41ba_k_d.jpg"
-id="fig:taroni" class="outset"
+class="outset"
 alt="Badghir (torre de ventilação) em Yazd, Irã. Foto: Andrea Taroni, 2008" />
 <figcaption aria-hidden="true"><em>Badghir</em> (torre de ventilação) em
 Yazd, Irã. Foto: <a href="https://flic.kr/p/5gKWe4">Andrea Taroni,
@@ -1093,10 +1090,10 @@ Yazd, Irã. Foto: <a href="https://flic.kr/p/5gKWe4">Andrea Taroni,
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:vent-diagr">
 <img
 data-src="https://i.pinimg.com/originals/d1/f1/3b/d1f13b66c5582be4beff1170fc450402.jpg"
-id="fig:vent-diagr" class="outset"
+class="outset"
 alt="Princípio de funcionamento de uma torre de ventilação" />
 <figcaption aria-hidden="true">Princípio de funcionamento de uma torre
 de ventilação</figcaption>
@@ -1105,10 +1102,9 @@ de ventilação</figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:qurna-vent">
 <img
 data-src="https://i.pinimg.com/originals/6a/e9/61/6ae9618a20621e81c7d12a0640284578.jpg"
-id="fig:qurna-vent"
 alt="Hassan Fathy, arquiteto, corte de uma casa em al-Qurna, Egito, 1946–1952. Desenho reproduzido em TecnoHaus, 2017" />
 <figcaption aria-hidden="true">Hassan Fathy, arquiteto, corte de uma
 casa em al-Qurna, Egito, 1946–1952. Desenho reproduzido em <a
@@ -1119,10 +1115,10 @@ href="https://tecnohaus.blogspot.com/2017/03/hassan-fathy-el-arquitecto-de-los.h
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:qanat">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Qanat-3_es.svg/1280px-Qanat-3_es.svg.png"
-id="fig:qanat" class="line outset"
+class="line outset"
 alt="Corte esquemático de um qanat. Amada44, 2009" />
 <figcaption aria-hidden="true">Corte esquemático de um <em>qanat</em>.
 <a
@@ -1146,21 +1142,21 @@ poços de visita em seus canais e passa por uma câmara que suga esse ar
 resfriado pela água, o qual segue pela torre de ventilação e chega até o
 ambiente externo, formando uma espécie de geladeira natural.</p>
 </aside>
-<div id="fig:madarkoshi"
+<figure id="fig:madarkoshi"
 class="subfigures iframe-wrapper outset slide-bg">
 <iframe src="https://player.vimeo.com/video/280365614?h=5a6a4cb00f" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
 </iframe>
-<p><a href="https://vimeo.com/280365614">Qanat - Madarkoshi</a>.
-Produção: <a href="https://vimeo.com/user83725201">Nikahang</a>, 2018.
-</p>
-</div>
+<figcaption><p><a href="https://vimeo.com/280365614">Qanat -
+Madarkoshi</a>. Produção:
+<a href="https://vimeo.com/user83725201">Nikahang</a>, 2018.
+</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:qanat-cool">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Qanat_wind_tower.svg/969px-Qanat_wind_tower.svg.png"
-id="fig:qanat-cool"
 alt="Yakchāl: ambiente de resfriamento com o uso de um qanat e uma badghir. Desenho: Samuel Bailey, 2009" />
 <figcaption aria-hidden="true"><em>Yakchāl</em>: ambiente de
 resfriamento com o uso de um <em>qanat</em> e uma <em>badghir</em>.
@@ -1171,10 +1167,10 @@ Bailey, 2009</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:qanat-diff">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Qanat_technology_diffusion.svg/1280px-Qanat_technology_diffusion.svg.png"
-id="fig:qanat-diff" class="line"
+class="line"
 alt="Difusão da tecnologia do qanat. Desenho: Emesik, 2009" />
 <figcaption aria-hidden="true">Difusão da tecnologia do <em>qanat</em>.
 Desenho: <a
@@ -1185,10 +1181,9 @@ href="https://commons.wikimedia.org/wiki/File:Qanat_technology_diffusion.svg">Em
 <section id="ventilação-cruzada" class="slide level2">
 <h2>Ventilação cruzada</h2>
 <div class="full">
-<figure>
+<figure id="fig:majapahit">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Majapahit_Empire-pt.svg/1280px-Majapahit_Empire-pt.svg.png"
-id="fig:majapahit"
 alt="Arquipélago de Nusantara no auge do império Majapahit, século XIV Gunawan Kartapranata, 2009" />
 <figcaption aria-hidden="true">Arquipélago de Nusantara no auge do
 império Majapahit, século <span class="smallcaps">XIV</span> <a
@@ -1201,18 +1196,17 @@ Kartapranata, 2009</a></figcaption>
 
 <div class="columns full">
 <div class="column" style="width:38%;">
-<figure>
+<figure id="fig:malay-spaces">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/malay-spaces.png"
-id="fig:malay-spaces" class="line" alt="Setorização da casa malaia" />
+class="line" alt="Setorização da casa malaia" />
 <figcaption aria-hidden="true">Setorização da casa malaia</figcaption>
 </figure>
 </div><div class="column" style="width:62%;">
-<figure>
+<figure id="fig:malay-climate">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/malay-climate.png"
-id="fig:malay-climate" class="line"
-alt="Ventilação cruzada na casa malaia" />
+class="line" alt="Ventilação cruzada na casa malaia" />
 <figcaption aria-hidden="true">Ventilação cruzada na casa
 malaia</figcaption>
 </figure>
@@ -1221,10 +1215,10 @@ malaia</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:lim-malay">
 <img
 data-src="https://i.pinimg.com/originals/77/71/be/7771be8ed1ac93da93eac60da140ffbf.jpg"
-id="fig:lim-malay" class="outset"
+class="outset"
 alt="Sequência tipológica da casa malaia. Lin, 1991, ap. Beng et al., 2015" />
 <figcaption aria-hidden="true">Sequência tipológica da casa malaia. Lin,
 1991, <em>ap.</em> Beng <em>et al.</em>, 2015</figcaption>
@@ -1232,10 +1226,10 @@ alt="Sequência tipológica da casa malaia. Lin, 1991, ap. Beng et al., 2015" />
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:malacca-kotarajaC">
 <img
 data-src="https://i.pinimg.com/originals/53/c8/e5/53c8e5ddb750df9eeedb22a27723b629.jpg"
-id="fig:malacca-kotarajaC" class="outset"
+class="outset"
 alt="Reconstituição do kota raja (complexo palaciano) de Malacca no século XV. Desenho: Mohd Faizal Rahmat, 2016–2018" />
 <figcaption aria-hidden="true">Reconstituição do <em>kota raja</em>
 (complexo palaciano) de Malacca no século <span
@@ -1258,10 +1252,9 @@ gerais de todas as regiões tropicais do mundo, tornando-se exemplos
 interessantes para entender estratégias possíveis de adequação a essas
 situações.</p>
 </aside>
-<figure>
+<figure id="fig:asia-12">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Asia_1200ad.jpg/1280px-Asia_1200ad.jpg"
-id="fig:asia-12"
 alt="Estados da Ásia no início do século XIII. Mapa: Talessman, 2007" />
 <figcaption aria-hidden="true">Estados da Ásia no início do século <span
 class="smallcaps">XIII</span>. Mapa: <a
@@ -1271,22 +1264,26 @@ href="https://commons.wikimedia.org/wiki/File:Asia_1200ad.jpg">Talessman,
 </section>
 <section id="monções" class="slide level2">
 <h2>Monções</h2>
-<div id="fig:monsoon" class="subfigures columns full">
+<figure id="fig:monsoon" class="subfigures columns full">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:monsoon-summer">
 <img
 data-src="https://i.pinimg.com/originals/f6/c5/71/f6c571941eb1d9071cf2e8564e80003f.jpg"
-id="fig:monsoon-summer" />
+alt="verão" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:monsoon-winter">
 <img
 data-src="https://i.pinimg.com/originals/c3/b9/a1/c3b9a1215325c57a6a75e83bdbf00371.jpg"
-id="fig:monsoon-winter" />
+alt="inverno" />
+<figcaption></figcaption>
 </figure>
-</div><p>Diagrama dos ventos de monções no oceano Índico e sul da Ásia.
-a – verão, b – inverno</p>
 </div>
+<figcaption><p>Diagrama dos ventos de monções no oceano Índico e sul da
+Ásia. a – verão, b – inverno</p></figcaption>
+</figure>
 <aside class="notes">
 <p>A particularidade das zonas tropicais no Sudeste Asiático e na Índia
 é o regime de chuvas, que varia em sua quantidade sazonalmente entre
@@ -1318,10 +1315,9 @@ também trocas de produtos, principalmente, frutas, plantas etc.
 Observa-se também importantes relações do Sudeste Asiático continental
 com o litoral e com o sul da China.</p>
 </aside>
-<figure>
+<figure id="fig:monsoon-gif">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/f/ff/The_South_Asian_Monsoon.gif"
-id="fig:monsoon-gif"
 alt="Registro de pluviometria das monções no sul da Ásia. Desenho: Mdmadhu, 2017" />
 <figcaption aria-hidden="true">Registro de pluviometria das monções no
 sul da Ásia. Desenho: <a
@@ -1331,20 +1327,17 @@ href="https://commons.wikimedia.org/wiki/File:The_South_Asian_Monsoon.gif">Mdmad
 </section>
 <section class="slide level2">
 
-<div id="fig:ghats" class="subfigures full">
+<figure id="fig:ghats" class="full">
 <div class="r-stack">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/MatheranPanoramaPointDrySeason.JPG/1280px-MatheranPanoramaPointDrySeason.JPG"
-title="fig:" id="fig:matheran-dry" class="fragment" /> <img
+id="fig:matheran-dry" class="fragment" alt="maio" /> <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/MatheranPanoramaPointMonsoon.JPG/1280px-MatheranPanoramaPointMonsoon.JPG"
-title="fig:" id="fig:matheran-wet" class="fragment" />
+id="fig:matheran-wet" class="fragment" alt="agosto" />
 </div>
-<p>Ciclo das monções em Panorama point, Monte Methera, Ghats ocidentais.
-Fotos: Arne Hückelheim, 2010. a – <a
-href="https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointDrySeason.JPG">maio</a>,
-b – <a
-href="https://commons.wikimedia.org/wiki/File:MatheranPanoramaPointMonsoon.JPG">agosto</a></p>
-</div>
+<figcaption><p>Ciclo das monções em Panorama point, Monte Methera, Ghats
+ocidentais. Fotos: Arne Hückelheim, 2010</p></figcaption>
+</figure>
 <aside class="notes">
 <p>Atualmente, a população local faz uma gestão ambiental muito marcada
 pelo período colonial (pelos ingleses e franceses sobretudo),
@@ -1390,10 +1383,9 @@ do ponto de vista ambiental, social e alimentar.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:hindu-exp">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Hinduism_Expansion_in_Asia-pt.svg/1280px-Hinduism_Expansion_in_Asia-pt.svg.png"
-id="fig:hindu-exp"
 alt="Expansão do hinduísmo na Ásia, século I a XII d.C. Mapa: Gunawan Kartapranata, 2015" />
 <figcaption aria-hidden="true">Expansão do hinduísmo na Ásia, século
 <span class="smallcaps">I</span> a <span class="smallcaps">XII</span>
@@ -1410,10 +1402,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:sigiriya-drone">
 <img
 data-src="https://i.pinimg.com/originals/66/45/32/664532deb9ae18436624d6ac60f269a8.jpg"
-id="fig:sigiriya-drone"
 alt="Rochedo e palácio de Sigiriya, Sri Lanka, iniciado 477 d.C." />
 <figcaption aria-hidden="true">Rochedo e palácio de Sigiriya, Sri Lanka,
 iniciado 477 d.C.</figcaption>
@@ -1427,10 +1418,9 @@ data-background-size="contain">
 data-background-image="https://i.pinimg.com/originals/0e/b2/c8/0eb2c8b48df86a86c202539bc84ea3aa.png"
 data-background-size="contain"></h2>
 <div class="full">
-<figure>
+<figure id="fig:sigiriya-plan">
 <img
 data-src="https://i.pinimg.com/originals/0e/b2/c8/0eb2c8b48df86a86c202539bc84ea3aa.png"
-id="fig:sigiriya-plan"
 alt="Complexo urbano–paisagístico–palaciano de Sigiriya. Planta: Nilsan Cooray, 2012" />
 <figcaption aria-hidden="true">Complexo urbano–paisagístico–palaciano de
 Sigiriya. Planta: <a href="https://doi.org/10.7480/abe.2012.6">Nilsan
@@ -1444,10 +1434,9 @@ data-background-size="contain">
 <h2
 data-background-image="https://i.pinimg.com/originals/fe/a5/e6/fea5e65b5ea935966953bde3854766fe.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:sigiriya-proportions">
 <img
 data-src="https://i.pinimg.com/originals/fe/a5/e6/fea5e65b5ea935966953bde3854766fe.png"
-id="fig:sigiriya-proportions"
 alt="Sistema de proporções dos jardins na cidade baixa de Sigiriya. Reconstituição por Nilsan Cooray, 2012" />
 <figcaption aria-hidden="true">Sistema de proporções dos jardins na
 cidade baixa de Sigiriya. Reconstituição por <a
@@ -1461,10 +1450,9 @@ data-background-size="contain">
 <h2
 data-background-image="https://i.pinimg.com/originals/36/f9/69/36f96931639425b493d52487a5a787a5.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:sigiriya-abc">
 <img
 data-src="https://i.pinimg.com/originals/36/f9/69/36f96931639425b493d52487a5a787a5.png"
-id="fig:sigiriya-abc"
 alt="Sistema de proporções e eixos em Sigiriya. Reconstituição por Nilsan Cooray, 2012" />
 <figcaption aria-hidden="true">Sistema de proporções e eixos em
 Sigiriya. Reconstituição por <a
@@ -1478,10 +1466,9 @@ data-background-size="contain">
 <h2
 data-background-image="https://i.pinimg.com/originals/53/a8/d0/53a8d0903d6930e195d66a1d0941b99c.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:sigiriya-mandala">
 <img
 data-src="https://i.pinimg.com/originals/53/a8/d0/53a8d0903d6930e195d66a1d0941b99c.png"
-id="fig:sigiriya-mandala"
 alt="Sistema de proporções no mandala central do jardim de Sigiriya. Reconstituição por Nilsan Cooray, 2012" />
 <figcaption aria-hidden="true">Sistema de proporções no mandala central
 do jardim de Sigiriya. Reconstituição por <a
@@ -1495,10 +1482,9 @@ data-background-size="contain">
 <h2
 data-background-image="https://i.pinimg.com/originals/10/2d/aa/102daa0e55901e8e41add2647fea7616.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:sigiriya-hydra">
 <img
 data-src="https://i.pinimg.com/originals/10/2d/aa/102daa0e55901e8e41add2647fea7616.png"
-id="fig:sigiriya-hydra"
 alt="Esquema hidráulico dos jardins de Sigiriya. Reconstituição por Nilsan Cooray, 2012" />
 <figcaption aria-hidden="true">Esquema hidráulico dos jardins de
 Sigiriya. Reconstituição por <a
@@ -1513,10 +1499,9 @@ data-background-size="contain">
 data-background-image="https://i.pinimg.com/originals/53/02/f2/5302f21acc76cf1053c0cdec50c9fe21.jpg"
 data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:kasyapa-plan">
 <img
 data-src="https://i.pinimg.com/originals/53/02/f2/5302f21acc76cf1053c0cdec50c9fe21.jpg"
-id="fig:kasyapa-plan"
 alt="Planta dos jardins suspensos do rei Kaśyapa no palácio de Sigiriya, após 477. Desenho: Nilsan Cooray, 2012" />
 <figcaption aria-hidden="true">Planta dos jardins suspensos do rei
 Kaśyapa no palácio de Sigiriya, após 477. Desenho: <a
@@ -1531,10 +1516,9 @@ data-background-size="contain">
 <h2
 data-background-image="https://i.pinimg.com/originals/2c/ed/f9/2cedf9ffb64749c980a24015d9a8f12b.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:kasyapa-model">
 <img
 data-src="https://i.pinimg.com/originals/2c/ed/f9/2cedf9ffb64749c980a24015d9a8f12b.png"
-id="fig:kasyapa-model"
 alt="Volumetria dos jardins suspensos de Kaśyapa. Modelo: Nilsan Cooray, 2012" />
 <figcaption aria-hidden="true">Volumetria dos jardins suspensos de
 Kaśyapa. Modelo: <a href="https://doi.org/10.7480/abe.2012.6">Nilsan
@@ -1562,10 +1546,9 @@ Além disso, esse período está associado à queda da dinastia Tang na
 China, que dependia do comércio na rota da Seda e do abastecimento em
 matérias-primas da Ásia central.</p>
 </aside>
-<figure>
+<figure id="fig:austro-trade">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Austronesian_maritime_trade_network_in_the_Indian_Ocean.png/1280px-Austronesian_maritime_trade_network_in_the_Indian_Ocean.png"
-id="fig:austro-trade"
 alt="Rede comercial marítima dos povos austronésios. Mapa: Obsidian Soul, 2019" />
 <figcaption aria-hidden="true">Rede comercial marítima dos povos
 austronésios. Mapa: <a
@@ -1589,10 +1572,9 @@ arroz. A chamada “antiga rota do chá” ou “rota do chá e dos cavalos
 (fig. 70)” dava acesso às plantações do sudoeste da China e do reino de
 Dali.</p>
 </aside>
-<figure>
+<figure id="fig:tea-horse">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/0/06/Map_of_the_Tea-Horse_road.png"
-id="fig:tea-horse"
 alt="Antiga rota do chá entre a China, a Índia e o Sudeste asiático. Mapa: Redgeographics, 2017" />
 <figcaption aria-hidden="true">Antiga rota do chá entre a China, a Índia
 e o Sudeste asiático. Mapa: <a
@@ -1604,10 +1586,9 @@ href="https://commons.wikimedia.org/wiki/File:Map_of_the_Tea-Horse_road.png">Red
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yunnan-Myanmar_border.jpg/1280px-Yunnan-Myanmar_border.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yunnan-Myanmar_border.jpg/1280px-Yunnan-Myanmar_border.jpg"></h2>
-<figure>
+<figure id="fig:yu-my">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Yunnan-Myanmar_border.jpg/1280px-Yunnan-Myanmar_border.jpg"
-id="fig:yu-my"
 alt="Região fronteiriça entre o Yunnan (China) e a Birmânia. Foto: David and Jessie, 2009" />
 <figcaption aria-hidden="true">Região fronteiriça entre o Yunnan (China)
 e a Birmânia. Foto: <a
@@ -1630,10 +1611,9 @@ dois produtos manufaturados que eram exportados para toda a Ásia, África
 e Europa.</p>
 </aside>
 <div class="align-right">
-<figure>
+<figure id="fig:chenyao">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/5/5d/衬腰岩茶马古道照片.jpg"
-id="fig:chenyao"
 alt="Antiga rota do chá em Chenyao, China. Foto: Nekitarc, 2017" />
 <figcaption aria-hidden="true">Antiga rota do chá em Chenyao, China.
 Foto: <a
@@ -1646,10 +1626,10 @@ href="https://commons.wikimedia.org/wiki/File:衬腰岩茶马古道照片.jpg">N
 data-background-image="https://i.pinimg.com/originals/f6/31/2e/f6312e27de421012a29fe99d442055c7.jpg">
 <h2
 data-background-image="https://i.pinimg.com/originals/f6/31/2e/f6312e27de421012a29fe99d442055c7.jpg"></h2>
-<figure>
+<figure id="fig:porters">
 <img
 data-src="https://i.pinimg.com/originals/f6/31/2e/f6312e27de421012a29fe99d442055c7.jpg"
-id="fig:porters" alt="Carregadores de chá em Sichuan" />
+alt="Carregadores de chá em Sichuan" />
 <figcaption aria-hidden="true">Carregadores de chá em
 Sichuan</figcaption>
 </figure>
@@ -1659,10 +1639,9 @@ data-background-image="https://i.pinimg.com/originals/ae/cb/e5/aecbe5513a24ac161
 <h2
 data-background-image="https://i.pinimg.com/originals/ae/cb/e5/aecbe5513a24ac16161a0d021d7fbec2.jpg"></h2>
 <div class="full">
-<figure>
+<figure id="fig:wuli">
 <img
 data-src="https://i.pinimg.com/originals/ae/cb/e5/aecbe5513a24ac16161a0d021d7fbec2.jpg"
-id="fig:wuli"
 alt="Plantação de arroz em Wuli, Yunnan. Foto: Xing Fangyu, 2020" />
 <figcaption aria-hidden="true">Plantação de arroz em Wuli, Yunnan. Foto:
 <a
@@ -1788,10 +1767,10 @@ sua vez, era mantida tanto pela capacidade de o sistema alimentar a
 própria população local, quanto pela afirmação simbólica da legitimidade
 dos reis khmeres.</p>
 </aside>
-<figure>
+<figure id="fig:khmer-exp">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Khmer_Empire_Expansion.png/1280px-Khmer_Empire_Expansion.png"
-id="fig:khmer-exp" class="outset"
+class="outset"
 alt="Expansão do império Khmer. Mapa: Thames Mapping, 2021" />
 <figcaption aria-hidden="true">Expansão do império Khmer. Mapa: <a
 href="https://commons.wikimedia.org/wiki/File:Khmer_Empire_Expansion.png">Thames
@@ -1823,10 +1802,10 @@ também legitima a realeza e seus luxos, mostrando-se mais aberto (sem
 apresentar um livro único, por exemplo) e acomodando-se bem às religiões
 já existentes na área, que passam a se tornar meio híbridas.</p>
 </aside>
-<figure>
+<figure id="fig:khmer-king">
 <img
 data-src="https://i.pinimg.com/originals/09/8f/20/098f208939f3a7df8c16d0efa7ca79ad.jpg"
-id="fig:khmer-king" class="outset"
+class="outset"
 alt="Diorama representando um rei khmer. Cambodian Cultural Village, Siem Reap" />
 <figcaption aria-hidden="true">Diorama representando um rei khmer.
 Cambodian Cultural Village, Siem Reap</figcaption>
@@ -1840,10 +1819,10 @@ data-background-video="https://upload.wikimedia.org/wikipedia/commons/0/0e/Angko
 data-background-video-muted="true"
 data-background-video-loop="true"></h2>
 <div class="full">
-<figure>
+<figure id="fig:angkor-vid">
 <video
 data-src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm"
-id="fig:angkor-vid" controls=""><a
+controls=""><a
 href="https://upload.wikimedia.org/wikipedia/commons/0/0e/Angkor_-_Zentrum_des_Königreichs_der_Khmer_(CC_BY-SA_4.0).webm">Vista
 aérea de Angkor Wat. Produção: ZDF, 2020</a></video>
 <figcaption aria-hidden="true">Vista aérea de Angkor Wat. Produção: <a
@@ -1856,10 +1835,9 @@ class="smallcaps">ZDF</span>, 2020</a></figcaption>
 <section id="angkor" class="slide level2">
 <h2>Angkor</h2>
 <div class="full">
-<figure>
+<figure id="fig:angkor-canals">
 <img
 data-src="https://i.pinimg.com/originals/22/c1/d5/22c1d558443827a8dc08c5b068ce78ce.jpg"
-id="fig:angkor-canals"
 alt="Sistema de canais e reservatórios de Angkor no período imperial. National Geographic" />
 <figcaption aria-hidden="true">Sistema de canais e reservatórios de
 Angkor no período imperial. National Geographic</figcaption>
@@ -1878,10 +1856,10 @@ curso do próprio lago se inverte, alagando a planície em volta dele
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:tonle-sap">
 <img
 data-src="https://i.pinimg.com/originals/96/72/ce/9672ce84c9bb2d7265c8c135b642ae20.png"
-id="fig:tonle-sap" class="outset"
+class="outset"
 alt="Alagamento sazonal do Grande Lago, Camboja. Escola de Arquitetura da Universidade de Hong Kong" />
 <figcaption aria-hidden="true">Alagamento sazonal do Grande Lago,
 Camboja. Escola de Arquitetura da Universidade de Hong Kong</figcaption>
@@ -1890,10 +1868,9 @@ Camboja. Escola de Arquitetura da Universidade de Hong Kong</figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:angkor-pond">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Angkor_Wat_reflejado_en_un_estanque_01.jpg/1280px-Angkor_Wat_reflejado_en_un_estanque_01.jpg"
-id="fig:angkor-pond"
 alt="Tanque de água em Angkor Wat. Foto: Luis Bartolomé Marcos, 2014" />
 <figcaption aria-hidden="true">Tanque de água em Angkor Wat. Foto: <a
 href="https://commons.wikimedia.org/wiki/File:Angkor_Wat_reflejado_en_un_estanque_01.jpg">Luis
@@ -1915,10 +1892,10 @@ campos.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:vrah-vishnulok">
 <img
 data-src="https://i.pinimg.com/originals/99/10/48/9910484c36aca42b76f47bcc136241e2.jpg"
-id="fig:vrah-vishnulok" class="outset"
+class="outset"
 alt="Vrah Vishnulok, o centro administrativo e religioso de Angkor, formado por Angkor Wat e Angkor Thom" />
 <figcaption aria-hidden="true">Vrah Vishnulok, o centro administrativo e
 religioso de Angkor, formado por Angkor Wat e Angkor Thom</figcaption>
@@ -1974,10 +1951,10 @@ atividades agrícolas, artesanais, comerciais, administrativas e
 religiosas aconteciam de modo distribuído por todo o território
 (fig. 83).</p>
 </aside>
-<figure>
+<figure id="fig:angkor-wat-ponds">
 <img
 data-src="https://i.pinimg.com/originals/f9/26/8d/f9268d83cdb74c50fd1cc0bfac847d66.jpg"
-id="fig:angkor-wat-ponds" class="outset"
+class="outset"
 alt="Levantamento por LiDAR da área em torno de Angkor Wat. Evans e Fletcher, 2015" />
 <figcaption aria-hidden="true">Levantamento por LiDAR da área em torno
 de Angkor Wat. <a
@@ -1988,10 +1965,9 @@ e Fletcher, 2015</a></figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:angkor-general">
 <img
 data-src="https://i.pinimg.com/originals/f9/17/05/f91705dd6fb0131b6673e6c0de54a950.jpg"
-id="fig:angkor-general"
 alt="Plano de conjunto de Angkor, levantado por LiDAR. Evans e Fletcher, 2015" />
 <figcaption aria-hidden="true">Plano de conjunto de Angkor, levantado
 por LiDAR. <a href="http://dx.doi.org/10.15184/aqy.2015.157">Evans e
@@ -2063,50 +2039,44 @@ diferentes perspectivas econômicas, culturais, etc.</p>
 class="title-slide slide level1 unnumbered unlisted allowframebreaks">
 <h1 class="unnumbered unlisted allowframebreaks">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-brown:1959indiana" class="csl-entry"
-role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-brown:1959indiana" class="csl-entry" role="listitem">
 Brown, Percy. <em>Indian Architecture: The Islamic Period</em>. 1959.
 Taraporevala’s Treasure House of Books, 1959. <em>Internet Archive</em>,
 <a
 href="http://archive.org/details/in.gov.ignca.18429">http://archive.org/details/in.gov.ignca.18429</a>.
 </div>
 <div id="ref-coomaraswamy:1956christian" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Coomaraswamy, Ananda K. <em>Christian and Oriental Philosophy of
 Art</em>. Dover, 1956.
 </div>
-<div id="ref-evans:2015landscape89" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-evans:2015landscape89" class="csl-entry" role="listitem">
 Evans, Damian, e Roland Fletcher. <span>“The Landscape of Angkor Wat
 Redefined”</span>. <em>Antiquity</em>, vol. 89, nº 348, dezembro de
 2015, p. 1402–19. <em>DOI.org (Crossref)</em>, <a
 href="https://doi.org/10.15184/aqy.2015.157">https://doi.org/10.15184/aqy.2015.157</a>.
 </div>
-<div id="ref-graham:1966origins20" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-graham:1966origins20" class="csl-entry" role="listitem">
 Graham, J. Walter. <span>“Origins and Interrelations of the Greek House
 and the Roman House”</span>. <em>Phoenix</em>, vol. 20, nº 1, 1966, p.
 3–31. <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/1086313">https://doi.org/10.2307/1086313</a>.
 </div>
-<div id="ref-kawashima:2011burial38" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-kawashima:2011burial38" class="csl-entry" role="listitem">
 Kawashima, Takamune. <span>“Burial Practices and Social Complexity:
 Jomon Examples”</span>. <em>Documenta Praehistorica</em>, vol. 38,
 dezembro de 2011, p. 109–18. <em>DOI.org (Crossref)</em>, <a
 href="https://doi.org/10.4312/dp.38.9">https://doi.org/10.4312/dp.38.9</a>.
 </div>
-<div id="ref-kenoyer:1995interaction" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-kenoyer:1995interaction" class="csl-entry" role="listitem">
 Kenoyer, Jonathan Mark. <span>“Interaction Systems, Specialised Crafts
 and Culture Change: The Indus Valley Tradition and the Indo-Gangetic
 Tradition in South Asia”</span>. <em>The Indo-Aryans of Ancient South
 Asia: Language, Material Culture and Ethnicity</em>, organizado por
 George Erdosy, Walter de Gruyter, 1995, p. 213–57.
 </div>
-<div id="ref-liang:1984pictorial" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-liang:1984pictorial" class="csl-entry" role="listitem">
 Liang, Sicheng. <em>A Pictorial History of Chinese Architecture: A Study
 of the Development of Its Structural System and the Evolution of Its
 Types = 图像中国建筑史</em>. Organizado por Wilma Fairbank, <span
@@ -2115,13 +2085,13 @@ class="smallcaps">MIT</span> Press, 1984.
 </div>
 </section>
 
-<section class="footnotes footnotes-end-of-document"
+<section id="footnotes" class="footnotes footnotes-end-of-document"
 role="doc-endnotes">
 <hr />
 <ol>
-<li id="fn1" role="doc-endnote"><p>A população pré-histórica do vale do
-rio Indo provavelmente não era dravídica e sim austro-asiática, parte de
-um substrato que se estende até o sudeste Asiático.<a href="#/fnref1"
+<li id="fn1"><p>A população pré-histórica do vale do rio Indo
+provavelmente não era dravídica e sim austro-asiática, parte de um
+substrato que se estende até o sudeste Asiático.<a href="#/fnref1"
 class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section>

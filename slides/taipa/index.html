@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -79,10 +84,9 @@ sequência é a de que os estágios sucessivos estão predestinados na
 origem da civilização.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:cole-savage">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg"
-id="fig:cole-savage"
 alt="Thomas Cole, Decurso do império: Estado selvagem, 1834" />
 <figcaption aria-hidden="true">Thomas Cole, Decurso do império: Estado
 selvagem, 1834</figcaption>
@@ -91,10 +95,10 @@ selvagem, 1834</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:cole-arcadian">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Arcadian_or_Pastoral_State_1836.jpg"
-id="fig:cole-arcadian" class="outset"
+class="outset"
 alt="Thomas Cole, Decurso do império: Estado arcádio ou pastoral, 1836" />
 <figcaption aria-hidden="true">Thomas Cole, Decurso do império: Estado
 arcádio ou pastoral, 1836</figcaption>
@@ -145,10 +149,10 @@ Edgar da Fonseca e Paulo Maier em 1979 (fig. 3), pode ser considerada a
 sucessora natural da Sé tradicional (a primeira de várias) construída
 entre 1568 e 1583 (fig. 4).</p>
 </aside>
-<figure>
+<figure id="fig:se1979">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg/1280px-Centro_do_Rio_de_Janeiro_by_Diego_Baravelli.jpg"
-id="fig:se1979" class="outset"
+class="outset"
 alt="Edgar de Oliveira da Fonseca (construção) e Pe. Paulo Lachen Maier (interior), catedral metropolitana de São Sebastião do Rio de Janeiro, 1979. Foto: Diego Baravelli, 2016" />
 <figcaption aria-hidden="true">Edgar de Oliveira da Fonseca (construção)
 e Pe. Paulo Lachen Maier (interior), catedral metropolitana de São
@@ -159,10 +163,10 @@ Baravelli, 2016</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:se1568">
 <img
 data-src="https://i.pinimg.com/originals/5a/dd/0a/5add0ad0201f86d7bf89d9a01e44863c.jpg"
-id="fig:se1568" class="outset"
+class="outset"
 alt="Igreja de São Sebastião da antiga Sé, Rio de Janeiro, 1568–1583. Foto da saída da última missa antes da demolição da igreja e do morro do Castelo, por Augusto Malta, 1922" />
 <figcaption aria-hidden="true">Igreja de São Sebastião da antiga Sé, Rio
 de Janeiro, 1568–1583. Foto da saída da última missa antes da demolição
@@ -171,10 +175,10 @@ da igreja e do morro do Castelo, por Augusto Malta, 1922</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:progress">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Long_Waves_of_Social_Evolution.jpg/1280px-Long_Waves_of_Social_Evolution.jpg"
-id="fig:progress" class="outset"
+class="outset"
 alt="Martin Hilbert, esquema do “progresso” tecnológico humano. Curso Digital Technology and Social Change, Universidade da Califórnia, [s.d.]" />
 <figcaption aria-hidden="true">Martin Hilbert, esquema do “progresso”
 tecnológico humano. <a
@@ -210,21 +214,26 @@ dominadas pela cadeia produtiva local. Um certo universo de recursos
 naturais, organizações socioeconômicas e tecnologias se articula em
 culturas construtivas infinitamente diversas.</p>
 </aside>
-<figure>
+<figure id="fig:civ6-classical">
 <img
 data-src="https://i.pinimg.com/originals/d9/cf/6d/d9cf6d6f6ae3d38e2bd76d9d09bf9bf8.jpg"
-id="fig:civ6-classical" class="outset slide-bg"
-alt="Captura de tela do jogo Civilization VI" />
+class="outset slide-bg" alt="Captura de tela do jogo Civilization VI" />
 <figcaption aria-hidden="true">Captura de tela do jogo Civilization
 VI</figcaption>
 </figure>
 </section>
 <section class="slide level2">
 
+<figure id="fig:claypit">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Extracting_clay_to_produce_bricks.jpg/1280px-Extracting_clay_to_produce_bricks.jpg"
-title="fig:" id="fig:claypit" class="outset r-stretch"
+class="outset r-stretch"
 alt="Extração de argila para olaria em Mlala, Dwangwa, Malawi. Foto: Bibiloucapetown, 2017" />
+<figcaption aria-hidden="true">Extração de argila para olaria em Mlala,
+Dwangwa, Malawi. Foto: <a
+href="https://commons.wikimedia.org/wiki/File:Extracting_clay_to_produce_bricks.jpg">Bibiloucapetown,
+2017</a></figcaption>
+</figure>
 <aside class="notes">
 <p>Então, o nosso problema é saber como classificar essa diversidade
 infinita numa taxonomia que, ao mesmo tempo, não seja determinista ou
@@ -256,10 +265,9 @@ comparada</em>.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:fletcher-cover">
 <img
 data-src="https://i.pinimg.com/originals/5a/f7/8c/5af78ce175489724eeb76342caff71b3.jpg"
-id="fig:fletcher-cover"
 alt="Sir Banister Fletcher e Banister F. Fletcher, A History of Architecture on the Comparative Method, folha de rosto da 1.ª edição, 1896" />
 <figcaption aria-hidden="true">Sir Banister Fletcher e Banister F.
 Fletcher, <em>A History of Architecture on the Comparative Method</em>,
@@ -294,10 +302,9 @@ class="smallcaps">XV</span> e <span class="smallcaps">XVI</span>: eles
 começam com as fundações, seguem para as estruturas em madeira, e daí
 para alvenarias e acabamentos.</p>
 </aside>
-<figure>
+<figure id="fig:yzfs1920">
 <img
 data-src="https://i.pinimg.com/originals/ad/66/c5/ad66c5782454670e378614af674f9d1b.jpg"
-id="fig:yzfs1920"
 alt="Li Jie, Yingzao fashi, reedição da década de 1920" />
 <figcaption aria-hidden="true">Li Jie, <em>Yingzao fashi</em>, reedição
 da década de 1920</figcaption>
@@ -306,10 +313,9 @@ da década de 1920</figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:chion-in">
 <img
 data-src="https://i.pinimg.com/originals/65/a2/11/65a21194ab8bcb228f951a30f0768160.jpg"
-id="fig:chion-in"
 alt="Restauro do telhado no salão principal do mosteiro budista Chion-in, Higashiyama, Quioto, 1234, reconstruído em 1633. Foto: Jeffrey Friedl, 2014" />
 <figcaption aria-hidden="true">Restauro do telhado no salão principal do
 mosteiro budista Chion-in, Higashiyama, Quioto, 1234, reconstruído em
@@ -387,10 +393,9 @@ Quatremère de Quincy)</span>.</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:54%;">
-<figure>
+<figure id="fig:chambers">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg/797px-Sir_William_Chambers_by_Sir_Joshua_Reynolds.jpg"
-id="fig:chambers"
 alt="Sir William Chambers, retrato pintado por Joshua Reynolds" />
 <figcaption aria-hidden="true">Sir William Chambers, retrato pintado por
 <a
@@ -398,10 +403,9 @@ href="https://commons.wikimedia.org/wiki/File:Sir_William_Chambers_by_Sir_Joshua
 Reynolds</a></figcaption>
 </figure>
 </div><div class="column" style="width:46%;">
-<figure>
+<figure id="fig:4mere">
 <img
 data-src="https://i.pinimg.com/originals/c1/99/e9/c199e9c3a28f036d51afc198a66049ad.jpg"
-id="fig:4mere"
 alt="Antoine Chrysosthome Quatremère de Quincy, retrato oficial da Câmara dos deputados" />
 <figcaption aria-hidden="true">Antoine Chrysosthome Quatremère de
 Quincy, retrato oficial da Câmara dos deputados</figcaption>
@@ -411,10 +415,10 @@ Quincy, retrato oficial da Câmara dos deputados</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:cavemen">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Font-de-Gaume.jpg/1280px-Font-de-Gaume.jpg"
-id="fig:cavemen" class="outset"
+class="outset"
 alt="Charles R. Knight, Artistas Cro-Magnon pintando mamutes na caverna de Font-de-Gaume, oeste da França, 1920" />
 <figcaption aria-hidden="true">Charles R. Knight, Artistas Cro-Magnon
 pintando mamutes na caverna de Font-de-Gaume, oeste da França,
@@ -457,10 +461,9 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:terra-amata">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg"
-id="fig:terra-amata"
 alt="Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: Véronique Pagnier, 2011" />
 <figcaption aria-hidden="true">Reconstituição dos abrigos de Terra
 Amata, 380.000 a.p. Foto: <a
@@ -494,10 +497,9 @@ semipermanente. Fora esses casos especiais, a tenda é um tipo
 predominantemente temporário, e não vai nos ocupar mais neste curso.
 Nosso percurso segue, portanto, para o tipo da <em>cabana</em>.</p>
 </aside>
-<figure>
+<figure id="fig:mezhyrich">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dwelling_made_with_mammoth_bones.jpg/1280px-Dwelling_made_with_mammoth_bones.jpg"
-id="fig:mezhyrich"
 alt="Reconstituição de tenda em ossos e peles de mamute de Mezhyrich, Ucrânia, 15.000 a.p., no Museu Nacional de Tóquio Foto: Momotarou2012, 2013" />
 <figcaption aria-hidden="true">Reconstituição de tenda em ossos e peles
 de mamute de Mezhyrich, Ucrânia, 15.000 a.p., no Museu Nacional de
@@ -508,11 +510,10 @@ href="https://commons.wikimedia.org/wiki/File:Dwelling_made_with_mammoth_bones.j
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:yurt">
 <img
 data-src="https://i.pinimg.com/originals/e6/3d/c4/e63dc40df530a89928a8b9c2b4c2c572.jpg"
-id="fig:yurt" class="outset"
-alt="Yurta contemporânea. Foto: Anton Starikov, 2011" />
+class="outset" alt="Yurta contemporânea. Foto: Anton Starikov, 2011" />
 <figcaption aria-hidden="true">Yurta contemporânea. Foto: <a
 href="https://www.pond5.com/pt/stock-images/photos/item/32541060-yurt">Anton
 Starikov, 2011</a></figcaption>
@@ -554,10 +555,10 @@ data-background-size="contain" data-background-position="right">
 data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png"
 data-background-size="contain" data-background-position="right"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:eynan">
 <img
 data-src="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png"
-id="fig:eynan" class="line slide-bg"
+class="line slide-bg"
 alt="Reconstituição de abrigo do período Natufiano em ain-Mallaha, Eynan, Israel, c. 15 a 12 mil anos atrás. Haklay e Gopher, 2015" />
 <figcaption aria-hidden="true">Reconstituição de abrigo do período
 Natufiano em ain-Mallaha, Eynan, Israel, c. 15 a 12 mil anos atrás. <a
@@ -587,29 +588,39 @@ pedra lavrada fincados verticalmente no solo e preenchimento com
 cascalho <span class="citation"
 data-cites="groucutt:2020monumental30">(Groucutt et al.)</span>.</p>
 </aside>
-<div id="fig:alula" class="subfigures iframe-wrapper">
+<figure id="fig:alula" class="subfigures iframe-wrapper">
 <iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/z8A0LpX7_yM?start=1464" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p><em>Mustatil</em> (cercado retangular) próximo a al-Ula, Arábia
-Saudita, c. 5000 a.C.. </p>
-</div>
+<figcaption><p><em>Mustatil</em> (cercado retangular) próximo a al-Ula,
+Arábia Saudita, c. 5000 a.C.. </p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
 <aside class="notes">
 <hr />
 </aside>
+<figure id="fig:mustatil">
 <img
 data-src="https://i.pinimg.com/originals/30/64/fb/3064fb0fb0487eeabef2f0ea63dd88d1.jpg"
-title="fig:" id="fig:mustatil" class="outset r-stretch"
+class="outset r-stretch"
 alt="Mustatil visto desde uma das extremidades" />
+<figcaption aria-hidden="true"><em>Mustatil</em> visto desde uma das
+extremidades</figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
+<figure id="fig:musta-chamber">
 <img
 data-src="https://static.cambridge.org/binary/version/id/urn:cambridge.org:id:binary:20210526192136801-0073:S0003598X2100051X:S0003598X2100051X_fig3.png"
-title="fig:" id="fig:musta-chamber" class="outset r-stretch"
+class="outset r-stretch"
 alt="Câmara semienterrada na extremidade de um mustatil. Fotos: Agência de Arqueologia do Reino da Arábia Saudita" />
+<figcaption aria-hidden="true">Câmara semienterrada na extremidade de um
+<em>mustatil</em>. Fotos: <a
+href="https://www.cambridge.org/core/journals/antiquity/article/mustatils-cult-and-monumentality-in-neolithic-northwestern-arabia/80E2AD8B538C268E7CA5C3C29CB4EC52">Agência
+de Arqueologia do Reino da Arábia Saudita</a></figcaption>
+</figure>
 <aside class="notes">
 <p>As extremidades desses cercados são plataformas que às vezes contêm
 um espaço semienterrado com restos de fogo e de gado (fig. 20). Isso
@@ -622,10 +633,9 @@ data-cites="thomas:2021mustatils95">(Thomas et al.)</span>.</p>
 <section id="células-escavadas" class="slide level2">
 <h2>Células escavadas</h2>
 <div class="full">
-<figure>
+<figure id="fig:gt-pano">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Göbekli_Tepe.jpg"
-id="fig:gt-pano"
 alt="Vista panorâmica parcial do sítio arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: Rolf Cosar, 2010" />
 <figcaption aria-hidden="true">Vista panorâmica parcial do sítio
 arqueológico de Göbekli Tepe, Şanlıurfa, Turquia. Foto: <a
@@ -655,10 +665,16 @@ Crescente fértil, foram construídos desse modo entre 9600 e 8500 a.C
 se fosse o caso, a semelhança com cavernas seria ainda mais
 marcante.</p>
 </aside>
+<figure id="fig:gt-natgeo">
 <img
 data-src="https://i.pinimg.com/originals/6b/f8/67/6bf8674353e270e052c3e571526de747.jpg"
-title="fig:" id="fig:gt-natgeo" class="outset r-stretch"
+class="outset r-stretch"
 alt="Construção dos recintos de Göbekli Tepe, c. 9600 a.C. Desenho: Fernando Baptista, 2016" />
+<figcaption aria-hidden="true">Construção dos recintos de Göbekli Tepe,
+c. 9600 a.C. Desenho: <a
+href="https://www.nationalgeographic.com/travel/article/150120-gobekli-tepe-oldest-monument-turkey-archaeology">Fernando
+Baptista, 2016</a></figcaption>
+</figure>
 </section>
 <section id="section-11" class="slide level2"
 data-background-image="https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg"
@@ -667,10 +683,10 @@ data-background-size="contain" data-background-position="right">
 data-background-image="https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg"
 data-background-size="contain" data-background-position="right"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:tarxien-aer">
 <img
 data-src="https://i.pinimg.com/originals/8f/95/49/8f9549e620e1f63ea2eea3eb52e2f6df.jpg"
-id="fig:tarxien-aer" class="slide-bg"
+class="slide-bg"
 alt="Vista aérea dos templos megalíticos de Ħal Tarxien, Malta, 3250–3000 a.C." />
 <figcaption aria-hidden="true">Vista aérea dos templos megalíticos de
 Ħal Tarxien, Malta, 3250–3000 a.C.</figcaption>
@@ -679,10 +695,17 @@ alt="Vista aérea dos templos megalíticos de Ħal Tarxien, Malta, 3250–3000 a
 </section>
 <section class="slide level2">
 
+<figure id="fig:tarxien-axis">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg/1280px-Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg"
-title="fig:" id="fig:tarxien-axis" class="r-stretch"
+class="r-stretch"
 alt="Vista do templo central de Ħal Tarxien, ao longo do eixo que vai do portal principal ao altar, c. 3100 a.C. Foto: Ethan Doyle White, 2017" />
+<figcaption aria-hidden="true">Vista do templo central de Ħal Tarxien,
+ao longo do eixo que vai do portal principal ao altar, c. 3100 a.C.
+Foto: <a
+href="https://commons.wikimedia.org/wiki/File:Entrance_to_apses_of_the_Central_Temple,_Tarxien_Temples.jpg">Ethan
+Doyle White, 2017</a></figcaption>
+</figure>
 <aside class="notes">
 <p>A partir daí, o tipo da construção semienterrada se espalha pelo
 corredor eurasiático durante o período Neolítico. A arquitetura
@@ -706,21 +729,27 @@ estruturas teriam sido cobertas com um terrapleno por todos os lados,
 formando um túmulo, e poderiam ser usadas para vários propósitos
 rituais: desde sacrifícios religiosos até sepultamentos humanos.</p>
 </aside>
+<figure id="fig:pendilhe">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Anta_orca_de_pendilhe_0486.JPG/1280px-Anta_orca_de_pendilhe_0486.JPG"
-title="fig:" id="fig:pendilhe" class="outset r-stretch"
+class="outset r-stretch"
 alt="Anta da orca de Pendilhe, Portugal, final do IV milênio a.C. Foto: João Carvalho, 2005" />
+<figcaption aria-hidden="true">Anta da orca de Pendilhe, Portugal, final
+do IV milênio a.C. Foto: <a
+href="https://commons.wikimedia.org/wiki/File:Anta_orca_de_pendilhe_0486.JPG">João
+Carvalho, 2005</a></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<div id="fig:maes-scan" class="subfigures iframe-wrapper outset">
+<figure id="fig:maes-scan" class="subfigures iframe-wrapper outset">
 <iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/_DX-OBFdUTE?start=71" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
-<p>Túmulo de Maeshowe, ilhas Órcades, c. 2800 a.C. Representação
-tridimensional por <a
+<figcaption><p>Túmulo de Maeshowe, ilhas Órcades, c. 2800 a.C.
+Representação tridimensional por <a
 href="https://www.engineshed.scot/about-us/the-scottish-ten">Engine
-Shed</a> para Historic Environment Scotland, 2012. </p>
-</div>
+Shed</a> para Historic Environment Scotland, 2012. </p></figcaption>
+</figure>
 <aside class="notes">
 <p>Um exemplo de túmulo ainda recoberto pelo seu terraplano é o Maes
 Howe, nas ilhas Órcades, no extremo norte das ilhas Britânicas
@@ -734,10 +763,10 @@ data-background-size="contain" data-background-position="right">
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif"
 data-background-size="contain" data-background-position="right"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:maeshowe-sec">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/e/ec/Maes_Howe_Cross_Sections.gif"
-id="fig:maeshowe-sec" class="nobg slide-bg"
+class="nobg slide-bg"
 alt="Cortes do Maes Howe, desenho: Fantoman400, 2006" />
 <figcaption aria-hidden="true">Cortes do Maes Howe, desenho: <a
 href="https://commons.wikimedia.org/wiki/File:Maes_Howe_Cross_Sections.gif">Fantoman400,
@@ -756,19 +785,24 @@ espaço mais importante é a célula que fica diante do eixo do corredor
 (fig. 27), pelo qual a luz do sol entra no dia do solstício de
 inverno.</p>
 </aside>
+<figure id="fig:maeshowe-plan">
 <img
 data-src="https://i.pinimg.com/originals/86/c8/2b/86c82b4e2dcfb16efadaa4c1caac690b.jpg"
-title="fig:" id="fig:maeshowe-plan" class="r-stretch"
+class="r-stretch"
 alt="Planta do Maes Howe, desenho: F.W.I. Thomas, após 1861" />
+<figcaption aria-hidden="true">Planta do Maes Howe, desenho: F.W.I.
+Thomas, após 1861</figcaption>
+</figure>
 </section>
 <section id="habitações-semienterradas" class="slide level2">
 <h2>Habitações semienterradas</h2>
-<div id="fig:skb3d" class="subfigures iframe-wrapper outset">
+<figure id="fig:skb3d" class="subfigures iframe-wrapper outset">
 <iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/Rlkjf-i5_Qw?start=11" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
-<p>Habitações semienterradas em Skara Brae, ilhas Órcades, 3100–2800
-a.C. Reconstituição digital por Al Rawlinson, 2021. </p>
-</div>
+<figcaption><p>Habitações semienterradas em Skara Brae, ilhas Órcades,
+3100–2800 a.C. Reconstituição digital por Al Rawlinson, 2021.
+</p></figcaption>
+</figure>
 </section>
 <section id="section-13" class="slide level2"
 data-background-image="https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png"
@@ -777,10 +811,10 @@ data-background-size="contain">
 data-background-image="https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png"
 data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:skb-art">
 <img
 data-src="https://i.pinimg.com/originals/ca/e6/71/cae671f42e7f3bf1a7e78dd89dd21a86.png"
-id="fig:skb-art" class="slide-bg"
+class="slide-bg"
 alt="Reconstituição da aldeia de Skara Brae vista desde o pátio de acesso ao corredor" />
 <figcaption aria-hidden="true">Reconstituição da aldeia de Skara Brae
 vista desde o pátio de acesso ao corredor</figcaption>
@@ -801,17 +835,28 @@ e o conjunto é coberto por um terrapleno (fig. 30) apoiado em vigas de
 madeira. A única fonte de iluminação direta era uma abertura zenital,
 que também servia de exaustor.</p>
 </aside>
+<figure id="fig:skb-plan">
 <img
 data-src="https://i.pinimg.com/originals/eb/49/ba/eb49ba849f15793919e18d9db3fc1457.jpg"
-title="fig:" id="fig:skb-plan" class="outset r-stretch"
+class="outset r-stretch"
 alt="Planta da aldeia neolítica de Skara Brae, desenho adaptado de V. Gordon Childe, 1930" />
+<figcaption aria-hidden="true">Planta da aldeia neolítica de Skara Brae,
+desenho adaptado de V. Gordon Childe, 1930</figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
+<figure id="fig:skb-int">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Skara_Brae_Beds.jpg/1280px-Skara_Brae_Beds.jpg"
-title="fig:" id="fig:skb-int" class="r-stretch r-stretch"
+class="r-stretch r-stretch"
 alt="Câmara de uma casa em Skara Brae, com lar central e três plataformas contra as paredes, célula satélie ao fundo. Foto: Archaeology Scotland, 2013" />
+<figcaption aria-hidden="true">Câmara de uma casa em Skara Brae, com lar
+central e três plataformas contra as paredes, célula satélie ao fundo.
+Foto: <a
+href="https://commons.wikimedia.org/wiki/File:Skara_Brae_Beds.jpg">Archaeology
+Scotland, 2013</a></figcaption>
+</figure>
 <aside class="notes">
 <p>Outra semelhança com o Maes Howe é que alguns corpos foram sepultados
 dentro das próprias casas, debaixo das plataformas que serviam de bancos
@@ -834,10 +879,10 @@ alguns aprimoramentos, até o século <span class="smallcaps">XVI</span>
 d.C.</p>
 </aside>
 <div class="align-right">
-<figure>
+<figure id="fig:jomon-diagram">
 <img
 data-src="https://i.pinimg.com/originals/ce/51/bc/ce51bcfc1ca839b7e5f4b5e1f8414288.png"
-id="fig:jomon-diagram" class="line slide-bg"
+class="line slide-bg"
 alt="Diagrama de uma casa semienterrada, período Jōmon tardio, Japão, últimos séculos a.C. Kawashima, 2011" />
 <figcaption aria-hidden="true">Diagrama de uma casa semienterrada,
 período Jōmon tardio, Japão, últimos séculos a.C. <a
@@ -847,10 +892,14 @@ href="https://doi.org/10.4312/dp.38.9">Kawashima, 2011</a></figcaption>
 </section>
 <section class="slide level2">
 
+<figure id="fig:jomon-detail">
 <img
 data-src="https://i.pinimg.com/originals/cd/6a/3e/cd6a3e0a75c63bea64f464747344e746.png"
-title="fig:" id="fig:jomon-detail" class="line r-stretch"
+class="line r-stretch"
 alt="Detalhe da estrutura de uma casa semienterrada, período Jōmon tardio" />
+<figcaption aria-hidden="true">Detalhe da estrutura de uma casa
+semienterrada, período Jōmon tardio</figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -863,10 +912,17 @@ exemplares mais característicos desse tipo (fig. 35). Ela é literalmente
 escavada na rocha, como a maioria das tumbas da nobreza etrusca, e tem
 um espaço central de onde irradiam as células para os sarcófagos.</p>
 </aside>
+<figure id="fig:cerveteri">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tomba_dei_Rilievi_(Banditaccia).jpg/1280px-Tomba_dei_Rilievi_(Banditaccia).jpg"
-title="fig:" id="fig:cerveteri" class="outset r-stretch"
+class="outset r-stretch"
 alt="Interior da tumba dos relevos, necrópole etrusca de Banditaccia, Cisra (atual Cerveteri), Itália, c. 400 a.C. Foto: Roberto Ferrari, 2009" />
+<figcaption aria-hidden="true">Interior da tumba dos relevos, necrópole
+etrusca de Banditaccia, Cisra (atual Cerveteri), Itália, c. 400 a.C.
+Foto: <a
+href="https://commons.wikimedia.org/wiki/File:Tomba_dei_Rilievi_(Banditaccia).jpg">Roberto
+Ferrari, 2009</a></figcaption>
+</figure>
 </section></section>
 <section>
 <section id="plataformas-e-terraplenos"
@@ -901,18 +957,18 @@ humanidade.</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:53%;">
-<figure>
+<figure id="fig:semper">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/ETH-BIB-Semper%2C_Gottfried_(1803-1879)-Portrait-Portr_11235.tif/lossy-page1-616px-ETH-BIB-Semper%2C_Gottfried_(1803-1879)-Portrait-Portr_11235.tif.jpg"
-id="fig:semper" alt="Gottfried Semper, fotografia anônima de 1865" />
+alt="Gottfried Semper, fotografia anônima de 1865" />
 <figcaption aria-hidden="true">Gottfried Semper, fotografia anônima de
 1865</figcaption>
 </figure>
 </div><div class="column" style="width:47%;">
-<figure>
+<figure id="fig:karib">
 <img
 data-src="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png"
-id="fig:karib" class="line"
+class="line"
 alt="Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860" />
 <figcaption aria-hidden="true">Cabana dos índios karib em Trinidad e
 Tobago, apresentada na exposição universal de Londres em 1851 e
@@ -942,20 +998,30 @@ estrutura em adobe <span class="citation"
 data-cites="rosenberg:2020720015">(Rosenberg et al.)</span>.</p>
 </aside>
 <div class="full">
+<figure id="fig:catalhoyuk-vid">
 <video
 data-src="https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm"
-title="fig:" id="fig:catalhoyuk-vid" class="r-stretch" controls=""><a
+class="r-stretch" controls=""><a
 href="https://upload.wikimedia.org/wikipedia/commons/5/54/Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm">Reconstituição
 do tecido construído de Çatal Höyük, Anatólia, 7100–5700 a.C. ZDF,
 2020</a></video>
+<figcaption aria-hidden="true">Reconstituição do tecido construído de
+Çatal Höyük, Anatólia, 7100–5700 a.C. <a
+href="https://commons.wikimedia.org/wiki/File:Catalhöyük,_erste_Großsiedlung_der_Menschheit_(CC_by_4.0).webm"><span
+class="smallcaps">ZDF</span>, 2020</a></figcaption>
+</figure>
 </div>
 </section>
 <section class="slide level2">
 
+<figure id="fig:catalhoyuk-plan">
 <img
 data-src="https://i.pinimg.com/originals/b4/7c/91/b47c9135a83f1695150a0214ad5204bf.png"
-title="fig:" id="fig:catalhoyuk-plan" class="line outset r-stretch"
+class="line outset r-stretch"
 alt="Planta da aldeia neolítica de Çatal Höyük. Contorno pontilhado: pátios externos" />
+<figcaption aria-hidden="true">Planta da aldeia neolítica de Çatal
+Höyük. Contorno pontilhado: pátios externos</figcaption>
+</figure>
 <aside class="notes">
 <p>O sítio representativo dessa composição de habitações por células
 construídas em adobe é a aldeia neolítica de Çatal Höyük, no sul da
@@ -972,10 +1038,14 @@ construído muito compacto, com poucos pátios internos e nenhuma rua
 madeira e grandes blocos de adobe (fig. 40). O espaço interior era
 organizado com uma área central cercada por plataformas.</p>
 </aside>
+<figure id="fig:catalhoyuk-build">
 <img
 data-src="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png"
-title="fig:" id="fig:catalhoyuk-build" class="outset r-stretch"
+class="outset r-stretch"
 alt="Diagrama dos sistemas construtivos de uma célula em Çatal Höyük" />
+<figcaption aria-hidden="true">Diagrama dos sistemas construtivos de uma
+célula em Çatal Höyük</figcaption>
+</figure>
 </section>
 <section id="taipas" class="slide level2">
 <h2>Taipas</h2>
@@ -1013,10 +1083,10 @@ frechais em madeira, para regularizar o assentamento da cobertura sobre
 a parede.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:taipal">
 <img
 data-src="https://i.pinimg.com/originals/ba/32/c8/ba32c8a816e370f002b185d63fb00cbe.jpg"
-id="fig:taipal" class="slide-bg"
+class="slide-bg"
 alt="Esquema do processo de construção com taipa de pilão. Jean-Baptiste Rondelet, 1802" />
 <figcaption aria-hidden="true">Esquema do processo de construção com
 taipa de pilão. <a
@@ -1028,10 +1098,16 @@ Rondelet, 1802</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
+<figure id="fig:ram">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Ramming_Earth.JPG/1280px-Ramming_Earth.JPG"
-title="fig:" id="fig:ram" class="r-stretch"
+class="r-stretch"
 alt="Compactando manualmente uma parede em taipa de pilão. Sinai, Egito. Foto: Moshirah, 2008" />
+<figcaption aria-hidden="true">Compactando manualmente uma parede em
+taipa de pilão. Sinai, Egito. Foto: <a
+href="https://commons.wikimedia.org/wiki/File:Ramming_Earth.JPG">Moshirah,
+2008</a></figcaption>
+</figure>
 </div>
 <aside class="notes">
 <p>Ao contrário da melhor prática na concretagem, na taipa cada camada
@@ -1059,10 +1135,16 @@ permitir a reutilização do taipal com mais facilidade. A grande
 espessura das paredes em taipa de pilão faz com que elas, em geral, não
 precisem de contraventamento.</p>
 </aside>
+<figure id="fig:djenne">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg/1280px-La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg"
-title="fig:" id="fig:djenne" class="r-stretch"
+class="r-stretch"
 alt="Mesquita maior em Djenné, Mali, século XIV, reconstruída 1906–1907. Foto: Gilles Mairet, 1972" />
+<figcaption aria-hidden="true">Mesquita maior em Djenné, Mali, século
+<span class="smallcaps">XIV</span>, reconstruída 1906–1907. Foto: <a
+href="https://commons.wikimedia.org/wiki/File:La_Grande_Mosquée,_Djenné,_Mali.Date_du_cliché_1972-27-12.jpg">Gilles
+Mairet, 1972</a></figcaption>
+</figure>
 </section>
 <section id="terraplenos" class="slide level2">
 <h2>Terraplenos</h2>
@@ -1090,17 +1172,28 @@ mão bem pesada no final do século <span class="smallcaps">XX</span>
 degraus, com muros de arrimo em adobe que enquadram um terrapleno com 30
 metros de altura.</p>
 </aside>
+<figure id="fig:ziggurat">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ziggarut_of_Ur_-_M.Lubinski.jpg/1280px-Ziggarut_of_Ur_-_M.Lubinski.jpg"
-title="fig:" id="fig:ziggurat" class="outset r-stretch"
+class="outset r-stretch"
 alt="Zigurate, antigo reino de Ur, atual Iraque, c. 2050–1980 a.C. Foto: Michael Lubinski, 2006" />
+<figcaption aria-hidden="true">Zigurate, antigo reino de Ur, atual
+Iraque, c. 2050–1980 a.C. Foto: <a
+href="https://commons.wikimedia.org/wiki/File:Ziggarut_of_Ur_-_M.Lubinski.jpg">Michael
+Lubinski, 2006</a></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
+<figure id="fig:eanna">
 <img
 data-src="https://i.pinimg.com/originals/a9/25/45/a925451f15346eca6d7d517c08836520.png"
-title="fig:" id="fig:eanna" class="outset r-stretch"
+class="outset r-stretch"
 alt="Reconstituição do Zigurate de Eanna, Uruk, século XXI a.C. Modelo: Artefacts" />
+<figcaption aria-hidden="true">Reconstituição do Zigurate de Eanna,
+Uruk, século <span class="smallcaps">XXI</span> a.C. Modelo: <a
+href="http://www.artefacts-berlin.de/portfolio-item/the-ur-iii-period/">Artefacts</a></figcaption>
+</figure>
 <aside class="notes">
 <p>Os zigurates na verdade eram mais do que o simples terraço com um
 edifício em cima; eles eram sistemas de espaços abertos e fechados
@@ -1114,10 +1207,9 @@ tema da estrutura em adobe, de acordo com a espessura de cada uma.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:adobe-foundations">
 <img
 data-src="https://i.pinimg.com/originals/c0/39/35/c0393553d63b532d1a78ccbe399c9506.png"
-id="fig:adobe-foundations"
 alt="Corte de uma parede em adobe típica da antiga Mesopotâmia. (a) parede, (b) baldrame ou soco, (c) fundação em sapata corrida, (bondstone) bloco juntouro ou perpianho. Anastasio, 2020" />
 <figcaption aria-hidden="true">Corte de uma parede em adobe típica da
 antiga Mesopotâmia. (a) parede, (b) baldrame ou soco, (c) fundação em
@@ -1149,10 +1241,16 @@ miolo em adobe. Elas eram ligadas entre si, em algumas fiadas, com
 cordas e esteiras de palha embutidas na argamassa.</p>
 </aside>
 <div class="align-right">
+<figure id="fig:eridu">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/6/68/Eridu_temple_7.png"
-title="fig:" id="fig:eridu" class="r-stretch"
+class="r-stretch"
 alt="Templo de Enki em Eridu, nível VII, c. 4000–3800 a.C. Modelo: Cush 2016" />
+<figcaption aria-hidden="true">Templo de Enki em Eridu, nível VII,
+c. 4000–3800 a.C. Modelo: <a
+href="https://commons.wikimedia.org/wiki/File:Eridu_temple_7.png">Cush
+2016</a></figcaption>
+</figure>
 </div>
 <aside class="notes">
 <p>Seria esse o sistema construtivo adotado em grandes edifícios, como o
@@ -1174,18 +1272,23 @@ pintados e tinha um acabamento vidrado. É o caso da famosa porta de
 Ishtar, atualmente reconstituída a partir de vestígios originais no
 museu Pergamon de Berlim (fig. 48).</p>
 </aside>
+<figure id="fig:ishtar">
 <img
 data-src="https://i.pinimg.com/originals/d5/83/2c/d5832cea9db6c2723d2ff99226e4b400.jpg"
-title="fig:" id="fig:ishtar" class="r-stretch"
+class="r-stretch"
 alt="Porta de Ishtar, Babilônia, 575 a.C., atualmente no museu Pergamon, Berlim" />
+<figcaption aria-hidden="true">Porta de Ishtar, Babilônia, 575 a.C.,
+atualmente no museu Pergamon, Berlim</figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<div id="fig:ishtar3d" class="subfigures iframe-wrapper outset">
+<figure id="fig:ishtar3d" class="subfigures iframe-wrapper outset">
 <iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/fxWocW5m-VI?start=26" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen>
 </iframe>
-<p>Porta de Ishtar, reconstituição virtual por Marco Mellace, 2019. </p>
-</div>
+<figcaption><p>Porta de Ishtar, reconstituição virtual por Marco
+Mellace, 2019. </p></figcaption>
+</figure>
 <aside class="notes">
 <p>Além dessa decoração, também podemos ver na própria porta de Ishtar
 (fig. 49) como a massa construída do portal enquadra o espaço numa
@@ -1226,17 +1329,27 @@ alargado, sempre alinhado com a parede ou a colunata que vem por cima
 aparelhada, ou seja, pedras talhadas mais grosseiramente e encaixadas
 sem um aparelho regular.</p>
 </aside>
+<figure id="fig:vitruve-pl4">
 <img
 data-src="https://i.pinimg.com/originals/99/11/a3/9911a3e0d03eb5628fde9bc5ce76e161.jpg"
-title="fig:" id="fig:vitruve-pl4" class="outset r-stretch"
+class="outset r-stretch"
 alt="Interpretação das fundações de muralhas descritas por Vitrúvio, na tradução de Claude Perrault, 1673" />
+<figcaption aria-hidden="true">Interpretação das fundações de muralhas
+descritas por Vitrúvio, na tradução de <a
+href="http://archive.org/details/gri_33125008503100">Claude Perrault,
+1673</a></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
+<figure id="fig:cargas-funda">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/funda-solos-1.png"
-title="fig:" id="fig:cargas-funda" class="line outset r-stretch"
+class="line outset r-stretch"
 alt="Fundações em solo raso e em solo profundo" />
+<figcaption aria-hidden="true">Fundações em solo raso e em solo
+profundo</figcaption>
+</figure>
 <aside class="notes">
 <p>Só que nem sempre isso é possível, especialmente onde o solo é muito
 profundo, como em regiões tropicais ou em planícies aluviais. Nesses
@@ -1258,10 +1371,10 @@ houver esforços de tração ou corte.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:indus-early">
 <img
 data-src="https://i.pinimg.com/originals/33/52/f5/3352f5c1459c5625fe8ff68ca3c36abc.png"
-id="fig:indus-early" class="outset"
+class="outset"
 alt="Civilização do vale do rio Indo, fase inicial (3300–2600 a.C.). Desenho: Avantiputra7, 2014" />
 <figcaption aria-hidden="true">Civilização do vale do rio Indo, fase
 inicial (3300–2600 a.C.). Desenho: <a
@@ -1286,19 +1399,24 @@ em blocos de adobe (fig. 53). Não se sabe se essas estruturas eram casas
 ou celeiros, mas em qualquer caso elas mostram uma preocupação
 importante com a homogeneidade do assentamento no solo.</p>
 </aside>
+<figure id="fig:mehrgarh">
 <img
 data-src="https://i.pinimg.com/originals/52/bb/7c/52bb7c1e9efe132df5fc5e661d8ccd35.jpg"
-title="fig:" id="fig:mehrgarh" class="outset r-stretch"
+class="outset r-stretch"
 alt="Fundações escavadas no sítio arqueológico de Mehrgarh, vale do rio Indo, c. 5500–3500 a.C. Foto: Catherine Jarrigue, Mission Archéologique de l’Indus" />
+<figcaption aria-hidden="true">Fundações escavadas no sítio arqueológico
+de Mehrgarh, vale do rio Indo, c. 5500–3500 a.C. Foto: Catherine
+Jarrigue, Mission Archéologique de l’Indus</figcaption>
+</figure>
 </section>
 <section id="dimensionamento" class="slide level2">
 <h2>Dimensionamento</h2>
-<div id="fig:rubble" class="subfigures iframe-wrapper outset">
+<figure id="fig:rubble" class="subfigures iframe-wrapper outset">
 <iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/eNN7T4fBQo4?start=240" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Construção de uma fundação em pedra lavrada para uma casa de pau a
-pique. House Alive, 2016. </p>
-</div>
+<figcaption><p>Construção de uma fundação em pedra lavrada para uma casa
+de pau a pique. House Alive, 2016. </p></figcaption>
+</figure>
 <aside class="notes">
 <p>Por causa das diferenças enormes entre tipos de solos, as regras de
 dimensionamento das fundações são só indicações preliminares. Mais do
@@ -1332,10 +1450,10 @@ apodrecer.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:epcc14-05">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/epcc14-05.png"
-id="fig:epcc14-05" class="line outset"
+class="line outset"
 alt="Sistemas convencionais de fundações – (a) cascalho, (b) concreto ou argamassa com agregados, (c) sapata corrida em alvenaria, (d) baldrame, (e) escavação a ser preenchida com aterro. Pereira da Costa, Enciclopédia prática da construção civil v. 14" />
 <figcaption aria-hidden="true">Sistemas convencionais de fundações – (a)
 cascalho, (b) concreto ou argamassa com agregados, (c) sapata corrida em
@@ -1358,10 +1476,10 @@ class="smallcaps">XX</span> (fig. 55).</p>
 </section>
 <section id="assentamento-de-fundações" class="slide level2">
 <h2>Assentamento de fundações</h2>
-<figure>
+<figure id="fig:epcc14-04">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/epcc14-04.png"
-id="fig:epcc14-04" class="line outset"
+class="line outset"
 alt="Escavação e preenchimento de fundações – (a) vala, (b) escoramento para terrenos instáveis, (c) preenchimento com fundo de concreto e baldrame em pedra lavrada. Pereira da Costa, Enciclopédia prática da construção civil v. 14" />
 <figcaption aria-hidden="true">Escavação e preenchimento de fundações –
 (a) vala, (b) escoramento para terrenos instáveis, (c) preenchimento com
@@ -1393,53 +1511,52 @@ já vimos, as fundações tradicionais não podem, em condições normais, ser
 submetidas a esforços de tração ou cortantes. Apesar disso, há algumas
 exceções em regiões sujeitas a terremotos (fig. 57).</p>
 </aside>
-<div id="fig:adobe-funda"
+<figure id="fig:adobe-funda"
 class="subfigures iframe-wrapper slide-bg outset">
 <iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/9kZaq5SwBxo?start=371" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Construção de fundações mistas para paredes em adobe. Arquitectura
-sin Fronteras Galicia, 2014. </p>
-</div>
+<figcaption><p>Construção de fundações mistas para paredes em adobe.
+Arquitectura sin Fronteras Galicia, 2014. </p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<div id="fig:absc" class="subfigures">
+<figure id="fig:absc">
 <div class="r-stack half">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-003-1.png"
-title="fig:" id="fig:abscB" class="line fragment fade-in-then-out" />
-<img
+id="fig:abscB" class="line fragment fade-in-then-out"
+alt="vista exterior" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-002-1.png"
-title="fig:" id="fig:abscA" class="line fragment fade-in-then-out" />
-<img
+id="fig:abscA" class="line fragment fade-in-then-out"
+alt="engaste do esteio no alicerce em pedra aparelhada" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-013.png"
-title="fig:" id="fig:abscD" class="line fragment fade-in-then-out" />
-<img
+id="fig:abscD" class="line fragment fade-in-then-out"
+alt="encaixe dos baldrames e frechais no esteio" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/vasconcelos-021b-1.png"
-title="fig:" id="fig:abscC" class="line fragment fade-in-then-out" />
+id="fig:abscC" class="line fragment fade-in-then-out"
+alt="elevação com corte do terreno" />
 </div>
-<p>Esquema de montagem das fundações mistas de madeira sobre pedra
-lavrada na arquitetura vernácula no Brasil, segundo Vasconcellos,
-<em>Arquitetura no Brasil: sistemas construtivos</em>. a – vista
-exterior, b – engaste do esteio no alicerce em pedra aparelhada,
-c – encaixe dos baldrames e frechais no esteio, d – elevação com corte
-do terreno</p>
-</div>
+<figcaption><p>Esquema de montagem das fundações mistas de madeira sobre
+pedra lavrada na arquitetura vernácula no Brasil, segundo Vasconcellos,
+<em>Arquitetura no Brasil: sistemas construtivos</em></p></figcaption>
+</figure>
 <aside class="notes">
 <p>As estruturas mistas de alvenaria e madeira são muito comuns nessas
 regiões do mundo, e especialmente no leste da Ásia e na península
 Ibérica — e também, por extensão da cultura ibérica, na América Latina.
-Nesse caso, é comum que as fundações sejam elas próprias mistas (fig. 58
-(a)). É o caso, especialmente, da construção vernácula no Brasil, que
-foi estudada nestes croquis do arquiteto Sylvio de Vasconcellos na
-segunda metade do século <span class="smallcaps">XX</span> <span
-class="citation"
+Nesse caso, é comum que as fundações sejam elas próprias mistas
+(fig. <strong>¿fig:abscB?</strong>). É o caso, especialmente, da
+construção vernácula no Brasil, que foi estudada nestes croquis do
+arquiteto Sylvio de Vasconcellos na segunda metade do século <span
+class="smallcaps">XX</span> <span class="citation"
 data-cites="vasconcellos:1979arquitetura">(Vasconcellos)</span>. A nossa
-tradição usa esteios e baldrames em madeira (fig. 58 (c)) engastados num
-alicerce em pedra aparelhada (fig. 58 (b)). O <em>nabo</em> do esteio
-também pode ser levemente queimado e fincado diretamente no solo, mas
-esse tipo de construção tende a apodrecer com facilidade (fig. 58
-(d)).</p>
+tradição usa esteios e baldrames em madeira
+(fig. <strong>¿fig:abscD?</strong>) engastados num alicerce em pedra
+aparelhada (fig. <strong>¿fig:abscA?</strong>). O <em>nabo</em> do
+esteio também pode ser levemente queimado e fincado diretamente no solo,
+mas esse tipo de construção tende a apodrecer com facilidade
+(fig. <strong>¿fig:abscC?</strong>).</p>
 </aside>
 </section>
 <section id="section-19" class="slide level2"
@@ -1469,10 +1586,15 @@ class="citation" data-cites="anastasio:2020building">(Anastasio
 ventilação entre o chão e o assoalho do térreo, o que também ajuda a
 reduzir o acúmulo de umidade (fig. 59).</p>
 </aside>
+<figure id="fig:valpa">
 <img
 data-src="https://i.pinimg.com/originals/ed/15/c5/ed15c515c38988f1997f70bf7df8b1c5.jpg"
-title="fig:" id="fig:valpa" class="r-stretch"
+class="r-stretch"
 alt="Esquema de fundações tradicionais em Valparaíso, Chile, segundo Barros e Sarabia, Sistemas constructivos básicos" />
+<figcaption aria-hidden="true">Esquema de fundações tradicionais em
+Valparaíso, Chile, segundo Barros e Sarabia, <em>Sistemas constructivos
+básicos</em></figcaption>
+</figure>
 </section>
 <section id="silharia" class="slide level2">
 <h2>Silharia</h2>
@@ -1484,15 +1606,16 @@ data-background-video-muted="true" data-background-video-loop="true">
 data-background-video="https://cdn.palazzo.arq.br/firmitas/taipa/Seleucid_Bit_Resh-Anu-Antum_Temple-Detail_and_Reconstruction-62772222-720p-30fps.mp4"
 data-background-video-muted="true"
 data-background-video-loop="true"></h2>
-<div id="fig:bitresh" class="subfigures iframe-wrapper slide-bg outset">
+<figure id="fig:bitresh"
+class="subfigures iframe-wrapper slide-bg outset">
 <iframe src="https://player.vimeo.com/video/62772222?autoplay=0" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Bit Resh, o templo de Anu e Antum em Uruk. Iniciado no século <span
-class="smallcaps">XV</span> a.C. Reconstituição do estado no período
-selêucida, século <span class="smallcaps">III</span> a.C.: <a
+<figcaption><p>Bit Resh, o templo de Anu e Antum em Uruk. Iniciado no
+século <span class="smallcaps">XV</span> a.C. Reconstituição do estado
+no período selêucida, século <span class="smallcaps">III</span> a.C.: <a
 href="http://www.artefacts-berlin.de/portfolio-item/uruk-visualisation-project-the-seleucid-period/">Artefacts,
-2010</a>. </p>
-</div>
+2010</a>. </p></figcaption>
+</figure>
 <aside class="notes">
 <p>O efeito arquitetônico do alicerce sobrelevado sempre foi bastante
 explorado para dar uma impressão de monumentalidade em construções
@@ -1508,18 +1631,33 @@ alvenaria.</p>
 <section class="slide level2">
 
 <div class="align-right">
+<figure id="fig:vorderasiatisches">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Vorderasiatisches_Museum_Berlin_038.jpg/1280px-Vorderasiatisches_Museum_Berlin_038.jpg"
-title="fig:" id="fig:vorderasiatisches" class="r-stretch"
+class="r-stretch"
 alt="Silharia do templo de Anu e Antum em Uruk, século XV a.C., fragmento no Vorderasiatisches Museum em Berlim. Foto: Einsamer Schütze, 2011" />
+<figcaption aria-hidden="true">Silharia do templo de Anu e Antum em
+Uruk, século <span class="smallcaps">XV</span> a.C., fragmento no
+Vorderasiatisches Museum em Berlim. Foto: <a
+href="https://commons.wikimedia.org/wiki/File:Vorderasiatisches_Museum_Berlin_038.jpg">Einsamer
+Schütze, 2011</a></figcaption>
+</figure>
 </div>
 </section>
 <section class="slide level2">
 
+<figure id="fig:karaindash">
 <img
 data-src="https://i0.wp.com/www.artefacts-berlin.de/wp-content/uploads/2018/06/uruk_seleucid_003.png"
-title="fig:" id="fig:karaindash" class="r-stretch"
+class="r-stretch"
 alt="Templo de Kara-in-dash dedicado a Anu e Antum em Uruk, iniciado no século XV a.C. Reconstituição do estado no período selêucida, século III a.C.: Artefacts, 2010" />
+<figcaption aria-hidden="true">Templo de Kara-in-dash dedicado a Anu e
+Antum em Uruk, iniciado no século <span class="smallcaps">XV</span> a.C.
+Reconstituição do estado no período selêucida, século <span
+class="smallcaps">III</span> a.C.: <a
+href="http://www.artefacts-berlin.de/portfolio-item/uruk-visualisation-project-the-seleucid-period/">Artefacts,
+2010</a></figcaption>
+</figure>
 <aside class="notes">
 <p>Apesar de ser bastante detalhado (fig. 61), esse silhar articula a
 elevação do templo com uma impressão de solidez e textura rústica na
@@ -1533,10 +1671,10 @@ data-background-size="contain" data-background-position="right">
 data-background-image="https://i.pinimg.com/originals/19/69/ea/1969eab3ab4eb5190d700219722b3167.jpg"
 data-background-size="contain" data-background-position="right"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:persepolis">
 <img
 data-src="https://i.pinimg.com/originals/19/69/ea/1969eab3ab4eb5190d700219722b3167.jpg"
-id="fig:persepolis" class="slide-bg"
+class="slide-bg"
 alt="Reconstituição do pódio e apadana no palácio imperial de Persépolis, por Charles Chipiez" />
 <figcaption aria-hidden="true">Reconstituição do pódio e
 <em>apadana</em> no palácio imperial de Persépolis, por Charles
@@ -1573,13 +1711,14 @@ da camada mais superficial dos tijolos, que foi sendo lavada ao longo
 dos anos por essa circulação da água.</p>
 <hr />
 </aside>
-<div id="fig:ishtar-model" class="subfigures iframe-wrapper outset">
+<figure id="fig:ishtar-model" class="subfigures iframe-wrapper outset">
 <iframe widht="1600" height="900" src="https://www.youtube-nocookie.com/embed/d23S8P-H0lM?t=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Modelo fotogramétrico da porta de Ishtar, Babilônia, século <span
-class="smallcaps">VI</span> a.C. Programa de Pós-graduação em Patrimônio
-da Universidade da Flórida e World Monuments Fund, 2016. </p>
-</div>
+<figcaption><p>Modelo fotogramétrico da porta de Ishtar, Babilônia,
+século <span class="smallcaps">VI</span> a.C. Programa de Pós-graduação
+em Patrimônio da Universidade da Flórida e World Monuments Fund, 2016.
+</p></figcaption>
+</figure>
 </section>
 <section id="conclusão" class="slide level2">
 <h2>Conclusão</h2>
@@ -1601,28 +1740,25 @@ cima das fundações tradicionais.</p>
 class="title-slide slide level1 unnumbered allowframebreaks">
 <h1 class="unnumbered allowframebreaks">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-alberti:2011arte" class="csl-entry" role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-alberti:2011arte" class="csl-entry" role="listitem">
 Alberti, Leon Battista. <em>Da arte edificatória</em>. Traduzido por
 Mário Júlio Teixeira Krüger, Fundação Calouste Gulbenkian, 2011.
 </div>
-<div id="ref-anastasio:2020building" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-anastasio:2020building" class="csl-entry" role="listitem">
 Anastasio, Stefano. <em>Building Between the Two Rivers: An Introduction
 to the Building Archaeology of Ancient Mesopotamia</em>. Archaeopress,
 2020. <em>Open WorldCat</em>, <a
 href="https://ebookcentral.proquest.com/lib/umoncton-ebooks/detail.action?docID=6320960">https://ebookcentral.proquest.com/lib/umoncton-ebooks/detail.action?docID=6320960</a>.
 </div>
-<div id="ref-bar-yosef:1989origins3" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-bar-yosef:1989origins3" class="csl-entry" role="listitem">
 Bar-Yosef, Ofer, e Anna Belfer-Cohen. <span>“The Origins of Sedentism
 and Farming Communities in the Levant”</span>. <em>Journal of World
 Prehistory</em>, vol. 3, nº 4, dezembro de 1989, p. 447–98. <em>DOI.org
 (Crossref)</em>, <a
 href="https://doi.org/10.1007/BF00975111">https://doi.org/10.1007/BF00975111</a>.
 </div>
-<div id="ref-chambers:1759treatise" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-chambers:1759treatise" class="csl-entry" role="listitem">
 Chambers, William. <em>A Treatise on Civil Architecture : In Which the
 Principles of That Art Are Laid down, and Illustrated by a Great Number
 of Plates Accurately Designed, and Elegantly Engraved by the Best
@@ -1631,14 +1767,13 @@ Hands</em>. Printed for the author by J. Haberkorn, 1759.
 href="https://archive.org/details/gri_33125011135288">https://archive.org/details/gri_33125011135288</a>.
 </div>
 <div id="ref-lumley:1969paleolithic220" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 de Lumley, Henry. <span>“A Paleolithic Camp at Nice”</span>.
 <em>Scientific American</em>, vol. 220, nº 5, 1969, p. 42–51.
 <em>JSTOR</em>, <a
 href="https://www.jstor.org/stable/24926357">https://www.jstor.org/stable/24926357</a>.
 </div>
-<div id="ref-fletcher:1905history" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-fletcher:1905history" class="csl-entry" role="listitem">
 Fletcher, Banister, e Banister F. Fletcher. <em>A History of
 Architecture on the Comparative Method for the Student, Craftsman, and
 Amateur</em>. 5º ed, Batsford : Scribner’s sons, 1905. <em>Internet
@@ -1646,47 +1781,43 @@ Archive</em>, <a
 href="http://archive.org/details/historyofarchite00flet">http://archive.org/details/historyofarchite00flet</a>.
 </div>
 <div id="ref-groucutt:2020monumental30" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Groucutt, Huw S., et al. <span>“Monumental Landscapes of the Holocene
 Humid Period in Northern Arabia: The Mustatil Phenomenon”</span>.
 <em>The Holocene</em>, vol. 30, nº 12, dezembro de 2020, p. 1767–79.
 <em>SAGE Journals</em>, <a
 href="https://doi.org/10.1177/0959683620950449">https://doi.org/10.1177/0959683620950449</a>.
 </div>
-<div id="ref-haklay:2015new10" class="csl-entry" role="doc-biblioentry">
+<div id="ref-haklay:2015new10" class="csl-entry" role="listitem">
 Haklay, Gil, e Avi Gopher. <span>“A New Look at Shelter 131/51 in the
 Natufian Site of Eynan (Ain-Mallaha), Israel”</span>. <em><span
 class="smallcaps">PLOS ONE</span></em>, vol. 10, nº 7, agosto de 2015,
 p. e0130121. <em>PLoS Journals</em>, <a
 href="https://doi.org/10.1371/journal.pone.0130121">https://doi.org/10.1371/journal.pone.0130121</a>.
 </div>
-<div id="ref-kawashima:2011burial38" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-kawashima:2011burial38" class="csl-entry" role="listitem">
 Kawashima, Takamune. <span>“Burial Practices and Social Complexity:
 Jomon Examples”</span>. <em>Documenta Praehistorica</em>, vol. 38,
 dezembro de 2011, p. 109–18. <em>DOI.org (Crossref)</em>, <a
 href="https://doi.org/10.4312/dp.38.9">https://doi.org/10.4312/dp.38.9</a>.
 </div>
-<div id="ref-liang:1984pictorial" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-liang:1984pictorial" class="csl-entry" role="listitem">
 Liang, Sicheng. <em>A Pictorial History of Chinese Architecture: A Study
 of the Development of Its Structural System and the Evolution of Its
 Types = 图像中国建筑史</em>. Organizado por Wilma Fairbank, <span
 class="smallcaps">MIT</span> Press, 1984.
 </div>
-<div id="ref-palladio:1570quattro" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-palladio:1570quattro" class="csl-entry" role="listitem">
 Palladio, Andrea. <em>I quattro libri dell’architettura</em>. Dominico
 de’ Franceschi, 1570, <a
 href="https://archive.org/details/qvattrolibridel00pall/">https://archive.org/details/qvattrolibridel00pall/</a>.
 </div>
 <div id="ref-pereira:1955enciclopedia14" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Pereira da Costa, Francisco. <em>Enciclopédia prática da construção
 civil</em>. Edição do autor : Portugália, 1955.
 </div>
-<div id="ref-pettitt:1997high29" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-pettitt:1997high29" class="csl-entry" role="listitem">
 Pettitt, P. B. <span>“High Resolution Neanderthals? Interpreting Middle
 Palaeolithic Intrasite Spatial Data”</span>. <em>World Archaeology</em>,
 vol. 29, nº 2, outubro de 1997, p. 208–24. <em>DOI.org (Crossref)</em>,
@@ -1694,51 +1825,47 @@ vol. 29, nº 2, outubro de 1997, p. 208–24. <em>DOI.org (Crossref)</em>,
 href="https://doi.org/10.1080/00438243.1997.9980374">https://doi.org/10.1080/00438243.1997.9980374</a>.
 </div>
 <div id="ref-quatremere:1788caractere" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Quatremère de Quincy, Antoine Chrysosthome. <span>“Caractère”</span>.
 <em>Architecture</em>, organizado por A.C. Quatremère de Quincy, vol. 1,
 Panckouke, 1788, p. 477–518.
 </div>
-<div id="ref-rondelet:1812traite1" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-rondelet:1812traite1" class="csl-entry" role="listitem">
 Rondelet, Jean Baptiste. <em>Traité théorique et pratique de l’art de
 bâtir</em>. Chez l’auteur, 1812. <em>Internet Archive</em>, <a
 href="http://archive.org/details/traitetheoriquee01rond">http://archive.org/details/traitetheoriquee01rond</a>.
 </div>
-<div id="ref-rosenberg:2020720015" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-rosenberg:2020720015" class="csl-entry" role="listitem">
 Rosenberg, Danny, et al. <span>“7,200 Years Old Constructions and
 Mudbrick Technology: The Evidence from Tel Tsaf, Jordan Valley,
 Israel”</span>. <em><span class="smallcaps">PLOS ONE</span></em>, vol.
 15, nº 1, janeiro de 2020, p. e0227288. <em>PLoS Journals</em>, <a
 href="https://doi.org/10.1371/journal.pone.0227288">https://doi.org/10.1371/journal.pone.0227288</a>.
 </div>
-<div id="ref-semper:1860stil" class="csl-entry" role="doc-biblioentry">
+<div id="ref-semper:1860stil" class="csl-entry" role="listitem">
 Semper, Gottfried. <em>Der Stil in den technischen und tektonischen
 Künsten, oder, Praktische Aesthetik : ein Handbuch für Techniker,
 Künstler und Kunstfreunde</em>. Verlag für Kunst und Wissenschaft, 1860.
 <em>Internet Archive</em>, <a
 href="http://archive.org/details/gri_stilindentec02semp">http://archive.org/details/gri_stilindentec02semp</a>.
 </div>
-<div id="ref-semper:1851vier" class="csl-entry" role="doc-biblioentry">
+<div id="ref-semper:1851vier" class="csl-entry" role="listitem">
 ---. <em>Die vier Elemente der Baukunst</em>. F. Vieweg, 1851.
 <em>Internet Archive</em>, <a
 href="http://archive.org/details/dievierelemente00sempgoog">http://archive.org/details/dievierelemente00sempgoog</a>.
 </div>
-<div id="ref-thomas:2021mustatils95" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-thomas:2021mustatils95" class="csl-entry" role="listitem">
 Thomas, Hugh, et al. <span>“The Mustatils: Cult and Monumentality in
 Neolithic North-Western Arabia”</span>. <em>Antiquity</em>, vol. 95, nº
 381, junho de 2021, p. 605–26. <em>Cambridge University Press</em>, <a
 href="https://doi.org/10.15184/aqy.2021.51">https://doi.org/10.15184/aqy.2021.51</a>.
 </div>
 <div id="ref-vasconcellos:1979arquitetura" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Vasconcellos, Sylvio de. <em>Arquitetura no Brasil, sistemas
 construtivos</em>. Universidade Federal de Minas Gerais, 1979.
 </div>
-<div id="ref-vitruvio:2007tratado" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-vitruvio:2007tratado" class="csl-entry" role="listitem">
 Vitrúvio. <em>Tratado de arquitetura</em>. Traduzido por M. Justino
 Maciel, Martins Fontes, 2007.
 </div>

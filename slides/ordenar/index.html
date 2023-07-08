@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -211,10 +216,9 @@ irá utilizá-lo, etc.</p>
 class="slide level2">
 <h2>Arquitetura clássica e o microcosmo perfeito</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:tzonis">
 <img
 data-src="https://images-na.ssl-images-amazon.com/images/P/026270031X.01._SX360_SCLZZZZZZZ_.jpg"
-id="fig:tzonis"
 alt="Capa do livro Classical Architecture por Tzonis e Lefaivre" />
 <figcaption aria-hidden="true">Capa do livro <em>Classical
 Architecture</em> por Tzonis e Lefaivre</figcaption>
@@ -279,23 +283,22 @@ Pérsia).</li>
 </section>
 <section class="slide level2">
 
-<div id="fig:deriva" class="subfigures full third">
+<figure id="fig:deriva" class="full third">
 <div class="r-stack">
-<img data-src="" title="fig:" id="fig:derivaA"
-class="fragment current-visible line" /> <img data-src="" title="fig:"
-id="fig:derivaB" class="fragment current-visible line" /> <img
-data-src="" title="fig:" id="fig:derivaC"
-class="fragment current-visible line" /> <img data-src="" title="fig:"
-id="fig:derivaD" class="fragment current-visible line" /> <img
-data-src="" title="fig:" id="fig:derivaE"
-class="fragment current-visible line" />
+<img data-src="" id="fig:derivaA" class="fragment current-visible line"
+alt="mégarōn rural da Idade do Bronze" /> <img data-src=""
+id="fig:derivaB" class="fragment current-visible line"
+alt="mérgarōn palaciano da Idade do Bronze" /> <img data-src=""
+id="fig:derivaC" class="fragment current-visible line"
+alt="templo do período geométrico" /> <img data-src="" id="fig:derivaD"
+class="fragment current-visible line"
+alt="templo próstilo do período arcaico" /> <img data-src=""
+id="fig:derivaE" class="fragment current-visible line"
+alt="templo períptero do período arcaico" />
 </div>
-<p>Processo tipológico reconstituído do templo grego clássico, baseado
-em Barbara Barletta. a – <em>mégarōn</em> rural da Idade do Bronze,
-b – <em>mérgarōn</em> palaciano da Idade do Bronze, c – templo do
-período geométrico, d – templo próstilo do período arcaico, e – templo
-períptero do período arcaico</p>
-</div>
+<figcaption><p>Processo tipológico reconstituído do templo grego
+clássico, baseado em Barbara Barletta</p></figcaption>
+</figure>
 </section>
 <section id="por-que-ordens-clássicas" class="slide level2">
 <h2>Por que ordens clássicas</h2>
@@ -424,10 +427,9 @@ escritora Lin Huiyin e pelo arquiteto Liang Sicheng (fig. 3). O
 aprendizado Beaux-Arts de Liang forneceu o método realizar o primeiro
 levantamento sistemático da arquitetura tradicional na China. fig. 4</p>
 </aside>
-<figure>
+<figure id="fig:liang-lin">
 <img
 data-src="https://i.pinimg.com/originals/44/d4/a2/44d4a286d3f24d3a6f01563ac93a4121.jpg"
-id="fig:liang-lin"
 alt="Lin Huiyin e Liang Sicheng numa viagem pela província chinesa de Shanxi, 1934. Foto: acervo da família Fairbank" />
 <figcaption aria-hidden="true">Lin Huiyin e Liang Sicheng numa viagem
 pela província chinesa de Shanxi, 1934. Foto: <a
@@ -437,10 +439,10 @@ da família Fairbank</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:liang-01">
 <img
 data-src="https://i.pinimg.com/originals/85/52/82/855282f257cac6a604f9d3e76eedf562.png"
-id="fig:liang-01" class="nobg line"
+class="nobg line"
 alt="Nomenclatura dos componentes principais de uma construção chinesa. Liang Sicheng e Lin Huiyin, 1943, publicado em 1984" />
 <figcaption aria-hidden="true">Nomenclatura dos componentes principais
 de uma construção chinesa. Liang Sicheng e Lin Huiyin, 1943, publicado
@@ -482,10 +484,9 @@ Guadet e Varon, mas também os americanos Curtis e Harbeson.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:song">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/China_-_Song_Dynasty-es.svg/1043px-China_-_Song_Dynasty-es.svg.png"
-id="fig:song"
 alt="Dinastia Song no seu auge. Mapa: Mozzan, 2013, traduzido por Rowan Wind Whistler, 2015" />
 <figcaption aria-hidden="true">Dinastia Song no seu auge. Mapa: <a
 href="https://commons.wikimedia.org/wiki/File:China_-_Song_Dynasty-es.svg">Mozzan,
@@ -514,31 +515,35 @@ considerado um exemplo do engessamento conservador da tradição chinesa,
 e da estagnação tecnológica do país — mas essa foi uma interpretação
 baseada numa certa agenda política republicana.</p>
 </aside>
-<div id="fig:liang-07-08" class="subfigures columns full">
+<figure id="fig:liang-07-08" class="subfigures columns full">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:liang-07">
 <img
 data-src="https://i.pinimg.com/originals/f4/c9/9b/f4c99b94f2c261080a66a10b39a6cc24.png"
-id="fig:liang-07" />
+alt="Regras de carpintaria estrutural da dinastia Song segundo o Yingzao fashi, 1103" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:liang-08">
 <img
 data-src="https://i.pinimg.com/originals/b9/f2/50/b9f25090c239fcc5880b50e2fba9fb4f.png"
-id="fig:liang-08" />
+alt="Regras de carpintaria estrutural da dinastia Qing segundo o Gongcheng zofa, 1778" />
+<figcaption></figcaption>
 </figure>
-</div><p>Pranchas desenhadas por Liang em 1943 e publicadas em 1984.
-a – Regras de carpintaria estrutural da dinastia Song segundo o
-<em>Yingzao fashi</em>, 1103, b – Regras de carpintaria estrutural da
-dinastia Qing segundo o <em>Gongcheng zofa</em>, 1778</p>
 </div>
+<figcaption><p>Pranchas desenhadas por Liang em 1943 e publicadas em
+1984. a – Regras de carpintaria estrutural da dinastia Song segundo o
+<em>Yingzao fashi</em>, 1103, b – Regras de carpintaria estrutural da
+dinastia Qing segundo o <em>Gongcheng zofa</em>, 1778</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:liang-order">
 <img
 data-src="https://i.pinimg.com/originals/00/2c/bf/002cbfc07d59bc32765225b3252ce698.png"
-id="fig:liang-order" class="nobg line"
+class="nobg line"
 alt="“Ordem” chinesa. Liang Sicheng e Lin Huiyin, 1943, publicado em 1984" />
 <figcaption aria-hidden="true">“Ordem” chinesa. Liang Sicheng e Lin
 Huiyin, 1943, publicado em 1984</figcaption>
@@ -560,10 +565,9 @@ conservada na China (fig. 8).</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:liang-24a">
 <img
 data-src="https://i.pinimg.com/originals/af/2f/3a/af2f3afb73a19be7ddc0eb75e5f6c9c0.jpg"
-id="fig:liang-24a"
 alt="Fóguāngsǐ, monte Wutai, Shanxi, 857. Fotografia da expedição de Liang Sicheng, Lin Hiuyin, John e Wilma Fairbank, 1934" />
 <figcaption aria-hidden="true">Fóguāngsǐ, monte Wutai, Shanxi, 857.
 Fotografia da expedição de Liang Sicheng, Lin Hiuyin, John e Wilma
@@ -572,10 +576,10 @@ Fairbank, 1934</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:liang-32">
 <img
 data-src="https://i.pinimg.com/originals/63/39/db/6339db291242961bee44bb90b1d8bc17.png"
-id="fig:liang-32" class="nobg line"
+class="nobg line"
 alt="Evolução da “ordem chinesa”. Liang Sicheng e Lin Huiyin, 1943, publicado em 1984" />
 <figcaption aria-hidden="true">Evolução da “ordem chinesa”. Liang
 Sicheng e Lin Huiyin, 1943, publicado em 1984</figcaption>
@@ -707,8 +711,8 @@ funcionamento do universo visual e geometricamente.</p>
 </section>
 <section class="slide level2">
 
-<figure>
-<img data-src="https://i.redd.it/9u46fzdhcdly.jpg" id="fig:pantheon-sec"
+<figure id="fig:pantheon-sec">
+<img data-src="https://i.redd.it/9u46fzdhcdly.jpg"
 alt="Apolodoro de Damasco, arquiteto, Pantheon, Roma, 113–125 d.C. Corte longitudinal por Giovanni Battista Piranesi" />
 <figcaption aria-hidden="true">Apolodoro de Damasco, arquiteto,
 Pantheon, Roma, 113–125 d.C. Corte longitudinal por Giovanni Battista
@@ -734,10 +738,9 @@ e de grande parte do centro-sul asiático. Na aldeia indo-europeia de
 Arkaim, temos um plano centralizado com uma forma rigidamente regulada,
 ainda que ao preço de uma circulação pouco conveniente (fig. 11).</p>
 </aside>
-<figure>
+<figure id="fig:arkaim">
 <img
 data-src="https://i.pinimg.com/originals/5a/4d/4e/5a4d4e523063b122e3bc96c7c22eb537.jpg"
-id="fig:arkaim"
 alt="Reconstituição do assentamento de Arkaim, sul dos montes Urais, c. 2000 a.C. Desenho: Jvtrplzz" />
 <figcaption aria-hidden="true">Reconstituição do assentamento de Arkaim,
 sul dos montes Urais, c. 2000 a.C. Desenho: <a
@@ -747,10 +750,10 @@ href="https://www.heritagedaily.com/2020/04/arkaim/127669">Jvtrplzz</a></figcapt
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:havell">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Indo-Aryan_village_plans.png/710px-Indo-Aryan_village_plans.png"
-id="fig:havell" class="line nobg"
+class="line nobg"
 alt="Esquemas conceituais de aldeias indo-arianas. Desenho em E.B. Havell, 1918" />
 <figcaption aria-hidden="true">Esquemas conceituais de aldeias
 indo-arianas. Desenho em <a
@@ -781,10 +784,9 @@ agora não aparece mais de modo estático. Ele surge, então, em um
 movimento em certa direção, que irá espelhar o sentido de rotação da
 abóbada celeste e dos astros (fig. 13).</p>
 </aside>
-<figure>
+<figure id="fig:brown-vedic">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Brown-18060_0021-1.jpg/1280px-Brown-18060_0021-1.jpg"
-id="fig:brown-vedic"
 alt="Aldeia védica com cerca e portal. Desenho em Percy Brown, 1959" />
 <figcaption aria-hidden="true">Aldeia védica com cerca e portal. Desenho
 em <a
@@ -821,10 +823,9 @@ práticas construtivas.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:manduka-mandala">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg/1024px-64_grid_Manduka_design_Hindu_Temple_Floor_Plan_Vastu_Purusa_Mandala_Ancient_Architecture.svg.png"
-id="fig:manduka-mandala"
 alt="Manduka mandala de 64 casas para o projeto de templos hinduístas. Desenho: Mark Muesse, 2014" />
 <figcaption aria-hidden="true">Manduka mandala de 64 casas para o
 projeto de templos hinduístas. Desenho: <a
@@ -844,10 +845,9 @@ diferentes setores da edificação, conforme seus papeis sociais).</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:jkk-plan">
 <img
 data-src="https://i.pinimg.com/originals/39/bd/90/39bd90af04072a4d03da58b399da5333.jpg"
-id="fig:jkk-plan"
 alt="Charles Correa, arquiteto, Jawahar Kala Kendra, Jaipur, 1986, planta" />
 <figcaption aria-hidden="true">Charles Correa, arquiteto, Jawahar Kala
 Kendra, Jaipur, 1986, planta</figcaption>
@@ -875,10 +875,9 @@ data-cites="coomaraswamy:1992essays">(Coomaraswamy 106)</span>.</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:brown-032">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Brown-18060_0032.jpg/614px-Brown-18060_0032.jpg"
-id="fig:brown-032"
 alt="Representações de cabanas em mosteiros escavados na rocha. Desenho em Percy Brown, 1959" />
 <figcaption aria-hidden="true">Representações de cabanas em mosteiros
 escavados na rocha. Desenho em <a
@@ -886,10 +885,9 @@ href="https://commons.wikimedia.org/wiki/File:Brown-18060_0032.jpg">Percy
 Brown, 1959</a></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:brown-050">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Brown-18060_0050.jpg/623px-Brown-18060_0050.jpg"
-id="fig:brown-050"
 alt="Representações de santuários em cabanas nos relevos antigos. Desenho em Percy Brown, 1959" />
 <figcaption aria-hidden="true">Representações de santuários em cabanas
 nos relevos antigos. Desenho em <a
@@ -903,10 +901,9 @@ Brown, 1959</a></figcaption>
 
 <div class="columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:brown-026">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Brown-18060_0026.jpg/666px-Brown-18060_0026.jpg"
-id="fig:brown-026"
 alt="Construção em madeira reconstituída a partir de espaços escavados na rocha. Desenho em Percy Brown, 1959" />
 <figcaption aria-hidden="true">Construção em madeira reconstituída a
 partir de espaços escavados na rocha. Desenho em <a
@@ -914,10 +911,9 @@ href="https://commons.wikimedia.org/wiki/File:Brown-18060_0026.jpg">Percy
 Brown, 1959</a></figcaption>
 </figure>
 </div><div class="column" style="width:50%;">
-<figure>
+<figure id="fig:brown-125">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Brown-18060_0125.jpg/622px-Brown-18060_0125.jpg"
-id="fig:brown-125"
 alt="Origens formais dos tipos de templos. Desenho em Percy Brown, 1959" />
 <figcaption aria-hidden="true">Origens formais dos tipos de templos.
 Desenho em <a
@@ -1196,49 +1192,41 @@ no canteiro de obras.</p></li>
 class="title-slide slide level1 unnumbered unlisted allowframebreaks">
 <h1 class="unnumbered unlisted allowframebreaks">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-alexander:1977pattern" class="csl-entry"
-role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-alexander:1977pattern" class="csl-entry" role="listitem">
 Alexander, Christopher, et al. <em>A Pattern Language: Towns, Buildings,
 Construction</em>. Oxford University Press, 1977.
 </div>
-<div id="ref-alexander:2002nature" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-alexander:2002nature" class="csl-entry" role="listitem">
 Alexander, Christopher. <em>The Nature of Order</em>. Center for
 Environmental Structure, 2002.
 </div>
-<div id="ref-brown:1959indiana" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-brown:1959indiana" class="csl-entry" role="listitem">
 Brown, Percy. <em>Indian Architecture: The Islamic Period</em>. 1959.
 Taraporevala’s Treasure House of Books, 1959. <em>Internet Archive</em>,
 <a
 href="http://archive.org/details/in.gov.ignca.18429">http://archive.org/details/in.gov.ignca.18429</a>.
 </div>
-<div id="ref-coomaraswamy:1992essays" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-coomaraswamy:1992essays" class="csl-entry" role="listitem">
 Coomaraswamy, Ananda K. <em>Essays in Early Indian Architecture</em>.
 Organizado por Michael W. Meister, Indira Gandhi National Centre for the
 Arts : Oxford University Press, 1992.
 </div>
-<div id="ref-gabriel:2004classical" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-gabriel:2004classical" class="csl-entry" role="listitem">
 Gabriel, J. François. <em>Classical Architecture for the Twenty-First
 Century: An Introduction to Design</em>. W.W. Norton, 2004.
 </div>
-<div id="ref-liang:1984pictorial" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-liang:1984pictorial" class="csl-entry" role="listitem">
 Liang, Sicheng. <em>A Pictorial History of Chinese Architecture: A Study
 of the Development of Its Structural System and the Evolution of Its
 Types = 图像中国建筑史</em>. Organizado por Wilma Fairbank, <span
 class="smallcaps">MIT</span> Press, 1984.
 </div>
-<div id="ref-summerson:1997linguagem" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-summerson:1997linguagem" class="csl-entry" role="listitem">
 Summerson, John. <em>A linguagem clássica da arquitetura</em>. Traduzido
 por Sylvia Ficher, Martins Fontes, 1997.
 </div>
-<div id="ref-tzonis:1986classical" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-tzonis:1986classical" class="csl-entry" role="listitem">
 Tzonis, Alexander, e Liane Lefaivre. <em>Classical Architecture: The
 Poetics of Order</em>. <span class="smallcaps">MIT</span> Press, 1986.
 </div>

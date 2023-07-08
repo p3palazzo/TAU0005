@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -61,10 +66,10 @@
 <h1>Proporção e estética</h1>
 <div class="fragment">
 <div class="align-right">
-<figure>
+<figure id="fig:triade">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvius-firmitas-utilitas-venustas.png"
-id="fig:triade" class="line" alt="Princípios vitruvianos" />
+class="line" alt="Princípios vitruvianos" />
 <figcaption aria-hidden="true">Princípios vitruvianos</figcaption>
 </figure>
 </div>
@@ -101,23 +106,28 @@ mania da seção áurea e a teoria das “geometrias sagradas” <span
 class="citation" data-cites="bonell:1999divina doczi:2008poder">(Bonell;
 Doczi)</span> se desenvolveu.</p>
 </aside>
-<div id="fig:zeising" class="subfigures columns outset">
+<figure id="fig:zeising" class="subfigures columns outset">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:zeisingA">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/neuelehrevondenp00zeis_0089.png"
-id="fig:zeisingA" class="line" />
+class="line" alt="corpo humano" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:zeisingB">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/neuelehrevondenp00zeis_0203.png"
-id="fig:zeisingB" class="line" />
+class="line"
+alt="Apolo do Belvedere, escultura romana c. 120–140 d.C." />
+<figcaption></figcaption>
 </figure>
-</div><p>Sistemas proporcionais no tratado de Adolf Zeising, 1854.
-a – corpo humano, b – Apolo do Belvedere, escultura romana c. 120–140
-d.C.</p>
 </div>
+<figcaption><p>Sistemas proporcionais no tratado de Adolf Zeising, 1854.
+a – corpo humano, b – Apolo do Belvedere, escultura romana c. 120–140
+d.C.</p></figcaption>
+</figure>
 </section>
 <section id="section" class="slide level2" data-visibility="hidden">
 <h2 data-visibility="hidden"></h2>
@@ -147,10 +157,10 @@ de componentes que é medido em patamares numéricos… Por isso, as cotas
 de dimensão e os quadros quantitativos são os elementos mais importantes
 de um projeto arquitetônico na atualidade.</p>
 </aside>
-<figure>
+<figure id="fig:neufert">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/neufert-gastronomia-1080p.png"
-id="fig:neufert" class="line outset"
+class="line outset"
 alt="Medidas ergonômicas em estabelecimentos de alimentação, da Arte de projetar em arquitetura por Ernst e Peter Neufert" />
 <figcaption aria-hidden="true">Medidas ergonômicas em estabelecimentos
 de alimentação, da <em>Arte de projetar em arquitetura</em> por Ernst e
@@ -159,10 +169,10 @@ Peter Neufert</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:groma">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/les_arpenteurs_RomainZoom.png"
-id="fig:groma" class="line outset"
+class="line outset"
 alt="Reconstituição do procedimento romano de agrimensura com groma. Museu Romano de Nyon, Suíça" />
 <figcaption aria-hidden="true">Reconstituição do procedimento romano de
 agrimensura com <em>groma</em>. <a
@@ -172,12 +182,12 @@ Romano de Nyon</a>, Suíça</figcaption>
 </section>
 <section class="slide level2">
 
-<div id="fig:groma-stewart" class="subfigures iframe-wrapper outset">
+<figure id="fig:groma-stewart" class="subfigures iframe-wrapper outset">
 <iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/-pIUTs2XD50?start=306" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Demonstração do funcionamento de um <em>groma</em> da Roma antiga.
-</p>
-</div>
+<figcaption><p>Demonstração do funcionamento de um <em>groma</em> da
+Roma antiga. </p></figcaption>
+</figure>
 <aside class="notes">
 <p>No canteiro de obras tradicional, só é possível tirar três tipos de
 medidas: linhas retas usando um teodolito, conhecido como <em>groma</em>
@@ -191,10 +201,10 @@ data-cites="adam:1994roman">(Adam)</span>.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:corda">
 <img
 data-src="https://www.redlinesurveys.co.uk/wp-content/uploads/2018/01/Setting-Out-Building-Marker.jpg"
-id="fig:corda" class="outset"
+class="outset"
 alt="Uso de estacas e cordas num canteiro de obras. Foto: Redline surveys" />
 <figcaption aria-hidden="true">Uso de estacas e cordas num canteiro de
 obras. Foto: <a
@@ -204,22 +214,20 @@ surveys</a></figcaption>
 </section>
 <section class="slide level2">
 
-<div id="fig:prumo" class="subfigures columns outset">
+<figure id="fig:prumo" class="subfigures columns outset">
 <div class="column" style="width:50%;">
-<figure>
-<img
+<p><img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/adam-079.png"
-id="fig:prumoA" class="line" />
-</figure>
-</div><div class="column" style="width:50%;">
-<figure>
-<img
-data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/adam-082.png"
-id="fig:prumoB" class="line" />
-</figure>
-</div><p>Reconstituição de prumos da Roma antiga segundo Jean-Pierre
-Adam. </p>
+id="fig:prumoA" class="line" /></p>
 </div>
+<div class="column" style="width:50%;">
+<p><img
+data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/adam-082.png"
+id="fig:prumoB" class="line" /></p>
+</div>
+<figcaption><p>Reconstituição de prumos da Roma antiga segundo
+Jean-Pierre Adam. </p></figcaption>
+</figure>
 </section>
 <section id="instrumentos-de-desenho-com-proporções"
 class="slide level2">
@@ -228,10 +236,9 @@ class="slide level2">
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:lequeu">
 <img
 data-src="https://gallica.bnf.fr/ark:/12148/btv1b7703014j/f1.highres"
-id="fig:lequeu"
 alt="Jean-Jacques Lequeu, Instrumentos de desenho arquitetônico, 1782" />
 <figcaption aria-hidden="true">Jean-Jacques Lequeu, <a
 href="https://gallica.bnf.fr/ark:/12148/btv1b7703014j/f1.item.r=lequeu">Instrumentos
@@ -257,10 +264,9 @@ compasso fixo vai ter sempre a mesma proporção (fig. 10). Em ambos os
 casos, a medida a ser tomada pode ser alterada girando as pernas em
 torno do eixo.</p>
 </aside>
-<figure>
+<figure id="fig:dividers">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/d/d4/Compasso_di_riduzione_%28r%29.jpg"
-id="fig:dividers"
 alt="Compasso de redução ajustável. Foto: Ricce, 2013" />
 <figcaption aria-hidden="true">Compasso de redução ajustável. Foto: <a
 href="https://commons.wikimedia.org/wiki/File:Compasso_di_riduzione_(r).jpg">Ricce,
@@ -269,10 +275,10 @@ href="https://commons.wikimedia.org/wiki/File:Compasso_di_riduzione_(r).jpg">Ric
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:fixos">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Dresden_Zwinger_Reduction_compasses.JPG/2560px-Dresden_Zwinger_Reduction_compasses.JPG"
-id="fig:fixos" class="outset"
+class="outset"
 alt="Compassos de redução fixos nas proporções 1:5, 1:2 e 1:6, c. 1580. Acervo do Zwinger, Dresden" />
 <figcaption aria-hidden="true">Compassos de redução fixos nas proporções
 1:5, 1:2 e 1:6, c. 1580. Acervo do <a
@@ -390,10 +396,10 @@ palavra <em>simetria</em> em todas as línguas de origem latina se refere
 a esse rebatimento <span class="citation"
 data-cites="vitruve:1673dix">(Vitruve)</span>.</p>
 </aside>
-<figure>
+<figure id="fig:simetria">
 <img
 data-src="https://i.pinimg.com/originals/1e/f4/ca/1ef4cad14f7ada1bfd3c4717c26af34e.jpg"
-id="fig:simetria" class="outset"
+class="outset"
 alt="Templo de Fortuna, Praeneste, séc. I a.C. Elevação simétrica documentada por Andrea Palladio, segunda metade do séc. XVI" />
 <figcaption aria-hidden="true">Templo de Fortuna, Praeneste, séc. <span
 class="smallcaps">I</span> a.C. Elevação simétrica documentada por
@@ -413,11 +419,10 @@ tradicionais.</p>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:nazari-plan">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/alhambra-nazari-plan-edificios-importantes.png"
-id="fig:nazari-plan" class="line"
-alt="Palácios nazarís, Alhambra, Granada, século XIV" />
+class="line" alt="Palácios nazarís, Alhambra, Granada, século XIV" />
 <figcaption aria-hidden="true">Palácios nazarís, Alhambra, Granada,
 século <span class="smallcaps">XIV</span></figcaption>
 </figure>
@@ -448,10 +453,9 @@ produção proposta por Marx, cometem esse vício.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:laon-reg">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/8/80/Laon_Cathedral%27s_regulator_lines.jpg"
-id="fig:laon-reg"
 alt="Catedral Notre-Dame de Laon, Picardia, França, 1150–1230. Fachada e traçado regulador segundo Frederick Lund, 1919" />
 <figcaption aria-hidden="true">Catedral Notre-Dame de Laon, Picardia,
 França, 1150–1230. Fachada e traçado regulador segundo <a
@@ -485,11 +489,10 @@ clareza e simplicidade da forma. Ao mesmo tempo, condições específicas
 podem exigir uma configuração assimétrica, geralmente em grandes
 complexos formados por vários blocos.</p>
 </aside>
-<figure>
+<figure id="fig:lkrier-symm">
 <img
 data-src="https://images.adsttc.com/media/images/5b29/8dd2/f197/cc4f/8a00/00fa/slideshow/87.jpg?1529449930"
-id="fig:lkrier-symm" class="line"
-alt="Diferentes tipos de simetria, segundo Léon Krier" />
+class="line" alt="Diferentes tipos de simetria, segundo Léon Krier" />
 <figcaption aria-hidden="true">Diferentes tipos de simetria, segundo <a
 href="https://www.archdaily.com/896720/a-different-kind-of-architectural-drawing-leon-kriers-sketches/5b298dd2f197cc4f8a0000fa-a-different-kind-of-architectural-drawing-leon-kriers-sketches-image?next_project=no">Léon
 Krier</a></figcaption>
@@ -509,10 +512,10 @@ data-background-position="bottom">
 <h2
 data-background-image="https://i.pinimg.com/originals/6e/4a/c5/6e4ac57e18cb9d92e159f910c5237d15.jpg"
 data-background-position="bottom"></h2>
-<figure>
+<figure id="fig:yingzao-module">
 <img
 data-src="https://i.pinimg.com/originals/6e/4a/c5/6e4ac57e18cb9d92e159f910c5237d15.jpg"
-id="fig:yingzao-module" class="slide-bg outset line"
+class="slide-bg outset line"
 alt="Módulos dimensionais de arquitraves segundo Li Jie, Yingzao fashi, 1103. Diagrama por Liang Sicheng e Lin Huiyin" />
 <figcaption aria-hidden="true">Módulos dimensionais de arquitraves
 segundo Li Jie, <em>Yingzao fashi</em>, 1103. Diagrama por Liang Sicheng
@@ -572,10 +575,10 @@ partir do círculo.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:eynan">
 <img
 data-src="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png"
-id="fig:eynan" class="line"
+class="line"
 alt="Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. Haklay e Gopher, 2015" />
 <figcaption aria-hidden="true">Reconstituição do abrigo do período
 Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. <a
@@ -603,10 +606,9 @@ em pequenos depósitos rurais, como este chafurdão no Alentejo
 (fig. 17).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:chafurdao">
 <img
 data-src="https://i.pinimg.com/originals/46/28/0c/46280c053a4358718f2977aa4443da26.jpg"
-id="fig:chafurdao"
 alt="Chafurdão no vale de Cales, Castelo de Vide, Alentejo, Portugal. ADER–AL, 2014" />
 <figcaption aria-hidden="true">Chafurdão no vale de Cales, Castelo de
 Vide, Alentejo, Portugal. <a
@@ -618,10 +620,9 @@ class="smallcaps">ADER–AL</span>, 2014</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:farnese">
 <img
 data-src="https://i.pinimg.com/originals/c3/c4/35/c3c4352dcfc4ca33a941b7d39581fc00.jpg"
-id="fig:farnese"
 alt="Esquema de proporções na fachada do palácio Farnese, Roma, 1534–1541. Antonio da Sangallo, o novo, e Miguel Ângelo Buonarroti, arquitetos. Croquis: René Salas, 2018" />
 <figcaption aria-hidden="true">Esquema de proporções na fachada do
 palácio Farnese, Roma, 1534–1541. Antonio da Sangallo, o novo, e Miguel
@@ -654,10 +655,10 @@ modificado em 1946 (fig. 19). O Modulor usa um sistema proporcional
 conhecido como seção áurea, que vamos estudar com detalhe mais
 abaixo.</p>
 </aside>
-<figure>
+<figure id="fig:modulor">
 <img
 data-src="https://live.staticflickr.com/4092/5031911411_5969087df0_c_d.jpg"
-id="fig:modulor" alt="Le Corbusier, sistema Modulor, 1946" />
+alt="Le Corbusier, sistema Modulor, 1946" />
 <figcaption aria-hidden="true">Le Corbusier, sistema Modulor,
 1946</figcaption>
 </figure>
@@ -777,10 +778,9 @@ permanecem constantes quando se amplia ou se reduz o desenho.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:perrault">
 <img
 data-src="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg"
-id="fig:perrault"
 alt="Claude Perrault, Ordem das cinco espécies de colunas segundo o método dos Antigos, 1683" />
 <figcaption aria-hidden="true">Claude Perrault, <em>Ordem das cinco
 espécies de colunas segundo o método dos Antigos</em>, 1683</figcaption>
@@ -808,10 +808,10 @@ class="citation" data-cites="gabriel:2004classical"></span>:</p>
 <li>Frontão</li>
 <li>Variantes da coluna</li>
 </ol>
-<figure>
+<figure id="fig:elements-gabriel">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/vignola-esquie-1922-pl08-fig1-gabriel.png"
-id="fig:elements-gabriel" class="nobg"
+class="nobg"
 alt="Elementos da arquitetura clássica segundo J. François Gabriel. a – módulo, b – contratura, c – base e capitel, d – entablamento, e – frontão" />
 <figcaption aria-hidden="true">Elementos da arquitetura clássica segundo
 J. François Gabriel. a – módulo, b – contratura, c – base e capitel, d –
@@ -855,10 +855,10 @@ class="fragment current-visible" data-fragment-index="5" />
 <section id="proporções-clássicas" class="slide level2">
 <h2>Proporções clássicas</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:vignola">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2021/06/vignola-dorico02.png"
-id="fig:vignola" class="line"
+class="line"
 alt="Detalhe da ordem dórica segundo Vinhola, edição de 1787" />
 <figcaption aria-hidden="true">Detalhe da ordem dórica segundo Vinhola,
 edição de 1787</figcaption>
@@ -883,10 +883,9 @@ da obra, usando uma trena. É um modo moderno de trabalhar por excelência
 <span class="citation"
 data-cites="carpo:2003drawing62">(Carpo)</span>.</p>
 </aside>
-<figure>
+<figure id="fig:esquie">
 <img
 data-src="https://i.pinimg.com/originals/7c/5e/e1/7c5ee136540dcbb85c2ad97992904e61.jpg"
-id="fig:esquie"
 alt="Detalhes da ordem jônica de Vinhola, em edição de Pierre Esquié, 1922" />
 <figcaption aria-hidden="true">Detalhes da ordem jônica de Vinhola, em
 edição de Pierre Esquié, 1922</figcaption>
@@ -894,22 +893,26 @@ edição de Pierre Esquié, 1922</figcaption>
 </section>
 <section class="slide level2">
 
-<div id="fig:chitham" class="subfigures columns">
+<figure id="fig:chitham" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:chitham154">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/chitham-154-corinthian-cap.png"
-id="fig:chitham154" class="line" />
+class="line" alt="capitel e entablamento" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:chitham091">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2021/06/chitham2005-091-corinthian.png"
-id="fig:chitham091" class="line" />
+class="line" alt="base e pedestal" />
+<figcaption></figcaption>
 </figure>
-</div><p>Detalhes da ordem coríntia segundo Chitham (2005). a – capitel
-e entablamento, b – base e pedestal</p>
 </div>
+<figcaption><p>Detalhes da ordem coríntia segundo Chitham (2005).
+a – capitel e entablamento, b – base e pedestal</p></figcaption>
+</figure>
 <aside class="notes">
 <p>No final do século <span class="smallcaps">XX</span>, essa
 preferência numérica entrou na era digital com o sistema de proporções
@@ -943,10 +946,10 @@ suas partes;</li>
 <li>Completar, conforme o caso, com os elementos acessórios devidamente
 proporcionados (balaustradas, urnas, aberturas, etc.).</li>
 </ol>
-<figure>
+<figure id="fig:chitham057">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/chitham-057-tuscan-general.png"
-id="fig:chitham057" class="line outset"
+class="line outset"
 alt="Composição de uma ordem toscana segundo Chitham. Da esquerda para a direita: divisão da altura total em módulos, dimensionamento das partes, esboço volumétrico da ordem (a), arte-final (b–d)" />
 <figcaption aria-hidden="true">Composição de uma ordem toscana segundo
 Chitham. Da esquerda para a direita: divisão da altura total em módulos,
@@ -1003,36 +1006,37 @@ metades ou terços.</p>
 <aside class="notes">
 <p>Método algorítmico.</p>
 </aside>
-<div id="fig:base-atica" class="subfigures full">
+<figure id="fig:base-atica" class="full">
 <div class="r-stack third">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica02.png"
-title="fig:" id="fig:base-atica02"
+id="fig:base-atica02"
 class="line fragment current-visible align-left" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica04.png"
-title="fig:" id="fig:base-atica04"
+id="fig:base-atica04"
 class="line fragment current-visible align-left" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica05.png"
-title="fig:" id="fig:base-atica05"
+id="fig:base-atica05"
 class="line fragment current-visible align-left" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica08.png"
-title="fig:" id="fig:base-atica08"
+id="fig:base-atica08"
 class="line fragment current-visible align-left" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica09.png"
-title="fig:" id="fig:base-atica09"
+id="fig:base-atica09"
 class="line fragment current-visible align-left" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica11.png"
-title="fig:" id="fig:base-atica11"
+id="fig:base-atica11"
 class="line fragment current-visible align-left" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica12.png"
-title="fig:" id="fig:base-atica12"
+id="fig:base-atica12"
 class="line fragment current-visible align-left" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvio-base-atica14.png"
-title="fig:" id="fig:base-atica14"
+id="fig:base-atica14"
 class="line fragment current-visible align-left" />
 </div>
-<p>Algoritmo de execução da base ática segundo Vitrúvio III:v:ii. </p>
-</div>
+<figcaption><p>Algoritmo de execução da base ática segundo Vitrúvio
+III:v:ii</p></figcaption>
+</figure>
 </section>
 <section id="section-3" class="slide level2" data-visibility="hidden">
 <h2 data-visibility="hidden"></h2>
@@ -1092,10 +1096,10 @@ data-background-video-muted="true">
 data-background-video="https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm"
 data-background-video-muted="true"></h2>
 <div class="full">
-<figure>
+<figure id="fig:stonehenge-drone">
 <video
 data-src="https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm"
-id="fig:stonehenge-drone" class="slide-bg" controls=""><a
+class="slide-bg" controls=""><a
 href="https://upload.wikimedia.org/wikipedia/commons/e/e2/Stonehenge_at_Sunrise_-_by_Drone..webm">Stonehenge,
 Inglaterra, c. 2600 a.C., vista aérea. Filmagem: Chris Ridley,
 2015</a></video>
@@ -1109,10 +1113,10 @@ Ridley, 2015</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:lertola">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Stonehenge_render.jpg/1280px-Stonehenge_render.jpg"
-id="fig:lertola" class="outset"
+class="outset"
 alt="Reconstituição tridimensional de Stonehenge. Joseph Lertola, 2007" />
 <figcaption aria-hidden="true">Reconstituição tridimensional de
 Stonehenge. <a
@@ -1137,10 +1141,10 @@ orientação astronômica do monumento. Ele é um expediente para dar a
 regularidade que um observador postado no centro do círculo precisa para
 avaliar corretamente o alinhamento do sol e das estrelas.</p>
 </aside>
-<figure>
+<figure id="fig:stonehenge-gale">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/stonehenge-gale.png"
-id="fig:stonehenge-gale" class="line outset"
+class="line outset"
 alt="Planta do círculo megalítico de Stonehenge, Inglaterra, c. 2600 a.C., com proporções reconstituídas por William Stukeley e desenhadas por Roger Gale, 1723" />
 <figcaption aria-hidden="true">Planta do círculo megalítico de
 Stonehenge, Inglaterra, c. 2600 a.C., com proporções reconstituídas por
@@ -1154,18 +1158,17 @@ William Stukeley e desenhadas por Roger Gale, 1723</figcaption>
 radicais podem ser subdivididos em retângulos semelhantes (de igual
 proporção).</p>
 </aside>
-<figure>
-<img data-src="" id="fig:sqrt3" class="line outset"
-alt="Retângulo √3" />
+<figure id="fig:sqrt3">
+<img data-src="" class="line outset" alt="Retângulo √3" />
 <figcaption aria-hidden="true">Retângulo √3</figcaption>
 </figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:hefesto-sr">
 <img
 data-src="https://i.pinimg.com/originals/78/1c/81/781c817d18ba35037ddbf83ebdade266.jpg"
-id="fig:hefesto-sr" class="outset"
+class="outset"
 alt="Templo de Hefesto, Atenas, 449 a.C. Levantamento por James Stuart e Nicholas Revett, 1794" />
 <figcaption aria-hidden="true">Templo de Hefesto, Atenas, 449 a.C.
 Levantamento por James Stuart e Nicholas Revett, 1794</figcaption>
@@ -1173,13 +1176,14 @@ Levantamento por James Stuart e Nicholas Revett, 1794</figcaption>
 </section>
 <section id="section-5" class="slide level2" data-visibility="hidden">
 <h2 data-visibility="hidden"></h2>
-<div id="fig:hefesto-prop" class="subfigures r-stack">
-<figure>
-<img data-src="" id="fig:hefestoA" />
+<figure id="fig:hefesto-prop" class="r-stack">
+<figure id="fig:hefestoA">
+<img data-src="" alt="largura do esteróbato dada" />
+<figcaption aria-hidden="true">largura do esteróbato dada</figcaption>
 </figure>
-<p>Construção proporcional da fachada do templo de Hefesto, segundo
-Rachel Fletcher. a – largura do esteróbato dada</p>
-</div>
+<figcaption><p>Construção proporcional da fachada do templo de Hefesto,
+segundo Rachel Fletcher</p></figcaption>
+</figure>
 <aside class="notes">
 <p>Etapas da construção proporcional do templo de Hefesto:</p>
 <ol type="1">
@@ -1211,10 +1215,10 @@ do conjunto cimalha + lacrimal;</li>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:rosace">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Cathedral_Notre_Dame_de_Paris_%2827700943904%29.jpg/1280px-Cathedral_Notre_Dame_de_Paris_%2827700943904%29.jpg"
-id="fig:rosace" class="outset"
+class="outset"
 alt="Catedral Notre-Dame, Paris, rosácea sul. Foto: Gary Todd, 2016" />
 <figcaption aria-hidden="true">Catedral Notre-Dame, Paris, rosácea sul.
 Foto: <a
@@ -1252,10 +1256,12 @@ relevantes:</p>
 </section>
 <section class="slide level2">
 
-<div id="fig:pantheon-sacra" class="subfigures r-stack">
-<p>Construção geométrica da seção inercial das paredes do Pantheon a
-partir do <em>ad quadratum</em> e da seção sagrada. </p>
-</div>
+<figure id="fig:pantheon-sacra" class="subfigures r-stack">
+
+<figcaption><p>Construção geométrica da seção inercial das paredes do
+Pantheon a partir do <em>ad quadratum</em> e da seção sagrada.
+</p></figcaption>
+</figure>
 <aside class="notes">
 <p><span class="citation"
 data-cites="fletcher:2020introduction4">(Fletcher, <span>“Introduction
@@ -1281,30 +1287,40 @@ to Architectural Proportion: Part III”</span>)</span>.</p>
 </section>
 <section id="section-6" class="slide level2" data-visibility="hidden">
 <h2 data-visibility="hidden"></h2>
-<div id="fig:pentagono" class="subfigures r-stack">
-<figure>
-<img data-src="" id="fig:pentaA" class="fragment current-visible" />
+<figure id="fig:pentagono" class="subfigures r-stack">
+<figure id="fig:pentaA">
+<img data-src="" class="fragment current-visible"
+alt="encontrar a metade do raio do círculo" />
+<figcaption></figcaption>
 </figure>
-<figure>
-<img data-src="" id="fig:pentaB" class="fragment current-visible" />
+<figure id="fig:pentaB">
+<img data-src="" class="fragment current-visible"
+alt="traçar uma linha dessa metade até a circunferência sobre um eixo perpendicular ao primeiro" />
+<figcaption></figcaption>
 </figure>
-<figure>
-<img data-src="" id="fig:pentaC" class="fragment current-visible" />
+<figure id="fig:pentaC">
+<img data-src="" class="fragment current-visible"
+alt="rebater essa linha sobre o primeiro eixo para obter um triângulo equilátero apoiado sobre o diâmetro do círculo" />
+<figcaption></figcaption>
 </figure>
-<figure>
-<img data-src="" id="fig:pentaD" class="fragment current-visible" />
+<figure id="fig:pentaD">
+<img data-src="" class="fragment current-visible"
+alt="rebater novamente esta linha sobre a circunferência para obter a primeira aresta do pentágono" />
+<figcaption></figcaption>
 </figure>
-<figure>
-<img data-src="" id="fig:pentaE" class="fragment current-visible" />
+<figure id="fig:pentaE">
+<img data-src="" class="fragment current-visible"
+alt="completar as demais arestas" />
+<figcaption></figcaption>
 </figure>
-<p>Traçado de um pentágono regular. a – encontrar a metade do raio do
-círculo, b – traçar uma linha dessa metade até a circunferência sobre um
-eixo perpendicular ao primeiro, c – rebater essa linha sobre o primeiro
-eixo para obter um triângulo equilátero apoiado sobre o diâmetro do
-círculo, d – rebater novamente esta linha sobre a circunferência para
-obter a primeira aresta do pentágono, e – completar as demais
-arestas</p>
-</div>
+<figcaption><p>Traçado de um pentágono regular. a – encontrar a metade
+do raio do círculo, b – traçar uma linha dessa metade até a
+circunferência sobre um eixo perpendicular ao primeiro, c – rebater essa
+linha sobre o primeiro eixo para obter um triângulo equilátero apoiado
+sobre o diâmetro do círculo, d – rebater novamente esta linha sobre a
+circunferência para obter a primeira aresta do pentágono, e – completar
+as demais arestas</p></figcaption>
+</figure>
 <aside class="notes">
 <p>A diagonal do pentágono é φ × aresta; o triângulo formado por duas
 diagonais não secantes é conhecido como triângulo áureo ou sublime.
@@ -1319,8 +1335,8 @@ menor com a outra diagonal.</p>
 <p>A espiral áurea é uma boa aproximação visual à espiral
 logarítmica.</p>
 </aside>
-<figure>
-<img data-src="" id="fig:phi-spiral" class="line"
+<figure id="fig:phi-spiral">
+<img data-src="" class="line"
 alt="Construção de uma espiral áurea a partir dos triângulos áureos" />
 <figcaption aria-hidden="true">Construção de uma espiral áurea a partir
 dos triângulos áureos</figcaption>
@@ -1342,10 +1358,10 @@ ela oferecia um sistema de proporção suficientemente abstrato e flexível
 para se adaptar ou, no fim das contas, justificar retroativamente
 qualquer projeto (fig. 37).</p>
 </aside>
-<figure>
+<figure id="fig:corb">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2021/06/le-corbusier-villa-stein-golden.png"
-id="fig:corb" class="line outset"
+class="line outset"
 alt="Le Corbusier, seção áurea nas fachadas norte e sul da villa Stein, Garches, 1927" />
 <figcaption aria-hidden="true">Le Corbusier, seção áurea nas fachadas
 norte e sul da villa Stein, Garches, 1927</figcaption>
@@ -1391,10 +1407,10 @@ espelho da natureza <span class="citation"
 data-cites="doczi:2008poder">(Doczi)</span>.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:proporcoes">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/proporcoes.png"
-id="fig:proporcoes" class="line slide-bg"
+class="line slide-bg"
 alt="Proporções derivadas do quadrado. Acima: um quadrado e meio ou “quinta”; dois quadrados ou “oitava”; abaixo: retângulo gerado pela diagonal do quadrado e seção áurea; centro: proporções da casa kamayurá e traçado gerado pela meia diagonal do quadrado" />
 <figcaption aria-hidden="true">Proporções derivadas do quadrado. Acima:
 um quadrado e meio ou “quinta”; dois quadrados ou “oitava”; abaixo:
@@ -1414,10 +1430,10 @@ formado pela diagonal do quadrado, que determina a largura do vão
 central <span class="citation"
 data-cites="kamayura:2019manual">(Kamayurá (povo))</span>.</p>
 </aside>
-<figure>
+<figure id="fig:kamayura">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-18-scaled.jpg"
-id="fig:kamayura" class="slide-bg"
+class="slide-bg"
 alt="’Ok eté (casa tradicional) kamayurá, corte segundo Salkuman Kamayurá, 2019" />
 <figcaption aria-hidden="true">’Ok eté (casa tradicional) kamayurá,
 corte segundo <a
@@ -1432,11 +1448,10 @@ data-background-size="contain">
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg"
 data-background-size="contain"></h2>
 <div class="full">
-<figure>
+<figure id="fig:ok-planta">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-20-scaled.jpg"
-id="fig:ok-planta" class="slide-bg"
-alt="Planta de uma ’ok eté kamayurá" />
+class="slide-bg" alt="Planta de uma ’ok eté kamayurá" />
 <figcaption aria-hidden="true">Planta de uma ’ok eté
 kamayurá</figcaption>
 </figure>
@@ -1449,11 +1464,10 @@ data-background-size="contain">
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg"
 data-background-size="contain"></h2>
 <div class="full">
-<figure>
+<figure id="fig:ok-corte">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/kamayura-22-scaled.jpg"
-id="fig:ok-corte" class="slide-bg"
-alt="Corte de uma ’ok eté kamayurá" />
+class="slide-bg" alt="Corte de uma ’ok eté kamayurá" />
 <figcaption aria-hidden="true">Corte de uma ’ok eté
 kamayurá</figcaption>
 </figure>
@@ -1465,10 +1479,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:langhein2012-01-03">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-01-03.jpg"
-id="fig:langhein2012-01-03" class="slide-bg"
+class="slide-bg"
 alt="Malha proporcional triangular equilátera, exemplos da arquitetura vernácula alemã: casa rurais das regiões da Vestfália meridional, Francônia superior (Bavária) e casa urbana de Eppingen, Baden, 1471. Joachim Langhein, 2012" />
 <figcaption aria-hidden="true">Malha proporcional triangular equilátera,
 exemplos da arquitetura vernácula alemã: casa rurais das regiões da
@@ -1484,10 +1498,10 @@ data-background-size="contain">
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg"
 data-background-size="contain"></h2>
 <div class="full">
-<figure>
+<figure id="fig:langhein2012-04-06">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-04-06.jpg"
-id="fig:langhein2012-04-06" class="slide-bg"
+class="slide-bg"
 alt="Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional na Suíça: haus zum Ritter, Schaffhausen, 1487–1580; paço municipal da Basileia, 1504–1513; paço municipal de Lausanne, 1673–1675. Joachim Langhein, 2012" />
 <figcaption aria-hidden="true">Malhas proporcionais triangulares,
 exemplos da arquitetura erudita tradicional na Suíça: haus zum Ritter,
@@ -1503,10 +1517,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-07-08.jpg"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:langhein2012-07-08">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/langhein2012-07-08.jpg"
-id="fig:langhein2012-07-08" class="slide-bg"
+class="slide-bg"
 alt="Malhas proporcionais triangulares, exemplos da arquitetura erudita tradicional do Mediterrâneo: Oppède-la-Neuf, Luberon, sul da França, e palazzetto Spada, Roma, atribuído a Baldassare Peruzzi e Giacomo Barozzi da Vignola. Joachim Langhein, 2012" />
 <figcaption aria-hidden="true">Malhas proporcionais triangulares,
 exemplos da arquitetura erudita tradicional do Mediterrâneo:
@@ -1523,11 +1537,10 @@ href="http://proportions.de">Joachim Langhein, 2012</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:krier-detail">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/03/krier-distance-detail.png"
-id="fig:krier-detail" class="line"
-alt="Distância e detalhe, por Léon Krier" />
+class="line" alt="Distância e detalhe, por Léon Krier" />
 <figcaption aria-hidden="true">Distância e detalhe, por Léon
 Krier</figcaption>
 </figure>
@@ -1561,37 +1574,33 @@ desenho.</p>
 class="title-slide slide level1 unnumbered unlisted allowframebreaks">
 <h1 class="unnumbered unlisted allowframebreaks">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-adam:1994roman" class="csl-entry" role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-adam:1994roman" class="csl-entry" role="listitem">
 Adam, Jean Pierre. <em>Roman Building: Materials and Techniques</em>.
 Batsford, 1994. <em>Open WorldCat</em>, <a
 href="http://public.eblib.com/choice/publicfullrecord.aspx?p=254202">http://public.eblib.com/choice/publicfullrecord.aspx?p=254202</a>.
 </div>
-<div id="ref-alexander:2002nature" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-alexander:2002nature" class="csl-entry" role="listitem">
 Alexander, Christopher. <em>The Nature of Order</em>. Center for
 Environmental Structure, 2002.
 </div>
-<div id="ref-bonell:1999divina" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-bonell:1999divina" class="csl-entry" role="listitem">
 Bonell, Carmen. <em>La divina proporción: las formas geométricas</em>.
 Edicions UPC, 1999.
 </div>
-<div id="ref-buras:2019art" class="csl-entry" role="doc-biblioentry">
+<div id="ref-buras:2019art" class="csl-entry" role="listitem">
 Buras, Nir Haim. <em>The Art of Classic Planning: Building Beautiful and
 Enduring Communities</em>. The Belknap Press of Harvard University
 Press, 2019.
 </div>
-<div id="ref-carpo:2003drawing62" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-carpo:2003drawing62" class="csl-entry" role="listitem">
 Carpo, Mario. <span>“Drawing with Numbers: Geometry and Numeracy in
 Early Modern Architectural Design”</span>. <em>Journal of the Society of
 Architectural Historians</em>, vol. 62, nº 4, dezembro de 2003, p.
 448–69. <em>Crossref</em>, <a
 href="https://doi.org/10.2307/3592497">https://doi.org/10.2307/3592497</a>.
 </div>
-<div id="ref-cha:2019reconsidering18" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-cha:2019reconsidering18" class="csl-entry" role="listitem">
 Cha, Juhwan, e Young Jae Kim. <span>“Reconsidering a Proportional System
 of Timber-Frame Structures Through Ancient Mathematics Books: A Case
 Study on the Muryangsujŏn Hall at Pusŏksa Buddhist Monastery”</span>.
@@ -1600,114 +1609,105 @@ Study on the Muryangsujŏn Hall at Pusŏksa Buddhist Monastery”</span>.
 <a
 href="https://doi.org/10.1080/13467581.2019.1680376">https://doi.org/10.1080/13467581.2019.1680376</a>.
 </div>
-<div id="ref-chitham:2005classical" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-chitham:2005classical" class="csl-entry" role="listitem">
 Chitham, Robert. <em>The Classical Orders of Architecture</em>. 2. ed.,
 Architectural Press, 2005.
 </div>
-<div id="ref-conant:1968after-life27" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-conant:1968after-life27" class="csl-entry" role="listitem">
 Conant, Kenneth J. <span>“The After-Life of Vitruvius in the Middle
 Ages”</span>. <em>Journal of the Society of Architectural
 Historians</em>, vol. 27, nº 1, 1968, p. 33–38. <em>JSTOR</em>, <a
 href="https://doi.org/10.2307/988426">https://doi.org/10.2307/988426</a>.
 </div>
-<div id="ref-doczi:2008poder" class="csl-entry" role="doc-biblioentry">
+<div id="ref-doczi:2008poder" class="csl-entry" role="listitem">
 Doczi, György. <em>O poder dos limites: harmonias e proporções na
 natureza, arte e arquitetura</em>. Traduzido por Maria Helena de
 Oliveira Tricca e Júlia Bárány Bartolomei, Mercuryo, 2008.
 </div>
 <div id="ref-fletcher:2020introduction1" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Fletcher, Rachel. <span>“Introduction to Architectural Proportion: Part
 I”</span>. <em>Institute for Classical Architecture and Classical
 America</em>, 3 de julho de 2020, <a
 href="https://www.classicist.org/articles/introduction-to-architectural-proportion-part-i/">https://www.classicist.org/articles/introduction-to-architectural-proportion-part-i/</a>.
 </div>
 <div id="ref-fletcher:2020introduction2" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 ---. <span>“Introduction to Architectural Proportion: Part II”</span>.
 <em>Institute for Classical Architecture and Classical America</em>, 3
 de julho de 2020, <a
 href="https://www.classicist.org/articles/introduction-to-architectural-proportion-part-ii/">https://www.classicist.org/articles/introduction-to-architectural-proportion-part-ii/</a>.
 </div>
 <div id="ref-fletcher:2020introduction3" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 ---. <span>“Introduction to Architectural Proportion: Part III”</span>.
 <em>Institute for Classical Architecture and Classical America</em>, 3
 de julho de 2020, <a
 href="https://www.classicist.org/articles/introduction-to-architectural-proportion-part-iii/">https://www.classicist.org/articles/introduction-to-architectural-proportion-part-iii/</a>.
 </div>
 <div id="ref-fletcher:2020introduction4" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 ---. <span>“Introduction to Architectural Proportion: Part IV”</span>.
 <em>Institute for Classical Architecture and Classical America</em>, 3
 de julho de 2020, <a
 href="https://www.classicist.org/articles/introduction-to-architectural-proportion-part-iv/">https://www.classicist.org/articles/introduction-to-architectural-proportion-part-iv/</a>.
 </div>
-<div id="ref-gabriel:2004classical" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-gabriel:2004classical" class="csl-entry" role="listitem">
 Gabriel, J. François. <em>Classical Architecture for the Twenty-First
 Century: An Introduction to Design</em>. W.W. Norton, 2004.
 </div>
-<div id="ref-haklay:2015new10" class="csl-entry" role="doc-biblioentry">
+<div id="ref-haklay:2015new10" class="csl-entry" role="listitem">
 Haklay, Gil, e Avi Gopher. <span>“A New Look at Shelter 131/51 in the
 Natufian Site of Eynan (Ain-Mallaha), Israel”</span>. <em><span
 class="smallcaps">PLOS ONE</span></em>, vol. 10, nº 7, agosto de 2015,
 p. e0130121. <em>PLoS Journals</em>, <a
 href="https://doi.org/10.1371/journal.pone.0130121">https://doi.org/10.1371/journal.pone.0130121</a>.
 </div>
-<div id="ref-kamayura:2019manual" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-kamayura:2019manual" class="csl-entry" role="listitem">
 Kamayurá (povo). <em>Manual da arquitetura kamayurá</em>. Escola da
 Cidade, 2019, <a
 href="https://issuu.com/annajubs/docs/190812_casakamayurasingles">https://issuu.com/annajubs/docs/190812_casakamayurasingles</a>.
 </div>
-<div id="ref-langhein:2013proportion" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-langhein:2013proportion" class="csl-entry" role="listitem">
 Langhein, Joachim. <span>“Proportion and Traditional
 Architecture”</span>. <em><span class="smallcaps">INTBAU</span> Ideas
 and Opinions</em>, vol. 1, nº 10, 2013, <a
 href="https://www.intbau.org/wp-content/uploads/2014/10/ProportionandTraditionalArchitecture.pdf">https://www.intbau.org/wp-content/uploads/2014/10/ProportionandTraditionalArchitecture.pdf</a>.
 </div>
-<div id="ref-mcewen:2003vitruvius" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-mcewen:2003vitruvius" class="csl-entry" role="listitem">
 McEwen, Indra Kagis. <em>Vitruvius: Writing the Body of
 Architecture</em>. <span class="smallcaps">MIT</span> Press, 2003.
 </div>
-<div id="ref-sussman:2021cognitive" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-sussman:2021cognitive" class="csl-entry" role="listitem">
 Sussman, Ann, e Justin B. Hollander. <em>Cognitive Architecture:
 Designing for How We Respond to the Built Environment</em>. 2º ed,
 Routledge, 2021. <em>Open WorldCat</em>, <a
 href="https://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=2914935">https://search.ebscohost.com/login.aspx?direct=true&amp;scope=site&amp;db=nlebk&amp;db=nlabk&amp;AN=2914935</a>.
 </div>
-<div id="ref-trachtenberg:2014build2" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-trachtenberg:2014build2" class="csl-entry" role="listitem">
 Trachtenberg, Marvin. <span>“To Build Proportions in Time, or Tie Knots
 in Space? A Reassessment of the Renaissance Turn in Architectural
 Proportions”</span>. <em>Architectural Histories</em>, vol. 2, nº 1, 1,
 junho de 2014, p. Art. 13. <em>journal.eahn.org</em>, <a
 href="https://doi.org/10.5334/ah.bp">https://doi.org/10.5334/ah.bp</a>.
 </div>
-<div id="ref-vitruve:1673dix" class="csl-entry" role="doc-biblioentry">
+<div id="ref-vitruve:1673dix" class="csl-entry" role="listitem">
 Vitruve. <em>Les dix livres d’architecture de Vitruve, corrigez et
 traduits nouvellement en françois, avec des notes &amp; des
 figures</em>. Traduzido por Claude Perrault, Jean Baptiste Coignard,
 1673. <em>Internet Archive</em>, <a
 href="http://archive.org/details/gri_33125008503100">http://archive.org/details/gri_33125008503100</a>.
 </div>
-<div id="ref-vitruvio:2007tratado" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-vitruvio:2007tratado" class="csl-entry" role="listitem">
 Vitrúvio. <em>Tratado de arquitetura</em>. Traduzido por M. Justino
 Maciel, Martins Fontes, 2007.
 </div>
 <div id="ref-wittkower:1968arquitectura" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Wittkower, Rudolf. <em>La arquitectura en la edad del humanismo</em>.
 Nueva Visión, 1968.
 </div>
-<div id="ref-zeising:1854neue" class="csl-entry" role="doc-biblioentry">
+<div id="ref-zeising:1854neue" class="csl-entry" role="listitem">
 Zeising, Adolf. <em>Neue Lehre von den Proportionen des menschlichen
 Körpers, aus einem bisher unerkannt gebliebenen, die ganze Natur und
 Nunst durchdringenden morphologischen Grundgesetze entwickelt und mit

@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -73,10 +78,10 @@ espaço pelas sociedades.</p>
 </section>
 <section id="ambiente" class="slide level2">
 <h2>Ambiente</h2>
-<figure>
+<figure id="fig:ooa">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Spreading_homo_sapiens_la.svg/1280px-Spreading_homo_sapiens_la.svg.png"
-id="fig:ooa" class="outset"
+class="outset"
 alt="Modelo atualmente vigente da migração do Homo sapiens. Desenho: NordNordWest, 2014" />
 <figcaption aria-hidden="true">Modelo atualmente vigente da migração do
 <em>Homo sapiens</em>. Desenho: <a
@@ -117,10 +122,10 @@ longo da sua expansão na África, Ásia e Europa.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:serengeti">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Balloon_Safari_2012_06_01_3128_(7522677448).jpg/1280px-Balloon_Safari_2012_06_01_3128_(7522677448).jpg"
-id="fig:serengeti" class="outset"
+class="outset"
 alt="Vista da paisagem de savana no parque nacional do Serengeti, Tanzânia. Foto: Harvey Barrison, 2012" />
 <figcaption aria-hidden="true">Vista da paisagem de savana no parque
 nacional do Serengeti, Tanzânia. Foto: <a
@@ -149,10 +154,9 @@ uma posição de reconhecimento da paisagem e de controle sobre o
 território (fig. 4).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:rift">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Olduvai_Gorge_or_Oldupai_Gorge.jpg/1280px-Olduvai_Gorge_or_Oldupai_Gorge.jpg"
-id="fig:rift"
 alt="Vista panorâmica da garganta do Olduvai, vale do Rift, norte da Tanzânia. Foto: Noel Feans, 2009" />
 <figcaption aria-hidden="true">Vista panorâmica da garganta do Olduvai,
 vale do Rift, norte da Tanzânia. Foto: <a
@@ -169,10 +173,10 @@ data-background-video="https://cdn.palazzo.arq.br/arqtrad/processos/olduvai-land
 data-background-video-muted="true"
 data-background-video-loop="true">Percursos</h2>
 <div class="full">
-<figure>
+<figure id="fig:olduvai">
 <video
 data-src="https://cdn.palazzo.arq.br/arqtrad/processos/olduvai-landscape.webm"
-id="fig:olduvai" class="slide-bg" controls=""><a
+class="slide-bg" controls=""><a
 href="https://cdn.palazzo.arq.br/arqtrad/processos/olduvai-landscape.webm">Garganta
 do Olduvai. Filme: David Gutiérrez e Ignacio Zapico, 2016</a></video>
 <figcaption aria-hidden="true">Garganta do Olduvai. Filme: <a
@@ -200,10 +204,10 @@ intensificou a partir do paleolítico superior, o período mais recente do
 que se chama informalmente de “idade da pedra lascada” ou ainda de
 “idade das cavernas” (fig. 5).</p>
 </aside>
-<figure>
+<figure id="fig:bhimbetka">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg/1280px-A_painting_on_the_walls_of_cave_in_Bhimbetka_rock_shelter,_Madhya_Pradesh.jpg"
-id="fig:bhimbetka" class="outset"
+class="outset"
 alt="Pinturas rupestres no abrigo de Bhimbetka, 10 mil anos atrás, atual Madhya Pradesh, Índia. Foto: PranjalG431, 2016" />
 <figcaption aria-hidden="true">Pinturas rupestres no abrigo de
 Bhimbetka, 10 mil anos atrás, atual Madhya Pradesh, Índia. Foto: <a
@@ -227,10 +231,10 @@ se estabelecer.</p>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:kostyonki-google">
 <video
 data-src="https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4"
-id="fig:kostyonki-google" controls=""><a
+controls=""><a
 href="https://user-images.githubusercontent.com/8295666/125675263-71d86da5-b8bf-42c7-b446-d7c628658948.mp4">Kostyonki,
 Rússia. Fonte: Google Earth</a></video>
 <figcaption aria-hidden="true">Kostyonki, Rússia. Fonte: Google
@@ -256,10 +260,10 @@ anos atrás, as comunidades do paleolítico superior estabeleceram os seus
 acampamentos perto do final dessas cumeadas secundárias, logo acima do
 vale (fig. 7).</p>
 </aside>
-<figure>
+<figure id="fig:kostyonki-model">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Kostenky_model.jpg/1280px-Kostenky_model.jpg"
-id="fig:kostyonki-model" class="outset"
+class="outset"
 alt="Maquete do sítio no museu arqueológico de Kostyonki. Foto: Eva Tutin, 2014" />
 <figcaption aria-hidden="true">Maquete do sítio no museu arqueológico de
 Kostyonki. Foto: <a
@@ -273,10 +277,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a
 <h2 data-background-transition="slide-in fade-out"
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:kostyonki-loc">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-locator.png"
-id="fig:kostyonki-loc" class="nobg overlay-slide"
+class="nobg overlay-slide"
 alt="Localização no contexto das sociedades pré-históricas com habitações semienterradas" />
 <figcaption aria-hidden="true">Localização no contexto das sociedades
 pré-históricas com habitações semienterradas</figcaption>
@@ -292,10 +296,10 @@ Ao mesmo tempo, os acampamentos não eram longe da água e dos campos de
 caça e coleta no fundo do vale (fig. 9).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:kostyonki-site">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Map_of_Kostenki_prehistoric_sites.svg/1280px-Map_of_Kostenki_prehistoric_sites.svg.png"
-id="fig:kostyonki-site" class="slide-bg"
+class="slide-bg"
 alt="Sítio arqueológico de Kostyonki no vale do rio Don, sudoeste da Rússia, ocupação c. 14.000 a.p. Desenho com base em Jarzombek (2013) e Grigor’ev (1967), curvas de nível a cada 5 metros. Linha tracejada grossa: percurso estruturante de cumeada; linha tracejada fina: percursos de cumeada secundários; linha pontilhada: percurso de contra-cumeada" />
 <figcaption aria-hidden="true">Sítio arqueológico de Kostyonki no vale
 do rio Don, sudoeste da Rússia, ocupação c. 14.000 a.p. Desenho com base
@@ -312,10 +316,10 @@ data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/ko
 <h2 data-background-transition="fade-in slide-out"
 data-background-image="https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg"></h2>
 <div class="full">
-<figure>
+<figure id="fig:kostyonki-osm">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2021/06/kostyonki-osm.jpg"
-id="fig:kostyonki-osm" class="slide-bg"
+class="slide-bg"
 alt="Kostyonki na atualidade. Mapa de base: OpenStreetMap" />
 <figcaption aria-hidden="true">Kostyonki na atualidade. Mapa de base:
 OpenStreetMap</figcaption>
@@ -339,10 +343,10 @@ pré-histórico que continuou a ser o principal eixo de referência e
 circulação pelo menos até a construção das estradas romanas no século I
 d.C. Hoje em dia, é uma trilha de caminhada bastante popular.</p>
 </aside>
-<figure>
+<figure id="fig:ridgeway">
 <img
 data-src="https://i.pinimg.com/originals/c2/04/d7/c204d703c49c29d5487c1a3ce88abe10.jpg"
-id="fig:ridgeway" class="outset"
+class="outset"
 alt="Ridgeway, um percurso estruturante de cumeada no sul da Inglaterra em uso contínuo desde o Neolítico (c. 3000 a.C.). Celtic Trails" />
 <figcaption aria-hidden="true">Ridgeway, um percurso estruturante de
 cumeada no sul da Inglaterra em uso contínuo desde o Neolítico (c. 3000
@@ -354,10 +358,9 @@ Trails</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:bronzo">
 <img
 data-src="http://www.giuseppestrappa.it/wp-content/uploads/2013/09/nuovo-adobe-photoshop-image-copia1-400x279-300x209.jpg"
-id="fig:bronzo"
 alt="Estruturação territorial na Itália da Idade do Bronze, segundo Strappa" />
 <figcaption aria-hidden="true">Estruturação territorial na Itália da
 Idade do Bronze, segundo Strappa</figcaption>
@@ -389,10 +392,10 @@ diferenciados da coleta cotidiana, por um lado, e das expedições de caça
 que duram vários dias, por outro, definem um zoneamento econômico do
 território (figs. 13, 14).</p>
 </aside>
-<figure>
+<figure id="fig:binford1">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-1.png"
-id="fig:binford1" class="line"
+class="line"
 alt="Esquema do controle do território por um assentamento caçador–coletor, segundo Binford (1982): zoneamento e alcance de um assentamento semipermanente" />
 <figcaption aria-hidden="true">Esquema do controle do território por um
 assentamento caçador–coletor, segundo Binford (1982): zoneamento e
@@ -401,10 +404,10 @@ alcance de um assentamento semipermanente</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:binford2">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2021/06/binford1982-2.png"
-id="fig:binford2" class="line outset"
+class="line outset"
 alt="Esquema do controle do território por um assentamento caçador–coletor, segundo Binford (1982): territorialidade e sucessão de assentamentos semipermanentes" />
 <figcaption aria-hidden="true">Esquema do controle do território por um
 assentamento caçador–coletor, segundo Binford (1982): territorialidade e
@@ -425,10 +428,10 @@ florestal intensivo ou agricultura.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:kuikuro">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2021/06/heckenberger2003-1-kuikuro.png"
-id="fig:kuikuro" class="line"
+class="line"
 alt="Área Kuikuro do alto Xingu indicando sítios arqueológicos c. 1250–1450, segundo Heckenberger (2003). Círculos com estrela: povoações fortificadas e com terreiro; círculos pontuados: povoações com terreiro; pontos: aldeias" />
 <figcaption aria-hidden="true">Área Kuikuro do alto Xingu indicando
 sítios arqueológicos c. 1250–1450, segundo Heckenberger (2003). Círculos
@@ -458,10 +461,9 @@ data-cites="araujo:2016logica10 soares:1997guarani">(Araujo de Souza et
 al.; Soares)</span>.</p>
 </aside>
 <div class="align-right">
-<figure>
+<figure id="fig:tekoa">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-souza-2016-tekoha.png"
-id="fig:tekoa"
 alt="Diagrama do teko’á guarani, por Araujo de Souza et al. (2016)" />
 <figcaption aria-hidden="true">Diagrama do teko’á guarani, por Araujo de
 Souza <em>et al.</em> (2016)</figcaption>
@@ -476,10 +478,9 @@ organizados em volta de percursos estruturantes nas cumeadas do terreno,
 entre os rios maiores (fig. 17). Esse território político é chamado de
 <em>guará</em>.</p>
 </aside>
-<figure>
+<figure id="fig:guara">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2021/06/araujo-de-souza-2016-guara.png"
-id="fig:guara"
 alt="Diagrama territorial do Guará, por Araujo de Souza et al. (2016)" />
 <figcaption aria-hidden="true">Diagrama territorial do Guará, por Araujo
 de Souza <em>et al.</em> (2016)</figcaption>
@@ -487,22 +488,22 @@ de Souza <em>et al.</em> (2016)</figcaption>
 </section>
 <section class="slide level2">
 
-<div id="fig:kemp" class="subfigures">
+<figure id="fig:kemp">
 <div class="r-stack">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/kemp-033a.png"
-title="fig:" id="fig:kempA"
-class="line fragment fade-out current-visible" /> <img
+id="fig:kempA" class="line fragment fade-out current-visible"
+alt="aldeias igualitárias" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/kemp-033b.png"
-title="fig:" id="fig:kempB" class="line fragment current-visible" />
-<img
+id="fig:kempB" class="line fragment current-visible"
+alt="vilas agrárias" /> <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/01/kemp-033c.png"
-title="fig:" id="fig:kempC" class="line fragment current-visible" />
+id="fig:kempC" class="line fragment current-visible"
+alt="cidades-estado emergentes" />
 </div>
-<p>Diagrama da formação de cidades-estado no Egito neolítico, segundo
-Kemp. a – aldeias igualitárias, b – vilas agrárias, c – cidades-estado
-emergentes</p>
-</div>
+<figcaption><p>Diagrama da formação de cidades-estado no Egito
+neolítico, segundo Kemp</p></figcaption>
+</figure>
 <aside class="notes">
 <p>A implantação de povoações na extremidade das cumeadas secundárias
 permite o controle visual e estratégico de um território bastante amplo.
@@ -547,11 +548,10 @@ sociedades.</p>
 class="slide level2">
 <h2>Preferência temporal e preferência local</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:krier-oil">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-2008.jpg"
-id="fig:krier-oil" class="line"
-alt="Arquitetura do pico do petróleo. Léon Krier, 2008" />
+class="line" alt="Arquitetura do pico do petróleo. Léon Krier, 2008" />
 <figcaption aria-hidden="true">Arquitetura do pico do petróleo. Léon
 Krier, 2008</figcaption>
 </figure>
@@ -574,20 +574,20 @@ propriamente um nome, mas para efeito de comparação vamos chamá-las de
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:calder-trombine">
 <img
 data-src="https://i.pinimg.com/originals/01/bd/e9/01bde9f28c2eccdaa1eb4e35bfe80a1e.jpg"
-id="fig:calder-trombine" class="overlay-slide"
+class="overlay-slide"
 alt="Barnabas Calder. Foto: Helen @ Gingerbread Design" />
 <figcaption aria-hidden="true">Barnabas Calder. Foto: <a
 href="https://www.unitedagents.co.uk/barnabas-calder">Helen @
 Gingerbread Design</a></figcaption>
 </figure>
 </div>
-<figure>
+<figure id="fig:calder-book">
 <img
 data-src="https://i.pinimg.com/originals/e7/83/e6/e783e61df6c6534e45f61ac400ad53f2.jpg"
-id="fig:calder-book" alt="Capa do livro © Pelican Books, 2021" />
+alt="Capa do livro © Pelican Books, 2021" />
 <figcaption aria-hidden="true">Capa do livro © Pelican Books,
 2021</figcaption>
 </figure>
@@ -614,19 +614,25 @@ edifícios adaptados ao clima foi substituída pela capacidade de consumir
 energia para aquecer e refrigerar qualquer tipo de espaço em qualquer
 clima.</p>
 </aside>
+<figure id="fig:molens">
 <video
 data-src="https://upload.wikimedia.org/wikipedia/commons/f/f2/Molens-518935.ogv"
-title="fig:" id="fig:molens" class="r-stretch outset" controls=""><a
+class="r-stretch outset" controls=""><a
 href="https://upload.wikimedia.org/wikipedia/commons/f/f2/Molens-518935.ogv">Moinhos
 de vento em Elshout, Países Baixos, 1927. Acervo Instituto Neerlandês do
 Som e Imagem</a></video>
+<figcaption aria-hidden="true">Moinhos de vento em Elshout, Países
+Baixos, 1927. Acervo <a
+href="https://commons.wikimedia.org/wiki/File:Molens-518935.ogv">Instituto
+Neerlandês do Som e Imagem</a></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:temelin">
 <video
 data-src="https://upload.wikimedia.org/wikipedia/commons/e/ea/Temelin.ogv"
-id="fig:temelin" class="outset" controls=""><a
+class="outset" controls=""><a
 href="https://upload.wikimedia.org/wikipedia/commons/e/ea/Temelin.ogv">Usina
 nuclear de Temelin, Tchéquia. Filmagem: R. Kocman, 2019</a></video>
 <figcaption aria-hidden="true">Usina nuclear de Temelin, Tchéquia.
@@ -669,10 +675,10 @@ prazo, além do que, a própria possibilidade de converter calor e vapor
 em trabalho é muito limitada quando não se tem acesso a materiais
 industrializados, como o aço.</p>
 </aside>
-<figure>
+<figure id="fig:arbesbach">
 <video
 data-src="https://upload.wikimedia.org/wikipedia/commons/3/3e/Water_driven_hammer_mill_-_Arbesbach.ogv"
-id="fig:arbesbach" class="outset" controls=""><a
+class="outset" controls=""><a
 href="https://upload.wikimedia.org/wikipedia/commons/3/3e/Water_driven_hammer_mill_-_Arbesbach.ogv">Martelo
 de forja movido por um moinho a água em Arbesbach, Áustria, ativo desde
 1802. Filmagem: H. Raab, 2009</a></video>
@@ -740,10 +746,10 @@ aldeia pode ser simplesmente abandonada depois desse tempo, permitindo a
 regeneração da floresta no local <span class="citation"
 data-cites="jarzombek:2013architecture">(Jarzombek)</span>.</p>
 </aside>
-<figure>
+<figure id="fig:bagyeli">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/0/01/Habitat_pygmées.jpg"
-id="fig:bagyeli" class="outset"
+class="outset"
 alt="Cabana do povo Bagyeli, África equatorial. Foto: Nadnad30, 2015" />
 <figcaption aria-hidden="true">Cabana do povo Bagyeli, África
 equatorial. Foto: <a
@@ -753,10 +759,10 @@ href="https://commons.wikimedia.org/wiki/File:Habitat_pygmées.jpg">Nadnad30,
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:wellcome">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg/1280px-Plains_Indian_tipi,_North_America._Wellcome_V0038483.jpg"
-id="fig:wellcome" class="outset"
+class="outset"
 alt="Aldeia nas planícies da América do Norte, c. finais do século XIX. Acervo Wellcome collection" />
 <figcaption aria-hidden="true">Aldeia nas planícies da América do Norte,
 c. finais do século <span class="smallcaps">XIX</span>. Acervo <a
@@ -799,10 +805,9 @@ investir não só no conforto imediato, mas sobretudo na qualidade de vida
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:bachelard">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Gaston_Bachelard_1965.jpg/763px-Gaston_Bachelard_1965.jpg"
-id="fig:bachelard"
 alt="Gaston Bachelard. Acervo do Arquivo Nacional dos Países Baixos" />
 <figcaption aria-hidden="true">Gaston Bachelard. Acervo do <a
 href="https://commons.wikimedia.org/wiki/File:Gaston_Bachelard_1965.jpg">Arquivo
@@ -829,10 +834,10 @@ class="citation" data-cites="tuan:1980topofilia">(Tuan)</span>.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:tuan">
 <img
 data-src="https://i.pinimg.com/originals/76/ce/72/76ce72159f5549c56d3cbd5cba8c51d7.jpg"
-id="fig:tuan" alt="Yi-Fu Tuan" />
+alt="Yi-Fu Tuan" />
 <figcaption aria-hidden="true">Yi-Fu Tuan</figcaption>
 </figure>
 </div>
@@ -843,10 +848,10 @@ id="fig:tuan" alt="Yi-Fu Tuan" />
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:krier-1990">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/krier-1990.png"
-id="fig:krier-1990" class="line"
+class="line"
 alt="Léon Krier, Edifícios (da Universidade de Yale) — idade e primeira campanha significativa de reformas, 1990" />
 <figcaption aria-hidden="true">Léon Krier, Edifícios (da Universidade de
 Yale) — idade e primeira campanha significativa de reformas,
@@ -875,10 +880,10 @@ ponto</em> industrializados (fig. 30) — o fato de que as construções são
 “menos” industrializadas do que carros ou máquinas de raios X não
 importa tanto, a questão é a tendência.</p>
 </aside>
-<figure>
+<figure id="fig:tecla">
 <video
 data-src="https://upload.wikimedia.org/wikipedia/commons/5/56/Eco-sustainable_3D_printed_house_-_Tecla_(without_sound).webm"
-id="fig:tecla" controls=""><a
+controls=""><a
 href="https://upload.wikimedia.org/wikipedia/commons/5/56/Eco-sustainable_3D_printed_house_-_Tecla_(without_sound).webm">Impressão
 3D de uma casa “sustentável” na Itália, 2021. Projeto: WASP engenharia e
 Mario Cucinella Arquitetos. Filmagem: Alfredo Milano</a></video>
@@ -893,10 +898,10 @@ Milano</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:krier-maintenance">
 <img
 data-src="https://images.adsttc.com/media/images/5b29/8e05/f197/cc4f/8a00/00fc/slideshow/26.jpg?1529449980"
-id="fig:krier-maintenance" class="line"
+class="line"
 alt="Léon Krier, custo de construção e custo de manutenção comparados" />
 <figcaption aria-hidden="true">Léon Krier, custo de construção e custo
 de manutenção comparados</figcaption>
@@ -918,10 +923,9 @@ da cadeia produtiva.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:schulz">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/07/energy-and-CO2-emission-study.png"
-id="fig:schulz"
 alt="Emissões de CO2 da cadeia produtiva da construção, segundo Victoria Luise Schulz-Daubas, 2021" />
 <figcaption aria-hidden="true">Emissões de CO<sub>2</sub> da cadeia
 produtiva da construção, segundo <a href="https://osf.io/ea5hf">Victoria
@@ -1000,10 +1004,9 @@ milhões atrás, ao último ancestral comum dos hominídeos <span
 class="citation" data-cites="fruth:2017great">(Fruth)</span>.</p>
 </aside>
 <div class="align-right">
-<figure>
+<figure id="fig:orang">
 <img
 data-src="https://i.pinimg.com/originals/7e/ac/0f/7eac0fad2c7dc3ff0a7471354e2bbdea.jpg"
-id="fig:orang"
 alt="Orangotango construindo ninho em Bornéu. Foto: John Fuller, 2013" />
 <figcaption aria-hidden="true">Orangotango construindo ninho em Bornéu.
 Foto: <a
@@ -1014,10 +1017,9 @@ Fuller, 2013</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:chimp">
 <img
 data-src="https://i.pinimg.com/originals/e8/5f/c8/e85fc8c962e1545901b556978c636218.jpg"
-id="fig:chimp"
 alt="Chimpanzé no seu ninho na Nigéria. Foto: Cyril Russo, Minden Pictures / National Geographic, 2018" />
 <figcaption aria-hidden="true">Chimpanzé no seu ninho na Nigéria. Foto:
 <a
@@ -1030,10 +1032,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Caban
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Cabane_de_Terra_Amata_2.jpg"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:terra-amata">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg"
-id="fig:terra-amata" class="slide-bg"
+class="slide-bg"
 alt="Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: Véronique Pagnier, 2011" />
 <figcaption aria-hidden="true">Reconstituição dos abrigos de Terra
 Amata, 380.000 a.p. Foto: <a
@@ -1044,10 +1046,9 @@ Pagnier, 2011</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:mezhyrich">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Dwelling_made_with_mammoth_bones.jpg/1280px-Dwelling_made_with_mammoth_bones.jpg"
-id="fig:mezhyrich"
 alt="Reconstituição de tenda em ossos e peles de mamute de Mezhyrich, Ucrânia, 15.000 a.p., no Museu Nacional de Tóquio Foto: Momotarou2012, 2013" />
 <figcaption aria-hidden="true">Reconstituição de tenda em ossos e peles
 de mamute de Mezhyrich, Ucrânia, 15.000 a.p., no Museu Nacional de
@@ -1077,10 +1078,9 @@ agrárias, é bastante comum as pessoas trabalharem e mesmo descansarem ao
 relento (fig. 37).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:gauchos">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg/1280px-Soldiers_Gauchos_preparing_tea,_one_of_Juan_Manuel_de_Rosas_army_camps,_Argentina,_by_Jean-Baptiste_Henri_Durand-Brager_(1814-1879).jpg"
-id="fig:gauchos"
 alt="Jean-Baptiste Henri Durand-Brager, Gaúchos preparando mate (acampamento do exército de Juan Manuel de Rosas). L’Illustration VII (177), 1846" />
 <figcaption aria-hidden="true">Jean-Baptiste Henri Durand-Brager,
 Gaúchos preparando mate (acampamento do exército de Juan Manuel de
@@ -1093,10 +1093,10 @@ href="https://commons.wikimedia.org/wiki/File:Soldiers_Gauchos_preparing_tea,_on
 </section>
 <section id="abrigo-e-comportamento-simbólico" class="slide level2">
 <h2>Abrigo e comportamento simbólico</h2>
-<figure>
+<figure id="fig:san">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Oldest_Healing_Dance.jpg/1280px-Oldest_Healing_Dance.jpg"
-id="fig:san" class="outset"
+class="outset"
 alt="Comunidade San em volta do lar central de uma aldeia. Foto: Kgara Kevin Rack, 2017" />
 <figcaption aria-hidden="true">Comunidade San em volta do lar central de
 uma aldeia. Foto: <a
@@ -1149,32 +1149,36 @@ terreno pantanoso do local. A estrutura dessas construções é
 inteiramente feita em toras e troncos roliços de carvalho; todas as
 construções eram orientadas aproximadamente na direção leste–oeste.</p>
 </aside>
-<div id="fig:sannai-site" class="subfigures columns outset">
+<figure id="fig:sannai-site" class="subfigures columns outset">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:sannai-globe">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-and-pit-dwellings.png"
-id="fig:sannai-globe" class="nobg" />
+class="nobg"
+alt="Situação no território das sociedades pré-históricas que construíram habitações semienterradas" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:sannai-mutsu">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-loc.png"
-id="fig:sannai-mutsu" />
+alt="Locação junto à baía de Mutsu, atual município de Aomori, Japão" />
+<figcaption></figcaption>
 </figure>
-</div><p>Esquema do sítio arqueológico de Sannai Maruyama, cultura
+</div>
+<figcaption><p>Esquema do sítio arqueológico de Sannai Maruyama, cultura
 Jōmon, 3900–2300 a.C.. a – Situação no território das sociedades
 pré-históricas que construíram habitações semienterradas, b – Locação
-junto à baía de Mutsu, atual município de Aomori, Japão</p>
-</div>
+junto à baía de Mutsu, atual município de Aomori, Japão</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:sannai-sec">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1001018/2021/06/tau0005-sannai-maruyama-site-540.png"
-id="fig:sannai-sec"
 alt="Corte do sítio reconstituído de Sannai-Maruyama" />
 <figcaption aria-hidden="true">Corte do sítio reconstituído de
 Sannai-Maruyama</figcaption>
@@ -1183,10 +1187,10 @@ Sannai-Maruyama</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:sannai">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg/1280px-140913_Sannai-Maruyama_site_Aomori_Japan01bs6bs6.jpg"
-id="fig:sannai" class="outset"
+class="outset"
 alt="Vista parcial do sítio arqueológico de Sannai Maruyama, reconstituição 1997–2002. Foto: 663highland, 2014" />
 <figcaption aria-hidden="true">Vista parcial do sítio arqueológico de
 Sannai Maruyama, reconstituição 1997–2002. Foto: <a
@@ -1196,27 +1200,31 @@ href="https://commons.wikimedia.org/wiki/File:140913_Sannai-Maruyama_site_Aomori
 </section>
 <section class="slide level2">
 
-<div id="fig:6pillar" class="subfigures columns outset">
+<figure id="fig:6pillar" class="subfigures columns outset">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:6pillarA">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/00/三内丸山遺跡大型掘立柱建物.JPG/682px-三内丸山遺跡大型掘立柱建物.JPG"
-id="fig:6pillarA" />
+alt="Koike Takashi, 2008" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:6pillarB">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/山内丸山遺跡_-_panoramio.jpg/685px-山内丸山遺跡_-_panoramio.jpg"
-id="fig:6pillarB" />
+alt="Iwanami Riku, 2015" />
+<figcaption></figcaption>
 </figure>
-</div><p>Reconstituição de uma estrutura com seis pilares, sítio
+</div>
+<figcaption><p>Reconstituição de uma estrutura com seis pilares, sítio
 arqueológico de Sannai Maruyama, cultura Jōmon, c. 2600 a.C. Fotos:.
 a – <a
 href="https://commons.wikimedia.org/wiki/File:三内丸山遺跡大型掘立柱建物.JPG"><span
 class="smallcaps">Koike</span> Takashi, 2008</a>, b – <a
 href="https://commons.wikimedia.org/wiki/File:山内丸山遺跡_-_panoramio.jpg"><span
-class="smallcaps">Iwanami</span> Riku, 2015</a></p>
-</div>
+class="smallcaps">Iwanami</span> Riku, 2015</a></p></figcaption>
+</figure>
 <aside class="notes">
 <p>A alegoria da cabana primitiva é um expediente para enfatizar o
 quanto a arquitetura tradicional é uma expressão direta da construção. A
@@ -1242,10 +1250,9 @@ necessariamente coletivo e que, portanto, só poderia existir em volta do
 lar — da fogueira familiar ou comunitária.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:cosimo-hunt">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/A_Hunting_Scene_MET_DT6.jpg/1280px-A_Hunting_Scene_MET_DT6.jpg"
-id="fig:cosimo-hunt"
 alt="Piero di Cosimo, Cena de caçada, c. 1494–1500, têmpera e óleo sobre madeira. Metropolitan Museum of Art" />
 <figcaption aria-hidden="true">Piero di Cosimo, Cena de caçada,
 c. 1494–1500, têmpera e óleo sobre madeira. <a
@@ -1256,10 +1263,10 @@ Museum of Art</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:cosimo-vulcan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg/1072px-Piero_di_Cosimo_-_Vulcano_e_Eolo.jpg"
-id="fig:cosimo-vulcan" class="outset"
+class="outset"
 alt="Piero di Cosimo, Vulcano e Éolo, c. 1490, têmpera e óleo sobre tela. National Gallery of Canada" />
 <figcaption aria-hidden="true">Piero di Cosimo, Vulcano e Éolo, c. 1490,
 têmpera e óleo sobre tela. <a
@@ -1270,10 +1277,9 @@ Gallery of Canada</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:laugier">
 <img
 data-src="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg"
-id="fig:laugier"
 alt="Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do Essai sur l’architecture de Marc-Antoine Laugier, 1755" />
 <figcaption aria-hidden="true">Charles Eisen, desenhista e gravurista,
 alegoria da cabana primitiva para a 2.ª edição do <em>Essai sur
@@ -1307,10 +1313,9 @@ salão elegante (fig. 46). Esses autores consideravam que a razão é uma
 faculdade inata e imutável da humanidade — desde que ela pudesse ser
 exercida livremente, isto é, em caráter estritamente individual.</p>
 </aside>
-<figure>
+<figure id="fig:salon">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/ANICET-CHARLES-GABRIEL_LEMONNIER_A_READING_OF_VOLTAIRE.jpg/1280px-ANICET-CHARLES-GABRIEL_LEMONNIER_A_READING_OF_VOLTAIRE.jpg"
-id="fig:salon"
 alt="Anicet Charles Gabriel Lemonnier, Leitura da tragédia « L’orpheline de la Chine », de Voltaire, no salão de Madame Geoffrin, óleo sobre tela de 1812" />
 <figcaption aria-hidden="true">Anicet Charles Gabriel Lemonnier, Leitura
 da tragédia « L’orpheline de la Chine », de Voltaire, no salão de Madame
@@ -1320,10 +1325,9 @@ Geoffrin, óleo sobre tela de 1812</figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:klenze-concordia">
 <img
 data-src="https://i.pinimg.com/originals/fc/63/eb/fc63eb79101c509aad0ea64ac07b401b.jpg"
-id="fig:klenze-concordia"
 alt="Leo von Klenze, Templo da Concórdia em Agrigento, 1857" />
 <figcaption aria-hidden="true">Leo von Klenze, Templo da Concórdia em
 Agrigento, 1857</figcaption>
@@ -1332,10 +1336,10 @@ Agrigento, 1857</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:soubise">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Salon_de_la_princesse_hotel_de_soubise.jpg/1280px-Salon_de_la_princesse_hotel_de_soubise.jpg"
-id="fig:soubise" class="outset"
+class="outset"
 alt="Germain Boffrand, salão oval da princesa, hôtel de Soubise, Paris, década de 1730. Foto: NonOmnisMoriar, 2012" />
 <figcaption aria-hidden="true">Germain Boffrand, salão oval da princesa,
 hôtel de Soubise, Paris, década de 1730. Foto: <a
@@ -1361,10 +1365,10 @@ neoclássicas como um argumento pela superioridade racional de um retorno
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:bastille">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Prise_de_la_Bastille_clean.jpg/1280px-Prise_de_la_Bastille_clean.jpg"
-id="fig:bastille" class="outset"
+class="outset"
 alt="Jean-Pierre Houël, Tomada da Bastilha, 1789, aquarela sobre papel" />
 <figcaption aria-hidden="true">Jean-Pierre Houël, Tomada da Bastilha,
 1789, aquarela sobre papel</figcaption>
@@ -1373,10 +1377,9 @@ alt="Jean-Pierre Houël, Tomada da Bastilha, 1789, aquarela sobre papel" />
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:friedrich">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/600px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg"
-id="fig:friedrich"
 alt="Caspar David Friedrich, Andarilho sobre o mar de névoa, 1817" />
 <figcaption aria-hidden="true">Caspar David Friedrich, Andarilho sobre o
 mar de névoa, 1817</figcaption>
@@ -1412,10 +1415,10 @@ desdobra ao longo do tempo vai ser revisitado, e deformado, na segunda
 metade do século <span class="smallcaps">XIX</span>.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:caesar">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg/1280px-Vincenzo_Camuccini_-_La_morte_di_Cesare.jpg"
-id="fig:caesar" alt="Vincenzo Camuccini, A morte de César, 1804–1805" />
+alt="Vincenzo Camuccini, A morte de César, 1804–1805" />
 <figcaption aria-hidden="true">Vincenzo Camuccini, A morte de César,
 1804–1805</figcaption>
 </figure>
@@ -1445,18 +1448,18 @@ passado remoto, nas origens da humanidade.</p>
 </aside>
 <div class="columns">
 <div class="column" style="width:53%;">
-<figure>
+<figure id="fig:semper">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/ETH-BIB-Semper,_Gottfried_(1803-1879)-Portrait-Portr_11235.tif/lossy-page1-616px-ETH-BIB-Semper,_Gottfried_(1803-1879)-Portrait-Portr_11235.tif.jpg"
-id="fig:semper" alt="Gottfried Semper, fotografia anônima de 1865" />
+alt="Gottfried Semper, fotografia anônima de 1865" />
 <figcaption aria-hidden="true">Gottfried Semper, fotografia anônima de
 1865</figcaption>
 </figure>
 </div><div class="column" style="width:47%;">
-<figure>
+<figure id="fig:karib">
 <img
 data-src="https://i.pinimg.com/originals/20/53/c9/2053c9e1c4da02c6425b885d9e24aea5.png"
-id="fig:karib" class="line"
+class="line"
 alt="Cabana dos índios karib em Trinidad e Tobago, apresentada na exposição universal de Londres em 1851 e publicada por Semper em 1860" />
 <figcaption aria-hidden="true">Cabana dos índios karib em Trinidad e
 Tobago, apresentada na exposição universal de Londres em 1851 e
@@ -1468,10 +1471,9 @@ publicada por Semper em 1860</figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:bsg">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg/1280px-Salle_de_lecture_Bibliotheque_Sainte-Genevieve_n10.jpg"
-id="fig:bsg"
 alt="Henri Labrouste, arquiteto, biblioteca Sainte-Geneviève, sala de leitura, Paris, 1842. Foto: Marie-Lan Nguyen, 2011" />
 <figcaption aria-hidden="true">Henri Labrouste, arquiteto, biblioteca
 Sainte-Geneviève, sala de leitura, Paris, 1842. Foto: <a
@@ -1508,10 +1510,10 @@ moderno que permitiu a Semper pensar a separação <em>conceitual</em>
 entre estrutura e vedação. E essa separação nos dá dois dos quatro
 elementos da cabana primitiva na versão de Semper.</p>
 </aside>
-<figure>
+<figure id="fig:bnf">
 <img
 data-src="https://i.pinimg.com/originals/ae/0f/ad/ae0fad31b13e85f997d8153f3637e52a.png"
-id="fig:bnf" class="outset slide-bg"
+class="outset slide-bg"
 alt="Henri Labrouste, arquiteto, Biblioteca nacional da França, sala de leitura principal, 1860. Foto: Émilie Groleau / INHA, 2017" />
 <figcaption aria-hidden="true">Henri Labrouste, arquiteto, Biblioteca
 nacional da França, sala de leitura principal, 1860. Foto: <a
@@ -1639,10 +1641,10 @@ do Sol Amaterasu (representada por três objetos sagrados e um pilar
 também em madeira).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:egenter">
 <img
 data-src="https://i.pinimg.com/originals/b2/65/ea/b265ea66acf8b08695a2b71ce1ef1912.png"
-id="fig:egenter" class="line"
+class="line"
 alt="Cabanas rituais diversas no xintoísmo contemporâneo, Japão, registradas por Nold Egenter, 1980" />
 <figcaption aria-hidden="true">Cabanas rituais diversas no xintoísmo
 contemporâneo, Japão, registradas por Nold Egenter, 1980</figcaption>
@@ -1651,10 +1653,10 @@ contemporâneo, Japão, registradas por Nold Egenter, 1980</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:daijogu">
 <img
 data-src="https://i.pinimg.com/originals/35/d6/a0/35d6a066bf7ec19c629dfec1c2381891.jpg"
-id="fig:daijogu" class="outset"
+class="outset"
 alt="Daijōgū, cabanas temporárias onde se realizou o daijōsai do imperador Naruhito. Foto: agência Kyodo, novembro de 2019" />
 <figcaption aria-hidden="true">Daijōgū, cabanas temporárias onde se
 realizou o <em>daijōsai</em> do imperador Naruhito. Foto: <a
@@ -1725,10 +1727,10 @@ colunas esbeltas em madeira, colunas espessas em tijolo; os caibros em
 madeira têm balanços amplos, já a plataforma em pedra se aproxima da
 forma estável de uma pirâmide.</p>
 </aside>
-<figure>
+<figure id="fig:porphyrios">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Rockefeller_Park_Pavilion_Battery_Park_City.jpg/1280px-Rockefeller_Park_Pavilion_Battery_Park_City.jpg"
-id="fig:porphyrios" class="outset"
+class="outset"
 alt="Demetri Porphyrios, arquiteto, pavilhão no parque Rockefeller, Nova York, 1992. Foto: Beyond My Ken, 2014" />
 <figcaption aria-hidden="true">Demetri Porphyrios, arquiteto, pavilhão
 no parque Rockefeller, Nova York, 1992. Foto: <a
@@ -1738,10 +1740,9 @@ My Ken, 2014</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:barcelona">
 <img
 data-src="https://i.pinimg.com/1200x/9f/6e/73/9f6e73e63d25aac03963007b86650bf4.jpg"
-id="fig:barcelona"
 alt="Ludwig Mies van der Rohe, arquiteto, pavilhão da Alemanha na exposição universal de Barcelona, 1929 (reconstruído em 1984). Foto: Christian Gänshirt, 2012" />
 <figcaption aria-hidden="true">Ludwig Mies van der Rohe, arquiteto,
 pavilhão da Alemanha na exposição universal de Barcelona, 1929
@@ -1775,10 +1776,9 @@ portanto aqui vamos nos concentrar nas particularidades da arquitetura
 tradicional.</p>
 </aside>
 <div class="half full">
-<figure>
+<figure id="fig:lalive">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/06/barre_jean-benoit_vincent_plan_du_premier_etage_de_lhotel_la_live_situe_a_langle_de_la_rue_taitbout__446505.jpg"
-id="fig:lalive"
 alt="Vincent Barré, arquiteto, planta do primeiro andar do hôtel La Live, Paris, segunda metade do século XVIII. Museu Carnavalet D.14938" />
 <figcaption aria-hidden="true">Vincent Barré, arquiteto, planta do
 primeiro andar do <em>hôtel</em> La Live, Paris, segunda metade do
@@ -1786,10 +1786,10 @@ século <span class="smallcaps">XVIII</span>. <a
 href="https://www.parismuseescollections.paris.fr/fr/musee-carnavalet/oeuvres/plan-du-premier-etage-de-l-hotel-la-live-situe-a-l-angle-de-la-rue-taitbout#infos-principales">Museu
 Carnavalet D.14938</a></figcaption>
 </figure>
-<figure>
+<figure id="fig:mies-brick">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/06/mies-1923-brick-country-house.png"
-id="fig:mies-brick" class="line"
+class="line"
 alt="Mies van der Rohe, projeto para uma casa de campo em tijolos, 1923" />
 <figcaption aria-hidden="true">Mies van der Rohe, projeto para uma casa
 de campo em tijolos, 1923</figcaption>
@@ -1820,10 +1820,10 @@ mostrando uma vista frontal característica, mesmo quando a rua aparece
 em planta (fig. 62). Pode parecer estranho para os adultos, mas é
 consistente.</p>
 </aside>
-<figure>
+<figure id="fig:infantil">
 <img
 data-src="https://i.pinimg.com/1200x/6c/77/0c/6c770c87a24b45a7f17756956d72f51e.jpg"
-id="fig:infantil" class="outset"
+class="outset"
 alt="Desenho infantil de uma rua com casas, reproduzido por Kmetová e Lehocká" />
 <figcaption aria-hidden="true">Desenho infantil de uma rua com casas,
 reproduzido por <a href="https://doi.org/10.3390/math9182185">Kmetová e
@@ -1833,10 +1833,9 @@ Lehocká</a></figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:baltimore">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg/2560px-Florentine_painter_-_The_Ideal_City_-_Walters_Art_Museum_-_Google_Art_Project.jpg"
-id="fig:baltimore"
 alt="Giuliano da Sangallo (atribuição), Cidade ideal, c. 1480–84, dita Tábua de Baltimore. Walters Art Museum" />
 <figcaption aria-hidden="true">Giuliano da Sangallo (atribuição), Cidade
 ideal, c. 1480–84, dita <a
@@ -1870,10 +1869,9 @@ tradicional é a projeção cavaleira, que é bastante característica da
 pintura chinesa (fig. 64).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:qiu-ying">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/3/38/Qiu_Ying_-_Spring_Morning_in_the_Han_Palace_-_Walters_3548_-_View_I.jpg"
-id="fig:qiu-ying"
 alt="Projeção cavaleira: Qiu Ying, Manhã de primavera no palácio Han, original da primeira metade do século XVI, cópia da segunda metade do século XVII. Walters Art Museum" />
 <figcaption aria-hidden="true">Projeção cavaleira: Qiu Ying, Manhã de
 primavera no palácio Han, original da primeira metade do século <span
@@ -1887,10 +1885,9 @@ Art Museum</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:kiritsubo">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Paulownia_Court_%28Kiritsubo%29_from_Tale_of_Genji_%28Genji_monogatari%29_AR_J1038_01-054_56-f-26v.jpg/548px-Paulownia_Court_%28Kiritsubo%29_from_Tale_of_Genji_%28Genji_monogatari%29_AR_J1038_01-054_56-f-26v.jpg"
-id="fig:kiritsubo"
 alt="Projeção axonométrica ou planta oblíqua: ilustração da Lenda de Genji, artista desconhecido do século XVII. Chester Beatty Library 1038.1" />
 <figcaption aria-hidden="true">Projeção axonométrica ou planta oblíqua:
 ilustração da <em>Lenda de Genji</em>, artista desconhecido do século
@@ -1939,10 +1936,9 @@ mostrando a trama de casas em várias ruas ao mesmo tempo. Foi isso que o
 engenheiro militar Rocha Fragoso fez no <em>Mappa architectural do Rio
 de Janeiro</em> que ele publicou em 1874 (fig. 66).</p>
 </aside>
-<figure>
+<figure id="fig:fragoso">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Mappa_architectural_do_Rio_de_Janeiro.pdf/page3-713px-Mappa_architectural_do_Rio_de_Janeiro.pdf.jpg"
-id="fig:fragoso"
 alt="Planta–elevação: João da Rocha Fragoso, Mappa architectural do Rio de Janeiro, pr. 3, 1874" />
 <figcaption aria-hidden="true">Planta–elevação: João da Rocha Fragoso,
 <a
@@ -1953,10 +1949,10 @@ architectural do Rio de Janeiro</a>, pr. 3, 1874</figcaption>
 <section id="projeções-ortográficas" class="slide level2">
 <h2>Projeções ortográficas</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:ching-3diedro">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/06/ching-desenho-146-3diedro.png"
-id="fig:ching-3diedro" class="line"
+class="line"
 alt="Francis D.K. Ching, projeção ortográfica do terceiro diedro" />
 <figcaption aria-hidden="true">Francis D.K. Ching, projeção ortográfica
 do terceiro diedro</figcaption>
@@ -1988,22 +1984,26 @@ muito úteis para a arquitetura, onde os planos atravessam o edifício: a
 planta (fig. 68 (a)), usando um plano horizontal, e o corte (fig. 68
 (b)), usando um plano vertical.</p>
 </aside>
-<div id="fig:ching-proje" class="subfigures columns">
+<figure id="fig:ching-proje" class="subfigures columns">
 <div class="column" style="width:42%;">
-<figure>
+<figure id="fig:ching-plan">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/06/ching-desenho-157.png"
-id="fig:ching-plan" class="line" />
+class="line" alt="planta" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:58%;">
-<figure>
+</div>
+<div class="column" style="width:58%;">
+<figure id="fig:ching-corte">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/06/ching-desenho-181.png"
-id="fig:ching-corte" class="line" />
+class="line" alt="corte" />
+<figcaption></figcaption>
 </figure>
-</div><p>Francis D.K. Ching, esquema de projeções ortográficas com
-planos de projeção. a – planta, b – corte</p>
 </div>
+<figcaption><p>Francis D.K. Ching, esquema de projeções ortográficas com
+planos de projeção. a – planta, b – corte</p></figcaption>
+</figure>
 </section>
 <section id="section-9" class="slide level2" data-visibility="hidden">
 <h2 data-visibility="hidden"></h2>
@@ -2024,25 +2024,27 @@ posicionados de modo a passarem pelos vãos das portas e das janelas.</p>
 </section>
 <section class="slide level2">
 
-<div id="fig:sumer-plan" class="subfigures half full">
-<figure>
+<figure id="fig:sumer-plan" class="subfigures half full">
+<figure id="fig:umma">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/House_in_Umma-Ur_III.jpg/866px-House_in_Umma-Ur_III.jpg"
-id="fig:umma" />
+alt="casa em Umma, Vorderasiatisches Museum, Berlim" />
+<figcaption></figcaption>
 </figure>
-<figure>
+<figure id="fig:jrl0930">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/06/Ur-building-plan-Rylands-P112404-crop.jpg"
-id="fig:jrl0930" />
+alt="templo? John Rylands Library, Universidade de Manchester JRL 0930" />
+<figcaption></figcaption>
 </figure>
-<p>Plantas com cotas em blocos de argila, Suméria, c. 2100–2000 a.C..
-a – casa em Umma, <a
+<figcaption><p>Plantas com cotas em blocos de argila, Suméria,
+c. 2100–2000 a.C.. a – casa em Umma, <a
 href="https://commons.wikimedia.org/wiki/Category:Vorderasiatisches_Museum_Berlin_-_Sumerian_art">Vorderasiatisches
 Museum, Berlim</a>, b – templo? <a
 href="https://cdli.ucla.edu/search/search_results.php?SearchMode=Text&amp;ObjectID=P112404">John
 Rylands Library, Universidade de Manchester <span
-class="smallcaps">JRL</span> 0930</a></p>
-</div>
+class="smallcaps">JRL</span> 0930</a></p></figcaption>
+</figure>
 <!--_-->
 <aside class="notes">
 <p>A planta é uma das formas de representação mais antigas e difundidas.
@@ -2093,23 +2095,27 @@ e da composição. Nenhum deles é intrinsecamente mais correto que os
 outros, mas alguns fazem mais sentido em determinados contextos
 culturais ou tecnológicos.</p>
 </aside>
-<div id="fig:rkrier-basic" class="subfigures columns outset">
+<figure id="fig:rkrier-basic" class="subfigures columns outset">
 <div class="column" style="width:49.5%;">
-<figure>
+<figure id="fig:rkrier-basicA">
 <img
 data-src="https://i.pinimg.com/originals/89/b4/56/89b456c0021b5b85c3a6acd0fb766ee0.png"
-id="fig:rkrier-basicA" class="line" />
+class="line" alt="tipos primários" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50.5%;">
-<figure>
+</div>
+<div class="column" style="width:50.5%;">
+<figure id="fig:rkrier-basicB">
 <img
 data-src="https://i.pinimg.com/originals/43/d7/4d/43d74d3154cd364b8ce2be5061834574.png"
-id="fig:rkrier-basicB" class="line" />
+class="line" alt="exemplos históricos" />
+<figcaption></figcaption>
 </figure>
-</div><p>Rob Krier, arquétipos formais em <em>Architectural
-Composition</em> (1988). a – tipos primários, b – exemplos
-históricos</p>
 </div>
+<figcaption><p>Rob Krier, arquétipos formais em <em>Architectural
+Composition</em> (1988). a – tipos primários, b – exemplos
+históricos</p></figcaption>
+</figure>
 </section>
 <section id="método-acadêmico-de-representação" class="slide level2">
 <h2>Método acadêmico de representação</h2>
@@ -2173,10 +2179,9 @@ alt="Arte-final de projeto de museu de belas-artes, Henri Deglane" />
 (fig. 71), vemos algumas das características principais da apresentação
 de desenhos no método acadêmico:</p>
 <div class="align-right">
-<figure>
+<figure id="fig:entroncamento">
 <img
 data-src="https://cdn.palazzo.arq.br/portfolio/1080px-pt-entroncamento-camoes-IB-IA-prancha.jpg"
-id="fig:entroncamento"
 alt="Exemplo de composição de prancha vertical com planta, elevação, margem, escala gráfica e título" />
 <figcaption aria-hidden="true">Exemplo de composição de prancha vertical
 com planta, elevação, margem, escala gráfica e título</figcaption>
@@ -2238,21 +2243,23 @@ cortes</li>
 </section>
 <section id="estudo-analítico" class="slide level2">
 <h2>Estudo analítico</h2>
-<div id="fig:harbeson-analytique" class="subfigures half">
-<figure>
+<figure id="fig:harbeson-analytique" class="subfigures half">
+<figure id="fig:harbeson-analytiqueA">
 <img
 data-src="https://i.pinimg.com/originals/a4/35/f6/a435f6ec9ece51124aec3b0539c5e38f.jpg"
-id="fig:harbeson-analytiqueA" />
+alt="motivo central para um muro de jardim, por L. Licht" />
+<figcaption></figcaption>
 </figure>
-<figure>
+<figure id="fig:harbeson-analytiqueB">
 <img
 data-src="https://i.pinimg.com/originals/63/32/ab/6332ab618716d65d67c3d0ccdeb3aed1.jpg"
-id="fig:harbeson-analytiqueB" />
+alt="templo do Amor, por G. Roth" />
+<figcaption></figcaption>
 </figure>
-<p>Estudos analíticos reproduzidos em Harbeson, <em>Study of
+<figcaption><p>Estudos analíticos reproduzidos em Harbeson, <em>Study of
 Architectural Design</em>. a – motivo central para um muro de jardim,
-por L. Licht, b – templo do Amor, por G. Roth</p>
-</div>
+por L. Licht, b – templo do Amor, por G. Roth</p></figcaption>
+</figure>
 <aside class="notes">
 <p>O estudo analítico, por sua vez, tem sido a porta de entrada no
 estudo do classicismo desde a organização do ensino na Academia de
@@ -2282,23 +2289,24 @@ para proporções e detalhes, derivadas dos seus estudos classicistas
 <span class="citation"
 data-cites="chitham:2005classical">(Chitham)</span>.</p>
 </aside>
-<div id="fig:exemplos" class="subfigures columns full">
+<figure id="fig:exemplos" class="subfigures columns full">
 <div class="column" style="width:52.3%;">
-<figure>
-<img
+<p><img
 data-src="https://i.pinimg.com/originals/e7/42/19/e74219be5068aa18914b27d4fcc6fdfe.jpg"
-id="fig:exemplosA" />
-</figure>
-</div><div class="column" style="width:47.7%;">
-<figure>
+id="fig:exemplosA" /></p>
+</div>
+<div class="column" style="width:47.7%;">
+<figure id="fig:exemplosB">
 <img
 data-src="https://i.pinimg.com/originals/ee/f8/c1/eef8c161b0968701b3eb91494cc0bcde.jpg"
-id="fig:exemplosB" />
+alt="observe a representação das juntas entre os blocos de pedra" />
+<figcaption></figcaption>
 </figure>
-</div><p>Exemplos de desenhos analíticos de ordens clássicas, <a
-href="http://www.dwbates.com/fine-art">D.W. Bates</a>. b – observe a
-representação das juntas entre os blocos de pedra</p>
 </div>
+<figcaption><p>Exemplos de desenhos analíticos de ordens clássicas, <a
+href="http://www.dwbates.com/fine-art">D.W. Bates</a>. b – observe a
+representação das juntas entre os blocos de pedra</p></figcaption>
+</figure>
 </section>
 <section id="importância-do-detalhe-e-da-volumetria"
 class="slide level2">
@@ -2308,22 +2316,20 @@ class="slide level2">
 class="title-slide slide level1 unnumbered unlisted allowframebreaks">
 <h1 class="unnumbered unlisted allowframebreaks">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-araujo:2016logica10" class="csl-entry"
-role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-araujo:2016logica10" class="csl-entry" role="listitem">
 Araujo de Souza, Adelita, et al. <span>“Lógica de organização
 territorial guarani: concepções do modo de ser”</span>. <em>Labor e
 Engenho</em>, vol. 10, nº 3, setembro de 2016, p. 249. <em>DOI.org
 (Crossref)</em>, <a
 href="https://doi.org/10.20396/lobore.v10i3.8646223">https://doi.org/10.20396/lobore.v10i3.8646223</a>.
 </div>
-<div id="ref-bachelard:2008poetica" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-bachelard:2008poetica" class="csl-entry" role="listitem">
 Bachelard, Gaston. <em>A poética do espaço</em>. Traduzido por Antônio
 da Costa Leal e Lídia do Valle Santos Leal, Martins Fontes, 2008.
 </div>
 <div id="ref-beran:2018self-control28" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Beran, Michael J., e William D. Hopkins. <span>“Self-Control in
 Chimpanzees Relates to General Intelligence”</span>. <em>Current
 Biology</em>, vol. 28, nº 4, fevereiro de 2018, p. 574–579.e3.
@@ -2331,181 +2337,164 @@ Biology</em>, vol. 28, nº 4, fevereiro de 2018, p. 574–579.e3.
 href="https://doi.org/10.1016/j.cub.2017.12.043">https://doi.org/10.1016/j.cub.2017.12.043</a>.
 </div>
 <div id="ref-binford:1982archaeology1" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Binford, Lewis R. <span>“The Archaeology of Place”</span>. <em>Journal
 of Anthropological Archaeology</em>, vol. 1, nº 1, março de 1982, p.
 5–31. <em>ScienceDirect</em>, <a
 href="https://doi.org/10.1016/0278-4165(82)90006-X">https://doi.org/10.1016/0278-4165(82)90006-X</a>.
 </div>
-<div id="ref-buras:2019art" class="csl-entry" role="doc-biblioentry">
+<div id="ref-buras:2019art" class="csl-entry" role="listitem">
 Buras, Nir Haim. <em>The Art of Classic Planning: Building Beautiful and
 Enduring Communities</em>. The Belknap Press of Harvard University
 Press, 2019.
 </div>
-<div id="ref-calder:2021architecture" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-calder:2021architecture" class="csl-entry" role="listitem">
 Calder, Barnabas. <em>Architecture: From Prehistory to Climate
 Emergency</em>. Penguin, 2021.
 </div>
 <div id="ref-carvalho:2010comportamento23" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Carvalho, Renato Gil, et al. <span>“Comportamento adaptativo e
 perspectivação do futuro: algumas evidências nos contextos da educação e
 da saúde”</span>. <em>Psicologia: Reflexão e Crítica</em>, vol. 23,
 2010, p. 554–61. <em>SciELO</em>, <a
 href="https://doi.org/10.1590/S0102-79722010000300016">https://doi.org/10.1590/S0102-79722010000300016</a>.
 </div>
-<div id="ref-ching:2012desenho" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-ching:2012desenho" class="csl-entry" role="listitem">
 Ching, Francis D. K., e Steven P. Juroszek. <em>Desenho para
 arquitetos</em>. Traduzido por Alexandre Salvaterra, 2º ed, Bookman,
 2012.
 </div>
-<div id="ref-chitham:2005classical" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-chitham:2005classical" class="csl-entry" role="listitem">
 Chitham, Robert. <em>The Classical Orders of Architecture</em>. 2. ed.,
 Architectural Press, 2005.
 </div>
-<div id="ref-dietrich:2019cereal14" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-dietrich:2019cereal14" class="csl-entry" role="listitem">
 Dietrich, Laura, et al. <span>“Cereal Processing at Early Neolithic
 Göbekli Tepe, Southeastern Turkey”</span>. <em><span
 class="smallcaps">PLOS ONE</span></em>, vol. 14, nº 5, janeiro de 2019,
 p. e0215214. <em>PLoS Journals</em>, <a
 href="https://doi.org/10.1371/journal.pone.0215214">https://doi.org/10.1371/journal.pone.0215214</a>.
 </div>
-<div id="ref-egenter:1980bauform" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-egenter:1980bauform" class="csl-entry" role="listitem">
 Egenter, Nold. <em>Bauform als Zeichen und Symbol: Nichtdomestikales
 Bauen im japanischen Volkskult</em>. Eidgenössiche Technische
 Hochschule, 1980.
 </div>
-<div id="ref-frederick:2002time40" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-frederick:2002time40" class="csl-entry" role="listitem">
 Frederick, Shane, et al. <span>“Time Discounting and Time Preference: A
 Critical Review”</span>. <em>Journal of Economic Literature</em>, vol.
 40, nº 2, junho de 2002, p. 351–401. <em>DOI.org (Crossref)</em>, <a
 href="https://doi.org/10.1257/jel.40.2.351">https://doi.org/10.1257/jel.40.2.351</a>.
 </div>
-<div id="ref-fruth:2017great" class="csl-entry" role="doc-biblioentry">
+<div id="ref-fruth:2017great" class="csl-entry" role="listitem">
 Fruth, Barbara I. <span>“Great Ape Nest-Building”</span>. <em>The
 International Encyclopedia of Primatology</em>, organizado por Michele
 Bezanson et al., John Wiley &amp; Sons, 2017, p. 1–3. <em>DOI.org
 (Crossref)</em>, <a
 href="https://doi.org/10.1002/9781119179313.wbprim0294">https://doi.org/10.1002/9781119179313.wbprim0294</a>.
 </div>
-<div id="ref-gabriel:2004classical" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-gabriel:2004classical" class="csl-entry" role="listitem">
 Gabriel, J. François. <em>Classical Architecture for the Twenty-First
 Century: An Introduction to Design</em>. W.W. Norton, 2004.
 </div>
 <div id="ref-galor:2016agricultural106" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Galor, Oded, e Ömer Özak. <span>“The Agricultural Origins of Time
 Preference”</span>. <em>American Economic Review</em>, vol. 106, nº 10,
 outubro de 2016, p. 3064–103. <em>www.aeaweb.org</em>, <a
 href="https://doi.org/10.1257/aer.20150020">https://doi.org/10.1257/aer.20150020</a>.
 </div>
-<div id="ref-grigorev:1967new8" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-grigorev:1967new8" class="csl-entry" role="listitem">
 Grigor’ev, G. P. <span>“A New Reconstruction of the Above-Ground
 Dwelling of Kostenki”</span>. <em>Current Anthropology</em>, vol. 8, nº
 4, 1967, p. 344–49. <em>JSTOR</em>, <a
 href="https://www.jstor.org/stable/2740155">https://www.jstor.org/stable/2740155</a>.
 </div>
-<div id="ref-guadet:1901elements" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-guadet:1901elements" class="csl-entry" role="listitem">
 Guadet, Julien. <em>Éléments et théorie de l’architecture</em>.
 Aulanier, 1901.
 </div>
-<div id="ref-harbeson:1927study" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-harbeson:1927study" class="csl-entry" role="listitem">
 Harbeson, John F. <em>The Study of Architectural Design: With Special
 Reference to the Program of the Beaux-Arts Institute of Design</em>.
 Pencil Points, 1926. <em>Open WorldCat</em>, <a
 href="https://hdl.handle.net/2027/mdp.39015014100054">https://hdl.handle.net/2027/mdp.39015014100054</a>.
 </div>
 <div id="ref-heckenberger:2003amazonia301" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Heckenberger, M. J. <span>“Amazonia 1492: Pristine Forest or Cultural
 Parkland?”</span> <em>Science</em>, vol. 301, nº 5640, setembro de 2003,
 p. 1710–14. <em>DOI.org (Crossref)</em>, <a
 href="https://doi.org/10.1126/science.1086112">https://doi.org/10.1126/science.1086112</a>.
 </div>
 <div id="ref-jarzombek:2013architecture" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Jarzombek, Mark. <em>Architecture of First Societies: A Global
 Perspective</em>. Wiley, 2013.
 </div>
-<div id="ref-kemp:1989ancient" class="csl-entry" role="doc-biblioentry">
+<div id="ref-kemp:1989ancient" class="csl-entry" role="listitem">
 Kemp, Barry J. <em>Ancient Egypt : Anatomy of a Civilization</em>.
 Routledge, 1989. <em>Internet Archive</em>, <a
 href="http://archive.org/details/isbn_9780415063463">http://archive.org/details/isbn_9780415063463</a>.
 </div>
-<div id="ref-keong:2021introduction" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-keong:2021introduction" class="csl-entry" role="listitem">
 Keong, Choy Yee. <span>“Introduction: Sustainable Development—a
 Preliminary Reflection”</span>. <em>Global Environmental
 Sustainability</em>, organizado por Choy Yee Keong, Elsevier, 2021, p.
 1–6. <em>ScienceDirect</em>, <a
 href="https://doi.org/10.1016/B978-0-12-822419-9.00001-1">https://doi.org/10.1016/B978-0-12-822419-9.00001-1</a>.
 </div>
-<div id="ref-laugier:1753essai" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-laugier:1753essai" class="csl-entry" role="listitem">
 Laugier, Marc-Antoine. <em>Essai sur l’architecture</em>. Duchesne,
 1753. <em>Internet Archive</em>, <a
 href="http://archive.org/details/essaisurlarchite00laug">http://archive.org/details/essaisurlarchite00laug</a>.
 </div>
-<div id="ref-miller:2020delayed23" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-miller:2020delayed23" class="csl-entry" role="listitem">
 Miller, Rachael, et al. <span>“Delayed Gratification in New Caledonian
 Crows and Young Children: Influence of Reward Type and
 Visibility”</span>. <em>Animal Cognition</em>, vol. 23, nº 1, janeiro de
 2020, p. 71–85. <em>DOI.org (Crossref)</em>, <a
 href="https://doi.org/10.1007/s10071-019-01317-7">https://doi.org/10.1007/s10071-019-01317-7</a>.
 </div>
-<div id="ref-pinon:2006teoria" class="csl-entry" role="doc-biblioentry">
+<div id="ref-pinon:2006teoria" class="csl-entry" role="listitem">
 Piñón, Helio. <em>Teoría del proyecto</em>. 1º ed, Universitat
 Politècnica de Catalunya, 2006.
 </div>
-<div id="ref-semper:1860stil" class="csl-entry" role="doc-biblioentry">
+<div id="ref-semper:1860stil" class="csl-entry" role="listitem">
 Semper, Gottfried. <em>Der Stil in den technischen und tektonischen
 Künsten, oder, Praktische Aesthetik : ein Handbuch für Techniker,
 Künstler und Kunstfreunde</em>. Verlag für Kunst und Wissenschaft, 1860.
 <em>Internet Archive</em>, <a
 href="http://archive.org/details/gri_stilindentec02semp">http://archive.org/details/gri_stilindentec02semp</a>.
 </div>
-<div id="ref-semper:1851vier" class="csl-entry" role="doc-biblioentry">
+<div id="ref-semper:1851vier" class="csl-entry" role="listitem">
 ---. <em>Die vier Elemente der Baukunst</em>. F. Vieweg, 1851.
 <em>Internet Archive</em>, <a
 href="http://archive.org/details/dievierelemente00sempgoog">http://archive.org/details/dievierelemente00sempgoog</a>.
 </div>
-<div id="ref-soares:1997guarani" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-soares:1997guarani" class="csl-entry" role="listitem">
 Soares, André Luis R. <em>Guarani: organização social e
 arqueologia</em>. EdiPUCRS, 1997.
 </div>
-<div id="ref-strappa:2013lettura" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-strappa:2013lettura" class="csl-entry" role="listitem">
 Strappa, Giuseppe. <span>“Lettura del territorio”</span>. <em>Giuseppe
 Strappa</em>, 24 de setembro de 2013, <a
 href="http://www.giuseppestrappa.it/?p=2448">http://www.giuseppestrappa.it/?p=2448</a>.
 </div>
-<div id="ref-tuan:1980topofilia" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-tuan:1980topofilia" class="csl-entry" role="listitem">
 Tuan, Yi-fu. <em>Topofilia: um estudo da percepção, atitudes e valores
 do meio ambiente</em>. Traduzido por Lívia de Oliveira, Difel, 1980.
 </div>
 <div id="ref-venkataraman:2017hunter-gatherer114" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Venkataraman, Vivek V., et al. <span>“Hunter-Gatherer Residential
 Mobility and the Marginal Value of Rainforest Patches”</span>.
 <em>Proceedings of the National Academy of Sciences</em>, vol. 114, nº
 12, março de 2017, p. 3097–102. <em>www.pnas.org</em>, <a
 href="https://doi.org/10.1073/pnas.1617542114">https://doi.org/10.1073/pnas.1617542114</a>.
 </div>
-<div id="ref-vitruvio:2007tratado" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-vitruvio:2007tratado" class="csl-entry" role="listitem">
 Vitrúvio. <em>Tratado de arquitetura</em>. Traduzido por M. Justino
 Maciel, Martins Fontes, 2007.
 </div>

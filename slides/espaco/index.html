@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -94,10 +99,10 @@ físicos posicionados nesse espaço: pilares, lajes, divisórias, mobília,
 plantas e obras de arte diversas (fig. 1).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:on-cn">
 <img
 data-src="https://i.pinimg.com/originals/fd/67/d4/fd67d4dbfdf5650d652bc229a0c11499.png"
-id="fig:on-cn" class="line slide-bg"
+class="line slide-bg"
 alt="Oscar Niemeyer e Departamento de Arquitetura da Novacap, segundo anteprojeto para o andar nobre do Congresso Nacional, Brasília, 1957. Documentado por Elcio Gomes da Silva e José Manoel Morales Sánchez, 2009" />
 <figcaption aria-hidden="true">Oscar Niemeyer e Departamento de
 Arquitetura da Novacap, segundo anteprojeto para o andar nobre do
@@ -111,10 +116,10 @@ Gomes da Silva e José Manoel Morales Sánchez, 2009</a></figcaption>
 data-background-image="https://i.pinimg.com/originals/f0/e2/fd/f0e2fda773ec7a55f7cb009abc8868d9.jpg">
 <h2
 data-background-image="https://i.pinimg.com/originals/f0/e2/fd/f0e2fda773ec7a55f7cb009abc8868d9.jpg"></h2>
-<figure>
+<figure id="fig:salao-verde">
 <img
 data-src="https://i.pinimg.com/originals/f0/e2/fd/f0e2fda773ec7a55f7cb009abc8868d9.jpg"
-id="fig:salao-verde" class="slide-bg"
+class="slide-bg"
 alt="Oscar Niemeyer e Departamento de Arquitetura da Novacap, salão Verde do Congresso Nacional, Brasília, 1957–1960. Foto: Brasília na Trilha, 2015" />
 <figcaption aria-hidden="true">Oscar Niemeyer e Departamento de
 Arquitetura da Novacap, salão Verde do Congresso Nacional, Brasília,
@@ -146,10 +151,10 @@ data-background-size="contain">
 data-background-image="https://i.pinimg.com/originals/08/28/1a/08281ab3812d510d57ba634bf7b4cd71.jpg"
 data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:humanizada">
 <img
 data-src="https://i.pinimg.com/originals/27/32/c4/2732c422dc92adb5cada8ca302854ac3.jpg"
-id="fig:humanizada" class="slide-bg"
+class="slide-bg"
 alt="Planta “humanizada” de apartamento brasileiro contemporâneo" />
 <figcaption aria-hidden="true">Planta “humanizada” de apartamento
 brasileiro contemporâneo</figcaption>
@@ -172,10 +177,10 @@ data-background-position="contain">
 data-background-image="https://opcaoempreendimentos.com.br/wp-content/uploads/2019/09/FINAL-05-TERREO-1.jpg"
 data-background-position="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:uberlandia">
 <img
 data-src="https://opcaoempreendimentos.com.br/wp-content/uploads/2019/09/FINAL-05-TERREO-1.jpg"
-id="fig:uberlandia" class="slide-bg"
+class="slide-bg"
 alt="Planta de apartamento em Uberlândia. Opção Empreendimentos, 2021" />
 <figcaption aria-hidden="true">Planta de apartamento em Uberlândia. <a
 href="https://opcaoempreendimentos.com.br/empreendimento/residencial-jardim-brasilia/">Opção
@@ -207,10 +212,10 @@ data-background-size="contain"></h2>
 aquelas que revertem esse processo enclausuramento e compartimentação
 das plantas, trazendo mais fluidez para os espaços (figs. 5, 6).</p>
 </aside>
-<figure>
+<figure id="fig:coda-planta">
 <img
 data-src="https://sitecoda.s3.amazonaws.com/uploads/content_block/image/2119/PAG-B-Esquema-Planta_-_1200x800.gif"
-id="fig:coda-planta" class="nobg slide-bg"
+class="nobg slide-bg"
 alt="CoDA Arquitetos, apartamento 410 Norte, 2017, planta antes e depois" />
 <figcaption aria-hidden="true">CoDA Arquitetos, <a
 href="http://coda.arq.br/projetos/Apartamentos/apartamento-410n">apartamento
@@ -221,10 +226,10 @@ href="http://coda.arq.br/projetos/Apartamentos/apartamento-410n">apartamento
 data-background-image="https://sitecoda.s3.amazonaws.com/uploads/content_block/image/2096/180727_Apt_Grilo_133.jpg">
 <h2
 data-background-image="https://sitecoda.s3.amazonaws.com/uploads/content_block/image/2096/180727_Apt_Grilo_133.jpg"></h2>
-<figure>
+<figure id="fig:coda-vista">
 <img
 data-src="https://sitecoda.s3.amazonaws.com/uploads/content_block/image/2096/180727_Apt_Grilo_133.jpg"
-id="fig:coda-vista" class="slide-bg"
+class="slide-bg"
 alt="CoDA Arquitetos, apartamento 410 Norte, 2017, vista da sala e cozinha integradas após remoção de uma divisória" />
 <figcaption aria-hidden="true">CoDA Arquitetos, <a
 href="http://coda.arq.br/projetos/Apartamentos/apartamento-410n">apartamento
@@ -236,10 +241,10 @@ uma divisória</figcaption>
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/2560px-Planta_do_1_pavimento_do_Palacio_Monroe.jpg">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/2560px-Planta_do_1_pavimento_do_Palacio_Monroe.jpg"></h2>
-<figure>
+<figure id="fig:monroe-plan">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/2560px-Planta_do_1_pavimento_do_Palacio_Monroe.jpg"
-id="fig:monroe-plan" class="slide-bg"
+class="slide-bg"
 alt="Francisco Marcelino de Souza Aguiar, engenheiro, palácio Monroe, Rio de Janeiro, 1906. Planta do 1.º pavimento levantada em 1924" />
 <figcaption aria-hidden="true">Francisco Marcelino de Souza Aguiar,
 engenheiro, palácio Monroe, Rio de Janeiro, 1906. <a
@@ -275,10 +280,10 @@ continuidade espacial da arquitetura moderna. Destaca-se que o vazio é
 um conceito muito modernista, já que na arquitetura tradicional ele é
 considerado o nada, o que ainda não recebeu forma.</p>
 </aside>
-<figure>
+<figure id="fig:thdio-plan">
 <img
 data-src="https://i.pinimg.com/originals/4b/1a/7f/4b1a7fce1348fa77c0a380fdd33196f3.jpg"
-id="fig:thdio-plan" class="slide-bg"
+class="slide-bg"
 alt="Termas de Diocleciano, Roma, 298–306 d.C. Planta: Edmond Paulin, 1890" />
 <figcaption aria-hidden="true">Termas de Diocleciano, Roma, 298–306 d.C.
 Planta: <a
@@ -291,10 +296,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg"></h2>
 <div class="full">
-<figure>
+<figure id="fig:angeli">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg/1280px-IT-Roma-S_Maria_Angeli-150812-PP-2272.jpg"
-id="fig:angeli" class="slide-bg"
+class="slide-bg"
 alt="Miguel Ângelo Buonarroti, arquiteto, Santa Maria degli Angeli e Martiri, Roma, 1562, implantada no tepidário das termas de Diocleciano. Foto: Pedro P. Palazzo, 2015" />
 <figcaption aria-hidden="true">Miguel Ângelo Buonarroti, arquiteto,
 Santa Maria degli Angeli e Martiri, Roma, 1562, implantada no tepidário
@@ -355,10 +360,10 @@ data-background-size="contain" data-background-position="left">
 data-background-image="https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg"
 data-background-size="contain" data-background-position="left"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:sapienza-sec">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/SantIvo_Drawing_04.jpg/664px-SantIvo_Drawing_04.jpg"
-id="fig:sapienza-sec" class="slide-bg"
+class="slide-bg"
 alt="Sant’Ivo alla Sapienza, corte transversal por Dominique Barrière, c. 1695" />
 <figcaption aria-hidden="true">Sant’Ivo alla Sapienza, corte transversal
 por <a
@@ -403,10 +408,10 @@ Tal configuração garante certa transparência e integração, ainda que uma
 marcada distinção entre cada elemento como algo separado e identificável
 seja mantida (fig. 11).</p>
 </aside>
-<figure>
+<figure id="fig:sapienza-plan">
 <img
 data-src="https://i.pinimg.com/originals/ed/12/fb/ed12fb8a55803f1f2b0f222562f8a0a0.jpg"
-id="fig:sapienza-plan" class="slide-bg"
+class="slide-bg"
 alt="Francesso Borromini, Sant’Ivo alla Sapienza, 1642–1660. Planta por Dominique Barrière, 1720" />
 <figcaption aria-hidden="true">Francesso Borromini, Sant’Ivo alla
 Sapienza, 1642–1660. Planta por <a
@@ -421,10 +426,10 @@ data-background-position="bottom">
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg"
 data-background-position="bottom"></h2>
 <div class="full">
-<figure>
+<figure id="fig:sapienza-cortile">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Archivio_di_stato_di_Roma_-_panoramio.jpg/1280px-Archivio_di_stato_di_Roma_-_panoramio.jpg"
-id="fig:sapienza-cortile" class="slide-bg"
+class="slide-bg"
 alt="Pátio em frente a Sant’Ivo della Sapienza. Foto: Vlad Lesnov, 2010" />
 <figcaption aria-hidden="true">Pátio em frente a Sant’Ivo della
 Sapienza. Foto: <a
@@ -445,10 +450,10 @@ processo favorece.</p>
 <section id="hegel" class="slide level2">
 <h2>Hegel</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:hegel">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Georg_Wilhelm_Friedrich_Hegel_by_Julius_Ludwig_Sebbers.jpg/534px-Georg_Wilhelm_Friedrich_Hegel_by_Julius_Ludwig_Sebbers.jpg"
-id="fig:hegel" class="overlay-slide"
+class="overlay-slide"
 alt="G.W.F. Hegel no seu escritório, litografia por Julius Ludwig Sebbers, 1828" />
 <figcaption aria-hidden="true">G.W.F. Hegel no seu escritório,
 litografia por <a
@@ -499,10 +504,10 @@ como se estivesse em um estágio inferior do desenvolvimento
 artístico.</p>
 </dd>
 </dl>
-<figure>
+<figure id="fig:dendera-plan">
 <img
 data-src="https://i.pinimg.com/originals/f5/6b/59/f56b591ac95201074fb40f52727110a2.jpg"
-id="fig:dendera-plan" class="slide-bg"
+class="slide-bg"
 alt="Templo de Hathor, Dendera, iniciado em 54 a.C. Desenho: Auguste Mariette" />
 <figcaption aria-hidden="true">Templo de Hathor, Dendera, iniciado em 54
 a.C. Desenho: <a
@@ -514,10 +519,10 @@ Mariette</a></figcaption>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ceiling_of_Temple_of_Hathor.JPG/1280px-Ceiling_of_Temple_of_Hathor.JPG">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ceiling_of_Temple_of_Hathor.JPG/1280px-Ceiling_of_Temple_of_Hathor.JPG"></h2>
-<figure>
+<figure id="fig:dendera-teto">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ceiling_of_Temple_of_Hathor.JPG/1280px-Ceiling_of_Temple_of_Hathor.JPG"
-id="fig:dendera-teto" class="slide-bg"
+class="slide-bg"
 alt="Teto esculpido e pintado no templo de Hathor, Dendera. Foto:Fig Wright, 2011" />
 <figcaption aria-hidden="true">Teto esculpido e pintado no templo de
 Hathor, Dendera. Foto:<a
@@ -531,10 +536,10 @@ data-background-position="bottom">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG/1280px-Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG"
 data-background-position="bottom"></h2>
-<figure>
+<figure id="fig:paestum">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG/1280px-Visione_aerea_da_mongolfiera_dei_templi_di_Era_e_Poseidone.JPG"
-id="fig:paestum" class="slide-bg"
+class="slide-bg"
 alt="Templos de Hera em Paestum (Possidônia), séculos VI e V a.C. Foto: V. Alfano, 2012" />
 <figcaption aria-hidden="true">Templos de Hera em Paestum (Possidônia),
 séculos <span class="smallcaps">VI</span> e <span
@@ -558,10 +563,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c4/Akrop
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg"></h2>
 <div class="full">
-<figure>
+<figure id="fig:klenze-akro">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/c/c4/Akropolis_by_Leo_von_Klenze.jpg"
-id="fig:klenze-akro" class="slide-bg"
+class="slide-bg"
 alt="Leo von Klenze, Reconstituição da Acrópole de Atenas, 1846. Óleo sobre tela" />
 <figcaption aria-hidden="true">Leo von Klenze, Reconstituição da
 Acrópole de Atenas, 1846. Óleo sobre tela</figcaption>
@@ -575,10 +580,10 @@ data-background-video-muted="true">
 data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm"
 data-background-video-muted="true"></h2>
 <div class="full">
-<figure>
+<figure id="fig:pantheon-wtv">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm"
-id="fig:pantheon-wtv" class="slide-bg" controls=""><a
+class="slide-bg" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/arcos/Rome_Trevi_Fountain_and_Pantheon_Walking_Tour-bn6wLKU1XsM.webm">Apolodoro
 de Damasco, arquiteto, Panteão, Roma, 113–125 d.C. Vista do interior
 filmada por Wanderlust Travel Videos, 2021</a></video>
@@ -625,13 +630,15 @@ data-background-video-muted="true">
 <h2
 data-background-video="https://cdn.palazzo.arq.br/firmitas/arcos/The Amazing Hagia Sophia-130359681-720p-25fps.mp4"
 data-background-video-muted="true"></h2>
-<div id="fig:sophia-model" class="subfigures iframe-wrapper slide-bg">
+<figure id="fig:sophia-model"
+class="subfigures iframe-wrapper slide-bg">
 <iframe src="https://player.vimeo.com/video/130359681?h=74460fff34" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen>
 </iframe>
-<p><a href="https://vimeo.com/130359681">Modelo digital de Santa
-Sofia</a>. Realização: <a href="https://vimeo.com/juanalvarezeu">Juan
-Álvarez</a>. </p>
-</div>
+<figcaption><p><a href="https://vimeo.com/130359681">Modelo digital de
+Santa Sofia</a>. Realização:
+<a href="https://vimeo.com/juanalvarezeu">Juan Álvarez</a>.
+</p></figcaption>
+</figure>
 <aside class="notes">
 <p>Na arquitetura do sul da Ásia e da bacia do Mediterrâneo entre os
 séculos <span class="smallcaps">V</span> e <span
@@ -651,10 +658,10 @@ data-background-position="top">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9f/Daphni-Kuppel.jpg"
 data-background-position="top"></h2>
-<figure>
+<figure id="fig:daphni-kuppel">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Daphni-Kuppel.jpg/1024px-Daphni-Kuppel.jpg"
-id="fig:daphni-kuppel" class="slide-bg"
+class="slide-bg"
 alt="Cúpula da igreja do mosteiro de Dafni, Atenas, 1080. Foto: Ktiv, 2017" />
 <figcaption aria-hidden="true">Cúpula da igreja do mosteiro de Dafni,
 Atenas, 1080. Foto: <a
@@ -684,10 +691,10 @@ mesmo material representam a terra, onde se movimenta a congregação.
 fig. 21</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:franklin">
 <video
 data-src="https://cdn.palazzo.arq.br/utilitas/volumes/Hosios_Loukas-C-YiGCfSyNQ-1080p-30fps.webm"
-id="fig:franklin" class="slide-bg" controls=""><a
+class="slide-bg" controls=""><a
 href="https://cdn.palazzo.arq.br/utilitas/volumes/Hosios_Loukas-C-YiGCfSyNQ-1080p-30fps.webm">Naves
 das igrejas do mosteiro de São Lucas de Stiris, Grécia, 1011–1012.
 Filmagem: René e Sylvie Franklin, 2018</a></video>
@@ -704,10 +711,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/schultz-luke-nicholas-pl33-gri_33125007838036_0165-1080p.jpg"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:schultz-pl33">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/schultz-luke-nicholas-pl33-gri_33125007838036_0165-1080p.jpg"
-id="fig:schultz-pl33" class="slide-bg"
+class="slide-bg"
 alt="Detalhe do piso da igreja menor, mosteiro de São Lucas de Stiris, Grécia, c. 960. Desenho em Robert Schultz e Sidney Barnsley, The Monastery of Saint Luke of Stiris…, 1901" />
 <figcaption aria-hidden="true">Detalhe do piso da igreja menor, mosteiro
 de São Lucas de Stiris, Grécia, c. 960. Desenho em <a
@@ -754,10 +761,10 @@ maior (<em>katholikon</em>) já no início do século <span
 class="smallcaps">XI</span>. fig. 23</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:loukas-plans">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/schultz-luke-nicholas-pl01-gri_33125007838036_0094.png"
-id="fig:loukas-plans" class="line slide-bg"
+class="line slide-bg"
 alt="Igrejas do mosteiro de São Lucas de Stiris, Grécia, c. 960 e 1011–1012. Planta em Robert Schultz e Sidney Barnsley, The Monastery of Saint Luke of Stiris…, 1901" />
 <figcaption aria-hidden="true">Igrejas do mosteiro de São Lucas de
 Stiris, Grécia, c. 960 e 1011–1012. Planta em <a
@@ -774,12 +781,14 @@ data-background-video-muted="true" data-background-video-loop="true">
 data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/Daphni_Medieval_Monastery-1080p-25fps.webm"
 data-background-video-muted="true"
 data-background-video-loop="true"></h2>
-<div id="fig:daphni-drone" class="subfigures iframe-wrapper slide-bg">
+<figure id="fig:daphni-drone"
+class="subfigures iframe-wrapper slide-bg">
 <iframe width="1600" height="900" src="https://www.youtube-nocookie.com/embed/cWRUfjYoTR8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Igreja do mosteiro de Dafní, Atenas, reconstruída c. 1050. Filmagem:
-<a href="https://youtu.be/cWRUfjYoTR8">Yannis Tzitzas, 2019</a>. </p>
-</div>
+<figcaption><p>Igreja do mosteiro de Dafní, Atenas, reconstruída
+c. 1050. Filmagem: <a href="https://youtu.be/cWRUfjYoTR8">Yannis
+Tzitzas, 2019</a>. </p></figcaption>
+</figure>
 <aside class="notes">
 <p>A definição espacial se volta sobretudo para o interior da
 edificação. A volumetria externa da construção acomoda, então, todos os
@@ -819,10 +828,10 @@ forma de cruz latina com três naves, e entre esses dois elementos um
 <em>Westwerk</em> — literalmente “obra ocidental”. figs. 25, 26</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:centula-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Plan_st-riquier_centula.svg/1700px-Plan_st-riquier_centula.svg.png"
-id="fig:centula-plan" class="line slide-bg"
+class="line slide-bg"
 alt="Planta reconstituída da igreja na abadia de São Ricário (Cêntula), França, 790–799. Desenho: JMaxR, 2009" />
 <figcaption aria-hidden="true">Planta reconstituída da igreja na abadia
 de São Ricário (Cêntula), França, 790–799. Desenho: <a
@@ -838,10 +847,10 @@ data-background-size="contain">
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Plan_abbaye_corvey.svg/2442px-Plan_abbaye_corvey.svg.png"
 data-background-size="contain"></h2>
 <div class="full">
-<figure>
+<figure id="fig:corvey-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Plan_abbaye_corvey.svg/2442px-Plan_abbaye_corvey.svg.png"
-id="fig:corvey-plan" class="line slide-bg"
+class="line slide-bg"
 alt="Planta reconstituída da igreja na abadia de Corvey, Alemanha, 873–885. Desenho: JMaxR, 2009" />
 <figcaption aria-hidden="true">Planta reconstituída da igreja na abadia
 de Corvey, Alemanha, 873–885. Desenho: <a
@@ -861,10 +870,10 @@ data-background-video-muted="true"></h2>
 fachada tão incrementada que vira o seu próprio edifício, como o da
 abadia de Corvey, no norte da Alemanha (fig. 27).</p>
 </aside>
-<figure>
+<figure id="fig:corvey-drone">
 <video
 data-src="https://cdn.palazzo.arq.br/utilitas/volumes/Flying_over_Schloss_Corvey-SIwTyzdS97k-1080p-25fps.webm"
-id="fig:corvey-drone" class="slide-bg" controls=""><a
+class="slide-bg" controls=""><a
 href="https://cdn.palazzo.arq.br/utilitas/volumes/Flying_over_Schloss_Corvey-SIwTyzdS97k-1080p-25fps.webm">Vista
 aérea do castelo de Corvey. Filmagem: Obele Skywalker, 2016</a></video>
 <figcaption aria-hidden="true">Vista aérea do castelo de Corvey.
@@ -874,24 +883,22 @@ Filmagem: <a href="https://youtu.be/SIwTyzdS97k">Obele Skywalker,
 </section>
 <section id="section-28" class="slide level2">
 <h2></h2>
-<div id="fig:corvey-west" class="subfigures columns full">
+<figure id="fig:corvey-west" class="subfigures columns full">
 <div class="column" style="width:52%;">
-<figure>
-<img
+<p><img
 data-src="https://welterbewestwerkcorvey.de/wp-content/uploads/corvey-modell-004.jpg"
-id="fig:corvey-westA" />
-</figure>
-</div><div class="column" style="width:48%;">
-<figure>
-<img
-data-src="https://welterbewestwerkcorvey.de/wp-content/uploads/corvey-modell-003.jpg"
-id="fig:corvey-westB" />
-</figure>
-</div><p><em>Westwerk</em> da igreja na abadia de Corvey, Alemanha,
-873–885. Maquete: <a
-href="https://welterbewestwerkcorvey.de/faszinierende-ideenwelt-der-karolinger/">Fundação
-Welterbe-Westwerk-Corvey</a>. </p>
+id="fig:corvey-westA" /></p>
 </div>
+<div class="column" style="width:48%;">
+<p><img
+data-src="https://welterbewestwerkcorvey.de/wp-content/uploads/corvey-modell-003.jpg"
+id="fig:corvey-westB" /></p>
+</div>
+<figcaption><p><em>Westwerk</em> da igreja na abadia de Corvey,
+Alemanha, 873–885. Maquete: <a
+href="https://welterbewestwerkcorvey.de/faszinierende-ideenwelt-der-karolinger/">Fundação
+Welterbe-Westwerk-Corvey</a>. </p></figcaption>
+</figure>
 </section>
 <section id="section-29" class="slide level2"
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png"
@@ -899,10 +906,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:philibert-choisy">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/3/39/Saint-Philibert_Tournus_in_Auguste_Choisy_bpt6k6584016q_213.png"
-id="fig:philibert-choisy" class="line slide-bg"
+class="line slide-bg"
 alt="Igreja da abadia de Saint-Philibert, Tournus, 928–1120. Vista isométrica dos módulos estruturais das naves, segundo Auguste Choisy, 1899" />
 <figcaption aria-hidden="true">Igreja da abadia de Saint-Philibert,
 Tournus, 928–1120. Vista isométrica dos módulos estruturais das naves,
@@ -931,10 +938,10 @@ pouco, ao longo de muitos anos. Com isso, uma comunidade pode construir
 igrejas muito grandes ao longo de décadas, sem risco para a estabilidade
 da obra inacabada (fig. 30).</p>
 </aside>
-<figure>
+<figure id="fig:philibert-sec">
 <img
 data-src="https://i.pinimg.com/originals/c1/cd/75/c1cd75cfc7ea9e88a6ddae1d4ead5b98.png"
-id="fig:philibert-sec" class="slide-bg"
+class="slide-bg"
 alt="Igreja da abadia de Saint-Philibert, Tournus, 928–1120, segundo Jean Virey, 1903" />
 <figcaption aria-hidden="true">Igreja da abadia de Saint-Philibert,
 Tournus, 928–1120, segundo <a
@@ -948,10 +955,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TournusPlan.png/2560px-TournusPlan.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:philibert-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/TournusPlan.png/1024px-TournusPlan.png"
-id="fig:philibert-plan" class="slide-bg"
+class="slide-bg"
 alt="Saint-Philibert, Tournus, planta com fases sucessivas da construção. Desenho: J. Chancerel, 2018" />
 <figcaption aria-hidden="true">Saint-Philibert, Tournus, planta com
 fases sucessivas da construção. Desenho: <a
@@ -963,10 +970,10 @@ Chancerel, 2018</a></figcaption>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tournus_-_Saint-Philibert_de_Tournus_Abbey_-_04.JPG/2560px-Tournus_-_Saint-Philibert_de_Tournus_Abbey_-_04.JPG">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tournus_-_Saint-Philibert_de_Tournus_Abbey_-_04.JPG/2560px-Tournus_-_Saint-Philibert_de_Tournus_Abbey_-_04.JPG"></h2>
-<figure>
+<figure id="fig:philibert-nef">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Tournus_-_Saint-Philibert_de_Tournus_Abbey_-_04.JPG/1024px-Tournus_-_Saint-Philibert_de_Tournus_Abbey_-_04.JPG"
-id="fig:philibert-nef" class="slide-bg"
+class="slide-bg"
 alt="Saint-Philibert, Tournus, vista da nave central. Foto: Christophe Finot, 2014" />
 <figcaption aria-hidden="true">Saint-Philibert, Tournus, vista da nave
 central. Foto: <a
@@ -986,10 +993,10 @@ Finot, 2014</a></figcaption>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg"></h2>
-<figure>
+<figure id="fig:amiens">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg/1280px-Amiens_Cathédrale_Notre-Dame_Innen_Langhaus_West_2.jpg"
-id="fig:amiens" class="slide-bg"
+class="slide-bg"
 alt="Robert de Luzarches, arquiteto, depois Thomas e Renaud de Cormont, chefes de canteiro. Nave da catedral de Amiens, 1220–1270. Foto: Zairon, 2018" />
 <figcaption aria-hidden="true">Robert de Luzarches, arquiteto, depois
 Thomas e Renaud de Cormont, chefes de canteiro. Nave da catedral de
@@ -1035,10 +1042,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:temple40">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IA_Temple_40_Sanchi_transparent_bg.png"
-id="fig:temple40" class="line nobg slide-bg"
+class="line nobg slide-bg"
 alt="Reconstituição do Templo 40 em Sāñcī, segundo Percy Brown, 1959" />
 <figcaption aria-hidden="true">Reconstituição do Templo 40 em Sāñcī,
 segundo <a
@@ -1050,10 +1057,10 @@ Brown, 1959</a></figcaption>
 data-background-image="https://i.pinimg.com/originals/8f/df/7e/8fdf7e39d8f32c9e45f0d5980012bc5d.jpg">
 <h2
 data-background-image="https://i.pinimg.com/originals/8f/df/7e/8fdf7e39d8f32c9e45f0d5980012bc5d.jpg"></h2>
-<figure>
+<figure id="fig:lomas-portal">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg/1024px-Barabar_Caves_-_Lomas_Rishi_Cave_(9227394172).jpg"
-id="fig:lomas-portal" class="slide-bg"
+class="slide-bg"
 alt="Portal da caverna de Lomas Ṛṣi, Bihar, 250–185 a.C. Foto: Photo Dharma, 2013" />
 <figcaption aria-hidden="true">Portal da caverna de Lomas Ṛṣi, Bihar,
 250–185 a.C. Foto: <a
@@ -1067,10 +1074,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://i.pinimg.com/originals/1e/09/97/1e0997b4a3a7893313b6e6336a45546d.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:lomas-3d">
 <img
 data-src="https://i.pinimg.com/originals/1e/09/97/1e0997b4a3a7893313b6e6336a45546d.png"
-id="fig:lomas-3d" class="nobg line slide-bg"
+class="nobg line slide-bg"
 alt="Volumetria da caverna de Lomas Ṛṣi. Desenho: Percy Brown, 1959" />
 <figcaption aria-hidden="true">Volumetria da caverna de Lomas Ṛṣi.
 Desenho: <a
@@ -1083,10 +1090,10 @@ data-background-image="https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415
 <h2
 data-background-image="https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png"></h2>
 <div class="full">
-<figure>
+<figure id="fig:palaces-coo">
 <img
 data-src="https://i.pinimg.com/originals/fc/da/d3/fcdad35c02cbd2415f832e0253d0b243.png"
-id="fig:palaces-coo" class="line nobg slide-bg"
+class="line nobg slide-bg"
 alt="Palácios representados em relevos em Sāñchī, Amaravātī e Mathurā, reproduzidos por Coomaraswamy" />
 <figcaption aria-hidden="true">Palácios representados em relevos em
 Sāñchī, Amaravātī e Mathurā, reproduzidos por Coomaraswamy</figcaption>
@@ -1100,10 +1107,10 @@ data-background-size="contain">
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg"
 data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:prasenajit-sanci">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg/946px-Procession_of_Prasenajit_of_Kosala_leaving_Sravasti_to_meet_the_Buddha.jpg"
-id="fig:prasenajit-sanci" class="slide-bg"
+class="slide-bg"
 alt="Procissão de Prasenajit de Kosala deixando Saravasti para se encontrar com o Buda, relevo na toraṇa norte da estupa 1 em Sāñcī, 50–25 a.C. Foto: Biswarup Ganguly, 2017" />
 <figcaption aria-hidden="true">Procissão de Prasenajit de Kosala
 deixando Saravasti para se encontrar com o Buda, relevo na
@@ -1129,10 +1136,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://i.pinimg.com/originals/1f/eb/41/1feb416bd30829c3a24309b276064069.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:coo24-26">
 <img
 data-src="https://i.pinimg.com/originals/1f/eb/41/1feb416bd30829c3a24309b276064069.png"
-id="fig:coo24-26" class="line nobg slide-bg"
+class="line nobg slide-bg"
 alt="Representação de palácios em Amarāvatī e Kāṭhiāwāṛ, reproduzidas por Coomaraswamy" />
 <figcaption aria-hidden="true">Representação de palácios em Amarāvatī e
 Kāṭhiāwāṛ, reproduzidas por Coomaraswamy</figcaption>
@@ -1143,10 +1150,10 @@ data-background-image="https://live.staticflickr.com/3871/33813012975_1a49cd881f
 <h2
 data-background-image="https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg"></h2>
 <div class="full">
-<figure>
+<figure id="fig:kusinagara-sanci">
 <img
 data-src="https://live.staticflickr.com/3871/33813012975_1a49cd881f_k_d.jpg"
-id="fig:kusinagara-sanci" class="slide-bg"
+class="slide-bg"
 alt="Cidade de Kuśināgarā, cena da guerra das relíquias, relevo na toraṇa (portada) sul da estupa 1 em Sāñcī, Madhya Pradesh, reinado de Sātakaṇi II, 50–25 a.C. Foto: Anandajoti Bhikku, 2017" />
 <figcaption aria-hidden="true">Cidade de Kuśināgarā, cena da guerra das
 relíquias, relevo na <em>toraṇa</em> (portada) sul da estupa 1 em Sāñcī,
@@ -1162,10 +1169,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:kusinagar-brown">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/7/71/Conjectural_reconstruction_of_the_main_gate_of_Kusinagara_circa_500_BCE_adapted_from_a_relief_at_Sanchi.png"
-id="fig:kusinagar-brown" class="line nobg slide-bg"
+class="line nobg slide-bg"
 alt="Reconstituição do portão da cidade de Kuśināgarā segundo Percy Brown, 1959" />
 <figcaption aria-hidden="true">Reconstituição do portão da cidade de
 Kuśināgarā segundo <a
@@ -1181,10 +1188,10 @@ data-background-size="contain">
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg"
 data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:rajagriha-sanci">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg/792px-Bimbisara_with_his_royal_cortege_issuing_from_the_city_of_Rajagriha_to_visit_the_Buddha.jpg"
-id="fig:rajagriha-sanci" class="slide-bg"
+class="slide-bg"
 alt="Rei Bimbisara partindo de Rajāgṛha para visitar o Buda, relevo na toraṇa sul da estupa 1 em Sāñcī, 50–25 a.C. Foto: Biswarup Ganguly, 2017" />
 <figcaption aria-hidden="true">Rei Bimbisara partindo de Rajāgṛha para
 visitar o Buda, relevo na <em>toraṇa</em> sul da estupa 1 em Sāñcī,
@@ -1198,10 +1205,10 @@ Ganguly, 2017</a></figcaption>
 data-background-image="https://i.pinimg.com/originals/83/56/94/8356949968a0413e38ca504f22a3a184.png">
 <h2
 data-background-image="https://i.pinimg.com/originals/83/56/94/8356949968a0413e38ca504f22a3a184.png"></h2>
-<figure>
+<figure id="fig:coo-01-02">
 <img
 data-src="https://i.pinimg.com/originals/b2/79/8d/b2798dfb10382c238d932ee02daa1700.png"
-id="fig:coo-01-02" class="line nobg slide-bg"
+class="line nobg slide-bg"
 alt="Reconstituição de um portão de cidade indiana antiga, por Coomaraswamy. Níveis superiores" />
 <figcaption aria-hidden="true">Reconstituição de um portão de cidade
 indiana antiga, por Coomaraswamy. Níveis superiores</figcaption>
@@ -1211,10 +1218,10 @@ indiana antiga, por Coomaraswamy. Níveis superiores</figcaption>
 data-background-image="https://i.pinimg.com/originals/b2/79/8d/b2798dfb10382c238d932ee02daa1700.png">
 <h2
 data-background-image="https://i.pinimg.com/originals/b2/79/8d/b2798dfb10382c238d932ee02daa1700.png"></h2>
-<figure>
+<figure id="fig:coo-03">
 <img
 data-src="https://i.pinimg.com/originals/83/56/94/8356949968a0413e38ca504f22a3a184.png"
-id="fig:coo-03" class="line nobg slide-bg"
+class="line nobg slide-bg"
 alt="Reconstituição de um portão de cidade indiana antiga, por Coomaraswamy. Nível térreo" />
 <figcaption aria-hidden="true">Reconstituição de um portão de cidade
 indiana antiga, por Coomaraswamy. Nível térreo</figcaption>
@@ -1225,10 +1232,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG/1280px-Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:promenade">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg"
-id="fig:promenade" class="slide-bg"
+class="slide-bg"
 alt="Relevo na passarela elevada da estupa 1 em Sāñcī, 50–25 a.C. Foto: Photo Dharma, 2017" />
 <figcaption aria-hidden="true">Relevo na passarela elevada da estupa 1
 em Sāñcī, 50–25 a.C. Foto: <a
@@ -1244,10 +1251,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg/971px-Aerial_promenade_of_the_Buddha_Sanchi_Stupa_1_Northern_Gateway.jpg"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:heavenly-sanci">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG/1280px-Heavenly_Scene_-_East_Face_-_North_Pillar_-_East_Gateway_-_Stupa_1_-_Sanchi_Hill_2013-02-21_4428.JPG"
-id="fig:heavenly-sanci" class="slide-bg"
+class="slide-bg"
 alt="Cena celestial, toraṇa leste da estupa 1 em Sāñcī, 50–25 a.C. Foto: Biswarup Ganguly, 2017" />
 <figcaption aria-hidden="true">Cena celestial, <em>toraṇa</em> leste da
 estupa 1 em Sāñcī, 50–25 a.C. Foto: <a
@@ -1284,10 +1291,10 @@ não precisam de um amplo espaço interior. A volumetria externa é
 priorizada (fig. 47).</p>
 </aside>
 <div class="align-right">
-<figure>
+<figure id="fig:ajanta-sec">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/6/6c/Ajanta_cave_10_section-Fergusson-Handbook_01_0094.png"
-id="fig:ajanta-sec" class="line slide-bg"
+class="line slide-bg"
 alt="Gruta n.º 10, Ajanta, Mahārashtra, oeste da Índia, século I a.C. Corte transversal por James Fergusson, Illustrated Handbook of Architecture v. 1" />
 <figcaption aria-hidden="true">Gruta n.º 10, Ajanta, Mahārashtra, oeste
 da Índia, século <span class="smallcaps">I</span> a.C. Corte transversal
@@ -1304,10 +1311,10 @@ data-background-size="contain">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/f/f5/Karli_Chaitya_section_in_perspective.png"
 data-background-size="contain"></h2>
-<figure>
+<figure id="fig:karli">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Karli_Chaitya_section_in_perspective.png/1024px-Karli_Chaitya_section_in_perspective.png"
-id="fig:karli" class="line slide-bg"
+class="line slide-bg"
 alt="Salão chaitya maior nas grutas budistas de Karli, Mahārashtra, oeste da Índia, 50–70 e 120 d.C. Corte perspectivado por Percy Brown, 1959" />
 <figcaption aria-hidden="true">Salão <em>chaitya</em> maior nas grutas
 budistas de Karli, Mahārashtra, oeste da Índia, 50–70 e 120 d.C. Corte
@@ -1333,10 +1340,10 @@ congregação.</p>
 data-background-image="https://i.pinimg.com/originals/82/d6/30/82d63016c9696040cdebb7d19d3c039c.jpg">
 <h2
 data-background-image="https://i.pinimg.com/originals/82/d6/30/82d63016c9696040cdebb7d19d3c039c.jpg"></h2>
-<figure>
+<figure id="fig:ellora-15">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Ellora,_grotta_15,_hinduista,_550-800_dc_ca.,_interno_03.jpg/1024px-Ellora,_grotta_15,_hinduista,_550-800_dc_ca.,_interno_03.jpg"
-id="fig:ellora-15" class="slide-bg"
+class="slide-bg"
 alt="Gruta hinduísta n.º 15, Ellora, Mahārashtra, c. 550–800. Foto: Sailko, 2019" />
 <figcaption aria-hidden="true">Gruta hinduísta n.º 15, Ellora,
 Mahārashtra, c. 550–800. Foto: <a
@@ -1348,10 +1355,10 @@ href="https://commons.wikimedia.org/wiki/File:Ellora,_grotta_15,_hinduista,_550-
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Elephanta_Map.svg/2560px-Elephanta_Map.svg.png">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Elephanta_Map.svg/2560px-Elephanta_Map.svg.png"></h2>
-<figure>
+<figure id="fig:eleph-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Elephanta_Map.svg/1280px-Elephanta_Map.svg.png"
-id="fig:eleph-plan" class="line slide-bg"
+class="line slide-bg"
 alt="Gruta maior hinduísta, complexo hindu-budista de Elephanta, Mahārashtra, c. 550. Planta por TheMandarin, 2010" />
 <figcaption aria-hidden="true">Gruta maior hinduísta, complexo
 hindu-budista de Elephanta, Mahārashtra, c. 550. Planta por <a
@@ -1373,13 +1380,13 @@ data-background-video-muted="true">
 <h2
 data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/Elephanta_Caves_Mumbai_Unesco_India-DxIS4uYiq7E-2160p-30fps.webm"
 data-background-video-muted="true"></h2>
-<div id="fig:eleph-vid" class="subfigures iframe-wrapper slide-bg">
+<figure id="fig:eleph-vid" class="subfigures iframe-wrapper slide-bg">
 <iframe width="1600" height="900" src="https://www.youtube.com/embed/DxIS4uYiq7E?start=34" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Passeio pela gruta hinduísta de Elephanta. Filmagem: <a
+<figcaption><p>Passeio pela gruta hinduísta de Elephanta. Filmagem: <a
 href="https://youtu.be/DxIS4uYiq7E?t=34">Wonderliv Travel, 2018</a>.
-</p>
-</div>
+</p></figcaption>
+</figure>
 <!--
    -## {data-background-image="https://upload.wikimedia.org/wikipedia/commons/9/95/Plan_of_the_Kylas_Fergusson_Handbook_01_0168.png" data-background-size="contain"}
    -
@@ -1394,10 +1401,10 @@ data-background-size="contain">
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/stierlin-50-ellora_templo_16_kailasa.jpg"
 data-background-size="contain"></h2>
 <div class="full">
-<figure>
+<figure id="fig:kailas-stierlin">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/stierlin-50-ellora_templo_16_kailasa.jpg"
-id="fig:kailas-stierlin" class="slide-bg"
+class="slide-bg"
 alt="Plantas e cortes do Kailaśanath em Ellora. Desenho em Henri Stierlin, Índia hindu" />
 <figcaption aria-hidden="true">Plantas e cortes do Kailaśanath em
 Ellora. Desenho em Henri Stierlin, <em>Índia hindu</em></figcaption>
@@ -1408,10 +1415,10 @@ Ellora. Desenho em Henri Stierlin, <em>Índia hindu</em></figcaption>
 data-background-image="https://i.pinimg.com/originals/73/33/45/733345f3f4f26e076c4e9931771b1020.jpg">
 <h2
 data-background-image="https://i.pinimg.com/originals/73/33/45/733345f3f4f26e076c4e9931771b1020.jpg"></h2>
-<figure>
+<figure id="fig:ellora-kai-mandapa">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Ellora,_tempio_kailasanatha_(grotta_16),_750-775_dc_ca.,_tempio_di_shiva,_piano_superiore,_interno_01.jpg/1024px-Ellora,_tempio_kailasanatha_(grotta_16),_750-775_dc_ca.,_tempio_di_shiva,_piano_superiore,_interno_01.jpg"
-id="fig:ellora-kai-mandapa" class="slide-bg"
+class="slide-bg"
 alt="Mandapa de Shiva, Kailaśanath, Ellora. Foto: Sailko, 2019" />
 <figcaption aria-hidden="true">Mandapa de Shiva, Kailaśanath, Ellora.
 Foto: <a
@@ -1430,13 +1437,13 @@ data-background-video-muted="true"></h2>
 <p>Os templos com espaço interno muito pequeno ou mesmo inexistente são
 mais comuns no sul da Índia, na região tâmil.</p>
 </aside>
-<div id="fig:shore-vid" class="subfigures iframe-wrapper slide-bg">
+<figure id="fig:shore-vid" class="subfigures iframe-wrapper slide-bg">
 <iframe width="1600" height="900" src="https://www.youtube.com/embed/5vBG-a2e8fo?start=68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Templo da orla, Mahaballipuram. Filmagem: <a
+<figcaption><p>Templo da orla, Mahaballipuram. Filmagem: <a
 href="https://youtu.be/5vBG-a2e8fo?t=68">Rajinikanth, My Travelling
-Chronicles, 2021</a>. </p>
-</div>
+Chronicles, 2021</a>. </p></figcaption>
+</figure>
 </section>
 <section id="section-55" class="slide level2"
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/Shore_temple_floor_plan_Mahabalipuram_Tamil_Nadu-2560px.png"
@@ -1445,10 +1452,10 @@ data-background-size="contain">
 data-background-image="https://hcommons.org/app/uploads/sites/1002372/2021/09/Shore_temple_floor_plan_Mahabalipuram_Tamil_Nadu-2560px.png"
 data-background-size="contain"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:shore-plan">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/Shore_temple_floor_plan_Mahabalipuram_Tamil_Nadu-2560px-v.png"
-id="fig:shore-plan" class="line slide-bg"
+class="line slide-bg"
 alt="Templo da orla, Mahaballipuram, reino Pallava, primeiro quartel do século VIII. Planta: Sarah Welch, 2021" />
 <figcaption aria-hidden="true">Templo da orla, Mahaballipuram, reino
 Pallava, primeiro quartel do século <span class="smallcaps">VIII</span>.
@@ -1468,10 +1475,10 @@ apresenta um volume verticalizado muito marcante (fig. 54).</p>
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7d/Panja_pandava_ratham.jpg">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/7/7d/Panja_pandava_ratham.jpg"></h2>
-<figure>
+<figure id="fig:panja-ratham">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Panja_pandava_ratham.jpg/1024px-Panja_pandava_ratham.jpg"
-id="fig:panja-ratham" class="slide-bg"
+class="slide-bg"
 alt="Pancha ratham (cinco carros), Mahaballipuram, c. 630. Foto: G. Saravanan, 2007" />
 <figcaption aria-hidden="true">Pancha ratham (cinco carros),
 Mahaballipuram, c. 630. Foto: <a
@@ -1484,43 +1491,53 @@ Saravanan, 2007</a></figcaption>
 </section>
 <section id="section-57" class="slide level2">
 <h2></h2>
-<div id="fig:meta" class="subfigures r-stack">
-<figure>
+<figure id="fig:meta" class="subfigures r-stack">
+<figure id="fig:metaA">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/bharne_krusche-rediscovering_the_hindu_temple-2012-023-a.jpg"
-id="fig:metaA" class="align-left fragment current-visible" />
+class="align-left fragment current-visible"
+alt="marco sagrado sob uma árvore" />
+<figcaption></figcaption>
 </figure>
-<figure>
+<figure id="fig:metaB">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/bharne_krusche-rediscovering_the_hindu_temple-2012-023-b.jpg"
-id="fig:metaB" class="align-left fragment current-visible" />
+class="align-left fragment current-visible"
+alt="o marco é convertido num pequeno oratório" />
+<figcaption></figcaption>
 </figure>
 <div class="align-right">
-<figure>
+<figure id="fig:metaC">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/bharne_krusche-rediscovering_the_hindu_temple-2012-023-c.jpg"
-id="fig:metaC" class="fragment current-visible" />
+class="fragment current-visible"
+alt="oratório ampliado com cobertura efêmera; o lugar se torna um ponto focal da comunidade" />
+<figcaption></figcaption>
 </figure>
 </div>
-<figure>
+<figure id="fig:metaD">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/bharne_krusche-rediscovering_the_hindu_temple-2012-023-d.jpg"
-id="fig:metaD" class="fragment current-visible" />
+class="fragment current-visible"
+alt="o oratório é ampliado para se tornar um templo rudimentar" />
+<figcaption></figcaption>
 </figure>
-<figure>
+<figure id="fig:metaE">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/bharne_krusche-rediscovering_the_hindu_temple-2012-023-e.jpg"
-id="fig:metaE" class="fragment current-visible" />
+class="fragment current-visible"
+alt="o lugar sagrado persiste mesmo após a morte da árvore; o templo é ampliado e o entorno se urbaniza" />
+<figcaption></figcaption>
 </figure>
-<p>Esquema de sucessão num lugar sagrado. Desenhos de Vinayak Bharne e
-Komal Panjwani, em Vinayak Bharne e Krupali Krusche, <em>Rediscovering
-the Hindu Temple</em>. a – marco sagrado sob uma árvore, b – o marco é
-convertido num pequeno oratório, c – oratório ampliado com cobertura
-efêmera; o lugar se torna um ponto focal da comunidade, d – o oratório é
-ampliado para se tornar um templo rudimentar, e – o lugar sagrado
-persiste mesmo após a morte da árvore; o templo é ampliado e o entorno
-se urbaniza</p>
-</div>
+<figcaption><p>Esquema de sucessão num lugar sagrado. Desenhos de
+Vinayak Bharne e Komal Panjwani, em Vinayak Bharne e Krupali Krusche,
+<em>Rediscovering the Hindu Temple</em>. a – marco sagrado sob uma
+árvore, b – o marco é convertido num pequeno oratório, c – oratório
+ampliado com cobertura efêmera; o lugar se torna um ponto focal da
+comunidade, d – o oratório é ampliado para se tornar um templo
+rudimentar, e – o lugar sagrado persiste mesmo após a morte da árvore; o
+templo é ampliado e o entorno se urbaniza</p></figcaption>
+</figure>
 </section>
 <section id="section-58" class="slide level2">
 <h2></h2>
@@ -1698,11 +1715,10 @@ todas as formas tangíveis dos tipos edilícios a sete propósitos sociais
 abstratos (fig. 58).</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:7types">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png"
-id="fig:7types" class="nobg"
-alt="Sete tipos edilícios. Baseado em Westfall, 1991" />
+class="nobg" alt="Sete tipos edilícios. Baseado em Westfall, 1991" />
 <figcaption aria-hidden="true">Sete tipos edilícios. Baseado em
 Westfall, 1991</figcaption>
 </figure>
@@ -1710,10 +1726,10 @@ Westfall, 1991</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:palladio-hersey-freedam">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/Glossary_Palladio.png"
-id="fig:palladio-hersey-freedam" class="line"
+class="line"
 alt="Andrea Palladio, arquiteto, esquemas de composição de diferentes ville segundo Hersey e Freedam" />
 <figcaption aria-hidden="true">Andrea Palladio, arquiteto, esquemas de
 composição de diferentes <em>ville</em> segundo Hersey e
@@ -1742,10 +1758,9 @@ Blondel)</span>.</p>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:durand-rp054">
 <img
 data-src="https://digi.ub.uni-heidelberg.de/diglitData/image/durand1802/1/Planche_54.jpg"
-id="fig:durand-rp054"
 alt="Comparação de palácios romanos e genoveses dos séculos XVI–XVIII. Desenhados por J.N.L. Durand, Recueil et parallèle des édifices de tout genre…, pr. 54" />
 <figcaption aria-hidden="true">Comparação de palácios romanos e
 genoveses dos séculos <span class="smallcaps">XVI–XVIII</span>.
@@ -1773,10 +1788,10 @@ leçons d’architecture données à l’École polytechnique</em>; Durand,
 um modo de dar um <em>reset</em> nos propósitos fundamentais da
 arquitetura.</p>
 </aside>
-<figure>
+<figure id="fig:durand-pg128">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/partiegraphiqued00dura_0128-1080p.png"
-id="fig:durand-pg128" class="line"
+class="line"
 alt="J.N.L. Durand, resolução de composições para edifícios privados com proporção de 3:1 nos vãos. Partie graphique des cours d’architecture…" />
 <figcaption aria-hidden="true">J.N.L. Durand, resolução de composições
 para edifícios privados com proporção de 3:1 nos vãos. <a
@@ -1786,10 +1801,10 @@ graphique des cours d’architecture…</em></a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:durand-pg060">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/partiegraphiqued00dura_0060-1080p.png"
-id="fig:durand-pg060" class="line"
+class="line"
 alt="J.N.L. Durand, edifícios planejados sobre grelha uniforme. Partie graphique des cours d’architecture…" />
 <figcaption aria-hidden="true">J.N.L. Durand, edifícios planejados sobre
 grelha uniforme. <a
@@ -1842,10 +1857,10 @@ data-background-video-muted="true" data-background-video-loop="true">
 data-background-video="https://cdn.palazzo.arq.br/utilitas/volumes/helio-pinon-modelos-de-ensenanza.webm"
 data-background-video-muted="true"
 data-background-video-loop="true"></h2>
-<figure>
+<figure id="fig:pinon">
 <video
 data-src="https://cdn.palazzo.arq.br/utilitas/volumes/helio-pinon-modelos-de-ensenanza.webm"
-id="fig:pinon" class="slide-bg" controls=""><a
+class="slide-bg" controls=""><a
 href="https://cdn.palazzo.arq.br/utilitas/volumes/helio-pinon-modelos-de-ensenanza.webm">Helio
 Piñón no Congresso Internacional EAUCLM–T, 2011</a></video>
 <figcaption aria-hidden="true">Helio Piñón no <a
@@ -1893,10 +1908,9 @@ com elementos predefinidos.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:perrault">
 <img
 data-src="https://i.pinimg.com/originals/6d/62/96/6d62960e999f829e35f6716fc34dfb07.jpg"
-id="fig:perrault"
 alt="Claude Perrault, Ordem das cinco espécies de colunas segundo o método dos Antigos, 1683" />
 <figcaption aria-hidden="true">Claude Perrault, <em>Ordem das cinco
 espécies de colunas segundo o método dos Antigos</em>, 1683</figcaption>
@@ -1935,71 +1949,86 @@ lugares onde acontece a vida social.</p>
 </section>
 <section class="slide level2">
 
-<div id="fig:rkrier-56-57" class="subfigures columns">
+<figure id="fig:rkrier-56-57" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:rkrier-56">
 <img
 data-src="https://i.pinimg.com/originals/89/b4/56/89b456c0021b5b85c3a6acd0fb766ee0.png"
-id="fig:rkrier-56" style="width:100.0%" />
+style="width:100.0%"
+alt="Formas arquitetônicas primárias: adaptações do quadrado, triângulo e círculo, exemplos teóricos de tipos edilícios primários, p. 56" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:rkrier-57">
 <img
 data-src="https://i.pinimg.com/originals/43/d7/4d/43d74d3154cd364b8ce2be5061834574.png"
-id="fig:rkrier-57" style="width:100.0%" />
+style="width:100.0%"
+alt="Exemplos históricos dos tipos arquitetônicos básicos, p. 57" />
+<figcaption></figcaption>
 </figure>
-</div><p>Rob Krier, <em>Architectural composition</em>, 1988. a – Formas
-arquitetônicas primárias: adaptações do quadrado, triângulo e círculo,
-exemplos teóricos de tipos edilícios primários, p. 56, b – Exemplos
-históricos dos tipos arquitetônicos básicos, p. 57</p>
 </div>
+<figcaption><p>Rob Krier, <em>Architectural composition</em>, 1988.
+a – Formas arquitetônicas primárias: adaptações do quadrado, triângulo e
+círculo, exemplos teóricos de tipos edilícios primários, p. 56,
+b – Exemplos históricos dos tipos arquitetônicos básicos,
+p. 57</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<div id="fig:rkrier-58-59" class="subfigures columns outset">
+<figure id="fig:rkrier-58-59" class="subfigures columns outset">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:rkrier-58">
 <img
 data-src="https://i.pinimg.com/originals/08/24/97/0824974c5024e4858e37dee24382b334.png"
-id="fig:rkrier-58" />
+alt="Casos teóricos de deformação dos tipos primários, p. 58" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:rkrier-59">
 <img
 data-src="https://i.pinimg.com/originals/db/76/20/db76200ee6592c6a826f790c7c47aa9d.png"
-id="fig:rkrier-59" />
+alt="Exemplos históricos de edifícios baseados em geometrias deformadas, p. 59" />
+<figcaption></figcaption>
 </figure>
-</div><p>Rob Krier, <em>Architectural composition</em>, 1988. a – Casos
-teóricos de deformação dos tipos primários, p. 58, b – Exemplos
-históricos de edifícios baseados em geometrias deformadas, p. 59</p>
 </div>
+<figcaption><p>Rob Krier, <em>Architectural composition</em>, 1988.
+a – Casos teóricos de deformação dos tipos primários, p. 58,
+b – Exemplos históricos de edifícios baseados em geometrias deformadas,
+p. 59</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<div id="fig:rkrier-60-61" class="subfigures columns outset">
+<figure id="fig:rkrier-60-61" class="subfigures columns outset">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:rkrier-60">
 <img
 data-src="https://i.pinimg.com/originals/01/63/06/016306bdedc16f5ea0483296a774e04a.png"
-id="fig:rkrier-60" />
+alt="Exemplos teóricos de divisão e ruptura em espaços edificados, p. 60" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:rkrier-61">
 <img
 data-src="https://i.pinimg.com/originals/da/47/13/da47134a44bda76a2d0222c092f89c7f.png"
-id="fig:rkrier-61" />
+alt="Exemplos históricos de edifícios desconexos, p. 61" />
+<figcaption></figcaption>
 </figure>
-</div><p>Rob Krier, <em>Architectural composition</em>, 1988.
-a – Exemplos teóricos de divisão e ruptura em espaços edificados, p. 60,
-b – Exemplos históricos de edifícios desconexos, p. 61</p>
 </div>
+<figcaption><p>Rob Krier, <em>Architectural composition</em>, 1988.
+a – Exemplos teóricos de divisão e ruptura em espaços edificados, p. 60,
+b – Exemplos históricos de edifícios desconexos, p. 61</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:rkrier-62">
 <img
 data-src="https://i.pinimg.com/originals/cf/89/f3/cf89f31152c629f76ac44f824c91a30e.png"
-id="fig:rkrier-62"
 alt="Rob Krier, Architectural composition, 1988. Exemplos teóricos de fragmentos geométricos, p. 62" />
 <figcaption aria-hidden="true">Rob Krier, <em>Architectural
 composition</em>, 1988. Exemplos teóricos de fragmentos geométricos,
@@ -2008,43 +2037,52 @@ p. 62</figcaption>
 </section>
 <section class="slide level2">
 
-<div id="fig:rkrier-63-65" class="subfigures columns outset">
+<figure id="fig:rkrier-63-65" class="subfigures columns outset">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:rkrier-63">
 <img
 data-src="https://i.pinimg.com/originals/4c/a3/22/4ca3226e5e386d2c04d9167bc3939e56.png"
-id="fig:rkrier-63" />
+alt="Exemplos teóricos de composições aditivas, p. 63" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:rkrier-65">
 <img
 data-src="https://i.pinimg.com/originals/5a/c5/03/5ac503040b587365b90edb2136815044.png"
-id="fig:rkrier-65" />
+alt="Exemplos históricos de edifícios aditivos, p. 65" />
+<figcaption></figcaption>
 </figure>
-</div><p>Rob Krier, <em>Architectural composition</em>, 1988.
-a – Exemplos teóricos de composições aditivas, p. 63, b – Exemplos
-históricos de edifícios aditivos, p. 65</p>
 </div>
+<figcaption><p>Rob Krier, <em>Architectural composition</em>, 1988.
+a – Exemplos teóricos de composições aditivas, p. 63, b – Exemplos
+históricos de edifícios aditivos, p. 65</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<div id="fig:rkrier-66-67" class="subfigures columns outset">
+<figure id="fig:rkrier-66-67" class="subfigures columns outset">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:rkrier-66">
 <img
 data-src="https://i.pinimg.com/originals/95/53/7d/95537d2224cb8e5bde10764b115fc71c.png"
-id="fig:rkrier-66" />
+alt="Exemplos teóricos de composições intersecantes, p. 66" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:rkrier-67">
 <img
 data-src="https://i.pinimg.com/originals/ff/18/8c/ff188c7f385582b9e824ec100687cdb7.png"
-id="fig:rkrier-67" />
+alt="Exemplos históricos de edifícios compostos de interseções de elementos, p. 67" />
+<figcaption></figcaption>
 </figure>
-</div><p>Rob Krier, <em>Architectural composition</em>, 1988.
-a – Exemplos teóricos de composições intersecantes, p. 66, b – Exemplos
-históricos de edifícios compostos de interseções de elementos, p. 67</p>
 </div>
+<figcaption><p>Rob Krier, <em>Architectural composition</em>, 1988.
+a – Exemplos teóricos de composições intersecantes, p. 66, b – Exemplos
+históricos de edifícios compostos de interseções de elementos,
+p. 67</p></figcaption>
+</figure>
 <aside class="notes">
 <hr />
 </aside>
@@ -2052,10 +2090,9 @@ históricos de edifícios compostos de interseções de elementos, p. 67</p>
 <section id="formas-básicas-de-volumes" class="slide level2">
 <h2>Formas básicas de volumes</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:convex">
 <img
 data-src="https://www.researchgate.net/profile/Michael-Batty/publication/237710153/figure/fig1/AS:669450969813009@1536620957549/Convex-sets-partitions-and-axial-lines-for-the-basic-T-shape_W640.jpg"
-id="fig:convex"
 alt="(a) Espaços convexos na teoria da sintaxe espacial. Desenho por Michael Batty e Sanjay Rana" />
 <figcaption aria-hidden="true">(a) Espaços convexos na teoria da sintaxe
 espacial. Desenho por <a
@@ -2086,43 +2123,52 @@ volumes enquanto lugares associados a diferentes expectativas culturais
 unidade claramente articulada <span class="citation"
 data-cites="krier:1988architectural">(Krier)</span>.</p>
 </aside>
-<div id="fig:rkrier-73-75" class="subfigures columns full">
+<figure id="fig:rkrier-73-75" class="subfigures columns full">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:rkrier-73">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-architectural_composition-1988-73.png"
-id="fig:rkrier-73" class="line" />
+class="line" alt="quadrados, p. 73" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:rkrier-75">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-architectural_composition-1988-75.png"
-id="fig:rkrier-75" class="line" />
+class="line" alt="octogonais, cruciformes e circulares, p. 75" />
+<figcaption></figcaption>
 </figure>
-</div><p>Rob Krier, <em>Architectural composition</em>, 1988. Volumes
-interiores. a – quadrados, p. 73, b – octogonais, cruciformes e
-circulares, p. 75</p>
 </div>
+<figcaption><p>Rob Krier, <em>Architectural composition</em>, 1988.
+Volumes interiores. a – quadrados, p. 73, b – octogonais, cruciformes e
+circulares, p. 75</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<div id="fig:rkrier-74-76" class="subfigures columns full">
+<figure id="fig:rkrier-74-76" class="subfigures columns full">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:rkrier-74">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-architectural_composition-1988-74.png"
-id="fig:rkrier-74" class="line" />
+class="line"
+alt="geometrias distorcidas, sequências rítmicas e espaços retangulares, p. 74" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:rkrier-76">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-architectural_composition-1988-76.png"
-id="fig:rkrier-76" class="line" />
+class="line" alt="sobreposição de formas básicas, p. 76" />
+<figcaption></figcaption>
 </figure>
-</div><p>Rob Krier, <em>Architectural composition</em>, 1988.
-a – geometrias distorcidas, sequências rítmicas e espaços retangulares,
-p. 74, b – sobreposição de formas básicas, p. 76</p>
 </div>
+<figcaption><p>Rob Krier, <em>Architectural composition</em>, 1988.
+a – geometrias distorcidas, sequências rítmicas e espaços retangulares,
+p. 74, b – sobreposição de formas básicas, p. 76</p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
@@ -2139,23 +2185,28 @@ volumes para priorizar a regularidade e simplicidade geométrica das
 salas mais importantes e acomodar as funções secundárias em formas
 irregulares.</p>
 </aside>
-<div id="fig:rkrier-78-77" class="subfigures columns full">
+<figure id="fig:rkrier-78-77" class="subfigures columns full">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:rkrier-78">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-architectural_composition-1988-78.png"
-id="fig:rkrier-78" class="line" />
+class="line" alt="espaços triangulares e formas especiais, p. 78" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:rkrier-77">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/krier-architectural_composition-1988-77.png"
-id="fig:rkrier-77" class="line" />
+class="line"
+alt="aplicações práticas de espaços aditivos e intersecantes, p. 77" />
+<figcaption></figcaption>
 </figure>
-</div><p>Rob Krier, <em>Architectural composition</em>, 1988.
-a – espaços triangulares e formas especiais, p. 78, b – aplicações
-práticas de espaços aditivos e intersecantes, p. 77</p>
 </div>
+<figcaption><p>Rob Krier, <em>Architectural composition</em>, 1988.
+a – espaços triangulares e formas especiais, p. 78, b – aplicações
+práticas de espaços aditivos e intersecantes, p. 77</p></figcaption>
+</figure>
 <aside class="notes">
 <hr />
 <p>Siheyuan (pátio entre 4 alas) e gong (salão central, corredor
@@ -2231,20 +2282,17 @@ data-visibility="hidden">
 class="title-slide slide level1 unnumbered unlisted allowframebreaks">
 <h1 class="unnumbered unlisted allowframebreaks">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-argan:1973concepto" class="csl-entry"
-role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-argan:1973concepto" class="csl-entry" role="listitem">
 Argan, Giulio Carlo. <em>El concepto del espacio arquitectónico desde el
 barroco a nuestros días</em>. Traduzido por Liliana Rainis, Nueva
 Visión, 1973.
 </div>
-<div id="ref-banham:1975teoria" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-banham:1975teoria" class="csl-entry" role="listitem">
 Banham, Reyner. <em>Teoria e projeto na primeira era da máquina</em>.
 Perspectiva, 1975.
 </div>
-<div id="ref-batty:2004automatic31" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-batty:2004automatic31" class="csl-entry" role="listitem">
 Batty, Michael, e Sanjay Rana. <span>“The Automatic Definition and
 Generation of Axial Lines and Axial Maps”</span>. <em>Environment and
 Planning B: Planning and Design</em>, vol. 31, nº 4, agosto de 2004, p.
@@ -2252,79 +2300,71 @@ Planning B: Planning and Design</em>, vol. 31, nº 4, agosto de 2004, p.
 href="https://doi.org/10.1068/b2985">https://doi.org/10.1068/b2985</a>.
 </div>
 <div id="ref-bharne:2012rediscovering" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Bharne, Vinayak, e Krupail Krusche. <em>Rediscovering the Hindu Temple:
 The Sacred Architecture and Urbanism of India</em>. Cambridge Scholars,
 2012.
 </div>
 <div id="ref-blondel:1737distribution" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Blondel, Jacques-François. <em>De la distribution des maisons de
 plaisance, et de la décoration des édifices en général</em>.
 Charles-Antoine Jombert, 1737. <em>www.e-rara.ch</em>, <a
 href="http://www.e-rara.ch/zut/110626">http://www.e-rara.ch/zut/110626</a>.
 </div>
 <div id="ref-curtis:1923architectural" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Curtis, Nathaniel Cortlandt. <em>Architectural Composition</em>. J. H.
 Janson, 1923.
 </div>
-<div id="ref-durand:1821partie" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-durand:1821partie" class="csl-entry" role="listitem">
 Durand, Jean-Nicolas-Louis. <em>Partie graphique des cours
 d’architecture faits à l’École royale polytechnique depuis sa
 réorganisation…</em>. l’auteur, 1821.
 </div>
-<div id="ref-durand:1802precis" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-durand:1802precis" class="csl-entry" role="listitem">
 ---. <em>Précis des leçons d’architecture données à l’École
 polytechnique</em>. Chez l’auteur, 1802–1805.
 </div>
-<div id="ref-etlin:1978dedans" class="csl-entry" role="doc-biblioentry">
+<div id="ref-etlin:1978dedans" class="csl-entry" role="listitem">
 Etlin, Richard A. <span>“<span>‘Les Dedans,’</span> Jacques-François
 Blondel and the System of the Home”</span>. <em>Gazette Des
 Beaux-Arts</em>, nº 91, abril de 1978, p. 137–47, <a
 href="http://www.academia.edu/4302235/_Les_Dedans_Jacques-Francois_Blondel_and_the_System_of_the_Home">http://www.academia.edu/4302235/_Les_Dedans_Jacques-Francois_Blondel_and_the_System_of_the_Home</a>.
 </div>
-<div id="ref-hardy:2019kashmiri" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-hardy:2019kashmiri" class="csl-entry" role="listitem">
 Hardy, Adam. <span>“Kashmiri Temples: A Typological and Aedicular
 Analysis”</span>. <em>Indology’s Pulse: Arts in Context: Essays
 Presented to Doris Meth Srinivasan in Admiration of Her Scholarly
 Research</em>, organizado por Doris Srinivasan et al., Aryan Books
 International, 2019, p. 261–86.
 </div>
-<div id="ref-hegel:2001cursos1" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-hegel:2001cursos1" class="csl-entry" role="listitem">
 Hegel, Georg Wilhelm Friedrich. <em>Cursos de estética</em>. Edusp,
 2001.
 </div>
-<div id="ref-hillier:1976space3" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-hillier:1976space3" class="csl-entry" role="listitem">
 Hillier, B., et al. <span>“Space Syntax”</span>. <em>Environment and
 Planning B: Planning and Design</em>, vol. 3, nº 2, dezembro de 1976, p.
 147–85. <em>SAGE Journals</em>, <a
 href="https://doi.org/10.1068/b030147">https://doi.org/10.1068/b030147</a>.
 </div>
-<div id="ref-krier:1988architectural" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-krier:1988architectural" class="csl-entry" role="listitem">
 Krier, Rob. <em>Architectural Composition</em>. Rizzoli, 1988.
 </div>
-<div id="ref-moudon:1994getting" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-moudon:1994getting" class="csl-entry" role="listitem">
 Moudon, Anne Vernez. <span>“Getting to Know the Built Landscape:
 Typomorphology”</span>. <em>Ordering Space: Types in Architecture and
 Design</em>, organizado por Karen A. Franck e Lynda H. Schneekloth, 1º
 ed, Van Nostrand Reinhold, 1994, p. 289–311.
 </div>
-<div id="ref-muratori:1959studiix" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-muratori:1959studiix" class="csl-entry" role="listitem">
 Muratori, Saverio. <span>“Studi per una operante storia urbana di
 Venezia. I”</span>. <em>Palladio</em>, vol. <span
 class="smallcaps">IX</span>, nº 3–4, julho de 1959, p. 97–209.
 </div>
 <div id="ref-petruccioli:1998exoteric" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Petruccioli, Attilio. <span>“Exoteric, Polytheistic, Fundamentalist
 Typology: Gleanings in the Form of an Introduction”</span>.
 <em>Typological Process and Design Theory</em>, organizado por Attilio
@@ -2333,29 +2373,26 @@ University : Massachusetts Institute of Technology, 1998, p. 9–16.
 <em>Open WorldCat</em>, <a
 href="https://archnet.org/publications/4240">https://archnet.org/publications/4240</a>.
 </div>
-<div id="ref-pevsner:1989history" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-pevsner:1989history" class="csl-entry" role="listitem">
 Pevsner, Nikolaus. <em>A History of Building Types</em>. Princeton
 University Press, 1989.
 </div>
-<div id="ref-pinon:2006teoria" class="csl-entry" role="doc-biblioentry">
+<div id="ref-pinon:2006teoria" class="csl-entry" role="listitem">
 Piñón, Helio. <em>Teoría del proyecto</em>. 1º ed, Universitat
 Politècnica de Catalunya, 2006.
 </div>
-<div id="ref-schumacher:1987palladio" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-schumacher:1987palladio" class="csl-entry" role="listitem">
 Schumacher, Thomas L. <span>“The Palladio Variations, on Reconciling
 Convention, Parti, and Space”</span>. <em>Cornell Journal of
 Architecture</em>, vol. 3, Outono de 1987, p. 12–29, <a
 href="http://issuu.com/cornelljournal/docs/cja003-optimized/17">http://issuu.com/cornelljournal/docs/cja003-optimized/17</a>.
 </div>
-<div id="ref-semper:1851vier" class="csl-entry" role="doc-biblioentry">
+<div id="ref-semper:1851vier" class="csl-entry" role="listitem">
 Semper, Gottfried. <em>Die vier Elemente der Baukunst</em>. F. Vieweg,
 1851. <em>Internet Archive</em>, <a
 href="http://archive.org/details/dievierelemente00sempgoog">http://archive.org/details/dievierelemente00sempgoog</a>.
 </div>
-<div id="ref-westfall:1991building" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-westfall:1991building" class="csl-entry" role="listitem">
 Westfall, Carroll William. <span>“Building Types”</span>.
 <em>Architectural Principles in the Age of Historicism</em>, organizado
 por Carroll William Westfall e Robert Jan van Pelt, Yale University

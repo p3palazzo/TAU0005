@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -60,10 +65,14 @@
 <section id="tendas-e-cabanas" class="title-slide slide level1">
 <h1>Tendas e cabanas</h1>
 <div class="half">
+<figure id="fig:chambers-huts">
 <img
 data-src="https://i.pinimg.com/originals/cf/1a/f5/cf1af57c2e6422122e18196f92629e29.jpg"
-title="fig:" id="fig:chambers-huts" class="r-stretch"
+class="r-stretch"
 alt="Cabanas primitivas segundo William Chambers, A Treatise on Civil Architecture, 1759" />
+<figcaption aria-hidden="true">Cabanas primitivas segundo William
+Chambers, <em>A Treatise on Civil Architecture</em>, 1759</figcaption>
+</figure>
 </div>
 <aside class="notes">
 <p>Nos mitos da cabana primitiva e nas culturas da maior parte do mundo,
@@ -100,10 +109,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Caban
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/4/44/Cabane_de_Terra_Amata_2.jpg">Tenda</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:terra-amata">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cabane_de_Terra_Amata_1.jpg/576px-Cabane_de_Terra_Amata_1.jpg"
-id="fig:terra-amata" class="slide-bg"
+class="slide-bg"
 alt="Reconstituição dos abrigos de Terra Amata, 380.000 a.p. Foto: Véronique Pagnier, 2011" />
 <figcaption aria-hidden="true">Reconstituição dos abrigos de Terra
 Amata, 380.000 a.p. Foto: <a
@@ -124,10 +133,10 @@ data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/df/Tipi0
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/df/Tipi01.jpg"></h2>
 <div class="align-right">
-<figure>
+<figure id="fig:tipi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Oglala_girl_in_front_of_a_tipi2.jpg/579px-Oglala_girl_in_front_of_a_tipi2.jpg"
-id="fig:tipi" class="slide-bg"
+class="slide-bg"
 alt="Tipi dos oglala, etnia Lakota, América do Norte. Foto: John C.H. Grabill, 1891" />
 <figcaption aria-hidden="true">Tipi dos oglala, etnia Lakota, América do
 Norte. Foto: <a
@@ -145,10 +154,9 @@ de expedições militares (fig. 5).</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:yurt">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Киргизские_кибитки_на_реке_Чу.jpg/1280px-Киргизские_кибитки_на_реке_Чу.jpg"
-id="fig:yurt"
 alt="Vasily Vereshchagin, Tenda quirguiz no rio Chu, 1869–1870" />
 <figcaption aria-hidden="true">Vasily Vereshchagin, Tenda quirguiz no
 rio Chu, 1869–1870</figcaption>
@@ -158,10 +166,10 @@ rio Chu, 1869–1870</figcaption>
 data-background-image="https://i.pinimg.com/originals/38/30/90/3830901d3a01a8b8749f440fca099e8c.jpg">
 <h2
 data-background-image="https://i.pinimg.com/originals/38/30/90/3830901d3a01a8b8749f440fca099e8c.jpg"></h2>
-<figure>
+<figure id="fig:marines">
 <img
 data-src="https://i.pinimg.com/originals/38/30/90/3830901d3a01a8b8749f440fca099e8c.jpg"
-id="fig:marines" class="slide-bg"
+class="slide-bg"
 alt="Barraca do corpo de Fuzileiros navais dos Estados Unidos no Afeganistão. Departamento da Defesa dos Estados Unidos, 2014" />
 <figcaption aria-hidden="true">Barraca do corpo de Fuzileiros navais dos
 Estados Unidos no Afeganistão. <a
@@ -180,22 +188,20 @@ permanentes; além das iurtas do norte da Ásia, o exemplo mais notável é
 o das comunidades Ma’dan no sul da Mesopotânia, mais conhecidas como os
 “árabes do pântano” (fig. 6).</p>
 </aside>
-<figure>
+<figure id="fig:mudhif-ext">
 <img
 data-src="https://i.pinimg.com/originals/34/28/d6/3428d678b34b3e3448a6d7dd0f51045e.jpg"
-id="fig:mudhif-ext" class="outset"
-alt="Mudhif (morada dos Ma’dan), sul do Iraque" />
+class="outset" alt="Mudhif (morada dos Ma’dan), sul do Iraque" />
 <figcaption aria-hidden="true"><em>Mudhif</em> (morada dos Ma’dan), sul
 do Iraque</figcaption>
 </figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:mudhif-build">
 <img
 data-src="https://i.pinimg.com/originals/2d/2e/33/2d2e33d53242aa4865f1430d1b6abb47.jpg"
-id="fig:mudhif-build" class="outset"
-alt="Construção de um mudhif. Foto: Jassim Alasadi" />
+class="outset" alt="Construção de um mudhif. Foto: Jassim Alasadi" />
 <figcaption aria-hidden="true">Construção de um <em>mudhif</em>. Foto:
 <a
 href="https://www.theguardian.com/cities/2020/jan/15/the-case-for-making-low-tech-dumb-cities-instead-of-smart-ones">Jassim
@@ -212,11 +218,10 @@ contraventamento no plano ortogonal ao dos pórticos (fig. 8).</p>
 <section class="slide level2">
 
 <div class="half">
-<figure>
+<figure id="fig:mudhif-croquis">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/iq-mudhif-croquis.png"
-id="fig:mudhif-croquis" class="line"
-alt="Esquema estrutural de um mudhif" />
+class="line" alt="Esquema estrutural de um mudhif" />
 <figcaption aria-hidden="true">Esquema estrutural de um
 <em>mudhif</em></figcaption>
 </figure>
@@ -225,10 +230,10 @@ alt="Esquema estrutural de um mudhif" />
 <section class="slide level2">
 
 <div class="half">
-<figure>
+<figure id="fig:mudhif-int">
 <img
 data-src="https://i.pinimg.com/originals/5b/1e/86/5b1e86330939e6262c84d74e2e500dda.jpg"
-id="fig:mudhif-int" alt="Interior de um mudhif. Foto: Ikhlas Abbis" />
+alt="Interior de um mudhif. Foto: Ikhlas Abbis" />
 <figcaption aria-hidden="true">Interior de um <em>mudhif</em>. Foto: <a
 href="http://www.abbis.photo/portfolio/architecture/">Ikhlas
 Abbis</a></figcaption>
@@ -258,10 +263,10 @@ os apoios verticais.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:cole-savage">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg/1280px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836.jpg"
-id="fig:cole-savage" class="outset"
+class="outset"
 alt="Thomas Cole, Decurso do império: Estado selvagem, 1834" />
 <figcaption aria-hidden="true">Thomas Cole, Decurso do império: Estado
 selvagem, 1834</figcaption>
@@ -287,11 +292,10 @@ entre dois sítios fixos. Essa alternância sazonal é chamada de
 transumância, e caracteriza muitas comunidades tradicionais em todos os
 continentes, por exemplo na região do Sael (fig. 11).</p>
 </aside>
-<figure>
+<figure id="fig:transh">
 <img
 data-src="https://i.pinimg.com/originals/13/51/34/13513400d4dbe8f1bb791c84b35d325b.jpg"
-id="fig:transh" class="outset nobg"
-alt="Padrões de transumância no Sael. OCDE, 2014" />
+class="outset nobg" alt="Padrões de transumância no Sael. OCDE, 2014" />
 <figcaption aria-hidden="true">Padrões de transumância no Sael. <a
 href="http://www.food-security.net/en/map-library/transhumance-and-nomadism/"
 class="smallcaps">OCDE, 2014</a></figcaption>
@@ -300,10 +304,10 @@ class="smallcaps">OCDE, 2014</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:sedentism">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Origins_of_sedentism.svg/796px-Origins_of_sedentism.svg.png"
-id="fig:sedentism" class="nobg"
+class="nobg"
 alt="Regiões de origem da vida sedentária: centro-norte da Europa, nordeste da Ásia e Crescente fértil" />
 <figcaption aria-hidden="true">Regiões de origem da vida sedentária:
 centro-norte da Europa, nordeste da Ásia e Crescente fértil</figcaption>
@@ -329,10 +333,10 @@ data-background-size="contain" data-background-position="right">
 data-background-image="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png"
 data-background-size="contain" data-background-position="right"></h2>
 <div class="half">
-<figure>
+<figure id="fig:eynan">
 <img
 data-src="https://i.pinimg.com/originals/fa/6b/65/fa6b6565666b7e6dd17e32c2910e8163.png"
-id="fig:eynan" class="line slide-bg"
+class="line slide-bg"
 alt="Reconstituição do abrigo do período Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. Haklay e Gopher, 2015" />
 <figcaption aria-hidden="true">Reconstituição do abrigo do período
 Natufiano em Eynan, Israel, c. 15 a 12 mil anos atrás. <a
@@ -370,10 +374,9 @@ com a concepção estrutural das tendas, onde essa distinção não
 existe.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:mesolithic">
 <img
 data-src="https://indo-european.eu/wp-content/uploads/2021/01/4-mesolithic-early.jpg"
-id="fig:mesolithic"
 alt="Culturas e populações do mesolítico inicial na Eurásia. Carlos Quiles, 2021" />
 <figcaption aria-hidden="true">Culturas e populações do mesolítico
 inicial na Eurásia. <a
@@ -396,10 +399,10 @@ resultado, temos, por um lado, pilares e vigas esbeltos, e por outro,
 soluções engenhosas para apoiar as extremidades das vigas sobre os
 pilares, assim como para ligar a cobertura ao sistema pilares–viga.</p>
 </aside>
-<figure>
+<figure id="fig:arqui-for">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/arquitraves.png"
-id="fig:arqui-for" class="line outset"
+class="line outset"
 alt="Forças na construção arquitravada: (a) compressão axial; (b) flexão; (c) cisalhamento" />
 <figcaption aria-hidden="true">Forças na construção arquitravada: (a)
 compressão axial; (b) flexão; (c) cisalhamento</figcaption>
@@ -407,10 +410,10 @@ compressão axial; (b) flexão; (c) cisalhamento</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:nanchansi">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Wutai_Nanchan_Si_2013.08.28_13-45-34.jpg/1280px-Wutai_Nanchan_Si_2013.08.28_13-45-34.jpg"
-id="fig:nanchansi" class="outset"
+class="outset"
 alt="Monte Wutai, Nanchansi, salão maior, 782 d.C. Foto: Zhang Zhugang, 2013" />
 <figcaption aria-hidden="true">Monte Wutai, Nanchansi, salão maior, 782
 d.C. Foto: <a
@@ -429,10 +432,10 @@ Mediterrâneo oriental.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:lagartixa">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/br-kamayura-lagartixa-190812.jpg"
-id="fig:lagartixa" class="outset"
+class="outset"
 alt="Casa lagartixa em construção, mostrando o pórtico central. Manual de arquitetura kamayurá, 2019" />
 <figcaption aria-hidden="true">Casa lagartixa em construção, mostrando o
 pórtico central. <a
@@ -443,10 +446,10 @@ de arquitetura kamayurá</em>, 2019</a></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:classical-heartland">
 <img
 data-src="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png"
-id="fig:classical-heartland" class="nobg"
+class="nobg"
 alt="Distribuição originária da tradição arquitravada dita “clássica”" />
 <figcaption aria-hidden="true">Distribuição originária da tradição
 arquitravada dita “clássica”</figcaption>
@@ -481,10 +484,10 @@ data-background-video-muted="true">
 <h2
 data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm"
 data-background-video-muted="true">Estruturas em madeira</h2>
-<figure>
+<figure id="fig:cedro">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm"
-id="fig:cedro" class="slide-bg outset" controls=""><a
+class="slide-bg outset" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/arquitravada/Tannourine_Cedar_Forest_Lebanon-lnUGg4IDhxw-1080p-60fps.webm">Floresta
 de cedros em Tannourine, Líbano. Filmagem: Çağatay Erciyes,
 2017</a></video>
@@ -518,10 +521,10 @@ anos desde o século <span class="smallcaps">VII</span> d.C. seguindo a
 mesma técnica <span class="citation"
 data-cites="watanabe:1974shinto">(Watanabe)</span>.</p>
 </aside>
-<figure>
+<figure id="fig:naiku">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/sanctuaire-ise.jpg"
-id="fig:naiku" class="outset"
+class="outset"
 alt="Pavilhão principal do recinto interior, santuário de Ise, Japão, última reconstrução em 2013. Foto: Ise Jingū" />
 <figcaption aria-hidden="true">Pavilhão principal do recinto interior,
 santuário de Ise, Japão, última reconstrução em 2013. Foto: <a
@@ -531,10 +534,10 @@ Jingū</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:ok-ete">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/br-kamayura-ok_ete-190812_09.jpg"
-id="fig:ok-ete" class="outset"
+class="outset"
 alt="’Ok eté kamayurá. Manual de arquitetura kamayurá, 2019" />
 <figcaption aria-hidden="true"><em>’Ok eté</em> kamayurá. <a
 href="https://www.archdaily.com.br/br/923178/manual-de-arquitetura-kamayura"><em>Manual
@@ -559,10 +562,10 @@ esteios. Isso dá uma boa rigidez para o pórtico inteiro, e na casa do
 tipo “gafanhoto”, também são usados contraventamentos diagonais
 (fig. 22).</p>
 </aside>
-<figure>
+<figure id="fig:gafanhoto">
 <img
 data-src="https://images.adsttc.com/media/images/5d5a/ed03/284d/d166/2000/008e/slideshow/190812_CasaKamayuraREV_Page_19.jpg?1566239994"
-id="fig:gafanhoto" class="outset nobg"
+class="outset nobg"
 alt="Esquema construtivo do tipo de casa “gafanhoto” kamayurá. Manual de arquitetura kamayurá, 2019" />
 <figcaption aria-hidden="true">Esquema construtivo do tipo de casa
 “gafanhoto” kamayurá. <a
@@ -577,10 +580,10 @@ de arquitetura kamayurá</em>, 2019</a></figcaption>
    Gabriel, -sobre simetria e tripartição, e dividir as notas
    -->
 <div class="half">
-<figure>
+<figure id="fig:vesta-tibur">
 <img
 data-src="https://i.pinimg.com/originals/8b/6c/b6/8b6cb6c65544115cf7bd0daebe558295.jpg"
-id="fig:vesta-tibur" class="slide-bg"
+class="slide-bg"
 alt="Coluna coríntia do templo de Vesta em Tivoli, século II d.C. Desenho: Anton Grain" />
 <figcaption aria-hidden="true">Coluna coríntia do templo de Vesta em
 Tivoli, século <span class="smallcaps">II</span> d.C. Desenho: <a
@@ -641,10 +644,10 @@ clássicas greco-romanas. Essa elevação não só protege o edifício contra
 a umidade ascendente, como já vimos na aula sobre fundações, mas também
 dá um efeito de monumentalidade.</p>
 </aside>
-<figure>
+<figure id="fig:krepis">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/arquitravada/mixkit-ruins-of-the-temple-of-artemis-at-sardes-lydia-26720-medium.mp4"
-id="fig:krepis" class="outset slide-bg" controls=""><a
+class="outset slide-bg" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/arquitravada/mixkit-ruins-of-the-temple-of-artemis-at-sardes-lydia-26720-medium.mp4">Krepidoma
 do templo de Ártemis, Sardis (Lídia), iniciado 300 a.C., alterado séc.
 II d.C.</a></video>
@@ -656,10 +659,10 @@ class="smallcaps">II</span> d.C.</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:kenninji">
 <img
 data-src="https://live.staticflickr.com/5094/5537979203_4734c31d1d_k_d.jpg"
-id="fig:kenninji" class="outset"
+class="outset"
 alt="Colunas em madeira sobre bases em pedra, salão do Darma, Kenninji, Quioto, 1765. Foto: Blanco Teko, 2011" />
 <figcaption aria-hidden="true">Colunas em madeira sobre bases em pedra,
 salão do Darma, Kenninji, Quioto, 1765. Foto: <a
@@ -688,10 +691,10 @@ data-background-video-loop="true">Capitéis</h2>
 <section class="slide level2">
 
 <div class="half">
-<figure>
+<figure id="fig:chipiez-159">
 <img
 data-src="https://i.pinimg.com/originals/08/a8/b4/08a8b4b562510453201755e3dcdc1c2a.png"
-id="fig:chipiez-159" class="line"
+class="line"
 alt="Arquétipo em madeira da ordem toscana, segundo Chipiez, 1876" />
 <figcaption aria-hidden="true">Arquétipo em madeira da ordem toscana,
 segundo Chipiez, 1876</figcaption>
@@ -713,10 +716,18 @@ de vigas perpendiculares entre si.</p>
 <section class="slide level2">
 
 <div class="align-right">
+<figure id="fig:susa">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Bull_capital_Apadana_(6).jpg/576px-Bull_capital_Apadana_(6).jpg"
-title="fig:" id="fig:susa" class="r-stretch"
+class="r-stretch"
 alt="Capitel do apadana de Dario I em Susa, início do séc. V a.C., reconstituído no museu do Louvre com vigas segundo Marcel Dieulafoy, 1890. Foto: R. Mashhadi, 2007" />
+<figcaption aria-hidden="true">Capitel do <em>apadana</em> de Dario I em
+Susa, início do séc. <span class="smallcaps">V</span> a.C.,
+reconstituído no museu do Louvre com vigas segundo Marcel Dieulafoy,
+1890. Foto: <a
+href="https://commons.wikimedia.org/wiki/File:Bull_capital_Apadana_(6).jpg">R.
+Mashhadi, 2007</a></figcaption>
+</figure>
 </div>
 </section>
 <section id="section-4" class="slide level2"
@@ -726,11 +737,15 @@ data-background-video-muted="true" data-background-video-loop="true">
 data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/mixkit-ruins-of-the-temple-of-segesta-in-sicily-in-greece-4402.mp4"
 data-background-video-muted="true"
 data-background-video-loop="true"></h2>
+<figure id="fig:segesta">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/arquitravada/mixkit-ruins-of-the-temple-of-segesta-in-sicily-in-greece-4402.mp4"
-title="fig:" id="fig:segesta" class="slide-bg r-stretch" controls=""><a
+class="slide-bg r-stretch" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/arquitravada/mixkit-ruins-of-the-temple-of-segesta-in-sicily-in-greece-4402.mp4">Templo
 dórico em Segesta, Sicília, final do século V a.C.</a></video>
+<figcaption aria-hidden="true">Templo dórico em Segesta, Sicília, final
+do século <span class="smallcaps">V</span> a.C.</figcaption>
+</figure>
 </section>
 <section id="construção-aditiva" class="slide level2">
 <h2>Construção aditiva</h2>
@@ -775,10 +790,10 @@ dimensões e proporções padronizadas.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:liang-103">
 <img
 data-src="https://i.pinimg.com/originals/9d/f8/1a/9df81a21d7cc6f867e223109c33b0277.png"
-id="fig:liang-103" class="line outset"
+class="line outset"
 alt="Regras de carpintaria segundo o Yingzao fashi, século XI, traduzidas e ilustradas por Liang Sicheng no século XX" />
 <figcaption aria-hidden="true">Regras de carpintaria segundo o
 <em>Yingzao fashi</em>, século <span class="smallcaps">XI</span>,
@@ -834,13 +849,16 @@ um senso visual de estabilidade e equilíbrio que é quase tão importante
 para a <em>firmitas</em> vitruviana quanto a solidez efetiva da
 construção.</p>
 </aside>
+<figure id="fig:forbidden">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/arquitravada/mixkit-old-chinese-construction-visited-by-tourists-28612-medium.mp4"
-title="fig:" id="fig:forbidden" class="slide-bg outset r-stretch"
-controls=""><a
+class="slide-bg outset r-stretch" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/arquitravada/mixkit-old-chinese-construction-visited-by-tourists-28612-medium.mp4">Palácio
 na cidade Proibida de Pequim mostrando refinamento óptico dos vãos
 estruturais</a></video>
+<figcaption aria-hidden="true">Palácio na cidade Proibida de Pequim
+mostrando refinamento óptico dos vãos estruturais</figcaption>
+</figure>
 </section></section>
 <section>
 <section id="assoalhos-e-terraços" class="title-slide slide level1">
@@ -860,10 +878,9 @@ vigas.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:laje-pato">
 <img
 data-src="https://i.pinimg.com/originals/50/62/0c/50620c027c0cf0af72578fbddf576a2a.jpg"
-id="fig:laje-pato"
 alt="Corrosão da armadura e perda de cobrimento em laje de concreto armado. Foto: Marcos Felix, Artam Engenharia, 2010" />
 <figcaption aria-hidden="true">Corrosão da armadura e perda de
 cobrimento em laje de concreto armado. Foto: Marcos Felix, <a
@@ -898,10 +915,10 @@ flexão.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:terrace">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/06/wright-ancient_building_technology_3-2000-0127.png"
-id="fig:terrace" class="line"
+class="line"
 alt="Esquema de um assoalho e terraço tradicional segundo Wright, Ancient Building Technology. 1 – vigas de madeira serrada, 2 – barroteamento de toras, 3 – ripado de taquara, 4 – vedação de esteira, 5 – terrapleno de barro, 6 – reboco de argila ou argamassa de cal" />
 <figcaption aria-hidden="true">Esquema de um assoalho e terraço
 tradicional segundo Wright, <em>Ancient Building Technology</em>. 1 –
@@ -923,10 +940,10 @@ preencher uma superfície contínua usando elementos de dimensões finitas
 piso de um pavimento quanto como o teto do pavimento abaixo
 (fig. 33).</p>
 </aside>
-<figure>
+<figure id="fig:knossos-tomb">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/06/wright-ancient_building_technology_3-2000-0131.png"
-id="fig:knossos-tomb" class="line"
+class="line"
 alt="Isométrica seccionada de uma sepultura em Cnossos, Creta, Idade do Bronze tardia, segundo Wright, Ancient Building Technology. 1 – arquitrave em madeira serrada, 2 – barrotes em madeira serrada, 3 – ripado de toras, 4 – contrapiso de barro com cal" />
 <figcaption aria-hidden="true">Isométrica seccionada de uma sepultura em
 Cnossos, Creta, Idade do Bronze tardia, segundo Wright, <em>Ancient
@@ -937,10 +954,10 @@ barro com cal</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:adam231">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/06/adam-arte_di_costruire_presso_i_romani-1990-231.png"
-id="fig:adam231" class="line outset"
+class="line outset"
 alt="Conexões na carpintaria estrutural da Roma antiga, segundo Jean-Pierre Adam" />
 <figcaption aria-hidden="true">Conexões na carpintaria estrutural da
 Roma antiga, segundo Jean-Pierre Adam</figcaption>
@@ -973,21 +990,21 @@ data-background-video-muted="true" data-background-video-loop="true">
 data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/Secret_of_the_Pagodas_Earthquake_Resistant_Design-uG37gQSvrf4-1080p-25fps.webm"
 data-background-video-muted="true"
 data-background-video-loop="true"></h2>
-<div id="fig:toji" class="subfigures iframe-wrapper slide-bg outset">
+<figure id="fig:toji" class="subfigures iframe-wrapper slide-bg outset">
 <iframe src="https://www.youtube-nocookie.com/embed/uG37gQSvrf4?start=88" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-<p>Comportamento estrutural de um pagode japonês num terremoto. Vídeo:
-<a
+<figcaption><p>Comportamento estrutural de um pagode japonês num
+terremoto. Vídeo: <a
 href="https://www.youtube.com/watch?embed=no&amp;v=uG37gQSvrf4&amp;t=88s">Science
-Channel, 2016</a>. </p>
-</div>
+Channel, 2016</a>. </p></figcaption>
+</figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:catalhoyuk-build">
 <img
 data-src="https://i.pinimg.com/originals/3f/a9/80/3fa9804424e07ad9140a7aeeeb48f9d3.png"
-id="fig:catalhoyuk-build" class="outset nobg"
+class="outset nobg"
 alt="Diagrama dos sistemas construtivos de uma célula em Çatal Höyük, c. 6500 a.C." />
 <figcaption aria-hidden="true">Diagrama dos sistemas construtivos de uma
 célula em Çatal Höyük, c. 6500 a.C.</figcaption>
@@ -1051,10 +1068,10 @@ figs. 55, 56).</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:forum-sec">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/06/adam-arte_di_costruire_presso_i_romani-1990-467.png"
-id="fig:forum-sec" class="line"
+class="line"
 alt="Colunata do fórum de Pompeia, corte transversal segundo Jean-Pierre Adam" />
 <figcaption aria-hidden="true">Colunata do fórum de Pompeia, corte
 transversal segundo Jean-Pierre Adam</figcaption>
@@ -1077,10 +1094,10 @@ sobretudo devido à falta de madeira naquela região. O resultado são as
 famosas estruturas superdimensionadas, com vãos pequenos por causa da
 fraca resistência à flexão das lajes em granito (fig. 38).</p>
 </aside>
-<figure>
+<figure id="fig:karnak-axon">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/06/wright-ancient_building_technology_3-2000-0253.png"
-id="fig:karnak-axon" class="line"
+class="line"
 alt="Salão principal do templo em Karnak, isométrica seccionada por Perrot e Chipiez" />
 <figcaption aria-hidden="true">Salão principal do templo em Karnak,
 isométrica seccionada por Perrot e Chipiez</figcaption>
@@ -1093,10 +1110,10 @@ data-background-image="https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:durm-139">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Gebälke-Durm_Baukunst_der_Griechen_abb.139.png/1280px-Gebälke-Durm_Baukunst_der_Griechen_abb.139.png"
-id="fig:durm-139" class="line outset"
+class="line outset"
 alt="Arquitraves de templos da Grécia arcaica e clássica. Josef Durm, 1910" />
 <figcaption aria-hidden="true">Arquitraves de templos da Grécia arcaica
 e clássica. <a
@@ -1130,10 +1147,10 @@ cumeeira. Além de as colunas estarem engastadas no solo, ambas as
 colunatas são ligadas por vigas secundárias a uma parede de adobe com
 fundações em pedra lavrada (fig. 41).</p>
 </aside>
-<figure>
+<figure id="fig:lefkandi-axon">
 <img
 data-src="https://i.pinimg.com/originals/e9/75/60/e97560b20b57f958ed77019069bb7508.png"
-id="fig:lefkandi-axon" class="line outset"
+class="line outset"
 alt="Axonométrica do túmulo dito heroön (tumba do herói), Lefkandi, Grécia, século X a.C." />
 <figcaption aria-hidden="true">Axonométrica do túmulo dito
 <em>heroön</em> (tumba do herói), Lefkandi, Grécia, século <span
@@ -1142,21 +1159,20 @@ class="smallcaps">X</span> a.C.</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:lefkandi-section">
 <img
 data-src="https://i.pinimg.com/originals/db/38/30/db3830c4766e6388653536ee1acac6b8.png"
-id="fig:lefkandi-section" class="line outset"
-alt="Corte transversal do heroön de Lefkandi" />
+class="line outset" alt="Corte transversal do heroön de Lefkandi" />
 <figcaption aria-hidden="true">Corte transversal do <em>heroön</em> de
 Lefkandi</figcaption>
 </figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:aphaia-lawrence">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/gr-aphaia-lawrence.png"
-id="fig:aphaia-lawrence" class="line outset"
+class="line outset"
 alt="Perspectiva analítica do templo de Afaia em Egina, século V a.C., segundo Lawrence" />
 <figcaption aria-hidden="true">Perspectiva analítica do templo de Afaia
 em Egina, século <span class="smallcaps">V</span> a.C., segundo
@@ -1179,10 +1195,10 @@ construção implica.</p>
 <section id="contraventamento-por-assoalho-rígido" class="slide level2">
 <h2>Contraventamento por assoalho rígido</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:choisy-1.137.5">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0150.png"
-id="fig:choisy-1.137.5" class="line"
+class="line"
 alt="Proporção modular das colunatas no mausoléu de Dario I, século [V] a.C. Choisy, 1899" />
 <figcaption aria-hidden="true">Proporção modular das colunatas no
 mausoléu de Dario I, século [V] a.C. <a
@@ -1206,10 +1222,10 @@ do contraventamento (fig. 44). Em vez disso, todo o espaço do
 é coberto por um terraço rígido.</p>
 </aside>
 <div class="half">
-<figure>
+<figure id="fig:choisy-1.141.4">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/choisy-bnf-bpt6k6417116t_0154.png"
-id="fig:choisy-1.141.4" class="line"
+class="line"
 alt="Disposição das colunatas no apadana de Artaxerxes em Susa, século V a.C. Choisy, 1899" />
 <figcaption aria-hidden="true">Disposição das colunatas no
 <em>apadana</em> de Artaxerxes em Susa, século <span
@@ -1238,10 +1254,10 @@ tijolos vitrificados (fig. 45).</p>
 característica importante que diz respeito à <em>forma</em> das
 construções arquitravadas.</p>
 </aside>
-<figure>
+<figure id="fig:chipiez-terrasse">
 <img
 data-src="https://i.pinimg.com/originals/72/2b/40/722b40cf631a30343be5bbe7a5e4a1a7.png"
-id="fig:chipiez-terrasse" class="line outset"
+class="line outset"
 alt="Reconstituição dos terraços de Persépolis. Chipiez, 1876" />
 <figcaption aria-hidden="true">Reconstituição dos terraços de
 Persépolis. <a
@@ -1251,10 +1267,10 @@ href="https://archive.org/details/histoirecritique00chip/">Chipiez,
 </section>
 <section id="contraventamento-por-pórticos" class="slide level2">
 <h2>Contraventamento por pórticos</h2>
-<figure>
+<figure id="fig:fu2017-9.3">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-9.3.png"
-id="fig:fu2017-9.3" class="line outset"
+class="line outset"
 alt="Fu Xinian, sistema de pórticos longitudinais no tingtang da dinastia Song" />
 <figcaption aria-hidden="true">Fu Xinian, sistema de pórticos
 longitudinais no <em>tingtang</em> da dinastia Song</figcaption>
@@ -1271,10 +1287,10 @@ interno.</p>
 <section class="slide level2">
 
 <div class="half">
-<figure>
+<figure id="fig:liang-038">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/liang1984-038.png"
-id="fig:liang-038" class="line"
+class="line"
 alt="Evolução das “arquitraves” de contraventamento na arquitetura chinesa, segundo Liang e Lin" />
 <figcaption aria-hidden="true">Evolução das “arquitraves” de
 contraventamento na arquitetura chinesa, segundo Liang e
@@ -1299,10 +1315,10 @@ tramos exteriores. O resultado é um esqueleto contraventado em dois
 planos, muito mais estável (fig. 48).</p>
 <hr />
 </aside>
-<figure>
+<figure id="fig:fu2017-8.8">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/08/fu2017-8.8.png"
-id="fig:fu2017-8.8" class="line outset"
+class="line outset"
 alt="Fu Xinian, dois sistemas de composições arquitravadas: diantang das dinastias Tang e Song e salão oficial da dinastia Ming" />
 <figcaption aria-hidden="true">Fu Xinian, dois sistemas de composições
 arquitravadas: <em>diantang</em> das dinastias Tang e Song e salão
@@ -1317,12 +1333,14 @@ data-background-video-muted="true" data-background-video-loop="true">
 data-background-video="https://cdn.palazzo.arq.br/firmitas/arquitravada/mixkit-ruins-of-ancient-greece-in-the-city-of-athens-30369-medium.mp4"
 data-background-video-muted="true"
 data-background-video-loop="true">Arquitetura clássica</h1>
+<figure id="fig:akroath-drone">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/arquitravada/mixkit-ruins-of-ancient-greece-in-the-city-of-athens-30369-medium.mp4"
-title="fig:" id="fig:akroath-drone" class="slide-bg outset r-stretch"
-controls=""><a
+class="slide-bg outset r-stretch" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/arquitravada/mixkit-ruins-of-ancient-greece-in-the-city-of-athens-30369-medium.mp4">Ruínas
 da acrópole de Atenas</a></video>
+<figcaption aria-hidden="true">Ruínas da acrópole de Atenas</figcaption>
+</figure>
 <aside class="notes">
 <p>A arquitetura clássica é, em última análise, a razão de ser dos mitos
 sobre a cabana primitiva que vimos <a href="processos.md">antes</a>. Por
@@ -1345,10 +1363,10 @@ a invenção <em>racional</em> da cabana primitiva com a pretensão de
 superioridade da arquitetura clássica e neoclássica (fig. 50).</p>
 </aside>
 <div class="half">
-<figure>
+<figure id="fig:laugier">
 <img
 data-src="https://i.pinimg.com/originals/ff/64/db/ff64db9e8347d7a7458d35fce356ce8d.jpg"
-id="fig:laugier" class="slide-bg"
+class="slide-bg"
 alt="Charles Eisen, desenhista e gravurista, alegoria da cabana primitiva para a 2.ª edição do Essai sur l’architecture de Marc-Antoine Laugier, 1755" />
 <figcaption aria-hidden="true">Charles Eisen, desenhista e gravurista,
 alegoria da cabana primitiva para a 2.ª edição do <em>Essai sur
@@ -1363,10 +1381,10 @@ data-background-size="contain" data-background-position="right">
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/e/e7/Dorische_Gebälkeconstruktion_im_Holz_umgedeutet-Durm_Baukunst_der_Griechen_abb.233.png"
 data-background-size="contain" data-background-position="right"></h2>
 <div class="half">
-<figure>
+<figure id="fig:durm-holz">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Dorische_Gebälkeconstruktion_im_Holz_umgedeutet-Durm_Baukunst_der_Griechen_abb.233.png/537px-Dorische_Gebälkeconstruktion_im_Holz_umgedeutet-Durm_Baukunst_der_Griechen_abb.233.png"
-id="fig:durm-holz" class="line slide-bg"
+class="line slide-bg"
 alt="Reconstituição [incorreta] de um entablamento dórico hipotético em madeira segundo Josef Durm, 1910" />
 <figcaption aria-hidden="true">Reconstituição [incorreta] de um
 entablamento dórico hipotético em madeira segundo <a
@@ -1397,10 +1415,14 @@ como concebida por Laugier ou por Chambers.</p>
 class="slide level2">
 <h2>Tradição arquitravada do Mediterrâneo oriental</h2>
 <div class="align-right">
+<figure id="fig:regio-classica">
 <img
 data-src="https://i.pinimg.com/originals/cf/b5/95/cfb595262e97b69b62a813307d17216f.png"
-title="fig:" id="fig:regio-classica" class="nobg r-stretch"
+class="nobg r-stretch"
 alt="Região de origem da construção arquitravada “clássica”" />
+<figcaption aria-hidden="true">Região de origem da construção
+arquitravada “clássica”</figcaption>
+</figure>
 </div>
 <aside class="notes">
 <p>O que se entende por arquitetura clássica é na verdade o resultado
@@ -1413,10 +1435,9 @@ e pela Grécia (fig. 52).</p>
 <section class="slide level2">
 
 <div class="half">
-<figure>
+<figure id="fig:chambers-hut3">
 <img
 data-src="https://i.pinimg.com/originals/97/e3/e1/97e3e121068f69e681b1d6ba90c0eddd.jpg"
-id="fig:chambers-hut3"
 alt="William Chambers, tipo da cabana primitiva, 1759" />
 <figcaption aria-hidden="true">William Chambers, tipo da cabana
 primitiva, 1759</figcaption>
@@ -1439,10 +1460,9 @@ não, são simplesmente apoiadas umas sobre as outras.</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:chipiez-acad">
 <img
 data-src="https://conservation.academie-architecture.fr/icono/535/hd_535_013.jpg"
-id="fig:chipiez-acad"
 alt="Charlez Chipiez (1835–1901), Retrato oficial da Academia de Arquitetura da França" />
 <figcaption aria-hidden="true">Charlez Chipiez (1835–1901), <a
 href="https://conservation.academie-architecture.fr/objet/535">Retrato
@@ -1470,10 +1490,10 @@ exemplos canônicos da arquitetura monumental do antigo Oriente Médio
 interior da Anatólia, na Turquia.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:chipiez-compare">
 <img
 data-src="https://i.pinimg.com/originals/5e/8c/64/5e8c64fee9a1488ca7f0164ec5c0193a.png"
-id="fig:chipiez-compare" class="line"
+class="line"
 alt="“Ordens” de colunas egípcias, persas e jônicas gregas. Chipiez, 1876. Sem escala" />
 <figcaption aria-hidden="true">“Ordens” de colunas egípcias, persas e
 jônicas gregas. <a
@@ -1485,10 +1505,16 @@ href="https://archive.org/details/histoirecritique00chip/">Chipiez,
 <section class="slide level2">
 
 <div class="half">
+<figure id="fig:chipiez-208">
 <img
 data-src="https://i.pinimg.com/originals/d3/09/d3/d309d3676b18a722f05fd3fb5d815a2c.png"
-title="fig:" id="fig:chipiez-208" class="line r-stretch"
+class="line r-stretch"
 alt="Cabana vernácula na Anatólia com colunata dianteira. Chipiez, 1876" />
+<figcaption aria-hidden="true">Cabana vernácula na Anatólia com colunata
+dianteira. <a
+href="https://archive.org/details/histoirecritique00chip/">Chipiez,
+1876</a></figcaption>
+</figure>
 </div>
 <aside class="notes">
 <p>O modelo interpretativo proposto por Chipiez reporta as origens da
@@ -1525,10 +1551,10 @@ resiliente ao longo de pelo menos três milênios.</p>
 <section class="slide level2">
 
 <div class="half">
-<figure>
+<figure id="fig:chipiez-209">
 <img
 data-src="https://i.pinimg.com/originals/7f/cc/83/7fcc831b1a4c28bdfa9a803fed666210.png"
-id="fig:chipiez-209" class="line"
+class="line"
 alt="Cabana vernácula na Anatólia com colunata perimetral, segundo Chipiez, 1876" />
 <figcaption aria-hidden="true">Cabana vernácula na Anatólia com colunata
 perimetral, segundo <a
@@ -1556,10 +1582,10 @@ primitivo de troncos fincados no chão pela ponta mais estreita. Em
 qualquer caso, eles foram um estilo muito característico de palácios
 como Cnossos (fig. 58).</p>
 </aside>
-<figure>
+<figure id="fig:knossos-westbastion">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Knossos_Westbastion_01.jpg/1280px-Knossos_Westbastion_01.jpg"
-id="fig:knossos-westbastion" class="outset"
+class="outset"
 alt="Fustes invertidos das colunas no palácio de Cnossos, c. 1650 a.C., em reconstituição de Arthur Evans, 1922. Foto: Olaf Tausch, 2016" />
 <figcaption aria-hidden="true">Fustes invertidos das colunas no palácio
 de Cnossos, c. 1650 a.C., em reconstituição de Arthur Evans, 1922. Foto:
@@ -1592,10 +1618,15 @@ campo.</p>
 <section class="slide level2">
 
 <div class="half">
+<figure id="fig:treearch">
 <img
 data-src="https://i.pinimg.com/originals/99/e7/7b/99e77b290e7800b2c3570985eae26765.png"
-title="fig:" id="fig:treearch" class="line r-stretch"
+class="line r-stretch"
 alt="Banister Fletcher, árvore da arquitetura, em A History of Architecture on the Comparative Method, 15.ª ed. (1950)" />
+<figcaption aria-hidden="true">Banister Fletcher, árvore da arquitetura,
+em <em>A History of Architecture on the Comparative Method</em>, 15.ª
+ed. (1950)</figcaption>
+</figure>
 </div>
 <aside class="notes">
 <p>A precedência da tradição grega nas histórias gerais da arquitetura é
@@ -1633,10 +1664,10 @@ divisórias no espaço mas também costumam ter função estrutural
 <section class="slide level2">
 
 <div class="half">
-<figure>
+<figure id="fig:diminution">
 <img
 data-src="https://i.pinimg.com/originals/f9/84/84/f98484e7cdc40f9fc6860b88da193b0a.jpg"
-id="fig:diminution" class="nobg"
+class="nobg"
 alt="Contratura de colunas segundo Vitrúvio e Alberti, diagrama por Vila Domini, 2003" />
 <figcaption aria-hidden="true">Contratura de colunas segundo Vitrúvio e
 Alberti, diagrama por <a
@@ -1667,10 +1698,10 @@ diferença de escala entre os eixos vertical e horizontal era pela
 praticidade de se tirar medidas a partir desse diagrama (fig. 61).</p>
 </aside>
 <div class="half">
-<figure>
+<figure id="fig:entasis-didyma">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2022/06/wright-ancient_building_technology_3-2000-0010.1.png"
-id="fig:entasis-didyma" class="line"
+class="line"
 alt="Diagrama de êntase das colunas no canteiro do templo de Apolo em Dídima, c. 300 a.C., reproduzido em Wright, Ancient Building Technology. 1 – topo do fuste, 2 – eixo da coluna, 3 – moldura da base." />
 <figcaption aria-hidden="true">Diagrama de êntase das colunas no
 canteiro do templo de Apolo em Dídima, c. 300 a.C., reproduzido em
@@ -1687,10 +1718,10 @@ eixo da coluna, 3 – moldura da base.</figcaption>
 pelo arquiteto italiano Fra Giocondo no século <span
 class="smallcaps">XVI</span> (fig. 62).</p>
 </aside>
-<figure>
+<figure id="fig:entasis-giocondo">
 <img
 data-src="https://i.pinimg.com/originals/86/db/f5/86dbf5dd06ea4a7141dce4ac145ff7bd.png"
-id="fig:entasis-giocondo" class="line"
+class="line"
 alt="Esquema da êntase de uma coluna clássica, na edição do tratado de Vitrúvio por Fra Giocondo, século XVI (redesenhado no século XX)" />
 <figcaption aria-hidden="true">Esquema da êntase de uma coluna clássica,
 na edição do tratado de Vitrúvio por Fra Giocondo, século <span
@@ -1720,13 +1751,17 @@ por trás da fachada. Às vezes, como no complexo termal romano de Sardis,
 os níveis sobrepostos são apenas um expediente de articulação da fachada
 num edifício que tem um pavimento único (fig. 63).</p>
 </aside>
+<figure id="fig:palestra-sardis">
 <video
 data-src="https://cdn.palazzo.arq.br/firmitas/arquitravada/mixkit-facade-of-an-ancient-building-in-ruins-from-above-39164-medium.mp4"
-title="fig:" id="fig:palestra-sardis" class="slide-bg outset r-stretch"
-controls=""><a
+class="slide-bg outset r-stretch" controls=""><a
 href="https://cdn.palazzo.arq.br/firmitas/arquitravada/mixkit-facade-of-an-ancient-building-in-ruins-from-above-39164-medium.mp4">Termas
 e palestra (ginásio) romanos de Sardis, Lídia, final do séc. II
 d.C.</a></video>
+<figcaption aria-hidden="true">Termas e palestra (ginásio) romanos de
+Sardis, Lídia, final do séc. <span class="smallcaps">II</span>
+d.C.</figcaption>
+</figure>
 <!--
    -## Tramos alternados ## {data-background-image=""}
    -
@@ -1749,10 +1784,9 @@ d.C.</a></video>
 <section id="construção-em-pedra" class="slide level2">
 <h2>Construção em pedra</h2>
 <div class="align-right">
-<figure>
+<figure id="fig:choisy">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/20/Auguste_Choisy_par_Eugène_Pirou.jpg"
-id="fig:choisy"
 alt="Auguste Choisy (1841–1909) fotografado por Eugène Pirou, 1904" />
 <figcaption aria-hidden="true">Auguste Choisy (1841–1909) fotografado
 por Eugène Pirou, 1904</figcaption>
@@ -1775,10 +1809,10 @@ geral reservada para a construção naval e mesmo assim importada.</p>
 <section class="slide level2">
 
 <div class="half">
-<figure>
+<figure id="fig:choisy-1.14a">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Choisy-bnf-bpt6k6417116t_0040.png"
-id="fig:choisy-1.14a" class="line"
+class="line"
 alt="Pilares e lajes em pedra no Egito antigo. Choisy, 1899" />
 <figcaption aria-hidden="true">Pilares e lajes em pedra no Egito antigo.
 <a
@@ -1796,10 +1830,10 @@ estrutural (fig. 65).</p>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:durm-140">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Gebalk_des_Zeustempel_in_Athen-Durm_Baukunst_der_Griechen_abb.140.png/1075px-Gebalk_des_Zeustempel_in_Athen-Durm_Baukunst_der_Griechen_abb.140.png"
-id="fig:durm-140" class="line"
+class="line"
 alt="Arquitrave do templo de Zeus Olímpico, Atenas, século II d.C. Josef Durm, 1910" />
 <figcaption aria-hidden="true">Arquitrave do templo de Zeus Olímpico,
 Atenas, século <span class="smallcaps">II</span> d.C. <a
@@ -1826,10 +1860,9 @@ sobre como montar uma estrutura arquitravada.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:coffer-heph">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Gr-athina-hephaisteion-110601-pp-4523.jpg/2560px-Gr-athina-hephaisteion-110601-pp-4523.jpg"
-id="fig:coffer-heph"
 alt="Templo de Hefesto, Atenas, c. 450 a.C., teto com vigas e artesões em pedra. Foto: Pedro P. Palazzo. 2011" />
 <figcaption aria-hidden="true">Templo de Hefesto, Atenas, c. 450 a.C.,
 teto com vigas e artesões em pedra. Foto: <a
@@ -1854,11 +1887,17 @@ data-background-size="contain">
 <h2
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/d/d9/Parthenon_Opisthodom_abb.152.png"
 data-background-size="contain"></h2>
+<figure id="fig:opisthodom-durm">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Parthenon_Opisthodom_abb.152.png/1024px-Parthenon_Opisthodom_abb.152.png"
-title="fig:" id="fig:opisthodom-durm"
 class="line slide-bg outset r-stretch"
 alt="Opistódomo do Partenon, corte perspectivado mostrando a estrutura das vigas, barrotes e artesões por Josef Durm, 1910" />
+<figcaption aria-hidden="true">Opistódomo do Partenon, corte
+perspectivado mostrando a estrutura das vigas, barrotes e artesões por
+<a
+href="https://commons.wikimedia.org/wiki/Category:Handbuch_der_Architektur_(1892)">Josef
+Durm, 1910</a></figcaption>
+</figure>
 </section>
 <section id="section-16" class="slide level2"
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/56/Nordhalle_des_Erechtheions_Deckenconstruction_abb.153.png"
@@ -1867,10 +1906,16 @@ data-background-size="contain" data-background-position="right">
 data-background-image="https://upload.wikimedia.org/wikipedia/commons/5/56/Nordhalle_des_Erechtheions_Deckenconstruction_abb.153.png"
 data-background-size="contain" data-background-position="right"></h2>
 <div class="half">
+<figure id="fig:erech-durm">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Nordhalle_des_Erechtheions_Deckenconstruction_abb.153.png/648px-Nordhalle_des_Erechtheions_Deckenconstruction_abb.153.png"
-title="fig:" id="fig:erech-durm" class="line slide-bg r-stretch"
+class="line slide-bg r-stretch"
 alt="Teto artesoado do salão norte do Erecteion, Atenas, desenho por Josef Durm, 1910" />
+<figcaption aria-hidden="true">Teto artesoado do salão norte do
+Erecteion, Atenas, desenho por <a
+href="https://commons.wikimedia.org/wiki/Category:Handbuch_der_Architektur_(1892)">Josef
+Durm, 1910</a></figcaption>
+</figure>
 </div>
 </section>
 <section id="conclusão" class="slide level2">
@@ -1896,9 +1941,8 @@ paredes portantes.</p>
 class="title-slide slide level1 unnumbered unlisted allowframebreaks">
 <h1 class="unnumbered unlisted allowframebreaks">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-chambers:1759treatise" class="csl-entry"
-role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-chambers:1759treatise" class="csl-entry" role="listitem">
 Chambers, William. <em>A Treatise on Civil Architecture : In Which the
 Principles of That Art Are Laid down, and Illustrated by a Great Number
 of Plates Accurately Designed, and Elegantly Engraved by the Best
@@ -1906,91 +1950,79 @@ Hands</em>. Printed for the author by J. Haberkorn, 1759.
 <em>archive.org</em>, <a
 href="https://archive.org/details/gri_33125011135288">https://archive.org/details/gri_33125011135288</a>.
 </div>
-<div id="ref-chipiez:1876histoire" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-chipiez:1876histoire" class="csl-entry" role="listitem">
 Chipiez, Charles. <em>Histoire critique des origines et de la formation
 des ordres grecs</em>. Ve A. Morel &amp; cie., 1876. <em>Internet
 Archive</em>, <a
 href="http://archive.org/details/histoirecritique00chip">http://archive.org/details/histoirecritique00chip</a>.
 </div>
-<div id="ref-choisy:1899histoire1" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-choisy:1899histoire1" class="csl-entry" role="listitem">
 Choisy, Auguste. <em>Histoire de l’architecture</em>. Gauthier-Villars,
 1899, <a
 href="https://archive.org/details/bnf-bpt6k6417116t/">https://archive.org/details/bnf-bpt6k6417116t/</a>.
 </div>
-<div id="ref-domini:2003diminution" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-domini:2003diminution" class="csl-entry" role="listitem">
 Domini, David A. Vila. <span>“The Diminution of the Classical Column:
 Visual Sensibility in Antiquity and the Renaissance”</span>. <em>Nexus
 Network Journal</em>, vol. 5, nº 1, abril de 2003, p. 99–124.
 <em>DOI.org (Crossref)</em>, <a
 href="https://doi.org/10.1007/s00004-002-0006-4">https://doi.org/10.1007/s00004-002-0006-4</a>.
 </div>
-<div id="ref-durm:1905baukunst" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-durm:1905baukunst" class="csl-entry" role="listitem">
 Durm, Josef. <em>Die Baukunst der Etrusker. Die Baukunst der Römer</em>.
 2º ed, A. Bergsträsser, 1905. <em>Internet Archive</em>, <a
 href="http://archive.org/details/handbuchderarch00wagngoog">http://archive.org/details/handbuchderarch00wagngoog</a>.
 </div>
-<div id="ref-durm:1910baukunst" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-durm:1910baukunst" class="csl-entry" role="listitem">
 Durm, Josef Wilhelm. <em>Die Baukunst der Griechen</em>. 3º ed, A.
 Kröner, 1910. <em>Internet Archive</em>, <a
 href="http://archive.org/details/diebaukunstdergr00durmuoft">http://archive.org/details/diebaukunstdergr00durmuoft</a>.
 </div>
-<div id="ref-fu:2017traditional" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-fu:2017traditional" class="csl-entry" role="listitem">
 Fu, Xinian. <em>Traditional Chinese Architecture: Twelve Essays</em>.
 Organizado por Nancy Shatzman Steinhardt, Traduzido por Alexandra
 Harrer, Princeton University Press, 2017. <em>Library of Congress
 ISBN</em>, <a
 href="https://www.jstor.org/stable/j.ctt21668kt.1">https://www.jstor.org/stable/j.ctt21668kt.1</a>.
 </div>
-<div id="ref-haklay:2015new10" class="csl-entry" role="doc-biblioentry">
+<div id="ref-haklay:2015new10" class="csl-entry" role="listitem">
 Haklay, Gil, e Avi Gopher. <span>“A New Look at Shelter 131/51 in the
 Natufian Site of Eynan (Ain-Mallaha), Israel”</span>. <em><span
 class="smallcaps">PLOS ONE</span></em>, vol. 10, nº 7, agosto de 2015,
 p. e0130121. <em>PLoS Journals</em>, <a
 href="https://doi.org/10.1371/journal.pone.0130121">https://doi.org/10.1371/journal.pone.0130121</a>.
 </div>
-<div id="ref-kamayura:2019manual" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-kamayura:2019manual" class="csl-entry" role="listitem">
 Kamayurá (povo). <em>Manual da arquitetura kamayurá</em>. Escola da
 Cidade, 2019, <a
 href="https://issuu.com/annajubs/docs/190812_casakamayurasingles">https://issuu.com/annajubs/docs/190812_casakamayurasingles</a>.
 </div>
-<div id="ref-laugier:1753essai" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-laugier:1753essai" class="csl-entry" role="listitem">
 Laugier, Marc-Antoine. <em>Essai sur l’architecture</em>. Duchesne,
 1753. <em>Internet Archive</em>, <a
 href="http://archive.org/details/essaisurlarchite00laug">http://archive.org/details/essaisurlarchite00laug</a>.
 </div>
-<div id="ref-liang:1984pictorial" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-liang:1984pictorial" class="csl-entry" role="listitem">
 Liang, Sicheng. <em>A Pictorial History of Chinese Architecture: A Study
 of the Development of Its Structural System and the Evolution of Its
 Types = 图像中国建筑史</em>. Organizado por Wilma Fairbank, <span
 class="smallcaps">MIT</span> Press, 1984.
 </div>
 <div id="ref-quatremere:1788caractere" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Quatremère de Quincy, Antoine Chrysosthome. <span>“Caractère”</span>.
 <em>Architecture</em>, organizado por A.C. Quatremère de Quincy, vol. 1,
 Panckouke, 1788, p. 477–518.
 </div>
-<div id="ref-vitruvio:2007tratado" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-vitruvio:2007tratado" class="csl-entry" role="listitem">
 Vitrúvio. <em>Tratado de arquitetura</em>. Traduzido por M. Justino
 Maciel, Martins Fontes, 2007.
 </div>
-<div id="ref-watanabe:1974shinto" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-watanabe:1974shinto" class="csl-entry" role="listitem">
 Watanabe, Yasutada. <em>Shinto Art : Ise and Izumo Shrines</em>.
 Weatherhill, 1974. Biblioteca Central - UNB 726(520) W314i.
 </div>
-<div id="ref-wright:2000ancient3" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-wright:2000ancient3" class="csl-entry" role="listitem">
 Wright, George R. H. <em>Ancient Building Technology</em>. Brill, 2000.
 </div>
 </div>

@@ -60,7 +60,7 @@ var store = [{
         "teaser": null
       },{
         "title": "Proporção e escala",
-        "excerpt":"Proporção e estética Figura 1: Princípios vitruvianos Por que proporções estão sendo tratadas na parte do curso que se dedica aos elementos de composição, e não naquela que trata das teorias da arquitetura? É um equívoco acreditarmos que a “boa forma” de uma construção seja um resultado estético que precisa...","categories": [],
+        "excerpt":"Proporção e estética . . . Figura 1: Princípios vitruvianos Por que proporções estão sendo tratadas na parte do curso que se dedica aos elementos de composição, e não naquela que trata das teorias da arquitetura? É um equívoco acreditarmos que a “boa forma” de uma construção seja um resultado...","categories": [],
         "tags": [],
         "url": "/TAU0005/aula/proporcionar/",
         "teaser": null

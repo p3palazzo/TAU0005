@@ -17,16 +17,22 @@
     }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
     ul.task-list{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
+    /* CSS for citations */
     div.csl-bib-body { }
     div.csl-entry {
       clear: both;
     }
-    .hanging div.csl-entry {
+    .hanging-indent div.csl-entry {
       margin-left:2em;
       text-indent:-2em;
     }
@@ -40,8 +46,7 @@
     }
     div.csl-indent {
       margin-left: 2em;
-    }
-  </style>
+    }  </style>
   <link rel="stylesheet" href="../reveal.js/dist/theme/black.css" id="theme">
   <link rel="stylesheet" href="../../assets/css/revealjs-main.css"/>
 </head>
@@ -129,10 +134,9 @@ reformular a arquitetura modernista.</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:hatef2018-9.24">
 <img
 data-src="https://i.pinimg.com/originals/5f/dc/4b/5fdc4b64a1af00016c5dbd5badaddfbf.png"
-id="fig:hatef2018-9.24"
 alt="Complexo habitacional de Dhishīr, província de Yazd, Irã. Diagramas por Hatef Naiemi, 2018" />
 <figcaption aria-hidden="true">Complexo habitacional de Dhishīr,
 província de Yazd, Irã. Diagramas por Hatef Naiemi, 2018</figcaption>
@@ -160,10 +164,9 @@ mestras) que determinam o módulo da edificação como um todo.</p>
 <section id="escalas" class="slide level2">
 <h2>Escalas</h2>
 <!-- Inserir aqui as notas da aula de 21/10/2021 -->
-<figure>
+<figure id="fig:hatef2018-9.8">
 <img
 data-src="https://i.pinimg.com/originals/aa/80/1b/aa801bcd1db94e7b33eb16aa64ecfd3b.png"
-id="fig:hatef2018-9.8"
 alt="Complexos de refúgio de Tīzuk e Chāh Afḍal, província de Yazd, Irã. Planta por Hatef Naiemi, 2018" />
 <figcaption aria-hidden="true">Complexos de refúgio de Tīzuk e Chāh
 Afḍal, província de Yazd, Irã. Planta por Hatef Naiemi,
@@ -319,10 +322,9 @@ consequente afirmação de papéis de gênero na casa.</li>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:fort-villa">
 <img
 data-src="https://i.pinimg.com/originals/e1/43/d1/e143d14acdb8f920ef42f7932c01facc.jpg"
-id="fig:fort-villa"
 alt="Villa parcialmente fortificada na época romana tardia, séculos IV–VI" />
 <figcaption aria-hidden="true"><em>Villa</em> parcialmente fortificada
 na época romana tardia, séculos <span
@@ -332,10 +334,10 @@ class="smallcaps">IV–VI</span></figcaption>
 <section class="slide level2">
 
 <div class="align-right">
-<figure>
+<figure id="fig:raddoppi">
 <img
 data-src="https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png"
-id="fig:raddoppi" class="line"
+class="line"
 alt="Tipos de base e duplicações na edilícia de base do Mediterrâneo medieval, segundo Caniggia" />
 <figcaption aria-hidden="true">Tipos de base e duplicações na edilícia
 de base do Mediterrâneo medieval, segundo Caniggia</figcaption>
@@ -344,10 +346,9 @@ de base do Mediterrâneo medieval, segundo Caniggia</figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:cotswold">
 <img
 data-src="https://i.pinimg.com/originals/25/a1/80/25a180516a2a01f5faf8fcdee19c23f9.jpg"
-id="fig:cotswold"
 alt="Casa–salão do norte da Europa: construção em Burford, Inglaterra" />
 <figcaption aria-hidden="true">Casa–salão do norte da Europa: construção
 em Burford, Inglaterra</figcaption>
@@ -402,11 +403,10 @@ de mercado de um lado e, do outro, um edifício alongado com colunas
 internas.</p>
 </aside>
 <div class="full">
-<figure>
+<figure id="fig:7types">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/09/building-types.png"
-id="fig:7types" class="nobg"
-alt="Sete tipos edilícios. Baseado em Westfall, 1991" />
+class="nobg" alt="Sete tipos edilícios. Baseado em Westfall, 1991" />
 <figcaption aria-hidden="true">Sete tipos edilícios. Baseado em
 Westfall, 1991</figcaption>
 </figure>
@@ -415,10 +415,9 @@ Westfall, 1991</figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:attalos-view">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Gr-athina-stoa_attalos-110530-pp-4350.jpg/2560px-Gr-athina-stoa_attalos-110530-pp-4350.jpg"
-id="fig:attalos-view"
 alt="Pórtico de Átalo na ágora de Atenas. Reconstituição do original da metade do século II a.C. segundo projeto de John Travlos e supervisão estrutural de Georgios Biris, 1953–1956. Foto: Pedro P. Palazzo, 2011" />
 <figcaption aria-hidden="true">Pórtico de Átalo na ágora de Atenas.
 Reconstituição do original da metade do século <span
@@ -437,10 +436,10 @@ figs. 7-9</p>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:attalos-plans">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/10/ascsa-2008.20.0061.png"
-id="fig:attalos-plans" class="line"
+class="line"
 alt="Pórtico de Átalo. Planta do térreo: acervo da American School of Classical Studies at Athens, cota 2008.20.0061" />
 <figcaption aria-hidden="true">Pórtico de Átalo. Planta do térreo:
 acervo da <a
@@ -452,10 +451,9 @@ School of Classical Studies at Athens, cota
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:attalos-secpersp">
 <img
 data-src="http://agora.ascsa.net/image?type=full&amp;id=Agora:Image:1997.08.0400"
-id="fig:attalos-secpersp"
 alt="Pórtico de Átalo. Corte perspectivado do projeto de John Travlos por W. H. Thompson &amp; Phelps Barnum Architects, 1953. Acervo da American School of Classical Studies at Athens, cota 1997.08.0400" />
 <figcaption aria-hidden="true">Pórtico de Átalo. Corte perspectivado do
 projeto de John Travlos por W. H. Thompson &amp; Phelps Barnum
@@ -476,10 +474,10 @@ class="citation"
 data-cites="roth-conges:1987lhypothese99">(Roth-Congès)</span>, por
 exemplo em Conimbriga. fig. 10</p>
 </aside>
-<figure>
+<figure id="fig:conimbriga">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/10/roma-lusitania-conimbriga-forum_augustanus-870000-arc-02.png"
-id="fig:conimbriga" class="line"
+class="line"
 alt="Fórum de Conimbriga com basílica de duas naves, Lusitânia romana (atual Portugal), final do século I a.C. Registro arqueológico por Anne Roth Congès, 1987" />
 <figcaption aria-hidden="true">Fórum de Conimbriga com basílica de duas
 naves, Lusitânia romana (atual Portugal), final do século <span
@@ -491,10 +489,9 @@ Roth Congès, 1987</a></figcaption>
 <section class="slide level2">
 
 <div class="full">
-<figure>
+<figure id="fig:sempronia">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/9/93/BasilicaSemproniaReconstruction.jpg"
-id="fig:sempronia"
 alt="Basílica de Semprônio, fórum Romano, 169 a.C. Reconstituição digital: Susanne Muth, 2014" />
 <figcaption aria-hidden="true">Basílica de Semprônio, fórum Romano, 169
 a.C. Reconstituição digital: <a
@@ -533,10 +530,9 @@ associa cada vez mais à complexidade da <em>composição</em> espacial
 para compatibilizar vários edifícios e propósitos num mesmo conjunto
 monumental.</p>
 </aside>
-<figure>
+<figure id="fig:ulpia-elv">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/6/62/Basilica_Ulpia_J_Guadet_1867.jpg"
-id="fig:ulpia-elv"
 alt="Basílica Úlpia no fórum de Trajano, Roma, 105–107 d.C. Desenho: Julien Guadet, 1867" />
 <figcaption aria-hidden="true">Basílica Úlpia no fórum de Trajano, Roma,
 105–107 d.C. Desenho: <a
@@ -546,10 +542,9 @@ Guadet, 1867</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:traiano-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Foro_de_Trajano-planta.png"
-id="fig:traiano-plan"
 alt="Planta do fórum de Trajano em Roma. 3coma14, 2011" />
 <figcaption aria-hidden="true">Planta do fórum de Trajano em Roma. <a
 href="https://commons.wikimedia.org/wiki/File:Foro_de_Trajano-planta.png">3coma14,
@@ -565,20 +560,19 @@ articular plasticamente a importância do edifício no espaço público, por
 meio da riqueza das ordens clássicas e do programa escultórico associado
 (fig. 14).</p>
 </aside>
-<figure>
+<figure id="fig:ulpia-sec">
 <img
 data-src="https://i.pinimg.com/originals/bc/bc/3b/bcbc3b5685a9633bcd74c2ed003c642d.jpg"
-id="fig:ulpia-sec" alt="Corte perspectivado da basílica Úlpia" />
+alt="Corte perspectivado da basílica Úlpia" />
 <figcaption aria-hidden="true">Corte perspectivado da basílica
 Úlpia</figcaption>
 </figure>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:aula-int">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Trier_Konstantinbasilika_BW_4.JPG/1024px-Trier_Konstantinbasilika_BW_4.JPG"
-id="fig:aula-int"
 alt="Aula Palatina ou basílica de Constantino, Tréveris (atual Alemanha), 310 d.C. Foto: Berthold Werner, 2008" />
 <figcaption aria-hidden="true">Aula Palatina ou basílica de Constantino,
 Tréveris (atual Alemanha), 310 d.C. Foto: <a
@@ -606,10 +600,9 @@ convertidos em igrejas, sendo a basílica sua forma preferencial. O
 exemplo canônico é a antiga basílica de São Pedro, iniciada ainda
 durante o reinado do imperador Constantino (fig. 16).</p>
 </aside>
-<figure>
+<figure id="fig:oldspete">
 <img
 data-src="https://i.pinimg.com/originals/dd/89/05/dd8905ce83f44e7e01ce9b2d6bc18518.jpg"
-id="fig:oldspete"
 alt="Reconstituição digital da basílica primitiva de S. Pedro, Roma, c. 330" />
 <figcaption aria-hidden="true">Reconstituição digital da basílica
 primitiva de S. Pedro, Roma, c. 330</figcaption>
@@ -617,22 +610,27 @@ primitiva de S. Pedro, Roma, c. 330</figcaption>
 </section>
 <section class="slide level2">
 
-<div id="fig:ulpia-stpetes" class="subfigures columns">
+<figure id="fig:ulpia-stpetes" class="subfigures columns">
 <div class="column" style="width:50%;">
-<figure>
+<figure id="fig:ulpia-stpetesA">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/2/22/Ulpia-historyofarchite00flet_0212.png"
-id="fig:ulpia-stpetesA" class="line" />
+class="line" alt="basílica Úlpia" />
+<figcaption></figcaption>
 </figure>
-</div><div class="column" style="width:50%;">
-<figure>
+</div>
+<div class="column" style="width:50%;">
+<figure id="fig:ulpia-stpetesB">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/a/a6/Old_Saint_Peters-historyofarchite00flet_0261.png"
-id="fig:ulpia-stpetesB" class="line" />
+class="line" alt="basílica de São Pedro" />
+<figcaption></figcaption>
 </figure>
-</div><p>Basílica romana clássica e paleocristã, plantas por Banister
-Fletcher (sem escala). a – basílica Úlpia, b – basílica de São Pedro</p>
 </div>
+<figcaption><p>Basílica romana clássica e paleocristã, plantas por
+Banister Fletcher (sem escala). a – basílica Úlpia, b – basílica de São
+Pedro</p></figcaption>
+</figure>
 <aside class="notes">
 <p>Desse modo, encontra-se uma configuração relativamente padrão nesse
 grande salão com colunatas e um espaço central mais alto, que vai se
@@ -654,10 +652,9 @@ porque foram construídas no reino dos visigodos, nos séculos <span
 class="smallcaps">VI</span> e <span class="smallcaps">VII</span>,
 principalmente no noroeste da península Ibérica. fig. 18</p>
 </aside>
-<figure>
+<figure id="fig:comba-vista">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Santa_Comba,_Bande,_exterior_(14712548645).jpg/1024px-Santa_Comba,_Bande,_exterior_(14712548645).jpg"
-id="fig:comba-vista"
 alt="Igreja de Santa Comba de Bande (Galiza, Espanha), século VI ou VII. Foto: Pedro P. Palazzo, 2014" />
 <figcaption aria-hidden="true">Igreja de Santa Comba de Bande (Galiza,
 Espanha), século <span class="smallcaps">VI</span> ou <span
@@ -668,10 +665,10 @@ P. Palazzo, 2014</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:comba-plan">
 <img
 data-src="https://i.pinimg.com/originals/1a/25/c9/1a25c98b6c2b0b0c04d73eb945926223.jpg"
-id="fig:comba-plan" alt="Igreja de Santa Comba de Bande, planta" />
+alt="Igreja de Santa Comba de Bande, planta" />
 <figcaption aria-hidden="true">Igreja de Santa Comba de Bande,
 planta</figcaption>
 </figure>
@@ -695,10 +692,9 @@ eventual de abóbadas e a adoção de soluções arquitetônicas e
 construtivas romanas clássicas, que vão se transformando paulatinamente,
 conforme mudanças de gosto e localização geográfica.</p>
 </aside>
-<figure>
+<figure id="fig:valde-vista">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Valdediós_(revisitado)_(12566036363).jpg/1024px-Valdediós_(revisitado)_(12566036363).jpg"
-id="fig:valde-vista"
 alt="Igreja de San Salvador, Valdediós (Leão, Espanha), 893. Foto: Ángel M. Felicísimo, 2008" />
 <figcaption aria-hidden="true">Igreja de San Salvador, Valdediós (Leão,
 Espanha), 893. Foto: <a
@@ -709,11 +705,10 @@ M. Felicísimo, 2008</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:valde-plan">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/San_Salvador_de_Valdediós_plan.svg/2556px-San_Salvador_de_Valdediós_plan.svg.png"
-id="fig:valde-plan" class="line"
-alt="Igreja de San Salvador. Planta: Ch1902, 2008" />
+class="line" alt="Igreja de San Salvador. Planta: Ch1902, 2008" />
 <figcaption aria-hidden="true">Igreja de San Salvador. Planta: <a
 href="https://commons.wikimedia.org/wiki/File:San_Salvador_de_Valdediós_plan.svg">Ch1902,
 2008</a></figcaption>
@@ -736,10 +731,9 @@ clássica, sendo necessário criar algo para substituí-la, mas sim a um
 processo que vai se desenrolando gradualmente sem grande
 intencionalidade.</p>
 </aside>
-<figure>
+<figure id="fig:cuxa-plan">
 <img
 data-src="https://hcommons.org/app/uploads/sites/1002372/2021/10/abbaye_saint-michel-de-cuxa_grundriss_erdgeschoss_handskizze.jpg"
-id="fig:cuxa-plan"
 alt="Igreja da abadia de Sant Miquel de Cuixà, condado de Barcelona (atual sul da França), 956–974. Planta: Jochen Jahnke, 2011" />
 <figcaption aria-hidden="true">Igreja da abadia de Sant Miquel de Cuixà,
 condado de Barcelona (atual sul da França), 956–974. Planta: <a
@@ -750,10 +744,9 @@ Jahnke, 2011</a></figcaption>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:cuxa-ext">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Abbaye_Saint-Michel_de_Cuxa_02.jpg/1024px-Abbaye_Saint-Michel_de_Cuxa_02.jpg"
-id="fig:cuxa-ext"
 alt="Igreja da abadia de Sant Miquel de Cuixà. Foto: H. Zell, 2019" />
 <figcaption aria-hidden="true">Igreja da abadia de Sant Miquel de Cuixà.
 Foto: <a
@@ -767,10 +760,9 @@ baixas e coberturas em meia-água (fig. 23).</p>
 </section>
 <section class="slide level2">
 
-<figure>
+<figure id="fig:cuixa-int">
 <img
 data-src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Codalet_(66)_Abbaye_Saint-Michel_de_Cuxa_Église_10.JPG/1024px-Codalet_(66)_Abbaye_Saint-Michel_de_Cuxa_Église_10.JPG"
-id="fig:cuixa-int"
 alt="Igreja da abadia de Sant Miquel de Cuixà. Foto: GO69, 2014" />
 <figcaption aria-hidden="true">Igreja da abadia de Sant Miquel de Cuixà.
 Foto: <a
@@ -943,14 +935,14 @@ forma final: pedreiro é entalhador.</li>
 class="title-slide slide level1 unnumbered allowframebreaks unlisted">
 <h1 class="unnumbered allowframebreaks unlisted">Bibliografia</h1>
 <div id="refs" class="references csl-bib-body hanging-indent"
-data-line-spacing="2" role="doc-bibliography">
-<div id="ref-buras:2019art" class="csl-entry" role="doc-biblioentry">
+data-line-spacing="2" role="list">
+<div id="ref-buras:2019art" class="csl-entry" role="listitem">
 Buras, Nir Haim. <em>The Art of Classic Planning: Building Beautiful and
 Enduring Communities</em>. The Belknap Press of Harvard University
 Press, 2019.
 </div>
 <div id="ref-celentano:2021materials6" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Celentano, Giulia, e Guillaume Habert. <span>“Beyond Materials: The
 Construction Process in Space, Time and Culture in the Informal
 Settlement of Mathare, Nairobi”</span>. <em>Development
@@ -959,25 +951,23 @@ Engineering</em>, vol. 6, janeiro de 2021, p. 100071.
 href="https://doi.org/10.1016/j.deveng.2021.100071">https://doi.org/10.1016/j.deveng.2021.100071</a>.
 </div>
 <div id="ref-curtis:1923architectural" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Curtis, Nathaniel Cortlandt. <em>Architectural Composition</em>. J. H.
 Janson, 1923.
 </div>
-<div id="ref-gabriel:2004classical" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-gabriel:2004classical" class="csl-entry" role="listitem">
 Gabriel, J. François. <em>Classical Architecture for the Twenty-First
 Century: An Introduction to Design</em>. W.W. Norton, 2004.
 </div>
 <div id="ref-roth-conges:1987lhypothese99" class="csl-entry"
-role="doc-biblioentry">
+role="listitem">
 Roth-Congès, Anne. <span>“L’hypothèse d’une basilique à deux nefs à
 Conimbriga et les transformations du forum”</span>. <em>Mélanges de
 l’école française de Rome</em>, vol. 99, nº 2, 1987, p. 711–51.
 <em>www.persee.fr</em>, <a
 href="https://doi.org/10.3406/mefr.1987.1566">https://doi.org/10.3406/mefr.1987.1566</a>.
 </div>
-<div id="ref-westfall:1991building" class="csl-entry"
-role="doc-biblioentry">
+<div id="ref-westfall:1991building" class="csl-entry" role="listitem">
 Westfall, Carroll William. <span>“Building Types”</span>.
 <em>Architectural Principles in the Age of Historicism</em>, organizado
 por Carroll William Westfall e Robert Jan van Pelt, Yale University
