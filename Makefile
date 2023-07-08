@@ -6,11 +6,11 @@ vpath %.html . _includes _layouts _site
 vpath %.scss _sass slides/reveal.js/css/theme/template
 vpath %.yaml . _spec _data
 
-PANDOC_VERSION  := 2.18
-JEKYLL_VERSION  := 4.2.0
+PANDOC_VERSION  := 3.1.1
+JEKYLL_VERSION  := 4.2.2
 PANDOC/CROSSREF := docker run --rm -v "`pwd`:/data" \
 	-u "`id -u`:`id -g`" pandoc/core:$(PANDOC_VERSION)
-JEKYLL := palazzo/jekyll-tufte:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
+JEKYLL := palazzo/jekyll-pandoc:$(JEKYLL_VERSION)-$(PANDOC_VERSION)
 
 ASSETS  = $(wildcard assets/*)
 AULA    = $(wildcard _aula/*.md)
