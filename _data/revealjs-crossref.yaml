@@ -1,0 +1,5 @@
+ccsLabelSep   : "&nbsp;&ndash;&nbsp;"
+tableTemplate: $$t$$
+figureTemplate: $$t$$
+subfigureTemplate: $$t$$. $$ccs$$
+subfigureChildTemplate:

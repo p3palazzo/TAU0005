@@ -317,8 +317,11 @@ defaults:
       path: ""
       type: aula
     values:
+      author_profile: false
       layout: single
+      read_time: true
       show_date: true
+      #toc: true
   # _posts
   - scope:
       path: ""

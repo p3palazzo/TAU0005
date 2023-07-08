@@ -1819,5 +1819,5 @@ nem sempre essa distinção material é muito evidente --- o mais comum é a
 diferença estar no rigor geométrico e decorativo das construções.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Bibliografia {- .unlisted .allowframebreaks}
+# Bibliografia {- .unlisted .allowframebreaks data-visibility="hidden"}
 

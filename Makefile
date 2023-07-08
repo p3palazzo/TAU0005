@@ -26,11 +26,10 @@ _site : $(SLIDES)
 	@docker run --rm -v "`pwd`:/srv/jekyll" \
 		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
 
-slides/%/index.html : _aula/%.md revealjs.yaml \
-	revealjs-crossref.yaml biblio.yaml $(SASS) \
-	assets/css/revealjs-main.scss
+slides/%/index.html : _aula/%.md _data/revealjs.yaml \
+	biblio.yaml assets/css/revealjs-main.scss $(SASS)
 	@-mkdir -p $(@D)
-	@$(PANDOC) -o $@ -d _spec/revealjs.yaml $<
+	@$(PANDOC) -o $@ -d _data/revealjs.yaml $<
 	@echo $(@D)
 
 .PRECIOUS : assets/css/revealjs-main.scss
