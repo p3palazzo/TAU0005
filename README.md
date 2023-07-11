@@ -1,6 +1,6 @@
 # TAU 0005 : História da Arquitetura e da Arte I : FAU–UnB #
 
-![GitHub Pages](https://github.com/p3palazzo/TAU0006/actions/workflows/jekyll-gh-pages.yml/badge.svg)
+![GitHub Pages](https://github.com/p3palazzo/TAU0006/actions/workflows/jekyll.yml/badge.svg)
 
 > História do urbanismo, da arquitetura e da arte no contexto de seus
 > condicionantes sociais, econômicos e políticos, desde os primórdios da
