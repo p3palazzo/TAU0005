@@ -20,13 +20,13 @@ intro:
     title     : "História e arquitetura"
     excerpt   : "História ou arquitetura – Continuidade e ruptura – Arquitetura é construção – Construção tradicional e moderna"
     url       : "/aula/arqtrad/"
-    btn_label : "28 de março"
+    btn_label : "29 de agosto"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Course_of_Empire_The_Savage_State_1836-crop.jpg
     title     : "Processos da arquitetura"
     excerpt   : "Introdução à disciplina – Ordem e lugar – Preferência temporal e local – Alegoria da cabana primitiva"
     url       : "/aula/processos/"
-    btn_label : "28 de março"
+    btn_label : "6 de setembro"
     btn_class : "btn btn--inverse btn--small"
 
 intro_atividade:
@@ -34,7 +34,7 @@ intro_atividade:
     title     : "Atividade de nivelamento"
     excerpt   : "Cabana primitiva"
     url       : "/trabalho/cabana/"
-    btn_label : "Entrega 18 de abril"
+    btn_label : "Entrega 12 de setembro"
     btn_class : "btn btn--inverse btn--small"
 
 semana_santa:
@@ -50,31 +50,31 @@ firmitas:
     title     : "Taipas e fundações"
     excerpt   : "Materiais tradicionais – Construções semienterradas – Plataformas e terraplenos – Fundações"
     url       : "/aula/taipa/"
-    btn_label : "11 de abril"
+    btn_label : "12 de setembro"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Consummation_The_Course_of_the_Empire_1836-crop.jpg
     title     : "Construção arquitravada"
     excerpt   : "Tendas e cabanas – Colunas e vigas – Assoalhos e terraços – Arquitetura clássica"
     url       : "/aula/arquitravada/"
-    btn_label : "18 de abril"
+    btn_label : "19 de setembro"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2023/03/640px-gotou-xian-sonraku-zanshou-1989.jpg
     title     : "Construção murária"
     excerpt   : "Princípios da construção murária – Arquitetura subtrativa – Materiais naturais e cozidos – Aparelhos"
     url       : "/aula/muraria/"
     btn_class : "btn btn--inverse btn--small"
-    btn_label : "25 de abril"
+    btn_label : "3 de outubro"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/05/640px-kawase_hasui_evening_moon_over_temple034333-bg.jpg
     title     : "Coberturas e superfícies"
     excerpt   : "Função e estrutura das coberturas – Formas básicas de carpintaria – Carpintaria chinesa – Revestimentos"
     url       : "/aula/coberturas/"
-    btn_label : "2 de maio"
+    btn_label : "10 de outubro"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Hubert_Robert_Colonnade-crop.jpg
     title     : "Arcos e abóbadas"
     excerpt   : "Geometria e forças – Estruturas lineares – Estruturas espaciais – Consumo de trabalho e material"
     url       : "/aula/arcos/"
-    btn_label : "9 de maio"
+    btn_label : "17 de outubro"
     btn_class : "btn btn--inverse btn--small"
 
 firmitas_atividade:
@@ -82,7 +82,15 @@ firmitas_atividade:
     title     : "Trabalho I"
     excerpt   : "Edículas vernáculas"
     url       : "/trabalho/vernacular/"
-    btn_label : "Entrega 16 de maio"
+    btn_label : "Entrega 24 de outubro"
+    btn_class : "btn btn--inverse btn--small"
+
+semuni:
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2023/08/640x360px-018_Buddha_Teaching_9170009801.jpg
+    title     : "Semana Universitária"
+    excerpt   : "Não haverá aula presencial"
+    url       : "#"
+    btn_label : "26 de setembro"
     btn_class : "btn btn--inverse btn--small"
 
 utilitas:
@@ -90,19 +98,25 @@ utilitas:
     title     : "Ambiente"
     excerpt   : "Clima como variável independente – Estratégias de ventilação – Civilizações hidráulicas – Urbanismo agroexportador"
     url       : "/aula/ambiente/"
-    btn_label : "16 de maio"
+    btn_label : "24 de outubro"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Weeks_Edwin_Lord_A_Court_in_The_Alhambra_in_the_Time_of_the_Moors-crop.jpg
     title     : "Propósito"
     excerpt   : "Programa, função e propósito – Morfologia e tipologia – Tipologia processual – Cultura doméstica no Mediterrâneo"
     url       : "/aula/proposito/"
-    btn_label : "23 de maio"
+    btn_label : "31 de outubro"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_The_Course_of_Empire_Desolation_1836-crop.jpg
     title     : "Espaço"
     excerpt   : "Espaço ou vazio – Volumetria e cultura edilícia – Tipos distributivos – Elementos de composição"
     url       : "/aula/espaco/"
-    btn_label : "30 de maio"
+    btn_label : "7 de novembro"
+    btn_class : "btn btn--inverse btn--small"
+  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria-crop.jpg
+    title     : "Proporção e escala"
+    excerpt   : "Teorias estéticas – Proporções fixas – Proporções dinâmicas – Escala humana"
+    url       : "/aula/proporcionar/"
+    btn_label : "14 de novembro"
     btn_class : "btn btn--inverse btn--small"
 
 utilitas_atividade:
@@ -110,7 +124,7 @@ utilitas_atividade:
     title     : "Trabalho II"
     excerpt   : "Composição espacial"
     url       : "/trabalho/volumes"
-    btn_label : "Entrega 13 de junho"
+    btn_label : "Entrega 21 de novembro"
     btn_class : "btn btn--inverse btn--small"
 
 corpus_christi:
@@ -122,35 +136,29 @@ corpus_christi:
     btn_class : "btn btn--inverse btn--small"
 
 venustas:
-  - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-1815_Schinkel_Mittelalterliche_Stadt_an_einem_Fluss_anagoria-crop.jpg
-    title     : "Proporção e escala"
-    excerpt   : "Teorias estéticas – Proporções fixas – Proporções dinâmicas – Escala humana"
-    url       : "/aula/proporcionar/"
-    btn_label : "13 de junho"
-    btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/gerome-650px-Prayer_in_the_Mosque-crop.jpg
     title     : "Ordenar"
     excerpt   : "Propriedades arquitetônicas – Princípios do classicismo – Outros cânones – Saberes da arquitetura"
     url       : "/aula/ordenar/"
-    btn_label : "20 de junho"
+    btn_label : "21 de novembro"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-1868_Lawrence_Alma-Tadema_-_Phidias_Showing_the_Frieze_of_the_Parthenon_to_his_Friends-crop.jpg
     title     : "Articular"
     excerpt   : "Procedimentos arquitetônicos – Composições clássicas – Indicação e composição – Ofícios da construção"
     url       : "/aula/articular/"
-    btn_label : "27 de junho"
+    btn_label : "28 de novembro"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Cole_Thomas_View_of_Florence_from_San_Miniato_1837-crop.jpg
     title     : "Caracterizar"
     excerpt   : "Cultura arquitetônica – Decoro e convenção – Teoria da arquitetura – Economia da construção"
     url       : "/aula/caracterizar/"
-    btn_label : "4 de julho"
+    btn_label : "5 de dezembro"
     btn_class : "btn btn--inverse btn--small"
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Louise_Rayner_Chester_Watergate_Street_looking_east-crop.jpg
     title     : "Urbanizar"
     excerpt   : "Princípios de morfologia – Tipos de urbanização – Bairro e arrabalde – Parcelamento do solo como matriz"
     url       : "/aula/urbanismo/"
-    btn_label : "11 de julho"
+    btn_label : "12 de dezembro"
     btn_class : "btn btn--inverse btn--small"
 
 venustas_atividade:
@@ -158,15 +166,15 @@ venustas_atividade:
     title     : "Trabalho III"
     excerpt   : "Analítico com ordens clássicas"
     url       : "/trabalho/classico/"
-    btn_label : "Entrega 11 de julho"
+    btn_label : "Entrega 19 de dezembro"
     btn_class : "btn btn--inverse btn--small"
 
 expo:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/994px-Giovanni_Paolo_Panini_–_Ancient_Rome-crop.jpg
     title     : "Exposição dos trabalhos"
-    excerpt   : "Semana de diplomação"
+    excerpt   : "Semana do calouro"
     url       : "/trabalho/expo/"
-    btn_label : "18 a 25 de julho"
+    btn_label : "4 a 9 de setembro"
     btn_class : "btn btn--inverse btn--small"
 ---
 
@@ -174,16 +182,16 @@ expo:
 
 ```{=html}
 {% include feature_row id="intro" %}
-```
 
-```{=html}
-{% include feature_row id="semana_santa" %}
+{% include feature_row id="expo" %}
 ```
 
 # Unidade I · Elementos da construção #
 
 ```{=html}
 {% include feature_row id="firmitas" %}
+
+{% include feature_row id="semuni" %}
 ```
 
 # Unidade II · Elementos de composição #
@@ -192,17 +200,9 @@ expo:
 {% include feature_row id="utilitas" %}
 ```
 
-```{=html}
-{% include feature_row id="corpus_christi" %}
-```
-
 # Unidade III · Fazer arquitetura #
 
 ```{=html}
 {% include feature_row id="venustas" %}
-
-{% include feature_row id="expo" %}
 ```
-
-Último dia letivo: terça-feira, 25 de julho.
 
