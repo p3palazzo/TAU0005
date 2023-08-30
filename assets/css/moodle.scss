@@ -60,6 +60,10 @@ $header-font-style: italic;
 	"revealjs-support"
 ;
 
+body {
+    font-size: 0.75rem; // Temporary fix for huge font sizes
+}
+
 #page .course-content {
     padding: calc(0.5rem + 15px);
     h2 {
@@ -97,9 +101,6 @@ section > ul {
     figcaption {
         font-weight: 600;
     }
-    .subfigures p {
-        @extend figcaption;
-    }
 }
 
 .page__hero--overlay {
@@ -117,7 +118,8 @@ article {
     }
 }
 
-body #page .page__content section.level2 > h2 {
+body #page .page__content section.level2 > h2,
+#page.course-content h2 {
     font-weight: lighter;
 }
 
@@ -141,5 +143,13 @@ a.btn {
 
 .card {
     border-radius: 0;
+}
+
+.modal {
+	width: auto;
+}
+
+.modal-dialog {
+	margin: auto;
 }
 // vim: set shiftwidth=4 tabstop=4 foldmethod=indent :
