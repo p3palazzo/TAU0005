@@ -373,7 +373,7 @@ térmico e abrigo contra o vento.
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notes
 Na taxonomia da arquitetura tradicional, associamos a construção murária
 com o caráter da *caverna*, enquanto a construção arquitravada tem o
-caráter da *cabana* ([@fig:huts]). Essa oposição sinaliza duas
+caráter da *cabana*. Essa oposição sinaliza duas
 relações diferentes entre construção e espaço. A cabana é um paradigma
 *aditivo*: a montagem de peças formando um esqueleto estrutural que
 organiza o espaço indefinido numa malha. Já a caverna é um paradigma

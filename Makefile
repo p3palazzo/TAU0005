@@ -17,9 +17,15 @@ AULA    = $(wildcard _aula/*.md)
 SLIDES  = $(patsubst _aula/%.md,slides/%/index.html,$(AULA))
 SASS    = _revealjs-settings.scss \
 					mixins.scss settings.scss theme.scss
+MARKDOWN = $(patsubst _aula/%.md,docs/%.md,$(AULA))
 
 # {{{1 Recipes
 #      =======
+docs: $(MARKDOWN)
+
+docs/%.md : _aula/%.md biblio.yaml defaults.yaml
+	pandoc -o $@ -d _data/defaults.yaml $<
+
 .PHONY : _site
 _site : $(SLIDES)
 	@echo "####################"
