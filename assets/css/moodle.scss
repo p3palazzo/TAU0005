@@ -4,53 +4,8 @@
 
 @charset "utf-8";
 
+@import url("https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/css/all.min.css");
 @import url("https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css");
-
-/* ==========================================================================
-   Variables
-   ========================================================================== */
-
-/*
-   Typography
-   ========================================================================== */
-
-/* system typefaces */
-$serif: "Lato";
-$sans-serif: "Lato";
-$monospace: "source-code-pro", Consolas, "Liberation Mono", Menlo, Courier, monospace;
-
-/* serif typefaces */
-$garamond: "eb-garamond", "et-book", Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
-
-$global-font-family: $sans-serif;
-$header-font-family: $sans-serif;
-$caption-font-family: $sans-serif;
-$sans-serif-narrow: $sans-serif;
-
-/*
-   Colors
-   ========================================================================== */
-
-/*
-   Other
-   ========================================================================== */
-
-/*
-   Grid
-   ========================================================================== */
-
-$x-large: 1600px;
-$max-width: calc(1520px + 3em);
-$right-sidebar-width-narrow: 300px;
-$right-sidebar-width: 300px;
-$right-sidebar-width-wide: 400px;
-
-@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
-@import "minimal-mistakes"; // main partials
-
-$meta-font-weight: 600;
-$header-font-weight: lighter;
-$header-font-style: italic;
 
 @import
     "tufte",
@@ -60,20 +15,21 @@ $header-font-style: italic;
 	"revealjs-support"
 ;
 
-body {
-    font-size: 0.75rem; // Temporary fix for huge font sizes
+#page-mod-book-view #intro {
+    display: none;
 }
 
-#page .course-content {
-    padding: calc(0.5rem + 15px);
-    h2 {
-        font-weight: lighter;
-    }
+.page__lead {
+    max-width: 760px;
 }
 
 h4,
-span.smallcaps {
-    font-variant: normal;
+dt {
+    float: left;
+    display: inline-block;
+    padding-right: 1em;
+    font-style: normal;
+    font-variant: small-caps;
 }
 
 ol,
@@ -84,13 +40,6 @@ section > ul {
 }
 
 #main {
-    p,
-    li,
-    dl,
-    dt,
-    dd {
-        font-size: 0.975rem;
-    }
     ol,
     ul {
         padding-left: 1.3rem;
@@ -104,31 +53,28 @@ section > ul {
 }
 
 .page__hero--overlay {
+    padding: 3em 1em;
+    background-size: cover;
     * {
         color: #fff !important;
     }
     h1 {
         font-weight: lighter !important;
     }
-}
-
-article {
-    @include breakpoint($large) {
-        width: 100% !important;
+    dl {
+        color: #fff;
+        text-shadow: 2px 2px 3px #000;
+        font-style: italic;
+        dt {
+            font-style: normal;
+            font-variant: small-caps;
+        }
     }
 }
 
 body #page .page__content section.level2 > h2,
 #page.course-content h2 {
     font-weight: lighter;
-}
-
-.page__content h3 {
-    @include breakpoint($large) {
-        float: none;
-        margin: 2em 0 0 0;
-        width: 100%;
-    }
 }
 
 h2.archive__item-title {
