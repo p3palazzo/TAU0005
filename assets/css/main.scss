@@ -62,6 +62,14 @@ $header-font-style: italic;
     "revealjs-support"
 ;
 
+blockquote:not(.epigraph) cite {
+    font-style: normal;
+    &::before {
+        content: "";
+        padding-right: 0;
+    }
+}
+
 .site-subtitle {
     display: inline;
 }

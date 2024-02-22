@@ -15,7 +15,7 @@ header:
   caption: "Simon Vouet, Artemísia construindo o Mausoléu de Halicarnasso, década de 1640. [Museu Nacional de Belas-Artes da Suécia NM 5179](https://commons.wikimedia.org/wiki/File:Artemisia_Building_the_Mausolaeum_(Simon_Vouet)_-_Nationalmuseum_-_22229FXD.jpg)"
 ---
 
-> [...[ a planta da construção era provavelmente desenhada pelo próprio
+> [...] a planta da construção era provavelmente desenhada pelo próprio
 > arquiteto — guiado [...] pelas regras e princípios da geometria
 > antiga.
 >
@@ -25,8 +25,8 @@ header:
 > padronizada. Dependendo puramente das proporções.
 >
 > <footer>Tons Brunés, <cite>The Secrets of Ancient Geometry, and Its
-Use,</cite> trad. Charles M. Napier, vol. 1, p. 317 (Copenhagen: Rhodos,
-1967).</footer>
+> Use,</cite> trad. Charles M. Napier, vol. 1, p. 317 (Copenhagen:
+> Rhodos, 1967).</footer>
 
 > A metodologia dinâmica para construir no tempo era inerentemente
 > flexível, e essa elasticidade incluía o planejamento por meio de
@@ -34,11 +34,11 @@ Use,</cite> trad. Charles M. Napier, vol. 1, p. 317 (Copenhagen: Rhodos,
 > prazo.
 >
 > <footer>Marvin Trachtenberg, “To Build Proportions in Time, or
-  Tie Knots in Space? A Reassessment of the Renaissance Turn in
-  Architectural Proportions”, <cite>Architectural Histories</cite> 2,
-  n.º 1 (20 de junho de 2014): Art. 13, p. 4
-  <a href="https://doi.org/10.5334/ah.bp">
-  &lt;https://doi.org/10.5334/ah.bp&gt;</a>.</footer>
+> Tie Knots in Space? A Reassessment of the Renaissance Turn in
+> Architectural Proportions”, <cite>Architectural Histories</cite> 2,
+> n.º 1 (20 de junho de 2014): Art. 13, p. 4
+> <a href="https://doi.org/10.5334/ah.bp">
+> &lt;https://doi.org/10.5334/ah.bp&gt;</a>.</footer>
 
 # Produto #
 
@@ -87,4 +87,8 @@ desse processo no produto final.
   tais como: margem, título e o seu nome, escala gráfica;
 - A prancha está composta de modo equilibrado e aproveitando bem o espaço
   disponível.
+
+# Referências #
+
+{% include video id="M1VFYisIHzA" provider="youtube" %}
 
