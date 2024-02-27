@@ -83,6 +83,9 @@ palmos. Portanto:
 > barrotes, terraço e platibanda). A composição deve evidenciar, também,
 > domínio das proporções como instrumentos de composição.
 
+Os lotes serão distribuídos para a turma dentro do setor delimitado na
+planta abaixo ([@fig:insulae]).
+
 ## Programa ##
 
 As células da casa não têm programa de necessidades definido. Elas
