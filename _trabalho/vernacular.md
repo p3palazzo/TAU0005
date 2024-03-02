@@ -23,6 +23,10 @@ tagline: |
 ![Exemplos de tradições construtivas de diferentes regiões, do livro *Inquire Within*, c. 1900](https://i.pinimg.com/564x/2e/87/30/2e8730f7f9488b03edf17ff565d7bb22.jpg){#fig:inquire .line}
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Cabanas primitivas segundo Samir Younés](https://hcommons.org/app/uploads/sites/1002372/2023/03/younes-huts.png){#fig:huts-samir .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Os sistemas construtivos tradicionais de todos os povos do mundo usam
 materiais predominantemente locais, pouco processados, e saberes
 empíricos lentamente refinados, privilegiando estruturas portantes à
@@ -36,14 +40,14 @@ tradicionais é especialmente relevante numa perspectiva de justiça
 social e ambiental, fomentando cadeias locais de técnicos qualificados e
 promovendo um processo produtivo ecológico e autogestionado.
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
-![Cabanas primitivas segundo Samir Younés](https://hcommons.org/app/uploads/sites/1002372/2023/03/younes-huts.png){#fig:huts-samir .line}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
 Como alegoria da cabana primitiva enquanto princípio *teórico*
 de uma construção elementar mínima ([@fig:huts-samir]), a edícula
 vernácula é a concretização desse princípio condicionada pela
 *realidade* material, climática e cultural de um determinado lugar.
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
+![Tipos de edículas e casas unitárias do Mediterrâneo e suas derivações, segundo Caniggia e Maffei, *Lettura dell'edilizia di base*, tav. 11](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:raddoppi .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Neste trabalho, continuamos a explorar a cultura construtiva do
 Mediterrâneo ocidental, origem e raiz da arquitetura tradicional
@@ -53,25 +57,34 @@ Em Portugal, esse tipo é conhecido como "morada de casas". A disposição
 dessas células responde à orientação solar (exposição preferencial ao
 sul) e ao aproveitamento do espaço disponível. Vamos, então, construir
 uma morada de casas básica dentro de um lote na antiga cidade romana de
-Ammaia.
+Ammaia ([@fig:ammaia-urbs]).
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
-![Tipos de edículas e casas unitárias do Mediterrâneo e suas derivações, segundo Caniggia e Maffei, *Lettura dell'edilizia di base*, tav. 11](https://i.pinimg.com/originals/55/bc/9a/55bc9acb0060559e0999fc7d0e9942cb.png){#fig:raddoppi .line}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice
+Revise o contexto geográfico e histórico de Ammaia na ementa da
+Atividade de Nivelamento: Traçado regulador.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-Ammaia foi uma cidade planejada no século I a.C. Seus lotes eram
+Os lotes de Ammaia eram
 baseados no módulo colonial romano de 17,7 metros. Essa dimensão era
 suficiente para conter uma pequena casa rural com seu eirado ou uma casa
 urbana com átrio central. O módulo do lote era baseado na medida do pé
 romano, de 29,5 centímetros, perfazendo 60 pés de lado para cada lote. O
 pé romano pode, por sua vez, ser facilmente convertido para o palmo do
-sistema de medidas tradicionais portuguesas, à razão de 3 pés = 4
-palmos. Portanto:
+sistema de medidas tradicionais portuguesas:
 
-- Testada do lote = 17,7 metros = 60 pés = 80 palmos;
-- 1 palmo ≈ 22,1 centímetros.
+- 1 pé romano = 29,5 centímetros;
+- 3 pés = 4 palmos;
+- Testada modular do lote = 17,7 metros = 60 pés = 80 palmos;
+- 1 palmo ≈ 22,1 centímetros;
+- 1 braça (medida urbanística) = 10 palmos ≈ 2,21 metros.
+
+![Reconstituição do tecido urbano da cidade de Ammaia na sua máxima extensão, século IV d.C.](/assets/media/ammaia-geral.svg){#fig:ammaia-urbs .outset}
 
 # Ementa #
+
+:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+![Lotes em Ammaia a serem atribuídos neste trabalho](/assets/media/ammaia-t1.svg){#fig:insulae}
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 > Construa a maquete de uma morada de casas formada por três células
 > cobertas com açoteia, um alpendre e um eirado, dentro de um dos lotes
@@ -79,12 +92,16 @@ palmos. Portanto:
 > 
 > A edificação deve demonstrar fundações, um sistema construtivo de
 > paredes portantes (alvenaria estrutural), um sistema arquitravado
-> (colunas ou esteios e vigas), e um assoalho (cobertura plana com
-> barrotes, terraço e platibanda). A composição deve evidenciar, também,
-> domínio das proporções como instrumentos de composição.
+> (colunas ou esteios, vigas, caibros e telheiro), e um assoalho
+> (cobertura plana com barrotes, terraço e platibanda). A composição
+> deve evidenciar, também, domínio das proporções como instrumentos de
+> composição.
 
 Os lotes serão distribuídos para a turma dentro do setor delimitado na
-planta abaixo ([@fig:insulae]).
+planta da @fig:insulae.
+
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+
 
 ## Programa ##
 
@@ -97,16 +114,14 @@ coerentes com a tradição construtiva do Mediterrâneo ocidental.
 ## Conteúdo ##
 
 - As células devem ter entre 15 e 30 palmos em cada dimensão interior;
-- O vão livre estrutural das células é obrigatoriamente igual a 25
-  palmos;
+- O vão livre estrutural das células é de 25 palmos;
 - O alpendre deve ser adjacente ao lado maior do retângulo, com 12
   palmos ½ de profundidade, ter exposição ao sul e cobertura em
   meia-água;
 - A cobertura das células será uma açoteia com estrutura de assoalho em
   madeira revestida externamente com um contrapiso e delimitada por uma
   platibanda;
-- A açoteia pode ser acessada por um alçapão numa das células ou por uma
-  ecada exterior em alvenaria;
+- A açoteia deve ser acessada por uma escada exterior em alvenaria;
 - As aberturas não devem ser vedadas com folhas, persianas, vidraças ou
   qualquer outra obstrução rígida;
 - O piso interior deve ser diferenciado do chão do eirado em nível e em
@@ -118,7 +133,6 @@ coerentes com a tradição construtiva do Mediterrâneo ocidental.
 - A casa deve ter uma decoração simples, baseada no detalhamento
   construtivo.
 
-Ver mais indicações de construção e apresentação no croquis anexo.
 
 ## Apresentação ##
 

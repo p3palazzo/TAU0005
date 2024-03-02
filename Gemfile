@@ -1,6 +1,9 @@
 source "https://rubygems.org"
 gem "jekyll", "4.3.3"
 gem "minimal-mistakes-jekyll", "~> 4.24"
+gem "csv"
+gem "base64"
+gem "bigdecimal"
 gem "stringex"
 gem "webrick"
 group :jekyll_plugins do
