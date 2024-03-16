@@ -1,0 +1,338 @@
+---
+---
+@charset "UTF-8";
+
+/*
+   Breakpoints
+   ========================================================================== */
+
+$small: 768px;
+$medium: 1024px;
+$medium-wide: 1280px;
+$large: 1520px;
+$x-large: 1920px;
+$max-width: $x-large;
+
+$right-sidebar-width-narrow: 300px;
+$right-sidebar-width: 400px;
+
+body {
+  counter-reset: sidenote-counter;
+}
+
+blockquote {
+  margin-top: 2em;
+  footer {
+    font-style: normal;
+  }
+}
+
+figure {
+  display: -webkit-box;
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: start;
+  align-items: flex-start;
+  flex-wrap: wrap;
+  margin: 2em 0;
+}
+
+img,
+iframe,
+.fluid-width-video-wrapper {
+  margin-bottom: 1em;
+}
+
+img {
+  width: 100%;
+  border: 1px solid #111118;
+}
+
+figcaption,
+.align-right {
+  font-size: 1em;
+  font-weight: 700;
+}
+
+.page__hero--overlay {
+  position: relative;
+  margin-bottom: 2em;
+  padding: 3em 0;
+  clear: both;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  box-sizing: border-box;
+  color: #fffff8;
+  text-shadow: 2px 2px 3px #000;
+  line-height: 1.5;
+  .wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    max-width: 1440px;
+    padding-left: 1em;
+    padding-right: 1em;
+  }
+  .page__title {
+    margin: 2em 0 0.5em;
+    color: #fffff8 !important;
+  }
+  .page__lead {
+    max-width: 768px;
+    margin-bottom: 1.3em;
+    font-size: 1.5rem;
+    dt, dd {
+      font-size: 1.5rem;
+    }
+  }
+  .page__hero-caption {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 0 auto;
+    padding: 5px 10px;
+    background: #000;
+    font-size: 0.75rem;
+    text-align: right;
+    line-height: 1.5;
+    z-index: 5;
+    opacity: 0.5;
+    a:link,
+    a:hover,
+    a:visited {
+      color: inherit !important;
+    }
+  }
+  &::after {
+    clear: both;
+    content: "";
+    display: table;
+  }
+}
+
+#main {
+  clear: both;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.page {
+  width: 100%;
+}
+
+.currentgridsection {
+  border-radius: 0;
+}
+
+.grid-image {
+  overflow: hidden;
+}
+
+/********************
+ * Widths of things *
+ ********************/
+div.table-wrapper {
+    overflow-x: auto;
+}
+
+.full {
+    clear: both;
+}
+
+.iframe-wrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    padding-top: 25px;
+    height: 0;
+    width: 100%;
+}
+
+.responsive-video-container iframe,
+.iframe-wrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+div.fluid-width-video-wrapper {
+    float: left; // Allow caption to align to top of iframe container
+    width: 100%;
+}
+
+/******************
+ * @media queries *
+ ******************/
+
+@media (min-width: $medium) {
+  .page {
+    padding-right: $right-sidebar-width-narrow;
+  }
+  .third {
+    float: left;
+    max-width: calc(50% - 1em);
+    margin-right: 1em;
+  }
+}
+
+@media (min-width: $large) {
+  .page {
+    padding-right: $right-sidebar-width-narrow;
+  }
+  figcaption {
+    display: block;
+    float: right;
+    clear: right;
+    width: $right-sidebar-width-narrow;
+    margin-right: 0;
+    padding-left: 1rem;
+  }
+  .full {
+    display: block; // Prevent float overlap
+    clear:both;
+    margin-right: calc(0px - #{$right-sidebar-width-narrow}) !important;
+    max-width: calc(100% + #{$right-sidebar-width-narrow});
+    width: calc(100% + #{$right-sidebar-width-narrow});
+    figcaption {
+      margin-right: 0 !important;
+    }
+  }
+  .align-right {
+    display: block;
+    float: right;
+    clear: right;
+    width: $right-sidebar-width-narrow;
+    margin: 0 calc(0px - #{$right-sidebar-width-narrow}) 0.3rem auto;
+    padding-left: 1rem;
+  }
+  .half {
+    float: left;
+    max-width: calc(50% - 1em);
+    margin-right: 1em;
+  }
+  .third {
+    max-width: calc(33.3333% - 1.5em);
+  }
+  img.outset + figcaption {
+    margin-right: calc(0px - #{$right-sidebar-width-narrow}) !important;
+  }
+}
+
+@media (min-width: $x-large) {
+  #main {
+    max-width: calc(1520px + 3em);
+  }
+  .page {
+    padding-right: $right-sidebar-width;
+  }
+  figcaption {
+    display: block;
+    float: right;
+    clear: right;
+    width: $right-sidebar-width;
+    margin-right: 0;
+  }
+  .full {
+    margin-right: calc(0px - #{$right-sidebar-width}) !important;
+    max-width: calc(100% + #{$right-sidebar-width});
+    width: calc(100% + #{$right-sidebar-width});
+  }
+  .align-right {
+    width: $right-sidebar-width;
+    margin-right: calc(0px - #{$right-sidebar-width});
+  }
+  img.outset + figcaption {
+    margin-right: calc(0px - #{$right-sidebar-width}) !important;
+  }
+}
+
+.book_content {
+  /* Apply width limits here */
+  /* section id="region-main" > div role="main" > div class="book_content" */
+  font-size: 1.1rem;
+  line-height: 1.5;
+}
+
+.responsive-video-container {
+  position: relative;
+  margin-bottom: 1em;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+  .fluid-width-video-wrapper {
+    width: 100%;
+    position: relative;
+    margin-bottom: 1em;
+    padding: 0;
+    iframe {
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      border: .5px solid #6f777d;
+    }
+  }
+}
+
+/* Marginnotes / sidenotes don't work in Markdown_PHPExtra
+ * because the tag (or the linebreak it contains?) ends a
+ * paragraph.
+ */
+
+span.sidenote,
+span.marginnote {
+  display: none;
+  vertical-align: baseline;
+  position: relative;
+}
+
+.margin-toggle:checked + .sidenote,
+.margin-toggle:checked + .marginnote {
+  display: block;
+  background-color: #F0F0F4;
+  max-width: 50%;
+  padding: 1rem;
+  float: right;
+}
+
+.sidenote-number {
+  counter-increment: sidenote-counter;
+  &:after {
+    content: counter(sidenote-counter);
+    font-size: 0.75rem;
+    top: -0.5rem;
+    left: 0.1rem;
+  }
+}
+
+.sidenote-number:after,
+.sidenote:before {
+  position: relative;
+  vertical-align: baseline;
+}
+
+.sidenote {
+  text-indent: -0.4rem;
+}
+
+.sidenote:before {
+  content: counter(sidenote-counter) " ";
+  left: -0.4rem;
+  top: -0.5rem;
+}
+
+label {
+  cursor: pointer;
+}
+
+input.margin-toggle {
+  display: none;
+}
+// vim: set foldmethod=indent shiftwidth=2 tabstop=2 expandtab :
