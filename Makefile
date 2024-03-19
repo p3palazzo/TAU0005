@@ -55,4 +55,4 @@ serve : $(SLIDES)
 clean :
 	-@rm -rf *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml \
 		tau0005-*.tex
-# vim: set foldmethod=marker shiftwidth=2 tabstop=2 :
+# vim: set foldmethod=marker shiftwidth=2 tabstop=2 expandtab :

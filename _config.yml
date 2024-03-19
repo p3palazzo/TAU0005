@@ -206,7 +206,7 @@ incremental: false
 
 # Markdown Processing
 kramdown:
-  input: GFM
+  input: kramdown
   hard_wrap: false
   auto_ids: true
   footnote_nr: 1
@@ -322,6 +322,15 @@ defaults:
       read_time: true
       show_date: true
       #toc: true
+  # _trabalho
+  - scope:
+      path: ""
+      type: trabalho
+    values:
+      author_profile: false
+      layout: single
+      read_time: false
+      show_date: false
   # _posts
   - scope:
       path: ""

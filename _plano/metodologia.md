@@ -12,7 +12,7 @@ tagline: |
   Como acompanhar o programa
 ---
 
-# <i class="ai ai-moodle"></i> Moodle #
+# Moodle #
 
 Todo o conteúdo e as ementas dos trabalhos da disciplina estão no
 ambiente virtual de

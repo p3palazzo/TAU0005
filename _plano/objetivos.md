@@ -43,17 +43,17 @@ venustas_atividade:
     btn_class : "btn btn--inverse btn--small"
 ---
 
-# Objetivo geral #
+## Objetivo geral ##
 
 O objetivo da disciplina é conferir um domínio operativo da arquitetura
 tradicional em geral, e da linguagem clássica em particular, enquanto
 ferramentas de análise e produção sustentável e resiliente do ambiente
 construído. Este propósito se desdobra em quatro aspectos que
-correspondem a cada uma das unidades do [Programa]({% link index.md %}):
+correspondem a cada uma das unidades do Programa:
 
-# Objetivos específicos #
+## Objetivos específicos ##
 
-## Introdução à disciplina ##
+### Introdução à disciplina ###
 
 Aproximação à arquitetura tradicional
 
@@ -64,7 +64,7 @@ Aproximação à arquitetura tradicional
 {% include feature_row id="intro_atividade" type="right" %}
 ```
 
-## Unidade I ##
+### Unidade I ###
 
 Elementos da construção
 
@@ -76,7 +76,7 @@ Elementos da construção
 {% include feature_row id="firmitas_atividade" type="right" %}
 ```
 
-## Unidade II ##
+### Unidade II ###
 
 Elementos de composição
 
@@ -88,7 +88,7 @@ Elementos de composição
 {% include feature_row id="utilitas_atividade" type="right" %}
 ```
 
-## Unidade III ##
+### Unidade III ###
 
 Fazer arquitetura
 
