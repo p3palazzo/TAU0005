@@ -11,10 +11,10 @@
 
 // First, load default mixins and settings -----
 // Then override theme settings ----------------
-@import "../../slides/reveal.js/css/theme/template/mixins",
-        "../../slides/reveal.js/css/theme/template/settings",
+@import "slides/reveal.js/css/theme/template/mixins",
+        "slides/reveal.js/css/theme/template/settings",
         "revealjs-settings",
-        "../../slides/reveal.js/css/theme/template/theme";
+        "slides/reveal.js/css/theme/template/theme";
 
 // Start with settings that apply everywhere ---
 html {
