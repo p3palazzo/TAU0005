@@ -53,7 +53,7 @@ trabalhos:
     btn_class : "btn btn--inverse btn--small"
 ---
 
-# Critérios para aprovação na disciplina #
+### Critérios para aprovação na disciplina ###
 
 O que esperamos de todas as
 entregas é atenção ao que foi pedido, pesquisa e leitura criteriosa do
@@ -61,15 +61,13 @@ material necessário à realização do trabalho, reflexão crítica, clareza
 e capricho na execução. Para obter aprovação na disciplina, você precisa
 atender a *todos* os três requisitos seguintes:
 
-<i class="fas fa-tasks"></i>
+- Entregar *todos* trabalhos das Unidades;
 
-: Entregar *todos* trabalhos das Unidades;
+- Obter a pontuação total 50, correspondendo à menção MM;
 
-: Obter a pontuação total 50, correspondendo à menção [MM]{.smallcaps};
+- Cumprir a frequência mínima de 75 % da carga horária.
 
-: Cumprir a frequência mínima de 75 % da carga horária.
-
-# Os trabalhos #
+### Os trabalhos ###
 
 Cada trabalho representa uma aplicação do conteúdo do respectivo
 módulo, demandando compreensão dos princípios arquitetônicos e
@@ -80,24 +78,13 @@ as competências a serem aplicadas em cada trabalho são *cumulativos:*
 você precisará ter dominado os requisitos de um trabalho para ter
 sucesso no trabalho seguinte!
 
-```{=html}
-{% include feature_row id="trabalhos" %}
-```
+**Não recebemos, *sob hipótese alguma*, trabalhos por e-mail.**
 
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::: notice--danger
-<i class="fas fa-inbox"></i>
+### Sobre criatividade e originalidade ###
 
-: Não recebemos, *sob
-hipótese alguma*, trabalhos por e-mail.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-# Sobre criatividade e originalidade #
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
 > Em arquitetura tradicional, existem soluções que funcionam e soluções
 > que não funcionam; dentre as soluções que funcionam, algumas funcionam
 > melhor do que outras. Esse é o nosso critério de avaliação.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 Nesta disciplina, você não precisa ser *original* no sentido que o
 romantismo artístico deu para a palavra. O objetivo do nosso trabalho
@@ -118,11 +105,11 @@ do seu modo de resolver o problema proposto.
 #### O que é plágio? ####
 
 Dito isso, integridade e reconhecimento são valores éticos fundamentais
-da cidadania e da profissão. Copiar parte ou tudo do trabalho alheio ---
+da cidadania e da profissão. Copiar parte ou tudo do trabalho alheio —
 seja de colegas de turma, da bibliografia, ou de material "garimpado" na
-Internet --- é uma prática inaceitável e resultará em atribuição da nota
+Internet — é uma prática inaceitável e resultará em atribuição da nota
 `0` (zero) à entrega como um todo. Dependendo da gravidade do fato,
 podemos relatar o ocorrido ao colegiado de graduação da
-[FAU]{.smallcaps}. Além disso, 90 % dos desenhos de arquitetura clássica
+FAU. Além disso, 90 % dos desenhos de arquitetura clássica
 que vocês encontrarem no Google ou no Pinterest estão *errados!*
 

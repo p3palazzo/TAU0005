@@ -9,19 +9,17 @@ header:
     url  : /plano/
 ---
 
-<section>
-
-[TAU 0005]{.smallcaps} é a segunda disciplina na cadeia de Teoria e
+TAU 0005 é a segunda disciplina na cadeia de Teoria e
 História do curso de graduação em Arquitetura e Urbanismo na
 Universidade de Brasília, e a primeira a se dedicar inteiramente ao
 estudo do passado. Ela é tanto uma cadeira de formação profissional
 quanto uma disciplina de conhecimentos gerais. A partir do estudo das
 construções e das cidades tradicionais desde a Antiguidade até o século
-[XV]{.smallcaps}, vamos desenvolver familiaridade com a análise crítica
+XV, vamos desenvolver familiaridade com a análise crítica
 em história e com a teoria e prática da arquitetura tradicional.
 
-O programa de [TAU 0005]{.smallcaps} foi escrito mais de 30 anos atrás e mudou muito
-pouco desde então. Hoje em dia, esse conteúdo parece --- e é ---
+O programa de TAU 0005 foi escrito mais de 30 anos atrás e mudou muito
+pouco desde então. Hoje em dia, esse conteúdo parece — e é —
 formalista e eurocêntrico. Mas, na sua origem, a cadeia de Teoria e
 História estabelecida em 1989 representou um grande avanço na
 organização do nosso curso. Desde a abertura do curso de Arquitetura e
@@ -39,21 +37,21 @@ as oportunidades e a atender às diretrizes curriculares nacionais. Ao
 longo desses 30 anos de vigência, a cadeia de Teoria e História foi
 sendo ampliada para atender a mudanças nas diretrizes curriculares e
 para refletir novas preocupações críticas. Nesse processo, a sequência
-original de disciplinas obrigatórias --- [TAU 0005]{.smallcaps} a
-[TAU 0009]{.smallcaps} --- não
+original de disciplinas obrigatórias — TAU 0005 a
+TAU 0009 — não
 mudou praticamente nada, pelo menos na grade curricular oficial. Como
 sempre, essa aparência de que nada mudou, segundo os registros formais,
 esconde grandes mudanças na prática. Há uma inquietação constante com os
 rumos das disciplinas e muitos ajustes no conteúdo e no enfoque dado
 pelos professores.
 
-[TAU 0005]{.smallcaps} tem um conteúdo *formal* distante da nossa vivência cotidiana,
+TAU 0005 tem um conteúdo *formal* distante da nossa vivência cotidiana,
 e vocês podem até se perguntar se essa disciplina tem alguma relevância
 para a realidade brasileira. Uma resposta simples e, de certo modo,
 correta é dizer que *todo* estudo de história e toda cultura geral em
 arte e arquitetura são importantes em si. Outra resposta possível é
-lembrar que a arquitetura dominante no Brasil de hoje --- da qual
-fazemos todos parte, para o bem ou para o mal --- é herdeira de certas
+lembrar que a arquitetura dominante no Brasil de hoje — da qual
+fazemos todos parte, para o bem ou para o mal — é herdeira de certas
 formas, teorias e sobretudo de um conceito do que é ser "arquiteto".
 Todos esses paradigmas se formaram em certas regiões da Europa, da
 África e da Ásia, e vêm sendo debatidos desde o Renascimento. Estudar a
@@ -68,7 +66,7 @@ nosso curso: como o estudo da história da arquitetura se *integra* por
 inteiro num currículo voltado, sobretudo, para a formação de
 profissionais no *ofício* da arquitetura?
 
-Como [já vimos](por-que-historia.md), a crítica histórica também pode
+Como já vimos, a crítica histórica também pode
 trazer respostas para problemas contemporâneos. As tradições
 arquitetônicas globais são modos resilientes de construir consumindo
 pouca energia e respeitando a diversidade de culturas regionais. Dentro
@@ -94,5 +92,3 @@ pesquisa em Arquitetura e Urbanismo pelo menos desde a década de 1960.
 Eles têm sido, também, cada vez mais aplicados na solução de problemas
 contemporâneos, desde a habitação de interesse social até a
 sustentabilidade ambiental.
-
-</section>

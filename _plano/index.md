@@ -16,22 +16,25 @@ header:
     url  : "/"
 ---
 
-# Antes de começar #
+<!--
+   -# Antes de começar #
+   -
+   -1. [Por que estudamos história da arquitetura ?](../_plano/por-que-historia.md) [>_<]
+   -2. [Como estudamos história na FAU–UnB ?](../_plano/sobre-disciplina.md) [>_<]
+   -
+   -# Para começar #
+   -
+   -1. [O que você vai aprender nesta disciplina ?](../_plano/objetivos.md) [>_<]
+   -2. [Como vamos trabalhar no retorno presencial ?](../_plano/metodologia.md) [>_<]
+   -3. [O que você precisa ler ?](../_plano/bibliografia.md) [>_<]
+   -4. [O que você precisa fazer ?](../_plano/avalia.md) [>_<]
+   -5. [Que materiais você precisa ter para fazer os trabalhos ?](../_trabalho/materiais.md) [>_<]
+   -
+   -->
 
-1. [Por que estudamos história da arquitetura ?](../_plano/por-que-historia.md) <!--_-->
-2. [Como estudamos história na FAU–UnB ?](../_plano/sobre-disciplina.md) <!--_-->
+## Normas gerais ##
 
-# Para começar #
-
-1. [O que você vai aprender nesta disciplina ?](../_plano/objetivos.md) <!--_-->
-2. [Como vamos trabalhar no retorno presencial ?](../_plano/metodologia.md) <!--_-->
-3. [O que você precisa ler ?](../_plano/bibliografia.md) <!--_-->
-4. [O que você precisa fazer ?](../_plano/avalia.md) <!--_-->
-5. [Que materiais você precisa ter para fazer os trabalhos ?](../_trabalho/materiais.md) <!--_-->
-
-# Normas gerais #
-
-## Aprovação na disciplina ##
+### Aprovação na disciplina ###
 
 <i class="fas fa-award"></i>
 
@@ -47,12 +50,12 @@ header:
 
 : A frequência mínima para aprovação é de 75 % da carga horária.
 
-## Frequência ##
+### Frequência ###
 
 <i class="fas fa-clock"></i>
 
-: A frequência é verificada duas vezes por noite, no início do primeiro
-  horário e no final do segundo horário.
+: A frequência é verificada duas vezes por noite, no primeiro e no
+  segundo horário, ou sempre que você receber atendimento individual.
 
 <i class="fas fa-pencil-ruler"></i>
 
@@ -60,11 +63,7 @@ header:
   desenvolvimento dos trabalhos. Você precisa estar realizando a tarefa
   em questão para receber presença na chamada!
 
-## Orientação e entrega dos trabalhos ##
-
-<i class="fas fa-head-side-mask"></i>
-
-: Use máscara quando estiver orientando.
+### Orientação e entrega dos trabalhos ###
 
 <i class="fas fa-laptop"></i>
 
@@ -77,7 +76,7 @@ header:
   qualquer outro lugar. Use a bibliografia como referência para produzir
   seu próprio trabalho.
 
-## Alterações e acomodações ##
+### Alterações e acomodações ###
 
 <i class="ai ai-moodle"></i>
 
@@ -92,3 +91,13 @@ header:
   possível para acomodar a sua situação, e pode ter
   direito a apoio institucional ou ao regime domiciliar.
 
+
+### Revisão de menção ###
+
+<i class="fa-solid fa-person-circle-xmark"></i>
+
+: A revisão de menção mediante apresentação de qualquer trabalho
+  corrigido ou melhorado pode ser apresentada apenas em caso de
+  reprovação na disciplina, e sempre durante a primeira semana do
+  semestre seguinte. Pedidos de revisão de menção que não se enquadrem
+  nesse caso e não tenham fundamento legal serão indeferidos de ofício.
