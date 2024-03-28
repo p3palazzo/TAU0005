@@ -46,7 +46,6 @@ iframe,
 
 img {
   width: 100%;
-  border: 1px solid #111118;
 }
 
 figcaption,
@@ -118,6 +117,9 @@ figcaption,
   margin-right: auto;
   padding-left: 1em;
   padding-right: 1em;
+  img {
+    border: 1px solid #111118;
+  }
 }
 
 .page {
@@ -130,6 +132,56 @@ figcaption,
 
 .grid-image {
   overflow: hidden;
+}
+
+.notice {
+  display: block;
+  margin: 2em 0 !important;  /* override*/
+  padding: 1em;
+  text-indent: initial; /* override*/
+  background-color: #f0f0f4;
+  border-radius: 0;
+  box-shadow: 0 1px 1px rgba(40, 40, 61, 0.25);
+
+  h4 {
+    margin-top: 0 !important; /* override*/
+    margin-bottom: 0.75em;
+    line-height: inherit;
+  }
+
+  p {
+    &:last-child {
+      margin-bottom: 0 !important; /* override*/
+    }
+  }
+
+  h4 + p {
+    /* remove space above paragraphs that appear directly after notice headline*/
+    margin-top: 0;
+    padding-top: 0;
+  }
+
+  ul {
+    &:last-child {
+      margin-bottom: 0; /* override*/
+    }
+  }
+}
+
+.notice--success {
+  background-color: #3fa63f;
+}
+
+.notice--info {
+  background-color: #3b9cba;
+}
+
+.notice--warning {
+  background-color: #d67f05;
+}
+
+.notice--danger {
+  background-color: #ee5f5b;
 }
 
 /********************
