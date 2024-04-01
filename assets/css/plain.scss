@@ -38,14 +38,9 @@ figure {
   margin: 2em 0;
 }
 
-img,
-iframe,
+iframe
 .fluid-width-video-wrapper {
   margin-bottom: 1em;
-}
-
-img {
-  width: 100%;
 }
 
 figcaption,
@@ -118,6 +113,8 @@ figcaption,
   padding-left: 1em;
   padding-right: 1em;
   img {
+    width: 100%;
+    margin-bottom: 1em;
     border: 1px solid #111118;
   }
 }
