@@ -78,13 +78,9 @@ sistema de medidas tradicionais portuguesas:
 - 1 palmo ≈ 22,1 centímetros;
 - 1 braça (medida urbanística) = 10 palmos ≈ 2,21 metros.
 
-![Reconstituição do tecido urbano da cidade de Ammaia na sua máxima extensão, século IV d.C.](/assets/media/ammaia-geral.svg){#fig:ammaia-urbs .outset}
+![Reconstituição do tecido urbano da cidade de Ammaia na sua máxima extensão, século IV d.C.](/assets/media/ammaia-t1-geral.svg){#fig:ammaia-urbs .outset}
 
 # Ementa #
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
-![Lotes em Ammaia a serem atribuídos neste trabalho](/assets/media/ammaia-t1.svg){#fig:insulae}
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 > Construa a maquete de uma morada de casas formada por três células
 > cobertas com açoteia, um alpendre e um eirado, dentro de um dos lotes
@@ -97,10 +93,16 @@ sistema de medidas tradicionais portuguesas:
 > deve evidenciar, também, domínio das proporções como instrumentos de
 > composição.
 
-Os lotes serão distribuídos para a turma dentro do setor delimitado na
-planta da @fig:insulae.
+Os lotes serão distribuídos para a turma dentro do setor delimitado nos
+quarteirões a leste do fórum e das termas, conforme a planta da
+@fig:insulae.
 
-* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+![Lotes em Ammaia a serem atribuídos neste trabalho, com as divisas das bases](/assets/media/ammaia-t1.svg){#fig:insulae .outset}
+
+::::::::::::::::::::::::::::::::::::::::::::: {.notice .notice--warning}
+[]{.fa .fa-exclamation-triangle} A figura acima foi modificada em 3 de
+abril de 2024.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 
 ## Programa ##
@@ -136,10 +138,14 @@ coerentes com a tradição construtiva do Mediterrâneo ocidental.
 
 ## Apresentação ##
 
+::::::::::::::::::::::::::::::::::::::::::::: {.notice .notice--warning}
+[]{.fa .fa-exclamation-triangle} A seção abaixo foi modificada em 3 de
+abril de 2024.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
 Uma maquete física em escala 1:50 mostrando todos os elementos
 construtivos da morada, inclusive descascando os revestimentos das
-paredes, teto e terraço para mostrar o miolo da construção. A maquete
-será inserida na base fornecida para este fim.
+paredes, teto e terraço para mostrar o miolo da construção.
 
 - A maquete deve mostrar a amarração da alvenaria, a camada de
   revestimento sobre esta, e todos os elementos que constituem a
@@ -147,9 +153,19 @@ será inserida na base fornecida para este fim.
 - A maquete pode ter partes removíveis para melhor visualização dos seus
   elementos construtivos;
 - Maquetes vizinhas devem coordenar entre si a representação da parede
-  meeira.
+  meeira;
+- Cada maquete deve ser inserida numa base em papel Paraná que, além do
+  lote atribuído, deve se estender até metade da largura das ruas que o
+  confrontam, ou até a borda do mapa, se for o caso;
+- Representar na base da maquete a topografia indicada na planta de
+  locação --- as bases de todas as maquetes devem partir da curva de
+  nível mais baixa no mapa da @fig:insulae, e cada curva de nível deve
+  corresponder a uma folha de papel Paraná de 1 mm.
 
-Ver mais indicações de construção e apresentação no croquis anexo.
+Ver mais indicações de construção e apresentação no croquis da
+@fig:diretrizes.
+
+![Diretrizes de implantação das moradas de casas nos lotes de Ammaia](/assets/media/vernacular-diretrizes.jpg){#fig:diretrizes .outset .line}
 
 # Avaliação #
 
