@@ -13,26 +13,42 @@ PANDOC := docker run --rm -v "`pwd`:/data" \
 JEKYLL := palazzo/jekyll-pandoc:$(JEKYLL_V)-$(PANDOC_V)
 
 ASSETS  = $(wildcard assets/*)
-AULA    = $(wildcard _aula/*.md)
-SLIDES  = $(patsubst _aula/%.md,slides/%/index.html,$(AULA))
 SASS    = _revealjs-settings.scss \
 					mixins.scss settings.scss theme.scss
-MARKDOWN = $(patsubst _aula/%.md,docs/%.md,$(AULA))
+
+AULA    = $(wildcard _src/aula/*.md)
+PLAN    = $(wildcard _src/plano/*.md)
+TRAB    = $(wildcard _src/trabalho/*.md)
+AULA_GFM= $(patsubst _src/aula/%.md,_aula/%.md,$(AULA))
+PLAN_GFM= $(patsubst _src/plano/%.md,_plano/%.md,$(PLAN))
+TRAB_GFM= $(patsubst _src/trabalho/%.md,_trabalho/%.md,$(TRAB))
+SLIDES  = $(patsubst _src/aula/%.md,slides/%/index.html,$(AULA))
 
 # {{{1 Recipes
 #      =======
-docs: $(MARKDOWN)
-
-docs/%.md : _aula/%.md biblio.yaml defaults.yaml
-	pandoc -o $@ -d _data/defaults.yaml $<
-
 .PHONY : _site
-_site : $(SLIDES)
+_site : docs
 	@echo "####################"
-	@docker run --rm -v "`pwd`:/srv/jekyll" \
-		$(JEKYLL) /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
+	bundle exec jekyll build --future
 
-slides/%/index.html : _aula/%.md _data/revealjs.yaml \
+docs: $(AULA_GFM) $(PLAN_GFM) $(TRAB_GFM) $(SLIDES)
+
+_aula/%.md : _src/aula/%.md biblio.yaml defaults.yaml
+	@-mkdir -p $(@D)
+	@pandoc -o $@ -d _data/defaults.yaml $<
+	@echo "$@"
+
+_plano/%.md : _src/plano/%.md biblio.yaml defaults.yaml
+	@-mkdir -p $(@D)
+	@pandoc -o $@ -d _data/defaults.yaml $<
+	@echo "$@"
+
+_trabalho/%.md : _src/trabalho/%.md biblio.yaml defaults.yaml
+	@-mkdir -p $(@D)
+	@pandoc -o $@ -d _data/defaults.yaml $<
+	@echo "$@"
+
+slides/%/index.html : _src/aula/%.md _data/revealjs.yaml \
 	biblio.yaml assets/css/revealjs-main.scss $(SASS)
 	@-mkdir -p $(@D)
 	@$(PANDOC) -o $@ -d _data/revealjs.yaml $<
@@ -42,17 +58,10 @@ slides/%/index.html : _aula/%.md _data/revealjs.yaml \
 assets/css/%.scss : _sass/%.scss
 	@-mkdir -p assets/css
 	@cp $< $@
-	@echo "$@ atualizado."
+	@echo "$@"
 
 .PHONY : serve
-serve : $(SLIDES)
+serve : docs
 	@echo "####################"
-	@docker run --rm -v "`pwd`:/srv/jekyll" \
-		-h "0.0.0.0:127.0.0.1" -p "4000:4000" \
-		$(JEKYLL) jekyll serve --future
-
-.PHONY : clean
-clean :
-	-@rm -rf *.aux *.bbl *.bcf *.blg *.fdb_latexmk *.fls *.log *.run.xml \
-		tau0005-*.tex
-# vim: set foldmethod=marker shiftwidth=2 tabstop=2 expandtab :
+	@bundle exec jekyll serve --future
+# vim: set foldmethod=marker shiftwidth=2 tabstop=2 :

@@ -197,7 +197,7 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
 # Conversion
-markdown: Pandoc
+markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
@@ -214,9 +214,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-pandoc:
-  extensions:
-    - defaults: "_data/defaults.yaml"
 relative_links:
   enabled: true
   collections: true
@@ -245,7 +242,6 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-data
-  - jekyll-pandoc
   - jekyll-relative-links
   - jekyll-seo-tag
   - jekyll-sitemap
@@ -321,7 +317,7 @@ defaults:
       layout: single
       read_time: true
       show_date: true
-      #toc: true
+      toc: true
   # _plano
   - scope:
       path: ""
@@ -331,6 +327,7 @@ defaults:
       layout: single
       read_time: true
       show_date: false
+      toc: true
       sidebar:
         nav: "plano"
       header:
@@ -346,6 +343,7 @@ defaults:
       layout: single
       read_time: false
       show_date: false
+      toc: true
       sidebar:
         nav: "trabalho"
   # _posts

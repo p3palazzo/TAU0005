@@ -1,9 +1,8 @@
 ---
 title    : "História da Arquitetura e da Arte I"
 author_profile: true
-classes: wide
 read_time: false
-toc: false
+toc: true
 header:
   overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor\'s_Dream_(1848).jpeg
   overlay_filter: 0.5
@@ -115,9 +114,8 @@ venustas:
     btn_class : "btn btn--inverse btn--small"
 ---
 
-# Introdução à arquitetura tradicional #
+## Introdução à arquitetura tradicional ##
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
 Objetivo de aprendizagem
 
 : Dominar algumas convenções fundamentais da arquitetura tradicional e
@@ -126,15 +124,12 @@ Objetivo de aprendizagem
 Avaliação
 
 : [Atividade de nivelamento: fórum de Ammaia](/_trabalho/nivelamento.md)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-```{=html}
-{% include feature_row id="intro" %}
-```
+{% include feature_row id="intro" %}{: .full}
 
-# Unidade I · Elementos da construção #
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+## Unidade I · Elementos da construção ##
+
 Objetivo de aprendizagem
 
 : Manipular componentes construtivos tradicionais em estruturas
@@ -144,15 +139,12 @@ Objetivo de aprendizagem
 Avaliação
 
 : [Trabalho I: Construção](/_trabalho/vernacular.md)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-```{=html}
-{% include feature_row id="firmitas" %}
-```
+{% include feature_row id="firmitas" %}{: .full}
 
-# Unidade II · Elementos de composição #
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+## Unidade II · Elementos de composição ##
+
 Objetivo de aprendizagem
 
 : Articular espaços com formas geométricas definidas, usando os
@@ -162,15 +154,12 @@ Objetivo de aprendizagem
 Avaliação
 
 : [Trabalho II: Composição](/_trabalho/espacial.md)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-```{=html}
-{% include feature_row id="utilitas" %}
-```
+{% include feature_row id="utilitas" %}{: .full}
 
-# Unidade III · Fazer arquitetura #
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: half
+## Unidade III · Fazer arquitetura ##
+
 Objetivo de aprendizagem
 
 : Dominar os elementos da arquitetura erudita e ser capaz de as
@@ -181,9 +170,6 @@ Objetivo de aprendizagem
 Avaliação
 
 : [Trabalho III: Analítico](/_trabalho/analitico.md)
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-```{=html}
-{% include feature_row id="venustas" %}
-```
+{% include feature_row id="venustas" %}{: .full}
 

@@ -16,8 +16,6 @@ plano:
         url  : "/plano/objetivos/"
       - title: "Metodologia"
         url  : "/plano/metodologia/"
-      - title: "Apoio à turma"
-        url  : "/plano/apoio/"
       - title: "Avaliação"
         url  : "/plano/avalia/"
       - title: "Leitura e estudo"

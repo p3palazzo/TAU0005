@@ -1,3 +1,6 @@
+from: markdown
+to: markdown_phpextra+yaml_metadata_block-header_attributes
+standalone: true
 data-dir: _data
 metadata:
   bibliography: _data/biblio.yaml
