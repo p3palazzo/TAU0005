@@ -8,7 +8,7 @@ header:
 tagline: |
   Desenho à mão –
   Desenho no computador –
-  Maquetes físicas –
+  Maquetes físicas
 ---
 
 Para fazer as atividades da disciplina, você vai precisar de um conjunto

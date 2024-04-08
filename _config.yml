@@ -346,6 +346,8 @@ defaults:
       layout: single
       read_time: false
       show_date: false
+      sidebar:
+        nav: "trabalho"
   # _posts
   - scope:
       path: ""
@@ -401,6 +403,3 @@ collections:
       - espacial.md
       - analitico.md
       - materiais.md
-      - desenho.md
-      - digitalizar.md
-      - maquete.md

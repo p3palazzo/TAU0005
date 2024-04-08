@@ -22,3 +22,19 @@ plano:
         url  : "/plano/avalia/"
       - title: "Leitura e estudo"
         url  : "/plano/bibliografia/"
+
+trabalho:
+  - title: "Atividades avaliativas"
+    children:
+      - title: "Atividade de nivelamento"
+        url  : "/trabalho/nivelamento/"
+      - title: "Trabalho I: Construção"
+        url  : "/trabalho/vernacular/"
+      - title: "Trabalho II: Composição"
+        url  : "/trabalho/espacial/"
+      - title: "Trabalho III: Analítico"
+        url  : "/trabalho/analitico/"
+  - title: "Diretrizes para elaboração dos trabalhos"
+    children:
+      - title: "Instrumentos e materiais"
+        url  : "/trabalho/materiais/"
