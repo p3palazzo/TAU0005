@@ -1,12 +1,6 @@
 ---
 title: "Avaliação"
 date: 2023-03-28
-header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
-  caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
-  actions:
-  - label: "Voltar ao Plano de ensino"
-    url  : /plano/
 tagline: |
   As suas atividades avaliativas –
   Sobre criatividade e originalidade
@@ -15,21 +9,21 @@ trabalhos:
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Киргизские_кибитки_на_реке_Чу-crop.jpg
     title     : "Atividade de nivelamento"
     excerpt: |
-      Cabana primitiva
+      Traçado regulador: fórum de Ammaia
 
       Peso: 10 pontos
-    url       : "/trabalho/cabana/"
-    btn_label : "Entrega 18 de abril"
+    url       : "/trabalho/nivelamento/"
+    btn_label : "Ementa"
     btn_class : "btn btn--inverse btn--small"
 
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-Johan_Christian_Dahl_-_View_of_Hjelle_in_Valdres_-_NG.M.00426-021_-_National_Museum_of_Art_Architecture_and_Design-crop.jpg
     title     : "Trabalho I"
     excerpt: |
-      Edículas vernáculas
+      Construção
 
       Peso: 20 pontos
     url       : "/trabalho/vernacular/"
-    btn_label : "Entrega 16 de maio"
+    btn_label : "Ementa"
     btn_class : "btn btn--inverse btn--small"
 
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/640px-hagia_sophia-29a_Coupe_longitudinale_et_vue_sur_latrium-crop.jpg
@@ -38,18 +32,18 @@ trabalhos:
       Composição espacial
 
       Peso: 30 pontos
-    url       : "/trabalho/volumes"
-    btn_label : "Entrega 13 de junho"
+    url       : "/trabalho/espacial/"
+    btn_label : "Ementa"
     btn_class : "btn btn--inverse btn--small"
 
   - image_path: https://hcommons.org/app/uploads/sites/1002372/2022/03/analytique-crop.jpg
     title     : "Trabalho III"
     excerpt: |
-      Analítico com ordens clássicas
+      Analítico: abóbada ou laçaria
 
       Peso: 40 pontos
-    url       : "/trabalho/classico/"
-    btn_label : "Entrega 11 de julho"
+    url       : "/trabalho/analitico/"
+    btn_label : "Ementa"
     btn_class : "btn btn--inverse btn--small"
 ---
 

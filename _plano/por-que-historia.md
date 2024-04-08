@@ -1,21 +1,16 @@
 ---
 title: "Por que estudar história da arquitetura"
 date: 2023-03-28
-header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
-  caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
-  actions:
-  - label: "Voltar ao Plano de ensino"
-    url  : /plano/
+tagline:  "As três crises da arquitetura e a resposta da história"
 ---
 
 Por que estudar arquitetura tradicional em pleno século
-XXI? A resposta a essa pergunta muda sem parar desde que a
-História começou a ser ensinada nos cursos de Arquitetura, uns 200 anos
+[XXI]{.smallcaps}? A resposta a essa pergunta muda sem parar desde que a
+História começou a ser ensinada nos cursos de Arquitetura, uns duzentos anos
 atrás. Para o historiador francês Ivan Jablonka, "o passado é um país
 estrangeiro". O que se estuda como sendo *história*, portanto, é algo
 que não tem relação direta com as práticas da atualidade. Isso vale
-também para a história da arquitetura. No século XIX, as
+também para a história da arquitetura. No século [XIX]{.smallcaps}, as
 cadeiras de história nas escolas de Belas-Artes serviam para mostrar
 estilos distantes da prática e da vivência dos alunos. Quando essas
 escolas ensinavam a *fazer* arquitetura clássica, o que se estudava como
@@ -36,7 +31,7 @@ importante e legítimo por si mesmo.
 
 Mas os períodos de crise colocam a teoria em xeque e ressaltam a
 relevância do questionamento crítico que a história oferece para a
-disciplina da arquitetura como um todo. No século XXI, a
+disciplina da arquitetura como um todo. No século [XXI]{.smallcaps}, a
 arquitetura está enfrentando três crises ao mesmo tempo.
 
 A primeira é uma crise ambiental:
@@ -66,7 +61,7 @@ A terceira é uma crise identitária:
 
 Cada uma dessas três crises mostra um problema com o paradigma dominante
 da arquitetura contemporânea. São esses três problemas que aproximam o
-conteúdo crítico na disciplina de TAU 0005 dos desafios
+conteúdo crítico na disciplina de [TAU 0005]{.smallcaps} dos desafios
 contemporâneos da arquitetura. Cada crise é a motivação para um dos
 nossos objetivos de aprendizagem. Esses objetivos
 resgatam lições da arquitetura tradicional para alcançar um processo

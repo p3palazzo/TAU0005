@@ -322,6 +322,21 @@ defaults:
       read_time: true
       show_date: true
       #toc: true
+  # _plano
+  - scope:
+      path: ""
+      type: "plano"
+    values:
+      author_profile: false
+      layout: single
+      read_time: true
+      show_date: false
+      sidebar:
+        nav: "plano"
+      header:
+        overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
+        caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
+        overlay_filter: 0.5
   # _trabalho
   - scope:
       path: ""
@@ -369,6 +384,7 @@ collections:
     output: true
     permalink: /:collection/:name/
     order:
+      - index.md
       - por-que-historia.md
       - sobre-disciplina.md
       - objetivos.md
@@ -380,10 +396,10 @@ collections:
     output: true
     permalink: /:collection/:name/
     order:
-      - cabana.md
+      - nivelamento.md
       - vernacular.md
-      - volumes.md
-      - classico.md
+      - espacial.md
+      - analitico.md
       - materiais.md
       - desenho.md
       - digitalizar.md

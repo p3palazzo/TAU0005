@@ -19,19 +19,22 @@ header:
 sidebar:
 - title: "Leitura obrigatória"
   text: |
-    - *História da arquitetura mundial* capítulo 9 "Arquitetura gótica"
-    - Ching, *Arquitetura: forma espaço e ordem* capítulo 6 "Proporção e escala"
+    *História da arquitetura mundial* capítulo 9 "Arquitetura gótica"
+
+    Ching, *Arquitetura: forma espaço e ordem* capítulo 6 "Proporção e escala"
 - title: "Leitura sugerida"
   text: |
-    - Fletcher, [*History of architecture* (1961)](https://archive.org/details/historyofarchite0000flet/) 271–320, 365–378, 395–437
-    - Duby, *História Artística da Europa* t. [II]{.smallcaps} 152–157, 220–237, 258–277
+    Fletcher, [*History of architecture*
+    (1961)](https://archive.org/details/historyofarchite0000flet/) 271–320,
+    365–378, 395–437
+
+    Duby, *História Artística da Europa* II:152–157, 220–237,
+    258–277
 ---
 
 # Proporção e estética #
 
-. . .
-
-::: align-right
+::: third
 ![Princípios vitruvianos](https://hcommons.org/app/uploads/sites/1002372/2022/03/vitruvius-firmitas-utilitas-venustas.png){#fig:triade .line}
 :::
 
@@ -45,6 +48,10 @@ forma" é um *processo* recursivo de elaboração de um edifício
 [@alexander:2002nature, 2:299] que permite realizar os três objetivos
 fundamentais da arquitetura --- a tríade vitruviana de solidez,
 utilidade e beleza ([@fig:triade]) [@vitruvio:2007tratado, I:iii].
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: full
+&nbsp;
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Proporções e teorias estéticas ##
@@ -63,7 +70,7 @@ seção áurea e a teoria das "geometrias sagradas" [@bonell:1999divina;
 @doczi:2008poder] se desenvolveu.
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::: {#fig:zeising .columns .outset}
+:::::::::::::::::::::::::::::::::::::::: {#fig:zeising .columns}
 ::: {.column width=50%}
 ![corpo humano](https://hcommons.org/app/uploads/sites/1002372/2022/03/neuelehrevondenp00zeis_0089.png){#fig:zeisingA .line}
 :::

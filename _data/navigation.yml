@@ -1,4 +1,24 @@
 # main links
 main:
-  - title: ""
-    url: "#"
+  - title: 'Moodle <i class="ai ai-1.5x ai-moodle"></i>'
+    url: "https://aprender3.unb.br/course/view.php?id=21951"
+
+plano:
+  - title: "Plano de ensino"
+    children:
+      - title: "Normas gerais"
+        url  : "/plano/"
+      - title: "Por que estudamos história da arquitetura"
+        url  : "/plano/por-que-historia/"
+      - title: "Sobre a disciplina"
+        url  : "/plano/sobre-disciplina/"
+      - title: "Objetivos de aprendizagem"
+        url  : "/plano/objetivos/"
+      - title: "Metodologia"
+        url  : "/plano/metodologia/"
+      - title: "Apoio à turma"
+        url  : "/plano/apoio/"
+      - title: "Avaliação"
+        url  : "/plano/avalia/"
+      - title: "Leitura e estudo"
+        url  : "/plano/bibliografia/"

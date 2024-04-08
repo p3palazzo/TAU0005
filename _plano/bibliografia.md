@@ -1,12 +1,6 @@
 ---
 title: "Leitura e estudo"
 date: 2023-03-28
-header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor%27s_Dream_(1848).jpeg
-  caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
-  actions:
-  - label: "Voltar ao Plano de ensino"
-    url  : /plano/
 tagline: |
   Leituras semanais –
   Livro-texto –
@@ -25,17 +19,17 @@ conteúdo e sobre a aplicação desse conhecimento nas tarefas. Por isso,
 trate sempre de fazer as leituras com antecedência e de trazer
 o seu trabalho em andamento para orientação.
 
-## Notas de aula ##
+# Notas de aula #
 
-As notas de aula formam o tronco central de TAU 0005. Elas
-estão precisamente alinhadas com os tópicos de cada semana e com as
-competências de cada Unidade. A cada semana, você encontra no Moodle as
-notas de aula escritas e ilustradas que correspondem ao conteúdo das
-aulas expositivas.
-Estude esse conteúdo com atenção, pois ele é essencial para
+As notas de aula formam o tronco central de  [TAU 0005]{.smallcaps}.
+Elas estão precisamente
+alinhadas com os tópicos de cada semana e com as competências de cada
+Unidade. A cada semana, você encontra no Moodle as notas de aula
+escritas e ilustradas que correspondem ao conteúdo das aulas
+expositivas. Estude esse conteúdo com atenção, pois ele é essencial para
 compreender o que esperamos de você nas atividades.
 
-## Livro-texto ##
+# Livro-texto #
 
 O livro-texto oferece um panorama de diferentes culturas arquitetônicas
 do mundo antigo e medieval, cada uma no seu respectivo capítulo. Assim,
@@ -48,7 +42,7 @@ problemas que estaremos abordando.
   <span class="Z3988" title="url_ver=Z39.88-2004&amp;ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fzotero.org%3A2&amp;rft_id=urn%3Aisbn%3A978-85-8055-038-2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=A%20hist%C3%B3ria%20da%20arquitetura%20mundial&amp;rft.place=Porto%20Alegre&amp;rft.publisher=Bookman&amp;rft.aufirst=Michael&amp;rft.aulast=Fazio&amp;rft.au=Michael%20Fazio&amp;rft.au=Marian%20Moffett&amp;rft.au=Lawrence%20Wodehouse&amp;rft.au=Alexandre%20Salvaterra&amp;rft.date=2011&amp;rft.isbn=978-85-8055-038-2&amp;rft.language=pt-BR"></span>
 </div>
 
-## Outras leituras ##
+# Outras leituras #
 
 Além do livro-texto, indicamos regularmente outros textos que aprofundam
 os temas históricos ou teóricos tratados ao longo do semestre. As
@@ -68,13 +62,13 @@ Biblioteca", ou ainda na área de arquivos do Moodle.
 </div>
 
 
-## eBooks da "Minha Bilbioteca" ##
+# eBooks da "Minha Bilbioteca" #
 
 <i class="fas fa-info-circle"></i>
 
 : Como acessar os e-books da nossa bibliografia?
 
-<!– –>
+<!-- -->
 
 a. Acesse o site da [Biblioteca Central](https://bce.unb.br). Localize o
    link para as `Bases de dados de e-books > Minha Biblioteca` conforme a
@@ -91,7 +85,7 @@ c. No canto superior direito, digite os termos de busca e localize o
 
 ![Pesquisa](https://hcommons.org/app/uploads/sites/1002372/2022/01/bce-c.jpg){#fig:bce-c width="50%"}
 
-## Tratados de arquitetura tradicional e clássica ##
+# Tratados de arquitetura tradicional e clássica #
 
 As obras indicadas abaixo são os pontos de partida mais indicados para a
 elaboração dos trabalhos, e devem ser estudadas com afinco. Elas estão
@@ -134,7 +128,7 @@ disponíveis na área de arquivos do Aprender 3 ou no link indicado.
 <i class="fas fa-check-circle"></i>
 
 ~ Há um grande número de edições e traduções do tratado de Vitrúvio
-  disponíveis online, produzidas desde o século XV até os
+  disponíveis online, produzidas desde o século  [XV]{.smallcaps} até os
   dias de hoje. Algumas têm ilustrações que facilitam a compreensão do
   texto, com destaque para a versão italiana de [Cesare Cesariano
   (1521)][], a tradução francesa de [Claude Perrault (1673)][] e a
@@ -144,12 +138,12 @@ disponíveis na área de arquivos do Aprender 3 ou no link indicado.
 
 ~ A *Enciclopédia prática* de Pereira da Costa é um compêndio exaustivo
   de sistemas e técnicas de construção produzido em torno da metade do
-  século XX. Por causa disso, além da construção
+  século [XX]{.smallcaps}. Por causa disso, além da construção
   tradicional, ela inclui uma série de sistemas modernos em concreto
   (betão), aço e outros materiais. Exerça o seu discernimento ao
   consultar essa referência!
 
-## Manuais de desenho e maquete ##
+# Manuais de desenho e maquete #
 
 Você deve aprender muitas convenções de representação na disciplina
 Desenho Arquitetônico. Em qualquer caso, as indicações de leitura abaixo
@@ -171,7 +165,7 @@ eletrônico pela BCE.
 </div>
 
 
-## Bibliografia básica ##
+# Bibliografia básica #
 
 A bibliografia básica representa um corpo de conhecimentos mínimo para
 entender o conteúdo da disciplina, mas não esgota as referências

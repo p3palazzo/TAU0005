@@ -3,6 +3,7 @@ title   : "Composição espacial"
 subtitle: "Elementos de composição"
 item: "Atividade II"
 date: 2023-06-13
+output: false
 header:
   overlay_image: https://hcommons.org/app/uploads/sites/1002372/2022/02/29a_Coupe_longitudinale_et_vue_sur_latrium-mirror.jpg
   caption: "Basílica de Santa Sofia, Constantinopla"

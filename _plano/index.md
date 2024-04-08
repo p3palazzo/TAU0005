@@ -1,19 +1,10 @@
 ---
 title: "Plano de ensino"
 permalink: /plano/
-author_profile: true
 tagline: |
   História do urbanismo, da arquitetura e da arte no contexto de seus
   condicionantes sociais, econômicos e políticos, desde os primórdios da
   civilização até o gótico.
-read_time: false
-toc: false
-header:
-  overlay_image: https://upload.wikimedia.org/wikipedia/commons/9/96/The_Professor\'s_Dream_(1848).jpeg
-  caption: "Charles Robert Cockerell, [Sonho do professor](https://commons.wikimedia.org/wiki/File:The_Professor's_Dream_(1848).jpeg), 1848"
-  actions:
-  - label: "Programa e cronograma"
-    url  : "/"
 ---
 
 <!--
@@ -31,8 +22,6 @@ header:
    -5. [Que materiais você precisa ter para fazer os trabalhos ?](../_trabalho/materiais.md) [>_<]
    -
    -->
-
-## Normas gerais ##
 
 ### Aprovação na disciplina ###
 
