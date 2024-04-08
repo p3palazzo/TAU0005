@@ -3,7 +3,7 @@ title: "Cabana primitiva"
 subtitle: "Arquitetura tradicional"
 item: "Atvidade de nivelamento"
 date: 2023-04-18
-output: false
+published: false
 tagline: |
   <dl>
     <dt>Objetivo</dt>
