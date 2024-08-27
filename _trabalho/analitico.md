@@ -68,7 +68,7 @@ arquitetura, e a sua expressão particular no estilo erudito de cada
 região e período histórico.
 
 Parcialmente inspirado em @gabriel:2004classical, @alexander:2002process
-e @calder:2019architecture, vamos considerar que os princípios
+e @calder:2021architecture, vamos considerar que os princípios
 universais da arquitetura se resumem a:
 
  1. Antropomorfismo e unidade da composição;
