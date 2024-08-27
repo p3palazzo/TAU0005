@@ -25,7 +25,7 @@ tagline: |
 > <footer>Harbeson, [*The study of architectural design*](https://babel.hathitrust.org/cgi/pt?id=mdp.39015014100054&view=1up&seq=25), 1926, p. 27.</footer>
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
-# Ementa #
+# Contexto #
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: align-right
 ![Léon Krier, Elementos da construção vernácula e elementos da arquitetura clássica](https://i.pinimg.com/564x/8e/38/71/8e3871f9e36821640ceb47adefa98b05.jpg){#fig:krier-classical}
@@ -48,6 +48,8 @@ Belas-Artes, a obra desses arquitetos demonstra a disciplina, o rigor
 gráfico e a atenção para proporções e detalhes, derivadas dos seus
 estudos classicistas.
 
+## Ordens clássicas ##
+
 As "cinco ordens" da arquitetura clássica foram codificadas como um
 cânone relativamente tarde, nos tratados de autores italianos como
 Serlio, Vinhola (Vignola) e Palladio, em torno da metade do século [XVI]{.smallcaps}.
@@ -55,7 +57,7 @@ No entanto, elas não são uma "invenção" arbitrária de algumas pessoas,
 mas o resultado da consolidação milenar de práticas construtivas,
 costumes projetuais e refinamentos estéticos.
 
-* * * *
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
 
 ![Ordens clássicas segundo Claude Perrault, 1683](https://i.pinimg.com/originals/3a/c4/61/3ac461cf9ecc2e18cf670dd406c07bff.jpg){#fig:perrault}
 
@@ -72,19 +74,6 @@ colunas ou pilastras estão embutidas numa parede portante, elas podem
 contribuir literalmente com o contraventamento da estrutura, ou
 simbolicamente como representação de uma certa lógica construtiva
 tradicional e como expressão do *decoro*, ou dignidade do projeto.
-
-Por tudo isso, na sequência dos nossos estudos de construção
-tradicional, vamos buscar a disciplina e o rigor formal da arquitetura
-erudita, propondo:
-
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
-> Realizar um estudo analítico de uma edícula com um único ambiente
-> interno, compreendendo uma ordem clássica. A edícula será implantada
-> num espaço aberto, e deve ornar e dignificar o espaço público mediante
-> o uso correto e elegante dos elementos da arquitetura clássica. A
-> composição da prancha deve ressaltar as proporções e os detalhes da
-> arquitetura clássica.
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 
 ## Princípios da arquitetura tradicional ##
 
@@ -104,8 +93,23 @@ contemporâneas:
  8. Inventário restrito e canônico de elementos plásticos;
  9. Materiais naturais e regionais;
 10. Cadeia produtiva local.
- 
-# Produto #
+
+#  Ementa #
+
+Por tudo isso, na sequência dos nossos estudos de construção
+tradicional, vamos buscar a disciplina e o rigor formal da arquitetura
+erudita, propondo:
+
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: epigraph
+> Realizar um estudo analítico de uma edícula com um único ambiente
+> interno, compreendendo uma ordem clássica. A edícula será implantada
+> num espaço aberto, e deve ornar e dignificar o espaço público mediante
+> o uso correto e elegante dos elementos da arquitetura clássica. A
+> composição da prancha deve ressaltar as proporções e os detalhes da
+> arquitetura clássica.
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+
+## Produto ##
 
 Uma edícula de construção e composição eruditas, com um único volume
 interno, implantada num ambiente público à sua escolha.
